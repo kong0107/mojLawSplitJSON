@@ -1,0 +1,288 @@
+{
+	"法規性質": "命令",
+	"英文法規名稱": "Regulations for Administration on Satellite Communication Services",
+	"中文法規名稱": "衛星通信業務管理規則",
+	"法規網址": "http://law.moj.gov.tw/Eng/LawClass/LawContent.aspx?PCODE=K0060046",
+	"最新英文異動日期": "20131007",
+	"附件": [
+		"http://law.moj.gov.tw/Eng/Law/law_getfile.ashx?FileId=0000001474",
+		"http://law.moj.gov.tw/Eng/Law/law_getfile.ashx?FileId=0000001475",
+		"http://law.moj.gov.tw/Eng/Law/law_getfile.ashx?FileId=0000001476",
+		"http://law.moj.gov.tw/Eng/Law/law_getfile.ashx?FileId=0000001477",
+		"http://law.moj.gov.tw/Eng/Law/law_getfile.ashx?FileId=0000001478",
+		"http://law.moj.gov.tw/Eng/Law/law_getfile.ashx?FileId=0000001479",
+		"http://law.moj.gov.tw/Eng/Law/law_getfile.ashx?FileId=0000001480",
+		"http://law.moj.gov.tw/Eng/Law/law_getfile.ashx?FileId=0000001481",
+		"http://law.moj.gov.tw/Eng/Law/law_getfile.ashx?FileId=0000001482",
+		"http://law.moj.gov.tw/Eng/Law/law_getfile.ashx?FileId=0000001483",
+		"http://law.moj.gov.tw/Eng/Law/law_getfile.ashx?FileId=0000001484"
+	],
+	"沿革內容": "1. 60 Articles promulgated in full by the Ministry of Transportation and Communications（MOTC）on June 11, 1998. Ref：Jiao-Yu-Fa Tze No. 8722\r\n2. The amendment of Articles 1, 2, 4, 5, 8, 9, 12, 15, 17 to 19, 21, 28, 29, 31, 32, 36, 37, 40, 41, 49, 50, 55 and 58, and addition of Articles 17-1, 55-1 and 55-2 ; annulled Articles 22, 23 and 35 promulgated by MOTC on Aug. 9, 2001. Ref：Jiao-Yu-Fa Tze No. 00055\r\n3. The amendment of Articles 2, 9 and 59 promulgated by MOTC on Sept. 19, 2002 . Ref： Jiao-Yu-Fa Tze No. 091B000105\r\n4. The amendment of Articles 10 and 28 promulgated by MOTC on Mar. 6, 2003 .Ref ：Jiao-Yu-Fa Tze No. 092B000026\r\n5. The amendment of Article 5 promulgated by MOTC on Sept. 24, 2003. Ref：Jiao-Yu-Fa Tze No. 092B000090\r\n6. The amendment of Articles 12 to 14, 18, 50 and 56 promulgated by MOTC on Sept. 14, 2004. Ref：Jiao-Yu-Fa Tze No. 093B000069\r\n7. 59 Articles amended and promulgated in full by NCC on July 20, 2007. Ref ：Tung-Chuan-Fa Tze No.09605104361\r\n8. The amendment of Articles 5, 10, 13 to15, 17-1, 18, 20, 25, 27, 38, 45, 57, 58 promulgated by NCC on April 7, 2008. Ref：Jiao-Yu-Yin Tze No. 09741020360\r\n9. The amendment of Article 40 promulgated by NCC on Aug. 14, 2008. Ref：Jiao-Yu-Yin Tze No. 09741051840\r\n10. The amendment of Article 25 promulgated by NCC on Dec. 20, 2008. Ref：Jiao-Yu-Yin Tze No. 09741075280\r\n11. The amendment of Articles 8, 17, 23, 25, 34, 49 and 53, and addition of Article 12-1 promulgated by NCC on June 4, 2010. Ref：Jiao-Yu-Yin Tze No. 09941034210\r\n12. The amendment of Article 5 promulgated by NCC on April 18, 2012. Ref：Tung-Chuan-Yin Tze No. 10141021620\r\n13. The amendment of Article5、46 was hereby promulgated by the NCC on Oct.7, 2013, Ref. Order Tong-Chuan-Tong-Syun No10241031190",
+	"法規內容": [
+		{
+			"編章節": "Chapter I General provisions"
+		},
+		{
+			"條號": "Article 1",
+			"條文內容": "The administrative regulations have been promulgated in accordance with stipulations set forth under paragraph 6, Article 14 of the Telecommunications Act."
+		},
+		{
+			"條號": "Article 2",
+			"條文內容": "The terminologies the rules adopt are defined as follows：\r\n1. Satellite system: Referring to a system consisting of one or several satellites and equipment for controlling such satellite(s).\r\n2. Earth station: referring to telecommunications equipment for receiving wireless radio signal reception, processing and transmission between earth and the satellite system.\r\n3. Fixed earth station: Referring to an earth station that needs to be installed at a fixed location on the earth’s surface in order to carry out the communications.\r\n4. Mobile earth station: Referring to a mobile earth station containing satellite mobile terminal equipment or one that is not installed at a fixed location to carry out mobile communications.\r\n5. Transmission equipment: referring to the telecommunications equipment connecting a fixed earth station of the satellite communication network and other telecommunications networks. \r\n6. Satellite communications network: Referring to a communications network made up of a satellite system and earth stations. \r\n7. Satellite communications services: Referring to the service, an operator offers in wireless radio communications service utilizing a satellite telecommunications network.\r\n8. Satellite organizations: Referring to a local or foreign satellite institutes or organizations that operates or will be operated in space and has been cataloged by the International Telecommunications Union.\r\n9. Operator: Referring to operators who have been sanctioned by competent government authorities and are issued with a license to operate in the satellite communications service.\r\n10. User: Referring to subscribers who have registered with an operator to use the satellite communications service.\r\n11. Very Small Aperture Terminal: Referring to fixed earth station that its diameter of an antenna is below three meters."
+		},
+		{
+			"條號": "Article 3",
+			"條文內容": "The competent authority of this Regulation is of the National Communications Commission."
+		},
+		{
+			"條號": "Article 4",
+			"條文內容": "Satellite operations consist of the following two types:\r\n1. Fixed satellite communications services.\r\n2. Mobile satellite communications services.\r\nThe fixed satellite communications service operator who install the fixed earth station engage in international and national satellite Very Small Aperture Terminal leased-circuit business, satellite program relay business and other satellite leased-circuit business.\r\nThe mobile satellite communications service operator who install the earth station engage in international and national mobile satellite phone services, message satellite services, or mobile satellite paging services."
+		},
+		{
+			"條號": "Article 5",
+			"條文內容": "A foreign mobile satellite communication operator may choose one of the following means to render the mobile satellite communications service in Taiwan, the Republic of China:\r\nI. The operator is to apply for the concession operation per stipulated under Article 8.\r\nII. An operator may enter into a collaboration contract with an ROC satellite communication business, or a fixed communication service operator offering Internet service, and have the ROC satellite communication business, or the fixed communication service operator offering Internet service represent it in Taiwan to promote its satellite mobile communication service.\r\nA satellite communication service or a fixed communication service operator offering Internet service, seeking to represent (hereinafter referred to as the ROC representative) a foreign mobile satellite communication operator in promoting its satellite mobile communication service in the ROC, shall submit the application (Appendage XI), collaboration contract, business plan and other documents the competent government authorities specify to declare for the competent government authorities’ approval (the operating process is as depicted in Appendage XII).\r\nThe foresaid business plan shall state the following matters:\r\nI. Operating items.\r\nII. Operating area.\r\nIII. Communication mode.\r\nIV. Description for the foreign mobile satellite communication operator’s telecommunication equipment status:\r\n(I) System hierarchy, working theory (including the satellite system characteristic description) and the foreign satellite ground station and relay equipment.\r\n(II) The satellite electric transmission’s power distribution covering the region of the Republic of China.\r\n(III) Working frequency segment, frequency bandwidth, tuning method, aerial interfacing guideline and satellite ground station’s characteristic description.\r\n(IV) System service quality.\r\nV. Billing standard, calculation method, and the applicant’s account settlement method with the foreign mobile satellite communication operator.\r\nVI. Scheduled starring operating date and how the business is to be promoted.\r\nThe collaboration contract, specified in Paragraph 2, shall state the following matters:\r\nI. The contract’s validation period.\r\nII. The foreign mobile satellite communication operator is to commit to abiding by stipulations concerning communication surveillance bound by Article 52.\r\nIII. The ROC representative operator shall assume the obligations to be shouldered by the foreign party per the preceding stipulations.\r\nIV. The collaborating parties’ entitlement and obligation relation for promoting the business in the Republic of China (including relevant measures for safeguarding the consumer’s equity).\r\nAn applicant who is allowed to retroactively correct the incomplete documents to be submitted as specified in Paragraph 2, the competent government authorities shall notify the applicant to retroactively correct the documents within a prescribed deadline, and when failing to submit retroactive correction or submitting incomplete correction exceeding the deadline, the application is to be denied.\r\nThe competent government authorities is to approve, per Paragraph 2, the representation operating period based on the validation period stated in the collaboration contract; in a month’s period six months before the contract expiry, the ROC representative operator may submit the business profile, collaboration contract and other documents the competent government authorities specify to apply with the competent government authorities for an approval to continue running the representation business.\r\nWithout obtaining the competent government authorities’ approval, the ROC representative operator may not represent a foreign satellite communication operator to promote its business in the Republic of China.\r\nThe administrative regulatory fees, i.e. the concession fee, frequency utilization fee and the like, and other legally designated obligations required of the operators are to be shouldered by the ROC representative operator.\r\nWhen the ROC representative operator is given a ruling for abolishing the satellite communication service or the Internet service concession license, the competent government authorities shall abolish the approval granted to the operator for running the representation of the foreign mobile satellite communication service.\r\nThe ROC representative operator’s business management matters may commensurate to stipulations set forth under Article 46 through Article 54.\r\nThe operator who has been sanctioned by the competent government authorities – the Ministry of Transportation and Communications to represent a foreign mobile satellite communication operator for promoting its business in the Republic of China before the rules are formulated and announced, shall submit the business profile, and other documents the competent government authorities specify within a six-month period following the rules have been amended and implemented by April 18, 2012 to declare with the competent government authorities for an approval to continue running the representation business, with the representation period set to three years; when planning to continue the representation at expiry, the ROC representative operator shall submit the business profile and other documents the competent government authorities specify in a month’s period six months before the representation period expires to apply with the competent government authorities for an approval to continue running the representation business.\r\nThe foresaid ROC representative operator running the representation business shall catalog and verify the applicant’s identity and utilization purpose, and the acceptance of application purposes principally shall be for aviation and maritime enterprises; for inland utilization within the jurisdiction of the Republic of China, it shall be limited to the following circumstances:\r\nI. For utilization by government agencies (institutions) for national security, disaster prevention/rescue, and urgent operational communication.\r\nII. For utilization by private groups or organizations, such as incorporated entities, social organizations of incorporated entities and nonprofit incorporated entities and the like, for emergency rescue purposes.\r\nIII. For utilization by foreign incorporated entities for emergency communication. \r\nThe stipulations set forth under Paragraph 7 to Paragraph 9 shall also apply to the ROC representative operators approved per Paragraph 11.\r\nThe business management matters governing ROC representative operators approved by the commission per Paragraph 11, except Paragraph 1, Article 52 involving the content supply and that stipulated under Paragraph 2, may commensurate to stipulations set forth under Article 46 through Article 54."
+		},
+		{
+			"條號": "Article 6",
+			"條文內容": "An operator running the satellite communications service is to be sanctioned by competent government authorities and be issued with a license before the operator may begin to offer the service.\r\nThe competent government authorities re to routinely accept the application, and the starting date is to be announced by competent governing authorities depending on the actual circumstances.\r\nThe competent government authorities, in deregulating the satellite communications operation, may install a review council (hereinafter referred to as the council) charged with reviewing the concession application cases; stipulations governing the review council’s installation and review operations are to be announced by competent government authorities."
+		},
+		{
+			"條號": "Article 7",
+			"條文內容": "To enhance the citizens’ basic communications rights in providing telecommunications service to remote areas to achieve the objective of offering telecommunications prevalence, the operators are required to remit the telecommunications enterprise prevalence fund as regulated."
+		},
+		{
+			"編章節": "Chapter II Concession operation"
+		},
+		{
+			"條號": "Article 8",
+			"條文內容": "Those who apply to run the satellite communications services (the operating procedure is as depicted in Appendage 1), are required to submit the application (with the format as depicted in Appendage 2), business plan, certificate of financial means and other relevant specified documents to apply for an inception with competent government authorities.\r\nThe foresaid business plan is to disclose the following information:\r\n1. The operating categories.\r\n2. The operating regions.\r\n3. The telecommunications mode.\r\n4. The telecommunications equipment summary:\r\n(1) The system equipment development timetable.\r\n(2) The system framework and working theory (including description of the satellite system characteristics).\r\n(3) The satellite communications fixed earth station’s characteristics (including the wireless radio frequency planning) and anticipated installation location, quantity (to include the photocopied 1:1 topography map of Taiwan’s regional development version in 50,000 to 1 scale sold by the Ministry of the Interior, Department of Land Administration, making also the station location and operating angles, operating angle projection and antenna projection diagram).\r\n(4) The working frequency intervals, bandwidth, maximum transmission power, adjustment method and aerial interface guideline; of variable transmission power, description is to be included for the range of fluctuations in transmission power and fluctuation criteria.\r\n(5) The interface guideline for connecting with the other telecommunications networks, where the interface guideline is to adopt the technical guideline specified by competent government authorities, national standards, or existing telecommunications system interlinking criteria. \r\n(6) System service quality.\r\n5. Financial structure:\r\n(1) Companies already founded are required to submit the most recent three years’ financial statements, including the balance sheet, loss and gain report, shareholders’ change of equity report, cash flow report an the footnotes.\r\n(2) Founding companies are to submit the founders’ manifest, draft proposal of company articles of incorporation, share pledgers’ manifest and description data on paid-in capitalization.\r\n(3) The spreadsheet on foreign nationals’ shareholdings or percentage of share pledging (as depicted in Appendage 3).\r\n(4) Proof of documentation on the creditworthiness of shareholders or share pledgers holding five percent or more of the equity shares.\r\n(5) Forecast of capital source for the next five years and a capital utilization plan.\r\n(6) Forecast and compile the next five years’ balance sheets, loss and gain reports and cash flow reports. \r\n6. Technological capability and development plan:\r\n(1) The manager’s telecommunications professional knowledge and working experience.\r\n(2) The project design and maintenance description (the system design, layout and maintenance plan).\r\n(3) The five-year business promotions plan and anticipated objectives (including the market forecast, percentage of market share, estimated subscriber count, business promotion method and marketing survey report).\r\n7. Billing criteria and calculation method.\r\n8. Staffing mechanism:\r\n(1) Companies already founded are required to submit the company articles of incorporation, photocopied proof of documentation on company registration, directors manifest, auditors manifest, managers manifest, shareholders manifest for holding one percent or more of the shareholding (to be sequentially ranked by the percentage of shareholding from large to small).\r\n(2) Companies in the founding process are required to submit the founders manifest, draft proposal of company articles of incorporation, share pledgers manifest (to be sequentially ranked by the percentage of shareholding from large to small).\r\n9. Anticipated business starting date.\r\n10. Relevant measures for safeguarding the user’s equity.\r\n11. A business plan abstract, of information that can be cited and disclosed by competent government authorities.\r\n12. Miscellanies\r\nOf those failing to submit the mandated documents in full or the content of entries should be incomplete, the competent government authorities are to notify the applicant to submit correction within a prescribed deadline, and when failing to submit the correction retroactively or when the submission remains incomplete, the application will be refused.\r\nThose who apply for launching but exceeds the announced application acceptance deadline as stipulated under paragraph 2, Article 6, or the applicant has failed to submit the application or the business plan are barred from making retroactive correction and whose applications will be refused."
+		},
+		{
+			"條號": "Article 9",
+			"條文內容": "Of those applying to run the satellite communications operation, the minimum paid-in capitalization is as follows:\r\n1. The satellite fixed communications operation: at NT$ 100 million.\r\n2. The satellite mobile communications operation: at NT$ 500 million.\r\nThe applicant is to collect the entire amount of the minimum paid-in capitalization within the period specified under Article 14.\r\nThe applicant, who applies to run the satellite communications service and the satellite mobile communications service, is required to separately calculate whose minimum paid-in capitalization following the inception approval; the same also applies to an applicant who also runs the other type-I telecommunications enterprise operation, where the operation comes with a restriction on the minimum paid-in capitalization."
+		},
+		{
+			"條號": "Article 10",
+			"條文內容": "Those operate in the satellite communications service are limited to incorporated entity with share division of limited liability launched as per the Corporate Law, and whose chairman is to hold the nationality of the Republic of China; the total shares held by a foreign national shall comply with restrictions set by the rear section of paragraph 3, Article 2 of the Telecommunications Act."
+		},
+		{
+			"條號": "Article 11",
+			"條文內容": "The review of the concession application cases shall be made based on that stated in the business plan as a general principle, where the review categories and criteria are to be announced by competent government authorities separately depending on the specific type of operation."
+		},
+		{
+			"條號": "Article 12",
+			"條文內容": "Of application cases for operating the satellite communications service that fall under any one of the following circumstances, the competent government authorities are to notify the applicant to retroactively enlist correction within a prescribed deadline, and when failing to retroactive enlist correction or submitting incomplete correction, the application will be refused:\r\n1. When failing to remit the review fee as regulated.\r\n2. When violating stipulations set forth under Article 9.\r\n3. When violating stipulations set forth under Article 10.\r\nIn the wake of any of the circumstances stipulated under the preceding paragraph 2, following the applicant has been approved for the launching permit, the applicant’s permit is to be revoked."
+		},
+		{
+			"條號": "Article 12-1",
+			"條文內容": "In the instance where an applicant withdraws whose application case within a ten-day period following the case submission, the review fee is to be reimbursed without interest within a seven-day period effective from the following day the withdrawal application has been delivered.\r\nWhen an applicant’s application presented has been refused of acceptance as per stipulations set forth under paragraph 4, Article 8, the review fee is to be reimbursed without interest within a seven-day period from the following day the refused application ruling is delivered.\r\nIn the instance where the application submitted by an application is free of the foresaid stipulated circumstances but is refused as per stipulations set forth under paragraph 3 or paragraph 12 of Article 8, the review fee remitted and the interest accrued will not be reimbursed."
+		},
+		{
+			"條號": "Article 13",
+			"條文內容": "Following the concession application has been reviewed and approved, the applicant is to post the performance bond with component government authorities within a sixty-day period from the date the approval notice has been delivered, and following the posting of the performance bond, the competent government authorities are to issue a launching consent letter. When failing to post the performance bond as stipulated, the competent government authorities are to revoke the applicant’s approval.\r\nThe foresaid performance bond is set respectively to:\r\n1. The satellite fixed communications operation: at NT$ 7.5 million. \r\n2. The satellite mobile communications operation: at NT$ 25 million.\r\nThe foresaid performance bond shall be posted in the form of cash, local bank guarantee, and convertible certificates of time deposit with the claimant designated to the competent government authorities, or non-denominated government bonds.\r\nOf those posting the performance bond with local bank guarantee, the guaranteed period shall span from the date the performance bond is posted to over a three year and two month period following the date the consent letter is issued by competent government authorities.\r\nOf the foresaid performance guarantee period, the applicant is to file for an extension at the same time when filing for an extension to the validation period of the launching consent letter.\r\nThe applicant’s performance bond posted meeting stipulations set by Article 23 may be requested for reimbursement."
+		},
+		{
+			"條號": "Article 14",
+			"條文內容": "The applicant, upon securing the launching consent letter for operating the satellite communications operation, is required to complete the company inception or modification registration within a six-month period; those who are unable to complete the registration within the prescribed period are to state the reason prior to the expiry to apply for an extension with competent government authorities. The extension may not exceed the maximum of six months, and is limited to once only, and when exceeding the deadline, the competent government authorities are to revoke the launching consent letter and withhold the performance bond and interest accrued."
+		},
+		{
+			"條號": "Article 15",
+			"條文內容": "The validation period for the launching consent letter is set to three years. Of those who are unable to launch within the prescribed period and also legally obtain the concession license, the applicant is to state the reason to apply for an extension prior to the expiry of the filing period. The extension period may not exceed the maximum of one year, and is limited to once only. The launching consent letter will be invalidated when exceeding the deadline, and no reimbursed will be given on the performance bond and interest accrued."
+		},
+		{
+			"條號": "Article 16",
+			"條文內容": "The installation site and the operating frequency the applicant chooses for whose satellite telecommunications networking equipment shall avoid interfering with other legally operated stations.\r\nThe installation of fixed earth stations may not violate stipulations set by the flight safety standards, and airport, flight sit, aviation facilitation equipment’s peripheral building ban and restriction measure."
+		},
+		{
+			"條號": "Article 17",
+			"條文內容": "The applicant, when applying to develop a satellite communications network (the process flow is as depicted in Appendage 4), is required to submit the following documents to apply for the issuance of a satellite communications network installation approval certificate and frequency assignment with competent government authorities: \r\n1. The satellite communications network installation approval certificate application (as depicted in Appendage 5).\r\n2. Photocopy of the launching consent letter. \r\n3. Photocopy of the company registration proof of documentation.\r\n4. The project design and maintenance description documents: this should include detailed description for the satellite telecommunications networking framework diagram, satellite telecommunications networking operating method, signal transmitting method, development site and the like.\r\n5. Description data on the requirements of the interface, anticipated interconnecting points and communications protocol for interlinking to the networks run by other telecommunications enterprise operators.\r\n6. Proof of documents on the use of satellite authorized by a Satellite organization (not required when no filing is made for assigning the frequency).\r\n7. The surveillance satellite communications network equipment work’s project supervisor’s education and credential list (as depicted in Appendage VIII).\r\nOf the foresaid frequency assignment, the satellite fixed communications service applicant may present a request when applying to install the fixed earth stations."
+		},
+		{
+			"條號": "Article 17-1",
+			"條文內容": "The applicant, when installing the fixed earth station, is required to submit the following documents to apply for a satellite fixed earth station installation approval certificate and frequency assignment with competent government authorities:\r\n1. The satellite fixed earth station installation application (as depicted in Appendage 6).\r\n2. The frequency interference analysis and coordination datasheet (as depicted in Appendage 7), and the interference analysis and evaluation data.\r\n3. Proof of documentation on equipment specification and original manufacturer’s inspection and testing. \r\n4. The fixed earth station mounted on the rooftop of a building where the antenna exceeds a diameter of 3 meters is required to submit an original building structural sound certificate as assessed by a practicing architecture or a professional industrial structural engineer who is certified as required by law.\r\n5. Proof of documentation for authorized use of satellite by the Satellite organizations.\r\nOf the foresaid application for launching the fixed earth station, the applicant may present the filing when applying for the satellite communications network launching approval certificate.\r\nThe validation period for the fixed earth station launching approval certificate is set to one year. When unable to complete the launching within the prescribed deadline, the applicant is to state the reason within a month effective two months from the expiry to apply for a lunching extension with competent government authorities. The application for the launching extension may not exceed a six-month period, and is limited to once only."
+		},
+		{
+			"條號": "Article 18",
+			"條文內容": "The validation period of the satellite communications network launching approval certificate is set for two years. The applicant, upon securing the satellite communications network installation approval certificate, is required to develop the satellite communications network at the approved site, and those who are unable to complete the development in a two-year period are required to state the reason prior to expiry to apply for an extension. The extension period may not exceed the maximum of one year, and is limited to once only, and when exceeding the deadline, the company government authorities are to revoke the launching consent letter and withhold the performance bond and interest accrued.\r\nThose applying for an extension on the grounds of force majeure may apply for an extension according to the period of delay due to the incident, and are unrestricted by the foresaid extension deadline.\r\nWhen the extension period of the satellite communications network installation approval certificate as described in par 1 should exceed the validation of the installation consent letter, an extension is also to be filed to extend the validation of the launching consent letter. \r\nThe validation period of the satellite communications network installation approval certificate as cited in paragraph 1 may not exceed the validation period of the launching approval letter; one that involves modifying the initial business plan is to be implemented in accordance with stipulations set forth under paragraph 2, Article 26."
+		},
+		{
+			"條號": "Article 19",
+			"條文內容": "The applicant, upon completing installing the fixed earth station, is requited to submit the following documents to apply for a review inspection with competent government authorities, and following a satisfactory review inspection, the applicant is to be issued with a fixed earth station license before the applicant may begin to operate the equipment.\r\n1. Proof of documentation of recognition by a Satellite organization. \r\n2. Photocopy of the miscellaneous occupancy license when the structure has qualified to apply for a miscellaneous occupancy license as per the building laws and regulations.\r\n3. The measurement and testing report attesting that it complies with the electromagnetic frequency intensity guideline figures defined by competent government authorities.\r\nThe foresaid review inspection categories and satisfactory criteria are to be defined by competent government authorities."
+		},
+		{
+			"條號": "Article 20",
+			"條文內容": "The validation period for the fixed earth station license is set to five years; within a one-month period effective two months from the expiry date, the operator is to apply for a license reissue with competent government authorities, and the validation period of the new license is to begin on the following day when the old license’s validation period comes to expire.\r\nWhen applying for a reissue of the fixed earth station license, the competent government authorities may audit the state of operation of relevant fixed earth station facility; those failing the audit are notified for improvement to be adopted within a prescribed deadline, and those who fail to adopt improvement exceeding the deadline or continue to fail the audit will be refused of renewing the license.\r\nThe foresaid audit items and the qualification criteria are to be defined by competent government authorities."
+		},
+		{
+			"條號": "Article 21",
+			"條文內容": "The operator of a mobile earth station of small-scale earth station is required to file for a configuration certification and register with the operator before it may operate the station, except under any one of the following circumstances.\r\n1. The mobile earth station brought in by a foreign national on diplomatic visa, courtesy visa or short-term stay-over visa that is operated during the valid visa period. The same also applies to local citizens who enter the country using a temporary arrival/departure notification.\r\n2. Those who have been approved by a project approval to operate the station by competent government authorities."
+		},
+		{
+			"條號": "Article 22",
+			"條文內容": "The applicant, upon completing the satellite communications network development, is required to file for a review inspection by competent government authorities, and will be given proof of documentation of a satisfactory review inspection upon undergoing a satisfactory review inspection.\r\nThe foresaid review inspection items and qualification criteria are to be defined by competent government authorities."
+		},
+		{
+			"條號": "Article 23",
+			"條文內容": "The applicant, upon surpassing a satisfactory review inspection on whose satellite communications network path, is required to submit the following information to apply for the issuance of a concession license with competent government authorities, and is to be issued with a concession license following the competent government authorities’ approval and finalization, and the performance bond is to be reimbursed.\r\n1. The concession license application (as depicted in Appendage 10).\r\n2. The launching approval letter. \r\n3. Photocopy of the company registration proof of documentation.\r\n4. Proof of documentation attesting that the satellite communications network has undergone a satisfactory review inspection by competent government authorities.\r\n5. Proof of documentation attesting that the billing rates have been approved or voluntarily declared with competent government authorities.\r\n6. Proof of documentation attesting that the competent government authorities have approved the company’s business regulations.\r\n7. Proof of documentation attesting that the competent government authorities have approved the specimen of service contract the operator and the user have entered into."
+		},
+		{
+			"條號": "Article 24",
+			"條文內容": "The concession license is to disclose the following information: \r\n1. The operator name, representative and company location.\r\n2. The operating categories. \r\n3. The paid-in capitalization. \r\n4. The operating regions. \r\n5. The developing equipment.\r\n6. The validation period.\r\n7. The license issuing date."
+		},
+		{
+			"條號": "Article 25",
+			"條文內容": "The validation period of the concession license is set to ten years.\r\nWhen the validation period of the foresaid concession license comes to expire, those intended to continue the operation are required to apply for an approval with competent government authorities within a three-month period effective nine months form the expiry for a reissue of the concession license, and the validation period of the license will remain ten years; the review items and approval stipulations are to be announced by competent government authorities."
+		},
+		{
+			"條號": "Article 26",
+			"條文內容": "The operator is required to complete the implementation as per the content of the business plan declared in accordance with Article 8, and of any changes, the operator is required to state the reason and declare for an approval by competent government authorities; the mandated change items to be declared for approval are to be promulgated by competent government authorities.\r\nThe foresaid stipulation also applies before the applicant obtains the concession license."
+		},
+		{
+			"條號": "Article 27",
+			"條文內容": "The launching consent letter, the satellite communications network installation approval certificate, the satellite fixed earth station installation approval certificate, the earth station license, the concession license, or the assigned wireless radio frequencies, unless otherwise stipulated by law, may not be leased out, loaned out or transferred."
+		},
+		{
+			"編章節": "Chapter III Operations management"
+		},
+		{
+			"編章節": "Section I Equipment management"
+		},
+		{
+			"條號": "Article 28",
+			"條文內容": "The telecommunications equipment the operator install shall comply with the technical guideline specified by competent government authorities.\r\nThe operator is to adequately operate and maintain whose satellite communications network, enabling the various equipment operations to comply with stipulations set by relevant technical guideline; of any breach to the regulations, the competent government authorities may order the operator to adopt improvement within a prescribed deadline."
+		},
+		{
+			"條號": "Article 29",
+			"條文內容": "The location number encryption interlinking the satellite communications network the satellite mobile communications service operator launches and the other telecommunications networks are to be verified and assigned by competent government authorities. \r\nOf the international number encryption for interlinking a satellite mobile communications service operator’s satellite communications network and the other telecommunications networks, the operator is to secure the international number encryption on its own, and is to voluntarily declare the information with competent government authorities prior to using the numbers."
+		},
+		{
+			"條號": "Article 30",
+			"條文內容": "The antenna facility the operator installs at a fixed earth station shall be kept with a safety distance form high-voltage power lines, and of one with a height that exceeds 60 meters from ground surface shall come with aerial color coding and identification beacon to avoid endangering public safety.\r\nThe site where the operator installs the fixed earth station shall have ominous warning sign installed, together with adequate measures adopted. Aid warning sign shall also disclose the output power, where located, the telecommunications operator, authentication technician, date and the like. However, the restrictions exclude small-scale earth stations with an antenna measuring less than 1.2m and only equipped with receiving function."
+		},
+		{
+			"條號": "Article 31",
+			"條文內容": "The satellite mobile communications service operator is to install locally the fixed earth station and retransmitting equipment for interlinking whose satellite communications network and the other communications networks."
+		},
+		{
+			"條號": "Article 32",
+			"條文內容": "The satellite small-scale earth station networking operator is to install the main control’s fixed earth station (the main control earth station) and related equipment for use in controlling and managing whose satellite small-scale earth station network.\r\nOf the electric circuit connecting a satellite fixed communications service operator to its user’s equipment, the operator or the user is to lease from a long-distance or inner-city fixed networking operator, except where the connecting circuit is located within the same building."
+		},
+		{
+			"條號": "Article 33",
+			"條文內容": "The operator is to select and hire high-end telecommunications engineering personnel meeting the specified qualification to be in charge and to surveillance the satellite communications network’s development, maintenance and operation, who are to verify and sign the implementation daily log and maintenance daily log.\r\nThe foresaid implementation and maintenance daily logs are to be retained for at least one year, and when the competent government authorities dispatch inspector to audit the records, the operator shall supply the information."
+		},
+		{
+			"條號": "Article 34",
+			"條文內容": "The operator, when moving to terminate operating whose earth station equipment, is required to voluntarily declare with competent government authorities, and also to surrender and cancel whose station license; of one that fails to surrender and cancel whose station license, the competent government authorities may revoke the license. \r\nOf the foresaid station’s frequency transmitting devices, the operator is to operate the devices in accordance with relevant stipulations set by the Telecommunications regulated frequency transmitting devices management measure."
+		},
+		{
+			"條號": "Article 35",
+			"條文內容": "The telecommunications equipment installed by the operator and the user linking to other public telecommunications equipment shall meet the following criteria:\r\n1. It does not infringe others’ communications secrecy.\r\n2. An adequate telecommunications service quality is to be maintained.\r\n3. It does not damage the user or public telecommunications equipment.\r\n4. The operator’s telecommunications network and the public telecommunications networking equipment have a clear-cut liability dividing point.\r\nThe liability dividing point stated in the preceding paragraph 4 shall be voluntarily declared with competent government authorities."
+		},
+		{
+			"條號": "Article 36",
+			"條文內容": "Of operators who breach stipulations set forth under the preceding paragraph 1, the competent government authorities may order the operator to adopt improvement within a prescribed deadline, or restrict whose operation."
+		},
+		{
+			"條號": "Article 37",
+			"條文內容": "The operation of the fixed earth station, except the small-scale earth station, may only allow the adaptation of remote control when complying with the following four circumstances:\r\n1. Adequate measures have been taken to prevent individuals from entering or operating the fixed earth station.\r\n2. The high-end telecommunications engineering personnel responsible for the operation can swiftly arrive at the fixed earth station onsite to render necessary disposition.\r\n3. The remote control station is able to monitor and control the operation of a fixed earth station.\r\n4. In the event where a fixed earth station is tested or being notified to interfere the legal telecommunications, the remote control station is able to immediate stop the fixed earth station’s transmission work."
+		},
+		{
+			"條號": "Article 38",
+			"條文內容": "The operator who chooses to add fixed earth stations are required to apply for a satellite fixed earth station installation approval certificate with competent government authorities in accordance with stipulations set forth under Article 17-1.\r\nThe foresaid stipulation applies to the circumstances where the operator is changing the fixed earth station’s installation site, frequency transmitting equipment or approved wireless radio frequencies; when changing the frequency transmitting equipment by adopting the same make and model number, the operator may file for an approval by competent government authorities."
+		},
+		{
+			"條號": "Article 39",
+			"條文內容": "The operator’s fixed earth station, unless otherwise stipulated by laws and regulations may choose any satellite system to make up a satellite communications network.\r\nThe satellite fixed communications service operator, when transmitting signals via the satellite system overseas or receiving router of foreign signals, is required to voluntarily declare with competent government authorities. \r\nThe satellite fixed communications service operator, when in need of switching to a different satellite system under emergency circumstances, is required to voluntarily declare the information with competent government authorities, and is also required to state the incident in the maintenance daily log."
+		},
+		{
+			"編章節": "Section II Frequency application, frequency interference and visual frequency transmission restrictions"
+		},
+		{
+			"條號": "Article 40",
+			"條文內容": "Of the frequencies operated by the satellite communications operations, the operator is to apply with competent government authorities for approval and assignment in accordance with the satellite communications frequency segment distribution as defined in the “Wireless frequency distribution schedule of the Republic of China”.\r\nThe competent government authorities, when deemed necessary in response to the need of telecommunications and information development, may adjust the operating frequency or demand the operator to update the equipment, to which the operator and the user may not refuse or demand for compensation."
+		},
+		{
+			"條號": "Article 41",
+			"條文內容": "Of the frequencies operated by the satellite communications service, electric power, transmission mode, station identification call number and so forth relating to radio wave surveillance operations, the competent government authorities are to manage such measures collectively, and unless otherwise approved, none of which may be operated upon or modified."
+		},
+		{
+			"條號": "Article 42",
+			"條文內容": "The operator is to assign experienced high-end telecommunications engineering personnel responsible for or to monitor the operation of signal transmission at the fixed earth station.\r\nThe electric power the operator operates shall be limited to the demand of the actual implementation, and in the wake of any interference, the operator is to reduce the power or temporarily suspend the operation until it is improved.\r\nThe earth station’s permissible frequency transmission tolerance and mixed greater tolerance in the transmission power scale shall meet stipulations set forth under Article 19 and Article 20 of the Administrative Regulations on Radio Waves.\r\nThe foxed earth station’s antenna angular elevation, unless otherwise approved by competent government authorities, may not be operated at less than five degrees to avoid the transmitting signals from interfering with other wireless telecommunications."
+		},
+		{
+			"條號": "Article 43",
+			"條文內容": "The fixed earth station the operator installs, when experiencing communications interruption or quality deterioration as arisen from the wireless radio signal interference by other operators, the operator is to first coordinate and resolve the matter on its own, and when unable to reach an agreement, may file for the competent government authorities to mitigate the incident, and all operators are to adhere to the decision made by competent government authorities."
+		},
+		{
+			"條號": "Article 44",
+			"條文內容": "Of the satellite telecommunications network the operator installs, the competent government authorities may conduct routine or random inspection and testing, and when not operating the equipment as regulated or in the wake of equipment malfunction to interfere with others’ telecommunications, the competent government authorities may order the operator to adopt improvement within a prescribed deadline, and may restrict the operator from operating the equipment where deemed necessary, to which the operator is to comply fully as ordered by competent government authorities."
+		},
+		{
+			"編章節": "Section III Operations management"
+		},
+		{
+			"條號": "Article 45",
+			"條文內容": "The satellite telecommunications network the operator installed, when interconnecting to the other telecommunications enterprises’ telecommunications networks, may not exceed the scope of whose concession operation. The interconnecting method and billing rate calculation shall be implemented as per the telecommunications enterprise network interconnecting management measure specified by competent government authorities."
+		},
+		{
+			"條號": "Article 46",
+			"條文內容": "For setting the satellite communication service billing rates, the operator is to implement it per stipulations governing Administrative Regulation Governing Tariffs of Type I Telecommunications Enterprises per the Telecommunications Act"
+		},
+		{
+			"條號": "Article 47",
+			"條文內容": "With regard to relevant terms and conditions of its service, the operator is to draft a set of business regulations, which are to be declared with competent government authorities for approval and announced for implementation, and is also required to post the information at its business venues and on its Website for the consumer’s perusal; the same also applies to all subsequent changes.\r\nThe foresaid business regulations are to enlist fair and rational service terms and conditions, and are also to disclose the following information:\r\n1. The categories of service the operator provides.\r\n2. Various services’ billing criteria and terms and conditions of billing adjustment.\r\n3. The restrictions and conditions for utilizing the user’s basic information.\r\n4. The compensation method to the user in the event where the operator should face cancellation or revocation of whose concession or moves to temporarily suspend or terminate the operation to suffice to undermine the user’s equity.\r\n5. The response methods to damages as arisen from the malfunction or disruption of the telecommunications server/line equipment result in errors, delays, interruption or non-transmission.\r\n6. The response to the user’s complaints and other user equity-related information.\r\n7. Other service terms and conditions.\r\nIn the event where the operator’s business regulations should be deemed to undermine the consumer’s equity or appear unfair, the competent government authorities may order the telecommunication enterprise to change the provisions within a prescribed deadline.\r\nThe specimen of the service contract the operator drafts may not breach stipulations set by telecommunications laws and regulations or its business regulations, and is also to disclose all information enlisted under the preceding paragraph 2, which is subject to declaring with competent government authorities for approval prior to implementing the business regulations; the same also applies to all subsequent changes.\r\nAny change or amendment made to the specimen of the service contract between the operator and the user shall be posted at the operator’s various business venues and on its Website for the consumer’s perusal prior to implementation."
+		},
+		{
+			"條號": "Article 48",
+			"條文內容": "The operator is to provide the service fairly, and without just cause may not refuse the general public’s request for providing the satellite communications service within the operating region the operator is approved to run the business."
+		},
+		{
+			"條號": "Article 49",
+			"條文內容": "The operator, when temporarily suspended or terminating a portion or the entire operation, is to file for an approval by competent government authorities six months prior to the scheduled temporary suspension or termination date, and shall also notify the user three months prior to the scheduled temporary suspension or termination date.\r\nIn the instance where an operator is approved by competent government authorities to terminate whose entire operation, the competent government authorities shall revoke the operator’s concession license, and also to notify the governing agency in charge of company registration."
+		},
+		{
+			"條號": "Article 50",
+			"條文內容": "Within six months upon concluding an accounting year, the operator is to voluntarily declare relevant information on whose operations, financial, telecommunications equipment and high-end telecommunications engineering personnel with competent government authorities.\r\nThe competent government authorities, for the purpose of managing the satellite communications operation, may order the operator to submit the following reports, which the operator is to comply by supplying the information: \r\n1. Information related to the operation.\r\n2. Information related to the finances.\r\n3. Information related to the telecommunications equipment."
+		},
+		{
+			"條號": "Article 51",
+			"條文內容": "In the instance where an operator should be run poorly or offer poor communications quality that suffices to undermine the user’s equity, the competent government authorities may order the operator to adopt improvement within a prescribed deadline."
+		},
+		{
+			"條號": "Article 52",
+			"條文內容": "In response to investigation, evidence gathering, and inquiries for the presence and content of telecommunications according to legal proceedings, the operator is to supply the information.\r\nThe foresaid telecommunications’ content surveillance is to be implemented as per telecommunications safeguard and surveillance laws and regulations."
+		},
+		{
+			"條號": "Article 53",
+			"條文內容": "The operator is to verify and catalog the user’s information, and may only activate the access upon uploading the information onto the operator’s system pending further verification, who is required to retain the information at least one year after the service contract has been terminated; when inquired by relevant government agencies legally, the operator is to supply the information. The operator, when verifying and cataloging the subscriber information of government agencies, public schools and state-run enterprises, may utilize an agency (institution)’s official document letterhead as the proof of documentation.\r\nThe foresaid user’s information is to encompass information on the user name, uniformed identification card number and the number of credential document other than the uniformed identification card that suffices to verify an individual’s identity, address and the number assigned.\r\nThe foresaid credential document number, in the case of an application by a foreign national, refers to the passport number and the document number of other forms of proof of identify document that suffices to identify an individual’s identity; when applied by an incorporated entity, refers to the company uniformed registration number and the representative’s uniformed identification card number.\r\nThe upload of the user information as stated in paragraph 1 is to be completed within a two-day period following the operator’s acceptance."
+		},
+		{
+			"條號": "Article 54",
+			"條文內容": "The operator, when offering the satellite telecommunications by means of prepaid card or other repayment methods, is required to retain the purchaser’s information at the time of selling the repaid card, and is also required to verify the user’s information on a weekly basis, and in the absence of the user’s information when the user has activated the service the operator is to notify the user to supplant the information within a one-week period, and of those failing to supplant the information, the operator is to temporarily suspend the user’s satellite communications. \r\nOf the foresaid stipulations, the operator is to specify the provisions in the content of whose business regulations and the specimen of the service contract."
+		},
+		{
+			"條號": "Article 55",
+			"條文內容": "When an operator faces the ruling of a concession license cancellation or revocation, the competent government authorities are to cancel or revoke the operator’s wireless radio frequency usage approval and earth station license, and are also to notify the telecommunications enterprise to terminate the operator’s lease of the telecommunications equipment line."
+		},
+		{
+			"編章節": "Chapter IV Supplementary provisions"
+		},
+		{
+			"條號": "Article 56",
+			"條文內容": "Those who apply to operate the satellite communications operation are required to apply for the concession, review, certification, validation and licensing processes, and to remit the concession fee, review fee, certification fee, validation fee, and licensing fee to competent government authorities as per the billing criteria specified by competent government authorities.\r\nBy the frequencies used for the operations run, the operator is required to remit the wireless frequency utilization fee to competent government authorities as per the billing criteria specified by competent government authorities."
+		},
+		{
+			"條號": "Article 57",
+			"條文內容": "In the instance where the launching consent letter, satellite communications network launching approval certificate, satellite fixed earth station launching approval certificate, earth station license, concession license should be lost or damaged, the operator is required to state the reason and apply for a reissue with competent government authorities; when changes have been made to the enlisted entries, an operator is required to apply for a reissue with competent government authorities."
+		},
+		{
+			"條號": "Article 58",
+			"條文內容": "Any measure not explicitly stated herein shall be implemented as per stipulations set by other peripheral telecommunications laws and regulations."
+		},
+		{
+			"條號": "Article 59",
+			"條文內容": "The rules are to be implemented effective on the announcement date."
+		}
+	]
+}

@@ -1,0 +1,62 @@
+{
+	"法規性質": "命令",
+	"英文法規名稱": "Small and Medium-Sized Waste Incinerator Dioxin Control and Emission Standards",
+	"中文法規名稱": "中小型廢棄物焚化爐戴奧辛管制及排放標準",
+	"法規網址": "http://law.moj.gov.tw/Eng/LawClass/LawContent.aspx?PCODE=O0020037",
+	"最新英文異動日期": "20050316",
+	"沿革內容": "1.Promulgated by Environmental Protection Administration order on October 11, 2000; Article 1 revised and promulgated by\r\n2.Environmental Protection Administration order on October 16, 2002; Article 10 revised, Article 11-1 added and promulgated by\r\n3.Environmental Protection Administration order on December 10, 2003; Articles 7 and 10 revised and promulgated by\r\n4.Environmental Protection Administration order on March 16, 2005.",
+	"法規內容": [
+		{
+			"條號": "Article 1",
+			"條文內容": "These Standards are determined pursuant to Article 20, Paragraph 2, Article 22, Paragraphs 2 and 3, and Article 23, Paragraph 2 of the Air Pollution Control Act."
+		},
+		{
+			"條號": "Article 2",
+			"條文內容": "Terms and symbols used in these Standards are defined as follows:\r\nI. “Dioxin” means polychlorinated dibenzo-p-dioxins and polychlorinated dibenzofurans.\r\nII. “ng” means nanogram, equivalent to 10 -9 grams.\r\nIII. “Nm3” means a cubic meter at a temperature of 273 K and a pressure of 1 atmosphere.\r\nIV. “ppm” means parts per million.\r\nV. “C” means pollutant concentration corrected to Standard Oxygen Basis, measured in ng-TEQ/Nm3.\r\nVI. “Cs” means measured pollutant concentration based on test method, not corrected to Standard Oxygen Basis, measured in ng-TEQ/Nm3.\r\nVII. “Os” means the actual measured oxygen concentration in emissions.\r\nVIII. “E” means the actual oxygen concentration of oxygen-enriched gases imported into incinerator.\r\nIX. “Handling capacity” means the designed maximum weight of waste (regardless of dry or wet weight) fed into each incinerator per hour on the same public or private premise.\r\nX. “I-TEF” means the International Toxicity Equivalency Factor used internationally to calculate the toxicity weighting of dioxin concentrations.\r\nXI. “TEQ” (Toxicity Equivalency Quantity of 2,3,7,8-tetrachlorinated dibenzo-p-dioxin) means the method for calculating the toxicity weighting of dioxin concentrations.\r\nXII. “Gas retention time” means the time that gases are retained in the secondary combustion chamber.\r\nXIII. “Variable one-hour average” means the average of continuously fluctuating values during a single hour.\r\nXIV. “Shutdown procedure” means the steps taken when an incinerator is shut down to reduce emissions, such as cutting off waste feed, supply ventilation or exhaust ventilation.\r\nXV. “Existing incinerator” means an incinerator that is already constructed or that is in the process of being constructed, for which project tender procedures have been completed, or if no tenders were invited, for which project contracts were issued and signed before the date of promulgation of these Standards.\r\nXVI. “Newly installed incinerator” means an incinerator that was installed after the date of promulgation of these Standards."
+		},
+		{
+			"條號": "Article 3",
+			"條文內容": "For matters not provided in these Standards, the regulations of other relevant standards shall apply."
+		},
+		{
+			"條號": "Article 4",
+			"條文內容": "These Standards shall apply to stack emissions from industrial waste incinerators, as well as from general waste incinerators (herein referred to as incinerators) with a designed handling capacity of less than 10 tons/hour. The controlled pollutants are dioxins."
+		},
+		{
+			"條號": "Article 5",
+			"條文內容": "The dioxin emission limits determined by the Standards shall be 0.5 ng-TEQ/Nm3 for incinerators with a designed handling capacity of less than 4 tons/hour, and 0.1 ng-TEQ/Nm3.\r\nThe concentrations of the standard values of the foregoing paragraph are expressed as Toxicity Equivalency Quantity (TEQ) This means the measured concentrations of all listed dioxin pollutantsin the Table multiplied with their I-TEFshall be totaled. Sampling and testing shall be performed three times or more and the arithmetic mean value shall be used. Each sampling shall be done at intervals of more than one hour."
+		},
+		{
+			"條號": "Article 6",
+			"條文內容": "The concentrations of dioxin pollutants in stack emissions shall be calculated based on non-diluted dry emission volumes at a temperature of 273K and a pressure of 1 atmosphere. Moreover, a 10% emission oxygen concentration shall serve as the reference standard. The correction formula is as follows:\r\n    21-11\r\nC = ─── ·Cs\r\n    21-Os\r\n\r\nWhen the oxygen concentration of air introduced into an oxygen-enriched combustion system exceeds 21%, an oxygen concentration of 11% shall serve as the reference standard for its emissions. The correction formula is as follows:\r\n    E-11\r\nC = ─── ·Cs\r\n    E-Os\r\n\r\nIf the values in the foregoing two paragraphs (21-Os) or (E-Os) are less than 1 they shall be calculated as 1."
+		},
+		{
+			"條號": "Article 7",
+			"條文內容": "The operating conditions and stack exit height of an incinerator shall meet the following requirements:\r\nI. The combustion gas temperature downstream of an incinerator's secondary air injection port or at the secondary combustion chamber outlet shall not be lower than an hourly average value of 850 degrees Celsius.\r\nII. The residence time of the combustion gases in the foregoing paragraph shall be greater than one second in existing incinerators, and greater than two seconds in newly installed incinerators.\r\nIII. Carbon monoxide at the stack outlet (CO) shall not be lower than an hourly average value of 100 ppm, exhaust gas oxygen concentration shall use 11% as the reference standard.\r\nIV. Exhaust gas oxygen concentration at the incinerator outlet shall be an average hourly value of more than 6%.\r\nV. The exhaust gas temperature at the dust collection equipment intake shall be lower than 280 degrees Celsius for existing incinerators, and lower than 200 degrees Celsius for newly installed incinerators.\r\nVI. Those who use activated carbon injection equipment to reduce the quantity of dioxin emissions must record the hourly injected quantity of activated carbon.The quantity of activated carbon injected during normal operation of an incinerator may not be lower than the average hourly injection quantity of activated carbon of the same specifications used during the most recent period whose test results complied with dioxin emission standards. If during operation the specifications of the activated carbon are changed or its injection quantity is reduced, another dioxin sampling and analysis shall be conducted to determine the lower limit for the injection quantity. \r\nVII. During startup waste shall only be loaded into the incinerator after auxiliary burners have been activated to quickly raise the temperature inside the combustion unit.\r\nVIII. During shutdown the auxiliary burners shall be activated to maintain the temperature inside the combustion unit and residual combustion waste, or air shall be blocked from entering the combustion chamber, and procedures to extinguish the fire shall be carried out in order to reduce exhaust gas emissions.\r\nIX. The height of the stack exit of incinerators with a handling capacity of more than 4 tons per hour shall be more than 50 meters, while the height of the stack exit of incinerators with a handling capacity of less 4 tons per hour shall be more than 20 meters."
+		},
+		{
+			"條號": "Article 8",
+			"條文內容": "When one of the following circumstances applies, documentary proof may be submitted to the local competent authority for approval. Operating conditions and stack exit heights that have already been authorized shall serve as supporting control data:\r\nI. Incinerators that are not able to operate in accordance with the operating conditions as determined in the foregoing article may submit operating conditions that were used when the incinerator complied with dioxin emission standards as an alternative application.\r\nII. Existing incinerators that are unable to install a stack exit height in accordance with the regulations of the foregoing article may apply to use an alternative stack exit height that can attain emissions with a dioxin air pollutant cancer risk of less than 1 in 1,000,000."
+		},
+		{
+			"條號": "Article 9",
+			"條文內容": "Incinerators shall install monitoring facilities that can provide real-time display of the operating conditions as specified in Article 7, Paragraph 1 and Paragraphs 3 to 6.\r\nHourly records shall be maintained on the monitoring results of the foregoing paragraph. Each time when operating circumstances designated in Article 7, Paragraphs 7 and 8 occur, records shall be maintained. The recorded monitoring and operating data of the previous month shall be reported to the local competent authority before the 15th of each month.\r\nThose not able to install monitoring facilities or to establish records in accordance with the previous paragraph may, after applying for approval by the local competent authority, use other alternative means of monitoring, record keeping, and reporting incinerator operating conditions."
+		},
+		{
+			"條號": "Article 10",
+			"條文內容": "Incinerators shall conduct tests of dioxin in emissions pursuant to the following regulations:\r\nI. Incinerators with a handling capacity of 4 tons per hour or more that process hazardous industrial waste or infectious medical waste shall conduct at least one regular test per year.\r\nII. Incinerators with a handling capacity of less than 4 tons per hour shall conduct regular tests at least once every two years.\r\nIII. A test plan shall be sent to the local competent authority seven days before a regular test. The results of each test shall be reported to the local competent authority in a test report within 60 days after the test.\r\nIV. If stack emission dioxin in two consecutive regular tests meets the emission standard values of Article 5, relevant documentary proof may be submitted to the local competent authority to apply for an adjustment of the test frequency. After the test frequency has been adjusted, it may not be less than once every two years for incinerators with a handling capacity of four tons per hour or more that process hazardous industrial waste or infectious medical waste. The test frequency may not be less than once every three years for incinerators with a handling capacity of less than four tons per hour.However, when the test results of an inspection by the competent authority or the results of a single regular test exceed the emission standard values of Article 5, the competent authority may demand that regular tests be conducted according to the originally determined test frequency.\r\nV. Incinerators with a handling capacity of less than 4 tons per hour that burn waste with a chlorine content of less than 0. 015% may submit documentary proof to the local competent authority to apply for exemption from testing.However, when necessary, the competent authority may demand the resumption of testing."
+		},
+		{
+			"條號": "Article 11",
+			"條文內容": "Existing incinerators with a handling capacity of four tons per hour or more shall comply with the regulations of these Standards as of January 1, 2003. Those with a handling capacity of less than 4 tons per hour shall comply with the regulations of these Standards as of January 1, 2004."
+		},
+		{
+			"條號": "Article 11-1",
+			"條文內容": "Stationary pollution sources that use general or industrial waste as fuel or supplementary fuel shall apply the regulations of Article 5 and Article 10 as of January 1, 2004, in accordance with the usage volume or fuel category permitted by the local competent authority."
+		},
+		{
+			"條號": "Article 12",
+			"條文內容": "These Standards shall take effect on January 1, 2001, except for articles whose enforcement date has been set separately."
+		}
+	]
+}
