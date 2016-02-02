@@ -1,0 +1,95 @@
+/**
+ * This file shall apply to a specific site.
+ */
+
+/**
+ * Global
+ */
+nav li {
+	list-style-type: none;
+	display: inline-block;
+	padding: .1em .5em;
+	border-right: 1px solid #888;
+}
+a {
+	color: inherit;
+	text-decoration: none;
+}
+a[href]:hover { text-decoration: underline; }
+a img { border: 0; }
+
+
+/**
+ * Header
+ */
+body > header {
+	background-color: #000;
+	color: #fff;
+}
+body > header > * {
+	float: left;
+}
+#brand {
+	font-size: xx-large;
+	font-weight: bold;
+	margin: .2em .4em;
+}
+#UpdateDate {
+	float: right;
+	margin: .3em;
+	font-size: small;
+}
+
+
+/**
+ * Content
+ */
+body > section {
+	padding: .5em;
+}
+h1 { font-size: 250%; }
+h2 { font-size: 200%; }
+h3 { font-size: 175%; }
+h4 { font-size: 150%; }
+h5 { font-size: 140%; }
+h6 { font-size: 130%; }
+dl > dt { font-weight: bold; }
+.tableCell,
+.dlTable > dl > dt,
+.dlTable > dl > dd {
+	padding: .3em;
+}
+
+/**
+ * law list
+ */
+.focus { font-weight: bold; }
+.brief {
+	border-left: 4px solid #444;
+	padding: .3em;
+	margin: .3em;
+}
+.pcode {
+	font-size: small;
+	font-family: monospace;
+	color: #888;
+}
+.name {
+	font-size: large;
+	font-weight: bold;
+	display: inline-block;
+}
+.english { font-family: "Calibri", arial; }
+.inlineList { display: inline-block; }
+.oldNames, .updates { font-size: small; }
+.brief dt, .brief dd { display: inline-block; }
+.brief li { padding: 0 0 0 .7em; }
+
+
+/**
+ * Footer
+ */
+body > footer {
+	background-color: #000;
+	color: #fff;
+}

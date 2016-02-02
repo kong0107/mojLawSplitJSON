@@ -1,0 +1,74 @@
+<!DOCTYPE HTML>
+<html ng-app="app">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Teaching Tools</title>
+		<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.5/angular.min.js"></script>
+		<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.5/angular-route.min.js"></script>
+		<script src="scripts/ngController.js"></script>
+		<link rel="stylesheet" href="styles/std.css">
+		<link rel="stylesheet" href="styles/main.css">
+	</head>
+	<body ng-controller="main">
+		<header>
+			<div id="brand">法規查詢</div>
+			<div id="UpdateDate">
+				法規整編資料截止日：
+				<time ng-bind="UpdateDate || '讀取中…'"></time>
+			</div>
+		</header>
+		<section ng-view>
+<script type="text/ng-template" id="list">
+	<div ng-if="!laws">讀取中…</div>
+	<div ng-show="laws">
+		<input ng-model="q" placeholder="搜尋" ng-model-options="{debounce: 300}">
+		<p>{{q?'找到':'共有'}} {{filtered.length}} 個法規</p>
+		<nav ng-show="filtered.length > itemsPerPage">
+			分頁
+			<select ng-model="skip" convert-to-number>
+				<option ng-repeat="d in filtered track by d.PCode"
+					ng-if="!($index % $parent.itemsPerPage)"
+					value="{{$index}}"
+				>{{$index / $parent.itemsPerPage + 1}}</option>
+			</select>
+		</nav>
+		<article class="brief" ng-repeat="law in filtered=(laws |filter :q) |limitTo :itemsPerPage :skip track by law.PCode">
+			<header>
+				<span class="pcode">{{law.PCode}}</span>
+				<span class="name">{{law.name}}</span>
+			</header>
+			<p class="english" ng-if="law.english">{{law.english}}</p>
+			<dl class="oldNames" ng-if="law.oldNames">
+				<dt>舊名</dt>
+				<dd>
+					<ul class="inlineList">
+						<li ng-repeat="name in law.oldNames track by $index">{{name}}</li>
+					</ul>
+				</dd>
+			</dl>
+			<dl class="updates" ng-if="law.updates">
+				<dt>沿革</dt>
+				<dd>
+					<ul class="inlineList">
+						<li ng-repeat="date in law.updates track by $index"><time>{{date}}</time></li>
+					</ul>
+				</dd>
+			</dl>
+		</article>
+	</div>
+</script>
+<script type="text/ng-template" id="law">
+	law {{test}}
+</script>
+		</section>
+		<footer>
+			<nav>
+				<ul class="inlineList">
+					<li><a href="https://www.facebook.com/kong.sex">Author</a></li>
+					<li><a href="https://github.com/kong0107/mojLawSplitJSON">Source Codes</a></li>
+				</ul>
+			</nav>
+		</footer>
+	</body>
+</html>
