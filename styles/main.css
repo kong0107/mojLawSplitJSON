@@ -54,7 +54,6 @@ h4 { font-size: 150%; }
 h5 { font-size: 140%; }
 h6 { font-size: 130%; }
 dl > dt { font-weight: bold; }
-.tableCell,
 .dlTable > dl > dt,
 .dlTable > dl > dd {
 	padding: .3em;
@@ -68,12 +67,13 @@ dl > dt { font-weight: bold; }
 .brief {
 	border-left: 4px solid #444;
 	padding: .3em;
-	margin: .3em;
+	margin: .5em;
 }
-.pcode {
+.pcode, .lastUpdate {
 	font-size: small;
 	font-family: monospace;
 	color: #888;
+	padding: 0 .3em;
 }
 .name {
 	font-size: large;

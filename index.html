@@ -41,10 +41,15 @@
 				>{{$index / $parent.itemsPerPage + 1}}</option>
 			</select-->
 		</nav>
-		<article class="brief" ng-repeat="law in filtered=(laws |filter :q) |limitTo :itemsPerPage :skip track by law.PCode">
-			<header>
-				<span class="pcode">{{law.PCode}}</span>
-				<a class="name" href="./#/law/{{law.PCode}}">{{law.name}}</a>
+		<article class="brief" ng-repeat="law in filtered=(laws |filter :q |orderBy :'-lastUpdate') |limitTo :itemsPerPage :skip track by law.PCode">
+			<header class="table">
+				<div class="tableCell">
+					<div class="pcode">{{law.PCode}}</div>
+					<div class="lastUpdate"><time title="最新異動日期">{{law.lastUpdate}}</time></div>
+				</div>
+				<div class="tableCell">
+					<a class="name" href="./#/law/{{law.PCode}}">{{law.name}}</a>
+				</div>
 			</header>
 			<p class="english" ng-if="law.english">{{law.english}}</p>
 			<dl class="oldNames" ng-if="law.oldNames">
@@ -59,7 +64,7 @@
 				<dt>沿革</dt>
 				<dd>
 					<ul class="inlineList">
-						<li ng-repeat="date in law.updates track by $index"><time>{{date}}</time></li>
+						<li ng-repeat="date in law.updates |orderBy :'-' track by $index"><time>{{date}}</time></li>
 					</ul>
 				</dd>
 			</dl>
