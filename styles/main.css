@@ -58,6 +58,7 @@ dl > dt { font-weight: bold; }
 .dlTable > dl > dt,
 .dlTable > dl > dd {
 	padding: .3em;
+	min-width: 4.5em;
 }
 
 /**
