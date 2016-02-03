@@ -29,17 +29,7 @@
 		<p>{{q?'找到':'共有'}} {{filtered.length}} 個法規</p>
 		<nav ng-show="filtered.length > itemsPerPage">
 			分頁
-			<select ng-model="skip" convert-to-number>
-				<option ng-repeat="elem in pages() track by $index"
-					value="{{elem}}"
-				>{{$index + 1}}</option>
-			</select>
-			<!--select ng-model="skip" convert-to-number>
-				<option ng-repeat="d in filtered track by d.PCode"
-					ng-if="!($index % $parent.itemsPerPage)"
-					value="{{$index}}"
-				>{{$index / $parent.itemsPerPage + 1}}</option>
-			</select-->
+			<select ng-model="skip" ng-options="value as (key-0+1) for (key, value) in pages()"></select>
 		</nav>
 		<article class="brief" ng-repeat="law in filtered=(laws |filter :q |orderBy :'-lastUpdate') |limitTo :itemsPerPage :skip track by law.PCode">
 			<header class="table">

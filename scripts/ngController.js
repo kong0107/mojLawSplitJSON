@@ -39,7 +39,7 @@ angular
 			//$location.url(q ? ('/search/' + q) : '/'); ///< the input would lose focus
 			if(q) title += '「' + q + '」';
 			$scope.$emit('setTitle', {title: title});
-			$scope.skip = '0';
+			$scope.skip = 0;
 		};
 		$scope.search();
 		$scope.pages = function() {
