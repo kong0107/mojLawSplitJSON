@@ -6,7 +6,6 @@
 		<title ng-bind="title">法規查詢</title>
 		<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.5/angular.min.js"></script>
 		<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.5/angular-route.min.js"></script>
-		<!--base href="/mojLawSplitJSON/"-->
 		<script src="scripts/ngController.js"></script>
 		<link rel="stylesheet" href="styles/std.css">
 		<link rel="stylesheet" href="styles/main.css">
@@ -23,7 +22,10 @@
 <script type="text/ng-template" id="list">
 	<div ng-if="!laws">讀取中…</div>
 	<div ng-show="laws">
-		<input ng-model="q" placeholder="搜尋名稱" ng-model-options="{debounce: 300}">
+		<input ng-model="q" placeholder="搜尋名稱"
+			ng-model-options="{debounce: 300}"
+			ng-change="search()"
+		>
 		<p>{{q?'找到':'共有'}} {{filtered.length}} 個法規</p>
 		<nav ng-show="filtered.length > itemsPerPage">
 			分頁
@@ -32,6 +34,12 @@
 					value="{{elem}}"
 				>{{$index + 1}}</option>
 			</select>
+			<!--select ng-model="skip" convert-to-number>
+				<option ng-repeat="d in filtered track by d.PCode"
+					ng-if="!($index % $parent.itemsPerPage)"
+					value="{{$index}}"
+				>{{$index / $parent.itemsPerPage + 1}}</option>
+			</select-->
 		</nav>
 		<article class="brief" ng-repeat="law in filtered=(laws |filter :q) |limitTo :itemsPerPage :skip track by law.PCode">
 			<header>
