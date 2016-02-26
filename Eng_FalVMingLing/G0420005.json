@@ -3,8 +3,8 @@
 	"英文法規名稱": "The Organic Regulations of the Central Engraving and Printing Plant",
 	"中文法規名稱": "中央印製廠組織規程",
 	"法規網址": "http://law.moj.gov.tw/Eng/LawClass/LawContent.aspx?PCODE=G0420005",
-	"最新英文異動日期": "20121228",
-	"沿革內容": "1. Adopted on March 1, 1972\r\n2. Amended on January 12, 1973 \r\n3. Amended on July 29, 1978 \r\n4. Amended on November 25, 1980 \r\n5. Amended on April 21, 1986 \r\n6. Article 3, Article 5 and Article 9 amended on December 6, 1989 \r\n7. Amended on September 18, 1996 \r\n8. Article 2 and Article 8 amended on July 12, 2000 \r\n9. Article 2, Article 5, Article 7, Article 8, Article 13 and Article 14 amended on October 27, 2004\r\n10.Article 7 and 8 amended on September 1, 2006\r\n11.Amended on December 28, 2012",
+	"最新英文異動日期": "20151126",
+	"沿革內容": "1. Adopted on March 1, 1972\r\n2. Amended on January 12, 1973 \r\n3. Amended on July 29, 1978 \r\n4. Amended on November 25, 1980 \r\n5. Amended on April 21, 1986 \r\n6. Article 3, Article 5 and Article 9 amended on December 6, 1989 \r\n7. Amended on September 18, 1996 \r\n8. Article 2 and Article 8 amended on July 12, 2000 \r\n9. Article 2, Article 5, Article 7, Article 8, Article 13 and Article 14 amended on October 27, 2004\r\n10.Article 7 and 8 amended on September 1, 2006\r\n11.Amended on December 28, 2012\r\n12.Amended on November 26, 2015",
 	"法規內容": [
 		{
 			"條號": "Article 1",
@@ -12,55 +12,95 @@
 		},
 		{
 			"條號": "Article 2",
-			"條文內容": "The Central Engraving and Printing Plant (\"the Plant\") is directly supervised by the Central Bank of the Republic of China (Taiwan) (\"the Bank\"), specializes in the business of printing Bank notes, and may engage in the business of printing important government documents and other securities. When necessary and with the permission of the Bank, the Plant may engage in the business of printing, manufacturing ink, producing paper and printing equipment, processing notes withdrawn from circulation, and disposing unfit notes."
+			"條文內容": "The Central Engraving and Printing Plant (referred to as \"the Plant\" hereunder) is directly supervised by the Central Bank of the Republic of China (Taiwan) (\"the Bank\"), specializes in the business of printing Bank notes, and may engage in the business of printing important government documents and other security documents. When necessary and with the permission of the Bank, the Plant may engage in the business of printing, manufacturing ink, producing paper and printing equipment, processing notes withdrawn from circulation, and disposing unfit notes."
 		},
 		{
 			"條號": "Article 3",
-			"條文內容": "The Plant shall have a President in charge of the overall business and two Vice Presidents to assist him."
+			"條文內容": "The Plant shall have a President in charge of the overall business and two Vice Presidents to assist him"
 		},
 		{
 			"條號": "Article 4",
-			"條文內容": "The Plant shall have two to four senior engineers and two to four executive officers to handle technical and administrative matters delegated by the President.\r\nSuch persons may concurrently be appointed Director of a division or office, or take assignment in a works, division, or office when necessary."
+			"條文內容": "The Plant shall have two to four senior engineers and two to four executive officers to handle technical and administrative matters delegated by the President.\r\nSuch persons in the preceding paragraph may concurrently be appointed Director of a division or office, or take assignment in a division, office or works when necessary."
 		},
 		{
 			"條號": "Article 5",
-			"條文內容": "The Plant shall have the following divisions and offices:\r\n1.Business Division: responsible for business communications and contacts, price quotation, closing contracts, preparing and issuing work notices, and other matters relevant to business.\r\n2.Quality Control Division: responsible for establishing production capacity and production standards, allocating production tasks, monitoring and controlling production progress and quality, maintaining machinery and equipment, and other matters related to production control and inspection.\r\n3.Procurement and Supply Division: responsible for processing purchase orders, procurement, transportation, insurance, inspection , storage, disbursement, safekeeping, supply, allocation, inventory control, maintaining machinery and equipment, and other matters related to purchases and storage.\r\n4.General Affairs Division: responsible for administrative affairs, properties, personnel transportation and sanitation, handling of maintenance works, salary payment, withholding taxes, collecting printing receivables, filing and paying business tax and stamp duty, custody, disbursement and receipt of cash, sponsoring in-house community, drafting employee benefits plans, and other matters not specified in other divisions and offices.\r\n5.Technical Research and Development Office: responsible for research and improvement of printing technology (including anticounterfeit device, design, engraving, plate making, printing, etc.), planning technical management, making master plates, pre-press operations from drawing original design through proofing, introduction, translation and editing of new information regarding various printing technology, other matters related to technical data management.\r\n6.Secretariat: responsible for planning policies regarding Plant activities, arranging combined projects, editing work reports, handling confidential matters and legal cases, revising, typing, proofreading, sending and receiving of official documents, monitoring document flow, archives management, custody of seals, planning the schedule, and keeping records for important meetings.\r\n7.Accounting Office: responsible for budgeting, accounting, statistics, calculation of costs, internal auditing, financial allocation, and design of accounting system in accordance with relevant regulations.\r\n8.Personnel Office: responsible for designing the personnel system, drafting personnel rules, arranging organizational structure and employment plan, handling employee recruitment, performance appraisal, promotion, transfer, dismissal, attendance verification, awards, and discipline.\r\n9.Ethics Office: responsible for planning ethical work and preventing corruption, compiling and publishing ethical regulations and cases, preventing and uncovering employee corruption and malfeasance, investigating corruption complaints, making proposals for evaluation , awards, discipline, reform of ethics, planning, promotion, coordination and implementation of confidential matters, maintenance of the Plant's safety, providing assistance in handling complaints and petitions, security of working areas, and other matters related to ethics.\r\n10.Occupational Safety and Health Office: responsible for planning, supervising, inspecting matters regarding employee safety and health, investigating, reporting, recording occupational disasters , medical care of employees, environmental protection, handling of matters related to gender equality and employee rights, and providing assistance to activities organized by the labor union.\r\n11.Information Management Office: responsible for the promotion of use of information technology for the Plant, organization and maintenance of the information system, input, compilation, preparation and analysis of data, other matters related to data processing."
+			"條文內容": "The Plant shall have the following divisions, offices and works:\r\n1.Technical Research and Development Division.\r\n2.Quality Control Division.\r\n3.Procurement and Supply Division.\r\n4.Secretariat.\r\n5.Accounting Office.\r\n6.Personnel Office.\r\n7.Occupational Safety and Health Office.\r\n8.Ethics Office.\r\n9.Information Management Office.\r\n10.First Works.\r\n11.Second Works."
 		},
 		{
 			"條號": "Article 6",
-			"條文內容": "Each division/office of the Plant shall have a Director, one or two Deputy Directors, and several staff members to perform duties. When required, sections may be formed within a division/office, provided that each section consists at least three employees. No section shall be formed if there are no sufficient employees to form two sections. Each section shall have a chief and may have a deputy chief. Occupational Safety and Health Office may establish a medical clinic."
+			"條文內容": "The Technical Research and Development Division shall be responsible for the following tasks:\r\n1.Research and improvement of printing technology (including, secuirity features, design, engraving, plate making, and printing).\r\n2.Planning and design of security documents, master plate making, single sheet proofing and other pre-press operations.\r\n3.Authentication of security documents and propagation of security features.\r\n4.Gathering, editing and data management of new knowledge on printing technology.\r\n5.Other matters related to research and development of printing technology."
 		},
 		{
 			"條號": "Article 7",
-			"條文內容": "The Plant shall have the following works:\r\n1.First Works: in charge of business relating Bank notes printing, manufacturing and mixing of ink.\r\n2.Second Works: in charge of business relating to printing of important government documents and other securities, processing of notes withdrawn from circulation, and disposal of unfit notes.\r\nEach works shall have a Manager who supervises a team of staff to perform duties and one or two Deputy Managers to assist him.\r\nThe First Works shall consist of four sections, namely the Printing Section, Finishing Section, Ink Production Section and Engineering Section. The Second Works shall consist of four sections, namely the Printing Section, Finishing Section, Processing and Disposal Section, and Engineering Section. Each section shall have a Chief, one or two Deputy Chiefs, and several staff members to perform duties. Subsections may be organized within a section when required, provided that each subsection consists at least three employees. Subsection shall not be formed if there are no sufficient employees to form two subsections. Each subsection shall have a Head and may have a Deputy Head. A subsection, made up of more than ten employees, may have one additional Deputy Head. The administrative matters of each works are supported by the corresponding divisions or\r\noffices of the Plant. The divisions/offices may dispatch their employees to the works working under the supervision of the Manager and Deputy Manager."
+			"條文內容": "The Quality Assurance Division shall be responsible for the following tasks:\r\n1.Establishing production capacity and production standards.\r\n2.Checking production scheduling.\r\n3.Auditing and controlling production progress and quality.\r\n4.Management of machinery and equipment.\r\n5.Inspection of raw materials and testing of finished products.\r\n6.Other matters related to production and quality control."
 		},
 		{
 			"條號": "Article 8",
-			"條文內容": "（Deleted）"
+			"條文內容": "The Procurement and Supply Division shall be responsible for the following tasks:\r\n1.Procurement and acceptance of office supplies, services and properties.\r\n2.Procurement and acceptance of machinery and equipment.\r\n3.Procurement, acceptance, storage, management and supply of materials.\r\n4.Other matters related to procurement and storage."
 		},
 		{
 			"條號": "Article 9",
-			"條文內容": "The President of the Plant shall be appointed by the Governor of the Bank following approval of the Bank ’ s Board of Directors; the Vice Presidents shall be appointed by the Governor of the Bank; the Managers of works shall be nominated by the President and appointed following approval of the Governor of the Bank; the Deputy Managers of works and Directors of divisions and offices shall be appointed by the President, and such appointment shall be reported to the Bank for future reference; the Directors of the Accounting, Personnel, and Ethics Offices shall be separately appointed in accordance with relevant regulations. Other personnel shall be appointed (hired) by the President according to personnel rules."
+			"條文內容": "The Secretariat is responsible for the following tasks:\r\n1.Compiling, editing and drafting combined projects and reports.\r\n2.Handling confidential matters, legal cases, and matters related to important meetings.\r\n3.Receiving, sending, revising, typing, proofreading of official documents, archives management, and custody of seals.\r\n4.Communication, price quotation, contract signing, and preparing and issuing documents related to orders of printing business.\r\n5.Collecting receivables of printing business and safekeeping, paying and receiving cash.\r\n6.Management of properties, personnel transportation and sanitation, and handling of maintenance works.\r\n7.Promoting activities related to recreation, sports and community relations.\r\n8.Support of promoting employee benefits related matters.\r\n9.Other matters for which other divisions, offices or works are not responsible."
 		},
 		{
 			"條號": "Article 10",
-			"條文內容": "When required, the Plant may engage independent contract workers. The number, compensation, and engagement method of such workers shall be determined by the President."
+			"條文內容": "The Accounting Office shall be responsible for the following tasks:\r\n1.Establishing accounting system.\r\n2.Preparation and examination of budgets and final accounts.\r\n3.Accounting and cost calculation.\r\n4.Internal audit.\r\n5.Financial allocation.\r\n6.Other matters related to annual budgeting, accounting, statistics and audit."
 		},
 		{
 			"條號": "Article 11",
-			"條文內容": "When required, the President of the Plant may appoint unpaid consultants for advice on or implementing specific matters."
+			"條文內容": "The Personnel Office shall be responsible for the following tasks:\r\n1.Drafting personnel management rules, arranging organizational structure and employment plan.\r\n2.Proposing employee recruitment, salary determination, employment, dismissal, promotion, awards, and discipline, and transfer.\r\n3.Handling employee pay, performance appraisal, insurance and benefits related matters.\r\n4.Handling employee retirement, consolation and severance related matters, and care of retired employees.\r\n5.Promotion of labor matters and position classification.\r\n6.Proposing employee training, and overseas business trips, meeting and internship.\r\n7.Proposing the selection of outstanding employees.\r\n8.Management and statistics of personnel data and other matters related to personnel management."
 		},
 		{
 			"條號": "Article 12",
-			"條文內容": "The number and ranks of the Plant employees shall be tabulated separately."
+			"條文內容": "The Occupational Safety and Health Office shall be responsible for the following tasks:\r\n1.Planning, supervising, and inspecting matters regarding employee safety and health.\r\n2.Investigating, reporting, tallying occupational disasters.\r\n3.Medical care of employees.\r\n4.Supervising environmental protection works.\r\n5.Handling employee complaint cases.\r\n6.Assisting activities organized by labor union.\r\n7.Other matters related to employee safety and health."
 		},
 		{
 			"條號": "Article 13",
-			"條文內容": "When required, the Plant may establish ad hoc teams or committees to deal with relevant matters. Members of such teams or committees may be seconded from present divisions/offices within the Plant and shall serve without extra compensation."
+			"條文內容": "The Ethics Office shall be responsible for the following tasks:\r\n1.Promotion of integrity and social participation.\r\n2.Drafting, promotion, and implementation of integrity regulations and directions and preventive measures.\r\n3.Drafting, coordination, and implementation of suggestions for integrity reformation.\r\n4.Property-declaration of public servants, recusal of public servants due to conflicts of interest, and businesses relevant to integrity and ethics directions.\r\n5.Handling corruption and malfeasance releated to the Plant.\r\n6.Inspecting businesses that carry risks of corruption.\r\n7.Handling and coordinating the protection of official confidential information of the Plant.\r\n8.Handling and coordinating security maintenance of the Plant.\r\n9.Other matters related to the Plant’s ethics."
 		},
 		{
 			"條號": "Article 14",
-			"條文內容": "These Regulations shall be effective on the date of promulgation.\r\nThe amended Article 2 and Article 8, which amendment made on October 27, 2004, shall be effective on January 1, 2005.\r\nThe amended Article 2, Article 4, and Articles 7~9, which amendment made on December 28, 2012, shall be effective on January 1, 2013."
+			"條文內容": "The Information Management Office shall be responsible for the following tasks:\r\n1.Promotion of use of information technology for the Plant.\r\n2.Planning, design, management and maintenance of information system.\r\n3.Planning and management of information network.\r\n4.Information communication security management and promotion of personal data protection.\r\n5.Other matters related to information management."
+		},
+		{
+			"條號": "Article 15",
+			"條文內容": "The First Works shall be responsible for the following tasks:\r\n1.Bank notes printing.\r\n2.Manufacturing and mixing of ink."
+		},
+		{
+			"條號": "Article 16",
+			"條文內容": "The Second Works shall be responsible for the following tasks:\r\n1.Printing of important government documents and other security documents.\r\n2.Processing of notes withdrawn from circulation, and disposal of unfit notes."
+		},
+		{
+			"條號": "Article 17",
+			"條文內容": "Each division/office of the Plant shall have a Director, one or two Deputy Directors, and several staff members. When required, sections may be formed within a division/office, provided that each section consists of at least three employees. No section shall be formed if there are not sufficient employees to form two sections. Each section shall have a chief and may have a deputy chief. The Occupational Safety and Health Office may establish a medical clinic."
+		},
+		{
+			"條號": "Article 18",
+			"條文內容": "Each works of the Plant shall have a Manager and one or two Deputy Managers. The First Works shall consist of four sections, namely the Printing Section, Finishing Section, Ink Production Section and Engineering Section. The Second Works shall consist of four sections, namely the Printing Section, Finishing Section, Processing and Disposal Section, and Engineering Section.\r\nEach section shall have a Chief, one or two Deputy Chiefs, and several staff members.\r\nWhen required, subsections may be organized within a section, provided that each subsection consists of at least three employees. Subsection shall not be formed if there are not sufficient employees to form two subsections.\r\nEach subsection shall have a Head and may have a Deputy Head. A subsection made up of more than ten employees may have one additional Deputy Head.\r\nThe administrative matters of each works are supported by the corresponding divisions or offices of the Plant. The divisions/offices may dispatch their employees to the works working under the supervision of the Manager and Deputy Manager."
+		},
+		{
+			"條號": "Article 19",
+			"條文內容": "The President of the Plant shall be appointed by the Governor of the Bank following approval of the Bank's Board of Directors. the Vice Presidents shall be appointed by the Governor of the Bank. the Managers of works shall be nominated by the President and appointed following approval of the Governor of the Bank. the Deputy Managers of works and Directors of divisions and offices shall be appointed by the President, and such appointment shall be reported to the Bank for future reference. the Directors of the Accounting, Personnel, and Ethics Offices shall be separately appointed in accordance with relevant regulations. Other personnel shall be appointed (hired) by the President according to personnel rules."
+		},
+		{
+			"條號": "Article 20",
+			"條文內容": "The number and ranks of the Plant employees shall be tabulated separately."
+		},
+		{
+			"條號": "Article 21",
+			"條文內容": "when required, the President of the Plant may appoint unpaid consultants for advice on or implementing specific matters."
+		},
+		{
+			"條號": "Article 22",
+			"條文內容": "When required, the Plant may engage independent contract workers. The number, compensation, and engagement method of such workers shall be determined by the President."
+		},
+		{
+			"條號": "Article 23",
+			"條文內容": "when required, the Plant may establish ad hoc teams or committees to deal with relevant matters. Members of such teams or committees may be seconded from present divisions/offices with in the Plant and shall serve without extra compensation."
+		},
+		{
+			"條號": "Article 24",
+			"條文內容": "These Regulations shall be effective on January 1, 2016."
 		}
 	]
 }
