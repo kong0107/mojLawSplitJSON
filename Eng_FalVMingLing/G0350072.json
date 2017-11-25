@@ -3,8 +3,8 @@
 	"英文法規名稱": "Regulations Governing Customs Clearance Procedures for Importing and Exporting Postal Parcels",
 	"中文法規名稱": "郵包物品進出口通關辦法",
 	"法規網址": "http://law.moj.gov.tw/Eng/LawClass/LawContent.aspx?PCODE=G0350072",
-	"最新英文異動日期": "20140207",
-	"沿革內容": "1. Promulgated on February 7, 2014",
+	"最新英文異動日期": "20170925",
+	"沿革內容": "1. Promulgated on February 7, 2014\r\n2. Amended on September 25,2017",
 	"法規內容": [
 		{
 			"條號": "Article 1",
@@ -32,7 +32,7 @@
 		},
 		{
 			"條號": "Article 7",
-			"條文內容": "Imported parcel articles shall be subject to customs duty, commodity tax, business tax, tobacco and alcohol tax, health and welfare surcharge for tobacco, specifically selected goods and services tax, and a trade promotion service fee in accordance with applicable regulations. However, if the customs value is within NT$3,000, the customs duty, commodity tax and business tax are exempted.\r\nPostal articles with tax exemption under the preceding paragraph do not include tobacco, alcohol or agricultural products subject to tariff quota.\r\nIn the case of an emergency, the Ministry of Finance may announce a certain period during which the restriction of the customs value of NT$3,000 for the purpose of tax exemption is not applicable for certain articles."
+			"條文內容": "Imported parcel articles shall be subject to customs duty, commodity tax, business tax, tobacco and alcohol tax, health and welfare surcharge for tobacco, specifically selected goods and services tax, and a trade promotion service fee in accordance with applicable regulations. However, if the customs value is within NT$2,000, the customs duty, commodity tax and business tax are exempted.\r\nPostal articles with tax exemption under the preceding paragraph do not include tobacco, alcohol or agricultural products subject to tariff quota.\r\nIn the case of an emergency, the Ministry of Finance may announce a certain period during which the restriction of the customs value of NT$2,000 for the purpose of tax exemption is not applicable for certain articles."
 		},
 		{
 			"條號": "Article 8",
@@ -40,19 +40,19 @@
 		},
 		{
 			"條號": "Article 9",
-			"條文內容": "Miscellaneous articles referred to in the preceding article do not include any single article or articles of the same type or tariff number with customs value exceeding NT$3,000."
+			"條文內容": "Miscellaneous articles referred to in the preceding article do not include any single article or articles of the same type or tariff number with customs value exceeding NT$2,000."
 		},
 		{
 			"條號": "Article 10",
-			"條文內容": "If the customs value of any imported postal parcel exceeds NT$3,000 and if the article is not subject to customs declaration under Article 6, Customs will complete a Duty Memo for Imported Postal Parcels and submit it to the postal authority to serve as the basis for the posting and collection of duties/taxes."
+			"條文內容": "If the customs value of any imported postal parcel exceeds NT$2,000 and if the article is not subject to customs declaration under Article 6, Customs will complete a Duty Memo for Imported Postal Parcels and submit it to the postal authority to serve as the basis for the posting and collection of duties/taxes."
 		},
 		{
 			"條號": "Article 11",
-			"條文內容": "If two or more postal articles imported from overseas are sent from the same address and delivered to the same address or the same addressee on the same day, the customs value of such articles shall be calculated in a combined manner.\r\nThe same delivery date referred to under the preceding paragraph means the postal seals affixed by the postal authority show the same date as the dispatch notes of postal parcels."
+			"條文內容": "If two or more postal articles imported from overseas are sent from the same sender and delivered to the same addressee on the same day, the customs value of such articles shall be calculated in a combined manner.\r\nThe same delivery date referred to under the preceding paragraph means the postal seals affixed by the postal authority show the same date as the dispatch notes of postal parcels."
 		},
 		{
 			"條號": "Article 12",
-			"條文內容": "The provisions regarding tax exemption under these Regulations are not applicable to frequent posting of postal articles sent from the same place to the same address or the same addressee.\r\nThe frequent posting referred to under the preceding paragraph means two or more postings within 30 days or six or more postings within six months."
+			"條文內容": "The provisions regarding tax exemption under these Regulations are not applicable to frequent posting of postal articles sent to the same addressee.\r\nThe frequent posting referred to under the preceding paragraph means the same addressee is given theduty exemption on imported postal articles for more than six times within half a year by applying to the provisions set forth in Paragraph 1,Article 7 of the said Regulations.In addition,the aforementiones \"half a year\" refers to January through June or July through December of the year."
 		},
 		{
 			"條號": "Article 13",
@@ -88,7 +88,7 @@
 		},
 		{
 			"條號": "Article 21",
-			"條文內容": "These Regulations shall be implemented from the date of publication."
+			"條文內容": "These Regulations shall be implemented from the date of publication. Nonetheless,the provisions of Article 7,Article 9,and Article 10 of the Regulations amended on September 25th 2017 shall take effect from January 1st ,2018."
 		}
 	]
 }

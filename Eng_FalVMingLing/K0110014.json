@@ -3,8 +3,8 @@
 	"英文法規名稱": "Regulations for the Administration of Hotel Enterprises",
 	"中文法規名稱": "旅館業管理規則",
 	"法規網址": "http://law.moj.gov.tw/Eng/LawClass/LawContent.aspx?PCODE=K0110014",
-	"最新英文異動日期": "20130103",
-	"沿革內容": "1. Promulgated as per a Ministry of Transportation and Communications ordinance, Reference (2001) MOTC Integrated No. 091B000123, dated October 28, 2002.\r\n2. Amendment to Article 5.13.15..28.31.34 35 and augment to Article 21-1.27-1promulgated on September 18, 2008.\r\n3. Augment to Article 28-1.28-2promulgated on January 3, 2013.",
+	"最新英文異動日期": "20161005",
+	"沿革內容": "1. Promulgated as per a Ministry of Transportation and Communications ordinance, Reference (2001) MOTC Integrated No. 091B000123, dated October 28, 2002.\r\n2. Amendment to Article 5.13.15..28.31.34 35 and augment to Article 21-1.27-1promulgated on September 18, 2008.\r\n3. Augment to Article 28-1.28-2 promulgated on January 3, 2013.\r\n4. Augment to Article 2、4、6、9、14、18、23、24、27、27-1 and augment to Article 6-1、18-1、36-1 and deletion of Article 7、34、36 promulgated on October 5, 2016.",
 	"法規內容": [
 		{
 			"編章節": "Chapter I General Provisions"
@@ -15,7 +15,7 @@
 		},
 		{
 			"條號": "Article 2",
-			"條文內容": "The term “hotel enterprise” as referred to in these Regulations, shall mean a profit-taking enterprise, other than one in the tourist hotel category, that provides tourists with lodging, rest for a brief period, or other services approved by the central administrative authority."
+			"條文內容": "The term “hotel enterprise” as referred to in these Regulations shall mean a profit-taking enterprise not categorized as a tourist hotel that charges a fee for lodging for days or weeks, rest for a brief period of time, or for providing other services."
 		},
 		{
 			"條號": "Article 3",
@@ -26,7 +26,7 @@
 		},
 		{
 			"條號": "Article 4",
-			"條文內容": "Before commencing operations a hotel enterprise shall, apart from going through the formality of obtaining corporate registration or business registration as required by laws, submit an application to the local administrative authority for registration and obtain a certificate of registration.\r\nThe following documents shall be produced when the application for registration is filed by the hotel enterprise:\r\n1.Application form.\r\n2.Photocopy of the certifying document of corporate registration (not required for non-corporate operators).\r\n3.Photocopy of the certifying document of business registration.\r\n4.Photocopy of the certifying document of building use permit.\r\n5.Copy of land registration and of building registration.\r\n6.Documentation evidencing consent for use of the premises (not required when the applicant is the owner of the premises) and for use of the building (not required when the applicant is the owner of the building).\r\n7.Photocopy of business liability insurance policy.\r\n8.Photos of, or an advertising brochure with, exterior and interior of the hotel, including hallway, reception area, guest rooms, bathrooms and other business-related facilities.\r\n9.Other documentation as designated by the central or local administrative authority.\r\nThe local administrative authority may, when necessary, request the applicant to produce the original copy of documentation mentioned above."
+			"條文內容": "Before commencing operations, a hotel enterprise shall, apart from going through the formality of obtaining corporate registration or business registration as required by the law, submit an application to the local administrative authority for registration and obtain a certificate of registration.\r\nThe following documents shall be produced when the application for registration is filed by the hotel enterprise:\r\n1.Application form.\r\n2.Certifying document of corporate registration or business registration.\r\n3.Photocopy of certifying document of building use permit.\r\n4.Photocopy of documentation evidencing consent for use of the premises (not required when the applicant is the owner of the premises) and for use of the building (not required when the applicant is the owner of the building).\r\n5.Photocopy of business liability insurance policy.\r\n6.Photos of guest rooms and other service facilities\r\n7.Other documentation as designated by the central or local administrative authority.\r\nThe local administrative authority may, when necessary, request the applicant to produce the original copy of documentation mentioned above."
 		},
 		{
 			"條號": "Article 5",
@@ -34,11 +34,15 @@
 		},
 		{
 			"條號": "Article 6",
-			"條文內容": "A hotel shall have at least the following designated spaces on its business premises:\r\n1.Lobby.\r\n2.Tourist reception area.\r\n3.Guest rooms.\r\n4.Bathrooms.\r\n5.Storage rooms."
+			"條文內容": "A hotel shall have at least the following designated spaces on its business premises:\r\n1.Tourist reception area.\r\n2.Guest rooms.\r\n3.Bathrooms."
+		},
+		{
+			"條號": "Article 6-1",
+			"條文內容": "In the event any one of the following conditions apply to a hotel enterprise, the local administrative authority shall annul the hotel enterprise’s registration and cancel its hotel enterprise registration certificate:\r\n1.The information on the hotel enterprise registration certificate is false or untrue or the hotel provided false documentation in the application for registration.\r\n2.The hotel enterprise registration certificate was acquired by fraud, threats, or other improper means."
 		},
 		{
 			"條號": "Article 7",
-			"條文內容": "Each guest room of a hotel shall have good ventilation or adequate air conditioning facilities, and shall have bed and bedclothes, wardrobe or clothes hangers. The bathroom inside the guest # room shall have toilet and bathing facilities, and shall provide bathing items as well as hot and cold water."
+			"條文內容": "(delete)"
 		},
 		{
 			"條號": "Article 8",
@@ -46,7 +50,7 @@
 		},
 		{
 			"條號": "Article 9",
-			"條文內容": "Each hotel enterprise shall purchase liability insurance with the pertinent coverage and minimum insured value as specified below:\r\n1.Human bodily injury or death: NT$ 2 million per person.\r\n2.Human bodily injury or death caused in each incident: NT$ 10 million.\r\n3.Loss of or damage to property in each incident: NT$ 2 million.\r\n4.Total insured value per annum for the insured period: NT$ 24 million.\r\nEach hotel enterprise shall submit certifying documents of the purchased liability insurance policy covering the current year to the local administrative authority for record."
+			"條文內容": "Each hotel enterprise shall purchase liability insurance with the pertinent coverage and minimum insured value as specified below:\r\n1.Human bodily injury or death: NT$3 million per person.\r\n2.Human bodily injury or death caused in each incident: NT$15 million.\r\n3.Loss of or damage to property in each incident: NT$2 million.\r\n4.Total insured value per annum for the insured period: NT$34 million\r\nEach hotel enterprise shall submit certifying documents of the purchased liability insurance policy covering the current year to the local administrative authority for record."
 		},
 		{
 			"條號": "Article 10",
@@ -66,7 +70,7 @@
 		},
 		{
 			"條號": "Article 14",
-			"條文內容": "A hotel enterprise registration certificate shall specify the following items:\r\n1.Name of hotel,\r\n2.Name of representative or person in charge of hotel,\r\n3.Address of hotel,\r\n4.Name of business registration,\r\n5.Date of registration approval, and\r\n6.Registration certificate serial number."
+			"條文內容": "A hotel enterprise registration certificate shall specify the following items:\r\n1.Name of hotel.\r\n2.Name of representative or person-in-charge of hotel.\r\n3.Address of hotel.\r\n4.Name of business registration.\r\n5.Date of registration approval.\r\n6.Registration certificate serial number.\r\n7.Business premises."
 		},
 		{
 			"編章節": "Chapter III Format of Designated Trade Symbol and Administration of its Use"
@@ -88,7 +92,11 @@
 		},
 		{
 			"條號": "Article 18",
-			"條文內容": "Each hotel enterprise shall display the hotel registration certificate in a highly visible place in the lobby."
+			"條文內容": "Each hotel enterprise shall display the hotel enterprise registration certificate in a highly visible place in the business premises."
+		},
+		{
+			"條號": "Article 18-1",
+			"條文內容": "Advertisements of hotel enterprises on printed materials, publications, radio, television, electronic signals, the internet, or other media shall specify the hotel enterprise’s registration certificate serial number."
 		},
 		{
 			"條號": "Article 19",
@@ -112,11 +120,11 @@
 		},
 		{
 			"條號": "Article 23",
-			"條文內容": "The hotel enterprise shall maintain lodger registration books to record information on lodgers in accordance with the required format on a daily basis, and shall submit this information to the local police department or station by fax, electronic mail, or other appropriate means.\r\nThe format of, and the time for submitting lodger registration book as referred to in Paragraph 1 above, shall be fixed by the local police department or station.\r\nThe lodger registration books mentioned in Paragraph 1 of this Article shall be kept in inventory for a period of 180 days."
+			"條文內容": "Hotel enterprises shall register the information of lodgers on a daily basis; the lodger registration books shall be kept in inventory for a period of 180 days.\r\nThe collection, handling, and use of lodger information mentioned in Paragraph 1 shall comply with provisions of the Personal Information Protection Act."
 		},
 		{
 			"條號": "Article 24",
-			"條文內容": "A hotel enterprise shall not expand its business premises without approval, and shall constantly maintain safety and cleanliness of the business premises."
+			"條文內容": "A hotel enterprise shall operate its business within its business premises, and shall not expand its business premises without approval."
 		},
 		{
 			"條號": "Article 25",
@@ -128,11 +136,11 @@
 		},
 		{
 			"條號": "Article 27",
-			"條文內容": "Upon discovering any of the following conditions pertaining to a lodger, the operating enterprise shall immediately report to the local police station for disposition, or, when necessary, shall itself take necessary action:\r\n1.Carrying of guns or other prohibited items.\r\n2.Consumption of addictive drugs or other narcotics.\r\n3.Showing signs of committing suicide, or having died.\r\n4.Making loud noises at night, participating in group gambling, or engaging in other behavior that causes a disturbance to the public.\r\n5.Forcible taking of lodgment without presenting proper identification documentation, or refusing to register for the lodgment.\r\n6.Posing of a treat to public safety or arousing suspicion of having committed other crimes."
+			"條文內容": "Upon discovering any of the following conditions pertaining to a lodger, the hotel enterprise shall immediately report to the local police station for disposition, or, when necessary, shall itself take necessary action:\r\n1.Carrying of guns or other prohibited items.\r\n2.Consumption narcotics.\r\n3.Showing signs of committing suicide, or having died.\r\n4.Making loud noises at night, participating in group gambling, or engaging in other behavior that causes a disturbance to the public.\r\n5.Posing a threat to public safety or raising suspicion of having committed other crimes."
 		},
 		{
 			"條號": "Article 27-1",
-			"條文內容": "A hotel enterprise operator shall every year before the end of January and the end of July submit to the local administrative authority data for, respectively, the six months from July to December of the preceding year and January to June of the current year, showing the monthly totals of its number of rooms available, number of rooms occupied, occupancy rate, number of room guests, operating income, and expenditure on maintenance and facilities.\r\nThe local administrative authority shall report the above-described data to the Tourism Bureau of the Ministry of Transportation and Communications before the end of the following month."
+			"條文內容": "Before the end of January and the end of July every year, a hotel enterprise operator shall submit data of the monthly totals of its number of rooms available, number of rooms occupied, occupancy rate, number of room guests, operating income, operating expenditure, expenses on maintenance and facilities, and changes in fixed assets to the local administrative authority for the six months from July to December of the preceding year and for January to June of the current year, respectively.\r\nThe local administrative authority shall report the abovementioned data to the Tourism Bureau of the Ministry of Transportation and Communications before the end of the following month."
 		},
 		{
 			"條號": "Article 28",
@@ -171,7 +179,7 @@
 		},
 		{
 			"條號": "Article 34",
-			"條文內容": "In the event that a hotel enterprise violates Article 6, Article 7, Paragraph 2 of Article 9, Paragraph 1 of Article 15, Paragraph 3 of Article 16, Article 17 to Article 26, or Paragraph 1 of Article 27-1 of these Regulations, the local administrative authority shall impose punishment in accordance with Sub-paragraph 3 of Paragraph 2 of Article 55 of the Statute.\r\nIn the event that any of the operating personnel of a hotel enterprise violates Article 26 of these Regulations, the local administrative authority shall impose punishment in accordance with Paragraph 1 of Article 58 of the Statute."
+			"條文內容": "(delete)"
 		},
 		{
 			"編章節": "Chapter VI Additional Provisions"
@@ -182,7 +190,11 @@
 		},
 		{
 			"條號": "Article 36",
-			"條文內容": "In the event of any inconsistencies with Article 6 or Article 7 of these Regulations in the business premises or room facilities of a hotel enterprise whose operation has been approved prior to the promulgation of these Regulations, the hotel enterprise shall complete the required improvements within two years from the date of promulgation of these Regulations."
+			"條文內容": "(delete)"
+		},
+		{
+			"條號": "Article 36-1",
+			"條文內容": "Before continuing operations, operators of a non-profit premises that provided lodging to specific groups but took profits before the amendment to these Regulations took effect on January 22nd, 2015 shall submit their application for registration as a hotel enterprise to the local administrative authority, and obtain a registration certificate and designated hotel enterprise trade symbol.\r\nBefore commencing operations after the amendment to these Regulations takes effect on January 22nd, 2015, operators of a non-profit premises that provides lodging to specific groups and takes a profit shall submit their application for registration as a hotel enterprise to the local administrative authority, and obtain a registration certificate and designated hotel enterprise trade symbol."
 		},
 		{
 			"條號": "Article 37",

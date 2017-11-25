@@ -3,8 +3,8 @@
 	"英文法規名稱": "Enforcement Rules for Water Act",
 	"中文法規名稱": "水利法施行細則",
 	"法規網址": "http://law.moj.gov.tw/Eng/LawClass/LawContent.aspx?PCODE=J0110002",
-	"最新英文異動日期": "20091103",
-	"沿革內容": "1.Promulgated on March 22, 1943 by Executive Yuan.\r\n2.Amendment promulgated on September 16, 1944 by Executive Yuan.\r\n3.Addition and amendment promulgated on April 19, 1955 by Executive Yuan.\r\n4.Amendment to Article 30 promulgated on July 1, 1959 by Executive Yuan.\r\n5.Amendment promulgated on August 5, 1969 by Executive Yuan.\r\n6.Amendment promulgated on May 12, 1975 by Executive Yuan.\r\n7.Amendment promulgated on March 16, 1990 by Executive Yuan.\r\n8.Amendment promulgated on November 17, 2004 by Executive Yuan.\r\n9.Amendment to Article 29 and 36 promulgated on November 3, 2009 by Executive Yuan",
+	"最新英文異動日期": "20160913",
+	"沿革內容": "1.Promulgated on March 22, 1943 by Executive Yuan.\r\n2.Amendment promulgated on September 16, 1944 by Executive Yuan.\r\n3.Addition and amendment promulgated on April 19, 1955 by Executive Yuan.\r\n4.Amendment to Article 30 promulgated on July 1, 1959 by Executive Yuan.\r\n5.Amendment promulgated on August 5, 1969 by Executive Yuan.\r\n6.Amendment promulgated on May 12, 1975 by Executive Yuan.\r\n7.Amendment promulgated on March 16, 1990 by Executive Yuan.\r\n8.Amendment promulgated on November 17, 2004 by Executive Yuan.\r\n9.Amendment to Article 29 and 36 promulgated on November 3, 2009 by Executive Yuan\r\n10.Amended on September 13, 2016",
 	"法規內容": [
 		{
 			"編章節": "Chapter 1 General Provisions"
@@ -15,7 +15,7 @@
 		},
 		{
 			"條號": "Article 2",
-			"條文內容": "The term “surface water” depicted in the Act refers to water flowing or standing on ground surface; the term “groundwater” refers to water flowing or standing below the ground surface."
+			"條文內容": "The term “surface water” depicted in the Act refers to water flowing or standing on ground surface; the term “groundwater” refers to water flowing or standing below the ground surface. However, subsurface water inside the unsaturated zone under the riverbed within the waterway belongs to surface water."
 		},
 		{
 			"條號": "Article 3",
@@ -23,7 +23,7 @@
 		},
 		{
 			"條號": "Article 4",
-			"條文內容": "The term “waterway” depicted in the Act refers to areas run through by rivers, lakes, reservoir storage area, drainage facility area, canal, distributary, detention pond or waterflow of diversion route."
+			"條文內容": "The term “waterway” depicted in the Act refers to areas run through by rivers, lakes, regional drainage, distributary."
 		},
 		{
 			"條號": "Article 5",
@@ -50,18 +50,22 @@
 		},
 		{
 			"條號": "Article 10",
-			"條文內容": "The “alteration of waterway” depicted in Article 9 of the Act refers to alteration of river area, planned waterway remediation line, designated dike line, and the range of drainage facilities as well as changes to the vertical or cross section of waterway up to a certain extent as announced by the central authority-in-charge."
+			"條文內容": "The “alteration of waterway” depicted in Article 9 of the Act refers to the following behaviors:\r\n1. Manually divert rivers or regional drainage in part or in whole to other rivers or regional drainage of the same or different water system, including original rivers or regional drainage having impacts on two or more municipalities or counties (cities).\r\n2. Open up new waterways that divert rivers or regional drainage in part or in whole to the sea."
 		},
 		{
 			"編章節": "Chapter 3 Water Right"
 		},
 		{
 			"條號": "Article 11",
-			"條文內容": "The “use of water needed by an entity” depicted in Article 17 of the Act refers to the volume of water approved by the authority-in-charge based on needs for water storage or regulation, intake, conveyance, or usage as indicated in the application of a water work proprietor or an entity that needs to access water resources; if necessary, the use of water may be determined by means of surveying."
+			"條文內容": "Regarding the “use of water needed by an entity” depicted in Article 17 of the Act, the following major factors should be considered: \r\n1. Domestic use and public use: population of water supply.\r\n2. Agricultural use:\r\n(1) Irrigation:type of crop, irrigated area, irrigation rate,water conveyance loss, and time of daily water use.\r\n(2) Aquaculture: type and area of aquaculture.\r\n(3) Livestock: type and number of livestock. \r\n3. Hydro-power: designated water for generating units.\r\n4. Industrial use: designated water for development of industrial areas, which is adjusted according to actual needs; for individual factories, the type of industry, use of water per unit area, and the area of factory shall be considered.\r\n5. Others: granted based on actual purposes."
 		},
 		{
 			"條號": "Article 12",
 			"條文內容": "When a single-purpose or multi-purpose water work proprietor applies for water right registration, the water yield registered for each purpose of usage shall be the use of water approved by the authority-in-charge for the water work project, unless it is otherwise agreed among different water work proprietors and approved by the authority-in-charge.\r\nThe yield of water approved for a water work project by the authority-in-charge as specified in the preceding paragraph shall not contravene Article 55 of the Act."
+		},
+		{
+			"條號": "Article 12-1",
+			"條文內容": "When reviewing the water yield under the surface water rightin hydraulic structures established in accordance with Article 55, the authority-in-charge shall refer to the average inflow and actual capacity within the storage area of hydraulic structures, the authorized water supply, the authorized downstream water yield under the surface water right, the use of water needed by an entity, and other necessary matters for approval.\r\nThe chief representative of water right registration or the administrative authority of hydraulic structuresreferred to in the preceding paragraph shall review and update the water supply of hydraulic structures on a regular basis or based on actual situations and submit it to the authority-in-charge upon applying for the extension of water rightsas a reference to the review of water yield."
 		},
 		{
 			"條號": "Article 13",
@@ -72,8 +76,12 @@
 			"條文內容": "The authorized yield depicted in Articles 20 and 23 of the Act refers to the water yield stated in the water right deeds."
 		},
 		{
+			"條號": "Article 14-1",
+			"條文內容": "When reviewingthe water yield under the surface water right, the authority-in-charge shall refer to the constantly maintained yield based on hydrological testing, the authorized downstream water yield under the surface water right, the use of water needed by an entity, and other necessary matters for approval.\r\nThe constantly maintained yield referred to in the preceding paragraph refers to yield of surface water with flow exceedance probability of 85% or higher. The constantly maintained yield will be reviewed and updated by the authority-in-charge every five years."
+		},
+		{
 			"條號": "Article 15",
-			"條文內容": "With regard to temporary water right, the authority-in-charge shall notify the applicant to apply for water right registration pursuant to Article 29 of the Act, provided the authority-in-charge determines, based on hydrological testing conducted in accordance with Article 21 of the Act, that its water source will constantly maintain a yield sufficient for use by the applicant over a certain period of time, or it will develop new water sources pursuant to Article 55 of the Act; the temporary water right is granted only when the yield constantly maintained by the water source is not sufficient to meet the demands of the applicant, but has a surplus within a certain period.\r\nThe constantly maintained yield referred to in the preceding paragraph refers to yield of surface water with flow exceedance probability of 85% or higher."
+			"條文內容": "The surplus depicted in Article 21 of the Act refers to unstable possible yield of surface water with flow exceedance probability of 85% or higher, based on hydrological testing. \r\nBased on hydrological testing conducted in accordance with Article 21 of the Act, the temporary water right is granted only when the water source has a surplus.\r\nGiven that the yield constantly maintained by the water source is not sufficient to meet the demands of the applicant, the temporary water right will be granted only after the applicant changes the application."
 		},
 		{
 			"條號": "Article 16",
@@ -96,7 +104,7 @@
 		},
 		{
 			"條號": "Article 20",
-			"條文內容": "The term “transfer” depicted in Article 27 of the Act refers to the succession or assignment of water right and associated water work in its entirety; the term “alteration” refers to change of name, title or representative without changing the entity of water right holder as specified in subparagraph 3, Article 38 of the Act, or changes to the information stated in subparagraphs 4 ~ 14 or subparagraph 16 of Article 38 of the Act."
+			"條文內容": "The term “transfer” depicted in Article 27 of the Act refers to the succession or all or part of assignment of water right and associated water work; the term “alteration” refers to change of name, title or representative without changing the entity of water right holder as specified in Subparagraph 3, Article 38 of the Act, or changes to the information stated in Subparagraphs 4 ~ 14 or Subparagraph 16 of Article 38 of the Act."
 		},
 		{
 			"條號": "Article 21",
@@ -104,7 +112,7 @@
 		},
 		{
 			"條號": "Article 22",
-			"條文內容": "If the water intake point for drawing seawater lies below the average low tide level, application for water right registration provided in Article 28 of the Act is not required.\r\nThe “low-tide level” depicted in the preceding paragraph refers to the elevation of lowest water level in the ebb and flow process of ocean surface; the “average low tide level” refers to the yearlong average of the two low tide levels recorded each day."
+			"條文內容": "If the water intake point for drawing seawater lies below the average low tide level, application for water right registration provided in Article 28 of the Act is not required.\r\nThe “average low-tide level” depicted in the preceding paragraph refers to the yearlong average low-tide level of the tide station closest to the water-intake in the latest Tidal Observation Data Annual Report published by Central Weather Bureau."
 		},
 		{
 			"條號": "Article 23",
@@ -160,11 +168,15 @@
 		},
 		{
 			"條號": "Article 36",
-			"條文內容": "A water right holder that finds it necessary to have the duration of water right extended shall, in a period of sixty days starting from three months before the expiration date, apply for registration of extension. The authority-in-charge shall process extension applications that pass the aforesaid deadline as new applications.\r\nA water right holder shall use water as stated on the water right deed in a period of the expiration of original water right and approval of extension, if the extension is applied during the duration of the forgoing paragraph."
+			"條文內容": "A water right holder that finds it necessary to have the duration of water right extended shall, in a period of thirty days starting from two months before the expiration date, apply for registration of extension. A water right holder that applies the extension behind time and continues to use water after the expiration date shall be punished according to the Act. \r\nA water right holder shall use water as stated on the water right deed in a period of the expiration of original water right and approval of extension, if the extension is applied during the duration of the forgoing paragraph."
 		},
 		{
 			"條號": "Article 37",
-			"條文內容": "The so-called “other simple means of drawing water” depicted in subparagraph 4, first paragraph, Article 42 of the Act does not include diverting or drawing water by mechanical power."
+			"條文內容": "The so-called “other simple means of drawing water” depicted in Subparagraph 4, Paragraph 1, Article 42 of the Act refers to diverting or drawing water by non-mechanical power and through pipes of 2 inches (inclusive) or below in width or ditches with an cross-sectional area of 2,500 square centimeters (inclusive) or below, without any concrete structure built.\r\nThe use which is suspected of interfering with public water works or water usage by others depicted in Paragraph 2, Article 42 of the Act refers includes the following cases: \r\n1. Use of hot spring water that has a significant impact on the amount, temperature and ingredients of hot spring water or other public interests.\r\n2. Use of water from the shared reservoir or water supply pipe established for the collective use of households in a community or village.\r\n3. Other uses recognized by the authority-in-charge."
+		},
+		{
+			"條號": "Article 37-1",
+			"條文內容": "People living in the area withoutwater supply or with simple water supply or indigenous people living in indigenous areas and applying for water right registration for the domestic use or public use shall have the priority to be granted with the water right or temporary right in accordance with Article 43 of the Act."
 		},
 		{
 			"條號": "Article 38",
@@ -203,7 +215,7 @@
 		},
 		{
 			"條號": "Article 46",
-			"條文內容": "When an enterprise undergoes construction or expansion work and its planned water consumption reaches certain level, the government agency in charge of the enterprise may ask the authority-in-charge to examine and approve the proposed water consumption plan prior to approving the construction or expansion plan of the enterprise.\r\nTo prevent undersupply of water, water users should be capable of storing proper amount of water, and adopt water conservation and proper response measures to minimize the impact brought about by disruption of water supply."
+			"條文內容": "(Deleted)"
 		},
 		{
 			"編章節": "Chapter 6 Water Storage and Drainage"
@@ -248,8 +260,16 @@
 			"條文內容": "The agency in charge of flood control as provided in Article 77 of the Act shall keep the authority-in-charge informed of the water level everyday during the flood control season; when the flood water rises, the agency shall immediately circulate the water level information to relevant agencies and provide the authority-in-charge with a summary of the river sections with flood control works in place, the status of construction, and flood situation; after the flood control facilities are removed, the agency shall prepare a report on the course of flood control and submit it to the authority-in-charge for reference."
 		},
 		{
+			"條號": "Article 55-1",
+			"條文內容": "Discharging wastewater or drawing water with prior approval from the authority depicted in Subparagraph 2, Article 78-1 and Subparagraph 2, Paragraph 2, Article 78-3 of the Act refers to discharging wastewater or drawing water in constructions."
+		},
+		{
+			"條號": "Article 55-2",
+			"條文內容": "Plants or structures that shall be appropriately compensated in accordance with Paragraph 1, Article 79 of the Act are limited to those permitted by law; the land stretching to the outer reach of normal flood water depicted in Paragraph 2, Article 79 of the Act refers to the land ranging from the level of normal flood water to the line of river reservation zone."
+		},
+		{
 			"條號": "Article 56",
-			"條文內容": "The “area between a dike and river banks” depicted in Article 80 of the Act refers to the area between the dike line on the water side of the dike and the line on the water side of the river bank."
+			"條文內容": "The “area between a dike and river banks” depicted in Article 80 of the Act refers to the area between the line connecting hydraulic structures and land outside the dike and the line on the water side of the river channel."
 		},
 		{
 			"條號": "Article 57",
@@ -257,7 +277,7 @@
 		},
 		{
 			"條號": "Article 58",
-			"條文內容": "The “line of waterway management plan” depicted in Article 82 of the Act refers to the water-side dike shoulder lines or lines bordering the width of water surface under the waterway management plan; the “designated dike line” refers to the line starting from the outer dike line, including the boundary lines of dike foundation, flood barrier roads, land reserved for maintenance and repair, and land for safety control."
+			"條文內容": "The “line of waterway management plan” depicted in Article 82 of the Act refers to the water-side dike shoulder lines or lines bordering the width of water surface under the waterway management plan; the “boundary line” refers to the line covering the designated or constructedhydraulic structures or drainage facilities, flood barrier roads, land reserved for maintenance and repair, and land for safety control."
 		},
 		{
 			"條號": "Article 59",
@@ -285,6 +305,10 @@
 		{
 			"條號": "Article 64",
 			"條文內容": "The districts subject to flood control beneficiary fees depicted in Article 88 of the Act refer to districts protected by the construction and maintenance of flood control works."
+		},
+		{
+			"條號": "Article 64-1",
+			"條文內容": "Intake or use without permission depicted in Paragraph 1, Article 93 of the Act includes the following cases: \r\n1. Any person who takes or uses water without registering the water right based on the Act. However, wells that already exist since August 4, 2010 and are reported for control by the deadline prescribed by the authority-in-charge shall not apply. \r\n2. Any person who has acquired the water right and takes or uses water in violation of Article 38 0f the Act, except for one who lawfully allocates water resources under the authority-in-charge’s command in response to the drought.\r\n3. Any person who is exempted from water right registration and takes or uses water before registering the water right by the deadline prescribed by the authority-in-charge based on Paragraph 2, Article 42 of the Act."
 		},
 		{
 			"編章節": "Chapter 9 Supplemental Provisions"

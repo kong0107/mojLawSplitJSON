@@ -3,8 +3,8 @@
 	"英文法規名稱": "Organized Crime Prevention Act",
 	"中文法規名稱": "組織犯罪防制條例",
 	"法規網址": "http://law.moj.gov.tw/Eng/LawClass/LawContent.aspx?PCODE=C0000013",
-	"最新英文異動日期": "19961211",
-	"沿革內容": "1.Promulgated on Dec. 11. 1996",
+	"最新英文異動日期": "20170419",
+	"沿革內容": "1. Promulgated on December 11, 1996\r\n2. Amended to Article7 promulgated on July 20, 2016\r\n3. Amended to Article2~4、7-1、8 and delete to 5、17、18 promulgated on April 19, 2017",
 	"法規內容": [
 		{
 			"條號": "Article 1",
@@ -12,19 +12,19 @@
 		},
 		{
 			"條號": "Article 2",
-			"條文內容": "The term \"criminal organization\" referred to in this Act means an enterprise involved in racketeering and consists of an internal management system of three or more persons sharing a common purpose of committing criminal activities or inciting its member(s) to commit criminal activities, and is, collective, habitual and forcible or violent in nature."
+			"條文內容": "The term “criminal organization” in this Act refers to a structured, permanent, and profi-seeking organization formed by more than three persons involved in threats, violence, fraud, intimidation, or offenses that carry a maximum principal punishment of more than five years’ imprisonment.\r\nThe term of “structured organization” described in the preceding paragraph shall mean an organization not arbitrarily formed to commit immediate offenses, for which its name, statue, ritual, permanent location, continuous participation or work allocation of members are not required to be definite."
 		},
 		{
 			"條號": "Article 3",
-			"條文內容": "An indicted instigator, principal, controller or commander of a racketeering criminal organization shall be punished by a fine of not less than one hundred million New Taiwan dollars and a term of imprisonment not less than three years and not more than ten years. An indicted participant to a racketeering criminal organization shall be punished with a fine of not less than ten million New Taiwan dollars and a term of imprisonment not less than six months and not more than five years.\r\nA repeat offender who has completed the sentence or been granted amnesty for prior contravention(s) of the law stated in the previous provision shall, if the offender is the instigator, principal, controller, or commander of a racketeering criminal organization, be punished by a fine of not less than two hundred million New Taiwan dollars and a term of imprisonment for not less than five years; where the offender is a participant to the said organization, [he/she shall be subject to] punishment of a fine of not less than twenty million New Taiwan dollars and a term of imprisonment for not less than one year and not more than seven years.\r\nAn offender under the first paragraph of this Article shall, after completion of the prescribed punishment or grant of amnesty, be required to work in a public service establishment for a period of three years; and five years for an offender under the second paragraph of this Article.\r\nAfter an offender has duly served the prescribed sentence imposed pursuant to this Article, the punishment mentioned in the preceding paragraph may be removed by the court upon petition from the prosecutor who deems that under the circumstances of the case, it is unnecessary to enforce the said provision.\r\nThe enforcement of paragraph three of this Article may also be discharged through a petition submitted to the court by the executing authority which deems such enforcement unnecessary after the offender has served in the public service establishment for a period of not less than one year and six months."
+			"條文內容": "The person initiating, hosting, controlling or directing a criminal organization must be sentenced to imprisonment for not less than three years but not more than ten years; in addition thereto, a fine of not more than TWD 100,000,000 may be imposed; a participant of such criminal organization shall be sentenced to imprisonment for not less than six months but not more than five years; in addition thereto, a fine of not more than TWD 10,000,000 may be imposed. Nevertheless, where the level of participation is considered minor, the punishment may be reduced or omitted.\r\nWhere public servant or an elected public official from elections commits the offense described in the preceding paragraph, the punishment thereof shall be increased by up to one half.\r\nFor the person committing the offense described in Paragraph 1, before the execution of the punishment, he or she shall be committed to a labor establishment to perform compulsory labor for a period of three years.\r\nFor the “compulsory labor” described in the preceding paragraph, the provisions of Paragraph 2 of Article 90, Paragraph 3 of Article 90, Paragraph 2 and Paragraph 3 of Article 98 of the Criminal Code apply.\r\nWhere a person using verbal, action, text or other methods to explicitly or implicitly express that he or she is a member of a criminal organization or is associated with a criminal organization or its members in order to demand others to perform any one of the following actions, such person shall be sentenced to imprisonment for not more than three years; in addition thereto, a fine of not more than TWD 3,000,000 may be imposed:\r\n1. To sell property, provide investment or shares of a commercial entity or abandon the right of business operation.\r\n2. To cooperate in handling procedures for urban renewal and reconstruction.\r\n3. To purchase products or pay labor remunerations.\r\n4. To accept debts or accept the results of debt negotiations.\r\nWhere a person causes others to perform non-obligated matters or hinders the exercise of rights by others based on the actions described in the preceding paragraph, the same punishment described in the preceding paragraph is applied.\r\nAn attempt to commit an offense specified in the preceding two paragraphs is punishable."
 		},
 		{
 			"條號": "Article 4",
-			"條文內容": "The punishment prescribed in Article 3 of this law shall be increased up to one half for the following offenders:\r\n1.Where the offender is a civil servant of elected official;\r\n2.Where the offender has instigated others through coercion or threat of violence to participate in organized criminal activities or where the offender has impeded any participant from severing relations with the criminal organization; and,\r\n3.Where the offender has encouraged, assisted, or engaged a minor to participate in a criminal organization."
+			"條文內容": "A person recruiting others to join a criminal organization is sentenced to imprisonment for not less than six months but not more than five years; in addition thereto, a fine of not more than TWD 10,000,000 may be imposed.\r\nWhere an adult recruits’ persons under the age of eighteen to join a criminal organization, the punishment described in the preceding paragraph shall be increased by up to one half.\r\nA person using threats, violence or other illegal methods to cause others to join a criminal organization or hinder its member from departing such organization is sentenced to imprisonment for not less than one year but not more than seven years; in addition thereto, a fine of not more than TWD 20,000,000 may be imposed.\r\nAn attempt to commit an offense specified in the preceding two paragraphs is punishable."
 		},
 		{
 			"條號": "Article 5",
-			"條文內容": "Where any participant of a criminal organization is charged with other offenses in addition to the offense prescribed by this Act thus subject to be dealt with by the law carrying the most severe punishment against his/her offenses according to Article 55 of the Criminal Code, the punishment to be imposed on him/her shall be increased up to one half."
+			"條文內容": "(Deleted)"
 		},
 		{
 			"條號": "Article 6",
@@ -32,11 +32,15 @@
 		},
 		{
 			"條號": "Article 7",
-			"條文內容": "The overall property of a criminal organization owned by an offender acting in contravention of Article 3 of this Act shall be traced for collection or confiscated after deducting any portion belonging to the victims. Where the property can not be confiscated in part or in whole, then an amount equivalent to the ascribed monetary value of the said property shall be traced and levied.\r\nIf the source of obtaining the property can not be legally established, any property obtained by an offender acting in contravention of Article 3 of this Act after participating in the criminal organization shall be traced for collection or confiscated subsequent to deducting the portion to be returned to the victims. Where the property can not be confiscated in part or in whole, then an amount equivalent to the ascribed monetary value of the aside property shall be traced for levied.\r\nThe prosecutor may where necessary sequester the property of the said offender referred to in the preceding two paragraphs to facilitate the process of tracing for collection, confiscation, or tracing for levying."
+			"條文內容": "The overall property of a criminal organization owned by an offender acting in contravention of Article 3 of this Act shall be confiscated after deducting any portion belonging to the victims.\r\nIf the source of obtaining the property can not be legally established, any property obtained by an offender acting in contravention of Article 3 of this Act after participating in the criminal organization shall be confiscated subsequent to deducting the portion to be returned to the victims."
+		},
+		{
+			"條號": "Article 7-1",
+			"條文內容": "Where a representative of a legal entity, an agent of a legal entity or a natural person, an employee or other workers committing the offenses described in Article 3 to Article 6 under the performance of duties, in addition to the punishments imposed on the actor, the legal entity and the natural person shall also be penalized for the fines described in the corresponding Articles accordingly. Nevertheless, this provision does not apply to legal entities or natural persons that have fulfilled their supervision responsibilities or have taken preventive actions against the occurrence of victims or offenses."
 		},
 		{
 			"條號": "Article 8",
-			"條文內容": "The punishments referred to in Article 3 of this Act may be reduced or removed for any offender who has freely surrendered him/herself to the authorities, dissolved the criminal organization, severed his/her relations with the said organization or where information tendered by the said offender has led to the dissolution of a criminal organization. The punishments in Article 3 may also be reduced where the accused confesses during the investigation.\r\nThe punishments under Article 6 of this Act may be reduced or removed for any offender who has freely surrendered him/herself to the authorities and tendered information leading to the dissolution of a criminal organization financially supported by the offender. The said punishments may also be reduced where the accused confesses during the investigation."
+			"條文內容": "When a person who has committed offences described in Article 3 and surrenders himself for trial and of his own accord dismisses or departs from his criminal organization, his punishment may be reduced or omitted. When a criminal organization is discovered due to the information provided by such person, his punishment may also be reduced or omitted. When a person makes a confession during both the investigation and trial proceedings, his punishment may be reduced.\r\nWhen a person has committed the offences described in Article 4 or Article 6 and surrenders himself for trial, and a criminal organization under both Articles is discovered due to the information provided by that person, his punishment may also be reduced or remitted. When a person makes a confession during both the investigation and trial proceedings, his punishment may be reduced."
 		},
 		{
 			"條號": "Article 9",
@@ -72,11 +76,11 @@
 		},
 		{
 			"條號": "Article 17",
-			"條文內容": "This Act shall prevail in the event of conflict with the Regulations for Curtailing Racketeering Activities."
+			"條文內容": "(Deleted)"
 		},
 		{
 			"條號": "Article 18",
-			"條文內容": "A criminal organization participant who has registered with the police to sever his/her relations with such organization and refrains form any criminal activity within two months proceeding the date of promulgation of this Act shall be absolved from any punishment. The instigator, principal, controller, or commander who registers with the police to dissolve a criminal organization and who refrains from any criminal activity within two months before promulgation of this Act shall also be absolved from any punishment.\r\nThe measures governing registration herein shall be prescribed by the Ministry of Interior."
+			"條文內容": "(Deleted)"
 		},
 		{
 			"條號": "Article 19",

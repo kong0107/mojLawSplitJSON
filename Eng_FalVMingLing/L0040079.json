@@ -1,18 +1,21 @@
 {
 	"法規性質": "命令",
-	"英文法規名稱": "Standards for the Safety Tolerance of Atomic Dust and Radioactivity Contamination in Foods",
+	"英文法規名稱": "Standards for the Tolerance of Atomic Dust and Radioactivity Contamination in Foods",
 	"中文法規名稱": "食品中原子塵或放射能污染容許量標準",
 	"法規網址": "http://law.moj.gov.tw/Eng/LawClass/LawContent.aspx?PCODE=L0040079",
-	"最新英文異動日期": "20130820",
-	"沿革內容": "1.Food No. 0970404024 Announced, 7/1/2008\r\n2.Amended on August 20, 2013",
+	"最新英文異動日期": "20160118",
+	"附件": [
+		"http://law.moj.gov.tw/Eng/Law/law_getfile.ashx?FileId=0000003154"
+	],
+	"沿革內容": "1.DOH Food No0970404024Announced, 2008.07.01\r\n2.MOHW Food No. 1021350146 Amended, 2013.08.20\r\n3.MOHW Food No 1041304620 Amended,2016.01.18",
 	"法規內容": [
 		{
 			"條號": "Article 1",
-			"條文內容": "The Standards are established in accordance with the provisions of the second paragraph of Article 15 of the Act Governing Food Sanitation."
+			"條文內容": "The Standards are established in accordance with the provisions of the second paragraph of Article 15 of the Act Governing Food Safety and Sanitation."
 		},
 		{
 			"條號": "Article 2",
-			"條文內容": "The safety tolerances of atomic dust and radioactivity contamination in foods:\r\n\r\n┌───────────┬─────────┬────────┐\r\n│        ＼    Food    │Milk products and │Other foods     │\r\n│category  ＼          │infant foods      │                │\r\n│Radioactive ＼        │                  │                │\r\n│nucleus       ＼      │                  │                │\r\n├───────────┼─────────┼────────┤\r\n│131                   │Not more than     │Not more than   │\r\n│   I                  │55Bq/kg           │300 Bq/kg       │\r\n├───────────┼─────────┼────────┤\r\n│134   137             │Not more than 370 │Not more than   │\r\n│   Cs+   Cs           │Bq/kg             │370 Bq/kg 　　  │\r\n└───────────┴─────────┴────────┘"
+			"條文內容": "The tolerances of atomic dust and radioactivity contamination in foods:\r\n┌───────────────┬───────┬──────┐\r\n│        ＼ Radioactive nucleus│131I          │134Cs+137Cs │\r\n│          ＼                  │              │            │\r\n│Food category                 │              │            │\r\n├───────────────┼───────┼──────┤\r\n│Milk and Milk products        │55 Bq/kg      │50Bq/kg     │\r\n├───────────────┼───────┼──────┤\r\n│Infant foods                  │55 Bq/kg      │50Bq/kg     │\r\n├───────────────┼───────┼──────┤\r\n│Soft drink and bottled water  │100Bq/kg      │10Bq/kg     │\r\n├───────────────┼───────┼──────┤\r\n│Other foods (1)(2)            │100Bq/kg      │100Bq/kg    │\r\n├───────────────┴───────┴──────┤\r\n│Note. The standards apply to a nuclear or radiological      │\r\n│contamination, which includes both accidents and malevolent │\r\n│actions.                                                    │\r\n│(1)Dry foods intended to be consumed in a reconstituted     │\r\n│   state (e.g.,dried products of mushrooms, seaweeds, fish, │\r\n│   shellfish and vegetables)shall apply to the tolerancefor │\r\n│   \"Other foods\" after reconstitute to ready-to-eat         │\r\n│   state.Foods intended to be consumed in a dried state     │\r\n│   (e.g.,nori,niboshi, dried cuttlefish, raisin)shall       │\r\n│   directly apply to the tolerance for \"Other foods\".       │\r\n│(2)For tea leaves, a liquid extract obtained after brewing  │\r\n│   process shall apply to the tolerance for \"Soft drink and │\r\n│   bottled water\".                                          │\r\n└──────────────────────────────┘"
 		},
 		{
 			"條號": "Article 3",

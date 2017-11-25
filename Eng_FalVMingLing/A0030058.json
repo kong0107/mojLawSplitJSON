@@ -3,8 +3,8 @@
 	"英文法規名稱": "Enforcement Rules of the Government Procurement Act",
 	"中文法規名稱": "政府採購法施行細則",
 	"法規網址": "http://law.moj.gov.tw/Eng/LawClass/LawContent.aspx?PCODE=A0030058",
-	"最新英文異動日期": "20121225",
-	"沿革內容": "1. Promulgated on May 21, 1999\r\n2. Amended on August 31, 2001\r\n3. Amended on November 27, 2002\r\n4. Amended on November 30, 2010\r\n5. Amended on December 25, 2012",
+	"最新英文異動日期": "20161118",
+	"沿革內容": "1. Promulgated on May 21, 1999\r\n2. Amended on August 31, 2001\r\n3. Amended on November 27, 2002\r\n4. Amended on November 30, 2010\r\n5. Amended on December 25, 2012\r\n6. Amended on November 18, 2016",
 	"法規內容": [
 		{
 			"編章節": "Chapter 1 General Principles"
@@ -106,7 +106,7 @@
 		},
 		{
 			"條號": "Article 23",
-			"條文內容": "For a procurement where part of it involves an exclusive right or a sole source product or supply which no reasonable alternative or substitute exists, and the estimated value of that part is not less than 50 per cent of the value of the procurement, it may be conducted by limited tendering procedures pursuant to subparagraph 2 of paragraph 1 of Article 22 of the Act, provided that separating the procurement into several parts would cause significant inconvenience to the entity and it is necessary to procure all parts as a whole."
+			"條文內容": "For a procurement where part of it involves an exclusive right or a sole source product or supply which no reasonable alternative or substitute exists, and the estimated value of that part is not less than 50 per cent of the value of the procurement, it may be conducted by limited tendering procedures pursuant to subparagraph 2 of paragraph 1 of Article 22 of the Act, provided that separating the procurement into several parts would cause significant inconvenience to the entity and it is necessary to procure all parts as a whole.\r\nArticle 23-1In conducting a procurement under limited tendering procedures pursuant to paragraph 1 of Article 22 of the Act, the requesting, using or procuring unit of an entity shall give a detailed account of each specific case in conformity with the requirements in each subparagraph of that paragraph, and report it to the head of the entity or the personnel authorized by the head for approval. Where it is applicable to conduct price competition under restricted tendering, such tendering shall be a preferred method to use.\r\nIn conducting a procurement under limited tendering procedures pursuant to paragraph 1 of Article 22 of the Act, an entity may publish solicitation notice on the Government Procurement Gazette or make it available on the information network of the responsible entity, unless otherwise provided for in the Act."
 		},
 		{
 			"條號": "Article 23-1",
@@ -154,7 +154,7 @@
 		},
 		{
 			"條號": "Article 32",
-			"條文內容": "The term \"does not involve essential parts of the contract\" referred to in paragraph 3 of Article 33 of the Act includes the following:\r\n1. alterable items specified in the tender documentation;\r\n2. optional items not for tender price comparison;\r\n3. matters for reference; and\r\n4. other matters not affecting the constitution of a contract."
+			"條文內容": "The term \"does not involve essential parts of the contract\" referred to in paragraph 3 of Article 33 of the Act includes the following:\r\n1. alterable or supplementable items specified in the tender documentation;\r\n2. optional items not for tender price comparison;\r\n3. matters for reference; and\r\n4. other matters not affecting the constitution of a contract"
 		},
 		{
 			"條號": "Article 33",
@@ -381,7 +381,7 @@
 		},
 		{
 			"條號": "Article 84",
-			"條文內容": "The term \"extraordinary circumstances\" referred to in Article 61 of the Act means any of the following circumstances:\r\n1. where procurements are conducted with a view to commercial resale or with a view to use in the production of goods or supply of services for commercial sale, and the award price is related to commercial secret and is approved by the head of the entity or the personnel authorized by the head;\r\n2. where circumstances specified in subparagraph 2 of paragraph 1 of Article 104 of the Act exist;\r\n3. confidential procurements in additional to the circumstances specified in the preceding two subparagraphs; or\r\n4. other circumstances as prescribed by the responsible entity.\r\nWhere an award price referred to in subparagraph 1 of the preceding paragraph is related to commercial secret, the entity may exclude the award price from the dissemination of the outcome of an award to be published or to be notified to all tenderers in writing.\r\nThe term \"within a specific period of time after award\" referred to in Article 61 of the Act means 30 days form the date of award.\r\nWhere the outcome of an award is not published on the Government Procurement Gazette in whole or in part pursuant to Article 61 of the Act, the award data in complete shall still be provided by the entity to the computer database designated by the responsible entity or to the responsible entity periodically pursuant to Article 62 of the Act."
+			"條文內容": "The term \"extraordinary circumstances\" referred to in Article 61 of the Act means any of the following circumstances:\r\n1. where procurements are conducted with a view to commercial resale or with a view to use in the production of goods or supply of services for commercial sale, and the content of contract award is related to commercial secret and is approved by the head of the entity or the personnel authorized by the head;\r\n2. where circumstances specified in subparagraph 2 of paragraph 1 of Article 104 of the Act exist;\r\n3. confidential procurements in additional to the circumstances specified in the preceding two subparagraphs; or\r\n4. Where the content of contract award referred to in subparagraph 1 of the preceding paragraph is related to commercial secret, the entity may exclude the content of contract award from the dissemination of the outcome of an award to be published or to be notified to all tenderers in writing.If only partial content of contract award involves commercial secret, the rest shall still be published and be notified to all tenderers.\r\nThe term \"within a specific period of time after award\" referred to in Article 61 of the Act means 30 days form the date of award.\r\nWhere the outcome of an award is not published on the Government Procurement Gazette in whole or in part pursuant to Article 61 of the Act, the award data in complete shall still be provided by the entity to the computer database designated by the responsible entity or to the responsible entity periodically pursuant to Article 62 of the Act."
 		},
 		{
 			"條號": "Article 85",
@@ -517,7 +517,7 @@
 		},
 		{
 			"條號": "Article 111",
-			"條文內容": "An entity may specify in the tender documentation the circumstances to which the term of \"time-limit for contract performance is seriously delayed\" referred to in subparagraph 10 of paragraph 1 of Article 101 of the Act shall apply. Where the circumstances are not specified, a 10% or more delay in the progress of contract performance is considered a serious delay for large procurements of construction, while a 20% or more delay that is not less than 10 days in the progress of contract performance is considered a serious delay for other procurements.\r\nThe percentage of delay referred to in the preceding paragraph shall be calculated in accordance with the following:\r\n1. An entity shall notify the supplier to improve the work within certain period of time under the circumstances where the contract performance has not yet completed and the delay in the progress reaches the percentage provided in the preceding paragraph, and failure to make improvement within the time-limit shall render the entity to calculate the days of delay.\r\n2. Where the contract performance has completed but exceeds the time-limit, the delay shall be calculated depending on the number of days exceeding the time-limit."
+			"條文內容": "An entity may specify in the tender documentation the circumstances to which the term of \"time-limit for contract performance is seriously delayed\" referred to in subparagraph 10 of paragraph 1 of Article 101 of the Act shall apply. Where the circumstances are not specified, a 10% or more delay in the progress of contract performance is considered a serious delay for large procurements of construction, while a 20% or more delay that is not less than 10 days in the progress of contract performance is considered a serious delay for other procurements.\r\nThe percentage of delay referred to in the preceding paragraph shall be calculated in accordance with the following:\r\n1. An entity shall notify the supplier to improve the work within a certain time-limit under the circumstance where the contract performance has not yet completed and the delay in the progress reaches the percentage provided in the preceding paragraph. For failure to make improvement within the time-limit, where the method for calculating the progress of contract performance has been specified by the entity, the percentage of delay in the progress on the day of making the notification and the last day of the aforementioned time-limit shall be calculated respectively by the percentage difference between the actual progress and the scheduled progress approved by the entity. Where the method for calculating the progress of content performance is not specified by the entity, it shall be calculated depending on the number of days exceeding the time-limit.\r\n2. Where the contract performance has completed but exceeds the time-limit, or the contract performance has not yet completed but exceeds the time limit, the delay shall be calculated depending on the number of days exceeding the time-limit."
 		},
 		{
 			"條號": "Article 112",
@@ -533,7 +533,7 @@
 		},
 		{
 			"條號": "Article 113",
-			"條文內容": "This Enforcement Rules shall take effect May 27, 1999.\r\nThe amendment to this Enforcement Rules shall take effect on the date of promulgation.\r\n\r\nNote: In case of discrepancies between the Chinese version and this English version, the Chinese version shall prevail."
+			"條文內容": "This Enforcement Rules shall take effect May 27, 1999.\r\nThe amendment to this Enforcement Rules shall take effect on the date of promulgation."
 		}
 	]
 }
