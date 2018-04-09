@@ -3,8 +3,8 @@
 	"英文法規名稱": "Regulations Governing Enrollment in Postal Simple Life Insurance Policies",
 	"中文法規名稱": "郵政簡易人壽保險投保規則",
 	"法規網址": "http://law.moj.gov.tw/Eng/LawClass/LawContent.aspx?PCODE=G0390037",
-	"最新英文異動日期": "20090615",
-	"沿革內容": "1. Promulgated on September 24,1947.\r\n2. Amendment to 40 articles in all on July 7,1992.\r\n3. Amendment to Article 4 on November 8,2001.\r\n4. Amendment to 29 articles in all on December 27, 2002.\r\n5. Amendment to Article 2,3,6~8,19,25,26,29 and deletion of Article13 per Ministry of  Transportation and Communications Decree No. Jiiao-Iu-Zi-0960085024、Financial Supervisory Commission of the Executive Yuan Decree No. Jiin-Guan-Bao3-Zi-09600087831 dated June 29,2007；and implemented from announcement date. \r\n6. Amendment to Article 2,3,7,8,19,25 per Ministry of Transportation and Communications Decree No. Jiiao-Iu-Zi-0980085023、Financial Supervisory Commission of the Executive Yuan Decree No. Jiin-Guan-Bao-Li-Zi-09800078031 dated June 15,2009；and implemented from announcement date.",
+	"最新英文異動日期": "20171121",
+	"沿革內容": "1.Promulgated on September 24,1947.\r\n2.Amended on December 11, 1969\r\n3.Amended on December 20, 1975\r\n4.Amended on September 250, 1981\r\n5.Amended on June 15, 1987\r\n6.Amendment to 40 articles in all on July 7,1992.\r\n7.Amendment to Article 4 on November 8,2001.\r\n8.Amendment to 29 articles in all on December 27, 2002.\r\n9.Amendment to Article 2,3,6~8,19,25,26,29 and deletion of Article13 per Ministry of Transportation and Communications Decree No. Jiiao-Iu-Zi-0960085024、Financial Supervisory Commission of the Executive Yuan Decree No. Jiin-Guan-Bao3-Zi-09600087831 dated June 29,2007；and implemented from announcement date.\r\n10.Amendment to Article 2,3,7,8,19,25 per Ministry of Transportation and Communications Decree No. Jiiao-Iu-Zi-0980085023、Financial Supervisory Commission of the Executive Yuan Decree No. Jiin-Guan-Bao-Li-Zi-09800078031 dated June 15,2009；and implemented from announcement date.\r\n11.Amendment to Articles 3, 5, 26, 27 per Ministry of Transportation and Communications Decree No. Jiiao-Iu-Zi-10650133471 dated November 21, 2017 Financial Supervisory Commission Decree No. Jiin-Guan-Bao-Shou-Zi-10600101672 and implemented from announcement date.",
 	"法規內容": [
 		{
 			"編章節": "Chapter One General Principles"
@@ -19,7 +19,7 @@
 		},
 		{
 			"條號": "Article 3",
-			"條文內容": "Chunghwa Post shall set the premium rates of the insurance products as mandated in Article 4 of this Act based on the following factors: assumed interest rates of premium, mortality tables, experience tables of mortality and loading.\r\nThe assumed interest rates as mentioned in the preceding paragraph shall be set by Chunghwa Post depending on the current economy and the types of insurance.\r\nThe mortality tables and the various related experience tables of mortality as mentioned in the first paragraph shall be based on the citizen mortality table(s) compiled by the Ministry of Interior, the postal simple life insurance standard ordinary experience table compiled by Chunghwa Post or other related experience tables from Taiwan or abroad that are recognized by the Financial Supervisory Commission of the Executive Yuan（FSC）."
+			"條文內容": "Chunghwa Post shall set the premium rates of the insurance products as mandated in Article 4 of this Act based on the following factors: assumed interest rates of premium, mortality tables, experience tables of mortality and loading.\r\nThe assumed interest rates as mentioned in the preceding paragraph shall be set by Chunghwa Post depending on the current economy and the types of insurance.\r\nThe mortality tables and the various related experience tables of mortality as mentioned in the first paragraph shall be based on the citizen mortality table(s) compiled by the Ministry of Interior, the postal simple life insurance standard ordinary experience table compiled by Chunghwa Post or other related experience tables from Taiwan or abroad that are recognized by the Financial Supervisory Commission（FSC）."
 		},
 		{
 			"條號": "Article 4",
@@ -30,7 +30,7 @@
 		},
 		{
 			"條號": "Article 5",
-			"條文內容": "The applicant shall fill out an application form when entering into an insurance contract. The applicant and the insured shall answer all the questions on the form truthfully, sign or affix their seals on the form, and then give it to an insurance handling branch along with the first premium payment.\r\nThe insurance handling branch shall issue a receipt when accepting the premium as mentioned in the preceding paragraph."
+			"條文內容": "The applicant shall fill out an application form when entering into an insurance contract. The applicant and the insured shall answer all the questions on the form truthfully, sign or affix their seals on the form, and then give it to Chunghwa Post along with the first premium payment.\r\nAfter receiving the premiums as mentioned in the preceding paragraph and agreeing to insure it, Chunghwa Post shall issue a receipt."
 		},
 		{
 			"條號": "Article 6",
@@ -42,7 +42,7 @@
 		},
 		{
 			"條號": "Article 8",
-			"條文內容": "All policies shall bear the signature or seal of the vice president in charge of the life insurance business of Chunghwa Post and shall be countersigned by the director of the Life Insurance Department and shall include the following entries:\r\n1. The amount insured.\r\n2. The type of insurance and the period of insurance.\r\n3. The premium.\r\n4. The name of the applicant.\r\n5. The name of the insured.\r\n1. The name(s) of the beneficiary.\r\n2. The date the insurance contract goes into effect.\r\n3. The number and contract the date of issue of the insurance policy."
+			"條文內容": "All policies shall bear the signature or seal of the vice president in charge of the life insurance business of Chunghwa Post and shall be countersigned by the director of the Life Insurance Department and shall include the following entries:\r\n1. The amount insured.\r\n2. The type of insurance and the period of insurance.\r\n3. The premium.\r\n4. The name of the applicant.\r\n5. The name of the insured.\r\n6. The name(s) of the beneficiary.\r\n7. The date the insurance contract goes into effect.\r\n8. The number and contract the date of issue of the insurance policy."
 		},
 		{
 			"編章節": "Chapter Three Premium Payment"
@@ -132,11 +132,11 @@
 		},
 		{
 			"條號": "Article 26",
-			"條文內容": "Group individual life insurance as mentioned in the preceding article shall enjoy a premium discount; the discount amount and methods shall be separately negotiated by the insurer and the applicant. \r\nThe insurer shall submit a report of the aforementioned situation to the FSC for approval and notify the Ministry of Transportation and Communications in writing."
+			"條文內容": "Group individual life insurance as mentioned in the preceding article shall enjoy a premium discount; the discount amount and methods shall be separately negotiated by the insurer and the applicant.\r\nThe insurer shall submit a report of the aforementioned situation to the FSC for approval and notify the Ministry of Transportation and Communications in writing."
 		},
 		{
 			"條號": "Article 27",
-			"條文內容": "When applying for a group individual life insurance, the group applying shall elect a representative to fill out the group individual life insurance application and submit it to the insurance handling branch along with the application and first premium of each insured."
+			"條文內容": "When applying for a group individual life insurance, the group applying shall elect a representative to fill out the group individual life insurance application and submit it to Chunghwa Post along with the application and first premium of each insured.\r\nAfter receiving the premiums as mentioned in the preceding paragraph and agreeing to insure it, Chunghwa Post shall issue a receipt."
 		},
 		{
 			"條號": "Article 28",
