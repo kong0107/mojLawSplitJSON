@@ -3,21 +3,18 @@
 	"法規名稱": "衛星廣播電視事業及境外衛星廣播電視事業換照審查辦法",
 	"法規網址": "http://law.moj.gov.tw/LawClass/LawContent.aspx?PCODE=K0060101",
 	"法規類別": "行政＞國家通訊傳播委員會＞傳播目",
-	"最新異動日期": "20170718",
+	"最新異動日期": "20180517",
 	"是否英譯註記": "Y",
-	"英文法規名稱": "Examination Regulations on the Establishment License Renewal of Satellite Broadcasting Businesses and Foreign Satellite Broadcasting Businesses",
+	"英文法規名稱": "Examination Regulations for the License Renewal of Satellite Broadcasting and Foreign Satellite Broadcasting Businesses",
 	"附件": [
 		"http://law.moj.gov.tw/Law/law_getfile.ashx?FileId=0000181408",
 		"http://law.moj.gov.tw/Law/law_getfile.ashx?FileId=0000181409",
+		"http://law.moj.gov.tw/Law/law_getfile.ashx?FileId=0000181410",
 		"http://law.moj.gov.tw/Law/law_getfile.ashx?FileId=0000181411",
-		"http://law.moj.gov.tw/Law/law_getfile.ashx?FileId=0000181416",
-		"http://law.moj.gov.tw/Law/law_getfile.ashx?FileId=0000181417",
-		"http://law.moj.gov.tw/Law/law_getfile.ashx?FileId=0000181418",
 		"http://law.moj.gov.tw/Law/law_getfile.ashx?FileId=0000181419",
 		"http://law.moj.gov.tw/Law/law_getfile.ashx?FileId=0000181420",
 		"http://law.moj.gov.tw/Law/law_getfile.ashx?FileId=0000181421",
 		"http://law.moj.gov.tw/Law/law_getfile.ashx?FileId=0000181422",
-		"http://law.moj.gov.tw/Law/law_getfile.ashx?FileId=0000181423",
 		"http://law.moj.gov.tw/Law/law_getfile.ashx?FileId=0000181424",
 		"http://law.moj.gov.tw/Law/law_getfile.ashx?FileId=0000181425",
 		"http://law.moj.gov.tw/Law/law_getfile.ashx?FileId=0000181426",
@@ -28,11 +25,15 @@
 		"http://law.moj.gov.tw/Law/law_getfile.ashx?FileId=0000181431",
 		"http://law.moj.gov.tw/Law/law_getfile.ashx?FileId=0000181432",
 		"http://law.moj.gov.tw/Law/law_getfile.ashx?FileId=0000201360",
-		"http://law.moj.gov.tw/Law/law_getfile.ashx?FileId=0000201361",
-		"http://law.moj.gov.tw/Law/law_getfile.ashx?FileId=0000201362",
-		"http://law.moj.gov.tw/Law/law_getfile.ashx?FileId=0000201363"
+		"http://law.moj.gov.tw/Law/law_getfile.ashx?FileId=0000217898",
+		"http://law.moj.gov.tw/Law/law_getfile.ashx?FileId=0000217899",
+		"http://law.moj.gov.tw/Law/law_getfile.ashx?FileId=0000217900",
+		"http://law.moj.gov.tw/Law/law_getfile.ashx?FileId=0000217901",
+		"http://law.moj.gov.tw/Law/law_getfile.ashx?FileId=0000217902",
+		"http://law.moj.gov.tw/Law/law_getfile.ashx?FileId=0000217903",
+		"http://law.moj.gov.tw/Law/law_getfile.ashx?FileId=0000217904"
 	],
-	"沿革內容": "1.中華民國一百零五年七月六日國家通訊傳播委員會通傳內容字第 10548\r\n  018400  號令訂定發布全文 16 條；並自發布日施行\r\n2.中華民國一百零六年七月十八日國家通訊傳播委員會通傳內容字第 106\r\n  48020471  號令修正發布第 3  條條文之附表二之一、附表三、第 4  \r\n  條條文之附表二之一、附表三、第 5  條條文之附表二之二、附表二之\r\n  三、附表三、第 6  條條文之附表二之二、附表二之三、附表三；刪除\r\n  第 9  條條文",
+	"沿革內容": "1.中華民國一百零五年七月六日國家通訊傳播委員會通傳內容字第 10548\r\n  018400  號令訂定發布全文 16 條；並自發布日施行\r\n2.中華民國一百零六年七月十八日國家通訊傳播委員會通傳內容字第 106\r\n  48020471  號令修正發布第 3  條條文之附表二之一、附表三、第 4  \r\n  條條文之附表二之一、附表三、第 5  條條文之附表二之二、附表二之\r\n  三、附表三、第 6  條條文之附表二之二、附表二之三、附表三；刪除\r\n  第 9  條條文\r\n3.中華民國一百零七年五月十七日國家通訊傳播委員會通傳內容字第 107\r\n  48012161  號令修正發布第 2  條條文及第 5、6 條條文之附表二之二\r\n  、附表二之三、第 3、4、5、6 條條文之附表三、第 3、4 條條文之附\r\n  表四之一、第 5、6 條條文之附表四之二、附表四之三及附表六之三",
 	"法規內容": [
 		{
 			"條號": "第 1 條",
@@ -40,7 +41,7 @@
 		},
 		{
 			"條號": "第 2 條",
-			"條文內容": "衛星廣播電視事業及境外衛星廣播電視事業之分公司或代理商於執照期間\r\n屆滿前六個月，應依指定方式提出申請書及換照之營運計畫向主管機關申\r\n請換照。"
+			"條文內容": "衛星廣播電視事業及境外衛星廣播電視事業之分公司或代理商於執照期間\r\n屆滿前六個月，應依指定方式提出申請書及換照之營運計畫向主管機關申\r\n請換照。\r\n衛星廣播電視事業及境外衛星廣播電視事業之分公司或代理商未於前項規\r\n定期限內申請換照，主管機關應以書面通知限期提出申請；逾期提出申請\r\n者，不予受理。"
 		},
 		{
 			"條號": "第 3 條",
