@@ -1,30 +1,34 @@
 {
 	"法規性質": "命令",
-	"英文法規名稱": "Regulations Governing Subrogation in National Health Insurance for Significant Traffic Accidents, Public Nuisance Accidents, and Food Poisoning Accidents",
+	"英文法規名稱": "Regulations Governing Subrogation in National Health Insurance for Public Safety Accident and Significant Traffic Accidents, Public Nuisance Accidents, and Food Poisoning Accidents",
 	"中文法規名稱": "全民健康保險執行公共安全事故與重大交通事故公害及食品中毒事件代位求償辦法",
 	"法規網址": "http://law.moj.gov.tw/Eng/LawClass/LawContent.aspx?PCODE=L0060021",
-	"最新英文異動日期": "20121102",
-	"沿革內容": "1.Stipulated by the Order of Wei-Shu-Chien-Pao No.0952600116, Department of Health, Executive Yuan on May 10, 2006\r\n2.Amended and promulgated on 2 November 2012 in accordance with Department of Health, Executive Yuan Order Wei-Shu-Chien-Pao-Tzu No. 1012660264",
+	"最新英文異動日期": "20180521",
+	"沿革內容": "1.Stipulated by the Order of Wei-Shu-Chien-Pao No.0952600116, Department of Health, Executive Yuan on May 10, 2006\r\n2.Amended and promulgated on 2 November 2012 in accordance with Department of Health, Executive Yuan Order Wei-Shu-Chien-Pao-Tzu No. 1012660264\r\n3.Article 1、1-1、2、3、4、5 and Article 15 were amended and promulgated on May 21, 2018 in accordance with the Ministry of Health and Welfare Oder Wei-Pu-Pao-Tzu No.1071260240. The Amendment shall take effect on the date of promulgation. The name shall be changed to “Regulations Governing Subrogation in National Health Insurance for Public Safety Accident and Significant Traffic Accidents, Public Nuisance Accidents, and Food Poisoning Accidents.”",
 	"法規內容": [
 		{
 			"條號": "Article 1",
-			"條文內容": "These regulations are enacted in accordance with Paragraph 2 of Article 95 of the National Health Insurance Act (hereinafter referred to as “the Act”)."
+			"條文內容": "These regulations are enacted in accordance with Paragraph 3 of Article 95 of the National Health Insurance Act (hereinafter referred to as “the Act”)."
+		},
+		{
+			"條號": "Article 1-1",
+			"條文內容": "The “public safety accident” specified in Subparagraph 1 of Paragraph 2 of Article 95 of the Act refers to a liability insurance accident occurring on the premise or in a trade, to which the compulsory liability insurance shall apply under relevant laws and regulations."
 		},
 		{
 			"條號": "Article 2",
-			"條文內容": "The “significant traffic accident” set forth in Subparagraph 3 of Paragraph 1 of Article 95 of the Act refers to:\r\n1. An accident of a vehicle, to which the Compulsory Automobile Liability Insurance Act does not apply, in the course of the vehicle’s travel on the road;\r\n2. An accident that occurs in railway, high speed railway or mass rapid transit system during movement;\r\n3. An accident of a vessel while the vessel is navigating in the sea, on waters or moving under water; or\r\n4. An accident of an aircraft in the course of the aircraft’s flight."
+			"條文內容": "The “significant traffic accident” set forth in Subparagraph 2 of Paragraph 2 of Article 95 of the Act refers to:\r\n1.An accident of a vehicle, to which the Compulsory Automobile Liability Insurance Act does not apply, in the course of the vehicle’s travel on the road;\r\n2.An accident that occurs in railway, high speed railway or mass rapid transit system during movement;\r\n3.An accident of a vessel while the vessel is navigating in the sea, on waters or moving under water; or\r\n4.An accident of an aircraft in the course of the aircraft’s flight."
 		},
 		{
 			"條號": "Article 3",
-			"條文內容": "The “public nuisance accident” set forth in Subparagraph 3 of Paragraph 1 of Article 95 of the Act refers to damage to the national health arising from human factors that endanger the living environment. The range of such an accident covers water pollution, air pollution, soil pollution, noise, vibration, noxious odors, waste, toxic substance pollution, land subsidence, radioactive pollution and any other activity designated and officially announced as public nuisances by the central competent authority."
+			"條文內容": "The “public nuisance accident” set forth in Subparagraph 2 of Paragraph 2 of Article 95 of the Act refers to damage to the national health arising from human factors that endanger the living environment. \r\nThe range of such an accident covers water pollution, air pollution, soil pollution, noise, vibration, noxious odors, waste, toxic substance pollution, land subsidence, radioactive pollution and any other activity designated and officially announced as public nuisances by the central competent authority."
 		},
 		{
 			"條號": "Article 4",
-			"條文內容": "The “food poisoning accident” set forth in Subparagraph 3 of Paragraph 1 of Article 95 of the Act refers to more than two persons (included) eating the same food and consequentially experiencing similar symptoms with the same type of pathogen extracted from suspicious remained food samples, human biological samples such as the patient’s excrement, vomit, or blood, or other related environmental samples."
+			"條文內容": "The “food poisoning accident” set forth in Subparagraph 2 of Paragraph 2 of Article 95 of the Act should be identified by more than two persons (included) eating the same food and consequentially experiencing similar symptoms with the same type of pathogen extracted from suspicious remained food samples, human biological samples such as the patient’s excrement, vomit, or blood, or other related environmental samples."
 		},
 		{
 			"條號": "Article 5",
-			"條文內容": "The term “significant” ser forth in Subparagraph 3 of Paragraph 1 of Article 95 of the Act refers to a total amount of medical benefit payment of over NT$100,000 under the National Health Insurance (hereinafter referred to as “this Insurance”) for the same accident or event defined in the three preceding articles.\r\nThe amount specified in the preceding paragraph is calculated based on the benefits paid within a month from the date of benefit payment provided under this Insurance."
+			"條文內容": "For a total amount of medical benefit of over NT$50,000 under National Health Insurance (hereinafter referred to as “the Insurance”) paid to a beneficiary for the same public safety accident, the Insurer may exercise subrogation right.\r\nFor a total amount of medical benefit of over NT$100,000 under the Insurance paid to a beneficiary for the same Significant Traffic Accidents, Public Nuisance Accidents, and Food Poisoning Accidents, the Insurer may exercise subrogation right.\r\nThe amount specified in the preceding two paragraphs is calculated based on the benefits paid within 30 days from the date of benefit payment provided under this Insurance."
 		},
 		{
 			"條號": "Article 6",
@@ -40,7 +44,7 @@
 		},
 		{
 			"條號": "Article 9",
-			"條文內容": "Upon awareness of any situation that meets the requirements prescribed in Article 5, the Insurer shall send a written notice to the Third Party and the victim within thirty days from the next day of the date of awareness.\r\nThe written notice in the preceding paragraph should at least contain:\r\n1. Information collected by the Insurer and the Insurer’s preliminary inferential results;\r\n2. The Third Party’s duty to inform whether he/she has purchased the liability insurance policy; and\r\n3. The deadline of the Insurer’s formal confirmation.\r\nUpon receiving the notice, the Third Party shall immediately inform the Insurer whether he/she has purchased the liability insurance policy. Being informed that the Third Party has purchased the liability insurance policy, the Insurer shall forthwith notify the Insurer of the liability insurance thereupon."
+			"條文內容": "Upon awareness of any situation that meets the requirements prescribed in Article 5, the Insurer shall send a written notice to the Third Party and the victim within thirty days from the next day of the date of awareness.\r\nThe written notice in the preceding paragraph should at least contain:\r\n1.Information collected by the Insurer and the Insurer’s preliminary inferential results;\r\n2.The Third Party’s duty to inform whether he/she has purchased the liability insurance policy; and\r\n3.The deadline of the Insurer’s formal confirmation.\r\nUpon receiving the notice, the Third Party shall immediately inform the Insurer whether he/she has purchased the liability insurance policy. Being informed that the Third Party has purchased the liability insurance policy, the Insurer shall forthwith notify the Insurer of the liability insurance thereupon."
 		},
 		{
 			"條號": "Article 10",
@@ -64,7 +68,7 @@
 		},
 		{
 			"條號": "Article 15",
-			"條文內容": "The Regulations shall take effect upon promulgation.\r\nThe amendments made to these regulations shall come into force on January 1, 2013."
+			"條文內容": "The Regulations shall take effect upon promulgation, but Articles which were amended on November 2, 2012, shall take effect on January 1, 2013."
 		}
 	]
 }
