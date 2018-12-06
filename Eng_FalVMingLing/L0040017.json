@@ -3,8 +3,8 @@
 	"英文法規名稱": "Regulations of Inspection of Imported Foods and Related Products",
 	"中文法規名稱": "食品及相關產品輸入查驗辦法",
 	"法規網址": "https://law.moj.gov.tw/Eng/LawClass/LawContent.aspx?PCODE=L0040017",
-	"最新英文異動日期": "20150624",
-	"沿革內容": "1.DOH Food No. 0900074645 Promulgated, December 14, 2001.\r\n2.DOH Food No. 0960403095 Amended and promulgated on June 22, 2007; these regulations are effective as on July 1, 2007.\r\n3.DOH Food No. 0991304411 Amended and promulgated on December 30, 2010 and the title was amended to “Regulations of Inspection of Imported Foods and Related Products”.\r\n4.DOH Food No. 1021300813 Partial amended and promulgated on April 1, 2013\r\n5.MOHW Food No. 1022051463 Amended and promulgated on January 27, 2014.\r\n6.MOHW Food No. 1042000518 Partial amended and promulgated on June 24, 2015",
+	"最新英文異動日期": "20181018",
+	"沿革內容": "1.DOH Food No. 0900074645 Promulgated, December 14, 2001.\r\n2.DOH Food No. 0960403095 Amended and promulgated on June 22, 2007; these regulations are effective as on July 1, 2007.\r\n3.DOH Food No. 0991304411 Amended and promulgated on December 30, 2010 and the title was amended to “Regulations of Inspection of Imported Foods and Related Products”.\r\n4.DOH Food No. 1021300813 Partial amended and promulgated on April 1, 2013\r\n5.MOHW Food No. 1022051463 Amended and promulgated on January 27, 2014.\r\n6.MOHW Food No. 1042000518 Partial amended and promulgated on June 24, 2015\r\n7.MOHW Food No. 1072004519 Partial amended and promulgated on October 18, 2018",
 	"法規內容": [
 		{
 			"編章節": "Chapter 1 General Principles"
@@ -26,11 +26,11 @@
 		},
 		{
 			"條號": "Article 4",
-			"條文內容": "Obligatory Inspection Applicants shall submit the following documents to the inspection authority for inspection:\r\n1. An application form for inspection.\r\n2. A declaration form of product information.\r\n3. A photocopy of application for import declaration.\r\n4. Necessary certificates required by the Food and Drug Administration, Ministry of Health and Welfare (hereinafter as“TFDA”).\r\nIn accordance with Article 32 of the Act, the inspection authority may require Obligatory Inspection Applicants to provide other necessary certificates and data. The Obligatory Inspection Applicants shall not evade, obstruct or refuse."
+			"條文內容": "Obligatory Inspection Applicants shall submit the following documents and papers to the inspection authority for inspection:\r\n1. An application form for inspection.\r\n2. A declaration form of product information.\r\n3. A photocopy of application for import declaration.\r\n4. Necessary documents and papers required by the Food and Drug Administration, Ministry of Health and Welfare (hereinafter as “TFDA”).\r\nIn accordance with Article 32 of the Act, the inspection authority may require Obligatory Inspection Applicants to provide other necessary documents and papers. The Obligatory Inspection Applicants shall not evade, obstruct or refuse.\r\nThe forms of inspection in Paragraph 1 may be by electronic files or any other manner required by TFDA."
 		},
 		{
 			"條號": "Article 5",
-			"條文內容": "The Obligatory Inspection Applicants can apply for pre-declaration of product information to the inspection authorities. Documents referred to in subparagraph 2 of paragraph 1 of the preceding article for those who acquired approval of documents from inspection authorities, shall be exempt from submitting the declaration form of product information on application of inspection.\r\nTerm of validity for the preceding approval document is two (2) years.\r\nIf products applied for inspection are not conformant with the pre-declaration of product information, the inspection agencies shall abolish all approval documents issued to Obligatory Inspection Applicants, and suspend their applications for pre-declaration of product information within one (1) year."
+			"條文內容": "(Discard)"
 		},
 		{
 			"條號": "Article 6",
@@ -87,7 +87,7 @@
 		},
 		{
 			"條號": "Article 17",
-			"條文內容": "Verifying and sampling of inspection shall conduct in the place where the products were stored. If the products were shipped in full container load, which shall be verifying and sampling in the centralized inspection area of port or where be approved by TFDA.\r\nDuring the verifying and sampling in preceding paragraph, Obligatory Inspection Applicants shall cooperate accordingly and can not appoint any specific sample."
+			"條文內容": "Verifying and sampling of inspection shall conduct in the place where the products were stored. If the products were shipped in full container load, which shall be verifying and sampling in the centralized inspection area of port or where be approved by TFDA, but if it takes too long or has other difficult situations, TFDA shall ask to open container for warehouse delivery.\r\nDuring the verifying and sampling in preceding paragraph, Obligatory Inspection Applicants shall cooperate accordingly and cannot appoint any specific sample."
 		},
 		{
 			"條號": "Article 18",
@@ -98,15 +98,19 @@
 		},
 		{
 			"條號": "Article 19",
-			"條文內容": "Due to requiring five or more days for examination, or sampling of such products is difficult in a container yard, or the product is perishable, after the obligatory inspection applicant sign an affidavit of custodial responsibility, the inspection authority may issue a Notice of Prior Release for import for customs clearance. However, for products designated for batch-by-batch inspection shall be retained at border temporarily."
+			"條文內容": "Due to requiring five or more days for examination, or sampling of such products is difficult in a container yard, or the product is perishable, or the products in bulk and no warehouse in wharf, after the obligatory inspection applicant sign an affidavit of custodial responsibility, the inspection authority may issue a Notice of Prior Release for import for customs clearance. However, for products designated for batch-by-batch inspection shall be retained at border temporarily."
+		},
+		{
+			"條號": "Article 19-1",
+			"條文內容": "If the product which applicated or labeled as Organic Agricultural Product, is substantiation of their compliance with the Act and other related laws and regulations, after the obligatory inspection applicant sign an affidavit of custodial responsibility, the inspection authority may issue a Notice of Prior Release for import for customs clearance before the applicant gets Approval Documents for Organic Agricultural Products."
 		},
 		{
 			"條號": "Article 20",
-			"條文內容": "Products that belong to one of the following situations, the inspection authority may issue a prior release notice after the obligatory inspection applicant paying a guarantee bond：\r\n1. Products were belongs to Reinforced randomly-selected batch inspection.\r\n2. Products were belongs to Oversee inspection and the result is not qualified.\r\nThe amount of the guarantee bond in the preceding paragraph shall be twice as the products DDP (Delivered Duty Paid) price."
+			"條文內容": "Products that belong to one of the following situations, and conformed to the preceding two Articles by the inspection authority, the authority may issue a prior release notice after the obligatory inspection applicant paying a guarantee bond：\r\n1. Products were belonging to Reinforced randomly-selected batch inspection.\r\n2. Products were belonging to Oversee inspection and the result is not qualified.\r\n3. The obligatory inspection applicant fails to finish the process of inspection after elapse of ninety days from the inspection authority issued a prior release notice, and applies for prior release notice again.\r\nThe amount of the guarantee bond in the preceding paragraph shall be twice as the products DDP (Delivered Duty Paid) price."
 		},
 		{
 			"條號": "Article 21",
-			"條文內容": "Paying the guarantee bond in accordance with preceding article by an obligatory inspection applicant shall be by financial-institutions-issued cashier's check or check, or postal order.\r\nAfter the products applied for inspection conform to the regulations, and no violation of Subparagraph 3 of Article 51 of the Act, the obligatory inspection applicant may request the inspection authority to refund the guarantee bond."
+			"條文內容": "Paying the guarantee bond in accordance with preceding article by an obligatory inspection applicant shall be by financial-institutions-issued cashier's check or check, or postal order.\r\nWith any of the following conditions and no violation of Subparagraph 3 of Article 51 of the Act, the obligatory inspection applicant may request the inspection authority to refund the guarantee bond.\r\n1. After the products applied for inspection conform to the regulations, and earned a permission notice.\r\n2. The products applied do not conform to the regulations but deal with them in accordance with the provisions Article 24."
 		},
 		{
 			"編章節": "Chapter 7 Issuance of Certifications"
@@ -117,11 +121,11 @@
 		},
 		{
 			"條號": "Article 23",
-			"條文內容": "Products that fail to conform to the regulations, a notification of noncompliance for import food and relevant products shall be issued.\r\nThe obligatory inspection applicant can apply for re-examination to the original inspection authority within 15 days after receipt of the notification of results. Application for re-examination is limited to one time only, and shall be performed by the original inspection authority using remaining samples for the re-examination.\r\nRemaining samples of products that do not conform to regulations shall be destroyed at the end of the period of application for re-examination."
+			"條文內容": "Products that fail to conform to the regulations, a notification of noncompliance for import food and relevant products shall be issued.\r\nThe obligatory inspection applicant can apply for re-examination to the original inspection authority within 15 days upon the receipt of the notification of results. Application for re-examination is limited to one time only and shall be performed by the original inspection authority using remaining samples for the re-examination.\r\nRemaining samples of products that do not conform to regulations shall be destroyed at the end of the period of application for re-examination."
 		},
 		{
 			"條號": "Article 24",
-			"條文內容": "Imported products that do not conform to regulations upon inspection shall be disposed of in one of the following ways by the obligatory inspection applicant:\r\n1. Return or destroy.\r\n2. For products do not conform to Article 22 or Article 18 of this Act, or violate Paragraph 1 of Article 21 of this Act, the obligatory inspection applicant may apply to TFDA for disinfection, reconditioning or taking the enforcement of appropriate safety measures.\r\n3. For products violate Article 22, Article 24, Article 26, Article 27 or Paragraph 1 of Article 28 of this Act, the obligatory inspection applicant may apply to TFDA for relabeling.\r\nWhen the obligatory inspection applicant takes appropriate action in accordance with the Subparagraph 2 or 3 of the preceding Paragraph, the TFDA may issue a prior release notice to the obligatory inspection applicant for prior release.\r\nIf imported products that have been released via a prior release notice fail an inspection, the inspection authority shall order the obligatory inspection applicant to retrieve and take appropriate action in accordance with the provisions of Paragraph 1 of this Article."
+			"條文內容": "Imported products that do not conform to regulations upon inspection shall be disposed of in one of the following ways by the obligatory inspection applicant:\r\n1. Return or destroy.\r\n2. For products do not conform to Article 17 or Article 18 of this Act or violate Paragraph 1 of Article 21 of this Act, the obligatory inspection applicant may apply to TFDA for disinfection, reconditioning or taking the enforcement of appropriate safety measures.\r\n3. For products violate Article 22, Article 24, Article 26, Article 27 or Paragraph 1 of Article 28 of this Act, the obligatory inspection applicant may apply to TFDA for relabeling.\r\nWhen the obligatory inspection applicant takes appropriate action in accordance with the Subparagraph 2 or 3 of the preceding Paragraph, the TFDA may issue a prior release notice to the obligatory inspection applicant and then takes disinfection, reconditioning, enforcement of appropriate safety measures or relabeling.\r\nIf imported products that have been released via a prior release notice fail an inspection, the inspection authority shall order the obligatory inspection applicant to retrieve and take appropriate action in accordance with the provisions of Paragraph 1 of this Article."
 		},
 		{
 			"編章節": "Chapter 8 Other Regulations of Inspection"
@@ -140,6 +144,10 @@
 		{
 			"條號": "Article 27",
 			"條文內容": "When conducting on-site inspections according to the regulations, inspectors shall carry their identification documents with them."
+		},
+		{
+			"條號": "Article 27-1",
+			"條文內容": "The Certificate of course completion according to Article 5 herein before the amended and came into enforcement in October 18 2018 shall be still valid for the valid period."
 		},
 		{
 			"條號": "Article 28",
