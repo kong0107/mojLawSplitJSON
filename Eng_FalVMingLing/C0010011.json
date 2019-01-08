@@ -1,0 +1,487 @@
+{
+	"pcode": "C0010011",
+	"type": "法律",
+	"english": "Juvenile Delinquency Act",
+	"title": "少年事件處理法",
+	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=C0010011",
+	"englishUpdate": "20050518",
+	"history": [
+		"Promulgated on May 18, 2005"
+	],
+	"divisions": [
+		{
+			"type": "chapter",
+			"number": 100,
+			"title": "General Provisions",
+			"start": 100
+		},
+		{
+			"type": "chapter",
+			"number": 200,
+			"title": "Organization of the Juvenile Court",
+			"start": 500
+		},
+		{
+			"type": "chapter",
+			"number": 300,
+			"title": "Juvenile Delinquent Protection",
+			"start": 1400
+		},
+		{
+			"type": "section",
+			"number": 100,
+			"title": "Investigation and Trial",
+			"start": 1400
+		},
+		{
+			"type": "section",
+			"number": 200,
+			"title": "Execution of Protective Measures",
+			"start": 5000
+		},
+		{
+			"type": "section",
+			"number": 300,
+			"title": "Interlocutory Appeal and Trial de Novo",
+			"start": 6100
+		},
+		{
+			"type": "chapter",
+			"number": 400,
+			"title": "Juvenile Criminal Cases",
+			"start": 6500
+		},
+		{
+			"type": "chapter",
+			"number": 500,
+			"title": "Supplementary Provisions",
+			"start": 8300
+		}
+	],
+	"articles": [
+		{
+			"number": 100,
+			"content": "(Objectives)\r\nThe Law is stipulated to ensure the sound growth of juveniles, adjust their environment, and rectify their character."
+		},
+		{
+			"number": 101,
+			"content": "(Application)\r\nJuvenile delinquent protection and juvenile criminal cases shall be dealt with pursuant to the Law; for any affairs other than prescribed hereinto, other laws shall apply."
+		},
+		{
+			"number": 200,
+			"content": "(Definition for Juvenile)\r\nThe so-called juvenile in the Law refers to those who have reached the age of 12 and are less than the age of 18."
+		},
+		{
+			"number": 300,
+			"content": "(Jurisdiction of the Juvenile Court)\r\nThe following cases shall be dealt with pursuant to the Law:\r\n1. Where a juvenile’s behavior violates the criminal laws;\r\n2. Where a juvenile has one of the following behaviors and may violate the criminal law due to their personality and environment:\r\n(1) Frequently associated to those with criminal habits;\r\n(2) Frequents unsuitable places for juveniles;\r\n(3) Skips school or runs away from home regularly;\r\n(4) Participates in gangs;\r\n(5) Carries knives or weapons without a valid reason on a regular basis;\r\n(6) Takes or injects narcotics other than anesthetic;\r\n(7) Intends to or attempts to commit an offense but are not punishable by criminal law."
+		},
+		{
+			"number": 301,
+			"content": "(Notification of the Rights to a Defender)\r\nWhile investigating or hearing a juvenile case, the police, prosecutor, juvenile investigator, or judge shall notify the juvenile the facts of an offense or causes for potential delinquency, hear his/her statements, and notify the juvenile their rights to select a defender."
+		},
+		{
+			"number": 400,
+			"content": "(Tried by Military Law)\r\nThe juvenile court may apply the Law where a juvenile shall be tried by military law."
+		},
+		{
+			"number": 500,
+			"content": "(Establishment of the Juvenile Court)\r\nMunicipalities shall establish juvenile courts; other counties (city) governments may establish juvenile courts based on geographic condition and case volume.\r\nIn areas without juvenile courts, the district court may establish a juvenile division with its own staff.\r\nThe High Court or its branch courts shall establish the juvenile division."
+		},
+		{
+			"number": 501,
+			"content": "(Organization of the Juvenile Court)\r\nA juvenile court shall establish the criminal division, court of protection matters, investigation and protection division, public defenders’ office, and equipped with staff in charge of psychological assessment, psychological counseling, and counselors."
+		},
+		{
+			"number": 502,
+			"content": "(Organization of the Juvenile Court and Law Application)\r\nUnless otherwise specified in the Law, the organization of the juvenile court shall apply mutatis mutandis the Law of the Court Organization applicable to district courts."
+		},
+		{
+			"number": 503,
+			"content": "(Rank for Psychological Assessment Officer, Psychological Counseling Officer, and Counselors)\r\nThe psychological assessment officer, psychological counseling officer, and counselors shall be under the investigation and protection division.\r\nThe psychological assessment officer and psychological counseling officer shall be of the 5th grade of Delegated Appointed Rank to the 8th grade of Recommended Appointed Rank; the counselors shall be of the 3rd grade of Delegated Appointed Rank to the 6th grade of Recommended Appointed Rank."
+		},
+		{
+			"number": 600,
+			"content": "(Deleted)"
+		},
+		{
+			"number": 700,
+			"content": "(Selection of the President, Presiding Judge, and Judges)\r\nBesides general qualifications, the president, judges of the juvenile court, the presiding judge, judges and public defenders of the juvenile division of the high court and its branches shall be knowledgeable, enthusiastic, and experienced with juvenile protection.\r\nThe selection of president, presiding judge, and judges in the preceding paragraph shall be stipulated by the Judicial Yuan."
+		},
+		{
+			"number": 800,
+			"content": "(Deleted)"
+		},
+		{
+			"number": 900,
+			"content": "(Functions of the Juvenile Investigator and Protection Officers)\r\nFunctions of the juvenile investigator are as follows:\r\n1. To collect and investigate information regarding juvenile delinquent protection;\r\n2. To investigate juveniles in the juvenile detention center;\r\n3. Other affairs pursuant to the law.\r\nFunctions of a protection officer are as follows:\r\n1. In charge of protective measures executed by a protection officer;\r\n2. Other affairs pursuant to the law.\r\nJuvenile investigator and protection officers shall follow the judge’s instruction when performing their functions."
+		},
+		{
+			"number": 1000,
+			"content": "(Division Chief)\r\nThe investigation and protection division shall have 1 division chief, who holds a concurrent post of either juvenile investigator or protection officer, to manage and allocate juvenile investigation and protection affairs; where there are more than 5 officers in a division, such division shall be divided into sub-divisions, and each sub-division shall designate one team leader to support the division chief."
+		},
+		{
+			"number": 1100,
+			"content": "(Function of Psychological Assessment officer and Counseling Officer)\r\nWhile performing functions with a juvenile investigator or protection officer, the psychological assessment officer, psychological counseling officer, clerk, counselor, and officer shall follow instructions of the former. ."
+		},
+		{
+			"number": 1200,
+			"content": "(Deleted)"
+		},
+		{
+			"number": 1300,
+			"content": "(Rank of the Juvenile Investigator and Protection Officer)\r\nA juvenile investigator or protection officer who holds a concurrent post of the division chief or team leader in the juvenile court shall be of the 9th grade of Delegated Appointed Rank or the 10th grade of Selected Appointed Rank; the rest of the juvenile investigators or protection officers shall be of the 7th to 9th grade of Delegated Appointed Rank.\r\nThe juvenile investigator in the juvenile division of the high court shall be of the 8th or 9th grade of Delegated Appointed Rank to the 10th grade of Selected Appointed Rank."
+		},
+		{
+			"number": 1400,
+			"content": "(Jurisdiction)\r\nThe juvenile court in charge of the place of act or the juvenile’s domicile or residence has jurisdiction over such juvenile delinquent protection cases."
+		},
+		{
+			"number": 1500,
+			"content": "(Transfer of Jurisdiction)\r\nA juvenile court may transfer jurisdiction by ruling a pending action to another juvenile court, upon finding it better protects the juvenile through investigation; the transferee court may not transfer the action again."
+		},
+		{
+			"number": 1600,
+			"content": "(Jurisdiction for Related Cases)\r\nParagraphs 1 and 2 of Article 6 and the first section of Article 7 and Article 8 of the Code of Criminal Procedure shall apply mutatis mutandis to juvenile delinquent protection."
+		},
+		{
+			"number": 1700,
+			"content": "(Juvenile Delinquency Reports)\r\nAnyone who is aware of delinquencies prescribed in Subparagraph 1 of Article 3 shall report them to the competent juvenile court."
+		},
+		{
+			"number": 1800,
+			"content": "(Transfer and Disposition of Juvenile Delinquencies)\r\nWhere a prosecutor or judicial police officer encounters any delinquencies specified in Article 3 when performing their functions, he/she shall transfer such cases to the competent juvenile court.\r\nA person who has custody over the juvenile, the school the juvenile dropped out from, or an institution engage in juvenile delinquency protection may request the juvenile court to handle the case upon finding instances specified in Subparagraph 2 of Article 3."
+		},
+		{
+			"number": 1900,
+			"content": "(Investigation)\r\nAfter a juvenile court undertakes a transfer, request, or report pursuant to Articles 15, 17, and 18, the juvenile investigator shall first investigate the juvenile’s behavior and delinquency, his/her personality, experience, mental and physical condition, family background, social environment, education background, and other necessary items, and then file a report along with suggestions.\r\nInvestigation results by a juvenile investigator may not be the only evidence to establish facts.\r\nA clerk shall make records when the juvenile court questions related parties."
+		},
+		{
+			"number": 2000,
+			"content": "(Adjudication by a Single Judge)\r\nThe juvenile court may adjudicate a juvenile delinquent protection by a single judge."
+		},
+		{
+			"number": 2100,
+			"content": "(Contents of Summon and Notification)\r\nUpon investigating the delinquency, the judge of the juvenile court or juvenile investigator may summon the juvenile, his/her statutory agent, or persons who currently protect the juvenile to be present if necessary.\r\nThe defender of the juvenile shall be notified in advance regarding the date, time, and location of investigation in the preceding paragraph.\r\nSummon mentioned above in Paragraph 1 shall be made by a notification signed by the judge, with the following items specified; where a juvenile investigator summons a juvenile, the notification shall be signed by the former:\r\n1. Full name, sex, age, birth place and domicile or residence of the summoned;\r\n2. The cause;\r\n3. Date, time, and place for appearance;\r\n4. That the summoned may be forced to appear if he/she fails to appear without good reason.\r\nThe summoned shall be served by a summon notification."
+		},
+		{
+			"number": 2200,
+			"content": "(Companion Letter and its Content)\r\nIf a juvenile, his/her statutory agent or a person who currently protects the juvenile is legally summoned but fails to appear without good reason, the judge of the juvenile court may issue a companion letter sua sponte or upon request by the juvenile investigator to enforce the appearance; provided that where circumstances specified in the paragraphs of Article 76 of the Code of Criminal Procedure, the judge of the juvenile court may issue a companion letter to enforce the appearance without the summon if necessary.\r\nA companion letter shall be signed by a judge and set forth the following items:\r\n1. The companion’s name, sex, age, birth place, national identification number, residence or domicile and other characteristics sufficient for identification; provided that the age, birth place, national identification number, residence or domicile may be omitted if unknown;\r\n2. The cause;\r\n3. The place to go with the executor;\r\n4. The deadline for executing the companion."
+		},
+		{
+			"number": 2300,
+			"content": "(Execution of the Companion Letter)\r\nA companion letter shall be executed by an officer, judicial police officer, or judicial police.\r\nThree copies of the companion letter shall be made, one delivered to the companion, and another to his/her designated relatives or friends upon execution; the execution shall take into consider the companion’s reputation.\r\nUpon the execution of companion, the place, date, month and year of such execution shall be recorded in the companion letter; if an execution may not be completed, the executor shall sign, specify the situation in such letter, and submit it to the juvenile court."
+		},
+		{
+			"number": 2301,
+			"content": "(Search Assistance)\r\nWhere a juvenile is missing, the juvenile court may notify district juvenile courts, prosecutors, and judicial police institutions to assist with the search; provided that it cannot be announced, published in newspapers, or made public by other means.\r\nTo help search for the juvenile, a letter of search assistance shall set forth the following items and be signed by a judge:\r\n1. The juvenile’s name, sex, age, birth place, national identification number, residence or domicile and other characteristics sufficient for identification; provided that the age, birth place, national identification number, residence or domicile may be omitted if unknown;\r\n2. Details of the incident;\r\n3. Reasons for search assistance;\r\n4. Location to escort the juvenile.\r\nAfter a juvenile is found, the juvenile investigator, prosecutor, judicial police officer or judicial police may send the juvenile to the place he/she is supposed to be.\r\nSearch assistance shall be cancelled where the cause is eliminated or such assistance is obviously unnecessary. The notification for the cancellation of search assistance shall apply mutatis mutandis Paragraph 1."
+		},
+		{
+			"number": 2400,
+			"content": "(Apply mutatis mutandis the Code of Criminal Procedure regarding Evidence)\r\nWhere regulations regarding the witness, expert witness, interpreter, inspection, preservation of evidence, and search and seizure on the Code of Criminal Procedure does not contradict the nature of juvenile delinquent protection, such regulations may be applied mutatis mutandis."
+		},
+		{
+			"number": 2500,
+			"content": "(Assistance to Perform Duties)\r\nThe juvenile court may request the police institution, self-regulatory organizations, schools, hospitals, or other institutions or groups to provide necessary assistance when performing its functions."
+		},
+		{
+			"number": 2600,
+			"content": "(Order for Custody or Detention)\r\nThe juvenile court may pronounce the following measures by ruling when necessary:\r\n1. Order the custody to the juvenile’s statutory agent, parents, closest relatives, a person who currently protects the juvenile, or other proper institution, organization, or individual; and may hand the juvenile to a juvenile investigator for consulting before the case closes;\r\n2. Order to send a juvenile to a juvenile detention center; provided that it is limited to where the juvenile cannot be ordered for custody or an order for custody is obviously improper, and that the detention is necessary."
+		},
+		{
+			"number": 2601,
+			"content": "(Detention Letter and its Contents)\r\nWhen detaining a juvenile, a detention letter shall be issued.\r\nA detention letter shall be signed by a judge and set forth the following items:\r\n1. The juvenile’s name, sex, age, birth place, national identification number, residence or domicile and other characteristics sufficient for identification; provided that the age, birth place, national identification number, residence or domicile may be omitted if unknown;\r\n2. Facts of the delinquency;\r\n3. The cause for detention;\r\n4. Place to be detained.\r\nParagraph 2 of Article 23 shall apply mutatis mutandis to detentions."
+		},
+		{
+			"number": 2602,
+			"content": "(Period of Detention)\r\nThe period a juvenile detention center detains a juvenile may not exceed 2 months during the investigation or trial; provided that the juvenile court may extend the period by ruling before the period lapses in order to continue the detention if necessary. The extension for detention may not exceed 1 month and is limited to one extension. The juvenile court shall cancel the ruling of detention when the cause of detention is eliminated.\r\nWhere an interlocutory appeal is filed, the detention period of the court of interlocutory appeal shall start from the day it receives the case file and exhibits.\r\nWhere a case is remanded, the period of detention or extended detention shall start anew.\r\nThe detention period after the ruling and before the transfer shall be counted as detention period of the original trial court.\r\nThe organization of a juvenile detention center shall be stipulated by laws."
+		},
+		{
+			"number": 2700,
+			"content": "(Circumstances for Transferring to a Prosecutor)\r\nThe juvenile court shall transfer the juvenile to a prosecutor in the prosecutors’ office of a competent court by ruling upon finding that the juvenile violated criminal law and has one of the following situations pursuant to the results of the investigation:\r\n1. Where the juvenile commits an offense for a minimum punishment of 5 years of imprisonment;\r\n2. Where the juvenile reaches the age of 20 after the action is pending.\r\nBesides the circumstance specified in the preceding paragraph, the court may transfer the juvenile to a prosecutor in the prosecutors’ office of a competent court by ruling if a juvenile court finds the offense serious and a criminal disposition proper based on results of investigation and the juvenile’s character, personality and experience.\r\nThe preceding 2 paragraphs do not apply where the juvenile is less than 14 years old when committing the offense."
+		},
+		{
+			"number": 2800,
+			"content": "(Ruling Not to Hear the Case)\r\nThe juvenile court shall pronounce a ruling not to hear a case upon finding no reasons for protective measures or reason the case shall not be tried pursuant to results of the investigation.\r\nThe court may order the juvenile to be treated at an appropriate facility where a ruling in the preceding paragraph is pronounced because the juvenile is insane."
+		},
+		{
+			"number": 2900,
+			"content": "(Ruling Not to Hear the Case)\r\nThe juvenile court may pronounce a ruling not to hear the case and order the following disposition upon finding the delinquency trivial or finding it proper not to try the case pursuant to results of investigation by a juvenile investigator:\r\n1. Transfer the juvenile to a child or juvenile welfare or cultivation institute for appropriate tutoring;\r\n2. Send a child or juvenile to his/her statutory agent or a person who currently protects the juvenile for strict discipline;\r\n3. Warning.\r\nDispositions in the preceding paragraph shall be executed by the juvenile investigator.\r\nThe juvenile court has the discretion to order the juvenile to accomplish the following items before pronouncing a ruling in Paragraph 1, if consented by the juvenile, his/her statutory agent, and the victim:\r\n1. To apologize to the victim;\r\n2. To write a repentance letter;\r\n3. To compensate the victim.\r\nA juvenile’s statutory agent shall be jointly liable for the item under Subparagraph 3 of the preceding paragraph, and it may be the title for civil compulsory execution."
+		},
+		{
+			"number": 3000,
+			"content": "(Ruling to Initiate a Trial)\r\nWhere a juvenile court finds it proper to initiate a trail pursuant to the investigation, it shall initiate a trial by ruling."
+		},
+		{
+			"number": 3100,
+			"content": "(Defender)\r\nA juvenile, his/her statutory agent or a person currently protecting the juvenile may select a defender for the juvenile at any time.\r\nWhere a juvenile commits an offense for a sentence more than 3 years of imprisonment and has not selected a defender, the juvenile court shall appoint a proper person to defend such juvenile; the same rule also applies to other cases if necessary.\r\nWhere a selected defender fails to appear in court without good reason in the preceding case, the juvenile court may also appoint a defender.\r\nThe juvenile court may appoint a proper person to defend the juvenile if there are no public defenders in the area.\r\nA public defender shall apply mutatis mutandis relevant regulations in the Act of Public Defender.\r\nWhere the nature of a defender in a juvenile delinquent protection does not contradict the juvenile delinquent protection, it shall apply mutatis mutandis to the regulations regarding defenders in the Code of Criminal Procedure."
+		},
+		{
+			"number": 3101,
+			"content": "(Selection of the Defender Shall be Approved by the Juvenile Court)\r\nWhen the defender selected is not a lawyer, approval must be obtained from the juvenile court."
+		},
+		{
+			"number": 3102,
+			"content": "(Support Juvenile’s Growth)\r\nBesides protecting a juvenile’s procedural rights, a defender shall also support the court in facilitating the sound growth of the juvenile."
+		},
+		{
+			"number": 3200,
+			"content": "(Summon and Notice on the Trial Date)\r\nThe juvenile court shall set the date for hearing. The juvenile, his/her statutory agent or a person who currently protects the juvenile shall be summoned on the trial date, and the defender of the juvenile shall be notified.\r\nWhen appointing the trial date, the juvenile court shall take into consideration the amount of time needed by the juvenile, his/her statutory agent, a person who currently protects the juvenile, or defender to prepare for the trial; provided that it may initiate the trial in a timely manner if consented by the juvenile and his/her statutory agent or a person who currently protects the juvenile.\r\nParagraphs 3 and 4 of Article 21 shall apply mutatis mutandis to the summon in Paragraph 1."
+		},
+		{
+			"number": 3300,
+			"content": "(Trial Records)\r\nOn the trial date, the clerk shall accompany the judge to make trial records."
+		},
+		{
+			"number": 3400,
+			"content": "(Private Hearing and Auditing)\r\nThe investigation and hearing shall not be public; provided that relatives, teachers, persons engaging in juvenile delinquency protection, or other relevant persons may audit the trial."
+		},
+		{
+			"number": 3500,
+			"content": "(Trial Approach)\r\nThe trial shall be conducted in an amiable and sincere atmosphere. The judge may hear the case outside the court room according to the nature of the case, mental and physical condition of the juvenile and environmental circumstances."
+		},
+		{
+			"number": 3600,
+			"content": "(Statements by Statutory Agent)\r\nOn the trial date, when the juvenile is being interrogated, the statutory agent, a person who currently protects the juvenile and the defender shall be given opportunities to make statements."
+		},
+		{
+			"number": 3700,
+			"content": "(Discovery)\r\nOn the trial date, material evidence shall be investigated.\r\nThe reason and facts the protective measures shall apply to a juvenile shall be established by evidence."
+		},
+		{
+			"number": 3800,
+			"content": "(Measures for Statements:)\r\nThe juvenile court may order the following measures if necessary:\r\n1. To restrict persons other than the juvenile to be present when the latter is making statements;\r\n2. To restrict the juvenile to be present when persons other than the juvenile is making statements."
+		},
+		{
+			"number": 3900,
+			"content": "(Statements by a Juvenile Investigator)\r\nA juvenile investigator shall appear in court on the trial date to express opinions regarding the investigation and the measure.\r\nWhere the juvenile court does not adopt the opinions of a juvenile investigator, the reasons shall be set forth in the ruling."
+		},
+		{
+			"number": 4000,
+			"content": "(Ruling to Transfer)\r\nThe juvenile court shall pronounce a ruling of transfer pursuant to trial results if circumstances in Paragraph 1 of Article 27 apply; a ruling of transfer may also be pronounced under circumstances in Paragraph 2 of the same article."
+		},
+		{
+			"number": 4100,
+			"content": "(Ruling Not to Apply Protective Measures)\r\nThe juvenile court shall pronounce a ruling not to apply protective measures where protective measures shall not be applied or are not adequate according to trial results.\r\nIf pursuant to Paragraph 2 of Article 28, Paragraphs 3 and 4 of Article 29, the juvenile court believes that protective measures shall not be apply to the case, it may pronounce a ruling not to apply protective measures which apply mutatis mutandis the preceding paragraph."
+		},
+		{
+			"number": 4200,
+			"content": "(Ruling for Protective Measures and Treatment)\r\nThe juvenile court may, besides dispositions in the preceding 2 articles, pronounce a ruling of the following protective measures when hearing a case:\r\n1. To pronounce a warning and may order holiday consulting;\r\n2. To send a juvenile under probation and supervision and may order labor services;\r\n3. To send a juvenile to a proper welfare or cultivation institute;\r\n4. To send a juvenile to a correction institute for corrective education.\r\nThe court may pronounce the following disposition before or at the same time it orders protective measures in the preceding paragraph if a juvenile has one of the following circumstances:\r\n1. Where a juvenile is addicted to narcotics, anesthetic, or alcohol, he/she may be sent to a relevant treatment center;\r\n2. Where a juvenile is physically or mentally ill, he/she may be sent to a relevant treatment center for rehabilitation.\r\nThe period of disposition in Paragraph 1 need not be pronounced.\r\nParagraphs 3 and 4 of Article 29 shall apply mutatis mutandis where a juvenile court pronounces a ruling of protective measures pursuant to Paragraph 1."
+		},
+		{
+			"number": 4300,
+			"content": "(Apply mutatis mutandis Regulations regarding Confiscation)\r\nRegulations regarding confiscation in the Criminal Code and other laws shall apply mutatis mutandis to rulings pursuant to Articles 28, 29, 41, and the preceding article.\r\nA juvenile court may confiscate items used under Subparagraph 2 of Article 3 of the Law if those items are not suitable to be returned."
+		},
+		{
+			"number": 4400,
+			"content": "(Ruling of Observation)\r\nA juvenile court may, if necessary, pronounce a ruling to send a juvenile to a juvenile investigator for observation within 6 months in order to determine whether to apply protective measures and which protective measures to apply.\r\nFor observation in the preceding paragraph, a juvenile court may inquire the juvenile investigator’s opinion and send the juvenile to a proper institution, school, organization, or individual under instruction by the juvenile investigator.\r\nA juvenile investigator shall file results of the observation and suggestions in a report.\r\nA juvenile court may change the observation period or terminate the observation sua sponte or upon a juvenile investigator’s request."
+		},
+		{
+			"number": 4500,
+			"content": "(Cancelation of a Ruling)\r\nA juvenile court which imposes protective measures may cancel the disposition by ruling where a person under the protective measures is pronounced a final punishment of imprisonment or heavier.\r\nWhere a person under a disposition of protective measures is also under a ruling of rehabilitative disposition, the juvenile court that imposes the protective measures shall pronounce the disposition to be executed."
+		},
+		{
+			"number": 4600,
+			"content": "(Disposition to be Executed and its Cancellation)\r\nWhere a person under a disposition of protective measures is also under other protective measures, after both dispositions are final, the juvenile court which made the latter disposition may determine the disposition to be executed by a ruling.\r\nUpon pronouncing the ruling for execution in the preceding paragraph, other dispositions are deemed cancelled whether they have been executed or not."
+		},
+		{
+			"number": 4700,
+			"content": "(No Jurisdiction - Cancellation of Protective Measures)\r\nA juvenile court shall cancel a disposition of protective measures by ruling and transferring the case to a competent court upon finding it has no jurisdiction.\r\nThe institution executing protective measures shall notify the juvenile court if data shows that the circumstance in the preceding paragraph may apply."
+		},
+		{
+			"number": 4800,
+			"content": "(Service of the Ruling)\r\nThe juvenile court shall serve the original ruling to the juvenile, his/her statutory agent or a person who currently protects the juvenile, the defender, the victim and notify the juvenile investigator."
+		},
+		{
+			"number": 4900,
+			"content": "(Service Process)\r\nThe servicing of legal papers shall follow regulations from the Code of Civil Procedure regarding the service; provided that the following service may not apply to the juvenile, his/her statutory agent, a person who currently protects the juvenile, the defender, victim or his/her statutory agent:\r\n1. Service by constructive notice;\r\n2. To deliver papers to the post office as the service, since no service agent is specified."
+		},
+		{
+			"number": 5000,
+			"content": "(Execution of Warning and Holiday Consulting)\r\nFor the warning, a juvenile court shall notify a juvenile of his/her delinquency, inform him/her things to comply with in the future, and make the juvenile write a repentance letter.\r\nThe court may notify the juvenile’s statutory agent, a person who currently protects the juvenile, or the defender to appear during the warning.\r\nThere shall be 3 to 10 holiday consulting for the juvenile; the juvenile court shall send the juvenile to a protection officer during holidays for individual or group character education, tutoring studies or other homework, and labor service in order to create diligence and learn the principle of law compliance. A protection officer may determine the number of consulting required based on the performance.\r\nA juvenile court may adopt a juvenile protection officer’s opinion and send a juvenile to a relevant institution, organization or individual for the holiday consulting in the preceding paragraph, under the instruction of a juvenile protection officer."
+		},
+		{
+			"number": 5100,
+			"content": "(Execution of Probation and Supervision)\r\nThe protection officer shall be in charge of the probation and supervision of the juvenile; such officer shall notify the juvenile the things to comply with, keep in touch with the juvenile, pay attention to his/her activities and provide instructions at anytime; a protection officer shall also advise the juvenile on his/her education, medical care, job search, and environmental improvement.\r\nWhen carrying out functions in the preceding paragraph, the protection officer may discuss the essentials with the juvenile’s statutory agent or a person who currently protects the juvenile.\r\nThe juvenile court may, pursuant to opinions of a protection officer, send a juvenile to a proper welfare or cultivation institute, charitable organization, juvenile’s closest relative or other appropriate individual for probation and supervision, under the protection officer’s instruction."
+		},
+		{
+			"number": 5200,
+			"content": "(Execution of Corrective Education)\r\nWhen a juvenile is put under allocation and guidance or corrective education, the juvenile court may send the juvenile to a proper welfare or cultivation institute or corrective education institution, under instruction by the juvenile court, based on the nature of delinquency, the juvenile’s physical or mental condition, education, and other relevant factors.\r\nThe organization and education program of a corrective education institution shall be stipulated by laws."
+		},
+		{
+			"number": 5300,
+			"content": "(Period of Probation & Supervision and Corrective Education)\r\nA probation and supervision or corrective education may not be executed for more than 3 years."
+		},
+		{
+			"number": 5400,
+			"content": "(Restrictions for Transferred Guidance and Protective Measures)\r\nTransferred guidance and protective measures may only be executed until a juvenile reaches 21.\r\nThe central authority for youth and child welfare institutes shall stipulate regulations for the establishment and management of welfare and cultivation institutes executing the allocation and guidance."
+		},
+		{
+			"number": 5500,
+			"content": "(Evaluation for Probation and Supervision)\r\nWhere the probation and supervision have been executed for more than 6 months, a protection officer may request the juvenile court to end the program with relevant evidence upon finding the execution effective and further execution is not necessary, or upon finding further execution not appropriate based on factual reasons.\r\nWhere the situation regarding probation and supervision in the preceding paragraph applies, the juvenile, his/her statutory agent, or a person who currently protects the juvenile may ask the protection officer to make a request pursuant to the preceding paragraph; the protection officer may not reject the request unless it is obviously meritless.\r\nWhere a juvenile violates regulations and disobeys instructions for more than two times during the probation and supervision and where observation is necessary, a protection officer may request the juvenile court to send such juvenile to a juvenile detention center by ruling for observation for less than 5 days.\r\nWhere a juvenile seriously violates regulations during the probation and supervision or has been put under observation in the preceding paragraph and violates regulations again, and that the probation and supervision is obviously ineffective, a protection officer may request the juvenile court to cancel the probation and supervision by ruling and sending the juvenile to a correction institute for corrective education for the rest of the execution period; where the time remaining is less than 6 months, the corrective education shall be executed for 6 months."
+		},
+		{
+			"number": 5501,
+			"content": "(Labor Service)\r\nLabor service under the probation and supervision shall range from 3 to 50 hours; it shall be supervised by the protection officer according to the performance."
+		},
+		{
+			"number": 5502,
+			"content": "(Allocation and Guidance)\r\nThe allocation and guidance pursuant to Subparagraph 3 of Paragraph 1 of Article 42 shall range from 2 months to 2 years.\r\nWhere the execution of the preceding paragraph exceeds 2 month and is effective, further execution is not necessary, or where further execution is not appropriate for factual reasons, the welfare or cultivation institutes in charge of allocation and guidance, juvenile, juvenile’s statutory agent, or a person currently protecting the juvenile may request the juvenile court to terminate the execution with reasons set forth.\r\nOnce execution of allocation and guidance is complete, the welfare or cultivation institutes in charge of allocation and guidance, juvenile, juvenile’s statutory agent, or a person currently protecting the juvenile, upon finding allocation and guidance necessary, may request the juvenile court to extend the allocation and guidance by ruling; such extension may only be made once and cannot exceed 2 years.\r\nWhere the execution in Paragraph 1 exceeds 2 months and where changing the allocation and guidance to a welfare or cultivation institution is necessary, a juvenile, his/her statutory agent or a person who is currently protecting the juvenile may request the juvenile court to change the ruling by submitting evidence and reasons specified.\r\nWhere the juvenile seriously violates regulations during the allocation and guidance or where the juvenile has been pronounced a detention for observation pursuant to Article 55-3 and violates regulations again so that the allocation and guidance is ineffective, the welfare or cultivation institute in charge of the allocation and guidance, statutory agent of the juvenile or a person who currently protects the juvenile may specify evidence and request the juvenile court to cancel the allocation and guidance by ruling and sending the juvenile to a correction institute for corrective education for the rest of the execution period; where the time remaining is less than 6 months, the corrective education shall be executed for 6 months."
+		},
+		{
+			"number": 5503,
+			"content": "(Request for an Advice Letter)\r\nWhere a juvenile denies a disposition pursuant to Paragraph 1 of Article 29, or Subparagraph 1 or 3 of Paragraph 1 of Article 42 without good cause, a juvenile investigator, protection officer, juvenile’s statutory agent, or a person who is currently protecting the juvenile, juvenile welfare or cultivation institute may request the juvenile court to issue an advice letter; where the advice is ineffective, the above person may request the juvenile court to detain the juvenile in a juvenile detention center for an observation of less than 5 days."
+		},
+		{
+			"number": 5600,
+			"content": "(Exemption or Termination of Corrective Education)\r\nWhere corrective education exceeds 6 months and further execution is unnecessary, the protection officer or execution authority may request the juvenile court to exempt or terminate the execution with evidence set forth.\r\nWhere the juvenile or his/her statutory agent finds circumstance in the preceding paragraph applies to the corrective education, he/she may ask the protection officer to make a request pursuant to the preceding paragraph; unless obviously meritless, a protection officer may not reject such a request.\r\nWhere execution of corrective education is suspended pursuant to Paragraph 1, the execution period left shall be pronounced probation and supervision by ruling of a juvenile court.\r\nArticle 55 shall apply mutatis mutandis to probation and supervision in the preceding paragraph; if pursuant to Paragraph 4 of the said article that the corrective education shall continue, the suspended period shall not be included in the period of execution."
+		},
+		{
+			"number": 5700,
+			"content": "(Execution of Protective Measures)\r\nA disposition pursuant Paragraph 1 of Article 29, Subparagraph 1 of Paragraph 1 of Article 42, and Paragraph 3 of Article 55, or the detention for observation pursuant to Article 55-3 shall be executed within 2 years from the pronouncement; the execution shall be exempted if such period lapses.\r\nWhere a disposition pursuant to Subparagraphs 2, 3, 4 of Paragraph 1 of Article 42 and Paragraph 2 of the same article is not executed within 3 years since the day it shall be executed, such disposition may not be executed unless a juvenile court pronounce a ruling of execution."
+		},
+		{
+			"number": 5800,
+			"content": "(Periods and Execution of Treatment)\r\nThe execution period defined in Subparagraphs 1 and 2 of Paragraph 2 of Article 42 ends when the juvenile is cured of abstinence or reaches the age of 20. If such disposition is pronounced along with the probation and supervision, the two shall be executed together. When such disposition is pronounced along with allocation and guidance or corrective education, such disposition shall be executed first, but can be executed together, provided that if the execution does not affect the allocation and guidance or corrective education.\r\nIf pursuant to treatment or execution, a juvenile court finds it unnecessary to execute protective measures, it may exempt the execution of protective measures."
+		},
+		{
+			"number": 5900,
+			"content": "(Notice for Disposition of Transfer, Protective Measures, or Detention for Observation)\r\nThe juvenile court may issue the juvenile a notice, companion letter or request relevant institutes for assistance in order to execute the disposition of transfer protective measures or detention for observation, when necessary.\r\nA protection officer may issue the juvenile a notice to execute protective measures if necessary.\r\nParagraphs 3 and 4 of Article 21, Paragraph 2 of Article 22, and Articles 23 and 23-1 shall apply mutatis mutandis to the notice, companion letter and written request for assistance in the preceding 2 paragraphs."
+		},
+		{
+			"number": 6000,
+			"content": "(Education costs)\r\nAfter a pronouncement of protective measures by the juvenile court is effective, the court may order the juvenile or the guardian of the juvenile to bear part or all of the education costs for executing the protective measures based on their financial condition; provided that such burden may be exempted given their financial conditions.\r\nThe ruling in the preceding may be the title for civil compulsory execution. The juvenile court shall request the civil compulsory execution division of the district court to carry out execution with execution fees exempted."
+		},
+		{
+			"number": 6100,
+			"content": "(Interlocutory Appeal)\r\nA juvenile, his/her statutory agent, a person who currently protects the juvenile or defender may file an interlocutory appeal if he/she disagrees with the following rulings; provided that the interlocutory appeal filed by the statutory agent may not go against the selector’s expressed intent:\r\n1. Ruling to send a juvenile to the protection officer for consulting pursuant to Subparagraph 1 of Article 26\r\n2. Ruling of detention pursuant to Subparagraph 2 of Article 26\r\n3. Ruling to extend a detention pursuant to Paragraph 1 of Article 26-2\r\n4. Rulings pursuant to Paragraphs 1 and 2 of Article 27\r\n5. Ruling pursuant to Paragraphs 1 of Article 29\r\n6. Ruling pursuant to Article 40\r\n7. Disposition pursuant to Article 42\r\n8. Ruling of detention for observation pursuant to Paragraph 3 of Article 55 and Article 55-3 and cancellation of the probation and supervision or corrective education pursuant to Paragraph 4 of Article 55\r\n9. Ruling to extend the allocation and guidance period pursuant to Paragraph 3 of Article 55-2 or disposition to cancel the allocation and guidance and corrective education pursuant to Paragraph 5\r\n10. Ruling to dismiss a request to exempt or terminate the corrective education pursuant to Paragraph 1 of Article 56\r\n11. Disposition to continue the corrective education pursuant to Paragraph 4 of Article 56\r\n12. Ruling to pay education costs pursuant to Article 60"
+		},
+		{
+			"number": 6200,
+			"content": "(Interlocutory Appeal by the Victim)\r\nA victim or his/her statutory agent of a juvenile case may file an interlocutory appeal against the following rulings by a juvenile court:\r\n1. Ruling to dismiss the case pursuant to Paragraph 1 of Article 28;\r\n2. Ruling to dismiss the case and the order of transferred guidance, strict discipline, or warning pursuant to Paragraph 1 of Article 29;\r\n3. Ruling not to apply protective measures pursuant to Paragraph 1 of Article 41;\r\n4. Ruling for protective measures pursuant to Paragraph 1 of Article 42.\r\nWhen the victim is deceased or cannot file an interlocutory appeal for other reasons, his/her spouse, direct blood relatives, collateral relatives, relatives by marriage within the second degree of relationship, family head or family members may file an interlocutory appeal."
+		},
+		{
+			"number": 6300,
+			"content": "(Competent Court for Interlocutory Appeals)\r\nThe competent court for an interlocutory appeal is the superior court of the juvenile court.\r\nNo interlocutory appeals shall be made against a ruling by the court of interlocutory appeal."
+		},
+		{
+			"number": 6400,
+			"content": "(Interlocutory Appeal Applies, Mutatis Mutandis, to the Code of Criminal Procedure)\r\nThe period for an interlocutory appeal is 10 days from the service of ruling; however, an interlocutory appeal is also effective if made after the pronouncement but before the service of the ruling.\r\nArticles 407 to 414 of the Code of Criminal Procedure and Section I of this Chapter shall apply mutatis mutandis to interlocutory appeals in this section."
+		},
+		{
+			"number": 6401,
+			"content": "(Trial de Novo)\r\nAfter a pronouncement of protective measures has been in effect, if protective measures shall not apply for any of the following reasons, a protection officer, the juvenile, his/her statutory agent, a person who currently protects the juvenile or defender may request the competent court which pronounced the protective measures for a trial de novo:\r\n1. When the law application is obviously mistaken and sufficient to affect the ruling\r\n2. When newly established evidence is sufficient to show that protective measures shall not apply to the juvenile under protective measures\r\n3. When circumstance for retrial pursuant to Subparagraph 1, 2, 4, or 5 of Paragraph 1 of Article 420 of the Code of Criminal Procedure applies.\r\nArticles 423 and 429, the first part of Article 430, Articles 431 to 434, Paragraphs 1 and 2 of Article 435, and Article 436 shall apply mutatis mutandis to procedure of trial de novo in the preceding paragraph.\r\nWhere the juvenile court which pronounced the protective measures finds one of the circumstances in subparagraphs of Paragraph 1, it may pronounce sua sponte a ruling of trial de novo.\r\nAfter execution of protective measures is complete, if under results of the trial de novo, the juvenile shall be charged a criminal offence and the disadvantage does not apply to the juvenile, such a ruling need to be transferred to a prosecutor of the prosecutors’ office in the competent court."
+		},
+		{
+			"number": 6402,
+			"content": "(Trial de Novo)\r\nIf one of the following circumstances applies after a pronouncement of no protective measure, any person who believes that protective measures shall be pronounced, the victim or the juvenile’s statutory agent may request trial de novo from the court that pronounced no protective measurement:\r\n1. When circumstances for retrial pursuant to Subparagraph 1 of Article 422 of the Code of Criminal Procedure exist\r\n2. When the juvenile makes relevant confessions or newly uncovered evidence leads to the belief that protective measures shall be pronounced pursuant to Article 3.\r\nArticles 429, 431 to 434, Paragraphs1 and 2 of Article 435, and Article 436 of the Code of Criminal Procedure shall apply mutatis mutandis to trial de novo in the preceding paragraph.\r\nIf the juvenile court which pronounced the no protective measures discovers one of the circumstances specified in Paragraph 1, it may pronounce muto proprio a ruling of trial de novo.\r\nA trail de novo may not be initiated 1 year after the pronouncement of no protective measures pursuant to Paragraph 1 or the preceding paragraph."
+		},
+		{
+			"number": 6500,
+			"content": "(Scope of Juvenile Criminal Action and No Private Prosecution)\r\nCriminal action and punishment for juvenile offenses are restricted to cases transferred pursuant to Paragraphs 1 and 2 of Article 27.\r\nThe regulations regarding private prosecution in the Code of Criminal Procedure do not apply to juvenile criminal cases.\r\nRegulations in this Chapter also apply to juveniles who reached the age of 18 after committing the crime."
+		},
+		{
+			"number": 6600,
+			"content": "(Initiating the Investigation)\r\nThe prosecutor shall promptly initiate investigations of juvenile criminal cases transferred from juvenile courts."
+		},
+		{
+			"number": 6700,
+			"content": "(Prosecution and Exempted Prosecution)\r\nWhere a juvenile commits an offense with a maximum punishment of 5 years imprisonment, if after considering Article 57 of the Criminal Code, the prosecutor deems it proper to exempt prosecution and apply protective measures, the prosecutor may make a decision of exempted prosecution and transfer the case to the juvenile court under procedure of juvenile delinquent protection pursuant to results of the investigation. If the case is deemed for prosecution, the prosecutor shall prosecute the case in the juvenile court. Cases where a juvenile court has jurisdiction pursuant to Article 68 shall be prosecuted at the juvenile court.\r\nWhere a prosecutor makes a decision of exempted prosecution and transfers the case to the juvenile court under procedure of juvenile delinquent protection pursuant to the preceding paragraph, if the juvenile court transfers the case again by ruling, the prosecutor may not make the decision of exempted prosecution and transfer the case back to the juvenile court under procedure of juvenile delinquent protection pursuant to the preceding paragraph again."
+		},
+		{
+			"number": 6800,
+			"content": "(Deleted)"
+		},
+		{
+			"number": 6900,
+			"content": "(Res Judicata)\r\nWhere a juvenile offence is pronounced protective measures pursuant to Article 42, no criminal action or punishment may be charged against the same matter; unless such protective measures is canceled pursuant to Article 45 or 47."
+		},
+		{
+			"number": 7000,
+			"content": "(Investigation and Trial Procedure)\r\nThe investigation and trial of a juvenile criminal case shall apply mutatis mutandis against relevant regulations in Sections I and III of Chapter III."
+		},
+		{
+			"number": 7100,
+			"content": "(Restrictions on Detention)\r\nA juvenile defendant may not be detained unless there are no alternatives.\r\nA juvenile defendant shall be detained in a juvenile detention center; once reaching 20 years of age, he/she shall be send to a detention center.\r\nThe detention during investigation of a juvenile criminal case by the juvenile court is deemed the detention before sentencing and shall apply mutatis mutandis of the Article 46 of the Criminal Code regarding sentence deduction."
+		},
+		{
+			"number": 7200,
+			"content": "(Segregated Interrogations)\r\nA juvenile defendant shall be segregated from other defendants during investigation or trial, unless it is obviously difficult to separate the hearing from a common criminal trial or there is a need for cross-examination."
+		},
+		{
+			"number": 7300,
+			"content": "(Private Hearing)\r\nThe trial may be made in private.\r\nThe provisions of Article 34 shall apply mutatis mutandis to a private hearing.\r\nThe court may not refuse a request to make the trial public by a juvenile, his/her statutory agent, or a person who currently protects the juvenile, unless there are statutory reasons for a private hearing."
+		},
+		{
+			"number": 7400,
+			"content": "(Remitted Punishment and Dispositions Afterwards)\r\nFor a juvenile criminal case in Article 27 where a juvenile commits an offence with a maximum punishment of 10 years imprisonment, if the court finds such juvenile forgivable, that a sentence reduced pursuant to Article 59 of the Criminal Code is still too heavy, and that a disposition of protective measures would be more appropriate, the court may remit the punishment and pronounce protective measures pursuant to Subparagraphs 2 to 4 of Paragraph 1 of Article 42 and may also pronounce dispositions pursuant subparagraphs of Paragraph 2 of the same article at once.\r\nExecution of the preceding paragraph shall apply regulations in Section II of Chapter III."
+		},
+		{
+			"number": 7500,
+			"content": "(Deleted)"
+		},
+		{
+			"number": 7600,
+			"content": "(Deleted)"
+		},
+		{
+			"number": 7700,
+			"content": "(Deleted)"
+		},
+		{
+			"number": 7800,
+			"content": "(No Deprivation of Citizen’s Rights)\r\nJuveniles may not be sentenced to deprivation of citizen’s rights or enforced work.\r\nA juvenile shall be deemed to have never committed an offence when regulations related to citizen’s rights apply, if he/she is sentenced and has completed the punishment or been pardoned."
+		},
+		{
+			"number": 7900,
+			"content": "(Requirement for Sentence Suspension)\r\nArticle 74 of the Criminal Code regarding sentence suspension shall only be applied to juveniles sentenced with punishments of less than 3 years imprisonment, detention or fine."
+		},
+		{
+			"number": 8000,
+			"content": "(Execution of Limited Imprisonment)\r\nArticles 3, 8 and Paragraph 2 of Article 39 of the Prison Act shall be complied with when enforcing the sentencing on a juvenile inmate."
+		},
+		{
+			"number": 8100,
+			"content": "(Bail Requirement)\r\nA juvenile may be bailed out if he/she repents after 7 years of life imprisonment, or after more than one-third of limited imprisonment.\r\nWhere a juvenile is under punishment of imprisonment before the promulgation of the Law, or where a juvenile receives a final sentence of imprisonment before the promulgation of the Law but is executed after the promulgation of the Law, the preceding paragraph shall apply mutatis mutandis."
+		},
+		{
+			"number": 8200,
+			"content": "(Probation and Supervision during Sentence Suspension or Bail)\r\nA protection officer in the juvenile court shall execute the probation and supervision during sentence suspension or bail period.\r\nExecution of probation and supervision in the preceding paragraph shall apply mutatis mutandis Section II of Chapter III regarding the execution of protective measures."
+		},
+		{
+			"number": 8300,
+			"content": "(Confidentiality)\r\nNo one may disclose in media, information, or make public records or photos related to juvenile delinquent protection or a juvenile criminal action, so that a reader may have sufficient data to identity a juvenile being investigated or tried in a juvenile delinquent protection or a defendant in a criminal action.\r\nThe competent authority shall dispose any violations against the preceding paragraph pursuant to applicable laws."
+		},
+		{
+			"number": 8301,
+			"content": "(Record Removal)\r\nAfter a juvenile has completed the disposition of transfer in Paragraph 1 of Article 29 for 2 years, or completed the protective measures or sentence or being pardoned for 3 years, or receives a final ruling on case dismissed or no protective measures, he/she shall be deemed have never been pronounced such dispositions.\r\nUnder circumstances in the preceding paragraph, the juvenile court shall notify the institution which preserves the juvenile’s criminal records and relevant data to remove such data.\r\nUnless it is in the interests of the juvenile or consented by the juvenile, the juvenile court and any other institutes may not provide the records or data in the preceding paragraph."
+		},
+		{
+			"number": 8302,
+			"content": "(Punishment for Failing to Remove Criminal Records)\r\nA person violating the preceding article, by either failing to remove the records or provides the data relevant to a juvenile’s criminal records without relevant cause, shall be sentenced to a maximum of 6 months of imprisonment, detention, or a fine under NT$ 30,000."
+		},
+		{
+			"number": 8303,
+			"content": "(Deportation)\r\nA foreign juvenile may be deported instead of a disposition of transfer, protective measures, or order the probation and supervision during the period of sentence suspension.\r\nThe deportation in the preceding may be executed by a judicial police institute upon request by a juvenile investigator or protection officer to the juvenile court."
+		},
+		{
+			"number": 8400,
+			"content": "(Punishment for a Juvenile’s Statutory Agent or Guardian)\r\nWhere a juvenile’s statutory agent or guardian failed to nurture the juvenile and causes the latter to violate the criminal laws or have the potential to violate the criminal laws in Subparagraph 2 of Article 3, and that such juvenile is under protective measures or sentenced, the juvenile court may order the statutory agent or guardian to undertake a parenting course for 8 to 50 hours.\r\nIf the statutory agent or guardian refuses to partake the parenting course in the preceding paragraph or does not complete the hours, the juvenile court may sentence a fine of NT$ 3,000 to NT$ 10,000 by ruling; if he/she rejects to take the course after receiving a second notice, the court may carry the fine on a recurring basis until the parties concerned takes the course. Once the fine is imposed for more than 3 successive times, the court may publicly announce the name of the statutory agent or guardian by ruling.\r\nThe ruling of fine in the preceding paragraph may be the title for compulsory execution; the juvenile court shall request the civil compulsory execution division of the district court to carry out execution with execution fees exempted.\r\nA person under a disposition may file an interlocutory appeal against the ruling of a fine prescribed in Paragraphs 1 and 2, which shall apply mutatis mutandis Article 63 of the Law and Articles 406 to 414 of the Code of Criminal Procedure.\r\nWhere a juvenile’s statutory agent or guardian has situations prescribed in the former part of Paragraph 1 and the situation is serious, the juvenile court may publicly announce his/her name by ruling.\r\nNo interlocutory appeal may be filed against a ruling in the preceding paragraph."
+		},
+		{
+			"number": 8500,
+			"content": "(Enhanced Punishments for Adults)\r\nAny adult who instigates, helps or uses a person under the age of 18 to commit crime or commit crime together with them will be aggravated the conviction up to a half of the sentences.\r\nThe juvenile court may order the adult in the preceding paragraph to bear the whole or part of education costs prescribed in Paragraph 1 of Article 60 by ruling and may publicly announce the name of the adult."
+		},
+		{
+			"number": 8501,
+			"content": "(Criminal Punishment for those between ages of 7 and 12)\r\nWhere a child between ages of 7 and 12 violates the criminal laws, the juvenile court may apply rules for juvenile delinquent protection.\r\nThe Executive Yuan and Judicial Yuan shall prescribe regulations regarding the execution of protective measures in the preceding paragraph in reference to the Child Welfare Law."
+		},
+		{
+			"number": 8600,
+			"content": "(Supplemental Regulations)\r\nThe enforcement rules of the Law shall be prescribed by the Judicial Yuan and the Executive Yuan.\r\nThe rules for the trial of juvenile delinquent protection shall be prescribed by the Judicial Yuan.\r\nThe execution rules for juvenile delinquent protection shall be prescribed by the Judicial Yuan and the Executive Yuan.\r\nThe prevention plan for juvenile delinquency and potential delinquency shall be prescribed by the Ministry of Internal Affairs, Ministry of Justice, and Ministry of Education."
+		},
+		{
+			"number": 8700,
+			"content": "(Effective Date)\r\nThe Law shall come into effect on July 1, 1971.\r\nThe amended articles of the Law shall come into effective upon promulgation."
+		}
+	]
+}

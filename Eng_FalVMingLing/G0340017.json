@@ -1,0 +1,553 @@
+{
+	"pcode": "G0340017",
+	"type": "命令",
+	"english": "Regulations for the Collection of Commodity Tax",
+	"title": "貨物稅稽徵規則",
+	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0340017",
+	"englishUpdate": "20150710",
+	"history": [
+		" Promulgated on June 17, 1963",
+		" Amended on December 30, 1970",
+		" Amended on April 27, 1971",
+		" Amended on August 31, 1972",
+		" Amended on February 6, 1973",
+		" Amended on July 13, 1973",
+		" Amended on July 21, 1975",
+		" Amended on October 26, 1988",
+		" Issuance of Decree No. 791190894 by the MOF on 30th May 1990.",
+		" Article 23 and Article 50 deleted, Articles 18,21,22,24,28,30～33,35～38,47,48,52,53,56,57,59,68,70～72,80 and 82 amended promulgated on 30th October 1997 per MOF Decree No. 860684802.",
+		" Articles 4,5,8,9 and 88 deleted, Articles 7,10,11,15,21,24,25,32,35,40,43,45、47、51、57、61、67、68、70、71、73、75、76、82 and 84 amended promulgated on 3rd January 2003 per MOF Decree No. 0910077249.",
+		" Article 11 amended promulgated on 11th April 2009 per MOF Decree No. 09804518490.",
+		" Articles 6,16 and 41 deleted, Article 44-1 added and Articles 7,11,18,19,25,43,46,51,59,79 and 80 amended promulgated on 10th July 2015 per MOF Decree No.10404593350."
+	],
+	"divisions": [
+		{
+			"type": "chapter",
+			"number": 100,
+			"title": "General",
+			"start": 100
+		},
+		{
+			"type": "chapter",
+			"number": 200,
+			"title": "Registration",
+			"start": 1000
+		},
+		{
+			"type": "section",
+			"number": 100,
+			"title": "Manufacturer’s Registration",
+			"start": 1000
+		},
+		{
+			"type": "section",
+			"number": 200,
+			"title": "Product Registration",
+			"start": 1500
+		},
+		{
+			"type": "chapter",
+			"number": 300,
+			"title": "Certification",
+			"start": 2100
+		},
+		{
+			"type": "chapter",
+			"number": 400,
+			"title": "Tax Unit and Package",
+			"start": 2800
+		},
+		{
+			"type": "section",
+			"number": 100,
+			"title": "Rubber Tire",
+			"start": 2800
+		},
+		{
+			"type": "section",
+			"number": 200,
+			"title": "Cement",
+			"start": 3000
+		},
+		{
+			"type": "section",
+			"number": 300,
+			"title": "Beverages",
+			"start": 3200
+		},
+		{
+			"type": "section",
+			"number": 400,
+			"title": "Flat Glass",
+			"start": 3300
+		},
+		{
+			"type": "section",
+			"number": 500,
+			"title": "Oil/Gas",
+			"start": 3500
+		},
+		{
+			"type": "section",
+			"number": 600,
+			"title": "Electric Appliances",
+			"start": 3700
+		},
+		{
+			"type": "section",
+			"number": 700,
+			"title": "Vehicles",
+			"start": 3800
+		},
+		{
+			"type": "chapter",
+			"number": 500,
+			"title": "Taxable Value",
+			"start": 3900
+		},
+		{
+			"type": "chapter",
+			"number": 600,
+			"title": "Tax Collection Procedures",
+			"start": 4700
+		},
+		{
+			"type": "section",
+			"number": 100,
+			"title": "Domestically Manufactured Goods",
+			"start": 4700
+		},
+		{
+			"type": "section",
+			"number": 200,
+			"title": "Imported Goods",
+			"start": 5500
+		},
+		{
+			"type": "section",
+			"number": 300,
+			"title": "Books and Documentary Evidence",
+			"start": 6000
+		},
+		{
+			"type": "section",
+			"number": 400,
+			"title": "Movement of Untaxed Goods",
+			"start": 6200
+		},
+		{
+			"type": "section",
+			"number": 500,
+			"title": "Inspection",
+			"start": 6500
+		},
+		{
+			"type": "chapter",
+			"number": 700,
+			"title": "Tax Exemption, Refund and Offset",
+			"start": 7000
+		},
+		{
+			"type": "section",
+			"number": 100,
+			"title": "Export Goods",
+			"start": 7000
+		},
+		{
+			"type": "section",
+			"number": 200,
+			"title": "Raw Materials Used for the Manufacture of Another Kind of Taxable Goods",
+			"start": 7400
+		},
+		{
+			"type": "section",
+			"number": 300,
+			"title": "Goods for the Purpose of Exhibition or Entertaining Troops",
+			"start": 8000
+		},
+		{
+			"type": "section",
+			"number": 400,
+			"title": "Returned, Damaged and Reprocessed/Refined Goods",
+			"start": 8200
+		},
+		{
+			"type": "section",
+			"number": 500,
+			"title": "Disposition of Physically Destroyed or Lost Goods",
+			"start": 8700
+		},
+		{
+			"type": "chapter",
+			"number": 800,
+			"title": "Supplemental Provisions",
+			"start": 8900
+		}
+	],
+	"articles": [
+		{
+			"number": 100,
+			"content": "The Regulations herein are set forth in accordance with Article 36 of the Commodity Tax Act (hereunder referred to as “the Act”)."
+		},
+		{
+			"number": 200,
+			"content": "Unless otherwise provided for, the registration, certification and taxation of taxable goods, whether domestically produced or imported from abroad, shall be governed by the Regulations herein."
+		},
+		{
+			"number": 300,
+			"content": "“Rubber tires for buses and trucks” specified in Item 1, Article 6 of the Act refers to tires with an inner tube of 43.18 cm (17 inches) or more in diameter."
+		},
+		{
+			"number": 400,
+			"content": "(deleted)."
+		},
+		{
+			"number": 500,
+			"content": "(deleted)."
+		},
+		{
+			"number": 600,
+			"content": "(deleted)."
+		},
+		{
+			"number": 700,
+			"content": "When vehicles are imported for use in research and development as specified in Sub-item 3 under Item 1, first paragraph of Article 12 of the Act, the Customs shall exempt them from taxation if a certificate issued by the Ministry of Economic Affairs is presented, with the wording “for R&D” noted on the Import and Commodity Tax Payment (Exemption) Certificate. Such vehicles may not apply for vehicle licenses.\r\nThe term \"low chassis buses \" as used Sub-item 2 under Item 1, first Paragraph of Article 12 of the Act means the low floor public bus whose specification is in accordance with the Safety Testing Criteria.\r\nThe term \" engineering vehicles not running on public roads \" as used Sub-item 3 under Item 1, first Paragraph of Article 12 of the Act refers to the following vehicles:\r\n(1)Vehicles exceed the specifications of Article 38 of the Road Traffic Safety Regulations, Standards, may not apply for permits and run on public roads.\r\n(2)Vehicles not used for passenger or freight can only use in port, at the warehouse, at the airport、in the workplace, and may not apply for permits and run on public roads.\r\nWhen removing a vehicle from the manufacturer’s premises or importing a vehicle conforms to the preceding provision, the competent tax authority or the Customs shall note on the Commodity Tax Exemption Certificate or the Import and Commodity Tax Payment (Exemption) Certificate with the wording “may not apply for permits and run on public roads”.\r\nThe term \"wheelchair accessible vehicle \" as used in Paragraph 5 of Article 12 of the Act means rules for vehicles with the function to carry wheelchair users, as defined in Article 67 of the Vehicle Safety Testing Criteria."
+		},
+		{
+			"number": 800,
+			"content": "(deleted)."
+		},
+		{
+			"number": 900,
+			"content": "(deleted)."
+		},
+		{
+			"number": 1000,
+			"content": "A manufacturer shall, prior to commencing production, fill out an Application for the Establishment and Registration of a Commodity Tax Paying Manufacturer according to the established format, and submit it together with the Manufacturer’s Registration Form and other required documents to the competent tax authority for review and approval.\r\nThe aforesaid Manufacturer’s Registration Form shall contain the following particulars:\r\n(1)Name, uniform business No., and address of the manufacturer\r\n(2)Organizational entity\r\n(3)Capital of business\r\n(4)Name, date of birth, Citizen’s ID No., household registration address, and job title and seal specimen of responsible person\r\n(5)Name and address of warehouse for untaxed goods outside the premises of the factory\r\n(6)Name and capacity of major machinery/equipment\r\nManufacturers shall register by unit of factory. If a company has more than one factory, it shall register them separately with the competent tax authority where each factory is located."
+		},
+		{
+			"number": 1100,
+			"content": "When applying for registration as described in the foregoing Article, a manufacturer shall attach the following documents:\r\n(1)Photocopy of the documentary evidence of company registration certificate or business registration certificate.\r\n(2)Photocopy of the documentary evidence of factory registration certificate. If factory registration is not required by law, the attachment is exempted."
+		},
+		{
+			"number": 1200,
+			"content": "If a manufacturer changes its registered items on the Manufacturer’s Registration Form, it shall, within fifteen (15) days after the occurrence of such an event, apply for change of registration by submitting a new Manufacturer’s Registration Form with changed items noted thereon together with relevant supporting documents and photocopies to the original registration agency. The application will be processed in the same way as a first-time application."
+		},
+		{
+			"number": 1300,
+			"content": "If a manufacturer ceases business, it shall apply to the competent tax authority for cancellation of registration within fifteen (15) days after the occurrence of such an event, and at the same time, report to the tax authority with regard to the transfer, sale or storage of the production equipment and left-over stock, and pay tax for commodities that have not yet been taxed. The cancellation of registration will be permitted only after the manufacturer has settled all violations, if any."
+		},
+		{
+			"number": 1400,
+			"content": "If a manufacturer has ceased production for over one year or moved to an unknown location, the competent tax authority may proceed to cancel its manufacturer’s registration. But if the said manufacturer is found to have untaxed stock, owe commodity tax, or have unsettled cases of violation, its manufacturer’s registration will only be cancelled after all such cases are settled."
+		},
+		{
+			"number": 1500,
+			"content": "A manufacturer shall, prior to commencing the production of taxable goods, contact the competent tax authority to obtain product numbers and fill out an Application for Product Registration, and submit a 4-inch photograph of a product sample and its logo or packing paper to the competent tax authority for review and approval. If deemed necessary for review purposes, the competent tax authority may notify the manufacturer to provide the design drawings or catalogue of the product.\r\nThe aforesaid Application for Product Registration shall contain the following particulars:\r\n(1)Name, logo, and specifications of the product (including the names and unit quantity of major materials used)\r\n(2)Packing material, packing method, and volume or net weight contained in each unit\r\n(3)Estimated manufacturing cost, profit and selling price excluding tax\r\n(4)Whether the product is for export only\r\n(5)Whether the product has the same quality and specification as products produced by other factories within the same organization\r\nThe photograph of the sample specified in the first paragraph hereof may be submitted within two (2) days after production of the first batch if the manufacturer is unable to submit the same prior to the commencement of production."
+		},
+		{
+			"number": 1600,
+			"content": "(deleted)."
+		},
+		{
+			"number": 1700,
+			"content": "When a manufacturer registers products produced on behalf of its client on the basis of contract manufacturing according to Article 15 herein, it shall submit the manufacturing contract to the competent tax authority as well for review. In cases where the consignor and the manufacturer are located in areas under the jurisdiction of different tax authorities, the competent tax authority handling the application of the said manufacturer should forward a copy of the manufacturing contract and Application for Product Registration to the tax authority where the consignor is located after it approves the product registration.\r\nIf the aforesaid consignor registers with the tax authority as a payer of commodity tax as provided for in the second paragraph, Article 2 of the Act, it shall be so stated on the manufacturing contract. In such an event, the tax authority where the consignor is located shall, upon receiving the application and other documents forwarded by another tax authority, assign a Product No. to the product under application and notify the consignor to pay commodity tax according to the established Act."
+		},
+		{
+			"number": 1800,
+			"content": "Except export goods, where packing specifications are approved under special case status, packed taxable goods shall have the name of the goods as well as the name and address of the manufacturer noted in Chinese on the package."
+		},
+		{
+			"number": 1900,
+			"content": "If a manufacturer changes the name, specifications, volume, net weight or contents or materials used of the approved product, a new registration is required, it shall apply to the competent tax authority for change in registration prior to production. If the aforesaid change involves only the logo on the package, the manufacturer may submit the information to the tax authority without applying for change of registration.\r\nWhen a manufacturer ceases the production of a registered product, it shall apply for cancellation of registration."
+		},
+		{
+			"number": 2000,
+			"content": "If a registered product has not started production one year after the registration or has ceased production for four years, the competent tax authority may proceed to cancel its registration."
+		},
+		{
+			"number": 2100,
+			"content": "Certificates for commodity tax include the following kinds and will be produced and dispensed by the competent tax authority and the Customs:\r\n(1)Tax payment certificate: A certificate in blue color for goods under the Act with commodity tax paid.\r\n(2)Tax exemption certificate: A certificate in orange color for goods that are exempted from commodity tax.\r\n(3)Provisional transport certificate: A certificate in white color for the interim movement of untaxed, on-account or tax-exempt goods."
+		},
+		{
+			"number": 2200,
+			"content": "A manufacturer that is permitted to file its latest business income tax return in blue form or files its tax return through an accountant, and uses serially numbered shipping (delivery) sheets that document the name of the recipient, and the names, specifications, and quantity of products, may apply to the competent tax authority to substitute the tax payment certificate with the shipping (delivery) document, subject to the approval of the Ministry of Finance.\r\nThe tax payment certificate and tax exemption certificate for imported taxable goods may be substituted with an Import and Commodity Tax Payment (Exemption) Certificate issued by the Customs, subject to the approval of the Ministry of Finance."
+		},
+		{
+			"number": 2300,
+			"content": "(deleted)."
+		},
+		{
+			"number": 2400,
+			"content": "If a manufacturer that has been approved to use a shipping (delivery) document in lieu of a tax payment certificate pursuant to the first paragraph of Article 22 herein loses its qualification or owes taxes, the competent tax authority may ask the Ministry of Finance to revoke its privilege of using other documents in lieu of tax payment certificates, and notify the manufacturer of the same.\r\nA manufacturer that has had the privilege of using other documents in lieu of the tax payment certificate revoked by the Ministry of Finance as described in the preceding paragraph may re-apply for such privilege according to the provisions in the first paragraph of Article 22 herein after paying off the taxes owed."
+		},
+		{
+			"number": 2500,
+			"content": "A manufacturer may submit the following documents to apply to the competent tax authority for approval to use digital computing machines for issuing special tax payment (exemption) certificates:\r\n(1)A specimen showing the format of the special tax payment (exemption) certificate.\r\n(2)Implementation plan and operating flow.\r\n(3)Internal security audit measures.\r\nIn case a manufacturer that has been approved to issue special tax payment (exemption) certificates with digital computing machines owes taxes, the competent tax authority may suspend such privilege and notify the manufacturer of the same. However, the competent tax authority should restore the said manufacturer’s privilege after the manufacturer has paid the taxes owed.\r\nThe special tax payment (exemption) certificates produced by a manufacturer should be numbered and printed by way of layout imposition, and affixed with the manufacturer’s chop and the approval document number given by the competent tax authority. The manufacturer shall report to the competent tax authority the quantity and serial numbers of certificates printed each time. In case of blackout or machine breakdown, the manufacturer should issue the tax payment (exemption) certificates manually according to the established rules and note the same in the certificate management statement."
+		},
+		{
+			"number": 2600,
+			"content": "When a manufacturer applies for and receives certificates, it shall fill out a receipt according to the established format, take count on the spot, and store and use those certificates with care.\r\nA manufacturer shall produce monthly statements of the use status of various certificates and submit it together with the second copy of the used certificates to the competent tax authority before the fifteenth (15th) of the following month."
+		},
+		{
+			"number": 2700,
+			"content": "Tax payment certificates and tax exemption certificates may not be erased or altered. Certificates with wrong entries shall be stamped “Void” on each copy without being torn off. A certificate with wrong entries that have been torn off may not be cancelled until it has been examined by the competent tax authority."
+		},
+		{
+			"number": 2800,
+			"content": "Rubber tires shall be taxed per piece."
+		},
+		{
+			"number": 2900,
+			"content": "Used tires that are restored and sold shall be taxed by their selling price."
+		},
+		{
+			"number": 3000,
+			"content": "Cement shall be packed in bags of 50 kilograms, and 20 bags shall weigh one metric ton (MT), which will be the tax unit; bags of cement that weigh less than 1MT shall be taxed in proportion; cement that is in an amount of less than one bag may not be released from the factory."
+		},
+		{
+			"number": 3100,
+			"content": "Bulk cement must come with weighbridge and conveying funnel, and be transported in a special truck in which the cement can be sealed."
+		},
+		{
+			"number": 3200,
+			"content": "Beverages that are packed in bottles, cans, boxes, or barrels or sold by auto-blend vending machine shall be taxed as follows:\r\n(1)If packed in bottles, cans or boxes: taxed by the dozen; if the bottles, cans or boxes are packed in cartons, taxed accordingly by the dozen.\r\n(2)If packed in barrels: taxed by the barrel.\r\n(3)If sold by auto-blend vending machine: taxed by the material or semi-finished product in a barrel that can be blended into the beverage when such material or semi-finished product is released from the factory."
+		},
+		{
+			"number": 3300,
+			"content": "Flat glass shall be taxed per box, where each box is 9.29 M2 (100 ft2). A partial box of flat glass will be taxed by proportion."
+		},
+		{
+			"number": 3400,
+			"content": "When an acrylic board manufacturer imports reinforced glass for the production of moulds, it shall present the certificate issued by the competent authority for industrial development and a statement promising not to sell or use the imported products for other purposes when it applies to the Customs for tax exemption. After approving the tax exemption request, the Customs should forward the information to the tax authority where the said manufacturer is located."
+		},
+		{
+			"number": 3500,
+			"content": "Oil products shall be taxed by the kiloliter; liquefied petroleum gas shall be taxed by the metric ton."
+		},
+		{
+			"number": 3600,
+			"content": "A tax payment certificate is not required for domestically refined oil/gas products that are transported by pipelines."
+		},
+		{
+			"number": 3700,
+			"content": "Electric appliances shall be taxed per appliance (set)."
+		},
+		{
+			"number": 3800,
+			"content": "Automobiles, motorcycles, tractors and the chassis and bodies of all kinds of movable automobiles shall be taxed per vehicle. One tax payment certificate should be issued for each vehicle, stating the maker and engine number of the vehicle.\r\nFor vehicles that are not made in one integrated operation, the tax payment certificates for their chassis and body may be used in applications for vehicle licenses."
+		},
+		{
+			"number": 3900,
+			"content": "The selling price specified in Article 14 of the Act does not include the prices of tax-exempt goods and goods paid for in installments with a payment period of more than one year and sold by the manufacturer."
+		},
+		{
+			"number": 4000,
+			"content": "A manufacturer shall compute the taxable value of taxable goods released from the factory per month based on the selling price, and file the Taxable Value Computation Form filled out according to the established format with the competent tax authority before the fifteenth (15th) of the following month.\r\nThe manufacturer shall keep custody of the data used for computing the taxable value and related working papers for future reference."
+		},
+		{
+			"number": 4100,
+			"content": "(deleted)."
+		},
+		{
+			"number": 4200,
+			"content": "For the same products produced by different factories under the same organization, the head office of the said organization may apply to the Ministry of Finance for permission to combine the selling prices of the same products from different factories in the computation of taxable value, where each factory will compute and pay the tax due respectively based on the ex-factory quantity.\r\nIf a manufacturer that has been approved to compute collective taxable value as described in the preceding paragraph applies to the Ministry of Finance for restoring separate computation of taxable value by factory due to actual need, the said manufacturer may not apply for computation of taxable value on a collective basis within one year."
+		},
+		{
+			"number": 4300,
+			"content": "Except for beverages sold without containers, the selling price of domestically produced beverages should have the cost of the container deducted as provided for in Paragraph 4 of Article 8 of the Act, and the said cost shall be calculated in accordance with Paragraph 3 of Article 44 of the Income Tax Act. A manufacturer that intends to calculate the cost of containers using a method other than those described above shall apply to the competent tax authority for approval.\r\nIf a manufacturer fails to calculate the cost of containers according to the preceding paragraph, the general standards approved by the Ministry of Finance shall apply."
+		},
+		{
+			"number": 4400,
+			"content": "If the price of a vehicle body or a major part of a special-style vehicle or air conditioning/heating system declared by the manufacturer is lower than the general price approved by the Ministry of Finance, the competent tax authority should examine the related cost and sales data before accepting the declared price. If the manufacturer fails to furnish relevant books or documents, or if the declared price is inconsistent with the data furnished, or is markedly low without due reason, the competent tax authority should determine the taxable value according to the general price approved by the Ministry of Finance."
+		},
+		{
+			"number": 4401,
+			"content": "Except the term \" vehicles \" as used in Paragraph 5 of Article 12 of the Act, in the case of a tax-exempt commodity that loses its tax-exempt status due to a transfer or a change in purpose of use, the taxpayer shall be reimposed for payment of taxes in accordance with Subparagraph 5 of Paragraph 1 of Article 2 of the Act. The taxable value of the vehicle removed from the manufacturer`s premises or its imported value shall be used to calculate the amount of tax in accordance with the average depreciation method for fixed assets stated in Article 51 of the Income Tax Act. However, vehicles excess the service life shall not count for depreciation.\r\nThe aforesaid average depreciation method shall use one year as one computing the unit; where the service life is less than a year, it shall be computed by the ratio between the actual number of months used and whole year, if the service life is less than one month, it is counted as one month. For the depreciation amount, the following formula is used to calculate salvage value：\r\nThe salvage value=taxable value of tax-exempt commodity/(the years of durability prescribed in the Table of the Service Life of Fixed Assets+1)"
+		},
+		{
+			"number": 4500,
+			"content": "If the selling price or taxable price as declared by the manufacturer is calculated wrongly or corrected under the application of the manufacturer, the competent tax authority should find out the reasons and make correction accordingly."
+		},
+		{
+			"number": 4600,
+			"content": "Manufacturers should use uniform invoices and state the names and specifications of their taxable goods on the uniform invoice when issuing it.\r\nIf a manufacturer also sells non-taxable goods, the uniform invoices issued thereof should be separated from those of taxable goods, unless a manufacturer uses computerized uniform invoices or issues electronic uniform invoices."
+		},
+		{
+			"number": 4700,
+			"content": "When a manufacturer files a monthly tax return for taxable goods released from the factory by submitting a Tax Calculation Report, the following documents shall be attached:\r\n(1)Copy of payment receipt\r\n(2)Taxable Value Computation Form\r\n(3)Monthly production/sales statement\r\n(4)Monthly statement of use of certificates\r\nMonthly statement of use of tax-exempt raw materials\r\nOther documents as prescribed by the Ministry of Finance"
+		},
+		{
+			"number": 4800,
+			"content": "Manufacturers may request tax payment certificates, tax exemption certificates, and provisional transport certificates to be used in the following month from the competent tax authority in advance, and the quantity received thereof shall be limited to the quantity used in the previous month. If the certificates received are insufficient, the manufacturer may apply to the competent tax authority for more with explanation provided.\r\nManufacturers should keep careful custody of the certificates they receive. If any certificate is unaccounted for, it must immediately be reported to the tax authority, with information on the type of certificate missing, its letter track and number provided."
+		},
+		{
+			"number": 4900,
+			"content": "Manufacturers shall not loan or sell the commodity tax certificates they receive from the competent tax authority. Unused certificates for the month may be rolled over for use in the next month, but the quantity rolled over will be deducted from the estimated usage for the following month."
+		},
+		{
+			"number": 5000,
+			"content": "(deleted)."
+		},
+		{
+			"number": 5100,
+			"content": "For taxable goods or directly exported, tax-exempt commodities released from a factory, the manufacturer shall fill out tax payment certificates or tax exemption certificates by batches. Other tax-exempt or on-account ex-factory goods shall be handled by the following provisions:\r\n(1)For tax-exempt military goods or other tax-exempt goods, a tax exemption certificate shall be filled out according to the approval document issued by the competent tax authority. If the competent tax authority approved tax-exempt beverages, a tax exemption certificate is not required.\r\n(2)For taxable materials used in the processing of export goods that are recorded on account, a tax payment certificate for charge account shall be filled out according to the approval document issued by the competent tax authority.\r\n(3)For materials to be supplied to another manufacturer for the production of another kind of taxable goods, a tax exemption certificate shall be filled out according to the Tax Exemption Application for Purchased Materials approved by the competent tax authority.\r\nThe first copy of the aforesaid tax payment certificate or tax exemption certificate shall be stamped with a chop bearing the manufacturer’s name and release date on the back and accompany the ex-factory commodity; the second copy will be submitted to the competent tax authority on a monthly basis; and the third copy will be kept by the manufacturer.\r\nThe manufacturer will prepare its own chop as mentioned in the preceding paragraph, and submit a specimen of the chop to the competent tax authority before starting to use the chop."
+		},
+		{
+			"number": 5200,
+			"content": "The quantity of taxable goods released from the factory each day shall be recorded in detail by batch according to the type of commodity and the established format, and totaled cumulatively for future inspection."
+		},
+		{
+			"number": 5300,
+			"content": "If the manufacturer has a processing department, the commodity tax of taxable goods transferred from the manufacturing department to the processing department shall be paid once a month, while the payment period and formalities are the same as those for ex-factory goods."
+		},
+		{
+			"number": 5400,
+			"content": "If a consignor registers with the tax authority as a payer of commodity tax as provided for in the second paragraph of Article 2 of the Act, the manufacturer should fill out a provisional transport certificate when delivering the taxable goods to the consignor. The consignor should record the receipt, sales and inventory of taxable goods, and file a commodity tax return for such goods together with ex-factory goods manufactured by itself in the month."
+		},
+		{
+			"number": 5500,
+			"content": "For imported taxable goods, the Customs shall compute taxable value according to Article 18 of the Act and collect the commodity tax at the same time customs duty is collected.\r\nIf the aforesaid imported goods are exempted from customs duty, the amount of customs duty exempted shall still be included in the computation of taxable value."
+		},
+		{
+			"number": 5600,
+			"content": "The taxpayer for imported taxable goods shall declare and pay commodity tax to the Customs at the time of importation and request a tax payment certificate from the Customs after paying the tax.\r\nFor taxable goods carried into the R.O.C. by inbound travelers, parcels containing taxable goods imported by post, or personal effects carried in by ROC representatives abroad, the levy and exemption of commodity tax shall accord to the same provisions applied to the levy and exemption of customs duty."
+		},
+		{
+			"number": 5700,
+			"content": "For imported taxable goods that have been approved to be recorded on account or imported materials with commodity tax exempted, the Customs should issue a tax payment certificate on charge account or tax exemption certificate; with regard to the tax recorded on account as paid, the taxpayer shall apply to the Customs for offset and case closing pursuant to the provisions of the Measures for Offset and Refund of Material Tax for Export Goods.\r\nIf the aforesaid goods need to be transported to another factory for processing, the taxpayer should apply to the competent tax authority for the issue of a provisional transport certificate."
+		},
+		{
+			"number": 5800,
+			"content": "For imported taxable goods that are exempted from commodity tax under special case status, the Customs will issue a tax exemption certificate."
+		},
+		{
+			"number": 5900,
+			"content": "The Customs should submit a monthly statement on commodity taxes collected to the Customs Administration, Ministry of Finance and the competent tax authority where the Customs house is located.\r\nThe collection of commodity tax in association of bonded factories under the administration of the Customs shall be handled by the Customs. For taxable goods manufactured by bonded factories and exported, a tax exemption certificate is not required."
+		},
+		{
+			"number": 6000,
+			"content": "Manufacturers shall set up and maintain books, documents, and accounting records in accordance with the procedures for accounting and bookkeeping by profit-seeking enterprises set forth by the tax authority."
+		},
+		{
+			"number": 6100,
+			"content": "Manufacturers should set up the following auxiliary books:\r\n(1)Raw material ledger: recorded according to invoices inward and manufacturing department’s material withdrawal and return records. All major materials should go through in-warehouse procedures.\r\n(2)Finished product ledger: recorded by product type according to the manufacturing department’s work shift report, in-warehouse, ex-factory or transfer to processing notices.\r\n(3)Warehouse register: A register should be set up for each warehouse to document the receipt and dispensing of materials, semi-finished products and finished products.\r\n(4)Tax exemption register: To record ex-factory goods that are exempted from commodity tax as provided by .\r\n(5)Processing/export register: To keep a record of taxable materials used in processing for export and offsets.\r\n(6)Return and re-processing register: To document the quantity of replacement, make-up, or loss based on the records of return/re-processing and relevant warehouse and processing records.\r\n(7)Tax-exempt material register: To record the receipt, withdrawal, and consumption of tax-exempt materials for processing of taxable goods into another kind of taxable goods (including tax-exempt materials for own manufacturing or processing, or for processing by another factory).\r\n(8)Register for the receipt of various commodity tax certificates: To record daily the quantity of certificates received and used.\r\nIf a manufacturer has already set up books having the same nature and functions as those described in the preceding paragraph, it may submit a reference table for such books to the competent tax authority for it to decide whether to allow the continual use of those books or adjust the list of required account books for the manufacturer.\r\nSmall-scale manufacturers having difficulty in setting up the required books as specified in Items (1) ~ (5) in the first paragraph hereof may apply to the competent tax authority for permission to replace them with production/sale journals maintained according to the required format, or a body/trailer register in the case of an automobile body or trailer manufacturer."
+		},
+		{
+			"number": 6200,
+			"content": "If a manufacturer needs to move its untaxed goods to a warehouse outside the premises of its factory, it may apply to the competent tax authority where the designated warehouse is located for permission to set up an untaxed warehouse. After the said tax authority approves of the registration of an untaxed warehouse, it shall notify the tax authority where the manufacturer is located.\r\nEach time a manufacturer relocates its untaxed goods, it shall fill out a provisional transport certificate in triplicate; the first copy shall accompany the untaxed goods; the second copy should be signed for receipt by the receiving warehouse on the back and submitted to the competent tax authority where the manufacturer is located on a monthly basis; and the third copy will be kept by the manufacturer itself.\r\nWhen the aforesaid untaxed goods are released from the warehouse, the manufacturer shall file a tax return and pay tax as required."
+		},
+		{
+			"number": 6300,
+			"content": "If a manufacturer has set up an untaxed warehouse pursuant to the foregoing article, it shall file a monthly report on the movement of untaxed goods and submit it together with the monthly production/sales statement to the competent tax authority before the fifteenth (15th) of the following month. A report on the state of untaxed goods in and out of the warehouse shall also be submitted to the tax authority where the untaxed warehouse is located."
+		},
+		{
+			"number": 6400,
+			"content": "If a manufacturer has its packing and production departments set up in two different locations so that the transport of untaxed goods between the departments is necessary, it shall fill out a provisional transport certificate each time the untaxed goods are moved.\r\nThe aforesaid packing department shall be registered with the competent tax authority in accordance with the first paragraph of Article 62 herein."
+		},
+		{
+			"number": 6500,
+			"content": "Tax authorities should conduct inspections in their respective jurisdictions to enforce tax collection and prevent tax evasion or under-reporting."
+		},
+		{
+			"number": 6600,
+			"content": "The inspection of commodity tax at ports and harbors with customs offices set up should be conducted jointly by personnel from the customs office and the local tax authority."
+		},
+		{
+			"number": 6700,
+			"content": "When discovering cases of violation, the inspection personnel should make a record on the spot by filling out a Violation Case Report, which states in detail the name and address of the commodity holder, the name and address of its responsible person, the names, specification and quantities of the goods, their purchase price, the origin of the goods, and the details of the violation, and ask the commodity holder or an on-site staff member to view and sign the report. The competent tax authority will handle the case according to the law."
+		},
+		{
+			"number": 6800,
+			"content": "If taxable imported goods are found to be involved in the act of customs duty and commodity tax evasion, a related report prepared according to the foregoing article will be forwarded to the Customs, which will process the case according to the Customs Act and the Act Governing Customs Smuggling Prevention; with regard to the evasion of commodity tax, the Customs will impose taxes and penalties pursuant to the relevant provisions of the Act."
+		},
+		{
+			"number": 6900,
+			"content": "If untaxed goods with owner unknown are not claimed by anybody within six months after the tax authority where the goods are seized has made a public announcement, the goods will be put to auction and the proceeds derived thereof will be turned over to the treasury. Goods that cannot be auctioned or do not have a buyer will be disposed of by the competent tax authority."
+		},
+		{
+			"number": 7000,
+			"content": "For tax-exempt export goods, the taxpayer shall, within three (3) months from the day following their release from the factory, submit the tax exemption certificate and a copy of the export declaration to the competent tax authority where the manufacturer is located for case closing. If the aforesaid filing is late, commodity tax shall be levied."
+		},
+		{
+			"number": 7100,
+			"content": "For taxed export goods, the taxpayer shall, after the goods are exported, submit a tax payment certificate and a copy of the export declaration to the competent tax authority where the manufacturer is located for tax refund."
+		},
+		{
+			"number": 7200,
+			"content": "If tax-exempt export goods cannot be exported or are returned for sale in the domestic market, the taxpayer shall submit a self-prepared tax payment certificate to the competent tax authority where the manufacturer is located before selling, unless the goods are shipped and returned to the factory."
+		},
+		{
+			"number": 7300,
+			"content": "Matters with regard to the account keeping, account offset, and tax return for taxable materials that are used in the production of export goods shall follow the Measures for Offset and Refund of Material Tax for Export Goods."
+		},
+		{
+			"number": 7400,
+			"content": "For taxable goods used as raw materials for the manufacture of another kind of taxable goods, the manufacturer shall fill out a Material Computation Form for the said taxable goods and apply to the competent tax authority for inspection. After an inspection agency spot checks the quantity of said material under the instruction of the competent tax authority, the competent tax authority will determine the standards for calculating the commodity tax exemption. If there is a need to prescribe uniform standards for the use of said materials, the competent tax authority should submit the proposal to the Ministry of Finance for approval.\r\nA taxable material may be exempted only if it constitutes an ingredient of the taxable goods; the fuel supply, testing or packaging materials for the manufacture of taxable goods are not exempted from commodity tax."
+		},
+		{
+			"number": 7500,
+			"content": "When purchasing taxable goods to be used as materials for the manufacture of another kind of taxable goods, the manufacturer shall fill out a Tax Exemption Application for Purchased Materials in triplicate and apply to the competent tax authority for approval of commodity tax exemption. The manufacturer will keep the first copy of the application, and process the other two copies according to the following provisions after they have been signed:\r\n(1)If the taxable materials are purchased directly from a local supplier, the manufacturer will give the second copy to the supplier and submit the third copy, which shall be affixed with the chop of the suppliers, to the local tax authority; the supplier should produce a tax exemption certificate.\r\n(2)If the taxable materials are imported, the manufacturer will give two copies of the application to the Customs for exempting the collection of commodity tax. The Customs will save the second copy and return the third copy to the manufacturer after affixing a customs chop. The manufacturer will then submit the third copy to the unit-in-charge of the Customs in exchange for a tax exemption certificate.\r\n(3)If the taxable materials are supplied by the manufacturer itself, the manufacturer will save the second copy of the application and submit the third copy to the local tax authority after affixing its own chop; the manufacturer will produce a tax exemption certificate itself."
+		},
+		{
+			"number": 7600,
+			"content": "If the tax-exempt material purchased by the manufacturer according to Item (1) of the foregoing article needs to be delivered to another manufacturer for processing and then returned to the factory for assembly into taxable goods, the following provisions shall be observed:\r\n(1)If the purchased tax-exempt materials are delivered by the manufacturer to a contractor for processing, the manufacturer should fill out a provisional transport certificate each time the said materials are shipped out of the factory.\r\n(2)If the purchased tax-exempt materials are to be directly delivered by the supplier to the contractor for processing, it should be noted so in the Tax Exemption Application for Purchased Materials. At the time of delivery, the contractor will check the goods received and return the tax exemption certificate to the supplier after affixing its chop thereon. The supplier will then submit the aforesaid tax exemption certificate to the local tax authority."
+		},
+		{
+			"number": 7700,
+			"content": "For tax-exempt materials purchased, the manufacturer should conduct a receiving inspection upon receipt, affix its chop and note the date of receipt on the original tax exemption certificate, and then submit it to the local tax authority for examination. If the local tax authority approves of the tax exemption status, it will send a reply letter to the manufacturer and forward the tax exemption certificate to the competent tax authority where the supplier is located."
+		},
+		{
+			"number": 7800,
+			"content": "A manufacturer may not supply tax-exempt materials it has purchased for use by another factory without the prior approval of the competent tax authority."
+		},
+		{
+			"number": 7900,
+			"content": "If a manufacturer did not go through the tax exemption formalities according to Article 75 herein in the purchase of taxable materials for use in the manufacture of another kind of taxable goods, and instead, purchased taxed goods in the market for use as raw material, the manufacturer may submit related documents and apply to the local tax authority or the Customs house for refund of commodity tax paid."
+		},
+		{
+			"number": 8000,
+			"content": "For taxable goods produced by a manufacturer that will be put on exhibition and are not for sale, the manufacturer shall submit the information on the nature of the exhibition, organizer, exhibition site, exhibition period, and quantity needed, as well the supporting documents issued by the exhibition organizer, to the competent tax authority for approval, and fill out a provisional transport certificate after receiving approval.\r\nIf the aforesaid tax-exempt goods are to be sold at the exhibition site, the manufacturer shall fill out a tax payment certificate and pay commodity tax to the same competent tax authority."
+		},
+		{
+			"number": 8100,
+			"content": "For taxable goods that will be donated to the military for troop entertainment, the manufacturer shall apply to the competent tax authority for approval by submitting the supporting document issued by the organizer, and fill out a tax exemption certificate after receiving approval. After delivering the goods to the designated location, the manufacturer should obtain a receipt from the recipient and submit it together with the tax exemption certificate to the tax authority for approval."
+		},
+		{
+			"number": 8200,
+			"content": "For ex-factory taxed goods that are returned due to slow sale or other reasons, the manufacturer may process the goods as return by presenting a return delivery notice, and should handle such goods according to the following provisions:\r\n(1)Re-sorting: If the returned goods after re-sorting have the same quality, appearance, shape and selling price, they may be released from the factory again without a tax payment certificate.\r\n(2)Repacking/reprocessing: If the returned goods are to be repacked or reprocessed, the manufacturer shall request the on-site inspection of the competent tax authority and seek tax refund or offset accordingly; after the returned goods are repacked or reprocessed, the manufacturer shall file a commodity tax return for such goods along with the taxable goods released from the factory in the same month.\r\nTaxed goods that did not go through the formalities as specified in Item (2) of the preceding paragraph shall be treated as new ex-factory goods and subject to commodity tax."
+		},
+		{
+			"number": 8300,
+			"content": "For taxable goods that are returned to the factory for reprocessing due to poor quality or damage and where losses are incurred in the process, the manufacturer must obtain the approval of the competent tax authority before writing off the damaged goods."
+		},
+		{
+			"number": 8400,
+			"content": "If taxed goods become unsaleable due to deterioration of quality or damage, the manufacturer should provide information on the location of storage and method and date of disposition, and request the competent tax authority where the goods are located to dispatch an officer to witness the disposal or melting down of the said goods. After the goods are disposed of, the manufacturer may apply to the local tax authority or customs house for refund of commodity tax paid."
+		},
+		{
+			"number": 8500,
+			"content": "Taxed goods that are sold, used, and then returned in exchange for a replacement shall still be subject to commodity tax."
+		},
+		{
+			"number": 8600,
+			"content": "For taxable goods that are made from refining taxed goods of similar kind, the taxpayer may use the original tax payment certificate to offset the commodity tax due for the refined goods and make up the shortfall thereof."
+		},
+		{
+			"number": 8700,
+			"content": "If taxable goods are physically destroyed in a fire, lost at sea, or destroyed in other force majeure events, the manufacturer or importer may apply to the competent tax authority or customs office for tax refund or case closing by presenting relevant evidence proofs as well as the original tax payment certificate, tax exemption certificate or provisional transport certificate."
+		},
+		{
+			"number": 8800,
+			"content": "(deleted)."
+		},
+		{
+			"number": 8900,
+			"content": "The formats of commodity tax certificates and forms prescribed in the Act and the Regulations herein shall be prescribed by the Ministry of Finance."
+		},
+		{
+			"number": 9000,
+			"content": "The Regulations shall be in force from the date of promulgation."
+		}
+	]
+}

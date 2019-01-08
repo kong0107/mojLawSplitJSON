@@ -1,0 +1,68 @@
+{
+	"pcode": "G0400008",
+	"type": "命令",
+	"english": "Regulations Governing Information to be Published in Order Tickets, Trade Reports, and Reconciliation Statements Prepared by Securities Brokers Upon Receiving Orders to Buy or Sell Securities",
+	"title": "證券經紀商受託買賣有價證券製作委託書買賣報告書及對帳單應行記載事項準則",
+	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0400008",
+	"englishUpdate": "20090211",
+	"history": [
+		" Article 3 amended and issued 3 July 2003 per Order No. Taiwan-Finance-Securities-II-0920002759 of the Securities and Futures Commission, Ministry of Finance",
+		" Article 6 amended and issued per 17 December 2007 Order No. Financial-Supervisory-Securities-II-0960069106 of the Financial Supervisory Commission, Executive Yuan",
+		" Article 3 amended and issued per 11 February 2009 Order No. Financial-Supervisory-Securities-II-0980004251 of the Financial Supervisory Commission, Executive Yuan"
+	],
+	"divisions": [],
+	"articles": [
+		{
+			"number": 100,
+			"content": "These Regulations are prescribed pursuant to Article 86, paragraph 2, and Article 87, paragraph 2 of the Securities and Exchange Act."
+		},
+		{
+			"number": 200,
+			"content": "The Financial Supervisory Commission, Executive Yuan, is the competent authority for the purposes of these Regulations."
+		},
+		{
+			"number": 300,
+			"content": "Order tickets shall be printed in red, while those for sell orders shall be printed in blue; where a trade constitutes a margin purchase, short sale, or sale of securities borrowed through securities borrowing and lending transactions (\"SBL short sale\"), that fact shall be noted additionally therein."
+		},
+		{
+			"number": 400,
+			"content": "An order ticket shall include the principal's name, account number, date and time of the order, type of securities, number or par value of shares, limit price, expiration time, account executive signature, signature of the principal, and manner in which the order is placed (by telephone, telegram, letter, or face-to-face). Notes shall also be added thereto with respect to the matters in the following subparagraphs:\r\n1. (deleted)\r\n2. If no expiration time is specified, the order is deemed to be valid on the current day only.\r\n3. The manner in which the order is placed shall be specified.\r\n4. For orders submitted in writing or by telegram, the written message or telegram shall be affixed.\r\n5. Securities purchased shall, without exception, be placed in central custody; to withdraw them, an Application for Withdrawal of Deposited Securities shall be completed separately."
+		},
+		{
+			"number": 500,
+			"content": "Where an order is submitted via telephone or telegram or in writing, the securities broker receiving the order shall first complete an order ticket under the preceding article and then have it signed by the principal at the time the principal delivers the price or the securities after the trade is executed; provided, this requirement of signing shall not apply where a Consent to Settlement by Book Entry has been signed, or where rules specify that it is not necessary to sign such a Consent to Settlement and the trade confirmation has been carried out and the record has been retained."
+		},
+		{
+			"number": 600,
+			"content": "A trade report shall specify the principal's name, account number, trade date, settlement date, order ticket number, type of trade, name of the securities, number of shares, unit price, monetary amount of the trade, transaction fee, bond interest, securities transaction tax, tax on accumulated interest, and amount receivable or payable; if a margin trade, it shall also specify the margin account number, margin purchase amount or short sale collateral, margin for margin purchase or short margin, interest accrual date, interest, short sale handling fee or securities lending fee, and short sale interest tax withheld."
+		},
+		{
+			"number": 700,
+			"content": "A trade report shall be prepared after execution of a trade, and may be stored in a computer storage medium, subject to request by the principal or securities finance company for print out and delivery."
+		},
+		{
+			"number": 800,
+			"content": "(deleted)"
+		},
+		{
+			"number": 900,
+			"content": "A reconciliation statement shall specify the principal's name, address, account number, buy or sell order date (year, month, day), type of trade, name of the securities, unit price, volume, and monetary amount of the trade."
+		},
+		{
+			"number": 1000,
+			"content": "A securities broker shall prepare a monthly reconciliation statement in duplicate and complete it by the fifth day of the following month, with one copy delivered to the principal and the other retained by the securities broker.\r\nThe reconciliation statement under the preceding paragraph shall be completed based upon the data recorded in the customer ledger."
+		},
+		{
+			"number": 1100,
+			"content": "Order tickets, trade reports, and reconciliation statements shall be preserved for the periods specified in the Taiwan Stock Exchange Corporation Table of Preservation Periods for Accounts, Statements, Vouchers, and Certificates of Securities Firms."
+		},
+		{
+			"number": 1200,
+			"content": "Where a trading order is submitted through electronic media (such as IC cards or the Internet), the securities firm is not required to prepare and fill out an order ticket on the principal's behalf, provided that it shall, on a timely basis, prepare and preserve relevant written records for verification purposes, and preserve the same for a period of at least two months following signature and/or seal by a relevant executive on a daily basis.\r\nThe \"relevant written records\" under the preceding paragraph shall include the account number of the principal, order date and time, type of securities, number of shares or par value, limit price, expiration time, account executive code, and manner in which the order is placed, and shall be prepared in chronological order."
+		},
+		{
+			"number": 1300,
+			"content": "These Regulations shall enter into force from the date of issuance."
+		}
+	]
+}

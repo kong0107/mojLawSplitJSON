@@ -1,0 +1,63 @@
+{
+	"pcode": "J0130046",
+	"type": "命令",
+	"title": "天然氣事業輸儲設備地理資訊管理系統建置辦法",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0130046",
+	"category": [
+		"行政",
+		"經濟部",
+		"能源管理目"
+	],
+	"lastUpdate": "20110616",
+	"isTranslated": false,
+	"attachments": [
+		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000097249",
+		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000097250",
+		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000097251",
+		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000097252",
+		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000097253",
+		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000235154",
+		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000235155",
+		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000235156",
+		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000235157",
+		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000235158"
+	],
+	"history": [
+		"中華民國一百年六月十六日經濟部經能字第 10004603320 號令訂定發布全文 8 條；並自發布日施行"
+	],
+	"divisions": [],
+	"articles": [
+		{
+			"number": 100,
+			"content": "本辦法依天然氣事業法第四十七條第二項規定訂定之。"
+		},
+		{
+			"number": 200,
+			"content": "本辦法用詞定義如下：\r\n一、管線：指輸、配送天然氣所用之輸氣管線；依其各管線所能承受之壓\r\n    力，區分為：\r\n（一）高壓輸氣管線：指每平方公分十公斤以上壓力之輸氣管線。\r\n（二）中壓輸氣管線：指每平方公分一公斤以上、未達十公斤壓力之輸氣\r\n      管線。\r\n（三）低壓輸氣管線：指每平方公分未達一公斤壓力之輸氣管線。\r\n二、開關閥：指控制管線輸送天然氣開與關之設施。\r\n三、場站：指各事業儲氣設備、配氣站或整壓站之統稱。\r\n四、人（手）孔：指用於維護管線或管線設施之保護設施，人可進入作業\r\n    之孔道為人孔；其餘可進行檢查、維護及清理之孔道為手孔。"
+		},
+		{
+			"number": 300,
+			"content": "天然氣事業應建立輸儲設備地理資訊管理系統，並指派專人負責相關資料\r\n之登錄、維護及核對，其資訊管理系統建置範圍如下：\r\n一、敷設於道路、橋樑、河川、共同管道、涵洞、堤防、公園或其他公、\r\n    私有土地之高、中、低壓輸氣管線。\r\n二、輸氣管線之開關閥。\r\n三、配氣站及進氣壓力每平方公分一公斤以上之整壓站。\r\n四、儲氣設備。\r\n五、輸氣管線、整壓站或儲氣設備之人（手）孔。"
+		},
+		{
+			"number": 400,
+			"content": "天然氣事業輸儲設備地理資訊管理系統應建置下列資料項目：\r\n一、管線資料\r\n（一）管位坐標資料：指管線圖形位址之描述，檔案格式如附表一。\r\n（二）管線屬性資料：指用來描述管線要素之品質、關係等資料；管線屬\r\n      性資料之紀錄需與管位坐標資料相對應，其檔案格式如附表二。\r\n二、開關閥資料：描述開關閥位址坐標及屬性等文數字之資料，其檔案格\r\n    式如附表三。\r\n三、場站資料：描述場站位址坐標及屬性等文數字之資料，其檔案格式如\r\n    附表四。\r\n四、人（手）孔資料：描述人手孔位址坐標及屬性等文數字之資料，其檔\r\n    案格式如附表五。"
+		},
+		{
+			"number": 500,
+			"content": "天然氣事業對於前條資料每年至少更新一次，並應於當年三月底前完成。\r\n但新建管線長度累計逾二十公里者，應於完成後三個月內更新資料。\r\n公用天然氣事業應將前條資料及前項更新資料送直轄市、縣（市）及中央\r\n主管機關；天然氣生產或進口事業應將前條資料及前項更新資料，送中央\r\n主管機關。但經直轄市、縣（市）主管機關要求者，亦應提供。"
+		},
+		{
+			"number": 600,
+			"content": "天然氣事業輸儲設備地理資訊管理系統資料坐標系統，應採國家坐標系統\r\n（TWD 67）或國家新坐標系統（TWD97 ）。"
+		},
+		{
+			"number": 700,
+			"content": "天然氣事業輸儲設備地理資訊管理系統資料，應為美國資訊交換標準碼（\r\nASCII ）文字格式所組成的各種檔案。"
+		},
+		{
+			"number": 800,
+			"content": "本辦法自發布日施行。"
+		}
+	]
+}

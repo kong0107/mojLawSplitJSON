@@ -1,0 +1,52 @@
+{
+	"pcode": "L0040087",
+	"type": "命令",
+	"english": "Standards for Sanitation and Pesticide Residue Limits in Infant Foods",
+	"title": "嬰兒食品類衛生及殘留農藥安全容許量標準",
+	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=L0040087",
+	"englishUpdate": "20140715",
+	"history": [
+		"DOH Food No. 0980460402 Announced, July 2, 2009",
+		"DOH Food No. 1021350146 Amended, August 20, 2013",
+		"MOHW Food No. 1031301798 Amended, July 15, 2014"
+	],
+	"divisions": [],
+	"articles": [
+		{
+			"number": 100,
+			"content": "This Standard is prescribed in accordance with the provisions of Article 17 and the second paragraph of Article 15 of the Act Governing Food Safety and Sanitation(herein referred to as \"this Act\")."
+		},
+		{
+			"number": 200,
+			"content": "This standard applies to powdered or liquid formula for infants not more than 12 months of age, intended to supplement breast milk. And the follow-up infant formula manufactured primarily from the edible components of cereals and legumes which should constitute at least 25% of the final mixture on a dry weight basis."
+		},
+		{
+			"number": 300,
+			"content": "The infant foods shall have their original pleasant flavor and color. No putridity, discoloration, off odor or flavor, contamination, moulds, foreign matter or parasite shall be found."
+		},
+		{
+			"number": 400,
+			"content": "The maximum level of microorganism:\r\n┌───────┬───────┬──────┬───────┐\r\n│Microorganisms│Samplingplan  │Limits(2)   │Remark        │\r\n│              │(1)           │            │              │\r\n│              ├──┬────┼───┬──┤              │\r\n│              │n   │c       │m     │M   │              │\r\n├───────┼──┼────┼───┼──┼───────┤\r\n│Coliform      │5   │2       │(3)   │10  │The detected  │\r\n│(MPN/g)       │    │        │＜3   │    │results       │\r\n│              │    │        │      │    │allowable     │\r\n│              │    │        │      │    │between m and │\r\n│              │    │        │      │    │M from ≦ c   │\r\n│              │    │        │      │    │sample        │\r\n│              │    │        │      │    │quantity.     │\r\n│              │    │        │      │    │Unacceptable  │\r\n│              │    │        │      │    │≧M.          │\r\n├───────┼──┼────┼───┴──┼───────┤\r\n│Enterobacter  │10  │0       │-           │Apply to      │\r\n│sakazakii     │    │        │            │powdered      │\r\n│(Cronobacter  │    │        │            │infant        │\r\n│species)      │    │        │            │formula.      │\r\n├───────┼──┼────┼──────┼───────┤\r\n│Salmonella    │10  │0       │-           │              │\r\n│spp.          │    │        │            │              │\r\n├───────┼──┼────┼──────┼───────┤\r\n│Listeria      │10  │0       │-           │              │\r\n│monocytogenes │    │        │            │              │\r\n├───────┴──┴────┴──────┴───────┤\r\n│(1)n= number of units comprising the sample.                │\r\n│   c= maximum allowable number of sample units yielding     │\r\n│      results between m and M (marginally acceptable).      │\r\n│(2)m= a microbiological limit that separates good quality   │\r\n│      from marginally acceptable quality.                   │\r\n│   M= a microbiological limit above which sampling results  │\r\n│      are unacceptable or defective.                        │\r\n│(3)m= \" ＜ 3\"is the MPNs per gram that refer to the methods │\r\n│      of test for Coliform bacteria.                        │\r\n└──────────────────────────────┘"
+		},
+		{
+			"number": 500,
+			"content": "The tolerance of mycotoxins in infant foods:\r\n┌─────────┬─────────────┬──────┐\r\n│Mycotoxins        │Food category             │Limit (ppb) │\r\n├─────────┼─────────────┼──────┤\r\n│Aflatoxin B1      │Cereal-based foodsfor     │0.1(1)      │\r\n│                  │infant                    │            │\r\n│                  ├─────────────┼──────┤\r\n│                  │Infant formula for special│0.1(2)      │\r\n│                  │medical purposes          │            │\r\n├─────────┼─────────────┼──────┤\r\n│Aflatoxin M1      │Infant formula and        │0.025(2)    │\r\n│                  │follow-up infant formula  │            │\r\n│                  ├─────────────┼──────┤\r\n│                  │Infant formula for special│0.025(2)    │\r\n│                  │medical purposes          │            │\r\n├─────────┼─────────────┼──────┤\r\n│Ochratoxin A      │Cereal-based foods for    │0.50(1)     │\r\n│                  │infant                    │            │\r\n├─────────┼─────────────┼──────┤\r\n│Zearalenone       │Cereal-based foods for    │20(1)       │\r\n│                  │infant                    │            │\r\n├─────────┼─────────────┼──────┤\r\n│Deoxynivalenol    │Cereal-based foods for    │200(1)      │\r\n│                  │infant                    │            │\r\n├─────────┼─────────────┼──────┤\r\n│FumonisinsB1+B2   │Cereal-based foods for    │200(1)      │\r\n│                  │infant                    │            │\r\n├─────────┴─────────────┴──────┤\r\n│(1)The limit refers to the dry matter.                      │\r\n│(2)The limit refers in the case of milk and milk products,  │\r\n│   to the products ready for use (marketed as such or       │\r\n│   reconstituted as instructed by the manufacturer) and in  │\r\n│   the case of products other than milk and milk products,  │\r\n│   to the dry matter.                                       │\r\n└──────────────────────────────┘"
+		},
+		{
+			"number": 600,
+			"content": "The tolerance of heavy metalin infant foods:\r\n┌───────────┬──────────────────┐\r\n│Heavy metal           │Limit (ppm)                         │\r\n├───────────┼──────────────────┤\r\n│Lead                  │0.02(1)                             │\r\n├───────────┼──────────────────┤\r\n│Tin                   │50(2)                               │\r\n├───────────┴──────────────────┤\r\n│(1)The limit refers to the products ready to use (marketed  │\r\n│   as such or after reconstitution as instructed by the     │\r\n│   manufacturer).                                           │\r\n│(2)The limit refers to the canned product as sold and       │\r\n│   excluding dried and powdered products.                   │\r\n└──────────────────────────────┘"
+		},
+		{
+			"number": 700,
+			"content": "The infant foods residue pesticide shall not be more than 0.01 ppm. (It is set according to the pesticides detectable level. This limit will reference to pesticides minimum detectable level, when this level greater or less than 0.01 ppm.)\r\nThose in violation of preceding paragraph shall be sanctioned in accordance with violating subparagraphs 5 of paragraph 1 of Article 15 of this Act."
+		},
+		{
+			"number": 800,
+			"content": "Those in violation of other articles except the preceding Article, shall be sanctioned in accordance with violating Article 17 of this Act."
+		},
+		{
+			"number": 900,
+			"content": "This Standard shall be implemented from the date of promulgation."
+		}
+	]
+}

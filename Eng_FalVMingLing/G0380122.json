@@ -1,0 +1,636 @@
+{
+	"pcode": "G0380122",
+	"type": "法律",
+	"english": "Financial Asset Securitization Act",
+	"title": "金融資產證券化條例",
+	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0380122",
+	"englishUpdate": "20140604",
+	"history": [
+		" Legislative / Regulatory History 1.The whole text of 119 articles enacted and promulgated by Presidential Order Hua Tsung Yi Yi Tzu No. 09100145830 on Feb 24, 2002; enforced on the date of promulgation. ",
+		" Articles 7 amended and issued on June 4, 2014"
+	],
+	"divisions": [
+		{
+			"type": "chapter",
+			"number": 100,
+			"title": "General Principles",
+			"start": 100
+		},
+		{
+			"type": "chapter",
+			"number": 200,
+			"title": "Special Purpose Trust",
+			"start": 900
+		},
+		{
+			"type": "section",
+			"number": 100,
+			"title": "Asset Trust Securitization Plan and Special Purpose Trust",
+			"start": 900
+		},
+		{
+			"type": "section",
+			"number": 200,
+			"title": "Issuance and Transfer of Beneficial Securities",
+			"start": 1500
+		},
+		{
+			"type": "section",
+			"number": 300,
+			"title": "Beneficiaries' Meeting",
+			"start": 2300
+		},
+		{
+			"type": "section",
+			"number": 400,
+			"title": "Trust Supervisor",
+			"start": 2800
+		},
+		{
+			"type": "section",
+			"number": 500,
+			"title": "Rights and Obligations of the Trustee",
+			"start": 3400
+		},
+		{
+			"type": "section",
+			"number": 600,
+			"title": "Calculations, Taxes, and Relevant Matters of Special Purpose Trust",
+			"start": 3600
+		},
+		{
+			"type": "section",
+			"number": 700,
+			"title": "Alternations and Terminations of the Special Purpose Trust Contract",
+			"start": 4300
+		},
+		{
+			"type": "chapter",
+			"number": 300,
+			"title": "Special Purpose Company",
+			"start": 5400
+		},
+		{
+			"type": "section",
+			"number": 100,
+			"title": "General Provisions",
+			"start": 5400
+		},
+		{
+			"type": "section",
+			"number": 200,
+			"title": "Approval of the Special Purpose Company",
+			"start": 5600
+		},
+		{
+			"type": "section",
+			"number": 300,
+			"title": "Rights and Obligations of Shareholders",
+			"start": 5900
+		},
+		{
+			"type": "section",
+			"number": 400,
+			"title": "Organization of the Special Purpose Company",
+			"start": 6200
+		},
+		{
+			"type": "section",
+			"number": 500,
+			"title": "Asset Securitization Plan",
+			"start": 7300
+		},
+		{
+			"type": "section",
+			"number": 600,
+			"title": "Issuance and Transfer of Asset-Backed Securities",
+			"start": 7500
+		},
+		{
+			"type": "section",
+			"number": 700,
+			"title": "Assets Transfer and Management",
+			"start": 8300
+		},
+		{
+			"type": "section",
+			"number": 800,
+			"title": "Business Rules of the Special Purpose Company",
+			"start": 8500
+		},
+		{
+			"type": "section",
+			"number": 900,
+			"title": "Accounting for the Special Purpose Company",
+			"start": 9100
+		},
+		{
+			"type": "section",
+			"number": 1000,
+			"title": "Alternations, Dissolution, and Liquidation of the Special Purpose Company",
+			"start": 9500
+		},
+		{
+			"type": "chapter",
+			"number": 400,
+			"title": "Credit Rating and Credit Enhancement",
+			"start": 10200
+		},
+		{
+			"type": "chapter",
+			"number": 500,
+			"title": "Supervision",
+			"start": 10500
+		},
+		{
+			"type": "chapter",
+			"number": 600,
+			"title": "Penal Provisions",
+			"start": 10800
+		},
+		{
+			"type": "chapter",
+			"number": 700,
+			"title": "Supplementary Provisions",
+			"start": 11800
+		}
+	],
+	"articles": [
+		{
+			"number": 100,
+			"content": "This Act is enacted to develop national economy, improve the liquidity of financial assets through securitization, and protect investments."
+		},
+		{
+			"number": 200,
+			"content": "The establishment and legal relationship of special purpose trusts shall be governed by this Act; matters not fully provided for in this Act shall be governed by other laws.\r\nThe establishment, management, and supervision of special purpose companies shall be governed by this Act; matters not fully provided for in this Act shall be governed by other laws."
+		},
+		{
+			"number": 300,
+			"content": "The competent authority as referred to in this Act shall be the one as set forth in the Banking Act."
+		},
+		{
+			"number": 400,
+			"content": "The definitions of the terms used in this Act are as follows:\r\n1. \"Originator\" shall refer to a financial institution or an institution approved by the competent authority which entrusts financial assets (hereinafter referred to as the \"Assets\") to a Trustee or transfers the Assets to a special purpose company (hereinafter referred to as a \"SPC\") pursuant to the provisions of this Act, whereby the Trustee or SPC issues Beneficial Securities or Asset-Backed Securities o n the basis of such Assets.\r\n2. \"Assets\" shall refer to the following assets profited and disposed of by the Originator:\r\n(1) rights under a utomobile loans or other chattel secured loans, along with their respective security interests;\r\n(2) rights under housing loans or other loans secured by real estate mortgage, along with their respective security interests;\r\n(3) rights under leases, credit cards, account receivables, or other monetary rights;\r\n(4) beneficial interests derived from the trust contract entered into by and between the Originator and a trust enterprise with regard to the Assets set forth in the preceding three items; or\r\n(5) other rights approved by the competent authority.\r\n3. 'Securitization\" shall refer to the act that the Originator entrusts the Assets to a trustee or transfers the Assets to a SPC pursuant to this Act, whereby the Trustee or SPC issues Beneficial Securities or Asset-Backed Securities on the basis of such Assets to raise funds.\r\n4. \"Special Purpose Trust (SPT)\" shall refer to the trust relationship established for the purpose of asset securitization in accordance with the provisions of this Act.\r\n5. \"Special Purpose Company\" shall refer to a company-limited-by-shares incorporated in accordance with this Act with the approval of the competent authority for the purpose of engaging in the business of asset securitization.\r\n6. \"Beneficial Securities\"shall refer to the document of title or certificate issued by the Trustee of a SPT in accordance with the asset trust securitization plan, evidencing the beneficiaries' interests in the trust property in terms of the principal (hereinafter referred to as the \"Principal Holding\") or the profits, interest, or other proceeds accrued therefrom (hereinafter referred to as the \"Profits Holding\").\r\n7. \"Asset-Backed Securities\" shall refer to the document of title or certificate issued by the SPC in accordance with the asset securitization plan, evidencing the rights of the holders in the Assets transferred to the SPC.\r\n8. \"Asset Pool\" shall refer to the pool of assets of the Originator entrusted to a trustee or transferred to a SPC.\r\n9. \"Residual beneficiary\" shall refer to a person entitled to the interests in the remaining property in the Asset Pool after the settlement of the Beneficial Securities or Asset-Backed Securities.\r\n10. \"Supervisory Institution\" shall refer to a bank or a trust enterprise selected by the SPC in accordance with the asset securitization plan to protect the interests of the Asset-Backed Security holders.\r\n11. \"Servicer\" shall refer to an institution appointed by the Trustee or appointed or entrusted by the SPC to manage and dispose of the trust property or transferred Assets.\r\n12. \"Financial institutions\" shall refer to the following institutions:\r\n(1) banks and credit card companies as defined in the Banking Act and bill financing companies as defined in the Act Governing Bills Finance Business;\r\n(2) insurance companies established in the form of a company-limited-by-shares in accordance with the Insurance Act;\r\n(3) securities firms established in accordance with the Securities and Exchange Act; and\r\n(4) other relevant financial institutions approved by the competent authority.\r\n13.\"Trust Supervisor\" shall refer to a person appointed by the Trustee in accordance with the SPT contract or selected pursuant to the resolutions adopted in the beneficiaries' meeting to exercise the powers and duties granted under this Act for the benefit of the beneficiaries.\r\nThe Trustee referred to in the preceding paragraph shall be limited to the trust enterprise defined in the Trust Enterprise Act and shall have been rated above certain level by a credit rating institution recognized by the competent authority."
+		},
+		{
+			"number": 500,
+			"content": "After the approval from or an effective registration with the competent authority pursuant to Article 9, Paragraph 1 or Article 73, Paragraph 1 hereof and prior to the entrustment or the transfer of the Assets, the Originator shall make announcements of the variety, quantity, and content of the major Assets entrusted to the Trustee or transferred to the SPC in accordance with the provisions of this Act for three consecutive days in the daily local newspapers circulated at the place of its principal office or in other ways prescribed by the competent authority.\r\nThe form and content of the announcement referred to in the preceding paragraph shall be prescribed by the competent authority.\r\nThe Originator, which fails to make the announcement as described in Paragraph 1, or has made announcements not in compliance with the requirement prescribed by the competent authority, shall not hold the trust or transfer against a third party."
+		},
+		{
+			"number": 600,
+			"content": "When the Originator entrusts the Assets to the Trustee or transfer the Assets to the SPC in accordance with this Act, the transfer of rights shall not be held valid against the debtor unless the debtor has been notified of such transfer or a certificate evidencing the announcement described in Paragraph 1 of the preceding article has been mailed to the debtor, except for the following circumstances:\r\n1. the Originator is appointed or entrusted by the Trustee or the SPC as the Servicer to collect the rights from the debtor and such appointment or entrustment has been announced pursuant to Paragraph 1 of the preceding article; or\r\n2. the Originator and the debtor have entered into a contract under which it can use other means to replace the notification or mailing of the certificate of announcement as required under Paragraph 1 of the preceding article.\r\nWhen the Originator entrusts the Assets to the Trustee or transfers the Assets to the SPC, the Originator and the debtor may agree to other means in the contract to replace the acceptance as required under Article 301 of the Civil Code.\r\nThe form and content of the certificate of announcement as described in Paragraph 1 shall be prescribed by the competent authority."
+		},
+		{
+			"number": 700,
+			"content": "The Beneficial Securities and Asset-Backed Securities, other than those recognized by the competent authority as short-term bills, shall be deemed as other securities approved by the Financial Supervisory Commission in accordance with Article 6 of the Securities and Exchange Act."
+		},
+		{
+			"number": 800,
+			"content": "Article 48, Paragraph 2 of the Banking Act shall not apply when the Originator provides the information regarding the trust property or the transferred Assets to the Trustee or the Supervisory Institution pursuant to the asset trust securitization plan or the asset securitization plan.\r\nThe Trustee, SPC, Trust Supervisor, Supervisory Institution, Servicer, and their respective responsible persons or staff shall keep confidential the information regarding transactions and other information of the Originator's clients obtained as a result of the entrustment of the trust property or transfer of the Assets, unless otherwise provided by other laws or the competent authority."
+		},
+		{
+			"number": 900,
+			"content": "The Trustee shall file an application or make a registration, along with the following documents, with the competent authority for the approval or effective registration of the issue of Beneficial Securities; the guidelines related thereto shall be prescribed by the competent authority:\r\n1. the asset trust securitization plan;\r\n2. the SPT contract;\r\n3. explanations regarding the methods of managing and disposing of the trust property; if a Servicer is appointed to manage and dispose of the trust property, the appointment agreement or other documentary proofs;\r\n4. relevant risk hedging plans and documents; and\r\n5. other documents as required by the competent authority.\r\nThe Trustee shall not issue Beneficial Securities without the approval from or effective registration with the competent authority.\r\nThe Trustee shall operate the SPT business in accordance with the asset trust securitization plan approved by or effectively registered with the competent authority.\r\nThe Originator and the Trustee shall not be the same affiliated enterprise, and the document and information related to the trust property shall be provided to the Trustee without false statements or concealments.\r\nThe Originator violating the preceding paragraph shall compensate the acquirer or transferee of the Beneficial Securities for the damages caused thereby.\r\nArticles 369-1 to 369-3, Article 369-9, and Article 369-11 of the Company Act shall apply to the scope of \"affiliated enterprises\" as referred to in Paragraph 4."
+		},
+		{
+			"number": 1000,
+			"content": "The asset trust securitization plan shall contain the following:\r\n1. name and address of the Originator;\r\n2. duration of the SPT contract;\r\n3. variety, name, quantity, amount, average yield, expiry, and trust period of the trust property;\r\n4. following matters related to the Beneficial Securities:\r\n(1) the distribution method of the principal of the trust property and the profits, interest, and other proceeds accrued therefrom.\r\n(2) Principal Holding, P rofits Holding, priority of distribution and duration of Beneficial Securities with different types or durations.\r\n5. methods of managing and disposing of the trust property, and the name of the Servicer appointed to manage and dispose of the trust property;\r\n6. powers and duties of the Trustee and the Trust Supervisor;\r\n7. matters regarding borrowed money and expenses made or incurred for the SPT business;\r\n8. relevant proof of credit rating or credit enhancement, if any;\r\n9. evaluation method, basic assumptions, and expert opinions regarding the trust property; and\r\n10. other matters as required by the competent authority."
+		},
+		{
+			"number": 1100,
+			"content": "After the issue of Beneficial Securities, the Trustee shall not alter the asset trust securitization plan unless approved by a resolution of the beneficiaries' meeting and approved by or effectively registered with the competent authority; provided, that if the proposed alternations have no significant influence on the rights and interests of the beneficiaries, such alterations may be made after approved by or effectively registered with the competent authority.\r\nWith regard to the approval or registration as referred to in the preceding paragraph, an application shall be filed or a registration shall be made, clearly stating the contents and reasons for the alternations and attaching the following documents:\r\n1. comparison tables of the asset trust securitization plan before and after the alternations;\r\n2. journals of the beneficiaries' meeting which can be exempted if the proviso of the preceding paragraph shall apply;\r\n3. evaluation and experts' opinions as to whether the alternations would have significant influence on the rights and interests of the beneficiaries; and\r\n4. other documents as required by the competent authority."
+		},
+		{
+			"number": 1200,
+			"content": "The Trustee shall submit the liquidation statement and report regarding the asset trust securitization plan to the competent authority within thirty (30) days after the implementation of said plan is complete."
+		},
+		{
+			"number": 1300,
+			"content": "A SPT contract shall contain the following:\r\n1. purpose of the trust;\r\n2. duties of the trustor and matters of which the Trustee shall be informed;\r\n3. matters regarding reimbursement of expenses and damage compensation to the Trustee;\r\n4. the Trustee's remuneration and its variety, calculation method, and payment timing and method;\r\n5. methods of announcement as prescribed under Article 5, Paragraph 1 hereof;\r\n6. methods of managing and disposing of the trust property, and the name of the Servicer appointed to manage and dispose of said property by the Trustee, if any;\r\n7. methods of distributing the principal of the trust property or the profits, interests and other proceeds accrued therefrom;\r\n8. Principal Holding, Profits Holding, priority of distribution and duration of Beneficial Securities with different types or durations;\r\n9. methods of issuing Beneficial Securities and the transfer restrictions;\r\n10. matters regarding borrowed money, expenses incurred, and application of idle funds when the Trustee handles the trust affairs;\r\n11. causes requiring the Trustee to convene a beneficiaries' meeting;\r\n12. causes requiring the Trustee to appoint a Trust Supervisor and the criteria of his/her professional knowledge or experience; and\r\n13. other matters prescribed under Article 19, Paragraph 1 of the Trust Enterprise Act and by the competent authority."
+		},
+		{
+			"number": 1400,
+			"content": "The Trustee shall not borrow money with the trust property, unless otherwise provided for in the asset trust securitization plan.\r\nThe purpose of borrowing money as provided in the asset trust securitization plan described in the preceding paragraph shall be limited to the distribution of profits, interests or other proceeds.\r\nThe utilization of idle funds in the trust property of a SPT shall be limited to the following:\r\n1. bank deposits;\r\n2. purchase of government bonds or financial bonds;\r\n3. purchase of treasury bills or negotiable certificates of time deposits;\r\n4. purchase of commercial papers with a credit rating above certain level or guaranteed or accepted by banks with a rating above thelevel stipulated by the competent authority; or\r\n5. other utilizations approved by the competent authority."
+		},
+		{
+			"number": 1500,
+			"content": "The Trustee may issue Beneficial Securities with various types and durations in accordance with the assets trust securitization plan.\r\nAfter the Beneficial Securities have been paid off, the remaining property in the Asset Pool shall be distributed to the Residual Beneficiary in accordance with the assets trust securitization plan."
+		},
+		{
+			"number": 1600,
+			"content": "Before the issue, the Beneficial Securities shall be serialized, contain the following items, bear the signature and/or seal of the representative of the Trustee, and be certified by a certification agency:\r\n1. annotations expressly stating that it is a SPT Beneficial Security;\r\n2. issue date and maturity date;\r\n3. total issue amount;\r\n4. reference number and date of the letter confirming that the issue of Beneficiary Securities has been approved by or effectively registered with the competent authority;\r\n5. names and addresses of the Originator and the Trustee;\r\n6. names or titles of the beneficiaries;\r\n7. Principal Holding, Profits Holding, priority of distribution, duration and other beneficial interests of the Beneficial Securities;\r\n8. duration of the SPT contract;\r\n9. matters regarding reimbursement of expenses and damage compensation to the Trustee;\r\n10. the Trustee's remuneration and its variety, calculation method, and payment timing and method;\r\n11. if the transferees of the Beneficial Securities are limited, the content and effect of such limitations;\r\n12. the limitations on exercise of the beneficiary's rights set forth in the SPT contract; and\r\n13. other items as required by the competent authority.\r\nThe provisions of the Rules Governing Certification of Corporate Stock and Bond Issued by Public Companies shall apply mutatis mutandis to the certification of the Beneficial Securities as referred to in the preceding paragraph."
+		},
+		{
+			"number": 1700,
+			"content": "When conducting a public offering of Beneficial Securities to non-specific people in accordance with the asset trust securitization plan, the Trustee shall provide a pubic prospectus to the subscriber or purchaser in a form prescribed by the competent securities authority.\r\nWhen making the public offering describe din the preceding paragraph, the Trustee shall apply for an approval from or file an effective registration with the competent securities authority. The public offering guidelines and the content of the prospectus shall be promulgated by the competent securities authority after consultation of the competent authority.\r\nIf the Trustee issues Beneficial Securities to specific people through private placement, the Trustee shall provide an investment memorandum to the subscriber or purchaser in accordance with the methods prescribed by the competent authority, and shall annotate so on the Beneficial Securities with conspicuous language and state so in other relevant documents provided to the subscriber or purchaser.\r\nThe scope of the specific people, the content of the investment memorandum, and the restriction on the transfer of Beneficial Securities as referred to in the preceding paragraph shall be further prescribed by the competent authority.\r\nParagraphs 1 and 2 shall apply mutatis mutandis where the specific people sell the held Beneficial Securities through public offering to non-specific people.\r\nIn addition to the requirements of the competent securities authority or the competent authority, the content of the prospectus as referred to in Paragraph 1 or the investment memorandum as referred to in Paragraph 3 shall completely disclose the following matters:\r\n1. the Beneficial Securities are irrelevant to the deposit with the Originator or any of its debts, and are not protected by the deposit insurance of the Central Deposit Insurance Corporation;\r\n2. the Trustee does not guarantee the value of the trust property;\r\n3. the relevant rights and potential investment risks of the holders of the Beneficial Securities; and\r\n4. critical items of the SPT contract."
+		},
+		{
+			"number": 1800,
+			"content": "Except for Residual Beneficiaries, the exercise or transfer of beneficial interests in a SPT shall be made against the Beneficial Securities evidencing such beneficial interest."
+		},
+		{
+			"number": 1900,
+			"content": "Beneficial Securities shall be in registered form and the transfer thereof shall be made in endorsement. Such transfer shall not be held valid against the Trustee, unless the Trustee has been informed of the name or title and address of the transferee.\r\nThe transfer of the Beneficial Securities shall not be held valid against any third party, unless the name or title of the transferee has been recorded on the Beneficial Securities.\r\nIf the Beneficial Securities are issued and delivered through a book-entry system, no physical securities are required to be printed, and the transfer, settlement of trades and pledge thereof shall be handled in accordance with the relevant provisions of the Securities and Exchange Act or the Act Governing Bills Finance Business."
+		},
+		{
+			"number": 2000,
+			"content": "The Trustee shall arrange a list of beneficiaries and record the following items thereon:\r\n1. names or titles, domiciles or residences of the beneficiaries;\r\n2. types of the beneficial interests of each beneficiary and his/her respective Principal Holding and Profits Holding;\r\n3. serial numbers of the Beneficial Securities; and\r\n4. date of the acquisition of the Beneficial Securities.\r\nWith regard to computerized or other electronic recordation, the information described in the preceding paragraph may be supplemented by attached tables."
+		},
+		{
+			"number": 2100,
+			"content": "The transferee of the Beneficial Securities succeeds to the rights and obligations of the trustor of the SPT based on the Principal Holding evidenced by such Beneficiary Securities, unless otherwise provided in the SPT contract in terms of obligations."
+		},
+		{
+			"number": 2200,
+			"content": "When the Beneficial Securities are lost, the beneficiary may apply to commence public summons procedures.\r\nAfter commencing public summons procedures, the applicant may provide appropriate security and request the Trustee to perform its obligations under such Beneficial Securities."
+		},
+		{
+			"number": 2300,
+			"content": "The rights of beneficiaries and the trustor of a SPT must be exercised pursuant to the beneficiaries' meeting or by the Trust Supervisor, except for the following rights of beneficiaries:\r\n1. receiving the payment from the Trustee payable under the SPT contract; and\r\n2. other acts exclusively for the beneficiaries' interests.\r\nA beneficiaries' meeting may appoint a Trust Supervisor by resolution. The appointed Trust Supervisor shall attend every beneficiaries' meeting."
+		},
+		{
+			"number": 2400,
+			"content": "A beneficiaries' meeting shall be convened by either the Trustee or the Trust Supervisor.\r\nBeneficiaries with three (3) percent or more of the total Principal Holding may, for the common interests of the beneficiaries, request in writing, stating the matters for discussion and the reasons thereof, that the people having the right to convene the beneficiaries' meeting in accordance with the preceding paragraph convene a beneficiaries' meeting.\r\nWithin fifteen (15) days from the written request described in the preceding paragraph, if the person having the right to convene the beneficiaries' meeting fails to convene or cannot convene a beneficiaries' meeting due to any reasons, such beneficiaries with three (3) percent or more of the total Principal Holding may convene a beneficiaries' meeting after the competent authority grants its approval.\r\nAll the beneficiaries shall be informed of the notice of a beneficiaries' meeting twenty (20) days prior to the date of the beneficiaries' meeting.\r\nThe notice described in the preceding paragraph shall contain the reason for the convening the meeting, the total number of voting rights and the percentage of voting rights held by each beneficiary. Matters regarding the resignation and removal of the Trustee, the appointment of the new Trustee, the appointment, resignation, or removal of the Trust Supervisor, and the alteration or termination of the SPT contract shall be stated in the reason for convening the meeting and shall not be raised by extraordinary motions."
+		},
+		{
+			"number": 2500,
+			"content": "Resolutions of a beneficiaries' meeting, unless otherwise provided for in this Act or other agreements in the SPT contract, require a quorum of beneficiaries holding at least one-half of all voting rights and a majority of all votes of beneficiaries present in the meeting.\r\nA beneficiary has voting rights proportional to the Principal Holding of his beneficial interests; provided that if the SPT contract provides otherwise, such provision shall prevail.\r\nArticle 177 of The Company Act and Article 25-1 of the Securities and Exchange Act shall apply mutatis mutandis where a beneficiary appoints an agent to exercise the voting right on his/her behalf.\r\nA beneficiary who has a personal interest in the discussed matter at the meeting, which may damage the interest of the trust property, shall not vote nor exercise the voting right on behalf of another beneficiary.\r\nThe Trustee shall have no voting right with regard to the beneficial interests held by it based on its own property."
+		},
+		{
+			"number": 2600,
+			"content": "If the asset trust securitization plan allows various types of beneficial interests, and if a resolution of a beneficiaries' meeting damages the rights of certain type of beneficiaries, such resolution shall be approved by a resolution adopted in a meeting of that damaged type of beneficiaries.\r\nThe approval in the preceding paragraph shall require a quorum of at least one-half of all voting rights of that type of beneficiaries and by two-thirds of all votes present.\r\nThe provisions governing beneficiaries' meetings in this section shall apply mutatis mutandis to the meetings of the aforementioned certain type of beneficiaries.\r\nThe Trust Supervisor shall attend the meeting of the aforementioned certain type of beneficiaries and express his/her opinions."
+		},
+		{
+			"number": 2700,
+			"content": "Resolutions of the beneficiaries' meeting shall be executed by the Trust Supervisor or the person appointed by the beneficiaries' meeting.\r\nThe person appointed by a beneficiaries' meeting may take any litigious or non-litigious act related to the trust in his/her own name for the interest of the beneficiaries."
+		},
+		{
+			"number": 2800,
+			"content": "In order to protect the rights and interests of the beneficiaries, the Trustee may appoint a Trust Supervisor in accordance with the SPT contract.\r\nThe Trust Supervisor may take any litigious or non-litigious act related to the trust in his/her own name for the interest of the beneficiaries or the trustor, except for the following rights:\r\n1. releasing the Trustee from any liability;\r\n2. altering or terminating the SPT contract;\r\n3. agreeing on the resignation of the Trustee, removing the Trustee or applying for a court order to remove the Trustee;\r\n4. appointing, or applying to court for an order to appoint, a new Trustee; and\r\n5. other rights the Trust Supervisor shall not exercise in accordance with the SPT contract.\r\nWhen appointing the Trust Supervisor in accordance with Paragraph 1, the Trustee shall inform all beneficiaries in written form within ten (10) days after the appointment."
+		},
+		{
+			"number": 2900,
+			"content": "In case of more than one Trust Supervisor, their duties shall be discharged pursuant to the majority consent of such Trust Supervisors, unless otherwise provided for in the SPT contract or resolved in a beneficiaries' meeting has."
+		},
+		{
+			"number": 3000,
+			"content": "Neither of the interested parties, staff and employees of the Trustee nor the Originator shall act as the Trust Supervisor."
+		},
+		{
+			"number": 3100,
+			"content": "Beneficiaries with three (3) percent or more of the total Principal Holding may request, in writing, that the Trust Supervisor exercise his/her rights for the common interest of the beneficiaries.\r\nThe Trust Supervisor shall not refuse the request in the preceding paragraph, unless the exercise of such rights would damage the execution of the SPT or the common interest of the beneficiaries or there are other legitimate reasons."
+		},
+		{
+			"number": 3200,
+			"content": "The Trust Supervisor's remuneration, the necessary expenses incurred by him/her in discharging his/her duties, and the compensation for damages for reasons not attributable to him/her may be appropriated from the trust property by the Trustee."
+		},
+		{
+			"number": 3300,
+			"content": "If the Trustee acts in violation of any laws or regulations or the SPT contract and causes damage to the trust property, the Trust Supervisor may request the Trustee to cease such act for the benefit of the trust property."
+		},
+		{
+			"number": 3400,
+			"content": "The Trustee shall keep at its principal office a duplicate or copy of the SPT contract and a roster of beneficiaries.\r\nA beneficiary, the Trust Supervisor or a creditor of the obligation arising from the Trustee's acts for the SPT may request to review, copy or photocopy the documents described in the preceding paragraph."
+		},
+		{
+			"number": 3500,
+			"content": "The Trustee may appoint a Servicer to manage and dispose of the trust property only when stated expressly in the asset trust securitization plan.\r\nThe Servicer shall periodically collect the principal of the trust property or its profits, interests, and other proceeds accrued therefrom and forward such collected amount to the Trustee for delivery to the beneficiaries. The Servicer shall also provide the Trustee with reports on payment by obligors, collectable payments, bad debts and other material information related to the trust property.\r\nWhen the Servicer fails to perform its service obligations, a substitute Servicer shall continue to provide the service of asset management and disposal in accordance with the asset trust securitization plan or the approval of the competent authority."
+		},
+		{
+			"number": 3600,
+			"content": "The Trustee shall prepare the following documents regarding the trust property of the SPT and shall report same to the Trust Supervisor and notify all beneficiaries of the same within four (4) months after each fiscal year or after the complete implementation of the asset trust securitization plan:\r\n1. balance sheet;\r\n2. statement of income; and\r\n3. report on the management and utilization of the trust property.\r\nThe content of the aforementioned statements shall not contain false statements or concealments."
+		},
+		{
+			"number": 3700,
+			"content": "Profits of the SPT shall be distributed in proportion to the Principal Holding of each beneficiary, unless otherwise provided for in the asset trust securitization plan."
+		},
+		{
+			"number": 3800,
+			"content": "For the asset transfer made in accordance with the asset trust securitization plan approved by or effectively registered with the competent authority pursuant to this Act, the taxation shall be dealt with as follows:\r\n1. Except for the deed tax payable by the Trustee when it disposes of real estate, the stamp duty, deed tax and business tax imposed on the asset transfer shall be exempted.\r\n2. With regard to the amendment registration of real estate, real estate mortgage, movable properties subject to registration requirement and various security interests, the Trustee may apply to the competent registration authority for registration; the registration fees shall be exempted if the relevant certificate issued by the competent authority is presented.\r\n3. If the Trustee acquires land by way of foreclosure of mortgage, the certificate of payment of land increment tax need not be submitted when applying for amendment registration. The tax payable upon transfer shall be borne by the original owner of such land pursuant to relevant laws. However, when the Trustee disposes of such land, the competent tax authority will have priority to collect the tax from the sale proceeds of such land for the tax payable by the original owner.\r\nWhen the Trustee transfers the trust property to other SPC in accordance with the asset trust securitization plan, the preceding paragraph shall apply mutatis mutandis to the registration and taxes related to asset transfer."
+		},
+		{
+			"number": 3900,
+			"content": "Other than Beneficial Securities being recognized as short-term bills by the competent authority, the trading of Beneficial Securities shall be subject to the securities transaction tax at the tax rate applicable to corporate bond."
+		},
+		{
+			"number": 4000,
+			"content": "The revenues of the SPT property shall be subject to the business tax at the rate applicable to banks."
+		},
+		{
+			"number": 4100,
+			"content": "The revenues of the SPT, after deducting the cost and expenses, shall be the beneficiaries' income and subject to the income tax on interest, and shall not be counted into corporate income of the Trustee.\r\nWhen practically distributing the interest as referred to in the preceding paragraph, the Trustee shall withhold the income tax in accordance with the applicable withholding rate, and such interest shall be separately taxed and will not be consolidated into the gross personal income or gross corporate income of the beneficiaries."
+		},
+		{
+			"number": 4200,
+			"content": "Beneficiaries with three (3) or more percent of the total Principal Holding may request, the Trustee for reviewing, transcribing, or copying the account booklets, documents, and statements made in compliance with this Act and Article 31 of the Trust Act by enclosing reasons in written form.\r\nThe Trustee shall not refuse the aforementioned request, except for the following reasons:\r\n1. such request is not made for the purpose of ensuring the rights of beneficiaries;\r\n2. such request damages the SPT or the common interest of beneficiaries;\r\n3. the person making such request is engaged in a business in competition with that of the SPT; or\r\n4. the person making such request intends to disclose to a third party the information obtained from such review, transcribing or copying, or such person has a record of disclosing to a third party information from such review, transcribing or copying within the last two (2) years prior to making such request."
+		},
+		{
+			"number": 4300,
+			"content": "The SPT contract shall not be altered without a resolution of the beneficiaries' meeting and the consent of the Trustee.\r\nThe resolution of the beneficiaries' meeting described in the preceding paragraph requires a quorum of beneficiaries holding at least one-half of all voting rights and shall be adopted by two-thirds of all votes present, unless otherwise provided in this Act or in the SPT contract."
+		},
+		{
+			"number": 4400,
+			"content": "If the alteration to the SPT contract shall change an item required to be included in the asset trust securitization plan, a beneficiary, who has informed the Trustee in written form of his/her objection prior to the adoption of such resolution at a beneficiaries' meeting pursuant to Paragraph 1 of the preceding article and has raised his/her objection at such beneficiaries' meeting, may request the Trustee to purchase all of the Beneficial Securities held by him/her at the current fair price unless otherwise provided in the SPT contract and the prospectus or investment memorandum sets forth measures of dealing with such situation.\r\nThe consideration and other necessary expenses incurred for the purchase as referred to in the preceding paragraph may be appropriated from the trust property by the Trustee.\r\nExcept as otherwise provided in the SPT contract or resolved in a beneficiaries' meeting, the beneficial interest of a beneficiary shall be extinguished upon the purchase by the Trustee of the Beneficial Securities held by him/her.\r\nArticle 187 and Article 188 of the Company Act shall apply mutatis mutandis to the aforementioned purchase of Beneficial Securities."
+		},
+		{
+			"number": 4500,
+			"content": "Where the SPT contract provides for certain type of beneficial interest having no Principal Holding, the alteration of the SPT contract pursuant to Article 43, Paragraph 1 hereof shall be subject to the approval by a resolution adopted in a meeting of that certain type of beneficiaries.\r\nThe provisions governing the beneficiaries' meetings in Section 3 shall apply mutatis mutandis to the meetings of certain type of beneficiaries described in the preceding paragraph."
+		},
+		{
+			"number": 4600,
+			"content": "The duties of the Trustee to the beneficiaries under the SPT contract shall not be released without a resolution of the beneficiaries' meeting, unless there is a violation of laws or regulations.\r\nThe resolution of the beneficiaries' meeting described in the preceding paragraph requires a quorum of beneficiaries holding at least one-half of all voting rights and shall be adopted by two-thirds of all votes present."
+		},
+		{
+			"number": 4700,
+			"content": "The Trustee shall not resign without a resolution of a beneficiaries' meeting; provided that the Trustee may apply to court for an approval for his/her resignation if there are reasons beyond control.\r\nWhen the Trustee violates the laws, regulations, or the SPT contract, or breaches his/her duties or there are other significant reasons, the beneficiaries may remove the Trustee pursuant to a resolution of a beneficiaries' meeting, or the court may remove the Trustee upon application by the beneficiaries holding over ten (10) percent of the total Principal Holding.\r\nIn the situations described in the preceding two paragraphs, unless otherwise provided in the SPT contract, a successor Trustee may be appointed with the resolution of a beneficiaries' meeting, or the court may appoint a successor Trustee upon application by the beneficiaries holding over ten (10) percent of the total Principal Holding.\r\nThe resolution as referred to in Paragraphs 1 and 2 hereof requires a quorum of beneficiaries holding at least one-half of all voting rights and shall be adopted by two-thirds of all votes present."
+		},
+		{
+			"number": 4800,
+			"content": "When the Trustee resigns or is removed pursuant to the preceding article, the Trustee shall immediately prepare the balance sheets, statement of income, and report on the management and utilization of the t rust property and shall submit same to the beneficiaries' meeting for approval, and shall immediately deliver the aforementioned statements and report, together with the trust property, to the new Trustee.\r\nWhen a Trust Supervisor has been appointed, the approval as described in the preceding paragraph shall be made by the Trust Supervisor."
+		},
+		{
+			"number": 4900,
+			"content": "The termination of the SPT contract shall be made with a resolution of a beneficiaries' meeting.\r\nThe resolution as referred to in the preceding paragraph requires a quorum of beneficiaries holding at least one-half of all voting rights and shall be adopted by two-thirds of all votes present."
+		},
+		{
+			"number": 5000,
+			"content": "Beneficiaries holding ten (10) percent or more of the total Principal Holding may file an application to the competent court for the termination of the SPT contract, when the Trustee has apparent difficulties in executing trust affairs, has managed the trust property improperly, or has disposed of the trust property in violation of the purpose of the trust, and the trust property suffers material damage as a result thereof."
+		},
+		{
+			"number": 5100,
+			"content": "The SPT contract shall be terminated due to the following reasons:\r\n1. when the events set forth in Article 62 of the Trust Act occur;\r\n2. resolutions of a beneficiaries' meeting;\r\n3. the court's order of terminating the SPT contract; or\r\n4. when the events prescribed by other competent authorities on the basis of protecting the rights and interests of the beneficiaries occur."
+		},
+		{
+			"number": 5200,
+			"content": "When the SPT contract is terminated, the Trustee shall dispose of the trust property promptly and distribute the cash obtained from the disposal in accordance with the asset trust securitization plan.\r\nWhen the SPT contract is terminated due to the reasons specified in the preceding article, the Trustee shall dispose of the trust property in compliance with Article 35 of the Trust Act, unless otherwise provided for in the SPT contract."
+		},
+		{
+			"number": 5300,
+			"content": "Article 6, Paragraph 3 , Article 16, Article 32, Article 36, Paragraphs 1 to 3, and Article 52 of the Trust Act shall not apply to a SPT."
+		},
+		{
+			"number": 5400,
+			"content": "A SPC shall be established by financial institutions, and shall be a company-limited-by-shares with only one shareholder.\r\nThe financial institutions as referred to in the preceding paragraph and the Trustee shall not be the same affiliated enterprise.\r\nThe financial institutions may form a SPC overseas to engage in the asset securitization business with the approval of the competent authority. The guidelines for granting such approval shall be further prescribed by the competent authority.\r\nA SPC shall expressly show that it is a SPC in its name.\r\nA company that is not a SPC shall not show that it is a SPC in its name or use a name that is easy to make people mistake it for a SPC."
+		},
+		{
+			"number": 5500,
+			"content": "Article 27 of the Company Act shall not apply to the SPC."
+		},
+		{
+			"number": 5600,
+			"content": "The person who forms the SPC shall file an application, stating clearly the following, with the competent authority for approval:\r\n1. name of the SPC;\r\n2. Articles of Incorporation;\r\n3. total amount of principal;\r\n4. location of the company;\r\n5. name and domicile of the promoter; and\r\n6. other items as required by the competent authority.\r\nThe guidelines for incorporation and approval of the SPC shall be prescribed by the competent authority.\r\nIn addition to those set forth under Article 129 of the Company Act, the Articles of Incorporation of the SPC shall clearly state the following:\r\n1. purpose of the company engaging in the asset securitization business;\r\n2. duration of the company and causes for dissolution of the company; and\r\n3. other matters as required by the competent authority.\r\nThe following shall not take effect unless they are stated in the Articles of Incorporation:\r\n1. special benefits to be accorded to the promoter and the name of the relevant beneficiaries;\r\n2. the amount of remuneration payable to the promoter, if any; and\r\n3. the amount of incorporation expenses which the SPC shall bear."
+		},
+		{
+			"number": 5700,
+			"content": "The promoter shall subscribe for all the shares as set forth in the Articles of Incorporation and shall pay up all such shares subscribed by it, and thereafter, directors and supervisors shall be selected.\r\nThe SPC, incorporated with the approval, shall submit the following documents to the competent authority for the record after receiving the paid-up capital and completing the company registration:\r\n1. company registration documents;\r\n2. Articles of Incorporation;\r\n3. roster of shareholders; and\r\n4. roster of directors and supervisors."
+		},
+		{
+			"number": 5800,
+			"content": "Article 130, Article 131, Paragraph 1, Articles 132 to 139, Articles 141 to 149, and Articles 151 to 153 of the Company Act shall not apply to the SPC."
+		},
+		{
+			"number": 5900,
+			"content": "The total amount of shares set forth in the Articles of Incorporation of the SPC shall not be issued in installments."
+		},
+		{
+			"number": 6000,
+			"content": "The shareholders shall not transfer their shares to other persons, unless with the approval of the competent authority."
+		},
+		{
+			"number": 6100,
+			"content": "The provisions in the last part of Article 156, Paragraph 1 setting forth that \"shares issued may be special shares of such kind as the Article of Incorporation may prescribe\"; Paragraphs 2 to 7 of the same article, and Articles 157 to 169 of the Company Act shall not apply to the SPC."
+		},
+		{
+			"number": 6200,
+			"content": "The provisions of Chapter 5, Section 3 of the Company Act shall not apply to the SPC."
+		},
+		{
+			"number": 6300,
+			"content": "The SPC shall have at least one (1) director and no more than three (3) directors. A person having any of the following shall not act as a director:\r\n1. with any of the events set forth in Article 30 of the Company Act;\r\n2. the Originator and its responsible person set forth in the asset securitization plan;\r\n3. the Servicer responsible and its responsible person set forth in the asset securitization plan for managing and disposing of the Assets;\r\n4. the Supervisory Institution and its responsible person set forth in the asset securitization plan;\r\n5. the entrusted trust enterprise and its responsible person when the Assets set forth in the asset securitization plan are beneficial interests in trusts; or\r\n6. having been dismissed by the competent authority from his/her duties."
+		},
+		{
+			"number": 6400,
+			"content": "The directors shall have fiduciary duty to the SPC and shall perform their duties with due diligence.\r\nWhen the directors, in conducting business, violate the laws and regulations, the Articles of Incorporation, the resolutions adopted at a shareholders' meeting, or the asset securitization plan, all directors taking part in the adoption of such resolutions shall be liable to compensate the SPC for such loss or damage; provided, that those directors whose disagreement appears on record or is expressed in writing shall be exempted from liability.\r\nWhen the directors, in conducting business, violate laws and regulations, the Articles of Incorporation, and the asset securitization plan, or operate any business beyond its registered scope, the shareholders may request such directors to cease such act.\r\nThe remuneration of directors shall be expressly set forth in the Articles of Incorporation."
+		},
+		{
+			"number": 6500,
+			"content": "The directors of the SPC shall represent the SPC externally. When there are several directors, one of them shall be designated, in the Articles of Incorporation, to represent the company externally.\r\nUnless otherwise provided for in this Act, the powers and duties of the Board of Directors in the Company Act shall be exercised and performed by the directors of the SPC. When there are several directors, such powers and duties shall be exercised and performed with the resolution adopted by a majority of the directors.\r\nArticle 206, Paragraph 2 of the Company Act shall apply mutatis mutandis to the resolution described in the preceding paragraph, and a journal shall be made.\r\nArticle 183 of the Company Act shall apply mutatis mutandis to the journal described in the preceding paragraph."
+		},
+		{
+			"number": 6600,
+			"content": "The shareholders may request in writing the supervisor of the company to institute an action against a director on behalf of the SPC.\r\nIn case the supervisor fails to institute an action within thirty (30) days after having received the request described in the preceding paragraph, the shareholders may institute an action on behalf of the company"
+		},
+		{
+			"number": 6700,
+			"content": "Article 192, Paragraphs 1 and 2, Articles 193 to 201, Articles 203 to 212, Article 214, and Article 215 of the Company Act shall not apply to the directors of a SPC."
+		},
+		{
+			"number": 6800,
+			"content": "The SPC shall have at least one (1) supervisor and no more than three (3) supervisors."
+		},
+		{
+			"number": 6900,
+			"content": "The Supervisors shall supervise the duties executed by the directors for the SPC with due diligence."
+		},
+		{
+			"number": 7000,
+			"content": "When the directors, in conducting business, violate the laws and regulations, the Articles of Incorporation, and the asset securitization plan, or operate the business beyond its registered scope, the supervisors shall immediately inform such directors to cease such act."
+		},
+		{
+			"number": 7100,
+			"content": "Article 216, Paragraphs 1 and 2, Article 217, Article 217-1, Article 218-2, and Article 227 regarding Article 214 of the Company Act shall not apply to the supervisors of the SPC."
+		},
+		{
+			"number": 7200,
+			"content": "Article 63, Paragraph 2, Article 64, Paragraph 4, and Article 66 of this Act shall apply mutatis mutandis to the supervisors; provided that the request to be made upon a supervisor pursuant to Article 66 shall be made upon the directors."
+		},
+		{
+			"number": 7300,
+			"content": "To issue Asset-Backed Securities, the SPC shall submit an application or file a registration with the competent authority, along with the following documents, and required information, for approval or effective registration. The guidelines for processing such an application or registration shall be further prescribed by the competent authority:\r\n1. asset securitization plan;\r\n2. asset transfer contract or other supporting documents;\r\n3. name, Articles of Incorporation, and location of the SPC;\r\n4. names and domiciles of directors;\r\n5. date(s) of the resolution(s) of directors and its supporting documents;\r\n6. explanations regarding management methods of the transferred Assets. If appointing or entrusting a Servicer to manage and dispose of the transferred Assets, such appointment or entrustment agreement or other supporting documents shall be provided;\r\n7. relevant risk hedging plans and documents; and\r\n8. other items as required by the competent authority.\r\nThe SPC shall not issue Asset-Backed Securities without the approval of or effective registration with the competent authority.\r\nThe SPC shall operate the securitization business in accordance with the asset securitization plan approved by or effectively registered with the competent authority.\r\nThe Originator and the SPC shall not be the same affiliated enterprise, and the relevant documents and information of the transferred Assets shall be provided to the SPC without false statements or concealments.\r\nThe Originator, violating the preceding provision and causing the acquirer or transferee of the Asset-Backed Securities, shall be liable to compensate for such damage.\r\nArticle 369-1 to Article 369-3, Article 369-9, and Article 369-11 of the Company Act shall apply to the scope of the \"same affiliated enterprise\" as referred to in Paragraph 4 of this article."
+		},
+		{
+			"number": 7400,
+			"content": "The asset securitization plan shall contain the following:\r\n1. name and address of the Originator;\r\n2. variety, name, quantity, price, average yield, period and transfer date of the transferred Assets;\r\n3. execution period of the asset securitization plan and relevant matters;\r\n4. total amount, interest rate or the rights of the Asset-Backed Securities, and time and method for repayment or distribution of the principal, profits, interests or other proceeds of the Asset-Backed Securities. If issuing Asset-Backed Securities with different types or durations, the order of priority in terms of receipt from the SPC of the transferred Assets and the profits, interests, or other proceeds accrued therefrom;\r\n5. method of management and disposal of the transferred Assets, and the Servicer appointed or entrusted to manage and dispose of such Asset;\r\n6. name, powers, and obligations of the Supervisory Institution;\r\n7. matters regarding borrowed money and expenses incurred for operating business set forth in the asset securitization plan;\r\n8. supporting documents regarding credit rating or credit enhancement, if any;\r\n9. necessary expenses for issuing the Asset-Backed Securities and the amortization method thereof;\r\n10. evaluation method, basic assumptions, and expert opinions regarding the transferred Assets; and\r\n11. other items as required by the competent authority."
+		},
+		{
+			"number": 7500,
+			"content": "Before the issue, Asset-Backed Securities shall be serialized, contain the following items, bear the signatures and/or seals of all directors of the SPC, and be certified by a certification agency.\r\n1. annotations stating that they are Asset-Backed Securities;\r\n2. issue date and maturity date;\r\n3. total issue amount;\r\n4. reference number and date of the letter confirming that the issue of Asset-Backed Securities has been approved by or effectively registered with the competent authority;\r\n5. names and addresses of the Originator and the SPC;\r\n6. names or titles of the holders;\r\n7. interest rate, priority in receiving payment and duration of the Asset-Backed Securities;\r\n8. obligations and liabilities of the SPC;\r\n9. rights of the Asset-Backed Security holders and the exercise method thereof;\r\n10. if the transferees of the Asset-Backed Securities are limited, the content and effect of such limitations;\r\n11. name and address of the Supervisory Institution; and\r\n12. other items as required by the competent authority.\r\nThe provisions of the Rules Governing Certification of Corporate Stock and Bond Issued by Public Companies shall apply mutatis mutandis to the certification of Asset-Backed Securities as referred to in the preceding paragraph."
+		},
+		{
+			"number": 7600,
+			"content": "The provisions in Section 7 and Section 8 of Chapter 5 of the Company Act shall not apply to the SPC."
+		},
+		{
+			"number": 7700,
+			"content": "When issuing Asset-Backed Securities, in order to protect the rights and interests of the Asset-Backed Security holders, the SPC shall appoint a Supervisory Institution and shall enter into a supervision agreement with the Supervisory Institution in compliance with the asset securitization plan; provided, that the SPC shall not appoint the Originator or Servicer set forth in the asset securitization plan as the Supervisory Institution."
+		},
+		{
+			"number": 7800,
+			"content": "The Asset-Backed Security holders shall have the rights to receive the principal, interests, profits, or other proceeds or repaid or distributed from the SPC in accordance with the asset securitization plan.\r\nThe Supervisory Institution shall exercise its power and perform its obligation for the interest of, and shall have a fiduciary duty to, the Asset-Backed Security holders in compliance with the provisions of this Act with due diligence.\r\nThe Supervisory Institution may take any litigious or non-litigious acts in its own name for the Asset-Backed Security holders.\r\nThe Supervisory Institution shall not exempt or reduce the liabilities and obligations that the SPC shall bear in accordance with the asset securitization plan or enter into any litigious or non-litigious settlement with the SPC, unless approved by resolutions adopted in a meeting of the Asset-Backed Security holders and approved by the court.\r\nWhen conducting any of the acts as referred to in the preceding paragraph, the Supervisory Institution shall make an announcement and shall notify each Asset-Backed Security holder.\r\nThe Supervisory Institution may inspect and audit the business, financial condition, and relevant books and records of the SPC and the Servicer in terms of securitization matter at any time, and may request the directors of the SPC to propose relevant reports.\r\nWhen violating the duties as set forth in Paragraph 2 hereof, the Supervisory Institution shall be liable to compensate the Asset-Backed Security holders for the damages sustained therefrom."
+		},
+		{
+			"number": 7900,
+			"content": "The Supervisory Institution, the holders holding more than three (3) percent of the total units of Asset-Backed Securities in the same series, or the SPC may, for the common interest of the Asset-Backed Security holders, convene a meeting of the Asset-Backed Security holders in the same series.\r\nWhen convening the meeting as set for in the preceding paragraph, a notice shall be given to each Asset-Backed Security holder at least ten (10) days prior to the scheduled meeting date, and the representative appointed by the Supervisory Institution shall act as the chairman of said meeting.\r\nAny meeting as described in Paragraph 1 shall have a quorum of holders holding at least two-thirds of the total units of the Asset-Backed Securities, and any resolution at said meeting shall be adopted by more than one-half votes of present at such meeting. The Asset-Backed Security holders shall be entitled to one vote for each unit of Asset-Backed Securities being held. In case the SPC issues different types and durations of Asset-Backed Securities, the voting shall be separately made by the Asset-Backed Security holders in different groups based on the variety and duration of the Asset-Backed Securities.\r\nThe resolution at the meeting of the Asset-Backed Security holders described in the preceding paragraph shall be made into journals and signed by the chairman of the meeting, and shall become binding upon all the Asset-Backed Security holders and be carried out by the Supervisory Institution, if recognized by the court at the place where the SPC's principal office is located and publicly announced, unless otherwise directed in the meeting of the Asset-Backed Security holders.\r\nThe court shall not recognize the resolution of the meeting of the Asset-Backed Security holders in any of the following situations:\r\n1. the procedures for convening the meeting of the Asset-Backed Security holders or the method by which the resolutions were adopted violates laws or regulations;\r\n2. the resolution violates the common interest of the Asset-Backed Security holders;\r\n3. amending or altering the asset securitization plan without the approval of the competent authority; or\r\n4. in case the Asset-Backed Security holders with different types and durations exercise their voting rights in different groups, no unanimous resolution has been reached among all groups."
+		},
+		{
+			"number": 8000,
+			"content": "Where the value of the Assets transferred to the SPC depreciates significantly and becomes insufficient to pay the SPC's debts or has the likelihood of damaging the interest of the holders, the Supervisory Institution shall convene the meeting of the Asset-Backed Security holders pursuant to Article 79 hereof."
+		},
+		{
+			"number": 8100,
+			"content": "The Asset-Backed Security holders shall have the priority over other creditors and shareholders of the SPC in terms of Assets transferred to the SPC or the profits, interests, or other proceeds accrued therefrom, except for the borrowed money set forth in the asset securitization plan.\r\nIn case the SPC issues Asset-Backed Securities with different types and durations in accordance with the asset securitization plan, the order of priority in payment of the holders of different Asset-Backed Securities shall be set forth in the asset securitization plan."
+		},
+		{
+			"number": 8200,
+			"content": "The SPC shall prepare a roster of the Asset-Backed Security holders containing the following matters:\r\n1. names or titles and domiciles or residences of the holders;\r\n2. number of total units of the Asset-Backed Securities held by the holders;\r\n3. the serial number of the Asset-Backed Securities; and\r\n4. the date and year of the acquisition of the Asset-Backed Securities.\r\nWith regard to computerized or other electronic recordation, the information described in the preceding paragraph may be supplemented by attached tables."
+		},
+		{
+			"number": 8300,
+			"content": "After the SPC issues the Asset-Backed Securities, the Originator and the SPC shall complete the procedure of the asset transfer within the transfer period set forth in the asset securitization plan without any delay or false acts.\r\nWith regard to the asset transfer as referred to in the preceding paragraph, the accounting treatment shall comply with generally accepted accounting principles.\r\nWhere the Originator processes the asset transfer in compliance with the preceding two paragraphs and acquires consideration for transferring Assets in accordance with the asset securitization plan, it shall be deemed as a non-gratuitous act prescribed in Article 244, Paragraph 2 of the Civil Code."
+		},
+		{
+			"number": 8400,
+			"content": "The SPC shall appoint or entrust a Servicer to manage and dispose of the transferred Assets, except for the beneficial interests in trusts as referred to in Item 4, Subparagraph 2, Paragraph 1 of Article 4 hereof.\r\nThe Servicer shall separately manage the Assets described in the preceding paragraph and its own property and creditors of the Servicer shall have no claims or other rights against such Assets.\r\nThe Servicer managing and disposing of the transferred Assets of the SPC shall periodically collect the principal of the transferred Assets, 48/64 or its profits, interests, and other proceeds accrued therefrom and forward such collected amount to the Supervisory Institution for delivery to the Asset-Backed Security holders. The Servicer shall also provide reports on payment by obligors, collectable payment, bad debts, and other material information related to the transferred Assets to the Supervisory Institution.\r\nWhen the Servicer fails to perform its service obligations, a substitute Servicer may continue to provide the asset management services in accordance with the asset securitization plan or as reported to and approved by the competent authority."
+		},
+		{
+			"number": 8500,
+			"content": "Unless otherwise provided for in this Act or the asset securitization plan, the SPC shall not pledge, transfer, exchange, provided as security or otherwise dispose of the Assets transferred to it."
+		},
+		{
+			"number": 8600,
+			"content": "Except for the business of asset securitization, the SPC shall not concurrently engage in any other business."
+		},
+		{
+			"number": 8700,
+			"content": "The utilization of the SPC's own property and the idle funds derived from the Assets transferred to it shall be limited to the following.\r\nArticle 13 and Article 15 of the Company Act shall not apply:\r\n1. bank deposits;\r\n2. purchase of government bonds or financial bonds;\r\n3. purchase of treasury bills or negotiable certificate of time deposit;\r\n4. purchase of commercial papers with a credit rating above certain level or guaranteed or accepted by banks with a rating above certain level set by the competent authority; and\r\n5. other utilizations with the approval of the competent authority."
+		},
+		{
+			"number": 8800,
+			"content": "Unless otherwise provided for in this Act or the asset securitization plan, the SPC shall not borrow any money.\r\nThe purpose of the any amount borrowed under the preceding paragraph shall be limited to distribution or repayment of the profits, principal, interests, or other proceeds in accordance with the asset securitization plan, and shall be done with the consent of all directors."
+		},
+		{
+			"number": 8900,
+			"content": "The SPC shall not guarantee or endorse for any person, and Article 16 of the Company Act shall not apply.\r\nWhen the responsible person(s) of the SPC violates the restrictions prescribed in the preceding paragraph, such person shall be held liable for any such guarantee and endorsement and to compensate the company or the Asset-Backed Security holders for the damages sustained therefrom."
+		},
+		{
+			"number": 9000,
+			"content": "With regard to the issue or offering of the Asset- Backed Securities, the responsible person of the SPC shall not serve as a broker or intermediary in a sale of the Asset-Backed Securities."
+		},
+		{
+			"number": 9100,
+			"content": "Based on the offering terms of different types or durations of Asset-Backed Securities, the SPC shall establish a separate account to keep records with the management and disposal of the transferred Assets, calculate its profits and losses and distributed amounts related thereto, and shall periodically prepare written reports with regard to book value of the transferred Assets, principal received or other interests, collectable payments, bad debts and other material information, and submit such report to the Supervisory Institution and notify the Asset-Backed Security holders.\r\nThe content of the reports described in the preceding paragraph shall contain no false statements or concealments."
+		},
+		{
+			"number": 9200,
+			"content": "The SPC shall prepare an annual report at the end of each fiscal year, and shall register the operational report and financial report audited by the company's supervisor to the competent authority and deliver such reports to the Supervisory Institution within fifteen (15) days after the same are approved by the board of directors meeting.\r\nIf the SPC issues Asset-Backed Securities through public offering, Article 36 of the Securities and Exchange Act shall apply to the registrations and announcements. The scope of application of the aforesaid article shall be prescribed by the competent authority.\r\nWhen the SPC issues Asset-Backed Securities to specific people, the SPC shall deliver financial reports to the Asset-Backed Security holders in accordance with the investment memorandum. When the Assets are transferred to the SPC in accordance with the asset securitization plan, if the accounting thereof complies with Article 83, Paragraph 2 hereof, Article 369-12, Paragraphs 1 and 2 of the Company Act shall not apply to the SPC and its parent company."
+		},
+		{
+			"number": 9300,
+			"content": "Holders holding more than three (3) percent of the total units of the Asset-Backed Securities in the same series may submit the reasons expressed in writing to request the Supervisory Institution to inspect the business and financial conditions of the SPC.\r\nHolders holding more than three (3) percent of the total units of the Asset-Backed Securities in the same series may make a request, by written request with reasons, to the SPC for viewing, photocopying, or otherwise copying reports and financial reports prepared by the SPC in accordance with the preceding article."
+		},
+		{
+			"number": 9400,
+			"content": "The provisions of Chapter 5, Section 6 of the Company Act shall not apply to the SPC."
+		},
+		{
+			"number": 9500,
+			"content": "Alteration of the SPC's Articles of Incorporation shall be approved by the competent authority."
+		},
+		{
+			"number": 9600,
+			"content": "The SPC shall be dissolved if any of the following events occurs:\r\n1. a cause of dissolution as set forth in the Articles of Incorporation;\r\n2. bankruptcy;\r\n3. revocation or annulment approved by the competent authority;\r\n4. dissolution ordered by the company registration authority or pursuant to a decision of court; or\r\n5. other causes prescribed by the competent authority.\r\nIn the event of an apparent difficulty in the operation of the SPC or material damage thereto, after consulting with the competent authority and notifying the company, the court shall make a ruling for the dissolution of the company, with a written petition from holders holding more than ten (10) percent of the total units of the Asset-Backed Securities in the same series,."
+		},
+		{
+			"number": 9700,
+			"content": "Creditor's rights regarding a special liquidation under Chapter 5, Section 12, Subsection 2 of the Company Act shall be exercised by the Asset-Backed Security holders; and rights relating to the creditors' meeting shall be exercised by the Asset-Backed Security holders or the Supervisory Institution."
+		},
+		{
+			"number": 9800,
+			"content": "After the liquidators have paid off all debts in accordance with the asset securitization plan, the remaining Assets shall be distributed to the shareholders. Article 330 of the Company Act shall not be applicable."
+		},
+		{
+			"number": 9900,
+			"content": "Upon completion of the liquidation, the liquidator shall report the result to the competent authority within fifteen (15) days after recognized by the shareholders.."
+		},
+		{
+			"number": 10000,
+			"content": "The provisions of Sections 10 and 11 of Chapter 5 of the Company Act shall not apply to the SPC."
+		},
+		{
+			"number": 10100,
+			"content": "Articles 11 to 12, Article 15, Article 17, Article 19, Article 22, Articles 38 to 41, and Article 42, Paragraph 2 hereof shall apply mutatis mutandis to the SPC."
+		},
+		{
+			"number": 10200,
+			"content": "The Asset-Backed Securities or Beneficial Securities issued through public offering to non-specific people by the SPC or the Trustee pursuant to this Act shall be rated by a credit rating institution with the recognition of the competent authority."
+		},
+		{
+			"number": 10300,
+			"content": "The credit of the Beneficial Securities or Asset-Backed Securities issued by the Trustee or the SPC pursuant to this Act shall be enhanced by way of security interest, credit insurance, excess assets, replacement of part of Assets or other methods by the Originator or other financial institutions in accordance with the asset trust securitization plan or the asset securitization plan."
+		},
+		{
+			"number": 10400,
+			"content": "Where the credit of the Beneficial Securities or Asset-Backed Securities issued by the Trustee or the SPC pursuant to this Act is rated or is enhanced by a credit rating institution, the result of rating and the method of credit enhancement shall be described in the prospectus, investment memorandum, or other documents prescribed by the competent authority without any false statements or concealments."
+		},
+		{
+			"number": 10500,
+			"content": "The competent authority may at any time assign its personnel or appoint an appropriate institution, with regard to the execution of the asset trust securitization plan or the asset securitization plan and other relevant items, to inspect the business, finance or other relevant matters of the Trustee, the SPC, the Originator, the Servicer, or other related parties, or may order the aforementioned inspected parties to submit financial statements, list of property, or other relevant information and reports within a prescribed period,.\r\nIf necessary, the competent authority may appoint a professional or a technician to examine the inspected matters, statements, or information prescribed in the preceding paragraph and to issue a report to the competent authority. The expenses shall be borne by the inspected party.\r\nThe guidelines for appointing the professional or technician to conduct the examination set forth in the preceding paragraph shall be further prescribed by the competent authority."
+		},
+		{
+			"number": 10600,
+			"content": "Where the Trustee violates this Act or the asset trust securitization plan, the competent authority may order the Trustee to transfer the business and the trust property to another Trustee, or apply mutatis mutandis Article 44 of the Trust Enterprise Act.\r\nIf the SPC violates this Act, its Articles of Incorporation or the asset securitization plan, or its financial condition or business has evidently deteriorated making it unable to pay its debts or damaging the interest of the holders, the competent authority may order immediate corrections or order corrections to be made within a prescribed time. In addition, the following dispositions may be imposed depending on the situations:\r\n1. revoking or annulling the approval of the competent authority;\r\n2. suspending all or partial business within a prescribed time;\r\n3. dismissing the duties of the directors and/or supervisors;\r\n4. transferring its business and transferred Assets to other appointed people;\r\n5. suspending the issue of Asset-Backed Securities; or 6. other necessary dispositions.\r\nWhen dismissing the directors/supervisors from their duties in accordance with the Subparagraph 3 in the preceding paragraph, the competent authority shall notify the competent corporate registration authority to invalidate the registration of the directors/supervisors."
+		},
+		{
+			"number": 10700,
+			"content": "Article 41 of the Trust Enterprise Act shall apply mutatis mutandis under any of the following circumstances, when the Trustee engages in the SPT business:\r\n1. the Trustee c onvenes a beneficiaries' meeting in accordance with this Act;\r\n2. the Trustee fails to distribute profits timely in accordance with the asset trust securitization plan; or\r\n3. other material events sufficient to affect the rights and interests of the beneficiaries occur.\r\nIf any of the events set forth in t Article 41 of the Trust Enterprise Act or the preceding paragraph occurs when the Trustee engages in the SPT business, the Trust Supervisor shall be notified of such event if the SPT has a Trust Supervisor.\r\nUnder any of the following circumstances, the SPC shall report to the competent authority, notify the Supervisory Institution, and make an announcement on the daily local newspapers where the principal office of the company is located or through other methods as prescribed by the competent authority within two (2) business days after the occurrence of such event:\r\n1. bouncing of checks due to insufficient deposit, rejected account, or other situations losing creditability;\r\n2. litigious or non-litigious matters, administrative penalty, or administrative proceedings that have a material impact on the financial condition, or business operation of the company;\r\n3. under the circumstance of convening the meeting of the Asset-Backed Security holders in accordance with this Act;\r\n4. where the change of the directors/supervisors happens;\r\n5. failure to distribute or pay the profits, principal, interest and other proceeds timely in accordance with the asset securitization plan;\r\n6. where having the events for dissolution as prescribed in this Act; or\r\n7. under other circumstances sufficient to affect the operation of the SPC or the rights and interests of the Asset-Backed Security holders."
+		},
+		{
+			"number": 10800,
+			"content": "Under any of the following circumstances, the responsible person(s) for such act shall be punished with imprisonment for not less than one (1) year and not more than seven (7) years, and a criminal fine of not more than Ten Million New Taiwan Dollars (NT$10,000,000):\r\n1. an enterprise not qualified as a Trustee as provided for in Article 4, Paragraph 2 hereof serves as a Trustee and issues Beneficial Securities;\r\n2. the Trustee issues Beneficial Securities without the approval of or effective registration with the competent authority, in violation of Article 9, Paragraph 2 hereof; or\r\n3. a person issues Asset-Backed Securities without the approval of or effective registration with the competent authority, in violation of Article 73, Paragraph 2 hereof."
+		},
+		{
+			"number": 10900,
+			"content": "In case of occurrence of any of the following events and such occurrence causes damages to the public, other persons, trust property or transferred Assets, the responsible person(s) for such act shall be punished with imprisonment for not less than six (6) months and not more than five (5) years, and a criminal fine of not more than Three Million New Taiwan Dollars (NT$3,000,000):\r\n1. any document submitted in accordance with Article 9, Paragraph 1 hereof contains false statements or concealments;\r\n2. any document or information provided by the Originator to the Trustee contains false statements or concealments, in violation of Article 9, Paragraph 4 hereof;\r\n3. major content of the prospectus or investment memorandum as provided in accordance with Article 17, Paragraph 1 or Paragraph 3 hereof contains false statements or concealments;\r\n4. when executing the resolution of a beneficiaries' meeting, the Trust Supervisor or the person appointed by a beneficiaries' meeting in accordance with Article 27, Paragraph 1 hereof causes any damage to the trust property due to acts against his/her duties having the intention of acquiring illegal profits for his/her own or a third party;\r\n5. violation of Article 36, Paragraph 2 hereof; \r\n6. any document submitted in accordance with Article 73, Paragraph 1 contains false statements or concealments;\r\n7. any document or information provided by the Originator to the SPC contains false statements or concealments, in violation of Article 9, Paragraph 4 hereof;\r\n8. violation of Article 91, Paragraph 2;\r\n9. major content of the prospectus or investment memorandum contains false statements or concealments, in violation of Article 101 referring to the mutatis mutandis application of Article 17, Paragraph 1 or 3 hereof; or\r\n10. having false statements or concealments in violation of Article 104 hereof."
+		},
+		{
+			"number": 11000,
+			"content": "Under any of the following circumstances, the responsible person(s) for such act shall be punished with imprisonment for not more than three (3) years or detention, and/or a criminal fine of not more than Three Million New Taiwan Dollars (NT$3,000,000):\r\n1. Beneficial Securities are publicly offered to non-specific people, in violation of Article 17, Paragraph 2 or Paragraph 5 hereof referring to the mutatis mutandis application of Article 17, Paragraph 2 hereof; or\r\n2. Asset-Backed Securities are publicly offered to non-specific people, in violation of Article 101 hereof referring to the mutatis mutandis application of Article 17, Paragraph 2 or Paragraph 5 hereof."
+		},
+		{
+			"number": 11100,
+			"content": "Under any of the following circumstances, the responsible person(s) for such act shall be punished with imprisonment for not more than one (1) year or detention, and/or a criminal fine of not more than Three Million New Taiwan Dollars (NT$3,000,000):\r\n1. the prospectus or investment memorandum is not provided in accordance with the method prescribed by the competent securities authority or the competent authority, in violation of Article 17, Paragraph 1 or Paragraph 3 hereof; or\r\n2. the prospectus or investment memorandum is not provided in accordance with the method prescribed by the competent securities authority or the competent authority, in violation of Article 101 hereof referring to the mutatis mutandis application of 17, Paragraph 1 or Paragraph 3 hereof."
+		},
+		{
+			"number": 11200,
+			"content": "Any of the following events shall be subject to an administrative fine of not less than Two Million New Taiwan Dollars (NT$2,000,000) and not more than Ten Million New Taiwan Dollars (NT$10,000,000):\r\n1. violation of Article 11, Paragraph 1 hereof;\r\n2. violation of Article 14 hereof;\r\n3. the Trust Supervisor fails to attend a beneficiaries' meeting without justified reasons, in violation of Article 23, Paragraph 2 hereof;\r\n4. the Trust Supervisor fails to attend a meeting of certain type of beneficiaries without justified reasons, in violation of Article 26, Paragraph 4 hereof;\r\n5. violation of Article 28, Paragraph 2 hereof;\r\n6. a person serves as a Trust Supervisor, in violation of Article 30 hereof;\r\n7. the Trust Supervisor refuses to exercise its rights for the beneficiaries without justified reason, in violation of Article 31, Paragraph 2 hereof;\r\n8. violation of Article 87 hereof; or\r\n9. violation of Article 101 hereof referring to the mutatis mutandis application of Article 11 Paragraph 1 hereof."
+		},
+		{
+			"number": 11300,
+			"content": "Any of the following events shall be subject to an administrative fine of not less than One Million New Taiwan Dollars (NT$1,000,000) and not more than Five Million New Taiwan Dollars (NT$5,000,000):\r\n1. failing to register with the competent authority within the prescribed time, in violation of Article 12 hereof;\r\n2. failing to deliver the written notice within the prescribed time, in violation of Article 28, Paragraph 3 hereof;\r\n3. violation of Article 34, Paragraph 1 hereof;\r\n4. violation of Article 35, Paragraph 1 or Paragraph 2 hereof;\r\n5. rejecting the requests, in violation of Article 42, Paragraph 2 hereof;\r\n6. violation of Article 48, Paragraph 1 hereof;\r\n7. violation of Article 84, Paragraph 1 or Paragraph 3 hereof;\r\n8. failing to register with the competent authority within the prescribed time, in violation of Article 101 hereof referring to the mutatis mutandis application of Article 12 hereof; or\r\n9. rejecting the requests, in violation of Article 101 hereof referring to the mutatis mutandis application of Article 42, Paragraph 2 hereof."
+		},
+		{
+			"number": 11400,
+			"content": "Any of the following events shall be subject to an administrative fine of not less than Six Hundred Thousand New Taiwan Dollars (NT$600,000) and not more than Three Million New Taiwan Dollars (NT$3,000,000):\r\n1. violation of Article 9, Paragraph 3 hereof;\r\n2. failing to report to the Trust Supervisor, in violation of Article 36, Paragraph 1 hereof;\r\n3. violation of Article 37 hereof;\r\n4. failing to report to the Supervisory Institution, in violation of Article 91, Paragraph 1 hereof;\r\n5. any act of evading, refusing, or impeding the inspection to be conducted by the competent authority under Article 105, Paragraph 1, or failing to submit the requested information or reports within the prescribed time;\r\n6. violating any disposition made by the competent authority pursuant to Article 106, Paragraph 1 or Paragraph 2 hereof or any disposition made by the competent authority when applying Article 44 of the Trust Enterprise Act mutatis mutandis; or\r\n7. failing to register or make announcements pursuant to Article 107, Paragraph 1 hereof referring to the mutatis mutandis application of Article 41 of the Trust Enterprise Act, or failing to deliver notice pursuant to Article 107, Paragraph 2 hereof, or failing to report, make announcements or deliver notice pursuant to Article 107, Paragraph 3 hereof."
+		},
+		{
+			"number": 11500,
+			"content": "Unless otherwise provided for in this Act or relevant tax laws, any violation of the mandatory or prohibitive provisions of this Act or of any regulations prescribed under the authorization of this Act shall be subject to an administrative fine of not less than Six Hundred Thousand New Taiwan Dollars (NT$600,000) and not more than Three Million New Taiwan Dollars (NT$3,000,000)."
+		},
+		{
+			"number": 11600,
+			"content": "Where the responsible person, agent, employee, or other staff of a juristic person violates the provisions of this Act in the course of performing his/her duties, in addition to punishing such person(s) pursuant to the provisions of this chapter, a criminal fine or an administrative fine in the amount as prescribed in each article shall also be imposed upon such juristic person."
+		},
+		{
+			"number": 11700,
+			"content": "In case of any failure to pay an administrative fine imposed in accordance with this Act within the prescribed time, a surcharge for late payment shall be levied, calculated at the rate of one (1) percent of the fine for each day of delay, starting from the first day of delay.\r\nIf the fine is not paid within thirty (30) days after the expiry of the prescribed time, compulsory execution shall be sought."
+		},
+		{
+			"number": 11800,
+			"content": "The enforcement rules of this Act shall be further prescribed by the competent authority."
+		},
+		{
+			"number": 11900,
+			"content": "This Act shall become effective as of the date of its promulgation.\r\nIf the translations of the texts differ from the original Chinese texts, the original texts are preferential."
+		}
+	]
+}

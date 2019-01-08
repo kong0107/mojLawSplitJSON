@@ -1,0 +1,542 @@
+{
+	"pcode": "G0400082",
+	"type": "命令",
+	"english": "Regulations Governing Securities Investment Trust Funds",
+	"title": "證券投資信託基金管理辦法（93.10.30 訂定）",
+	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0400082",
+	"englishUpdate": "20180723",
+	"history": [
+		" Full text of 92 articles adopted and issued 30 October 2004 per Order Financial-Administration-Securities-(IV)-No. 0930005212 of the Financial Supervisory Commission, Executive Yuan, for implementation from date of promulgation",
+		" Articles 44, 45 amended and issued 7 March 2005 per Order Financial-Supervisory-Securities-IV No. 0940000935 of the Financial Supervisory Commission, Executive Yuan",
+		" Articles 5, 10, 14, 16, 24, 32, 37 to 39, 54 to 56, 69, 72, and 85 amended and issued 1 September 2006 per Order Financial-Supervisory-Securities-IV No. 0940004141 of the Financial Supervisory Commission, Executive Yuan",
+		" Articles 9, 10, 15, 30, 41, 48, 54, and 55 amended and issued and Article 36 deleted 14 February 2008 per Order Financial-Supervisory-Securities-IV No. 0970003750 of the Financial Supervisory Commission, Executive Yuan",
+		" Articles 10, 37, and 38 amended and issued per 27 November 2008 Order No. Financial-Supervisory-Securities-IV-0970062578 of the Financial Supervisory Commission, Executive Yuan",
+		" Articles 6, 8, 10, 15, 35, 42, 48, 72 and 90 amended per 10 November 2010 Public Announcement No. Financial-Supervisory-Securities-SITC-0990060014 of the Financial Supervisory Commission, Executive Yuan",
+		" Articles 1, 2, 7, 9, 10, 14, 27. 30, 35, 39, 55, 83, 85, 88, and 90 amended and issued and Articles 10-1, 14-1, and 54-1 added per 16 October 2013 Order No. Financial-Supervisory-Securities-SITC-1020040303 of the Financial Supervisory Commission",
+		" Articles 9, 70 and 76 amended and issued and Article 37-1 added per 3 July 2014 Order No. Financial-Supervisory-Securities-SITC-1030025003 of the Financial Supervisory Commission",
+		" Articles 10, 19, 20, 23, 35, 38 and 48 and title of Chapter III, Section 4 amended; Articles 31-1 and 31-2 added per 24 November 2016 Order No. Financial-Supervisory-Securities-SITC-1050046209 of the Financial Supervisory Commission",
+		" Articles 4, 10, 11, 17, 20, 27, 29, 35, 37, and 51 amended and issued per 23 July 2018 Order No. Financial-Supervisory-Securities-SITC-1070324960 of the Financial Supervisory Commission"
+	],
+	"divisions": [
+		{
+			"type": "chapter",
+			"number": 100,
+			"title": "General Principles",
+			"start": 100
+		},
+		{
+			"type": "chapter",
+			"number": 200,
+			"title": "Scope of and Restrictions on Fund Utilization",
+			"start": 800
+		},
+		{
+			"type": "chapter",
+			"number": 300,
+			"title": "Types of Funds",
+			"start": 1900
+		},
+		{
+			"type": "section",
+			"number": 100,
+			"title": "General Provisions",
+			"start": 1900
+		},
+		{
+			"type": "section",
+			"number": 200,
+			"title": "Equity Funds",
+			"start": 2500
+		},
+		{
+			"type": "section",
+			"number": 300,
+			"title": "Bond Funds",
+			"start": 2700
+		},
+		{
+			"type": "section",
+			"number": 400,
+			"title": "Balanced Funds and Multi-Asset Funds",
+			"start": 3000
+		},
+		{
+			"type": "section",
+			"number": 500,
+			"title": "Index Funds",
+			"start": 3200
+		},
+		{
+			"type": "section",
+			"number": 600,
+			"title": "Exchange-Traded Funds (ETFs)",
+			"start": 3700
+		},
+		{
+			"type": "section",
+			"number": 700,
+			"title": "Funds of Funds",
+			"start": 4200
+		},
+		{
+			"type": "section",
+			"number": 800,
+			"title": "Principal Guaranteed Funds",
+			"start": 4400
+		},
+		{
+			"type": "section",
+			"number": 900,
+			"title": "Money Market Funds",
+			"start": 4700
+		},
+		{
+			"type": "section",
+			"number": 1000,
+			"title": "Other Funds Issued with the Approval of the FSC",
+			"start": 5000
+		},
+		{
+			"type": "chapter",
+			"number": 400,
+			"title": "Private Placement of Funds",
+			"start": 5100
+		},
+		{
+			"type": "chapter",
+			"number": 500,
+			"title": "Custody of Funds",
+			"start": 5700
+		},
+		{
+			"type": "chapter",
+			"number": 600,
+			"title": "Certificates of Beneficial Interest",
+			"start": 6400
+		},
+		{
+			"type": "chapter",
+			"number": 700,
+			"title": "Redemption of Funds",
+			"start": 7000
+		},
+		{
+			"type": "chapter",
+			"number": 800,
+			"title": "Fund accounting",
+			"start": 7200
+		},
+		{
+			"type": "chapter",
+			"number": 900,
+			"title": "Changes to Funds and Durations, Termination, and Liquidation of Funds",
+			"start": 7800
+		},
+		{
+			"type": "chapter",
+			"number": 1000,
+			"title": "Merger of Funds",
+			"start": 8300
+		},
+		{
+			"type": "chapter",
+			"number": 1100,
+			"title": "Supplementary Provisions",
+			"start": 9000
+		}
+	],
+	"articles": [
+		{
+			"number": 100,
+			"content": "These Regulations are adopted pursuant to Article 11, paragraph 4, Article 14, paragraph 1, Article 17, paragraph 3, Article 18, paragraph 1, Article 19, Article 22, paragraph 4, Article 25, paragraph 2, and Article 46 of the Securities Investment Trust and Consulting Act."
+		},
+		{
+			"number": 200,
+			"content": "Except where the Financial Supervisory Commission (FSC) provides otherwise, a securities investment trust agreement shall stipulate the following matters:\r\n1.The name and address of the securities investment trust enterprise (SITE) and the custodian institution.\r\n2.The name and duration of the securities investment trust fund (\"the fund\").\r\n3.The rights, obligations, and legal liability of the SITE.\r\n4.The rights, obligations, and legal liability of the fund's custodian institution.\r\n5.The rights, obligations, and legal liability of the beneficiary.\r\n6.The basic governing policies and the scope of utilization of the fund for securities investment and trading in securities-related products.\r\n7.Fund income distribution.\r\n8.Redemption of certificates of beneficial interest.\r\n9.The fees borne by the fund.\r\n10.The management or custodial fees of the SITE and the custodian institution.\r\n11.Calculation of the net asset value of beneficiary units and the fund as a whole.\r\n12.Termination of the securities investment fund agreement.\r\n13.The reasons for convening beneficiaries' meetings; the required quorum; the votes required for passage of a measure; and the means of adopting resolutions.\r\nA trust enterprise that concurrently operates securities investment trust business may itself keep custody of fund assets pursuant to FSC approval; where the trust enterprise also has a trust supervisor, the matters to be stipulated under subparagraph 4 of the preceding paragraph shall also include the rights, obligations, and legal liability of the trust supervisor.\r\nA template for the securities investment trust agreement shall be adopted by the Securities Investment Trust and Consulting Association of the R.O.C. (SITCA) in consultation with the Trust Association of the R.O.C. (\"the Trust Association\") and submitted to the FSC for approval."
+		},
+		{
+			"number": 300,
+			"content": "As it deems appropriate due to market conditions, the FSC may place limits on fees for requests by beneficiaries for purchase or redemption of beneficiary interest certificates, management or custodial fees collected by a trust enterprise or custodian institution, and the fees borne by a fund."
+		},
+		{
+			"number": 400,
+			"content": "In managing a fund to invest or trade, a SITE shall base its decisions on its analysis; it shall keep records of its execution thereof, and shall also submit a review on a monthly basis. Its analysis and decisions shall be founded on reasonable grounds and bases.\r\nThe SITE shall include the analysis, decisions, execution, and review referred to in the preceding paragraph in the internal control system, and faithfully implement the system.\r\nThe SITE shall keep records of the control activities under the preceding paragraph, and shall preserve them for not less than 5 years."
+		},
+		{
+			"number": 500,
+			"content": "A SITE shall have the power to direct utilization of fund assets. The SITE shall implement such utilization itself, and except where the FSC provides otherwise, may not authorize a third party for same. A SITE shall have the power to direct the custodian institution of a fund in the custody, disposal, and receipt and payment of fund assets, and may also inspect and inventory fund assets on an irregular basis.\r\nExcept where law or regulations otherwise provide, when a SITE uses a fund to invest in market- or OTC-listed securities, it shall authorize a securities broker to undertake the transaction on the centralized securities market or an OTC market on a cash-on-delivery basis.\r\nA SITE using a fund to invest in government bonds, corporate bonds, or financial bonds shall do so on a cash-on-delivery basis.\r\nA SITE investing assets held by a fund shall register the transaction under the name of the custodian institution's dedicated fund account, provided that where the fund holds foreign securities or securities-related products, the transaction may take place in accordance with agreements between the custodian institution and the foreign trustee custodian institution."
+		},
+		{
+			"number": 600,
+			"content": "The custodian institution of a fund shall utilize fund assets in accordance with the SITE's directions and shall exercise the rights associated with those assets.\r\nThe custodian institution of a fund may only undertake the following dispositions of fund assets at the direction of a SITE:\r\n1.Adjusting the fund's investment portfolio as investment strategy requires.\r\n2.Making adjustments to the margin account or paying premiums.\r\n3.Paying the fees borne by the fund as stipulated in the trust agreement.\r\n4.Paying distributable income to beneficiaries of the fund as stipulated in the trust agreement.\r\n5.Paying the redemption price to beneficiaries for redemption of their certificates of beneficial interest."
+		},
+		{
+			"number": 700,
+			"content": "A SITE using a fund for overseas investment may authorize a company providing it with consulting services for overseas investment or a member of its own group that provides centralized market trading services to place a trading order on its behalf through a foreign securities firm, futures commission merchant, or other trading counterparty.\r\nWhen SITE authorizes a company providing it with consulting services for overseas investment or a member of its own group that provides centralized market trading services to place a trading order on its behalf through a foreign securities firm, futures commission merchant, or other trading counterparty, it shall adopt risk monitoring and management measures for such transactions as a part of its internal control system, as well as setting out the standards for selection of a company to provide consulting services for overseas investment; those measures and standards shall be submitted to the board of directors for approval.\r\nThe term \"member of its own group\" as used in the preceding paragraph shall mean a holding company to which the SITE belongs which has shareholdings in the SITE in excess of 50 percent; a subsidiary in which the SITE has shareholdings in excess of 50 percent; or a subsidiary belonging to the same holding company in which the holding company has shareholdings in excess of 50 percent."
+		},
+		{
+			"number": 800,
+			"content": "A SITE that offers a fund shall invest in securities in accordance with the type and characteristics of the fund. SITE investment in domestic securities shall be restricted in scope and type to the following:\r\n1.Listed securities.\r\n2.Securities traded on the over-the-counter market, as publicly announced by the FSC (\"OTC securities\").\r\n3.Securities having received FSC approval for underwriting or effective registration.\r\n4.Government bonds or publicly offered and issued corporate bonds and financial bonds.\r\n5.Certificates of beneficial interest issued by a SITE.\r\n6.Bonds of international financial organizations approved by the FSC.\r\n7.Other investments approved by the FSC.\r\nThe types and the scope of funds offered domestically by a SITE for investment in foreign securities shall be prescribed by the FSC."
+		},
+		{
+			"number": 900,
+			"content": "When a SITE utilizes a fund for trading in securities-related products, the scope of trading shall conform with the following provisions:\r\n1.Authorized trading that futures commission merchants (\"FCM\") are allowed to handle per FSC announcement in accordance with Article 5 of the Futures Trading Act, and trading in securities-related futures contracts, option contracts, and futures option contracts.\r\n2.FSC approved off-exchange trading in futures, options or other financial products which are currency-derived, securities-derived, interest-rate derived, or index-derived.\r\nWhen a SITE utilizes a fund to trade securities-related products, it may be exempt from the restrictions of subparagraph 1 of the preceding paragraph when such trading is necessary to match the fund's investment strategy and when the FSC has granted special approval.\r\nThe method of calculating the ratios and risk exposures for the types of trading listed in the 2 preceding paragraphs and related regulatory measures shall be announced by the FSC.\r\nWhen a SITE has received FSC approval for concurrent operation of a futures trust enterprise, it may apply to the FSC for exemption from the restriction of the preceding paragraph regarding trading ratios when utilizing a fund of the enterprise, other than an exchange-traded fund as specified in Article 37-1, for trading in securities-related products. Risk exposure, however, may not exceed 100 percent of the net asset value of the given fund.\r\nA SITE that utilizes a fund for trading in securities-related products shall draft measures for accounting, risk monitoring, and management for those types of trades as part of its internal control system, and submit the measures to the board of directors for passage."
+		},
+		{
+			"number": 1000,
+			"content": "A SITE offering a trust fund shall utilize the fund's assets in accordance with these Regulations and the provisions of the trust agreement, and except where otherwise provided by these Regulations or the FSC, shall comply with the following provisions:\r\n1.The SITE may not invest in non-listed or non-OTC-listed stocks or privately-placed securities.\r\n2.The SITE may not make loans or provide security, provided that a SITE that meets the requirements of Article 10-1 is not subject to this restriction.\r\n3.The SITE may not engage in securities margin transactions.\r\n4.The SITE may not engage in trading of securities or securities-related products between the various other funds, collective trust funds, discretionary accounts, or accounts for trading of securities with self-owned funds under the common management of the SITE, provided that this shall not apply in the case of cross-trades unintentionally occurring on a centralized securities exchange market or on Over-the-Counter Markets.\r\n5.The SITE may not invest in its own securities or in securities issued by any company that is an interested company relative to the SITE.\r\n6.The SITE may not use a fund to purchase the certificates of beneficial interest of that same fund, provided that this restriction shall not apply in the case of beneficiaries' requests for redemption of certificates of beneficial interest, or when certificates of beneficial interest are redeemed because of the discontinuance of all or some part of the fund.\r\n7.The SITE may not invest in structured interest rate products, with the exception of floating rate notes. However, this restriction shall not apply when structured interest rate products are a fund's principal investment vehicle and are so designated by the fund's name.\r\n8.The total amount invested by any fund in the stocks, corporate bonds, or financial bonds of any single listed or OTC-listed company may not exceed ten percent of the net asset value of the fund.\r\n9.The total amount invested by any fund in the shares of any single listed or OTC-listed company may not exceed ten percent of the total issued and outstanding shares of that company; the total amount invested by all funds under the common management of a SITE in the shares of any one listed or OTC-listed company may also not exceed ten percent of the total issued and outstanding shares of that company.\r\n10.The total amount invested by any fund in an underwriting of shares of any single listed or OTC-listed company may not exceed one percent of the total shares underwritten; the total amount invested by all funds under the common management of a SITE in any single underwriting may not exceed three percent of the total of underwritten shares being.\r\n11.The total amount invested by a fund in the certificates of beneficial interest of other funds may not exceed 20 percent of the first fund's total asset value, provided that this restriction shall not apply in the case of a fund of funds or exchange-traded funds under Article 37, paragraph 4.\r\n12.With the exception of exchange-traded funds under Article 37, paragraph 4, the total number of beneficial units of any single fund that may be invested in by any fund may not exceed 10 percent of the beneficial units already issued by the fund being invested in; the total number of beneficial units of any single fund that may be invested in by all funds under the common management of a SITE may not exceed 20 percent of the issued beneficial units of the fund being invested in.\r\n13.The total amount invested by a fund in the unsecured corporate bonds of any single company may not exceed ten percent of the unsecured corporate bonds issued by that company.\r\n14.The securities held by a fund may not be loaned to another person, provided that this restriction shall not apply given compliance with Article 14 and Article 14-1.\r\n15.Proxy forms for shareholders' meetings of an issuing company whose shares are purchased by a fund may not be sold or transferred.\r\n16.No fund may authorize stock trades by any single securities firm that exceed 30 percent of the total monetary value of the fund's stock trades in the given fiscal year. This provision shall not apply, however, to funds that have been established for less than one full fiscal year.\r\n17.The total amount any fund may invest in short-term bills and securities issued, guaranteed, or endorsed by any single company may not exceed ten percent of the fund's total asset value. However, this restriction does not apply to investments in beneficial certificates of funds.\r\n18.The total amount invested by a fund in the international financial institution bonds issued by any single international financial institution with FSC approval to issue such bonds within Taiwan may not exceed ten percent of the fund's net asset value, and may not exceed ten percent of the international financial institution bonds issued within Taiwan by the given international financial institution.\r\n19.The SITE may not engage in any improper trading activity and thereby affect the net asset value of a fund under its management.\r\n20.The SITE may not engage in any other act prohibited by the FSC.\r\nThe term \"various funds\" in subparagraph 4 of the preceding paragraph and the term \"all funds under the common management of a SITE\" in subparagraphs 9, 10, and 12 include securities investment trust funds and futures trust funds publicly or privately offered by a SITE.\r\nThe ceiling on the ratio of a SITE's use of a fund for investment in an underwritten stock shall be calculated by combining the amount of that investment with the shares of listed and OTC-listed companies of a similar type held to arrive at the total number of shares or total monetary amount; the amount of investment in depositary receipts shall be combined with the shares held in the issuing company of the depositary receipts, and the ceiling on the ratio of investment in that company similarly based on the combined figures for either monetary values or numbers of shares.\r\n\"Corporate bonds\" as referred to in paragraph 1, subparagraphs 8 and 13 shall include common corporate bonds, convertible corporate bonds, exchangeable corporate bonds, and corporate bonds with warrants."
+		},
+		{
+			"number": 1001,
+			"content": "A SITE that utilizes a fund for payment of redemption prices or for settlement of securities may instruct the fund's custodian institution to arrange a short-term loan with a financial institution, in the name of the fund's exclusive account, in accordance with the provisions below; the use of such a loan shall be disclosed in the securities investment trust agreement and the public prospectus:\r\n1.The provider of the loan must be a domestic or foreign bank duly authorized to engage in lending business.\r\n2.The term of a loan taken out in order to pay redemption prices may not exceed 30 business days; the term of a loan taken out for settlement of securities may not exceed 14 business days.\r\n3.Payment of interest and fees related to the loan will be made using fund assets.\r\n4.The total amount of the loan may not exceed 10 percent of the net asset value of the fund.\r\n5.When the provider of the loan is the fund's custodian institution or is an interested party with respect to the SITE, the terms of the loan transaction may not be less favorable than those offered by any other financial institution.\r\nThe provisions of Article 11 apply mutatis mutandis with respect to the definition of \"interested party\" in subparagraph 5 above.\r\nWhen taking out a loan will require the fund to establish rights over fund assets, or when the provider of the loan is the fund's custodian institution, the SITE must disclose those facts in the securities investment trust agreement and the prospectus.\r\nThe liability for repayment of the loan that is borne by the fund and the fund custodian institution of paragraph 1 is limited to the amount of the fund's assets. The amount of liability borne by a beneficiary is limited to the beneficiary's respective amount of investment in the fund's beneficial certificates.\r\nA template contract for borrowing by funds shall be adopted by the SITCA in consultation with the Trust Association. The template shall be submitted to the FSC for recordation upon its adoption and at the time of any amendment. The content of the template shall include the parties of the loan, loan amount, loan duration, method of repayment, and parties liable for payment of damages.\r\nWhen a SITE uses fund assets for borrowing purposes, measures for control and management of the SITE's borrowing shall be incorporated into its internal control system. The measures shall be submitted to the board of directors for approval.\r\nThe control and management measures of the preceding paragraph shall include, at a minimum, assessment of the loan efficacy, loan providers, and loan transaction terms and conditions, and management of the loan amounts and their repayment.\r\nAssessments of borrowing by the fund and loan-related operations shall be documented in a written record, which shall be retained for a period of not less than 5 years."
+		},
+		{
+			"number": 1100,
+			"content": "The term \"an interested company relative to the SITE\" in paragraph 1, subparagraph 5 of Article 10 refers to any one of the following circumstances:\r\n1.A company having the relationship with the SITE forth in Chapter 6-1 of the Company Act.\r\n2.A SITE director or supervisor, or a shareholder with total shareholdings of five percent or more.\r\n3.Any of the above persons, or a manager of the SITE, when they are the same person as the given company's director, supervisor, manager, or shareholder with a ten percent or greater shareholding, or have a spousal relationship with such person.\r\nThe term \"combined shareholdings\" as used in subparagraph 2 of the preceding paragraph refers to the total shareholdings of the enterprise in the SITE, plus the shareholdings in the same SITE of the enterprise's director, supervisor, or manager, as well as those of an enterprise directly or indirectly controlled by the first enterprise.\r\nThe provisions of paragraph 1 apply mutatis mutandis to the representative or designated representative of a juristic person director or supervisor who executes the duties of the juristic person."
+		},
+		{
+			"number": 1200,
+			"content": "The total monetary amount that a fund offered overseas by a SITE may invest in any single domestic listed or OTC-listed stock, corporate bond, or financial bond may not exceed 20 percent of the total asset value of the fund, without regard to the restrictions of Article 10, paragraph 1, subparagraph 8. All other restrictions on investment shall be observed in accordance with the laws and regulations governing funds in the place where the fund is offered."
+		},
+		{
+			"number": 1300,
+			"content": "The scope and types of all investments in overseas securities by a SITE fund offered overseas shall be subject to the laws and regulations of the place where the fund is offered."
+		},
+		{
+			"number": 1400,
+			"content": "Lending of domestic securities by a SITE-managed fund shall be handled in accordance with the applicable rules of the Taiwan Securities Exchange Corporation (TWSE) and the GreTai Securities Market (GTSM), and shall conform with the following conditions:\r\n1.A fund may not loan any single domestic security in an amount exceeding 50 percent of the total of that security held by the fund, provided that this shall not apply where the trust agreement of a privately offered fund provides otherwise.\r\n2.The lending period for securities loans shall extend for at most six months from the date of the lending transaction.\r\n3.When a loan of securities takes the form of a negotiated securities lending transaction, the types of collateral provided by the borrower shall be limited to cash, government bonds, and exchange listed or OTC listed securities that are eligible subjects of margin trades or short sales, provided that when the borrower's collateral is in the form of said bonds or securities, the SITE may provide such a securities loan only after reporting its risk monitoring and control measures for collateral management to the FSC for approval.\r\nThe provisions of subparagraph 3 of the preceding paragraph regarding collateral shall be applied with reference to TWSE and GTSM regulations applicable to fixed-price trading and auction trading.\r\nA SITE that loans domestic securities held by one of its managed funds shall draft measures for the monitoring and management of risk in domestic securities lending as a part of its internal control system and submit those measures to the board of directors for passage."
+		},
+		{
+			"number": 1401,
+			"content": "A SITE-managed fund may itself engage in lending of the foreign securities it holds or may engage an overseas agent for such lending. It must meet the following requirements and must observe the relevant regulations of the competent authority of the respective home country or region:\r\n1.The quantity of any single foreign security loaned by any single fund may not exceed 50 percent of the quantity or total dollar amount of the given security that is held by the fund.\r\n2.The duration of the loan period for the loaned securities may not exceed 6 months from the date on which the loan transaction takes place.\r\n3.The types of collateral provided by the borrower of the securities are restricted to cash and government bonds issued by a country with a sovereign credit rating of a specific level or higher from a credit rating agency approved or recognized by the FSC.\r\n4.The respective collateral maintenance ratios may not be lower than 100 percent and 105 percent.\r\nThe \"foreign agent\" of the preceding paragraph must meet the following conditions:\r\n1.Have been established for 3 or more years.\r\n2.Be a financial institution whose assets or net worth for the preceding year were listed in the top 500 globally, or a bank with assets of US$500 billion or more under custody.\r\n3.Have a credit rating of a specific level or higher issued by a credit rating agency approved or recognized by the FSC.\r\nWhen a SITE utilizes a fund to lend the foreign securities it holds, measures for risk control and management in such securities lending by the SITE shall be incorporated into its internal control system and shall be submitted to the board of directors for approval.\r\nWhen the borrower of the securities is an interested company with respect to the SITE or when government bonds are provided as collateral for the borrowing, the lending transaction may only take place after the SITE's risk control and management measures for interested party transactions and collateral management have been submitted to and approved by the FSC.\r\nThe provisions of Article 11 apply mutatis mutandis with respect to the definition of \"interested company\" under the preceding paragraph."
+		},
+		{
+			"number": 1500,
+			"content": "A SITE that offers a fund for investment in beneficial securities or asset-backed securities issued in accordance with the Financial Asset Securitization Act shall observe the following conditions:\r\n1.With the exception of those securities approved as short-term bills by the FSC, the fund shall be restricted to investment in beneficial securities or asset-backed securities which have obtained FSC approval or effective registration.\r\n2.The total amount invested by a fund in beneficial securities or asset-backed securities issued by any single trustee institution or special-purpose company may not exceed ten percent of the total value of the given issue (or tranche, where the issue is tranched); the invested amount may also not exceed ten percent of the total asset value of the fund.\r\n3.The total monetary amount invested by a fund in the stocks, corporate bonds, or financial bonds issued by any single originator and the beneficial securities or asset-backed securities issued by any single originator through entrusting financial assets to a trustee organization or assigning financial assets to a special-purpose company may not exceed ten percent of the total asset value of the fund.\r\n4.The beneficial securities or asset-backed securities in which the fund invests shall have a credit rating at or above a prescribed level from an FSC-approved or recognized credit-rating institution.\r\nWhen a SITE is an interested company as referred to in Article 10, paragraph 1 with respect to any originator, trustee institution or special-purpose company connected with beneficial securities or asset-backed securities, the SITE may not utilize fund assets for investment in those beneficial securities or asset-backed securities."
+		},
+		{
+			"number": 1600,
+			"content": "A SITE offering a fund for investment in real estate investment trust fund certificates of beneficial interest or real estate asset trust fund certificates of beneficial interest offered publicly pursuant to the Real Estate Securitization Act shall observe the following conditions:\r\n1.The fund shall be restricted to investment in closed-end real estate investment trust fund certificates of beneficial interest or real estate asset trust fund certificates of beneficial interest approved by the FSC.\r\n2.The total investment by any such fund in real estate investment trust beneficiary units issued by any single trustee institution may not exceed ten percent of the beneficiary units already issued.\r\n3.The total investment by any such fund in real estate asset trust beneficial securities issued by any single trustee institution may not exceed ten percent of the total value of the given issue (or tranche, where the issue is tranched).\r\n4.The total investment by any such fund in the real estate asset trust beneficial securities and real estate investment trust beneficial securities issued by any single trustee institution may not exceed ten percent of the fund's total asset value.\r\n5.The total monetary amount invested by a fund in the real estate asset trust beneficial securities issued by any single principal through entrusting real estate assets to a trustee organization, the beneficial securities or asset-backed securities issued by that principal through entrusting financial assets to a trustee organization or a special-purpose company, and the stocks, corporate bonds, or financial bonds issued by that principal may not exceed 10 percent of the net asset value of the fund.\r\n6.The real estate investment trust beneficial securities or real estate asset trust beneficial securities in which such a fund invests shall have a credit rating at or above a prescribed level issued by an FSC-approved or recognized credit-rating institution.\r\nWhen a SITE is an interested company as referred to in Article 10, paragraph 1 with respect to the trustee institution of a real estate investment trust beneficial security, or with respect to the principal or trustee institution of a real estate assets trust beneficial security, the SITE may not invest fund assets in those real estate investment trust beneficial securities or real estate assets trust beneficial securities."
+		},
+		{
+			"number": 1700,
+			"content": "A SITE offering a fund for investment in domestic subordinated corporate bonds or subordinated financial bonds shall observe the following conditions:\r\n1.Fund investment shall be restricted to listed or OTC-listed subordinated corporate bonds or subordinated financial bonds.\r\n2.The total investment by any such fund in subordinated corporate bonds or subordinated financial bonds issued by any single company may not exceed ten percent of the total value of the given issue (or tranche, where the issue is tranched).\r\n3.Subordinated corporate bonds or subordinated financial bonds in which the fund invests shall have a credit rating at or above a prescribed level issued by an FSC-approved or recognized credit-rating institution."
+		},
+		{
+			"number": 1800,
+			"content": "When a SITE offers a fund, the fund shall hold the following types of assets at FSC-prescribed ratios:\r\n1.Cash.\r\n2.Bank deposits.\r\n3.Short-term bills purchased from bills finance companies.\r\n4.Other methods of maintaining fund assets in accordance with FSC regulations.\r\nThe banks or short-term bills referred to in subparagraphs 2 and 3 shall have a credit rating at or above a prescribed level issued by an FSC-approved or recognized credit-rating institution.\r\nFor domestically offered funds, the amounts held in the manners described in paragraph 1, subparagraphs 2-4 may not exceed ratios prescribed by regulations."
+		},
+		{
+			"number": 1900,
+			"content": "The name of a fund may not contravene the basic scope and objectives of the fund, nor cause others to mistakenly believe that either profits or the security of investment capital can be guaranteed.\r\nIf an expiration date is stipulated for a fund, the name of the fund shall indicate the duration or the expiration year."
+		},
+		{
+			"number": 2000,
+			"content": "A SITE using a fund to trade in securities shall apply the relevant provisions of these Regulations in accordance with the trust agreement provisions regarding regions, markets, and types and scope of securities investment.\r\nIf an expiration date is stipulated for a fund, and for purposes of meeting the investment strategy needs, the securities investment trust agreement may specify that the restrictions of Articles 25, 26, and 29 and Article 30, paragraph 1 do not apply during a certain period of time before the expiration date of the fund.\r\nIf a SITE meets the conditions specified by the FSC, when the SITE applies to offer a fund, it may, for the purposes of meeting investment strategy needs, and upon applying to the FSC and receiving its approval, specify in the securities investment trust agreement restrictions relating to the types, scopes, and ratios of domestic and foreign securities in which the fund will invest, and be exempted from the restrictions set out in Article 8, Article 10, paragraph 1, Articles 15 to 17, Article 27, and Article 30, paragraph 1."
+		},
+		{
+			"number": 2100,
+			"content": "A SITE may offer or privately place funds denominated in foreign currencies except where otherwise provided by the FSC; subscriptions, redemptions, and fee payment for such funds shall be denominated in a currency designated by the SITE. Following its designation, the SITE may not arbitrarily change the designated currency."
+		},
+		{
+			"number": 2200,
+			"content": "A fund that invests in other funds under the management of the same SITE may not collect a management fee."
+		},
+		{
+			"number": 2300,
+			"content": "The types of funds are as follows:\r\n1.Equity funds.\r\n2.Bond funds.\r\n3.Balanced funds and multi-asset funds.\r\n4.Index funds.\r\n5.Exchange-traded funds (ETFs).\r\n6.Funds of funds.\r\n7.Principal guaranteed funds.\r\n8.Money market funds.\r\n9.Other funds issued with FSC approval."
+		},
+		{
+			"number": 2400,
+			"content": "A SITE may offer and issue asset-allocation type umbrella funds, and shall observe the following conditions:\r\n1.Sub-funds may not exceed three in number, and shall be applied for and offered simultaneously. Should any individual sub-fund fail to meet the establishment requirements, the umbrella fund may not be established.\r\n2.Sub-funds may, depending on the type of asset allocation desired, select one type of fund for allocation and segregation or select a combination of types.\r\n3.Separate trust agreements shall be entered into for each separate sub-fund, which shall state the following matters:\r\nA.The umbrella fund will not be established when any individual sub-fund fails to meet establishment requirements.\r\nB.No mechanism for automatic conversions between sub-funds shall be allowed, and conversion between different funds may be carried out only pursuant to investor application, with conversion fees to be set by the SITE."
+		},
+		{
+			"number": 2500,
+			"content": "\"Equity fund\" refers to a fund in which total investment in stocks accounts for no less than 70 percent of the total asset value of the fund."
+		},
+		{
+			"number": 2600,
+			"content": "When the name of an equity fund indicates investment in a particular investment vehicle, region, or market, then investment in the vehicle, region, or market so indicated shall account for no less than 60 percent of the total asset value of the fund."
+		},
+		{
+			"number": 2700,
+			"content": "Except where law and regulation provide otherwise, bond funds may not invest in the following investment instruments:\r\n1.Stocks.\r\n2.Equity-type securities, provided that convertible corporate bonds, corporate bonds with warrants, and exchangeable corporate bonds are not subject to this restriction.\r\n3.Structured interest rate products. However, this restriction shall not apply to floating rate notes.\r\nThe total amount of investment in convertible corporate bonds, corporate bonds with warrants, and exchangeable corporate bonds by a SITE utilizing a bond fund may not exceed 10 percent of the net asset value of the fund.\r\nWhen the convertible corporate bonds, corporate bonds with warrants, or exchangeable corporate bonds held by a bond fund meet conditions such that there is any bond conversion, exercise of warrants, or exchange for stock, the fund shall make adjustments within one year to achieve conformance with requirements."
+		},
+		{
+			"number": 2800,
+			"content": "The credit rating of an issue of unsecured corporate bonds or financial bonds from any company in which a SITE invests fund assets shall be explicitly stated in the trust agreement."
+		},
+		{
+			"number": 2900,
+			"content": "A bond fund's asset portfolio shall have a weighted average duration of no less than one year, provided that this restriction shall not apply to funds established for less than three months, or in the month prior to the trust agreement's termination date, or to a fund that invests primarily in floating rate notes."
+		},
+		{
+			"number": 3000,
+			"content": "\"Balanced fund\" refers to a fund invested in stocks, bonds, and other fixed-income securities in an amount equal to 70 percent or more of the net asset value of the fund, and in which stock investments account for not more than 90 percent and not less than 10 percent of the fund's net asset value.\r\nThe FSC may adjust the investment ratios of the preceding paragraph based on conditions in domestic and foreign securities markets and the development of securities investment trust enterprises."
+		},
+		{
+			"number": 3100,
+			"content": "The word \"balanced\" shall appear as part of the name of any balanced fund."
+		},
+		{
+			"number": 3101,
+			"content": "\"Multi-asset fund\" refers to a fund invested in stocks, bonds (including other fixed-income securities), beneficial certificates of funds, beneficial interest securities of real estate investment trust funds, or other types of assets that have been approved by the FSC for investments, and among which the total amount of the fund’s investment in any of the above-mentioned types of assets may not exceed 70 percent of the net asset value of the fund.\r\nTo meet investment strategy needs, the total amount invested by a securities investment trust enterprise utilizing a multi-asset fund to invest in beneficial certificates of other funds need not be restricted by the main provision of Article 10, paragraph 1, subparagraph 11.\r\nThe FSC may adjust the investment ratio set out in paragraph 1 based on conditions in domestic and foreign securities markets and in the development of securities investment trust enterprises."
+		},
+		{
+			"number": 3102,
+			"content": "The word \"multi-asset\" shall appear as part of the name of any multi-asset fund."
+		},
+		{
+			"number": 3200,
+			"content": "\"Index fund\" refers to a fund in which all or a major portion of fund assets are invested in index component securities in order to track, simulate, or replicate the performance of the index.\r\nThe subject index of the preceding paragraph shall meet the following conditions:\r\n1.The index shall have been produced by a party with professional ability and experience in producing indexes.\r\n2.The index shall be representative of its defined market.\r\n3.The index's component securities shall be liquid and a broad sampling.\r\n4.Index data shall be sufficiently disclosed and easily accessible.\r\n5.There may be no violation of other laws or regulations in connection with the index."
+		},
+		{
+			"number": 3300,
+			"content": "The name of an index fund shall clearly indicate the index or index performance which is being tracked, simulated, or replicated."
+		},
+		{
+			"number": 3400,
+			"content": "In addition to compliance with Article 2, paragraph 1 herein, the trust agreement of an index fund shall also set forth the following:\r\n1.The name of the subject index.\r\n2.Essential content of the index licensing agreement: the parties to the agreement and their rights and obligations; use of the index name by license; index licensing fees; matters relating to termination of the agreement; other important content.\r\n3.Methods for notification and announcement of material events in connection with the subject index, when those events have a material bearing on investor rights and interests.\r\n4.Fund shareholding information and the intervals at which it will be released."
+		},
+		{
+			"number": 3500,
+			"content": "To achieve conformity with an index's composition, a SITE utlizing index fund assets may invest in securities without regard for the restrictions of Article 10, paragraph 1, subparagraph 5, subparagraph 8, or the main provision of subparagraph 17, provided that if the total amount of investment in any one of the securities exceeds 10 percent of the net asset value of the fund, its investment does not exceed the weighting given the individual component security within the index.\r\nWhen a SITE utilizes an index fund's assets, if an adjustment of the index's composition or the index replication strategy measures so require, and if the conditions of the FSC are met, the SITE need not be subject to the proviso of the preceding paragraph."
+		},
+		{
+			"number": 3600,
+			"content": "(deleted)"
+		},
+		{
+			"number": 3700,
+			"content": "\"Exchange-traded fund (ETF)\" refers to a fund which tracks, simulates, or replicates the performance of an index and is traded on a securities exchange market, with subscription and redemption of ETF units carried out through physical delivery or by the method prescribed in the trust agreement.\r\nThe component securities of the subject index of the preceding paragraph include stocks, bonds, and other securities approved by the FSC.\r\nThe subject index of paragraph 1 shall meet the conditions given in Article 32, paragraph 2.\r\nAn ETF may be linked to a single offshore ETF that complies with the requirements of Article 26 of the Regulations Governing Offshore Funds.\r\nIf any event in Article 12, paragraph 6 of the Regulations Governing Offshore Funds occurs with respect to a single offshore ETF that is linked to by an ETF as described in the preceding paragraph, the SITE shall, after receiving notice of a meeting of beneficial owners issued by the offshore fund entity or any other relevant notice, report to the FSC for approval, and make a public announcement within 3 days from the date of occurrence of the event."
+		},
+		{
+			"number": 3701,
+			"content": "A SITE offering an ETF that tracks, simulates, or replicates a multiple of the performance of an index (\"leveraged ETF\") or a multiple of the inverse performance of an index (\"inverse ETF\") shall comply with the following provisions in addition to these Regulations and the securities investment trust contract:\r\n1.The name of a leveraged or inverse ETF shall clearly indicate the multiple of the daily performance or inverse performance of the underlying index that is being tracked, simulated, or replicated\r\n2.To meet investment strategy needs, the total amount invested by a leveraged or inverse ETF in beneficial certificates of other funds need not be restricted by the main provision of Article 10, paragraph 1, subparagraph 11, provided that the amount may not exceed 30 percent of the total net asset value of the leveraged or inverse ETF."
+		},
+		{
+			"number": 3800,
+			"content": "In addition to compliance with Article 2, paragraph 1 herein, the trust agreement for an ETF offered by a SITE shall additionally set forth essential matters relating to its trading on a securities exchange market, the method of subscription and redemption, the index licensing agreement, and the participant agreement, provided that the essential matters relating to the index licensing agreement may be omitted in the case of an ETF that complies with Article 37, paragraph 4.\r\nA SITE offering an ETF need not set forth the total face value, total number of beneficiary units, or whether there will be additional future issues."
+		},
+		{
+			"number": 3900,
+			"content": "Given compliance with the following provisions, a SITE investing an ETF may borrow domestic securities and provide fund assets as collateral without regard for the restrictions of Article 10, paragraph 1, subparagraph 2 herein:\r\n1.Only when the purpose of borrowing securities, as set forth in the ETF trust agreement, is to meet an insufficiency in the fund shareholdings needed for physical delivery in redemptions.\r\n2.The total value of securities borrowed by an ETF may not exceed ten percent of the net asset value of the fund.\r\nA SITE borrowing domestic securities against fund assets shall do so in accordance with the applicable TWSE and GTSM regulations."
+		},
+		{
+			"number": 4000,
+			"content": "When an ETF under SITE management borrows securities, the SITE shall draft measures governing risk monitoring and management in securities borrowing as a part of its internal control system and submit those measures to the board of directors for passage."
+		},
+		{
+			"number": 4100,
+			"content": "The provisions of Articles 33-35 shall apply mutatis mutandis to ETFs."
+		},
+		{
+			"number": 4200,
+			"content": "\"Fund of funds\" refers to a fund that invests in the certificates of beneficial interest, fund shares, or investment units issued or managed by a SITE, a futures trust enterprise, or a foreign fund management institution, and that may not invest in another fund of funds."
+		},
+		{
+			"number": 4300,
+			"content": "A fund of funds shall invest in no less than five sub-funds. Each sub-fund shall have an investment ceiling of 30 percent of the fund of funds' net asset value."
+		},
+		{
+			"number": 4400,
+			"content": "A principal-guaranteed fund shall be distinguished as either a capital-guaranteed fund or a capital-protected fund based on whether the fund is backed by the guarantee of an institution. A capital-guaranteed fund is one in which, through a guarantee provided by a guarantee institution during the duration of the fund, a beneficiary will receive a prescribed ratio of guaranteed principal at the maturity of the fund. A capital-protected fund is one in which, through the operation of the fund's given investment instruments, a beneficiary will receive a prescribed ratio of protected principal at the fund's maturity.\r\nA capital-protected fund is one that has no guarantor institution to provide a mechanism for guarantee.\r\nThe ratio of principal guaranteed by a guaranteed-principal fund shall not be less than 90 percent of investment principal.\r\nIn order to increase the investment efficiency of a principal-guaranteed fund, a SITE may, while observing applicable regulatory provisions, use interest or non-guaranteed principal to trade in securities-related products on either domestic or foreign centralized securities markets or OTC markets."
+		},
+		{
+			"number": 4500,
+			"content": "A capital-guaranteed fund shall be guaranteed by a guarantee institution with a credit rating at or above a prescribed level from an FSC-approved or recognized credit-rating institution.\r\nThe public prospectus and the marketing materials for a capital-protected fund may not use the terms \"guaranteed,\" \"safe,\" \"risk-free,\" or other similar terms, and in addition, shall explicitly state that the fund provides no mechanism by which it may be guaranteed by a guarantor institution."
+		},
+		{
+			"number": 4600,
+			"content": "When maintenance of principal so requires, a principal-guaranteed fund may be placed on time deposit at a financial institution with a credit rating at or above a prescribed level issued by an FSC-approved or recognized credit-rating institution, with no ceiling on its deposit ratio."
+		},
+		{
+			"number": 4700,
+			"content": "\"Money-market fund\" refers to a fund in which the total amount of utilization for bank deposits, short-term bills, and repurchase transactions accounts for no less than 70 percent of the total asset value of the fund.\r\n\"Repurchase transactions\" as referred to in the preceding paragraph includes short-term bills and securities."
+		},
+		{
+			"number": 4800,
+			"content": "In addition to the provisions of Article 10, a SITE shall observe the following conditions in investing a money-market fund:\r\n1.Fund investment shall be through bank deposits, short-term bills, securities, and repurchase transactions at financial institutions with a credit rating at or above a prescribed level issued by an FSC-approved or recognized credit-rating institution.\r\n2.The fund's total amount of investment in the short-term bills or securities issued, guaranteed, or endorsed by any one company other than a financial institution may not exceed ten percent of the fund's net asset value.\r\n3.The total amount of the fund's deposits at any one financial institution or investments in short-term bills or securities issued, guaranteed, or endorsed by that institution may not exceed ten percent of the fund's net asset value.\r\n4.With the exception of government bonds, the total amount of the fund's investment in securities with a long-term credit rating at or below a prescribed level from an FSC-approved or recognized credit-rating institution may not exceed ten percent of the fund's net asset value.\r\n5.The fund may not invest in the short-term bills of the SITE under which it is managed or in short-term bills issued by a company with an interest in the SITE.\r\n6.The fund may not invest in stocks or other types of equity securities.\r\nWhere a company or a financial institution referred in subparagraphs 2 and 3 of the preceding paragraph meets the requirements set out by the FSC, the percentage restriction on a money market fund's investment or deposit in the company or financial institution may be raised to 20 percent of the fund's net asset value. However, the amount of the money-market fund's investment in short-term bills issued by any one company or financial institution may not exceed 10 percent of the issuer's net worth as stated in its most recent CPA-audited and attested financial report."
+		},
+		{
+			"number": 4900,
+			"content": "The weighted-average duration of a money-market fund may not exceed 180 days, and shall be calculated in terms of the repurchase transaction period when the investment vehicle is a repurchase transaction.\r\nMoney-market fund investment shall be limited to investment vehicles with a remaining maturity of not more than one year, provided that this restriction shall not apply to repurchase transactions."
+		},
+		{
+			"number": 5000,
+			"content": "When a fund invests primarily in structured interest rate products pursuant to the Article 10, paragraph 1, subparagraph 7 proviso, the term \"structured interest rate product\" or other similar terminology shall appear in the name of the fund.\r\nWhen a fund invests primarily in convertible corporate bonds, corporate bonds with warrants, or other types of equity securities, the name of the fund shall include terminology clearly indicating the primary investment vehicle.\r\nThe funds referred to in the preceding two paragraphs may not be named bond funds, and may not pay a redemption price to a beneficiary on the date of a requested beneficiary certificate redemption or the following business day."
+		},
+		{
+			"number": 5100,
+			"content": "A SITE may privately place certificates of beneficial interest with the following entities:\r\n1.Banking enterprises, bills finance enterprises, trust enterprises, insurance enterprises, securities enterprises, financial holding companies, or other juristic persons or institutions approved by the FSC.\r\n2.Natural persons, juristic persons, or funds that meet FSC-imposed requirements.\r\nThe total number of offerees under subparagraph 2 of the preceding paragraph may not exceed 99 persons.\r\nPrior to completion of the offering, the SITE bears the obligation of providing financial, operational, or other information relevant to the given placement of certificates of beneficial interest in response to reasonable requests from the entities listed under paragraph 1, subparagraph 2.\r\nA SITE privately placing a fund with specific persons may not engage in normal advertising activities or publicly offer inducements during the period of offering and sale.\r\nAny SITE violating the provisions of the preceding paragraph will be deemed to have made a public offering to non-specified persons."
+		},
+		{
+			"number": 5200,
+			"content": "Offerees and subscribers of a privately placed fund may not, except under one of the following circumstances, re-sell certificates of beneficial interest:\r\n1.When making application to a SITE for redemption.\r\n2.When making assignment to an entity with the qualifications under Article 11, paragraph 1 of the Securities Investment Trust and Consulting Act.\r\n3.When making a valid transfer under applicable laws and regulations.\r\n4.Other circumstances where approval is granted by the FSC.\r\nThe restriction on assignments under the preceding paragraph shall be set out in conspicuous text on the beneficiary certificate, and shall also be noted in the related documents delivered to the offeree or subscriber."
+		},
+		{
+			"number": 5300,
+			"content": "Within five days after receiving full payment of the price for the privately placed certificates of beneficial interest, a SITE shall submit the following documents to file for recordation with the FSC:\r\n1.The securities investment trust fund agreement.\r\n2.A record of deliberation at the board of directors' meeting on the resolution for private placement of a fund.\r\n3.A photocopy of documents showing qualification of the fund manager under the Regulations Governing Responsible Persons and Associated Persons of Securities Investment Trust Enterprises.\r\n4.An affidavit stating that none of the circumstances under Article 59 apply to the fund's custodian institution.\r\n5.An investment prospectus.\r\n6.An affidavit stating that the beneficiaries meet the qualifications required under Article 11, paragraph 1 of the Securities Investment Trust and Consulting Act.\r\n7.A bank deposit certificate for the fund's dedicated account.\r\n8.For funds placed privately overseas for domestic investment or for funds placed privately domestically for investment overseas, a photocopy of the Central Bank of China's letter of approval shall be included.\r\nAny change to the trust agreement for a privately placed fund shall be reported to the FSC within five days."
+		},
+		{
+			"number": 5400,
+			"content": "A SITE shall invest the assets of a privately placed fund in accordance with the provisions of the trust agreement, and shall comply with the following provisions except where otherwise provided by the FSC:\r\n1.The fund may not invest in securities other than those listed under Article 6 of the Securities and Exchange Act.\r\n2.The fund may not engage in transactions other than for securities-related products.\r\n3.The fund may not loan funds.\r\n4.The fund may not engage in trading of securities or securities-related products with the various funds, collective trust funds, discretionary accounts, or accounts for trading of securities with self-owned funds under the management of the SITE, provided that this shall not apply in the case of cross-trades unintentionally occurring on a centralized securities exchange market or on Over-the-Counter Markets.\r\n5.The fund may not invest in securities issued by the SITE under which it is managed or in securities issued by an interested company in relation to the SITE.\r\n6.The fund may not be used to purchase the certificates of beneficial interest of that same fund, provided that this restriction shall not apply in the case of beneficiaries' requests for redemption of certificates of beneficial interest or when certificates of beneficial interest are redeemed due to the discontinuance of all or some part of the fund.\r\n7.The fund may not transfer or sell proxy forms for the shareholders' meeting of an issuing company whose shares are purchased by the fund.\r\n8.Amounts held in the manners described in Article 18, paragraph 1, subparagraphs 2-4 may not exceed the ratios prescribed by regulation.\r\n9.The fund may not accept the designation of a specific person that it assist in evading income tax or any other operation that would influence its performance in accordance with the principles of good faith and professional investment management.\r\n10.The fund may not engage in any other activity prohibited by the FSC.\r\nThe provisions of Article 11 shall apply mutatis mutandis to defining \"an interested company in relation to the SITE\" as referred to in subparagraph 5 of the preceding paragraph.\r\nThe term \"various funds\" in paragraph 1, subparagraph 4 includes securities investment trust funds and futures trust funds publicly or privately offered by a SITE.\r\nRisk exposure in the trading of securities or securities-related products by a privately offered fund may not exceed 40 percent of the net asset value of the fund.\r\nA SITE shall expressly state in the trust agreement for a privately offered fund the limits applicable to trades of securities-related products, securities margin trades, securities borrowing, and borrowing for financing, and shall set out related measures for monitoring and control of risk in the offering memorandum.\r\nA SITE that has received FSC approval for concurrent operation of a futures trust enterprise may be exempt from the restrictions of paragraph 4 in regard to trading ratios only when it has reported to and received approval from the FSC for its internal control system with regard to risk control mechanisms in the utilization of a privately offered fund to trade in securities-related products. Risk exposure, however, may not exceed 100 percent of the net asset value of the given fund.\r\nThe internal control system of the preceding paragraph shall make an assessment of the possible types of risk for each respective type of securities-related product being traded, and shall adopt a sound and thorough plan for control and management that includes the method of assessing each type of risk, relevant parameters, standards for assessment, and mechanisms for periodic testing."
+		},
+		{
+			"number": 5401,
+			"content": "When a SITE makes a private placement of an index fund as defined in Article 32 and invests in securities to achieve conformity with the index's composition, it need not be subject to the restrictions of paragraph 1, subparagraph 5 of the preceding article."
+		},
+		{
+			"number": 5500,
+			"content": "The provisions of Articles 1-7, the provisions of Article 9, paragraphs 1 to 3 in regard to methods of calculating risk exposure and paragraph 5 of the same article, and Articles 10-1, 14, 14-1, 19, 20, 22, 57, 59 to 64, 66 to 77, and 79 to 89 shall apply to privately placed funds.\r\nExcept where otherwise provided in the trust agreement for a privately placed fund, Articles 23, 25 to 34, 42 to 50, and 65 shall also apply."
+		},
+		{
+			"number": 5600,
+			"content": "A SITE that offers a privately placed fund shall calculate the net asset value of the fund every business day in accordance with the provisions of Article 72 herein, and may report the net asset value of beneficiary units to beneficiaries in accordance with the trust agreement without regard to the Article 73 provisions regarding announcement.\r\nProcedures for redemption of privately placed funds and deadlines for payment of the redemption price shall be governed by relevant provisions of the trust agreement, without regard for the provisions of Articles 70 and 71.\r\nThe annual financial report of a privately placed fund shall be presented to beneficiaries in accordance with the trust agreement, without regard for the Article 72, paragraph 2 provisions regarding announcement.\r\nThe provisions of Article 79, paragraph 5 regarding announcement do not apply when a privately placed fund is discontinued or the trust agreement expires. The method of liquidation and distribution of proceeds shall be reported to beneficiaries in accordance with the trust agreement without regard for the requirements of Article 80, paragraph 2 in regard to fund liquidation and distribution.\r\nWhen a trust enterprise concurrently engages in securities investment trust business and privately places a fund whose assets it also keeps in custody, the obligations of the fund custodian institution shall be executed by the trust enterprise, which shall designate staff to be exclusively responsible for executing those obligations."
+		},
+		{
+			"number": 5700,
+			"content": "The assets of a fund managed by a SITE shall be independent of the SITE's own assets and those of the fund's custodian institution.\r\nNo creditor in relation to the self-owned assets of a SITE or a fund's custodian institution may make any claim or exercise any other right against the assets of a fund managed by or in the custody of the SITE or custodian institution.\r\nA fund custodian institution shall establish independent accounts for custody of the fund assets of each fund in accordance with the Securities Investment Trust and Consulting Act, orders authorized under that Act, and the provisions of the securities investment trust agreement."
+		},
+		{
+			"number": 5800,
+			"content": "When a trust enterprise concurrently engaging in securities investment trust business privately places a fund and receives FSC permission to keep custody of fund assets, the obligations of the fund custodian institution shall be executed by the trust enterprise and placed under the supervision of the trust supervisor."
+		},
+		{
+			"number": 5900,
+			"content": "Given either of the following circumstances, an institution may not serve as the custodian institution of a fund:\r\n1.The FSC has issued a disposition against the institution pursuant to Article 115 of the Securities Investment Trust and Consulting Act and the effective period of the disposition has not yet lapsed.\r\n2.The institution does not have a credit rating at or above a prescribed level by an FSC-approved or recognized credit-rating institution.\r\nGiven any one of the following circumstances, a trust enterprise or a bank that concurrently operates trust business may not serve as the custodian institution for a fund managed by the respective SITE:\r\n1.The trust enterprise or bank is invested in ten percent or more of the total issued shares of the SITE.\r\n2.The trust enterprise or bank serves as director or supervisor of the given SITE; or a director or supervisor of the trust enterprise or bank also serves as a director, supervisor, or manager of the given SITE.\r\n3.The SITE is invested in ten percent or more of the total issued shares of the trust enterprise or bank.\r\n4.The SITE or its representative is a director or supervisor of the given trust enterprise or bank.\r\n5.The trust enterprise or bank serves as the fund's certification agency.\r\n6.The trust enterprise or bank and the SITE are each subsidiaries of the same financial holding company, or are affiliated enterprises.\r\n7.Any other circumstance exists in which the FSC, for the public interest, deems it inappropriate to serve as the custodian institution of a fund.\r\nThe provisions of subparagraph 2 of the preceding paragraph apply mutatis mutandis to the representative or designated representative of a juristic person director or supervisor who executes the duties of the juristic person.\r\n\"Subsidiary\" as used in paragraph 2, subparagraph 6, has the meaning given in Article 4 of the Financial Holding Company Act.\r\nA SITE shall adopt and implement a set of standards governing selection of the custodian institution of a fund."
+		},
+		{
+			"number": 6000,
+			"content": "A custodian institution shall operate in accordance with the Securities Investment Trust and Consulting Act, orders issued pursuant to that Act, and the stipulations of the trust agreement, and shall keep custody of fund assets with the care of a good custodian and exercise its fiduciary duty under the principles of good faith and credit.\r\nNeither a director, supervisor, manager, associated person, nor any other employee of a fund's custodian institution may use information gained through the execution of their duties to carry out securities trading activities, nor may they disclose such information to any third party."
+		},
+		{
+			"number": 6100,
+			"content": "When a fund's custodian institution becomes aware that the SITE has violated the trust agreement or related laws or regulations, it shall immediately request the SITE to perform its obligations under that agreement or under related laws and regulations; where there is a likelihood of injury to the rights and interests of beneficiaries, it shall report the matter to the FSC and copy notification to the Trust Association.\r\nWhen a fund's assets are negatively affected due to the dereliction or negligence of the SITE, the custodian institution shall seek recovery of the assets in the interests of the fund's beneficiaries.\r\nWhen in the performance of its custodial duties, a fund's custodian institution requests the SITE to perform its obligations pursuant to the provisions of paragraph 1, and where the SITE fails to perform those obligations with resulting damage to beneficiaries' interests, then following written notification directing the SITE to rectify the matter within a prescribed time period and subsequent failure of the SITE to comply, the custodian institution may, after applying and receiving permission from the FSC, convene a beneficiaries' meeting to transfer management of the fund to another SITE."
+		},
+		{
+			"number": 6200,
+			"content": "When dereliction or negligence on the part of a fund's custodian institution results in violation of the Securities Investment Trust and Consulting Act, orders issued pursuant to that Act, or the stipulations of the trust agreement, with a resulting negative impact on fund assets, the custodian institution shall bear liability for damages.\r\nThe SITE shall further seek recovery of damages from the custodian institution on behalf of the fund's beneficiaries.\r\nA custodian institution shall bear liability for the dereliction or negligence of an agent, representative, or employee carrying out their obligations pursuant to the stipulations of the trust agreement in the same degree as it would for its own dereliction or negligence.\r\nWhen the dereliction or negligence of a trust enterprise that is concurrently operating securities investment trust business and keeping custody of trust fund assets pursuant to FSC approval results in violation of the Securities Investment Trust and Consulting Act, orders issued pursuant to that Act, or the stipulations of the trust agreement, with a resulting negative impact on fund assets, the trust enterprise shall bear liability for damages.\r\nThe trust supervisor shall seek recovery of damages from the custodian institution on behalf of the fund's beneficiaries.\r\nWhen there is dereliction or negligence on the part of an agent, representative, or employee of the trust enterprise referred to in the preceding paragraph during the performance of their obligations under the trust agreement, the trust enterprise shall bear the same degree of liability as it would for its own dereliction or negligence."
+		},
+		{
+			"number": 6300,
+			"content": "When a custodian institution is unable to continue performing its custodial obligations for a fund due to dissolution, suspension or termination of business or the cancellation or voiding of its business approval, the SITE shall seek another custodian institution to succeed to those custodial obligations, subject to the approval of the FSC.\r\nWhen a SITE is unable to find a successor custodian institution in accordance with the preceding paragraph, another custodian institution will be designated as successor by the FSC; the designated custodian institution may not refuse succession except when, with legitimate reason, it reports to and receives approval from the FSC.\r\nWhen a custodian institution is obviously deficient in performing its custody obligations for a given fund, the FSC may order it to transfer custody of the fund to another FSC-designated custodian institution.\r\nWhen a custodian institution resigns from its custodial obligations for a given fund, requiring that a change to another custodian institution be made by means of consultation with the managing SITE or through a resolution of the beneficiaries' meeting, prior approval for the transfer shall be obtained from the FSC.\r\nThe successions, transfers, or changes referred to in the preceding four paragraphs shall be announced by the SITE.\r\nPrior to a designation or an order from the FSC under paragraph 2 or paragraph 3, consultation with other custodian institutions for the purpose of finding a successor may be undertaken by the Trust Association."
+		},
+		{
+			"number": 6400,
+			"content": "The beneficiary rights of a trust shall be equally divided according to the total number of beneficiary units. The number of beneficiary units represented by each beneficiary certificate shall be as stated on the beneficiary certificate.\r\nA beneficiary may exercise the rights associated with a beneficiary certificate in accordance with the terms and conditions stated on the certificate itself and based on the number of beneficiary units held. The same beneficiary rights shall inhere in any further issues from the fund."
+		},
+		{
+			"number": 6500,
+			"content": "After the date of issuance of certificates of beneficial interest, a SITE shall duly produce and deliver to subscribers certificates of beneficial interest [for subsequent issues] within seven business days from the date upon which the custodian institution has received the full amount of the subscription price.\r\nThe term \"date of issuance of certificates of beneficial interest\" used in the preceding paragraph refers to the date on which the production and initial delivery of certificates of beneficial interest has been completed by a SITE."
+		},
+		{
+			"number": 6600,
+			"content": "Certificates of beneficial interest shall be in bearer form.\r\nPhysical certificates need not be printed for an issue of certificates of beneficial interest, which may be delivered by book entry-transfer.\r\nRules governing the handling of certificates of beneficial interest shall be drafted by the Trust Association and submitted to the FSC for approval."
+		},
+		{
+			"number": 6700,
+			"content": "Where certificates of beneficial interest are held jointly by more than one person, one of the joint owners shall be selected to exercise the associated rights.\r\nWhen the government or a juristic person is a beneficiary, a natural person shall be chosen as a representative for the exercise of associated rights."
+		},
+		{
+			"number": 6800,
+			"content": "Certificates of beneficial interest are freely transferable except where otherwise prohibited by law or regulation.\r\nThe transfer of a beneficiary certificate is accomplished through endorsement and delivery by the original beneficiary, who shall inscribe the full name or title of the transferee on the certificate.\r\nWhere the name or title and the domicile or residence of the transferee referred to in the preceding paragraph is not listed in the SITE's register of beneficiaries, parties to the transfer shall have no recourse against the SITE.\r\nTransfer of a beneficiary certificate by the book-entry or registration method shall take place in accordance with the Regulations Governing Book-Entry Operations for Centrally Deposited Securities."
+		},
+		{
+			"number": 6900,
+			"content": "Except where no physical certificates are printed, certificates of beneficial interest shall be produced by the SITE in a form prescribed by the FSC and bearing the required information, and issued following their signing by the custodian institution.\r\nThe certificates of beneficial interest referred to in the preceding paragraph shall be given serial numbers and shall bear the following information:\r\n1.The fund's name, the total number of beneficiary units, the date of issuance, the period of duration, and whether there may be subsequent issues.\r\n2.The name and address of the SITE and the custodian institution.\r\n3.The name or title of the beneficiary.\r\n4.The number of beneficiary units represented by the particular beneficiary certificate.\r\n5.The method by which the price of subscription to each beneficiary certificate was calculated and the associated fee.\r\n6.The method of calculation of the management fees or custodial fees of the SITE and the custodian institution, and the payment schedules and methods.\r\n7.The procedures for redemption of certificates of beneficial interest and the applicable times and locations; the method of calculation of the redemption price and associated fees; and the time and method of payment of the redemption price by the SITE.\r\n8.The method for calculation and announcement of the net asset value per beneficiary unit.\r\n9.Where there are restrictions on potential transferees of certificates of beneficial interest, the terms of the restrictions and their effect.\r\n10.Other information that shall be specified in accordance with FSC regulations.\r\nFor a trust enterprise that concurrently operates securities investment trust business, has obtained FSC approval for custody of fund assets, and has established a trust supervisor, the name and address of the trust supervisor shall be listed under subparagraph 2 of the preceding paragraph.\r\nExcept where no physical certificates are issued, certificates of beneficial interest shall be certified; the provisions of the Regulations Governing Certification of Corporate Stock and Bond Issues by Public Companies shall apply to their certification mutatis mutandis."
+		},
+		{
+			"number": 7000,
+			"content": "Where the trust agreement stipulates that a beneficiary may request redemption of certificates of beneficial interest, the beneficiary may request redemption in writing or in another manner as stipulated; the SITE may neither refuse redemption nor delay payment of the redemption price, provided that under any of the following circumstances, and with FSC approval, these restrictions shall not apply:\r\n1.Trading has ceased on the TWSE, GTSM, or currency markets for reasons other than a weekend or regular holiday.\r\n2.Normal communications have been interrupted.\r\n3.Restrictions have been placed on exchange transactions.\r\n4.Other exceptional circumstances making it impossible to receive a redemption request or pay the redemption price.\r\nThe redemption price of certificates of beneficial interest may be specified in the securities investment trust contract, and shall be calculated based on the net asset value of the fund on the date of receipt of a redemption request by the SITE or its appointed agent, or the next business day, provided that when the redemption price payable exceeds the assets maintained according to the ratio set by Article 18, calculation of the redemption price may be otherwise stipulated in the trust agreement.\r\nRedemption procedures for ETFs may be carried out as stipulated in the trust agreement without regard for the restrictions of the preceding two paragraphs."
+		},
+		{
+			"number": 7100,
+			"content": "For domestically-invested funds managed by a SITE, the SITE shall pay the redemption price within five business days from the first business day following receipt of a beneficiary's redemption request.\r\nFollowing a beneficiary's request for redemption of certificates of beneficial interest, a SITE shall pay the redemption price within the time period prescribed in the preceding paragraph, and in addition carry out exchange of the certificates within seven days from the first business day following receipt of the request.\r\nWhen any of the following conditions apply with respect to a fund managed by a SITE, payment of the redemption price to a beneficiary requesting redemption will be carried out in accordance with the trust agreement:\r\n1.The fund is offered domestically for investment abroad.\r\n2.The fund is offered overseas for investment domestically.\r\n3.The fund is an ETF.\r\n4.The fund is a fund of funds.\r\n5.The fund is a principal-guaranteed fund.\r\n6.Other conditions approved by the FSC."
+		},
+		{
+			"number": 7200,
+			"content": "A SITE shall calculate the net asset value of a fund it offers each business day. The net asset value of a fund shall be calculated in accordance with laws, regulations, and generally accepted accounting principals.\r\nThe Trust Association shall adopt standards for the calculation of net asset values of funds and for the treatment of any miscalculation, which shall be submitted to the FSC for approval.\r\nThe net asset value of each beneficiary unit shall be calculated by dividing the net asset value of the fund on the date of calculation by the total number of beneficiary units."
+		},
+		{
+			"number": 7300,
+			"content": "A SITE shall on each business day publish the net asset value of each beneficiary unit for the previous business day, provided that publication of such information for funds offered through overseas issues of certificates of beneficial interest shall be governed by the laws and regulations of the place of issuance."
+		},
+		{
+			"number": 7400,
+			"content": "For each of its funds, a SITE shall establish a separate account and produce the account books and statements required by FSC regulations; except where the FSC otherwise provides, the period for which those books and statements shall be preserved and the method of doing so shall be in accordance with the Commercial Accounting Act and related regulations."
+		},
+		{
+			"number": 7500,
+			"content": "The accounting year for a fund, except where otherwise stipulated by the trust agreement or approved by the FSC, shall extend from 1 January to 31 December of any given year."
+		},
+		{
+			"number": 7600,
+			"content": "A SITE shall prepare annual financial reports showing the disposition of each of its funds within two months of the conclusion of the fiscal year, half-year financial reports within 45 days of the conclusion of the second quarter of the fiscal year, and monthly reports within ten days of the conclusion of each month, to be submitted to the FSC in accordance with FSC-prescribed format and content.\r\nThe annual financial reports referred to in the preceding paragraph shall be audited and attested by an FSC-approved CPA, and the half-year financial reports shall be reviewed by the CPA, and both shall be attested by the fund's custodian institution; the SITE shall also announce the financial report.\r\nThe annual, half-year, and monthly financial reports referred to in paragraph 1 shall be delivered to the Trust Association for submission to the FSC."
+		},
+		{
+			"number": 7700,
+			"content": "on fund investments shall be distributed as stipulated in the trust agreement, and except where the FSC provides otherwise, shall be distributed within six months of the end of any given accounting year. The date for distribution of earnings shall be explicitly stated in the trust agreement."
+		},
+		{
+			"number": 7800,
+			"content": "Any amendment to a trust agreement shall be submitted to the FSC for approval; following approval, the SITE shall announce the amendment within two days."
+		},
+		{
+			"number": 7900,
+			"content": "The duration of a fund shall be as stipulated in the fund's trust agreement.\r\nGiven any of the following circumstances, a trust agreement shall be terminated following FSC approval:\r\n1.When the SITE or the fund's custodian institution undergo dissolution or bankruptcy or their business approval is cancelled or voided, or where their management or custody of a fund are obviously deficient and an FSC ordered switch renders them unable to continue to execute their duties, while at the same time no existing SITEs or custodian institutions are suited for succession to the rights and obligation of the original SITE or custodian institution.\r\n2.When a beneficiaries' meeting resolves to switch SITEs or custodian institutions, and there is no other suitable SITE or custodian institution to succeed to the rights and obligations of the original SITE or custodian institution.\r\n3.When the net asset value of a fund drops below the FSC-prescribed standard.\r\n4.When market conditions, the nature or scale of the fund, or other legal or substantive conditions make the fund's continued operation impossible.\r\n5.When the beneficiaries' meeting resolves to terminate the trust agreement.\r\n6.When the beneficiaries' meeting resolves that its SITE or custodian institution is unacceptable, and there is no other suitable SITE or custodian institution to succeed to the rights and obligations of the original SITE or custodian institution.\r\n7.When there are other reasons for termination as stipulated in the trust agreement.\r\nThe FSC may order the termination of a trust agreement when it deems such action warranted to protect the public interest or the rights and interests of beneficiaries.\r\nWhen a trust agreement is terminated because the fund's period of duration has lapsed, such fact shall be reported to the FSC for recordation within two days after the period has lapsed.\r\nA SITE shall announce the termination of a trust agreement within two days of the date on which the termination is reported for recordation or the termination is approved."
+		},
+		{
+			"number": 8000,
+			"content": "When a trust agreement terminates, liquidators shall complete liquidation of the fund within three months of the date on which the FSC approves its liquidation. Liquidators shall make proportional distributions to beneficiaries of the remainder after liquidation, based on the number of beneficiary units held, provided that when for legitimate reasons liquidation cannot be completed within three months, application may be made to the FSC, prior to the lapse of the first three-month period, for a one-time extension of not more than three additional months.\r\nLiquidators shall announce and report to the FSC the methods of liquidation and distribution referred to in the preceding paragraph and notify beneficiaries of the same.\r\nWithin two months of the conclusion of liquidation proceedings, the results shall be filed for recordation with the FSC and notice of same provided to beneficiaries."
+		},
+		{
+			"number": 8100,
+			"content": "The SITE shall act as the liquidator of a fund; when the circumstances under Article 45, paragraph 1, subparagraphs 1 or 2 of the Securities Investment Trust and Consulting Act apply to the SITE, the fund's custodian institution shall act as liquidator. When the circumstances under Article 45, paragraph 1, subparagraphs 1 or 2 of the Securities Investment Trust and Consulting Act also apply to the custodian institution, the beneficiaries' meeting shall pass a resolution selecting another SITE or custodian institution qualified under FSC regulations to act as liquidator.\r\nWhen a fund's trust agreement is terminated because the circumstances under Article 45, paragraph 1, subparagraphs 1 or 2 of the Securities Investment Trust and Consulting Act apply to the fund's custodian institution, the liquidator shall select another custodian institution to execute custodial duties for the fund for the duration of the liquidation period, subject to the prior approval of the FSC.\r\nExcept where otherwise provided by law or in the trust agreement, the rights and obligations of the liquidator and the custodian institution during the duration of the fund shall be the same as those of the original SITE and the original custodian institution."
+		},
+		{
+			"number": 8200,
+			"content": "A liquidator shall preserve all account books and statements for a period of not less than ten years from the date on which it reports conclusion of liquidation proceedings to the FSC."
+		},
+		{
+			"number": 8300,
+			"content": "When a SITE-managed open-ended fund and another open-ended fund managed by the same SITE are both publicly offered funds or both privately placed funds, and when approved by the beneficiaries meeting, the SITE may apply for FSC approval for a merger of the two funds. However, if the merged funds are of the same type, the non-surviving fund had an average net asset value below NT$500 million over the preceding 30 business days, and the trust agreement of the surviving fund has not undergone material amendment, application for FSC approval for merger of the funds may be made without the approval of the beneficiaries meeting.\r\n\"\"'"
+		},
+		{
+			"number": 8400,
+			"content": "A SITE applying for merger of funds shall fill out an application form to be submitted with the following documents:\r\n1.A declaration that the application form and attached documents contain no concealments or misrepresentations.\r\n2.Minutes from the board of directors' meeting at which the merger was deliberated and the merger resolution passed.\r\n3.The minutes of the beneficiaries' meeting (can be omitted if none was convened).\r\n4.The trust agreements and public prospectuses of the merged funds.\r\n5.An estimate of the beneficiary weighted exchange ratio and the source data for the estimate (including the balance sheets for the merged funds on the date of estimation of the conversion ratio and statements of inventory assets).\r\n6.A flow chart for merger of the funds.\r\n7.The purpose of the merger and expected benefits.\r\n8.Data on numbers of beneficiaries and total fund amounts for the merging funds in the seven days prior to the date of application.\r\n9.A consent form from the surviving fund's custodian institution.\r\n10.A consent form from the non-surviving fund's custodian institution (may be omitted when a beneficiaries' meeting was convened).\r\n11.An attorney's opinion on the legality of the merger."
+		},
+		{
+			"number": 8500,
+			"content": "After application for a merger of funds receives FSC approval, the SITE shall immediately make a public announcement of the following matters and notify the beneficiaries of the surviving and non-surviving funds:\r\n1.The date and reference number of the FSC letter of approval.\r\n2.The name of the surviving fund, the fund's manager, and the fund's investment strategy.\r\n3.The name of the non-surviving fund.\r\n4.The purpose of the merger and expected benefits.\r\n5.The record date of the merger.\r\n6.The method of calculating the number of beneficiary certificate units of the non-surviving fund exchanged for those of the surviving fund.\r\n7.A declaration that, from the date of announcement until two days prior to the record date of merger, beneficiaries not consenting to the merger may apply to the SITE for redemption of certificates of beneficial interest.\r\n8.A declaration that, from the day before the record date of merger until the date on which the entire assets of the non-surviving fund have been transferred to the surviving fund, the SITE will cease accepting subscriptions to or redemptions of the non-surviving fund's certificates of beneficial interest.\r\n9.The period, method, and locations for the issuance of new certificates of beneficial interest.\r\n10.Other matters prescribed by FSC regulations.\r\nThe period between the announcement and the record date of merger as referred to in the preceding paragraph may not be less than 15 business days. However, for a merger conducted pursuant to the proviso of Article 83, under which approval of the beneficiaries meeting is not required, the above period may not be less than 30 business days.\r\nThe provisions of paragraph 2 regarding announcement do not apply to privately offered funds."
+		},
+		{
+			"number": 8600,
+			"content": "The SITE shall carry out the transfer of assets from the non-surviving to the surviving fund within two business days from the record date of the merger; the non-surviving fund's assets may not be used in investment transactions from the record date of merger until the transfer of assets is completed.\r\nThe non-surviving fund may be exempt from liquidation.\r\nWhere the non-surviving fund holds centrally custodized securities, the SITE shall authorize the custodian institution to apply to the centralized securities depository enterprise, submitting the letter of approval for the fund merger and other documents required by the centralized depository enterprise regulations, to undertake matters connected with their transfer."
+		},
+		{
+			"number": 8700,
+			"content": "Within five days after completion of merger procedures, the SITE shall report to the FSC for recordation by submitting the following documents:\r\n1.Data on numbers of beneficiaries and fund totals for the non-surviving and surviving funds on the record date of merger, and for the surviving fund after the merger.\r\n2.A CPA opinion confirming accurate calculation of the net asset values for the non-surviving and surviving funds on the record date of merger and for the surviving fund after the merger.\r\n3.Balance sheets and statements of inventory assets for the record date of merger."
+		},
+		{
+			"number": 8800,
+			"content": "The SITE shall itself bear fees incurred in connection with a merger of funds.\r\nDuring the period from the date of public announcement of a merger of funds until 2 days prior to the record date of the merger, the SITE may not collect any fees when beneficiaries apply for redemption or for conversion of other funds managed by the same SITE."
+		},
+		{
+			"number": 8900,
+			"content": "When a merger of funds results in the surviving fund holding securities in excess of the ratios set by the Securities Investment Trust and Consulting Act, the fund may not increase its holding of those securities except as results from the issuance of bonus shares, and shall bring the ratios into compliance with regulations within a two-year period."
+		},
+		{
+			"number": 9000,
+			"content": "The definition of \"a credit rating at or above a prescribed level by an FSC-approved or recognized credit-rating institution,\" as used in Article 14-1, paragraph 1, subparagraph 3 and paragraph 2, Article 15, paragraph 1, subparagraph 4, Article 16, paragraph 1, subparagraph 6, Article 17, subparagraph 3, Article 45, Article 46, Article 48, paragraph 1, subparagraphs 1 and 4, shall be announced by the FSC."
+		},
+		{
+			"number": 9100,
+			"content": "The format of documents required pursuant to these Regulations will be announced by the FSC.\r\nA SITE shall announce the matters required by these Regulations according to the methods of announcement prescribed by the FSC."
+		},
+		{
+			"number": 9200,
+			"content": "These Regulations shall take force from the date of promulgation."
+		}
+	]
+}
