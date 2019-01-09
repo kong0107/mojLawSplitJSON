@@ -22,73 +22,87 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Provisions",
-			"start": 100
+			"start": 100,
+			"end": 3001
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "The Enforcement of Monetary Claims",
-			"start": 3100
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Participation in Distribution",
-			"start": 3100
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "The Enforcement Against Movable Property",
-			"start": 4500
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "The EnforcementAgainst Immovable Property",
-			"start": 7500
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "Enforcement Against Vessels and Aircrafts",
-			"start": 11400
-		},
-		{
-			"type": "section",
-			"number": 500,
-			"title": "Enforcement Against Other  Property Rights",
-			"start": 11500
-		},
-		{
-			"type": "section",
-			"number": 600,
-			"title": "Enforcement Against The Property of Public Juridical Persons",
-			"start": 12201
+			"start": 3100,
+			"end": 12204,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Participation in Distribution",
+					"start": 3100,
+					"end": 4400
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "The Enforcement Against Movable Property",
+					"start": 4500,
+					"end": 7400
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "The EnforcementAgainst Immovable Property",
+					"start": 7500,
+					"end": 11300
+				},
+				{
+					"type": "section",
+					"number": 400,
+					"title": "Enforcement Against Vessels and Aircrafts",
+					"start": 11400,
+					"end": 11404
+				},
+				{
+					"type": "section",
+					"number": 500,
+					"title": "Enforcement Against Other  Property Rights",
+					"start": 11500,
+					"end": 12200
+				},
+				{
+					"type": "section",
+					"number": 600,
+					"title": "Enforcement Against The Property of Public Juridical Persons",
+					"start": 12201,
+					"end": 12204
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Enforcement Pertaining to Claims for the Delivery of Things",
-			"start": 12300
+			"start": 12300,
+			"end": 12600
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Enforcement Pertaining To Claims For Action and No-Action",
-			"start": 12700
+			"start": 12700,
+			"end": 13100
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Enforcement of a Provisional Seizureand Provisional Injunction",
-			"start": 13200
+			"start": 13200,
+			"end": 14000
 		},
 		{
 			"type": "chapter",
 			"number": 600,
 			"title": "Supplementary Provisions",
-			"start": 14100
+			"start": 14100,
+			"end": 14200
 		}
 	],
 	"articles": [

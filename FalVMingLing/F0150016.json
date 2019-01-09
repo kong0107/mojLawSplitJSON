@@ -25,25 +25,29 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 300
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "學力鑑別考試",
-			"start": 400
+			"start": 400,
+			"end": 800
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "報考與錄取",
-			"start": 900
+			"start": 900,
+			"end": 1500
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "就學獎助",
-			"start": 1600
+			"start": 1600,
+			"end": 2100
 		}
 	],
 	"articles": [

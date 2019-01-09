@@ -31,37 +31,43 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 400
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "事業廢棄物之貯存",
-			"start": 500
+			"start": 500,
+			"end": 1200
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "事業廢棄物之清除",
-			"start": 1300
+			"start": 1300,
+			"end": 1800
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "事業廢棄物之中間處理",
-			"start": 1900
+			"start": 1900,
+			"end": 2900
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "事業廢棄物之最終處置",
-			"start": 3000
+			"start": 3000,
+			"end": 4100
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "附則",
-			"start": 4200
+			"start": 4200,
+			"end": 4600
 		}
 	],
 	"articles": [

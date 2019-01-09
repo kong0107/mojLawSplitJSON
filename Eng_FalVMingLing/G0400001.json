@@ -35,133 +35,161 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Principles",
-			"start": 100
+			"start": 100,
+			"end": 2101
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "The Offering, Issuing, Private Placement, and Trading of Securities",
-			"start": 2200
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "The Offering, Issuing, and Trading of Securities",
-			"start": 2200
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Purchase of Securities",
-			"start": 4301
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Private Placement and Trading of Securities",
-			"start": 4306
+			"start": 2200,
+			"end": 4308,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "The Offering, Issuing, and Trading of Securities",
+					"start": 2200,
+					"end": 4300
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Purchase of Securities",
+					"start": 4301,
+					"end": 4305
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Private Placement and Trading of Securities",
+					"start": 4306,
+					"end": 4308
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Securities Firms",
-			"start": 4400
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "General Provisions",
-			"start": 4400
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Securities Underwriting",
-			"start": 7100
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Securities Dealers",
-			"start": 8300
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "Securities Brokers",
-			"start": 8500
+			"start": 4400,
+			"end": 8800,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "General Provisions",
+					"start": 4400,
+					"end": 7000
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Securities Underwriting",
+					"start": 7100,
+					"end": 8200
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Securities Dealers",
+					"start": 8300,
+					"end": 8400
+				},
+				{
+					"type": "section",
+					"number": 400,
+					"title": "Securities Brokers",
+					"start": 8500,
+					"end": 8800
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Securities Dealers Association",
-			"start": 8900
+			"start": 8900,
+			"end": 9200
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Stock Exchange",
-			"start": 9300
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "General Provisions",
-			"start": 9300
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Membership Stock Exchange",
-			"start": 10300
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Company-Type Stock Exchange",
-			"start": 12400
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "Listing and Trading of Securities",
-			"start": 13800
-		},
-		{
-			"type": "section",
-			"number": 500,
-			"title": "Securities Brokerage Transactions",
-			"start": 15800
-		},
-		{
-			"type": "section",
-			"number": 600,
-			"title": "Supervision",
-			"start": 16100
+			"start": 9300,
+			"end": 16500,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "General Provisions",
+					"start": 9300,
+					"end": 10200
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Membership Stock Exchange",
+					"start": 10300,
+					"end": 12300
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Company-Type Stock Exchange",
+					"start": 12400,
+					"end": 13700
+				},
+				{
+					"type": "section",
+					"number": 400,
+					"title": "Listing and Trading of Securities",
+					"start": 13800,
+					"end": 15701
+				},
+				{
+					"type": "section",
+					"number": 500,
+					"title": "Securities Brokerage Transactions",
+					"start": 15800,
+					"end": 16000
+				},
+				{
+					"type": "section",
+					"number": 600,
+					"title": "Supervision",
+					"start": 16100,
+					"end": 16500
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 501,
 			"title": "Foreign companies",
-			"start": 16501
+			"start": 16501,
+			"end": 16503
 		},
 		{
 			"type": "chapter",
 			"number": 600,
 			"title": "Arbitration",
-			"start": 16600
+			"start": 16600,
+			"end": 17000
 		},
 		{
 			"type": "chapter",
 			"number": 700,
 			"title": "Penal Provisions",
-			"start": 17100
+			"start": 17100,
+			"end": 18001
 		},
 		{
 			"type": "chapter",
 			"number": 800,
 			"title": "Supplementary Provisions",
-			"start": 18100
+			"start": 18100,
+			"end": 18300
 		}
 	],
 	"articles": [

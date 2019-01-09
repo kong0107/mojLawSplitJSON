@@ -21,31 +21,36 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 1000
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "損害賠償責任",
-			"start": 1100
+			"start": 1100,
+			"end": 2300
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "賠償責任限額及保證",
-			"start": 2400
+			"start": 2400,
+			"end": 2700
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "損害賠償請求權",
-			"start": 2800
+			"start": 2800,
+			"end": 3100
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "附則",
-			"start": 3200
+			"start": 3200,
+			"end": 3700
 		}
 	],
 	"articles": [

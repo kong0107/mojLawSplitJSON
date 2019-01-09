@@ -35,271 +35,328 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 1001
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "第壹等級防火構造",
-			"start": 1100
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "船體構造",
-			"start": 1100
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "防火區及主垂直區內之艙壁",
-			"start": 1300
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "艙壁及甲板抗火完整性",
-			"start": 1600
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "逃生方法",
-			"start": 1800
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "起居艙及服務空間內梯道及昇降機之",
-			"start": 2300
-		},
-		{
-			"type": "節",
-			"number": 600,
-			"title": "隔艙上之開口",
-			"start": 2700
-		},
-		{
-			"type": "節",
-			"number": 700,
-			"title": "通風及採光系統",
-			"start": 2900
-		},
-		{
-			"type": "節",
-			"number": 800,
-			"title": "可燃材料使用之限制及構造之細目",
-			"start": 3100
-		},
-		{
-			"type": "節",
-			"number": 900,
-			"title": "特種空間等之保護",
-			"start": 4000
-		},
-		{
-			"type": "節",
-			"number": 1000,
-			"title": "機艙空間特殊裝置",
-			"start": 4300
-		},
-		{
-			"type": "節",
-			"number": 1100,
-			"title": "易燃油料等之佈置",
-			"start": 4400
+			"start": 1100,
+			"end": 4900,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "船體構造",
+					"start": 1100,
+					"end": 1200
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "防火區及主垂直區內之艙壁",
+					"start": 1300,
+					"end": 1500
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "艙壁及甲板抗火完整性",
+					"start": 1600,
+					"end": 1700
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "逃生方法",
+					"start": 1800,
+					"end": 2200
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "起居艙及服務空間內梯道及昇降機之",
+					"start": 2300,
+					"end": 2600
+				},
+				{
+					"type": "節",
+					"number": 600,
+					"title": "隔艙上之開口",
+					"start": 2700,
+					"end": 2800
+				},
+				{
+					"type": "節",
+					"number": 700,
+					"title": "通風及採光系統",
+					"start": 2900,
+					"end": 3000
+				},
+				{
+					"type": "節",
+					"number": 800,
+					"title": "可燃材料使用之限制及構造之細目",
+					"start": 3100,
+					"end": 3900
+				},
+				{
+					"type": "節",
+					"number": 900,
+					"title": "特種空間等之保護",
+					"start": 4000,
+					"end": 4200
+				},
+				{
+					"type": "節",
+					"number": 1000,
+					"title": "機艙空間特殊裝置",
+					"start": 4300,
+					"end": 4300
+				},
+				{
+					"type": "節",
+					"number": 1100,
+					"title": "易燃油料等之佈置",
+					"start": 4400,
+					"end": 4900
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "第貳等級防火構造",
-			"start": 5000
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "船體構造",
-			"start": 5000
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "防火區及起居艙與服務空間內艙壁",
-			"start": 5100
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "艙壁及由板抗火完整性",
-			"start": 5400
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "逃生方法、起居艙及服務空間內梯道",
-			"start": 5700
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "隔艙上之開口",
-			"start": 5900
-		},
-		{
-			"type": "節",
-			"number": 600,
-			"title": "通風及採光系統",
-			"start": 6000
-		},
-		{
-			"type": "節",
-			"number": 700,
-			"title": "特種空間之保護",
-			"start": 6400
-		},
-		{
-			"type": "節",
-			"number": 800,
-			"title": "機艙空間之特殊裝置及易燃油料等之",
-			"start": 6500
+			"start": 5000,
+			"end": 6500,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "船體構造",
+					"start": 5000,
+					"end": 5000
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "防火區及起居艙與服務空間內艙壁",
+					"start": 5100,
+					"end": 5300
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "艙壁及由板抗火完整性",
+					"start": 5400,
+					"end": 5600
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "逃生方法、起居艙及服務空間內梯道",
+					"start": 5700,
+					"end": 5800
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "隔艙上之開口",
+					"start": 5900,
+					"end": 5900
+				},
+				{
+					"type": "節",
+					"number": 600,
+					"title": "通風及採光系統",
+					"start": 6000,
+					"end": 6300
+				},
+				{
+					"type": "節",
+					"number": 700,
+					"title": "特種空間之保護",
+					"start": 6400,
+					"end": 6400
+				},
+				{
+					"type": "節",
+					"number": 800,
+					"title": "機艙空間之特殊裝置及易燃油料等之",
+					"start": 6500,
+					"end": 6500
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "第三等級防火構造",
-			"start": 6600
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "船體構造",
-			"start": 6600
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "逃生方法及通風系統",
-			"start": 7600
+			"start": 6600,
+			"end": 7800,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "船體構造",
+					"start": 6600,
+					"end": 7500
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "逃生方法及通風系統",
+					"start": 7600,
+					"end": 7800
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "第肆等級防火構造",
-			"start": 7900
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "船體構造、起居艙與服務空間內之艙",
-			"start": 7900
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "艙壁與甲板之抗火完整性",
-			"start": 8500
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "逃生方法、起居艙空間服務空間及控",
-			"start": 8800
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "通風系統及阻火隔艙上之門",
-			"start": 9400
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "可燃材料使用之限制及構造之細目",
-			"start": 9800
-		},
-		{
-			"type": "節",
-			"number": 600,
-			"title": "駛上駕下貨艙空間之保護",
-			"start": 10100
-		},
-		{
-			"type": "節",
-			"number": 700,
-			"title": "機艙空間之特殊裝置及易燃油料等之",
-			"start": 10200
+			"start": 7900,
+			"end": 10200,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "船體構造、起居艙與服務空間內之艙",
+					"start": 7900,
+					"end": 8400
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "艙壁與甲板之抗火完整性",
+					"start": 8500,
+					"end": 8700
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "逃生方法、起居艙空間服務空間及控",
+					"start": 8800,
+					"end": 9300
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "通風系統及阻火隔艙上之門",
+					"start": 9400,
+					"end": 9700
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "可燃材料使用之限制及構造之細目",
+					"start": 9800,
+					"end": 10000
+				},
+				{
+					"type": "節",
+					"number": 600,
+					"title": "駛上駕下貨艙空間之保護",
+					"start": 10100,
+					"end": 10100
+				},
+				{
+					"type": "節",
+					"number": 700,
+					"title": "機艙空間之特殊裝置及易燃油料等之",
+					"start": 10200,
+					"end": 10200
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "第伍等級防火構造",
-			"start": 10300
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "船體構造、起居艙空間與服務空間之",
-			"start": 10300
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "艙壁與甲板之抗火完整性",
-			"start": 10400
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "通氣、驅氣通風",
-			"start": 10800
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "空間之位置與分隔",
-			"start": 11100
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "其他",
-			"start": 11500
+			"start": 10300,
+			"end": 11600,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "船體構造、起居艙空間與服務空間之",
+					"start": 10300,
+					"end": 10300
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "艙壁與甲板之抗火完整性",
+					"start": 10400,
+					"end": 10700
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "通氣、驅氣通風",
+					"start": 10800,
+					"end": 11000
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "空間之位置與分隔",
+					"start": 11100,
+					"end": 11400
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "其他",
+					"start": 11500,
+					"end": 11600
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 700,
 			"title": "第陸等級船舶防火構造",
-			"start": 11700
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "船體構造",
-			"start": 11700
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "逃生方法",
-			"start": 12500
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "機艙空間之特殊佈置",
-			"start": 12700
+			"start": 11700,
+			"end": 12900,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "船體構造",
+					"start": 11700,
+					"end": 12400
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "逃生方法",
+					"start": 12500,
+					"end": 12600
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "機艙空間之特殊佈置",
+					"start": 12700,
+					"end": 12900
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 701,
 			"title": "第柒等級船舶防火構造",
-			"start": 12901
+			"start": 12901,
+			"end": 12903
 		},
 		{
 			"type": "章",
 			"number": 800,
 			"title": "附則",
-			"start": 13000
+			"start": 13000,
+			"end": 13000
 		}
 	],
 	"articles": [

@@ -27,73 +27,87 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Provisions",
-			"start": 100
+			"start": 100,
+			"end": 1700
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Trademark",
-			"start": 1800
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Application for Registration",
-			"start": 1800
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Examination and Acceptance",
-			"start": 2900
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Trademark Rights",
-			"start": 3300
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "Opposition",
-			"start": 4800
-		},
-		{
-			"type": "section",
-			"number": 500,
-			"title": "Invalidation",
-			"start": 5700
-		},
-		{
-			"type": "section",
-			"number": 600,
-			"title": "Revocation",
-			"start": 6300
-		},
-		{
-			"type": "section",
-			"number": 700,
-			"title": "Infringement Remedies",
-			"start": 6800
+			"start": 1800,
+			"end": 7900,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Application for Registration",
+					"start": 1800,
+					"end": 2800
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Examination and Acceptance",
+					"start": 2900,
+					"end": 3200
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Trademark Rights",
+					"start": 3300,
+					"end": 4700
+				},
+				{
+					"type": "section",
+					"number": 400,
+					"title": "Opposition",
+					"start": 4800,
+					"end": 5600
+				},
+				{
+					"type": "section",
+					"number": 500,
+					"title": "Invalidation",
+					"start": 5700,
+					"end": 6200
+				},
+				{
+					"type": "section",
+					"number": 600,
+					"title": "Revocation",
+					"start": 6300,
+					"end": 6700
+				},
+				{
+					"type": "section",
+					"number": 700,
+					"title": "Infringement Remedies",
+					"start": 6800,
+					"end": 7900
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Certification Mark, Collective Mark and Collective Trademark",
-			"start": 8000
+			"start": 8000,
+			"end": 9400
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Penal Provisions",
-			"start": 9500
+			"start": 9500,
+			"end": 9900
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Supplementary Provisions",
-			"start": 10000
+			"start": 10000,
+			"end": 11100
 		}
 	],
 	"articles": [

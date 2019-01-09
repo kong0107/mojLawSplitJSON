@@ -31,115 +31,138 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Principles",
-			"start": 100
+			"start": 100,
+			"end": 400
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Works",
-			"start": 500
+			"start": 500,
+			"end": 900
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Authors and Copyright",
-			"start": 1000
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "General Provisions",
-			"start": 1000
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Authors",
-			"start": 1100
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Moral Rights",
-			"start": 1500
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "Economic Rights",
-			"start": 2200
-		},
-		{
-			"type": "subsection",
-			"number": 100,
-			"title": "Categories of Economic Rights",
-			"start": 2200
-		},
-		{
-			"type": "subsection",
-			"number": 200,
-			"title": "Term of Protection for Economic Rights",
-			"start": 3000
-		},
-		{
-			"type": "subsection",
-			"number": 300,
-			"title": "Transfer, Exercise, and Extinguishment of Economic Rights",
-			"start": 3600
-		},
-		{
-			"type": "subsection",
-			"number": 400,
-			"title": "Limitations on Economic Rights",
-			"start": 4400
-		},
-		{
-			"type": "subsection",
-			"number": 500,
-			"title": "Compulsory Licensing",
-			"start": 6700
+			"start": 1000,
+			"end": 7800,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "General Provisions",
+					"start": 1000,
+					"end": 1001
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Authors",
+					"start": 1100,
+					"end": 1400
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Moral Rights",
+					"start": 1500,
+					"end": 2100
+				},
+				{
+					"type": "section",
+					"number": 400,
+					"title": "Economic Rights",
+					"start": 2200,
+					"end": 7800,
+					"children": [
+						{
+							"type": "subsection",
+							"number": 100,
+							"title": "Categories of Economic Rights",
+							"start": 2200,
+							"end": 2901
+						},
+						{
+							"type": "subsection",
+							"number": 200,
+							"title": "Term of Protection for Economic Rights",
+							"start": 3000,
+							"end": 3500
+						},
+						{
+							"type": "subsection",
+							"number": 300,
+							"title": "Transfer, Exercise, and Extinguishment of Economic Rights",
+							"start": 3600,
+							"end": 4300
+						},
+						{
+							"type": "subsection",
+							"number": 400,
+							"title": "Limitations on Economic Rights",
+							"start": 4400,
+							"end": 6600
+						},
+						{
+							"type": "subsection",
+							"number": 500,
+							"title": "Compulsory Licensing",
+							"start": 6700,
+							"end": 7800
+						}
+					]
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Plate Rights",
-			"start": 7900
+			"start": 7900,
+			"end": 8000
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "bis Electronic Rights Management Information and Technological Protection Measures",
-			"start": 8001
+			"start": 8001,
+			"end": 8002
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Copyright Collective Management Organizations and Copyright Review and Mediation Committees",
-			"start": 8100
+			"start": 8100,
+			"end": 8300
 		},
 		{
 			"type": "chapter",
 			"number": 600,
 			"title": "Remedies for Infringement of Rights",
-			"start": 8400
+			"start": 8400,
+			"end": 9003
 		},
 		{
 			"type": "chapter",
 			"number": 601,
 			"title": "Limitations on Liability for Internet Service Providers",
-			"start": 9004
+			"start": 9004,
+			"end": 9012
 		},
 		{
 			"type": "chapter",
 			"number": 700,
 			"title": "Penal Provisions",
-			"start": 9100
+			"start": 9100,
+			"end": 10400
 		},
 		{
 			"type": "chapter",
 			"number": 800,
 			"title": "Supplementary Provisions",
-			"start": 10500
+			"start": 10500,
+			"end": 11700
 		}
 	],
 	"articles": [

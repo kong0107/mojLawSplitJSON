@@ -13,79 +13,94 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 1800
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "船體",
-			"start": 1900
+			"start": 1900,
+			"end": 2300
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "主機、副機及艉軸系",
-			"start": 2400
+			"start": 2400,
+			"end": 2900
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "電機",
-			"start": 3000
+			"start": 3000,
+			"end": 4000
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "設備",
-			"start": 4100
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "一般規定",
-			"start": 4100
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "排水設備",
-			"start": 4400
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "舵機、錨機及繫泊設備",
-			"start": 4600
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "救生設備",
-			"start": 4900
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "消防設備及防火措施",
-			"start": 5100
-		},
-		{
-			"type": "節",
-			"number": 600,
-			"title": "起居、逃生設備、航海用具及其他附屬用具",
-			"start": 5400
+			"start": 4100,
+			"end": 5700,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "一般規定",
+					"start": 4100,
+					"end": 4300
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "排水設備",
+					"start": 4400,
+					"end": 4500
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "舵機、錨機及繫泊設備",
+					"start": 4600,
+					"end": 4800
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "救生設備",
+					"start": 4900,
+					"end": 5000
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "消防設備及防火措施",
+					"start": 5100,
+					"end": 5300
+				},
+				{
+					"type": "節",
+					"number": 600,
+					"title": "起居、逃生設備、航海用具及其他附屬用具",
+					"start": 5400,
+					"end": 5700
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "丈量",
-			"start": 5800
+			"start": 5800,
+			"end": 6500
 		},
 		{
 			"type": "章",
 			"number": 700,
 			"title": "附則",
-			"start": 6600
+			"start": 6600,
+			"end": 6700
 		}
 	],
 	"articles": [

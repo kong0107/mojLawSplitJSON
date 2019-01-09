@@ -28,67 +28,82 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 700
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "境外基金之總代理人及銷售機構",
-			"start": 800
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "總代理人",
-			"start": 800
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "銷售機構",
-			"start": 1800
+			"start": 800,
+			"end": 2200,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "總代理人",
+					"start": 800,
+					"end": 1700
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "銷售機構",
+					"start": 1800,
+					"end": 2200
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "境外基金之募集與銷售",
-			"start": 2300
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "資格條件",
-			"start": 2300
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "申請 (報) 之程序",
-			"start": 2700
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "交易憑證或對帳單之交付",
-			"start": 4700
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "廣告及促銷",
-			"start": 5000
+			"start": 2300,
+			"end": 5100,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "資格條件",
+					"start": 2300,
+					"end": 2601
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "申請 (報) 之程序",
+					"start": 2700,
+					"end": 4600
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "交易憑證或對帳單之交付",
+					"start": 4700,
+					"end": 4900
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "廣告及促銷",
+					"start": 5000,
+					"end": 5100
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "境外基金之私募",
-			"start": 5200
+			"start": 5200,
+			"end": 5400
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "附則",
-			"start": 5500
+			"start": 5500,
+			"end": 5900
 		}
 	],
 	"articles": [

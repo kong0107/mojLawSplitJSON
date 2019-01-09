@@ -15,169 +15,205 @@
 			"type": "part",
 			"number": 100,
 			"title": "General Provisions",
-			"start": 100
+			"start": 100,
+			"end": 200
 		},
 		{
 			"type": "part",
 			"number": 200,
 			"title": "Good Manufacturing Practices for Pharmaceuticals",
-			"start": 300
-		},
-		{
-			"type": "chapter",
-			"number": 100,
-			"title": "Good Manufacturing Practices for Western Pharmaceuticals",
-			"start": 300
-		},
-		{
-			"type": "chapter",
-			"number": 200,
-			"title": "Good Manufacturing Practices for Chinese Herbal Medicines",
-			"start": 400
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "General Provisions",
-			"start": 400
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Environmental Sanitation",
-			"start": 700
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "FactoryBuildings and Facilities",
-			"start": 800
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "Facilities",
-			"start": 1500
-		},
-		{
-			"type": "section",
-			"number": 500,
-			"title": "Organization and Personnel",
-			"start": 2200
-		},
-		{
-			"type": "section",
-			"number": 600,
-			"title": "Management of Raw Materials and Product Containers and Caps",
-			"start": 2600
-		},
-		{
-			"type": "section",
-			"number": 700,
-			"title": "Manufacturing Process Control",
-			"start": 3000
-		},
-		{
-			"type": "section",
-			"number": 800,
-			"title": "Management of Packaging and Labeling",
-			"start": 3600
-		},
-		{
-			"type": "section",
-			"number": 900,
-			"title": "Storage, Shipping and Sales",
-			"start": 4000
-		},
-		{
-			"type": "section",
-			"number": 1000,
-			"title": "Quality Control",
-			"start": 4200
-		},
-		{
-			"type": "section",
-			"number": 1100,
-			"title": "Records and Reports",
-			"start": 4500
-		},
-		{
-			"type": "section",
-			"number": 1200,
-			"title": "Handling of Complaints and Returned Products",
-			"start": 5200
-		},
-		{
-			"type": "section",
-			"number": 1300,
-			"title": "Pharmaceuticals for Use in Clinical Trials",
-			"start": 5400
+			"start": 300,
+			"end": 5900,
+			"children": [
+				{
+					"type": "chapter",
+					"number": 100,
+					"title": "Good Manufacturing Practices for Western Pharmaceuticals",
+					"start": 300,
+					"end": 300
+				},
+				{
+					"type": "chapter",
+					"number": 200,
+					"title": "Good Manufacturing Practices for Chinese Herbal Medicines",
+					"start": 400,
+					"end": 5900,
+					"children": [
+						{
+							"type": "section",
+							"number": 100,
+							"title": "General Provisions",
+							"start": 400,
+							"end": 600
+						},
+						{
+							"type": "section",
+							"number": 200,
+							"title": "Environmental Sanitation",
+							"start": 700,
+							"end": 700
+						},
+						{
+							"type": "section",
+							"number": 300,
+							"title": "FactoryBuildings and Facilities",
+							"start": 800,
+							"end": 1400
+						},
+						{
+							"type": "section",
+							"number": 400,
+							"title": "Facilities",
+							"start": 1500,
+							"end": 2100
+						},
+						{
+							"type": "section",
+							"number": 500,
+							"title": "Organization and Personnel",
+							"start": 2200,
+							"end": 2500
+						},
+						{
+							"type": "section",
+							"number": 600,
+							"title": "Management of Raw Materials and Product Containers and Caps",
+							"start": 2600,
+							"end": 2900
+						},
+						{
+							"type": "section",
+							"number": 700,
+							"title": "Manufacturing Process Control",
+							"start": 3000,
+							"end": 3500
+						},
+						{
+							"type": "section",
+							"number": 800,
+							"title": "Management of Packaging and Labeling",
+							"start": 3600,
+							"end": 3900
+						},
+						{
+							"type": "section",
+							"number": 900,
+							"title": "Storage, Shipping and Sales",
+							"start": 4000,
+							"end": 4100
+						},
+						{
+							"type": "section",
+							"number": 1000,
+							"title": "Quality Control",
+							"start": 4200,
+							"end": 4400
+						},
+						{
+							"type": "section",
+							"number": 1100,
+							"title": "Records and Reports",
+							"start": 4500,
+							"end": 5100
+						},
+						{
+							"type": "section",
+							"number": 1200,
+							"title": "Handling of Complaints and Returned Products",
+							"start": 5200,
+							"end": 5300
+						},
+						{
+							"type": "section",
+							"number": 1300,
+							"title": "Pharmaceuticals for Use in Clinical Trials",
+							"start": 5400,
+							"end": 5900
+						}
+					]
+				}
+			]
 		},
 		{
 			"type": "part",
 			"number": 300,
 			"title": "Good Manufacturing Practices for Medical Devices",
-			"start": 6000
-		},
-		{
-			"type": "chapter",
-			"number": 100,
-			"title": "General Provisions",
-			"start": 6000
-		},
-		{
-			"type": "chapter",
-			"number": 200,
-			"title": "Standard Mode",
-			"start": 6300
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Quality Management System",
-			"start": 6300
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Management Responsibility",
-			"start": 6800
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Resource Management",
-			"start": 7900
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "Product Realization",
-			"start": 8400
-		},
-		{
-			"type": "section",
-			"number": 500,
-			"title": "Measurement, Analysis and Improvement",
-			"start": 11300
-		},
-		{
-			"type": "chapter",
-			"number": 300,
-			"title": "Essential Mode",
-			"start": 12400
-		},
-		{
-			"type": "chapter",
-			"number": 400,
-			"title": "Medical Devices for Use in Clinical Trials",
-			"start": 14000
+			"start": 6000,
+			"end": 14500,
+			"children": [
+				{
+					"type": "chapter",
+					"number": 100,
+					"title": "General Provisions",
+					"start": 6000,
+					"end": 6200
+				},
+				{
+					"type": "chapter",
+					"number": 200,
+					"title": "Standard Mode",
+					"start": 6300,
+					"end": 12300,
+					"children": [
+						{
+							"type": "section",
+							"number": 100,
+							"title": "Quality Management System",
+							"start": 6300,
+							"end": 6700
+						},
+						{
+							"type": "section",
+							"number": 200,
+							"title": "Management Responsibility",
+							"start": 6800,
+							"end": 7800
+						},
+						{
+							"type": "section",
+							"number": 300,
+							"title": "Resource Management",
+							"start": 7900,
+							"end": 8300
+						},
+						{
+							"type": "section",
+							"number": 400,
+							"title": "Product Realization",
+							"start": 8400,
+							"end": 11200
+						},
+						{
+							"type": "section",
+							"number": 500,
+							"title": "Measurement, Analysis and Improvement",
+							"start": 11300,
+							"end": 12300
+						}
+					]
+				},
+				{
+					"type": "chapter",
+					"number": 300,
+					"title": "Essential Mode",
+					"start": 12400,
+					"end": 13900
+				},
+				{
+					"type": "chapter",
+					"number": 400,
+					"title": "Medical Devices for Use in Clinical Trials",
+					"start": 14000,
+					"end": 14500
+				}
+			]
 		},
 		{
 			"type": "part",
 			"number": 400,
 			"title": "Supplementary Provisions",
-			"start": 14600
+			"start": 14600,
+			"end": 14600
 		}
 	],
 	"articles": [

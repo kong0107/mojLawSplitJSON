@@ -31,25 +31,29 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 800
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "戶籍登記",
-			"start": 900
+			"start": 900,
+			"end": 2200
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "戶口調查及統計",
-			"start": 2300
+			"start": 2300,
+			"end": 3400
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "附則",
-			"start": 3500
+			"start": 3500,
+			"end": 3600
 		}
 	],
 	"articles": [

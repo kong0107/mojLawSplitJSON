@@ -13,55 +13,64 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 300
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "檢查",
-			"start": 400
+			"start": 400,
+			"end": 1400
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "丈量",
-			"start": 1500
+			"start": 1500,
+			"end": 1800
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "設備",
-			"start": 1900
+			"start": 1900,
+			"end": 3100
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "乘員定額",
-			"start": 3200
+			"start": 3200,
+			"end": 3300
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "船齡年限",
-			"start": 3400
+			"start": 3400,
+			"end": 3800
 		},
 		{
 			"type": "章",
 			"number": 700,
 			"title": "登記與註冊",
-			"start": 3900
+			"start": 3900,
+			"end": 4500
 		},
 		{
 			"type": "章",
 			"number": 800,
 			"title": "規費與保險",
-			"start": 4600
+			"start": 4600,
+			"end": 4700
 		},
 		{
 			"type": "章",
 			"number": 900,
 			"title": "附則",
-			"start": 4800
+			"start": 4800,
+			"end": 4900
 		}
 	],
 	"articles": [

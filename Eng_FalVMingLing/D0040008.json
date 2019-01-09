@@ -15,37 +15,43 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Articles",
-			"start": 100
+			"start": 100,
+			"end": 300
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Administration Authorities",
-			"start": 400
+			"start": 400,
+			"end": 600
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Favors for Active Servicemen & their Dependants",
-			"start": 700
+			"start": 700,
+			"end": 2900
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Favors for Reservists",
-			"start": 3000
+			"start": 3000,
+			"end": 3800
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Termination of Favors",
-			"start": 3900
+			"start": 3900,
+			"end": 4100
 		},
 		{
 			"type": "chapter",
 			"number": 600,
 			"title": "Special Articles",
-			"start": 4200
+			"start": 4200,
+			"end": 4500
 		}
 	],
 	"articles": [

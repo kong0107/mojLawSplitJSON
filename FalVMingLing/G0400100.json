@@ -29,103 +29,126 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 600
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "期貨交易所",
-			"start": 700
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "通則",
-			"start": 700
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "會員制期貨交易所",
-			"start": 2100
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "公司制期貨交易所",
-			"start": 3400
+			"start": 700,
+			"end": 4400,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "通則",
+					"start": 700,
+					"end": 2000
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "會員制期貨交易所",
+					"start": 2100,
+					"end": 3300
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "公司制期貨交易所",
+					"start": 3400,
+					"end": 4400
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "期貨結算機構",
-			"start": 4500
+			"start": 4500,
+			"end": 5500
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "期貨業",
-			"start": 5600
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "期貨商",
-			"start": 5600
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "槓桿交易商",
-			"start": 8000
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "期貨服務事業",
-			"start": 8200
+			"start": 5600,
+			"end": 8800,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "期貨商",
+					"start": 5600,
+					"end": 7900
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "槓桿交易商",
+					"start": 8000,
+					"end": 8100
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "期貨服務事業",
+					"start": 8200,
+					"end": 8800
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "同業公會",
-			"start": 8900
+			"start": 8900,
+			"end": 9400
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "監督與管理",
-			"start": 9500
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "監督",
-			"start": 9500
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "管理",
-			"start": 10400
+			"start": 9500,
+			"end": 10800,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "監督",
+					"start": 9500,
+					"end": 10300
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "管理",
+					"start": 10400,
+					"end": 10800
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 700,
 			"title": "仲裁",
-			"start": 10900
+			"start": 10900,
+			"end": 11100
 		},
 		{
 			"type": "章",
 			"number": 800,
 			"title": "罰則",
-			"start": 11200
+			"start": 11200,
+			"end": 12000
 		},
 		{
 			"type": "章",
 			"number": 900,
 			"title": "附則",
-			"start": 12100
+			"start": 12100,
+			"end": 12500
 		}
 	],
 	"articles": [

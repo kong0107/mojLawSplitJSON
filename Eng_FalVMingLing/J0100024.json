@@ -16,31 +16,36 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General",
-			"start": 100
+			"start": 100,
+			"end": 200
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Registration for Inspection of Commodities for Domestic Sale",
-			"start": 300
+			"start": 300,
+			"end": 600
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Application for Inspection",
-			"start": 700
+			"start": 700,
+			"end": 1300
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Issuance of Inspection Certificates",
-			"start": 1400
+			"start": 1400,
+			"end": 2100
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Other",
-			"start": 2200
+			"start": 2200,
+			"end": 2300
 		}
 	],
 	"articles": [

@@ -21,91 +21,108 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Principles",
-			"start": 100
+			"start": 100,
+			"end": 800
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Financial Reports",
-			"start": 900
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Balance Sheet",
-			"start": 900
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Statement of Comprehensive Income",
-			"start": 1200
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Statement of Changes in Equity",
-			"start": 1300
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "Statement of Cash Flows",
-			"start": 1400
-		},
-		{
-			"type": "section",
-			"number": 500,
-			"title": "Notes",
-			"start": 1500
-		},
-		{
-			"type": "section",
-			"number": 600,
-			"title": "Titles of Financial Statements and Statements of Major Accounting Items",
-			"start": 1900
+			"start": 900,
+			"end": 1900,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Balance Sheet",
+					"start": 900,
+					"end": 1100
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Statement of Comprehensive Income",
+					"start": 1200,
+					"end": 1200
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Statement of Changes in Equity",
+					"start": 1300,
+					"end": 1300
+				},
+				{
+					"type": "section",
+					"number": 400,
+					"title": "Statement of Cash Flows",
+					"start": 1400,
+					"end": 1400
+				},
+				{
+					"type": "section",
+					"number": 500,
+					"title": "Notes",
+					"start": 1500,
+					"end": 1800
+				},
+				{
+					"type": "section",
+					"number": 600,
+					"title": "Titles of Financial Statements and Statements of Major Accounting Items",
+					"start": 1900,
+					"end": 1900
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Additional Disclosures",
-			"start": 2000
+			"start": 2000,
+			"end": 2500
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Interim Financial Reports",
-			"start": 2600
+			"start": 2600,
+			"end": 2600
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Parent Company Only Financial Reports",
-			"start": 2700
+			"start": 2700,
+			"end": 2900
 		},
 		{
 			"type": "chapter",
 			"number": 600,
 			"title": "Consolidated Financial Statements and Business Combination",
-			"start": 3000
+			"start": 3000,
+			"end": 3002
 		},
 		{
 			"type": "chapter",
 			"number": 700,
 			"title": "First-time Adoption (Deleted)",
-			"start": 3100
+			"start": 3100,
+			"end": 3300
 		},
 		{
 			"type": "chapter",
 			"number": 800,
 			"title": "Joint Arrangements",
-			"start": 3400
+			"start": 3400,
+			"end": 3400
 		},
 		{
 			"type": "chapter",
 			"number": 900,
 			"title": "Supplementary Provisions",
-			"start": 3500
+			"start": 3500,
+			"end": 3900
 		}
 	],
 	"articles": [

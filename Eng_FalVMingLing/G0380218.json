@@ -19,55 +19,66 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Principles",
-			"start": 100
+			"start": 100,
+			"end": 501
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "The Design and Execution of Internal Control System",
-			"start": 600
+			"start": 600,
+			"end": 800
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "The inspection of internal control system",
-			"start": 900
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Internal audit",
-			"start": 900
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "The Examination of self-inspection and Statement for Internal Control System",
-			"start": 2500
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "The Audit of a Banking Business by an Accountant",
-			"start": 2800
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "legal compliance System",
-			"start": 3200
-		},
-		{
-			"type": "section",
-			"number": 500,
-			"title": "Risk Management Mechanism",
-			"start": 3500
+			"start": 900,
+			"end": 3801,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Internal audit",
+					"start": 900,
+					"end": 2400
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "The Examination of self-inspection and Statement for Internal Control System",
+					"start": 2500,
+					"end": 2700
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "The Audit of a Banking Business by an Accountant",
+					"start": 2800,
+					"end": 3100
+				},
+				{
+					"type": "section",
+					"number": 400,
+					"title": "legal compliance System",
+					"start": 3200,
+					"end": 3402
+				},
+				{
+					"type": "section",
+					"number": 500,
+					"title": "Risk Management Mechanism",
+					"start": 3500,
+					"end": 3801
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Supplementary Principles",
-			"start": 3900
+			"start": 3900,
+			"end": 4700
 		}
 	],
 	"articles": [

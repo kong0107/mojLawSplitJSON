@@ -21,67 +21,80 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 300
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "實施機關",
-			"start": 400
+			"start": 400,
+			"end": 400
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "軍人權利之實施",
-			"start": 500
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "學生保留學籍及優先就學",
-			"start": 500
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "職工保留底缺年資及優先就業",
-			"start": 800
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "現役軍人家屬生活之扶助",
-			"start": 1300
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "殘廢軍人之安置",
-			"start": 1700
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "現役軍人戰死或因公殞命者其子女之",
-			"start": 2200
-		},
-		{
-			"type": "節",
-			"number": 600,
-			"title": "戰死或因公殞命者祭喪及表揚",
-			"start": 2700
+			"start": 500,
+			"end": 3000,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "學生保留學籍及優先就學",
+					"start": 500,
+					"end": 700
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "職工保留底缺年資及優先就業",
+					"start": 800,
+					"end": 1200
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "現役軍人家屬生活之扶助",
+					"start": 1300,
+					"end": 1600
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "殘廢軍人之安置",
+					"start": 1700,
+					"end": 2100
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "現役軍人戰死或因公殞命者其子女之",
+					"start": 2200,
+					"end": 2600
+				},
+				{
+					"type": "節",
+					"number": 600,
+					"title": "戰死或因公殞命者祭喪及表揚",
+					"start": 2700,
+					"end": 3000
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "軍人權利之停止",
-			"start": 3100
+			"start": 3100,
+			"end": 3600
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "附則",
-			"start": 3700
+			"start": 3700,
+			"end": 4000
 		}
 	],
 	"articles": [

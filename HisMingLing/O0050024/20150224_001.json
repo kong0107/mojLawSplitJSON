@@ -13,37 +13,45 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 600
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "一般廢棄物清理",
-			"start": 700
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "分類、貯存及排出",
-			"start": 700
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "清除",
-			"start": 1500
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "處理",
-			"start": 1900
+			"start": 700,
+			"end": 3501,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "分類、貯存及排出",
+					"start": 700,
+					"end": 1400
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "清除",
+					"start": 1500,
+					"end": 1800
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "處理",
+					"start": 1900,
+					"end": 3501
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "附則",
-			"start": 3600
+			"start": 3600,
+			"end": 3800
 		}
 	],
 	"articles": [

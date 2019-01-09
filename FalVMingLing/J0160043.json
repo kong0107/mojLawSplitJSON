@@ -31,31 +31,36 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 301
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "動力用核子反應器運轉人員執照",
-			"start": 400
+			"start": 400,
+			"end": 1600
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "研究用核子反應器運轉人員執照",
-			"start": 1700
+			"start": 1700,
+			"end": 2600
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "運轉人員之管理",
-			"start": 2700
+			"start": 2700,
+			"end": 3300
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "附則",
-			"start": 3400
+			"start": 3400,
+			"end": 3500
 		}
 	],
 	"articles": [

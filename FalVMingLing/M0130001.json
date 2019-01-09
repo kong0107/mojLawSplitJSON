@@ -26,37 +26,43 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 400
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "執業",
-			"start": 500
+			"start": 500,
+			"end": 1600
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "獸醫診療機構之管理",
-			"start": 1700
+			"start": 1700,
+			"end": 2401
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "獎懲",
-			"start": 2500
+			"start": 2500,
+			"end": 4100
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "公會",
-			"start": 4200
+			"start": 4200,
+			"end": 5200
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "附則",
-			"start": 5300
+			"start": 5300,
+			"end": 5600
 		}
 	],
 	"articles": [

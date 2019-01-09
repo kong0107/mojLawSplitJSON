@@ -25,103 +25,126 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 300
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "車輛之免稅進口",
-			"start": 400
+			"start": 400,
+			"end": 800
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "車輛牌照",
-			"start": 900
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "牌照種類",
-			"start": 900
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "牌照之申領",
-			"start": 1300
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "牌照之換發",
-			"start": 1700
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "車輛檢驗與牌照繳銷",
-			"start": 2100
+			"start": 900,
+			"end": 2200,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "牌照種類",
+					"start": 900,
+					"end": 1200
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "牌照之申領",
+					"start": 1300,
+					"end": 1600
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "牌照之換發",
+					"start": 1700,
+					"end": 2000
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "車輛檢驗與牌照繳銷",
+					"start": 2100,
+					"end": 2200
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "駕駛執照",
-			"start": 2300
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "普通駕駛執照",
-			"start": 2300
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "國際駕駛執照",
-			"start": 2600
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "收費",
-			"start": 2800
+			"start": 2300,
+			"end": 2800,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "普通駕駛執照",
+					"start": 2300,
+					"end": 2500
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "國際駕駛執照",
+					"start": 2600,
+					"end": 2700
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "收費",
+					"start": 2800,
+					"end": 2800
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "免稅汽油",
-			"start": 2900
+			"start": 2900,
+			"end": 3000
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "車輛之出售轉讓及運帶出口",
-			"start": 3100
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "車輛之出售",
-			"start": 3100
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "車輛之轉讓",
-			"start": 3800
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "車輛之運帶出口",
-			"start": 4100
+			"start": 3100,
+			"end": 4300,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "車輛之出售",
+					"start": 3100,
+					"end": 3700
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "車輛之轉讓",
+					"start": 3800,
+					"end": 4000
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "車輛之運帶出口",
+					"start": 4100,
+					"end": 4300
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 700,
 			"title": "附則",
-			"start": 4400
+			"start": 4400,
+			"end": 4800
 		}
 	],
 	"articles": [

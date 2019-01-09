@@ -22,61 +22,73 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Provisions.",
-			"start": 100
+			"start": 100,
+			"end": 300
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Internal Control System.",
-			"start": 400
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Principles and Scope.",
-			"start": 400
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Compliance System.",
-			"start": 800
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Risk Management Mechanism.",
-			"start": 1100
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "Internal Audit System and Inspection.",
-			"start": 1400
-		},
-		{
-			"type": "section",
-			"number": 500,
-			"title": "Audits by the Accountant.",
-			"start": 2500
+			"start": 400,
+			"end": 2800,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Principles and Scope.",
+					"start": 400,
+					"end": 700
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Compliance System.",
+					"start": 800,
+					"end": 1000
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Risk Management Mechanism.",
+					"start": 1100,
+					"end": 1300
+				},
+				{
+					"type": "section",
+					"number": 400,
+					"title": "Internal Audit System and Inspection.",
+					"start": 1400,
+					"end": 2400
+				},
+				{
+					"type": "section",
+					"number": 500,
+					"title": "Audits by the Accountant.",
+					"start": 2500,
+					"end": 2800
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Audit Tracking.",
-			"start": 2900
+			"start": 2900,
+			"end": 3100
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "File and Notification.",
-			"start": 3200
+			"start": 3200,
+			"end": 3700
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Supplemental Provisions.",
-			"start": 3800
+			"start": 3800,
+			"end": 4200
 		}
 	],
 	"articles": [

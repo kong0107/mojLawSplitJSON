@@ -14,31 +14,36 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 500
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "廣播電視營運管理",
-			"start": 600
+			"start": 600,
+			"end": 1200
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "廣播電視節目管理",
-			"start": 1300
+			"start": 1300,
+			"end": 2200
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "廣播電視廣告管理",
-			"start": 2300
+			"start": 2300,
+			"end": 2400
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "附則",
-			"start": 2500
+			"start": 2500,
+			"end": 5000
 		}
 	],
 	"articles": [

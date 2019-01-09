@@ -13,31 +13,36 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 600
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "出租住宅",
-			"start": 700
+			"start": 700,
+			"end": 1600
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "先租後售",
-			"start": 1700
+			"start": 1700,
+			"end": 2300
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "救濟性住宅",
-			"start": 2400
+			"start": 2400,
+			"end": 3000
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "附則",
-			"start": 3100
+			"start": 3100,
+			"end": 3400
 		}
 	],
 	"articles": [

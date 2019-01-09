@@ -21,31 +21,36 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 400
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "組織",
-			"start": 500
+			"start": 500,
+			"end": 800
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "業務及監督",
-			"start": 900
+			"start": 900,
+			"end": 1100
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "會計及財務",
-			"start": 1200
+			"start": 1200,
+			"end": 1500
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "附則",
-			"start": 1600
+			"start": 1600,
+			"end": 1700
 		}
 	],
 	"articles": [

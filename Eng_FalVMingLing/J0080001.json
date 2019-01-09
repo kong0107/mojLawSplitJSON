@@ -39,199 +39,240 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Provisions",
-			"start": 100
+			"start": 100,
+			"end": 3900
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Unlimited Company",
-			"start": 4000
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Formation",
-			"start": 4000
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Internal Relations of a Company",
-			"start": 4200
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "External Relations of a Company",
-			"start": 5600
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "Withdrawal of Shares",
-			"start": 6500
-		},
-		{
-			"type": "section",
-			"number": 500,
-			"title": "Dissolution, Consolidation or Merger and Reincorporation",
-			"start": 7100
-		},
-		{
-			"type": "section",
-			"number": 600,
-			"title": "Liquidation",
-			"start": 7900
+			"start": 4000,
+			"end": 9700,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Formation",
+					"start": 4000,
+					"end": 4100
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Internal Relations of a Company",
+					"start": 4200,
+					"end": 5500
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "External Relations of a Company",
+					"start": 5600,
+					"end": 6400
+				},
+				{
+					"type": "section",
+					"number": 400,
+					"title": "Withdrawal of Shares",
+					"start": 6500,
+					"end": 7000
+				},
+				{
+					"type": "section",
+					"number": 500,
+					"title": "Dissolution, Consolidation or Merger and Reincorporation",
+					"start": 7100,
+					"end": 7800
+				},
+				{
+					"type": "section",
+					"number": 600,
+					"title": "Liquidation",
+					"start": 7900,
+					"end": 9700
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Limited Company",
-			"start": 9800
+			"start": 9800,
+			"end": 11300
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Unlimited Company with Limited Liability Shareholders",
-			"start": 11400
+			"start": 11400,
+			"end": 12700
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Company Limited by Shares",
-			"start": 12800
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Incorporation",
-			"start": 12800
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Shares",
-			"start": 15600
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Shareholders' Meeting",
-			"start": 17000
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "Directors and Board of Directors",
-			"start": 19200
-		},
-		{
-			"type": "section",
-			"number": 500,
-			"title": "Supervisors",
-			"start": 21600
-		},
-		{
-			"type": "section",
-			"number": 600,
-			"title": "Accounting",
-			"start": 22800
-		},
-		{
-			"type": "section",
-			"number": 700,
-			"title": "Corporate Bonds",
-			"start": 24600
-		},
-		{
-			"type": "section",
-			"number": 800,
-			"title": "Issue of New Shares",
-			"start": 26600
-		},
-		{
-			"type": "section",
-			"number": 900,
-			"title": "Modification or Alteration of the Articles of Incorporation",
-			"start": 27700
-		},
-		{
-			"type": "section",
-			"number": 1000,
-			"title": "Reorganization of a Company",
-			"start": 28200
-		},
-		{
-			"type": "section",
-			"number": 1100,
-			"title": "Dissolution, Consolidation or Merger and Split-up",
-			"start": 31500
-		},
-		{
-			"type": "section",
-			"number": 1200,
-			"title": "Liquidation",
-			"start": 32200
-		},
-		{
-			"type": "subsection",
-			"number": 100,
-			"title": "Ordinary Liquidation",
-			"start": 32200
-		},
-		{
-			"type": "subsection",
-			"number": 200,
-			"title": "Special Liquidation",
-			"start": 33500
-		},
-		{
-			"type": "section",
-			"number": 1300,
-			"title": "Close Company",
-			"start": 35601
+			"start": 12800,
+			"end": 35614,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Incorporation",
+					"start": 12800,
+					"end": 15500
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Shares",
+					"start": 15600,
+					"end": 16900
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Shareholders' Meeting",
+					"start": 17000,
+					"end": 19100
+				},
+				{
+					"type": "section",
+					"number": 400,
+					"title": "Directors and Board of Directors",
+					"start": 19200,
+					"end": 21500
+				},
+				{
+					"type": "section",
+					"number": 500,
+					"title": "Supervisors",
+					"start": 21600,
+					"end": 22700
+				},
+				{
+					"type": "section",
+					"number": 600,
+					"title": "Accounting",
+					"start": 22800,
+					"end": 24500
+				},
+				{
+					"type": "section",
+					"number": 700,
+					"title": "Corporate Bonds",
+					"start": 24600,
+					"end": 26500
+				},
+				{
+					"type": "section",
+					"number": 800,
+					"title": "Issue of New Shares",
+					"start": 26600,
+					"end": 27600
+				},
+				{
+					"type": "section",
+					"number": 900,
+					"title": "Modification or Alteration of the Articles of Incorporation",
+					"start": 27700,
+					"end": 28100
+				},
+				{
+					"type": "section",
+					"number": 1000,
+					"title": "Reorganization of a Company",
+					"start": 28200,
+					"end": 31400
+				},
+				{
+					"type": "section",
+					"number": 1100,
+					"title": "Dissolution, Consolidation or Merger and Split-up",
+					"start": 31500,
+					"end": 32100
+				},
+				{
+					"type": "section",
+					"number": 1200,
+					"title": "Liquidation",
+					"start": 32200,
+					"end": 35600,
+					"children": [
+						{
+							"type": "subsection",
+							"number": 100,
+							"title": "Ordinary Liquidation",
+							"start": 32200,
+							"end": 33400
+						},
+						{
+							"type": "subsection",
+							"number": 200,
+							"title": "Special Liquidation",
+							"start": 33500,
+							"end": 35600
+						}
+					]
+				},
+				{
+					"type": "section",
+					"number": 1300,
+					"title": "Close Company",
+					"start": 35601,
+					"end": 35614
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 600,
 			"title": "(Deleted)",
-			"start": 35700
+			"start": 35700,
+			"end": 36900
 		},
 		{
 			"type": "chapter",
 			"number": 601,
 			"title": "Affiliated Enterprises",
-			"start": 36901
+			"start": 36901,
+			"end": 36912
 		},
 		{
 			"type": "chapter",
 			"number": 700,
 			"title": "Foreign Company",
-			"start": 37000
+			"start": 37000,
+			"end": 38600
 		},
 		{
 			"type": "chapter",
 			"number": 800,
 			"title": "Registration and Recognition of Companies",
-			"start": 38700
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Application",
-			"start": 38700
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Fees",
-			"start": 43800
+			"start": 38700,
+			"end": 44600,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Application",
+					"start": 38700,
+					"end": 43700
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Fees",
+					"start": 43800,
+					"end": 44600
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 900,
 			"title": "Supplemental Provisions",
-			"start": 44700
+			"start": 44700,
+			"end": 44900
 		}
 	],
 	"articles": [

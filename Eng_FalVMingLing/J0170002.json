@@ -15,67 +15,80 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Principles",
-			"start": 100
+			"start": 100,
+			"end": 300
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Consumer Interests",
-			"start": 400
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Health and Safety Safeguards",
-			"start": 400
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Standard Contracts",
-			"start": 900
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Special Transactions",
-			"start": 1600
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "Consumer Information Provisions",
-			"start": 2300
+			"start": 400,
+			"end": 2600,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Health and Safety Safeguards",
+					"start": 400,
+					"end": 800
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Standard Contracts",
+					"start": 900,
+					"end": 1500
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Special Transactions",
+					"start": 1600,
+					"end": 2200
+				},
+				{
+					"type": "section",
+					"number": 400,
+					"title": "Consumer Information Provisions",
+					"start": 2300,
+					"end": 2600
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Consumer Advocacy Groups",
-			"start": 2700
+			"start": 2700,
+			"end": 2900
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Administrative Supervision",
-			"start": 3000
+			"start": 3000,
+			"end": 3400
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Handling Consumer Disputes",
-			"start": 3500
+			"start": 3500,
+			"end": 4000
 		},
 		{
 			"type": "chapter",
 			"number": 600,
 			"title": "Penal Provisions",
-			"start": 4100
+			"start": 4100,
+			"end": 4100
 		},
 		{
 			"type": "chapter",
 			"number": 700,
 			"title": "Supplementary Provisions",
-			"start": 4200
+			"start": 4200,
+			"end": 4300
 		}
 	],
 	"articles": [

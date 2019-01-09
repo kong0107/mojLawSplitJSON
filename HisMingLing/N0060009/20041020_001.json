@@ -14,337 +14,413 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 2000
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "工作場所及通路",
-			"start": 2100
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "工作場所",
-			"start": 2100
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "局限空間",
-			"start": 2901
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "通路",
-			"start": 3000
+			"start": 2100,
+			"end": 4000,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "工作場所",
+					"start": 2100,
+					"end": 2900
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "局限空間",
+					"start": 2901,
+					"end": 2906
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "通路",
+					"start": 3000,
+					"end": 4000
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "機械災害之防止",
-			"start": 4100
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "一般規定",
-			"start": 4100
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "一般工作機械",
-			"start": 5800
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "木材加工機械",
-			"start": 6400
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "衝剪機械等",
-			"start": 6900
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "離心機械",
-			"start": 7300
-		},
-		{
-			"type": "節",
-			"number": 600,
-			"title": "粉碎機與混合機",
-			"start": 7600
-		},
-		{
-			"type": "節",
-			"number": 700,
-			"title": "滾軋機等",
-			"start": 7800
-		},
-		{
-			"type": "節",
-			"number": 800,
-			"title": "高速回轉體",
-			"start": 8400
+			"start": 4100,
+			"end": 8600,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "一般規定",
+					"start": 4100,
+					"end": 5700
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "一般工作機械",
+					"start": 5800,
+					"end": 6300
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "木材加工機械",
+					"start": 6400,
+					"end": 6800
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "衝剪機械等",
+					"start": 6900,
+					"end": 7200
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "離心機械",
+					"start": 7300,
+					"end": 7500
+				},
+				{
+					"type": "節",
+					"number": 600,
+					"title": "粉碎機與混合機",
+					"start": 7600,
+					"end": 7700
+				},
+				{
+					"type": "節",
+					"number": 700,
+					"title": "滾軋機等",
+					"start": 7800,
+					"end": 8300
+				},
+				{
+					"type": "節",
+					"number": 800,
+					"title": "高速回轉體",
+					"start": 8400,
+					"end": 8600
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "危險性機械、設備及器具",
-			"start": 8700
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "起重升降機具",
-			"start": 8700
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "鍋爐及壓力容器",
-			"start": 10400
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "高壓氣體設備及容器",
-			"start": 10500
+			"start": 8700,
+			"end": 11300,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "起重升降機具",
+					"start": 8700,
+					"end": 10300
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "鍋爐及壓力容器",
+					"start": 10400,
+					"end": 10400
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "高壓氣體設備及容器",
+					"start": 10500,
+					"end": 11300
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "車輛機械",
-			"start": 11400
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "一般規定",
-			"start": 11400
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "道路",
-			"start": 11800
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "車輛系營建機械",
-			"start": 11900
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "堆高機",
-			"start": 12400
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "高空工作車",
-			"start": 12801
+			"start": 11400,
+			"end": 12807,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "一般規定",
+					"start": 11400,
+					"end": 11700
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "道路",
+					"start": 11800,
+					"end": 11800
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "車輛系營建機械",
+					"start": 11900,
+					"end": 12300
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "堆高機",
+					"start": 12400,
+					"end": 12800
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "高空工作車",
+					"start": 12801,
+					"end": 12807
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "軌道機械",
-			"start": 12900
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "一般規定",
-			"start": 12900
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "軌道",
-			"start": 13100
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "軌道車輛",
-			"start": 14100
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "軌道手推車",
-			"start": 15000
+			"start": 12900,
+			"end": 15100,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "一般規定",
+					"start": 12900,
+					"end": 13000
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "軌道",
+					"start": 13100,
+					"end": 14000
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "軌道車輛",
+					"start": 14100,
+					"end": 14900
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "軌道手推車",
+					"start": 15000,
+					"end": 15100
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 700,
 			"title": "物料搬運與處置",
-			"start": 15200
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "一般規定",
-			"start": 15200
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "搬運",
-			"start": 15500
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "處置",
-			"start": 15800
+			"start": 15200,
+			"end": 16700,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "一般規定",
+					"start": 15200,
+					"end": 15400
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "搬運",
+					"start": 15500,
+					"end": 15700
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "處置",
+					"start": 15800,
+					"end": 16700
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 800,
 			"title": "爆炸、火災及腐蝕、洩漏之防止",
-			"start": 16800
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "一般規定",
-			"start": 16800
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "熔融高熱物等設備",
-			"start": 18000
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "危險物處置",
-			"start": 18400
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "化學設備及其附屬設備",
-			"start": 19400
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "乾燥設備",
-			"start": 19900
-		},
-		{
-			"type": "節",
-			"number": 600,
-			"title": "乙炔熔接裝置及氣體集合熔接裝置",
-			"start": 20300
-		},
-		{
-			"type": "節",
-			"number": 700,
-			"title": "爆破作業",
-			"start": 21900
+			"start": 16800,
+			"end": 22300,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "一般規定",
+					"start": 16800,
+					"end": 17900
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "熔融高熱物等設備",
+					"start": 18000,
+					"end": 18300
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "危險物處置",
+					"start": 18400,
+					"end": 19300
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "化學設備及其附屬設備",
+					"start": 19400,
+					"end": 19800
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "乾燥設備",
+					"start": 19900,
+					"end": 20200
+				},
+				{
+					"type": "節",
+					"number": 600,
+					"title": "乙炔熔接裝置及氣體集合熔接裝置",
+					"start": 20300,
+					"end": 21800
+				},
+				{
+					"type": "節",
+					"number": 700,
+					"title": "爆破作業",
+					"start": 21900,
+					"end": 22300
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 900,
 			"title": "墜落、飛落災害防止",
-			"start": 22400
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "人體墜落防止",
-			"start": 22400
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "物體飛落防止",
-			"start": 23500
+			"start": 22400,
+			"end": 23800,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "人體墜落防止",
+					"start": 22400,
+					"end": 23400
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "物體飛落防止",
+					"start": 23500,
+					"end": 23800
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 1000,
 			"title": "電氣危害之防止",
-			"start": 23900
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "電氣設備及線路",
-			"start": 23900
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "停電作業",
-			"start": 25400
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "活線作業及活線接近作業",
-			"start": 25600
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "管理",
-			"start": 26400
+			"start": 23900,
+			"end": 27600,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "電氣設備及線路",
+					"start": 23900,
+					"end": 25300
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "停電作業",
+					"start": 25400,
+					"end": 25500
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "活線作業及活線接近作業",
+					"start": 25600,
+					"end": 26300
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "管理",
+					"start": 26400,
+					"end": 27600
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 1100,
 			"title": "防護具",
-			"start": 27700
+			"start": 27700,
+			"end": 29100
 		},
 		{
 			"type": "章",
 			"number": 1200,
 			"title": "衛生",
-			"start": 29200
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "有害作業環境",
-			"start": 29200
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "溫度及濕度",
-			"start": 30300
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "通風及換氣",
-			"start": 30900
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "採光及照明",
-			"start": 31300
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "清潔",
-			"start": 31500
+			"start": 29200,
+			"end": 32800,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "有害作業環境",
+					"start": 29200,
+					"end": 30200
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "溫度及濕度",
+					"start": 30300,
+					"end": 30800
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "通風及換氣",
+					"start": 30900,
+					"end": 31200
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "採光及照明",
+					"start": 31300,
+					"end": 31400
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "清潔",
+					"start": 31500,
+					"end": 32800
+				}
+			]
 		},
 		{
 			"type": "章",

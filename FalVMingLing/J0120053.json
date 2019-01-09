@@ -18,37 +18,45 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 500
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "進用",
-			"start": 600
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "派用人員及僱用人員",
-			"start": 600
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "約聘人員及約僱人員",
-			"start": 1900
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "升等及調遷",
-			"start": 2400
+			"start": 600,
+			"end": 3300,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "派用人員及僱用人員",
+					"start": 600,
+					"end": 1800
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "約聘人員及約僱人員",
+					"start": 1900,
+					"end": 2300
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "升等及調遷",
+					"start": 2400,
+					"end": 3300
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "附則",
-			"start": 3400
+			"start": 3400,
+			"end": 3500
 		}
 	],
 	"articles": [

@@ -16,31 +16,36 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Provisions",
-			"start": 100
+			"start": 100,
+			"end": 300
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Entity Accounting",
-			"start": 400
+			"start": 400,
+			"end": 1000
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Separations Accounting",
-			"start": 1100
+			"start": 1100,
+			"end": 5000
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Administrative Management",
-			"start": 5100
+			"start": 5100,
+			"end": 5600
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Miscellaneous Provisions",
-			"start": 5700
+			"start": 5700,
+			"end": 5900
 		}
 	],
 	"articles": [

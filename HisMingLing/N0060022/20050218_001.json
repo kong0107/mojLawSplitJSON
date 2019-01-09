@@ -14,25 +14,29 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 200
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "醫護人員與勞工健康服務相關人員資格及健康服務措施",
-			"start": 300
+			"start": 300,
+			"end": 1300
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "健康檢查及管理",
-			"start": 1400
+			"start": 1400,
+			"end": 2400
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "附則",
-			"start": 2500
+			"start": 2500,
+			"end": 2600
 		}
 	],
 	"articles": [

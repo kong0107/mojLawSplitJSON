@@ -16,29 +16,34 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 1000
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "特定醫療技術",
-			"start": 1100
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "細胞治療技術",
-			"start": 1100
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "特定美容醫學手術"
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "其他特定醫療技術"
+			"start": 1100,
+			"end": 1100,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "細胞治療技術",
+					"start": 1100,
+					"end": 1100
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "特定美容醫學手術"
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "其他特定醫療技術"
+				}
+			]
 		},
 		{
 			"type": "章",

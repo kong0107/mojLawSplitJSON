@@ -22,37 +22,43 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 400
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "入所",
-			"start": 500
+			"start": 500,
+			"end": 1000
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "處遇",
-			"start": 1100
+			"start": 1100,
+			"end": 1800
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "管理",
-			"start": 1900
+			"start": 1900,
+			"end": 2400
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "出所",
-			"start": 2500
+			"start": 2500,
+			"end": 3000
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "附則",
-			"start": 3100
+			"start": 3100,
+			"end": 3300
 		}
 	],
 	"articles": [

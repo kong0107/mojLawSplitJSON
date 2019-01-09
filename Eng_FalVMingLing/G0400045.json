@@ -23,49 +23,59 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Principles",
-			"start": 100
+			"start": 100,
+			"end": 400
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Design and Operation of Internal Control Systems",
-			"start": 500
+			"start": 500,
+			"end": 900
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Assessment of Internal Control Systems",
-			"start": 1000
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Internal Audits",
-			"start": 1000
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Self-assessment and Internal Control System Statement",
-			"start": 2100
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Special Audits by Certified Public Accountants",
-			"start": 2500
+			"start": 1000,
+			"end": 3700,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Internal Audits",
+					"start": 1000,
+					"end": 2000
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Self-assessment and Internal Control System Statement",
+					"start": 2100,
+					"end": 2400
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Special Audits by Certified Public Accountants",
+					"start": 2500,
+					"end": 3700
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Supervision and Management of Subsidiaries",
-			"start": 3800
+			"start": 3800,
+			"end": 4100
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Supplemental Provisions",
-			"start": 4200
+			"start": 4200,
+			"end": 4700
 		}
 	],
 	"articles": [

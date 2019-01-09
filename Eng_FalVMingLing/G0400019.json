@@ -34,67 +34,80 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Principles",
-			"start": 100
+			"start": 100,
+			"end": 700
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Content",
-			"start": 800
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Company Summary",
-			"start": 800
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Operation Summary",
-			"start": 1900
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Issuance Plans and Implementation Status",
-			"start": 2300
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "Financial Summary",
-			"start": 2700
-		},
-		{
-			"type": "section",
-			"number": 500,
-			"title": "Special Items to be Included",
-			"start": 3100
-		},
-		{
-			"type": "section",
-			"number": 600,
-			"title": "Important Resolutions, Articles of Incorporation, and Relevant Laws and Regulations",
-			"start": 3300
+			"start": 800,
+			"end": 3300,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Company Summary",
+					"start": 800,
+					"end": 1800
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Operation Summary",
+					"start": 1900,
+					"end": 2200
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Issuance Plans and Implementation Status",
+					"start": 2300,
+					"end": 2600
+				},
+				{
+					"type": "section",
+					"number": 400,
+					"title": "Financial Summary",
+					"start": 2700,
+					"end": 3000
+				},
+				{
+					"type": "section",
+					"number": 500,
+					"title": "Special Items to be Included",
+					"start": 3100,
+					"end": 3200
+				},
+				{
+					"type": "section",
+					"number": 600,
+					"title": "Important Resolutions, Articles of Incorporation, and Relevant Laws and Regulations",
+					"start": 3300,
+					"end": 3300
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Simplified Prospectus",
-			"start": 3400
+			"start": 3400,
+			"end": 3500
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Prospectus for Incorporation by Offering",
-			"start": 3600
+			"start": 3600,
+			"end": 3600
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Supplementary Provisions",
-			"start": 3700
+			"start": 3700,
+			"end": 3900
 		}
 	],
 	"articles": [

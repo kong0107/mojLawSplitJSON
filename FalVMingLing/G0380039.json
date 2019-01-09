@@ -26,43 +26,52 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 900
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "存款保險及承保風險控管",
-			"start": 1000
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "存款保險",
-			"start": 1000
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "承保風險控管",
-			"start": 2200
+			"start": 1000,
+			"end": 2700,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "存款保險",
+					"start": 1000,
+					"end": 2100
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "承保風險控管",
+					"start": 2200,
+					"end": 2700
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "履行保險責任",
-			"start": 2800
+			"start": 2800,
+			"end": 4500
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "罰則",
-			"start": 4600
+			"start": 4600,
+			"end": 4700
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "附則",
-			"start": 4800
+			"start": 4800,
+			"end": 5200
 		}
 	],
 	"articles": [

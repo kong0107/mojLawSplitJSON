@@ -34,145 +34,175 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "通則",
-			"start": 100
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "行政配合",
-			"start": 600
+			"start": 100,
+			"end": 800,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "通則",
+					"start": 100,
+					"end": 500
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "行政配合",
+					"start": 600,
+					"end": 800
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "稅捐減免",
-			"start": 900
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "通則",
-			"start": 900
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "所得稅",
-			"start": 1000
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "進口稅捐",
-			"start": 3800
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "(刪除)",
-			"start": 4000
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "土地稅、契稅、房屋稅",
-			"start": 4800
-		},
-		{
-			"type": "節",
-			"number": 600,
-			"title": "公營事業移轉民營之獎勵",
-			"start": 5800
-		},
-		{
-			"type": "節",
-			"number": 700,
-			"title": "營利事業合併之獎勵",
-			"start": 5900
+			"start": 900,
+			"end": 6500,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "通則",
+					"start": 900,
+					"end": 900
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "所得稅",
+					"start": 1000,
+					"end": 3700
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "進口稅捐",
+					"start": 3800,
+					"end": 3900
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "(刪除)",
+					"start": 4000,
+					"end": 4700
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "土地稅、契稅、房屋稅",
+					"start": 4800,
+					"end": 5700
+				},
+				{
+					"type": "節",
+					"number": 600,
+					"title": "公營事業移轉民營之獎勵",
+					"start": 5800,
+					"end": 5800
+				},
+				{
+					"type": "節",
+					"number": 700,
+					"title": "營利事業合併之獎勵",
+					"start": 5900,
+					"end": 6500
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "工業用地之取得",
-			"start": 6600
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "通則",
-			"start": 6600
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "編定工業用地",
-			"start": 7200
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "工業用地禁止建築移轉及設定負擔",
-			"start": 8000
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "開發工業區",
-			"start": 8200
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "工業住宅社區",
-			"start": 9800
-		},
-		{
-			"type": "節",
-			"number": 600,
-			"title": "工業用地之租購及工業用地證明書",
-			"start": 10400
-		},
-		{
-			"type": "節",
-			"number": 700,
-			"title": "工業區及工業用之使用地管理",
-			"start": 11300
-		},
-		{
-			"type": "節",
-			"number": 800,
-			"title": "(刪除)",
-			"start": 12500
-		},
-		{
-			"type": "節",
-			"number": 900,
-			"title": "工業用地終止租約暨補償及提前繳付地價",
-			"start": 13100
-		},
-		{
-			"type": "節",
-			"number": 1000,
-			"title": "工業用地之登記及限制",
-			"start": 13700
+			"start": 6600,
+			"end": 13902,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "通則",
+					"start": 6600,
+					"end": 7100
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "編定工業用地",
+					"start": 7200,
+					"end": 7900
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "工業用地禁止建築移轉及設定負擔",
+					"start": 8000,
+					"end": 8100
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "開發工業區",
+					"start": 8200,
+					"end": 9700
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "工業住宅社區",
+					"start": 9800,
+					"end": 10300
+				},
+				{
+					"type": "節",
+					"number": 600,
+					"title": "工業用地之租購及工業用地證明書",
+					"start": 10400,
+					"end": 11200
+				},
+				{
+					"type": "節",
+					"number": 700,
+					"title": "工業區及工業用之使用地管理",
+					"start": 11300,
+					"end": 12400
+				},
+				{
+					"type": "節",
+					"number": 800,
+					"title": "(刪除)",
+					"start": 12500,
+					"end": 13000
+				},
+				{
+					"type": "節",
+					"number": 900,
+					"title": "工業用地終止租約暨補償及提前繳付地價",
+					"start": 13100,
+					"end": 13600
+				},
+				{
+					"type": "節",
+					"number": 1000,
+					"title": "工業用地之登記及限制",
+					"start": 13700,
+					"end": 13902
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "公營事業之配合發展",
-			"start": 14000
+			"start": 14000,
+			"end": 14100
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "附則",
-			"start": 14200
+			"start": 14200,
+			"end": 14300
 		}
 	],
 	"articles": [

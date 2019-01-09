@@ -23,49 +23,59 @@
 			"type": "part",
 			"number": 100,
 			"title": "General Provisions",
-			"start": 100
+			"start": 100,
+			"end": 1300
 		},
 		{
 			"type": "part",
 			"number": 200,
 			"title": "Special Provisions",
-			"start": 1400
-		},
-		{
-			"type": "chapter",
-			"number": 100,
-			"title": "OFFENCES AGAINST THE ALLEGIANCE TO THE NATION",
-			"start": 1400
-		},
-		{
-			"type": "chapter",
-			"number": 200,
-			"title": "OFFENCES AGAINST THE MILLITARY DUTY OR SERVICE",
-			"start": 2600
-		},
-		{
-			"type": "chapter",
-			"number": 300,
-			"title": "OFFENCES AGAINST THE MILLITARY DUTY OF OFFICER",
-			"start": 4200
-		},
-		{
-			"type": "chapter",
-			"number": 400,
-			"title": "OFFENCES AGAINST THE MILLITARY DUTY OF SUBORDINATE",
-			"start": 4700
-		},
-		{
-			"type": "chapter",
-			"number": 500,
-			"title": "OTHER MILITARY OFFENCES",
-			"start": 5300
+			"start": 1400,
+			"end": 7500,
+			"children": [
+				{
+					"type": "chapter",
+					"number": 100,
+					"title": "OFFENCES AGAINST THE ALLEGIANCE TO THE NATION",
+					"start": 1400,
+					"end": 2500
+				},
+				{
+					"type": "chapter",
+					"number": 200,
+					"title": "OFFENCES AGAINST THE MILLITARY DUTY OR SERVICE",
+					"start": 2600,
+					"end": 4100
+				},
+				{
+					"type": "chapter",
+					"number": 300,
+					"title": "OFFENCES AGAINST THE MILLITARY DUTY OF OFFICER",
+					"start": 4200,
+					"end": 4600
+				},
+				{
+					"type": "chapter",
+					"number": 400,
+					"title": "OFFENCES AGAINST THE MILLITARY DUTY OF SUBORDINATE",
+					"start": 4700,
+					"end": 5200
+				},
+				{
+					"type": "chapter",
+					"number": 500,
+					"title": "OTHER MILITARY OFFENCES",
+					"start": 5300,
+					"end": 7500
+				}
+			]
 		},
 		{
 			"type": "part",
 			"number": 300,
 			"title": "Additional Provisions",
-			"start": 7600
+			"start": 7600,
+			"end": 7900
 		}
 	],
 	"articles": [

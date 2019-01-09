@@ -14,25 +14,29 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 800
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "生體可用率及生體相等性試驗",
-			"start": 900
+			"start": 900,
+			"end": 2000
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "溶離曲線比對試驗",
-			"start": 2100
+			"start": 2100,
+			"end": 2300
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "附則",
-			"start": 2400
+			"start": 2400,
+			"end": 2600
 		}
 	],
 	"articles": [

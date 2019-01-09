@@ -33,91 +33,108 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "GENERAL PRINCIPLES",
-			"start": 100
+			"start": 100,
+			"end": 400
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "INSURER, INSURED UNITS AND INSURED PERSONS",
-			"start": 500
+			"start": 500,
+			"end": 1200
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "INSURANCE PREMIUM",
-			"start": 1300
+			"start": 1300,
+			"end": 1800
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "INSURANCE BENEFITS",
-			"start": 1900
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "General Provisions",
-			"start": 1900
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Maternity Benefits",
-			"start": 3100
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Injury or Sickness Benefits",
-			"start": 3300
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "Medical Care Benefits",
-			"start": 3900
-		},
-		{
-			"type": "section",
-			"number": 500,
-			"title": "Permanent Disability Benefits",
-			"start": 5300
-		},
-		{
-			"type": "section",
-			"number": 600,
-			"title": "Old-Age Benefits",
-			"start": 5800
-		},
-		{
-			"type": "section",
-			"number": 700,
-			"title": "Survivor Benefits",
-			"start": 6200
-		},
-		{
-			"type": "section",
-			"number": 800,
-			"title": "Application and Issuance of Pension Benefits",
-			"start": 6501
+			"start": 1900,
+			"end": 6505,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "General Provisions",
+					"start": 1900,
+					"end": 3000
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Maternity Benefits",
+					"start": 3100,
+					"end": 3200
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Injury or Sickness Benefits",
+					"start": 3300,
+					"end": 3800
+				},
+				{
+					"type": "section",
+					"number": 400,
+					"title": "Medical Care Benefits",
+					"start": 3900,
+					"end": 5200
+				},
+				{
+					"type": "section",
+					"number": 500,
+					"title": "Permanent Disability Benefits",
+					"start": 5300,
+					"end": 5700
+				},
+				{
+					"type": "section",
+					"number": 600,
+					"title": "Old-Age Benefits",
+					"start": 5800,
+					"end": 6100
+				},
+				{
+					"type": "section",
+					"number": 700,
+					"title": "Survivor Benefits",
+					"start": 6200,
+					"end": 6500
+				},
+				{
+					"type": "section",
+					"number": 800,
+					"title": "Application and Issuance of Pension Benefits",
+					"start": 6501,
+					"end": 6505
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "INSURANCE FUND AND ADMINISTRATIVE COSTS",
-			"start": 6600
+			"start": 6600,
+			"end": 6600
 		},
 		{
 			"type": "chapter",
 			"number": 600,
 			"title": "PENAL PROVISIONS",
-			"start": 6700
+			"start": 6700,
+			"end": 7300
 		},
 		{
 			"type": "chapter",
 			"number": 700,
 			"title": "SUPPLEMENTARY PROVISIONS",
-			"start": 7400
+			"start": 7400,
+			"end": 7900
 		}
 	],
 	"articles": [

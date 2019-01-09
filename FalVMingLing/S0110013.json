@@ -21,43 +21,50 @@
 			"type": "干",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 200
 		},
 		{
 			"type": "干",
 			"number": 200,
 			"title": "配給範圍",
-			"start": 300
+			"start": 300,
+			"end": 700
 		},
 		{
 			"type": "干",
 			"number": 300,
 			"title": "配給品量",
-			"start": 800
+			"start": 800,
+			"end": 1000
 		},
 		{
 			"type": "干",
 			"number": 400,
 			"title": "配給方式",
-			"start": 1100
+			"start": 1100,
+			"end": 1500
 		},
 		{
 			"type": "干",
 			"number": 500,
 			"title": "報領手續",
-			"start": 1600
+			"start": 1600,
+			"end": 2000
 		},
 		{
 			"type": "干",
 			"number": 600,
 			"title": "業務管理",
-			"start": 2100
+			"start": 2100,
+			"end": 2400
 		},
 		{
 			"type": "干",
 			"number": 700,
 			"title": "附則",
-			"start": 2500
+			"start": 2500,
+			"end": 2600
 		}
 	],
 	"articles": [

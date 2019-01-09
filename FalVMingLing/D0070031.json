@@ -24,31 +24,36 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 100
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "區域計畫之擬定、變更、核定與公告",
-			"start": 200
+			"start": 200,
+			"end": 900
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "區域土地使用管制",
-			"start": 1000
+			"start": 1000,
+			"end": 2100
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "區域開發建設之推動",
-			"start": 2200
+			"start": 2200,
+			"end": 2400
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "附則",
-			"start": 2500
+			"start": 2500,
+			"end": 2500
 		}
 	],
 	"articles": [

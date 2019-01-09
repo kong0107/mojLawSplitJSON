@@ -71,163 +71,192 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "GENERAL PRINCIPLES",
-			"start": 100
+			"start": 100,
+			"end": 1100
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "AIRCRAFT PILOTS",
-			"start": 1200
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "GENERAL PROVISIONS",
-			"start": 1200
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "STUDENT PILOT",
-			"start": 2000
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "PRIVATE PILOT-AEROPLANE",
-			"start": 2500
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "COMMERCIAL PILOT – AEROPLANE",
-			"start": 3000
-		},
-		{
-			"type": "section",
-			"number": 500,
-			"title": "MULTI-CREW PILOT – AEROPLANE",
-			"start": 3400
-		},
-		{
-			"type": "section",
-			"number": 600,
-			"title": "AIRLINE TRANSPORT PILOT – AEROPLANE",
-			"start": 3800
-		},
-		{
-			"type": "section",
-			"number": 700,
-			"title": "PRIVATE PILOT – HELICOPTER",
-			"start": 4200
-		},
-		{
-			"type": "section",
-			"number": 800,
-			"title": "COMMERCIAL PILOT – HELICOPTER",
-			"start": 4700
-		},
-		{
-			"type": "section",
-			"number": 900,
-			"title": "AIRLINE TRANSPORT PILOT – HELICOPTER",
-			"start": 5100
-		},
-		{
-			"type": "section",
-			"number": 1000,
-			"title": "PRIVATE PILOT – AIRSHIP",
-			"start": 5500
-		},
-		{
-			"type": "section",
-			"number": 1100,
-			"title": "COMMERCIAL PILOT – AIRSHIP",
-			"start": 5900
-		},
-		{
-			"type": "section",
-			"number": 1200,
-			"title": "PRIVATE PILOT－FREE BALLOON",
-			"start": 6300
-		},
-		{
-			"type": "section",
-			"number": 1300,
-			"title": "COMMERCIAL PILOT－FREE BALLOON",
-			"start": 6700
-		},
-		{
-			"type": "section",
-			"number": 1400,
-			"title": "PRIVATE PILOT – GLIDER",
-			"start": 7100
-		},
-		{
-			"type": "section",
-			"number": 1500,
-			"title": "COMMERCIAL PILOT - GLIDER",
-			"start": 7500
-		},
-		{
-			"type": "section",
-			"number": 1600,
-			"title": "FLIGHT INSTRUCTOR",
-			"start": 7900
-		},
-		{
-			"type": "section",
-			"number": 1700,
-			"title": "INSTRUMENT RATING",
-			"start": 8300
+			"start": 1200,
+			"end": 8700,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "GENERAL PROVISIONS",
+					"start": 1200,
+					"end": 1900
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "STUDENT PILOT",
+					"start": 2000,
+					"end": 2400
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "PRIVATE PILOT-AEROPLANE",
+					"start": 2500,
+					"end": 2900
+				},
+				{
+					"type": "section",
+					"number": 400,
+					"title": "COMMERCIAL PILOT – AEROPLANE",
+					"start": 3000,
+					"end": 3300
+				},
+				{
+					"type": "section",
+					"number": 500,
+					"title": "MULTI-CREW PILOT – AEROPLANE",
+					"start": 3400,
+					"end": 3700
+				},
+				{
+					"type": "section",
+					"number": 600,
+					"title": "AIRLINE TRANSPORT PILOT – AEROPLANE",
+					"start": 3800,
+					"end": 4100
+				},
+				{
+					"type": "section",
+					"number": 700,
+					"title": "PRIVATE PILOT – HELICOPTER",
+					"start": 4200,
+					"end": 4600
+				},
+				{
+					"type": "section",
+					"number": 800,
+					"title": "COMMERCIAL PILOT – HELICOPTER",
+					"start": 4700,
+					"end": 5000
+				},
+				{
+					"type": "section",
+					"number": 900,
+					"title": "AIRLINE TRANSPORT PILOT – HELICOPTER",
+					"start": 5100,
+					"end": 5400
+				},
+				{
+					"type": "section",
+					"number": 1000,
+					"title": "PRIVATE PILOT – AIRSHIP",
+					"start": 5500,
+					"end": 5800
+				},
+				{
+					"type": "section",
+					"number": 1100,
+					"title": "COMMERCIAL PILOT – AIRSHIP",
+					"start": 5900,
+					"end": 6200
+				},
+				{
+					"type": "section",
+					"number": 1200,
+					"title": "PRIVATE PILOT－FREE BALLOON",
+					"start": 6300,
+					"end": 6600
+				},
+				{
+					"type": "section",
+					"number": 1300,
+					"title": "COMMERCIAL PILOT－FREE BALLOON",
+					"start": 6700,
+					"end": 7000
+				},
+				{
+					"type": "section",
+					"number": 1400,
+					"title": "PRIVATE PILOT – GLIDER",
+					"start": 7100,
+					"end": 7400
+				},
+				{
+					"type": "section",
+					"number": 1500,
+					"title": "COMMERCIAL PILOT - GLIDER",
+					"start": 7500,
+					"end": 7800
+				},
+				{
+					"type": "section",
+					"number": 1600,
+					"title": "FLIGHT INSTRUCTOR",
+					"start": 7900,
+					"end": 8200
+				},
+				{
+					"type": "section",
+					"number": 1700,
+					"title": "INSTRUMENT RATING",
+					"start": 8300,
+					"end": 8700
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "FLIGHT ENGINEER LICENCE",
-			"start": 8800
+			"start": 8800,
+			"end": 9100
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "MECHANIC LICNECE",
-			"start": 9200
+			"start": 9200,
+			"end": 9800
 		},
 		{
 			"type": "chapter",
 			"number": 401,
 			"title": "NEW AIRCRAFT MAINTENANCE ENGINEER LICENCE",
-			"start": 9801
+			"start": 9801,
+			"end": 9810
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "REPAIRMAN",
-			"start": 9900
+			"start": 9900,
+			"end": 10300
 		},
 		{
 			"type": "chapter",
 			"number": 600,
 			"title": "FLIGHT DISPATCHER",
-			"start": 10400
+			"start": 10400,
+			"end": 10600
 		},
 		{
 			"type": "chapter",
 			"number": 700,
 			"title": "AIR TRAFFIC CONTROLLER",
-			"start": 10700
+			"start": 10700,
+			"end": 11101
 		},
 		{
 			"type": "chapter",
 			"number": 800,
 			"title": "FOREIGN AIRMAN",
-			"start": 11200
+			"start": 11200,
+			"end": 11402
 		},
 		{
 			"type": "chapter",
 			"number": 900,
 			"title": "SUPPLEMENTARY PROVISIONS",
-			"start": 11500
+			"start": 11500,
+			"end": 11800
 		}
 	],
 	"articles": [

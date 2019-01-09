@@ -24,43 +24,52 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 400
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "主管機關設置之產業園區用地變更規劃",
-			"start": 500
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "主管機關依職權辦理用地變更規劃",
-			"start": 500
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "土地所有權人申請用地變更規劃",
-			"start": 900
+			"start": 500,
+			"end": 3200,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "主管機關依職權辦理用地變更規劃",
+					"start": 500,
+					"end": 800
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "土地所有權人申請用地變更規劃",
+					"start": 900,
+					"end": 3200
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "公民營事業、興辦產業人設置之產業園區",
-			"start": 3300
+			"start": 3300,
+			"end": 3400
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "依原獎勵投資條例編定未開發之工業用地",
-			"start": 3500
+			"start": 3500,
+			"end": 3500
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "附則",
-			"start": 3600
+			"start": 3600,
+			"end": 4100
 		}
 	],
 	"articles": [

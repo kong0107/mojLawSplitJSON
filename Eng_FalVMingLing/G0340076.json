@@ -49,37 +49,43 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Provisions",
-			"start": 100
+			"start": 100,
+			"end": 400
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Taxable Commodities and Tax Rates or Tax Amounts",
-			"start": 500
+			"start": 500,
+			"end": 1206
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Taxable Value",
-			"start": 1300
+			"start": 1300,
+			"end": 1800
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Tax Collection",
-			"start": 1900
+			"start": 1900,
+			"end": 2700
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Penalties",
-			"start": 2800
+			"start": 2800,
+			"end": 3500
 		},
 		{
 			"type": "chapter",
 			"number": 600,
 			"title": "Supplementary Provisions",
-			"start": 3600
+			"start": 3600,
+			"end": 3700
 		}
 	],
 	"articles": [

@@ -16,37 +16,43 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Provisions",
-			"start": 100
+			"start": 100,
+			"end": 200
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "User Management",
-			"start": 300
+			"start": 300,
+			"end": 600
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "User's Payment Instructions",
-			"start": 700
+			"start": 700,
+			"end": 800
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Business Management and Operations of Electronic Payment Institutions",
-			"start": 900
+			"start": 900,
+			"end": 2100
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Supervision and Administration of Electronic Payment Institutions",
-			"start": 2200
+			"start": 2200,
+			"end": 3000
 		},
 		{
 			"type": "chapter",
 			"number": 600,
 			"title": "Supplemental Provisions",
-			"start": 3100
+			"start": 3100,
+			"end": 3100
 		}
 	],
 	"articles": [

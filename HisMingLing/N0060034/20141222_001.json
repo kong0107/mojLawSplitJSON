@@ -14,85 +14,101 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 300
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "動力衝剪機械",
-			"start": 400
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "安全護圍",
-			"start": 400
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "安全裝置",
-			"start": 600
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "機構及裝置",
-			"start": 1600
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "機械系統",
-			"start": 2700
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "液壓系統",
-			"start": 4500
+			"start": 400,
+			"end": 4900,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "安全護圍",
+					"start": 400,
+					"end": 500
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "安全裝置",
+					"start": 600,
+					"end": 1500
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "機構及裝置",
+					"start": 1600,
+					"end": 2600
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "機械系統",
+					"start": 2700,
+					"end": 4400
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "液壓系統",
+					"start": 4500,
+					"end": 4900
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "手推刨床",
-			"start": 5000
+			"start": 5000,
+			"end": 5800
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "木材加工用圓盤鋸",
-			"start": 5900
+			"start": 5900,
+			"end": 7000
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "動力堆高機",
-			"start": 7100
+			"start": 7100,
+			"end": 8400
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "研磨機、研磨輪",
-			"start": 8500
+			"start": 8500,
+			"end": 10900
 		},
 		{
 			"type": "章",
 			"number": 700,
 			"title": "防止爆炸及感電危害設備",
-			"start": 11000
+			"start": 11000,
+			"end": 11100
 		},
 		{
 			"type": "章",
 			"number": 800,
 			"title": "標示",
-			"start": 11200
+			"start": 11200,
+			"end": 11900
 		},
 		{
 			"type": "章",
 			"number": 900,
 			"title": "附則",
-			"start": 12000
+			"start": 12000,
+			"end": 12100
 		}
 	],
 	"articles": [

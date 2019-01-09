@@ -25,49 +25,57 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 900
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "檢查",
-			"start": 1000
+			"start": 1000,
+			"end": 1200
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "構造",
-			"start": 1300
+			"start": 1300,
+			"end": 1400
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "設備及配置",
-			"start": 1500
+			"start": 1500,
+			"end": 2400
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "乘客艙室及乘客定額",
-			"start": 2500
+			"start": 2500,
+			"end": 2700
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "證書",
-			"start": 2800
+			"start": 2800,
+			"end": 3700
 		},
 		{
 			"type": "章",
 			"number": 700,
 			"title": "航行",
-			"start": 3800
+			"start": 3800,
+			"end": 4000
 		},
 		{
 			"type": "章",
 			"number": 800,
 			"title": "附則",
-			"start": 4100
+			"start": 4100,
+			"end": 4300
 		}
 	],
 	"articles": [

@@ -20,31 +20,36 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 200
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "換裝核子燃料",
-			"start": 300
+			"start": 300,
+			"end": 600
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "機組大修",
-			"start": 700
+			"start": 700,
+			"end": 1600
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "異常事件",
-			"start": 1700
+			"start": 1700,
+			"end": 1900
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "附則",
-			"start": 2000
+			"start": 2000,
+			"end": 2100
 		}
 	],
 	"articles": [

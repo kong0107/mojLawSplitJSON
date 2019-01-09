@@ -16,49 +16,61 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Principles",
-			"start": 100
+			"start": 100,
+			"end": 300
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Permission or Special Approval for Establishment",
-			"start": 400
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "A Membership Stock Exchange",
-			"start": 400
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "A Company Type Stock Exchange",
-			"start": 1100
+			"start": 400,
+			"end": 1700,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "A Membership Stock Exchange",
+					"start": 400,
+					"end": 1000
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "A Company Type Stock Exchange",
+					"start": 1100,
+					"end": 1700
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Management and Supervision",
-			"start": 1800
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Financial and Business Matters",
-			"start": 1800
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Organization and Personnel",
-			"start": 3700
+			"start": 1800,
+			"end": 4700,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Financial and Business Matters",
+					"start": 1800,
+					"end": 3600
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Organization and Personnel",
+					"start": 3700,
+					"end": 4700
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Supplementary Provisions",
-			"start": 4800
+			"start": 4800,
+			"end": 4900
 		}
 	],
 	"articles": [

@@ -15,43 +15,52 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Provisions",
-			"start": 100
+			"start": 100,
+			"end": 1301
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Types of the Commissioned Operation",
-			"start": 1400
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Commission of Operation without Requesting Renovation or Expansion of the National",
-			"start": 1400
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Commission of Operation as well as Renovation or Expansion of the National Defense",
-			"start": 1700
+			"start": 1400,
+			"end": 1900,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Commission of Operation without Requesting Renovation or Expansion of the National",
+					"start": 1400,
+					"end": 1600
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Commission of Operation as well as Renovation or Expansion of the National Defense",
+					"start": 1700,
+					"end": 1900
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Invitation to Tender, Awarding of Contract and Contract Performance",
-			"start": 2000
+			"start": 2000,
+			"end": 2700
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Personnel Issues on Transformation",
-			"start": 2800
+			"start": 2800,
+			"end": 3300
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Supplementary Provisions",
-			"start": 3400
+			"start": 3400,
+			"end": 3800
 		}
 	],
 	"articles": [

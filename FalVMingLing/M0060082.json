@@ -18,25 +18,29 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 500
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "飼養管理",
-			"start": 600
+			"start": 600,
+			"end": 1300
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "動物之認領或認養",
-			"start": 1400
+			"start": 1400,
+			"end": 1700
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "附則",
-			"start": 1800
+			"start": 1800,
+			"end": 2100
 		}
 	],
 	"articles": [

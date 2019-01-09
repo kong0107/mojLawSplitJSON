@@ -26,25 +26,29 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 800
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "爭議審議會",
-			"start": 900
+			"start": 900,
+			"end": 1500
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "審議程序",
-			"start": 1600
+			"start": 1600,
+			"end": 2400
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "附則",
-			"start": 2500
+			"start": 2500,
+			"end": 2600
 		}
 	],
 	"articles": [

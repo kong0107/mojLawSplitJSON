@@ -22,37 +22,43 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 300
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "船舶登記簿冊",
-			"start": 400
+			"start": 400,
+			"end": 900
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "登記申請書",
-			"start": 1000
+			"start": 1000,
+			"end": 1300
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "登記程序",
-			"start": 1400
+			"start": 1400,
+			"end": 3500
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "登記簿之閱覽及謄本節本",
-			"start": 3600
+			"start": 3600,
+			"end": 4200
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "附則",
-			"start": 4300
+			"start": 4300,
+			"end": 4400
 		}
 	],
 	"articles": [

@@ -21,37 +21,43 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 601
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "稅率及稅基",
-			"start": 700
+			"start": 700,
+			"end": 1000
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "稅額計算",
-			"start": 1100
+			"start": 1100,
+			"end": 1200
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "稽徵",
-			"start": 1300
+			"start": 1300,
+			"end": 1900
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "罰則",
-			"start": 2000
+			"start": 2000,
+			"end": 2300
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "附則",
-			"start": 2400
+			"start": 2400,
+			"end": 2600
 		}
 	],
 	"articles": [

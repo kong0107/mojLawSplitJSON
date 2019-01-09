@@ -14,61 +14,73 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General",
-			"start": 100
+			"start": 100,
+			"end": 200
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "The Recognition of an Impartial Third Party",
-			"start": 300
+			"start": 300,
+			"end": 1000
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "The Public Auction Procedure of an Impartial Third Party",
-			"start": 1100
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "An Entrusted Auction",
-			"start": 1100
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Fixing the Floor Price",
-			"start": 1300
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Auction Proclamation",
-			"start": 1600
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "Auction",
-			"start": 1800
-		},
-		{
-			"type": "section",
-			"number": 500,
-			"title": "Reauction",
-			"start": 2500
-		},
-		{
-			"type": "section",
-			"number": 600,
-			"title": "The Registration of Transfer",
-			"start": 2800
+			"start": 1100,
+			"end": 2900,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "An Entrusted Auction",
+					"start": 1100,
+					"end": 1200
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Fixing the Floor Price",
+					"start": 1300,
+					"end": 1500
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Auction Proclamation",
+					"start": 1600,
+					"end": 1700
+				},
+				{
+					"type": "section",
+					"number": 400,
+					"title": "Auction",
+					"start": 1800,
+					"end": 2400
+				},
+				{
+					"type": "section",
+					"number": 500,
+					"title": "Reauction",
+					"start": 2500,
+					"end": 2700
+				},
+				{
+					"type": "section",
+					"number": 600,
+					"title": "The Registration of Transfer",
+					"start": 2800,
+					"end": 2900
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Supplementary Provisions",
-			"start": 3000
+			"start": 3000,
+			"end": 3000
 		}
 	],
 	"articles": [

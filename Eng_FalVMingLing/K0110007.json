@@ -23,37 +23,43 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Principles",
-			"start": 100
+			"start": 100,
+			"end": 300
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "planning and Construction",
-			"start": 400
+			"start": 400,
+			"end": 1000
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Operation and Management",
-			"start": 1100
+			"start": 1100,
+			"end": 1400
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Funds",
-			"start": 1500
+			"start": 1500,
+			"end": 1700
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Awards and Penalties",
-			"start": 1800
+			"start": 1800,
+			"end": 2200
 		},
 		{
 			"type": "chapter",
 			"number": 600,
 			"title": "Supplementary Provisions",
-			"start": 2300
+			"start": 2300,
+			"end": 2400
 		}
 	],
 	"articles": [

@@ -40,109 +40,129 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 600
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "航空器",
-			"start": 700
+			"start": 700,
+			"end": 2302
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "航空人員",
-			"start": 2400
+			"start": 2400,
+			"end": 2701
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "航空站、飛行場與助航設備",
-			"start": 2800
+			"start": 2800,
+			"end": 3700
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "飛航安全",
-			"start": 3800
+			"start": 3800,
+			"end": 4705
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "民用航空事業之管理",
-			"start": 4800
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "民用航空運輸業",
-			"start": 4800
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "普通航空業",
-			"start": 6400
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "航空貨運承攬業",
-			"start": 6600
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "航空貨物集散站經營業",
-			"start": 7100
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "航空站地勤業",
-			"start": 7400
+			"start": 4800,
+			"end": 7701,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "民用航空運輸業",
+					"start": 4800,
+					"end": 6301
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "普通航空業",
+					"start": 6400,
+					"end": 6500
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "航空貨運承攬業",
+					"start": 6600,
+					"end": 7001
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "航空貨物集散站經營業",
+					"start": 7100,
+					"end": 7300
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "航空站地勤業",
+					"start": 7400,
+					"end": 7701
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 700,
 			"title": "外籍航空器或外籍民用航空運輸業",
-			"start": 7800
+			"start": 7800,
+			"end": 8301
 		},
 		{
 			"type": "章",
 			"number": 800,
 			"title": "（刪除）",
-			"start": 8400
+			"start": 8400,
+			"end": 8801
 		},
 		{
 			"type": "章",
 			"number": 900,
 			"title": "賠償責任",
-			"start": 8900
+			"start": 8900,
+			"end": 9900
 		},
 		{
 			"type": "章",
 			"number": 901,
 			"title": "超輕型載具",
-			"start": 9901
+			"start": 9901,
+			"end": 9908
 		},
 		{
 			"type": "章",
 			"number": 902,
 			"title": "遙控無人機",
-			"start": 9909
+			"start": 9909,
+			"end": 9919
 		},
 		{
 			"type": "章",
 			"number": 1000,
 			"title": "罰則",
-			"start": 10000
+			"start": 10000,
+			"end": 12000
 		},
 		{
 			"type": "章",
 			"number": 1100,
 			"title": "附則",
-			"start": 12100
+			"start": 12100,
+			"end": 12300
 		}
 	],
 	"articles": [

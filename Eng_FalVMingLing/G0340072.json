@@ -26,55 +26,66 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General",
-			"start": 100
+			"start": 100,
+			"end": 1201
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Computation of Estate Tax",
-			"start": 1300
+			"start": 1300,
+			"end": 1800
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Computation of Gift Tax",
-			"start": 1900
+			"start": 1900,
+			"end": 2200
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Tax Collection Procedure",
-			"start": 2300
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Tax Return and Payment",
-			"start": 2300
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "",
-			"start": 3400
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Investigation and Reporting",
-			"start": 3700
+			"start": 2300,
+			"end": 4200,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Tax Return and Payment",
+					"start": 2300,
+					"end": 3300
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "",
+					"start": 3400,
+					"end": 3600
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Investigation and Reporting",
+					"start": 3700,
+					"end": 4200
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Penalty",
-			"start": 4300
+			"start": 4300,
+			"end": 5300
 		},
 		{
 			"type": "chapter",
 			"number": 600,
 			"title": "Supplemental Provisions",
-			"start": 5400
+			"start": 5400,
+			"end": 5900
 		}
 	],
 	"articles": [

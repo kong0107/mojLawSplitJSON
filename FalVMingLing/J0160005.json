@@ -91,31 +91,36 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 1800
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "放射性物質、包裝及包件",
-			"start": 1900
+			"start": 1900,
+			"end": 2600
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "交通、運送及貯存之管制",
-			"start": 2700
+			"start": 2700,
+			"end": 8500
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "核准作業規定",
-			"start": 8600
+			"start": 8600,
+			"end": 9400
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "附則",
-			"start": 9500
+			"start": 9500,
+			"end": 9600
 		}
 	],
 	"articles": [

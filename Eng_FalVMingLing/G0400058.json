@@ -17,67 +17,84 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Principles",
-			"start": 100
+			"start": 100,
+			"end": 700
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Formulation of Operation Procedures",
-			"start": 800
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Loans of Funds to Others",
-			"start": 800
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Endorsements/Guarantees for Others",
-			"start": 1100
+			"start": 800,
+			"end": 1300,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Loans of Funds to Others",
+					"start": 800,
+					"end": 1000
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Endorsements/Guarantees for Others",
+					"start": 1100,
+					"end": 1300
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Case Evaluation",
-			"start": 1400
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Loans of Funds to Others",
-			"start": 1400
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Endorsements/Guarantees for Others",
-			"start": 1700
+			"start": 1400,
+			"end": 2000,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Loans of Funds to Others",
+					"start": 1400,
+					"end": 1600
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Endorsements/Guarantees for Others",
+					"start": 1700,
+					"end": 2000
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Information Disclosure",
-			"start": 2100
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Loans of Funds to Others",
-			"start": 2100
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Endorsements/Guarantees for Others",
-			"start": 2400
+			"start": 2100,
+			"end": 2600,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Loans of Funds to Others",
+					"start": 2100,
+					"end": 2300
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Endorsements/Guarantees for Others",
+					"start": 2400,
+					"end": 2600
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Supplemental Provisions",
-			"start": 2601
+			"start": 2601,
+			"end": 2700
 		}
 	],
 	"articles": [

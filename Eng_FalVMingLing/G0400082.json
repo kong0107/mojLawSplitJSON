@@ -22,127 +22,150 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Principles",
-			"start": 100
+			"start": 100,
+			"end": 700
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Scope of and Restrictions on Fund Utilization",
-			"start": 800
+			"start": 800,
+			"end": 1800
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Types of Funds",
-			"start": 1900
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "General Provisions",
-			"start": 1900
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Equity Funds",
-			"start": 2500
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Bond Funds",
-			"start": 2700
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "Balanced Funds and Multi-Asset Funds",
-			"start": 3000
-		},
-		{
-			"type": "section",
-			"number": 500,
-			"title": "Index Funds",
-			"start": 3200
-		},
-		{
-			"type": "section",
-			"number": 600,
-			"title": "Exchange-Traded Funds (ETFs)",
-			"start": 3700
-		},
-		{
-			"type": "section",
-			"number": 700,
-			"title": "Funds of Funds",
-			"start": 4200
-		},
-		{
-			"type": "section",
-			"number": 800,
-			"title": "Principal Guaranteed Funds",
-			"start": 4400
-		},
-		{
-			"type": "section",
-			"number": 900,
-			"title": "Money Market Funds",
-			"start": 4700
-		},
-		{
-			"type": "section",
-			"number": 1000,
-			"title": "Other Funds Issued with the Approval of the FSC",
-			"start": 5000
+			"start": 1900,
+			"end": 5000,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "General Provisions",
+					"start": 1900,
+					"end": 2400
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Equity Funds",
+					"start": 2500,
+					"end": 2600
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Bond Funds",
+					"start": 2700,
+					"end": 2900
+				},
+				{
+					"type": "section",
+					"number": 400,
+					"title": "Balanced Funds and Multi-Asset Funds",
+					"start": 3000,
+					"end": 3102
+				},
+				{
+					"type": "section",
+					"number": 500,
+					"title": "Index Funds",
+					"start": 3200,
+					"end": 3600
+				},
+				{
+					"type": "section",
+					"number": 600,
+					"title": "Exchange-Traded Funds (ETFs)",
+					"start": 3700,
+					"end": 4100
+				},
+				{
+					"type": "section",
+					"number": 700,
+					"title": "Funds of Funds",
+					"start": 4200,
+					"end": 4300
+				},
+				{
+					"type": "section",
+					"number": 800,
+					"title": "Principal Guaranteed Funds",
+					"start": 4400,
+					"end": 4600
+				},
+				{
+					"type": "section",
+					"number": 900,
+					"title": "Money Market Funds",
+					"start": 4700,
+					"end": 4900
+				},
+				{
+					"type": "section",
+					"number": 1000,
+					"title": "Other Funds Issued with the Approval of the FSC",
+					"start": 5000,
+					"end": 5000
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Private Placement of Funds",
-			"start": 5100
+			"start": 5100,
+			"end": 5600
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Custody of Funds",
-			"start": 5700
+			"start": 5700,
+			"end": 6300
 		},
 		{
 			"type": "chapter",
 			"number": 600,
 			"title": "Certificates of Beneficial Interest",
-			"start": 6400
+			"start": 6400,
+			"end": 6900
 		},
 		{
 			"type": "chapter",
 			"number": 700,
 			"title": "Redemption of Funds",
-			"start": 7000
+			"start": 7000,
+			"end": 7100
 		},
 		{
 			"type": "chapter",
 			"number": 800,
 			"title": "Fund accounting",
-			"start": 7200
+			"start": 7200,
+			"end": 7700
 		},
 		{
 			"type": "chapter",
 			"number": 900,
 			"title": "Changes to Funds and Durations, Termination, and Liquidation of Funds",
-			"start": 7800
+			"start": 7800,
+			"end": 8200
 		},
 		{
 			"type": "chapter",
 			"number": 1000,
 			"title": "Merger of Funds",
-			"start": 8300
+			"start": 8300,
+			"end": 8900
 		},
 		{
 			"type": "chapter",
 			"number": 1100,
 			"title": "Supplementary Provisions",
-			"start": 9000
+			"start": 9000,
+			"end": 9200
 		}
 	],
 	"articles": [

@@ -22,25 +22,29 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "GENERAL",
-			"start": 100
+			"start": 100,
+			"end": 600
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "FORECASTS",
-			"start": 700
+			"start": 700,
+			"end": 800
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "WARNINGS, ADVISORIES, AND REPORTS",
-			"start": 900
+			"start": 900,
+			"end": 1601
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "SUPPLEMENTAL PROVISIONS",
-			"start": 1700
+			"start": 1700,
+			"end": 1800
 		}
 	],
 	"articles": [

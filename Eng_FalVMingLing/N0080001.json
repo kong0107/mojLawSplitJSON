@@ -17,85 +17,101 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Provisions",
-			"start": 100
+			"start": 100,
+			"end": 401
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Vocational Training Institutions",
-			"start": 500
+			"start": 500,
+			"end": 600
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Implementation of Vocational Training",
-			"start": 700
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Rudimentary Training",
-			"start": 700
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Apprentice Training",
-			"start": 1100
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Upgrading Training",
-			"start": 1500
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "Job-transfer Training",
-			"start": 1800
-		},
-		{
-			"type": "section",
-			"number": 500,
-			"title": "(Deleted)",
-			"start": 2100
+			"start": 700,
+			"end": 2300,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Rudimentary Training",
+					"start": 700,
+					"end": 1000
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Apprentice Training",
+					"start": 1100,
+					"end": 1400
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Upgrading Training",
+					"start": 1500,
+					"end": 1700
+				},
+				{
+					"type": "section",
+					"number": 400,
+					"title": "Job-transfer Training",
+					"start": 1800,
+					"end": 2000
+				},
+				{
+					"type": "section",
+					"number": 500,
+					"title": "(Deleted)",
+					"start": 2100,
+					"end": 2300
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Vocational Training Instructor",
-			"start": 2400
+			"start": 2400,
+			"end": 2600
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Training Expenses of Business Entities",
-			"start": 2700
+			"start": 2700,
+			"end": 3000
 		},
 		{
 			"type": "chapter",
 			"number": 600,
 			"title": "Skills Certification, Issuance of Certificate and Accreditation",
-			"start": 3100
+			"start": 3100,
+			"end": 3500
 		},
 		{
 			"type": "chapter",
 			"number": 700,
 			"title": "Guidance and Reward",
-			"start": 3600
+			"start": 3600,
+			"end": 3801
 		},
 		{
 			"type": "chapter",
 			"number": 800,
 			"title": "Penal Provisions",
-			"start": 3900
+			"start": 3900,
+			"end": 4100
 		},
 		{
 			"type": "chapter",
 			"number": 900,
 			"title": "Supplementary Provisions",
-			"start": 4200
+			"start": 4200,
+			"end": 4400
 		}
 	],
 	"articles": [

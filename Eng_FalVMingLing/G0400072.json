@@ -83,73 +83,87 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Provisions",
-			"start": 100
+			"start": 100,
+			"end": 800
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Finance",
-			"start": 900
+			"start": 900,
+			"end": 2100
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Business Operation",
-			"start": 2200
+			"start": 2200,
+			"end": 4501
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Merger",
-			"start": 4600
+			"start": 4600,
+			"end": 4800
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Investment In Foreign And Mainland Chinese Securities Enterprises",
-			"start": 4900
+			"start": 4900,
+			"end": 5800
 		},
 		{
 			"type": "chapter",
 			"number": 501,
 			"title": "Administration Of Overseas Branch Offices",
-			"start": 5801
+			"start": 5801,
+			"end": 5803
 		},
 		{
 			"type": "chapter",
 			"number": 600,
 			"title": "Management Of Regulatory Capital",
-			"start": 5900
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "(Deleted)",
-			"start": 5900
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "(Deleted)",
-			"start": 6000
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "(Deleted)",
-			"start": 6201
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "(Deleted)",
-			"start": 6300
+			"start": 5900,
+			"end": 6700,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "(Deleted)",
+					"start": 5900,
+					"end": 5901
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "(Deleted)",
+					"start": 6000,
+					"end": 6200
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "(Deleted)",
+					"start": 6201,
+					"end": 6207
+				},
+				{
+					"type": "section",
+					"number": 400,
+					"title": "(Deleted)",
+					"start": 6300,
+					"end": 6700
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 700,
 			"title": "Supplemental Provisions",
-			"start": 6800
+			"start": 6800,
+			"end": 6900
 		}
 	],
 	"articles": [

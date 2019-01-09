@@ -26,157 +26,193 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 400
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "開發建築計畫",
-			"start": 500
+			"start": 500,
+			"end": 900
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "公共設施、商業設施及服務設施",
-			"start": 1000
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "設置標準",
-			"start": 1000
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "公共設施",
-			"start": 1200
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "商業設施",
-			"start": 1600
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "服務設施",
-			"start": 1800
+			"start": 1000,
+			"end": 2200,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "設置標準",
+					"start": 1000,
+					"end": 1100
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "公共設施",
+					"start": 1200,
+					"end": 1500
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "商業設施",
+					"start": 1600,
+					"end": 1700
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "服務設施",
+					"start": 1800,
+					"end": 2200
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "道路街廓及停車空間",
-			"start": 2300
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "道路街廓",
-			"start": 2300
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "停車空間",
-			"start": 2700
+			"start": 2300,
+			"end": 2800,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "道路街廓",
+					"start": 2300,
+					"end": 2600
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "停車空間",
+					"start": 2700,
+					"end": 2800
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "住宅配置",
-			"start": 2900
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "配置條件",
-			"start": 2900
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "配置距離",
-			"start": 3300
+			"start": 2900,
+			"end": 3400,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "配置條件",
+					"start": 2900,
+					"end": 3200
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "配置距離",
+					"start": 3300,
+					"end": 3400
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "住宅設計",
-			"start": 3500
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "住宅面積",
-			"start": 3500
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "室內空間、門窗",
-			"start": 3700
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "陽台、屋頂",
-			"start": 4400
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "住宅外部",
-			"start": 4600
+			"start": 3500,
+			"end": 4800,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "住宅面積",
+					"start": 3500,
+					"end": 3600
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "室內空間、門窗",
+					"start": 3700,
+					"end": 4300
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "陽台、屋頂",
+					"start": 4400,
+					"end": 4500
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "住宅外部",
+					"start": 4600,
+					"end": 4800
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 700,
 			"title": "設備",
-			"start": 4900
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "給水系統",
-			"start": 4900
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "排水系統",
-			"start": 5600
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "電氣設備",
-			"start": 6100
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "廚房及浴廁設備",
-			"start": 7200
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "燃氣設備",
-			"start": 7500
-		},
-		{
-			"type": "節",
-			"number": 600,
-			"title": "其他設備",
-			"start": 7800
+			"start": 4900,
+			"end": 7900,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "給水系統",
+					"start": 4900,
+					"end": 5500
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "排水系統",
+					"start": 5600,
+					"end": 6001
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "電氣設備",
+					"start": 6100,
+					"end": 7100
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "廚房及浴廁設備",
+					"start": 7200,
+					"end": 7400
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "燃氣設備",
+					"start": 7500,
+					"end": 7700
+				},
+				{
+					"type": "節",
+					"number": 600,
+					"title": "其他設備",
+					"start": 7800,
+					"end": 7900
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 800,
 			"title": "附則",
-			"start": 8000
+			"start": 8000,
+			"end": 8000
 		}
 	],
 	"articles": [

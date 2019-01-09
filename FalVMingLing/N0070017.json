@@ -23,85 +23,103 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 300
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "結構部分",
-			"start": 400
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "材料",
-			"start": 400
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "容許應力",
-			"start": 700
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "荷重",
-			"start": 1500
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "強度",
-			"start": 1900
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "升降路等",
-			"start": 2100
+			"start": 400,
+			"end": 3000,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "材料",
+					"start": 400,
+					"end": 600
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "容許應力",
+					"start": 700,
+					"end": 1400
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "荷重",
+					"start": 1500,
+					"end": 1800
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "強度",
+					"start": 1900,
+					"end": 2000
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "升降路等",
+					"start": 2100,
+					"end": 3000
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "機械部分",
-			"start": 3100
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "升降裝置",
-			"start": 3100
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "安全裝置",
-			"start": 3700
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "電氣部分",
-			"start": 4300
+			"start": 3100,
+			"end": 4400,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "升降裝置",
+					"start": 3100,
+					"end": 3600
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "安全裝置",
+					"start": 3700,
+					"end": 4200
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "電氣部分",
+					"start": 4300,
+					"end": 4400
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "鋼索及鏈條",
-			"start": 4500
+			"start": 4500,
+			"end": 4600
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "加工",
-			"start": 4700
+			"start": 4700,
+			"end": 5000
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "附則",
-			"start": 5100
+			"start": 5100,
+			"end": 5200
 		}
 	],
 	"articles": [

@@ -26,31 +26,36 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Provisions",
-			"start": 100
+			"start": 100,
+			"end": 300
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Allocation, Assignment and Abolishment of Radio Frequency",
-			"start": 400
+			"start": 400,
+			"end": 1300
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "The Use of Radio Frequency and Handling of Radio Interference",
-			"start": 1400
+			"start": 1400,
+			"end": 3000
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Identification of Station",
-			"start": 3100
+			"start": 3100,
+			"end": 5000
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Supplementary Provisions",
-			"start": 5100
+			"start": 5100,
+			"end": 5400
 		}
 	],
 	"articles": [

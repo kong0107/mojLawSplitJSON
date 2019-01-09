@@ -20,31 +20,38 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 400
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "設立許可",
-			"start": 500
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "會員制期貨交易所",
-			"start": 500
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "公司制期貨交易所",
-			"start": 900
+			"start": 500,
+			"end": 1300,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "會員制期貨交易所",
+					"start": 500,
+					"end": 800
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "公司制期貨交易所",
+					"start": 900,
+					"end": 1300
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "附則",
-			"start": 1400
+			"start": 1400,
+			"end": 1700
 		}
 	],
 	"articles": [

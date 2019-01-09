@@ -30,25 +30,29 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 800
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "直營、標售及專案核准採取",
-			"start": 900
+			"start": 900,
+			"end": 2400
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "採運管理",
-			"start": 2500
+			"start": 2500,
+			"end": 3000
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "附則",
-			"start": 3100
+			"start": 3100,
+			"end": 3200
 		}
 	],
 	"articles": [

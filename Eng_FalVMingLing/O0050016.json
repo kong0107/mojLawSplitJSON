@@ -23,31 +23,36 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Principles",
-			"start": 100
+			"start": 100,
+			"end": 300
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Import",
-			"start": 400
+			"start": 400,
+			"end": 1000
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Export",
-			"start": 1100
+			"start": 1100,
+			"end": 1801
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Transit and Transshipment",
-			"start": 1900
+			"start": 1900,
+			"end": 2300
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Supplementary Provisions",
-			"start": 2400
+			"start": 2400,
+			"end": 3900
 		}
 	],
 	"articles": [

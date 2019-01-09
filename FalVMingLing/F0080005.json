@@ -35,25 +35,29 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 300
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "高級中學學資之比敘",
-			"start": 400
+			"start": 400,
+			"end": 500
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "高級職業學校學資之比敘",
-			"start": 600
+			"start": 600,
+			"end": 900
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "附則",
-			"start": 1000
+			"start": 1000,
+			"end": 1500
 		}
 	],
 	"articles": [

@@ -88,607 +88,742 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "通則",
-			"start": 100
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "用詞定義",
-			"start": 700
+			"start": 100,
+			"end": 700,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "通則",
+					"start": 100,
+					"end": 600
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "用詞定義",
+					"start": 700,
+					"end": 700
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "接地",
-			"start": 800
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "通則",
-			"start": 800
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "接地導體（線）之連接點",
-			"start": 1000
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "接地導體（線）及連接方法",
-			"start": 1500
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "接地電極",
-			"start": 2100
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "接地電極之連接方法",
-			"start": 3000
-		},
-		{
-			"type": "節",
-			"number": 600,
-			"title": "接地電阻",
-			"start": 3300
-		},
-		{
-			"type": "節",
-			"number": 700,
-			"title": "接地導體（線）之分隔",
-			"start": 3800
-		},
-		{
-			"type": "節",
-			"number": 800,
-			"title": "通訊設備之接地及搭接附加規定",
-			"start": 4500
+			"start": 800,
+			"end": 4800,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "通則",
+					"start": 800,
+					"end": 900
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "接地導體（線）之連接點",
+					"start": 1000,
+					"end": 1400
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "接地導體（線）及連接方法",
+					"start": 1500,
+					"end": 2000
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "接地電極",
+					"start": 2100,
+					"end": 2900
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "接地電極之連接方法",
+					"start": 3000,
+					"end": 3200
+				},
+				{
+					"type": "節",
+					"number": 600,
+					"title": "接地電阻",
+					"start": 3300,
+					"end": 3700
+				},
+				{
+					"type": "節",
+					"number": 700,
+					"title": "接地導體（線）之分隔",
+					"start": 3800,
+					"end": 4400
+				},
+				{
+					"type": "節",
+					"number": 800,
+					"title": "通訊設備之接地及搭接附加規定",
+					"start": 4500,
+					"end": 4800
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "架空供電及通訊線路通則",
-			"start": 4900
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "適用規定",
-			"start": 4900
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "架空線路之裝設",
-			"start": 5000
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "感應電壓",
-			"start": 5300
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "線路及設備之檢查與測試",
-			"start": 5400
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "線路、支持物及設備之接地",
-			"start": 5600
-		},
-		{
-			"type": "節",
-			"number": 600,
-			"title": "開關配置",
-			"start": 6400
-		},
-		{
-			"type": "節",
-			"number": 700,
-			"title": "支持物",
-			"start": 6500
-		},
-		{
-			"type": "節",
-			"number": 800,
-			"title": "植物修剪",
-			"start": 6900
-		},
-		{
-			"type": "節",
-			"number": 900,
-			"title": "各種等級之線路與設備關係",
-			"start": 7100
-		},
-		{
-			"type": "節",
-			"number": 1000,
-			"title": "通訊保護",
-			"start": 7400
-		},
-		{
-			"type": "節",
-			"number": 1100,
-			"title": "供電設施空間之通訊線路及通訊設施空間之供電線路",
-			"start": 7500
+			"start": 4900,
+			"end": 7600,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "適用規定",
+					"start": 4900,
+					"end": 4900
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "架空線路之裝設",
+					"start": 5000,
+					"end": 5200
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "感應電壓",
+					"start": 5300,
+					"end": 5300
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "線路及設備之檢查與測試",
+					"start": 5400,
+					"end": 5500
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "線路、支持物及設備之接地",
+					"start": 5600,
+					"end": 6300
+				},
+				{
+					"type": "節",
+					"number": 600,
+					"title": "開關配置",
+					"start": 6400,
+					"end": 6400
+				},
+				{
+					"type": "節",
+					"number": 700,
+					"title": "支持物",
+					"start": 6500,
+					"end": 6800
+				},
+				{
+					"type": "節",
+					"number": 800,
+					"title": "植物修剪",
+					"start": 6900,
+					"end": 7000
+				},
+				{
+					"type": "節",
+					"number": 900,
+					"title": "各種等級之線路與設備關係",
+					"start": 7100,
+					"end": 7300
+				},
+				{
+					"type": "節",
+					"number": 1000,
+					"title": "通訊保護",
+					"start": 7400,
+					"end": 7400
+				},
+				{
+					"type": "節",
+					"number": 1100,
+					"title": "供電設施空間之通訊線路及通訊設施空間之供電線路",
+					"start": 7500,
+					"end": 7600
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "架空線路相關間隔",
-			"start": 7700
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "通則",
-			"start": 7700
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "架空線路之支持物與其他構物間之間隔",
-			"start": 8400
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "支吊線、導線、電纜及設備等與地面、道路、軌道或水面之垂直間隔",
-			"start": 8800
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "架設於不同支持物上支吊線、導線及電纜間之間隔",
-			"start": 9200
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "支吊線、導線、電纜及設備與建築物、橋梁、鐵路軌道、車道、游泳池及其他裝置間之間隔",
-			"start": 9700
-		},
-		{
-			"type": "節",
-			"number": 600,
-			"title": "同一支持物上支吊線、導線或電纜間之間隔",
-			"start": 10900
-		},
-		{
-			"type": "節",
-			"number": 700,
-			"title": "爬登空間",
-			"start": 12400
-		},
-		{
-			"type": "節",
-			"number": 800,
-			"title": "工作空間",
-			"start": 13400
-		},
-		{
-			"type": "節",
-			"number": 900,
-			"title": "同一支持物上通訊與供電設施之垂直間隔",
-			"start": 13900
-		},
-		{
-			"type": "節",
-			"number": 1000,
-			"title": "同一支持物上垂直及橫向設施與其他設施及表面間之間隔",
-			"start": 14400
+			"start": 7700,
+			"end": 15400,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "通則",
+					"start": 7700,
+					"end": 8300
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "架空線路之支持物與其他構物間之間隔",
+					"start": 8400,
+					"end": 8700
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "支吊線、導線、電纜及設備等與地面、道路、軌道或水面之垂直間隔",
+					"start": 8800,
+					"end": 9100
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "架設於不同支持物上支吊線、導線及電纜間之間隔",
+					"start": 9200,
+					"end": 9600
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "支吊線、導線、電纜及設備與建築物、橋梁、鐵路軌道、車道、游泳池及其他裝置間之間隔",
+					"start": 9700,
+					"end": 10800
+				},
+				{
+					"type": "節",
+					"number": 600,
+					"title": "同一支持物上支吊線、導線或電纜間之間隔",
+					"start": 10900,
+					"end": 12300
+				},
+				{
+					"type": "節",
+					"number": 700,
+					"title": "爬登空間",
+					"start": 12400,
+					"end": 13300
+				},
+				{
+					"type": "節",
+					"number": 800,
+					"title": "工作空間",
+					"start": 13400,
+					"end": 13800
+				},
+				{
+					"type": "節",
+					"number": 900,
+					"title": "同一支持物上通訊與供電設施之垂直間隔",
+					"start": 13900,
+					"end": 14300
+				},
+				{
+					"type": "節",
+					"number": 1000,
+					"title": "同一支持物上垂直及橫向設施與其他設施及表面間之間隔",
+					"start": 14400,
+					"end": 15400
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "架空線路建設等級",
-			"start": 15500
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "通則",
-			"start": 15500
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "在不同情況下應用之建設等級",
-			"start": 15900
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "導線、架空地線之建設等級",
-			"start": 16100
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "線路支持物之建設等級",
-			"start": 16200
+			"start": 15500,
+			"end": 16400,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "通則",
+					"start": 15500,
+					"end": 15800
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "在不同情況下應用之建設等級",
+					"start": 15900,
+					"end": 16000
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "導線、架空地線之建設等級",
+					"start": 16100,
+					"end": 16100
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "線路支持物之建設等級",
+					"start": 16200,
+					"end": 16400
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "架空線路荷重",
-			"start": 16500
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "通則",
-			"start": 16500
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "導線、架空地線及吊線承受之荷重",
-			"start": 16800
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "線路支持物承受之荷重",
-			"start": 17000
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "支持物、橫擔、支持導線、架空地線之配件、支線、基礎及錨錠物等之荷重安全係數",
-			"start": 17400
+			"start": 16500,
+			"end": 17400,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "通則",
+					"start": 16500,
+					"end": 16700
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "導線、架空地線及吊線承受之荷重",
+					"start": 16800,
+					"end": 16900
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "線路支持物承受之荷重",
+					"start": 17000,
+					"end": 17300
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "支持物、橫擔、支持導線、架空地線之配件、支線、基礎及錨錠物等之荷重安全係數",
+					"start": 17400,
+					"end": 17400
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 700,
 			"title": "架空線路機械強度",
-			"start": 17500
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "通則",
-			"start": 17500
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "特級線路與一級線路之建設等級",
-			"start": 17600
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "二級建設等級",
-			"start": 19100
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "支線及斜撐",
-			"start": 19600
+			"start": 17500,
+			"end": 20100,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "通則",
+					"start": 17500,
+					"end": 17500
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "特級線路與一級線路之建設等級",
+					"start": 17600,
+					"end": 19000
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "二級建設等級",
+					"start": 19100,
+					"end": 19500
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "支線及斜撐",
+					"start": 19600,
+					"end": 20100
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 800,
 			"title": "架空線路絕緣",
-			"start": 20200
+			"start": 20200,
+			"end": 21200
 		},
 		{
 			"type": "章",
 			"number": 900,
 			"title": "地下供電及通訊線路通則",
-			"start": 21300
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "裝設及維護",
-			"start": 21300
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "線路及設備之檢查及測試",
-			"start": 21600
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "地下線路及設備之接地",
-			"start": 21700
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "通訊保護",
-			"start": 21900
+			"start": 21300,
+			"end": 21900,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "裝設及維護",
+					"start": 21300,
+					"end": 21500
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "線路及設備之檢查及測試",
+					"start": 21600,
+					"end": 21600
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "地下線路及設備之接地",
+					"start": 21700,
+					"end": 21800
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "通訊保護",
+					"start": 21900,
+					"end": 21900
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 1000,
 			"title": "地下管路系統",
-			"start": 22000
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "位置",
-			"start": 22000
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "開挖及回填",
-			"start": 22200
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "導線管及接頭",
-			"start": 22400
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "人孔、手孔及配電室",
-			"start": 22600
+			"start": 22000,
+			"end": 23500,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "位置",
+					"start": 22000,
+					"end": 22100
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "開挖及回填",
+					"start": 22200,
+					"end": 22300
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "導線管及接頭",
+					"start": 22400,
+					"end": 22500
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "人孔、手孔及配電室",
+					"start": 22600,
+					"end": 23500
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 1100,
 			"title": "供電電纜",
-			"start": 23600
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "通則",
-			"start": 23600
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "被覆及外皮",
-			"start": 24100
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "遮蔽層",
-			"start": 24200
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "電纜配件及電纜接頭",
-			"start": 24400
+			"start": 23600,
+			"end": 24500,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "通則",
+					"start": 23600,
+					"end": 24000
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "被覆及外皮",
+					"start": 24100,
+					"end": 24100
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "遮蔽層",
+					"start": 24200,
+					"end": 24300
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "電纜配件及電纜接頭",
+					"start": 24400,
+					"end": 24500
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 1200,
 			"title": "地下構造物中之電纜",
-			"start": 24600
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "通則",
-			"start": 24600
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "裝設",
-			"start": 24800
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "接地及搭接",
-			"start": 25000
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "包括特殊供電電路之通訊電纜",
-			"start": 25300
+			"start": 24600,
+			"end": 25300,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "通則",
+					"start": 24600,
+					"end": 24700
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "裝設",
+					"start": 24800,
+					"end": 24900
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "接地及搭接",
+					"start": 25000,
+					"end": 25200
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "包括特殊供電電路之通訊電纜",
+					"start": 25300,
+					"end": 25300
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 1300,
 			"title": "直埋電纜",
-			"start": 25400
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "通則",
-			"start": 25400
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "位置及路徑",
-			"start": 26000
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "直埋供電電纜之埋設",
-			"start": 26300
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "距地下構造物或其他電纜之隔距三百毫米或十二英寸以上",
-			"start": 26900
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "距地下構造物或其他電纜之隔距小於三百毫米或十二英寸",
-			"start": 27300
+			"start": 25400,
+			"end": 27700,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "通則",
+					"start": 25400,
+					"end": 25900
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "位置及路徑",
+					"start": 26000,
+					"end": 26200
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "直埋供電電纜之埋設",
+					"start": 26300,
+					"end": 26800
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "距地下構造物或其他電纜之隔距三百毫米或十二英寸以上",
+					"start": 26900,
+					"end": 27200
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "距地下構造物或其他電纜之隔距小於三百毫米或十二英寸",
+					"start": 27300,
+					"end": 27700
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 1400,
 			"title": "纜線出地裝置",
-			"start": 27800
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "通則",
-			"start": 27800
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "纜線出地",
-			"start": 28100
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "出地纜線引上電桿之其他規定",
-			"start": 28400
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "亭置式裝置",
-			"start": 28600
+			"start": 27800,
+			"end": 28700,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "通則",
+					"start": 27800,
+					"end": 28000
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "纜線出地",
+					"start": 28100,
+					"end": 28300
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "出地纜線引上電桿之其他規定",
+					"start": 28400,
+					"end": 28500
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "亭置式裝置",
+					"start": 28600,
+					"end": 28700
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 1500,
 			"title": "供電電纜終端接頭裝置",
-			"start": 28800
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "通則",
-			"start": 28800
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "地下供電電纜終端接頭之支撐",
-			"start": 29200
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "識別",
-			"start": 29400
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "配電室或封閉體內之間隔",
-			"start": 29500
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "接地",
-			"start": 29800
+			"start": 28800,
+			"end": 29900,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "通則",
+					"start": 28800,
+					"end": 29100
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "地下供電電纜終端接頭之支撐",
+					"start": 29200,
+					"end": 29300
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "識別",
+					"start": 29400,
+					"end": 29400
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "配電室或封閉體內之間隔",
+					"start": 29500,
+					"end": 29700
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "接地",
+					"start": 29800,
+					"end": 29900
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 1600,
 			"title": "洞道內設施之裝設",
-			"start": 30000
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "通則",
-			"start": 30000
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "環境要求",
-			"start": 30200
+			"start": 30000,
+			"end": 30300,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "通則",
+					"start": 30000,
+					"end": 30100
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "環境要求",
+					"start": 30200,
+					"end": 30300
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 1700,
 			"title": "接戶線裝置",
-			"start": 30400
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "架空接戶線",
-			"start": 30400
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "地下接戶線",
-			"start": 31900
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "接戶線與樹木、建築物或其他裝置間之間隔",
-			"start": 32200
+			"start": 30400,
+			"end": 32800,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "架空接戶線",
+					"start": 30400,
+					"end": 31800
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "地下接戶線",
+					"start": 31900,
+					"end": 32100
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "接戶線與樹木、建築物或其他裝置間之間隔",
+					"start": 32200,
+					"end": 32800
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 1800,
 			"title": "變電所裝置",
-			"start": 32900
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "通則",
-			"start": 32900
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "屋外變電所",
-			"start": 33600
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "屋內變電所",
-			"start": 33900
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "海上變電所",
-			"start": 34200
+			"start": 32900,
+			"end": 34400,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "通則",
+					"start": 32900,
+					"end": 33500
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "屋外變電所",
+					"start": 33600,
+					"end": 33800
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "屋內變電所",
+					"start": 33900,
+					"end": 34100
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "海上變電所",
+					"start": 34200,
+					"end": 34400
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 1900,
 			"title": "附則",
-			"start": 34500
+			"start": 34500,
+			"end": 34500
 		}
 	],
 	"articles": [

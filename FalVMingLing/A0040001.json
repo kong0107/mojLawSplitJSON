@@ -19,55 +19,66 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 800
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "省、縣 (市) 、鄉 (鎮、市) 民之權利與義務",
-			"start": 900
+			"start": 900,
+			"end": 1100
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "自治事項",
-			"start": 1200
+			"start": 1200,
+			"end": 1600
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "自治組織",
-			"start": 1700
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "省議會、縣（市）議會、鄉（鎮、市）民代表會",
-			"start": 1700
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "省政府、縣（市）政府、鄉（鎮、市、區）公所",
-			"start": 3500
+			"start": 1700,
+			"end": 4200,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "省議會、縣（市）議會、鄉（鎮、市）民代表會",
+					"start": 1700,
+					"end": 3400
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "省政府、縣（市）政府、鄉（鎮、市、區）公所",
+					"start": 3500,
+					"end": 4200
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "自治財政",
-			"start": 4300
+			"start": 4300,
+			"end": 5300
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "自治監督",
-			"start": 5400
+			"start": 5400,
+			"end": 6200
 		},
 		{
 			"type": "章",
 			"number": 700,
 			"title": "附則",
-			"start": 6300
+			"start": 6300,
+			"end": 6600
 		}
 	],
 	"articles": [

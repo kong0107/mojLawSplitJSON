@@ -22,85 +22,103 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 500
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "和解",
-			"start": 600
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "法院之和解",
-			"start": 600
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "商會之和解",
-			"start": 4100
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "和解及和解讓步之撤銷",
-			"start": 5000
+			"start": 600,
+			"end": 5600,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "法院之和解",
+					"start": 600,
+					"end": 4000
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "商會之和解",
+					"start": 4100,
+					"end": 4900
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "和解及和解讓步之撤銷",
+					"start": 5000,
+					"end": 5600
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "破產",
-			"start": 5700
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "破產之宣告及效力",
-			"start": 5700
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "破產財團之構成及管理",
-			"start": 8200
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "破產債權",
-			"start": 9800
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "債權人會議",
-			"start": 11600
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "調協",
-			"start": 12900
-		},
-		{
-			"type": "節",
-			"number": 600,
-			"title": "破產財團之分配及破產之終結",
-			"start": 13800
-		},
-		{
-			"type": "節",
-			"number": 700,
-			"title": "復權",
-			"start": 15000
+			"start": 5700,
+			"end": 15100,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "破產之宣告及效力",
+					"start": 5700,
+					"end": 8100
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "破產財團之構成及管理",
+					"start": 8200,
+					"end": 9700
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "破產債權",
+					"start": 9800,
+					"end": 11500
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "債權人會議",
+					"start": 11600,
+					"end": 12800
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "調協",
+					"start": 12900,
+					"end": 13700
+				},
+				{
+					"type": "節",
+					"number": 600,
+					"title": "破產財團之分配及破產之終結",
+					"start": 13800,
+					"end": 14900
+				},
+				{
+					"type": "節",
+					"number": 700,
+					"title": "復權",
+					"start": 15000,
+					"end": 15100
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "罰則",
-			"start": 15200
+			"start": 15200,
+			"end": 15900
 		}
 	],
 	"articles": [

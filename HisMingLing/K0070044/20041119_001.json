@@ -13,62 +13,70 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 1800
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "船體",
-			"start": 1900
+			"start": 1900,
+			"end": 2300
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "主機、副機及艉軸系",
-			"start": 2400
+			"start": 2400,
+			"end": 2900
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "電機",
-			"start": 3000
+			"start": 3000,
+			"end": 4000
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "設備",
-			"start": 4100
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "一般規定",
-			"start": 4100
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "排水設備"
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "舵機、錨機及繫泊設備"
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "救生設備"
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "消防設備及防火措施"
-		},
-		{
-			"type": "節",
-			"number": 600,
-			"title": "起居、逃生設備、航海用具及其他附屬用具"
+			"start": 4100,
+			"end": 4200,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "一般規定",
+					"start": 4100,
+					"end": 4200
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "排水設備"
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "舵機、錨機及繫泊設備"
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "救生設備"
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "消防設備及防火措施"
+				},
+				{
+					"type": "節",
+					"number": 600,
+					"title": "起居、逃生設備、航海用具及其他附屬用具"
+				}
+			]
 		},
 		{
 			"type": "章",

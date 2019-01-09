@@ -31,25 +31,29 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General principles",
-			"start": 100
+			"start": 100,
+			"end": 1000
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Selection and Price Negotiation",
-			"start": 1100
+			"start": 1100,
+			"end": 2400
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Fee calculation formulas",
-			"start": 2500
+			"start": 2500,
+			"end": 3700
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Supplemental Provisions",
-			"start": 3800
+			"start": 3800,
+			"end": 4000
 		}
 	],
 	"articles": [

@@ -29,31 +29,38 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Principles",
-			"start": 100
+			"start": 100,
+			"end": 100
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Artificial Reproduction Institution Permit Criteria",
-			"start": 200
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Medical Care Institutions",
-			"start": 200
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Public Interest Judicial Persons",
-			"start": 1300
+			"start": 200,
+			"end": 2300,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Medical Care Institutions",
+					"start": 200,
+					"end": 1200
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Public Interest Judicial Persons",
+					"start": 1300,
+					"end": 2300
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Supplementary Provisions",
-			"start": 2400
+			"start": 2400,
+			"end": 3200
 		}
 	],
 	"articles": [

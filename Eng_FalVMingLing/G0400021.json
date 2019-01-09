@@ -27,61 +27,73 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Provisions",
-			"start": 100
+			"start": 100,
+			"end": 200
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "The Establishment of Securities Firms",
-			"start": 300
+			"start": 300,
+			"end": 1200
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "The Application by a Financial Institution to Concurrently Operate Securities Business",
-			"start": 1300
+			"start": 1300,
+			"end": 1802
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "The Establishment of Branch Units and Representative Offices",
-			"start": 1900
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Domestic Branch Units",
-			"start": 1900
-		},
-		{
-			"type": "section",
-			"number": 101,
-			"title": "Overseas Branch Units and Representative Offices",
-			"start": 2501
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Foreign Securities Firms",
-			"start": 2700
+			"start": 1900,
+			"end": 3303,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Domestic Branch Units",
+					"start": 1900,
+					"end": 2500
+				},
+				{
+					"type": "section",
+					"number": 101,
+					"title": "Overseas Branch Units and Representative Offices",
+					"start": 2501,
+					"end": 2602
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Foreign Securities Firms",
+					"start": 2700,
+					"end": 3303
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "The Investment in Securities Firms by Overseas Chinese and Foreign Nationals",
-			"start": 3400
+			"start": 3400,
+			"end": 3700
 		},
 		{
 			"type": "chapter",
 			"number": 600,
 			"title": "The Increase of the Type of Business",
-			"start": 3800
+			"start": 3800,
+			"end": 4101
 		},
 		{
 			"type": "chapter",
 			"number": 700,
 			"title": "Supplemental Provisions",
-			"start": 4200
+			"start": 4200,
+			"end": 4300
 		}
 	],
 	"articles": [

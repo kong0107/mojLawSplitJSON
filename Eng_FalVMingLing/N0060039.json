@@ -21,85 +21,103 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Principles",
-			"start": 100
+			"start": 100,
+			"end": 800
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Dangerous machines",
-			"start": 900
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Fixed Type Cranes",
-			"start": 900
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Mobile cranes",
-			"start": 2200
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Derrick cranes",
-			"start": 3200
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "Elevators",
-			"start": 4200
-		},
-		{
-			"type": "section",
-			"number": 500,
-			"title": "Construction lift",
-			"start": 5200
-		},
-		{
-			"type": "section",
-			"number": 600,
-			"title": "Hoisting cages",
-			"start": 6200
+			"start": 900,
+			"end": 7000,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Fixed Type Cranes",
+					"start": 900,
+					"end": 2100
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Mobile cranes",
+					"start": 2200,
+					"end": 3100
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Derrick cranes",
+					"start": 3200,
+					"end": 4100
+				},
+				{
+					"type": "section",
+					"number": 400,
+					"title": "Elevators",
+					"start": 4200,
+					"end": 5100
+				},
+				{
+					"type": "section",
+					"number": 500,
+					"title": "Construction lift",
+					"start": 5200,
+					"end": 6100
+				},
+				{
+					"type": "section",
+					"number": 600,
+					"title": "Hoisting cages",
+					"start": 6200,
+					"end": 7000
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Dangerous equipment",
-			"start": 7100
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Boilers",
-			"start": 7100
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Pressure vessels",
-			"start": 9500
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Special equipment for high-pressure gases",
-			"start": 12000
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "Vessels for high-pressure gases",
-			"start": 14400
+			"start": 7100,
+			"end": 16202,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Boilers",
+					"start": 7100,
+					"end": 9400
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Pressure vessels",
+					"start": 9500,
+					"end": 11900
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Special equipment for high-pressure gases",
+					"start": 12000,
+					"end": 14300
+				},
+				{
+					"type": "section",
+					"number": 400,
+					"title": "Vessels for high-pressure gases",
+					"start": 14400,
+					"end": 16202
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Supplementary Articles",
-			"start": 16300
+			"start": 16300,
+			"end": 16800
 		}
 	],
 	"articles": [

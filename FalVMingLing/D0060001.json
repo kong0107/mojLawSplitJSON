@@ -29,181 +29,221 @@
 			"type": "編",
 			"number": 100,
 			"title": "總則",
-			"start": 100
-		},
-		{
-			"type": "章",
-			"number": 100,
-			"title": "法例",
-			"start": 100
-		},
-		{
-			"type": "章",
-			"number": 200,
-			"title": "地權",
-			"start": 1000
-		},
-		{
-			"type": "章",
-			"number": 300,
-			"title": "地權限制",
-			"start": 1400
-		},
-		{
-			"type": "章",
-			"number": 400,
-			"title": "公有土地",
-			"start": 2500
-		},
-		{
-			"type": "章",
-			"number": 500,
-			"title": "地權調整",
-			"start": 2800
+			"start": 100,
+			"end": 3500,
+			"children": [
+				{
+					"type": "章",
+					"number": 100,
+					"title": "法例",
+					"start": 100,
+					"end": 900
+				},
+				{
+					"type": "章",
+					"number": 200,
+					"title": "地權",
+					"start": 1000,
+					"end": 1300
+				},
+				{
+					"type": "章",
+					"number": 300,
+					"title": "地權限制",
+					"start": 1400,
+					"end": 2400
+				},
+				{
+					"type": "章",
+					"number": 400,
+					"title": "公有土地",
+					"start": 2500,
+					"end": 2700
+				},
+				{
+					"type": "章",
+					"number": 500,
+					"title": "地權調整",
+					"start": 2800,
+					"end": 3500
+				}
+			]
 		},
 		{
 			"type": "編",
 			"number": 200,
 			"title": "地籍",
-			"start": 3600
-		},
-		{
-			"type": "章",
-			"number": 100,
-			"title": "通則",
-			"start": 3600
-		},
-		{
-			"type": "章",
-			"number": 200,
-			"title": "地籍測量",
-			"start": 4400
-		},
-		{
-			"type": "章",
-			"number": 300,
-			"title": "土地總登記",
-			"start": 4800
-		},
-		{
-			"type": "章",
-			"number": 400,
-			"title": "土地權利變更登記",
-			"start": 7200
+			"start": 3600,
+			"end": 7902,
+			"children": [
+				{
+					"type": "章",
+					"number": 100,
+					"title": "通則",
+					"start": 3600,
+					"end": 4300
+				},
+				{
+					"type": "章",
+					"number": 200,
+					"title": "地籍測量",
+					"start": 4400,
+					"end": 4702
+				},
+				{
+					"type": "章",
+					"number": 300,
+					"title": "土地總登記",
+					"start": 4800,
+					"end": 7100
+				},
+				{
+					"type": "章",
+					"number": 400,
+					"title": "土地權利變更登記",
+					"start": 7200,
+					"end": 7902
+				}
+			]
 		},
 		{
 			"type": "編",
 			"number": 300,
 			"title": "土地使用",
-			"start": 8000
-		},
-		{
-			"type": "章",
-			"number": 100,
-			"title": "通則",
-			"start": 8000
-		},
-		{
-			"type": "章",
-			"number": 200,
-			"title": "使用限制",
-			"start": 9000
-		},
-		{
-			"type": "章",
-			"number": 300,
-			"title": "房屋及基地租用",
-			"start": 9400
-		},
-		{
-			"type": "章",
-			"number": 400,
-			"title": "耕地租用",
-			"start": 10600
-		},
-		{
-			"type": "章",
-			"number": 500,
-			"title": "荒地使用",
-			"start": 12500
-		},
-		{
-			"type": "章",
-			"number": 600,
-			"title": "土地重劃",
-			"start": 13500
+			"start": 8000,
+			"end": 14200,
+			"children": [
+				{
+					"type": "章",
+					"number": 100,
+					"title": "通則",
+					"start": 8000,
+					"end": 8900
+				},
+				{
+					"type": "章",
+					"number": 200,
+					"title": "使用限制",
+					"start": 9000,
+					"end": 9300
+				},
+				{
+					"type": "章",
+					"number": 300,
+					"title": "房屋及基地租用",
+					"start": 9400,
+					"end": 10500
+				},
+				{
+					"type": "章",
+					"number": 400,
+					"title": "耕地租用",
+					"start": 10600,
+					"end": 12400
+				},
+				{
+					"type": "章",
+					"number": 500,
+					"title": "荒地使用",
+					"start": 12500,
+					"end": 13400
+				},
+				{
+					"type": "章",
+					"number": 600,
+					"title": "土地重劃",
+					"start": 13500,
+					"end": 14200
+				}
+			]
 		},
 		{
 			"type": "編",
 			"number": 400,
 			"title": "土地稅",
-			"start": 14300
-		},
-		{
-			"type": "章",
-			"number": 100,
-			"title": "通則",
-			"start": 14300
-		},
-		{
-			"type": "章",
-			"number": 200,
-			"title": "地價及改良物價",
-			"start": 14800
-		},
-		{
-			"type": "章",
-			"number": 300,
-			"title": "地價稅",
-			"start": 16700
-		},
-		{
-			"type": "章",
-			"number": 400,
-			"title": "土地增值稅",
-			"start": 17600
-		},
-		{
-			"type": "章",
-			"number": 500,
-			"title": "土地改良物稅",
-			"start": 18500
-		},
-		{
-			"type": "章",
-			"number": 600,
-			"title": "土地稅之減免",
-			"start": 19100
-		},
-		{
-			"type": "章",
-			"number": 700,
-			"title": "欠稅",
-			"start": 20000
+			"start": 14300,
+			"end": 20700,
+			"children": [
+				{
+					"type": "章",
+					"number": 100,
+					"title": "通則",
+					"start": 14300,
+					"end": 14700
+				},
+				{
+					"type": "章",
+					"number": 200,
+					"title": "地價及改良物價",
+					"start": 14800,
+					"end": 16600
+				},
+				{
+					"type": "章",
+					"number": 300,
+					"title": "地價稅",
+					"start": 16700,
+					"end": 17500
+				},
+				{
+					"type": "章",
+					"number": 400,
+					"title": "土地增值稅",
+					"start": 17600,
+					"end": 18400
+				},
+				{
+					"type": "章",
+					"number": 500,
+					"title": "土地改良物稅",
+					"start": 18500,
+					"end": 19000
+				},
+				{
+					"type": "章",
+					"number": 600,
+					"title": "土地稅之減免",
+					"start": 19100,
+					"end": 19900
+				},
+				{
+					"type": "章",
+					"number": 700,
+					"title": "欠稅",
+					"start": 20000,
+					"end": 20700
+				}
+			]
 		},
 		{
 			"type": "編",
 			"number": 500,
 			"title": "土地征收",
-			"start": 20800
-		},
-		{
-			"type": "章",
-			"number": 100,
-			"title": "通則",
-			"start": 20800
-		},
-		{
-			"type": "章",
-			"number": 200,
-			"title": "征收程序",
-			"start": 22200
-		},
-		{
-			"type": "章",
-			"number": 300,
-			"title": "征收補償",
-			"start": 23600
+			"start": 20800,
+			"end": 24700,
+			"children": [
+				{
+					"type": "章",
+					"number": 100,
+					"title": "通則",
+					"start": 20800,
+					"end": 22100
+				},
+				{
+					"type": "章",
+					"number": 200,
+					"title": "征收程序",
+					"start": 22200,
+					"end": 23500
+				},
+				{
+					"type": "章",
+					"number": 300,
+					"title": "征收補償",
+					"start": 23600,
+					"end": 24700
+				}
+			]
 		}
 	],
 	"articles": [

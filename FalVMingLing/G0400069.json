@@ -26,55 +26,66 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 500
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "處理程序",
-			"start": 600
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "處理程序之訂定",
-			"start": 600
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "資產之取得或處分",
-			"start": 900
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "關係人交易",
-			"start": 1400
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "從事衍生性商品交易",
-			"start": 1900
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "企業合併、分割、收購及股份受讓",
-			"start": 2300
+			"start": 600,
+			"end": 3000,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "處理程序之訂定",
+					"start": 600,
+					"end": 800
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "資產之取得或處分",
+					"start": 900,
+					"end": 1300
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "關係人交易",
+					"start": 1400,
+					"end": 1800
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "從事衍生性商品交易",
+					"start": 1900,
+					"end": 2200
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "企業合併、分割、收購及股份受讓",
+					"start": 2300,
+					"end": 3000
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "資訊公開",
-			"start": 3100
+			"start": 3100,
+			"end": 3200
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "附則",
-			"start": 3300
+			"start": 3300,
+			"end": 3600
 		}
 	],
 	"articles": [

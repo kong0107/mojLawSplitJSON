@@ -26,43 +26,52 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 900
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "特殊教育之實施",
-			"start": 1000
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "通則",
-			"start": 1000
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "身心障礙教育",
-			"start": 2200
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "資賦優異教育",
-			"start": 3500
+			"start": 1000,
+			"end": 4100,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "通則",
+					"start": 1000,
+					"end": 2100
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "身心障礙教育",
+					"start": 2200,
+					"end": 3400
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "資賦優異教育",
+					"start": 3500,
+					"end": 4100
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "特殊教育支持系統",
-			"start": 4200
+			"start": 4200,
+			"end": 4700
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "附則",
-			"start": 4800
+			"start": 4800,
+			"end": 5100
 		}
 	],
 	"articles": [

@@ -21,73 +21,89 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 300
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "工事構築",
-			"start": 400
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "計畫",
-			"start": 400
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "施工",
-			"start": 1000
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "驗收",
-			"start": 1800
+			"start": 400,
+			"end": 2100,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "計畫",
+					"start": 400,
+					"end": 900
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "施工",
+					"start": 1000,
+					"end": 1700
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "驗收",
+					"start": 1800,
+					"end": 2100
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "工事保管與維護",
-			"start": 2200
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "陣地工事之紀錄",
-			"start": 2200
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "保管檢查與交接",
-			"start": 2300
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "工事拆遷與補償",
-			"start": 3000
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "整修",
-			"start": 3800
+			"start": 2200,
+			"end": 4200,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "陣地工事之紀錄",
+					"start": 2200,
+					"end": 2200
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "保管檢查與交接",
+					"start": 2300,
+					"end": 2900
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "工事拆遷與補償",
+					"start": 3000,
+					"end": 3700
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "整修",
+					"start": 3800,
+					"end": 4200
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "工事註銷",
-			"start": 4300
+			"start": 4300,
+			"end": 4700
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "附則",
-			"start": 4800
+			"start": 4800,
+			"end": 4900
 		}
 	],
 	"articles": [

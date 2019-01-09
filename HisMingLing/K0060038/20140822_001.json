@@ -14,49 +14,59 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 300
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "經營許可",
-			"start": 400
+			"start": 400,
+			"end": 1300
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "營運管理",
-			"start": 1400
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "通則",
-			"start": 1400
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "公司內部網路通信服務",
-			"start": 2100
+			"start": 1400,
+			"end": 2400,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "通則",
+					"start": 1400,
+					"end": 2000
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "公司內部網路通信服務",
+					"start": 2100,
+					"end": 2400
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "通信設備維運之管理",
-			"start": 2500
+			"start": 2500,
+			"end": 3100
 		},
 		{
 			"type": "章",
 			"number": 401,
 			"title": "資通安全管理",
-			"start": 3101
+			"start": 3101,
+			"end": 3103
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "附則",
-			"start": 3200
+			"start": 3200,
+			"end": 3600
 		}
 	],
 	"articles": [

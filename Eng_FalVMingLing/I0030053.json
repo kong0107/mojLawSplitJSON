@@ -13,25 +13,29 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Provisions",
-			"start": 100
+			"start": 100,
+			"end": 600
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Incoming Requests to ROC (Taiwan)",
-			"start": 700
+			"start": 700,
+			"end": 2900
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Outgoing requests from ROC (Taiwan)",
-			"start": 3000
+			"start": 3000,
+			"end": 3200
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Additional Provisions",
-			"start": 3300
+			"start": 3300,
+			"end": 3800
 		}
 	],
 	"articles": [

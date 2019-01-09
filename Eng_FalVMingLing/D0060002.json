@@ -18,31 +18,36 @@
 			"type": "part",
 			"number": 100,
 			"title": "General Principles",
-			"start": 100
+			"start": 100,
+			"end": 800
 		},
 		{
 			"type": "part",
 			"number": 200,
 			"title": "Cadastration",
-			"start": 900
+			"start": 900,
+			"end": 1901
 		},
 		{
 			"type": "part",
 			"number": 300,
 			"title": "Land Use",
-			"start": 2000
+			"start": 2000,
+			"end": 3500
 		},
 		{
 			"type": "part",
 			"number": 400,
 			"title": "Land Tax",
-			"start": 3600
+			"start": 3600,
+			"end": 4800
 		},
 		{
 			"type": "part",
 			"number": 500,
 			"title": "Land Expropriation",
-			"start": 4900
+			"start": 4900,
+			"end": 6100
 		}
 	],
 	"articles": [

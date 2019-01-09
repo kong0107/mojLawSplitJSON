@@ -14,37 +14,43 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 200
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "使用者管理",
-			"start": 300
+			"start": 300,
+			"end": 600
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "使用者支付指示方式",
-			"start": 700
+			"start": 700,
+			"end": 800
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "電子支付機構之業務管理及作業方式",
-			"start": 900
+			"start": 900,
+			"end": 2100
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "電子支付機構之監督及管理",
-			"start": 2200
+			"start": 2200,
+			"end": 3000
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "附則",
-			"start": 3100
+			"start": 3100,
+			"end": 3100
 		}
 	],
 	"articles": [

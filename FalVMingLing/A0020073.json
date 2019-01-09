@@ -29,91 +29,108 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 600
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "院長",
-			"start": 700
+			"start": 700,
+			"end": 1300
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "民刑事庭",
-			"start": 1400
+			"start": 1400,
+			"end": 2300
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "專業法庭",
-			"start": 2400
+			"start": 2400,
+			"end": 2600
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "公設辯護人室",
-			"start": 2700
+			"start": 2700,
+			"end": 3100
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "書記官長",
-			"start": 3200
+			"start": 3200,
+			"end": 3400
 		},
 		{
 			"type": "章",
 			"number": 700,
 			"title": "書記處",
-			"start": 3500
+			"start": 3500,
+			"end": 4802
 		},
 		{
 			"type": "章",
 			"number": 800,
 			"title": "資訊室",
-			"start": 4900
+			"start": 4900,
+			"end": 5000
 		},
 		{
 			"type": "章",
 			"number": 900,
 			"title": "法警室",
-			"start": 5100
+			"start": 5100,
+			"end": 5100
 		},
 		{
 			"type": "章",
 			"number": 1000,
 			"title": "人事室、會計室、統計室、政風室",
-			"start": 5200
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "人事室",
-			"start": 5400
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "會計室",
-			"start": 5500
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "統計室",
-			"start": 5600
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "政風室",
-			"start": 5700
+			"start": 5200,
+			"end": 5700,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "人事室",
+					"start": 5400,
+					"end": 5400
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "會計室",
+					"start": 5500,
+					"end": 5500
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "統計室",
+					"start": 5600,
+					"end": 5600
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "政風室",
+					"start": 5700,
+					"end": 5700
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 1100,
 			"title": "附則",
-			"start": 5800
+			"start": 5800,
+			"end": 5900
 		}
 	],
 	"articles": [

@@ -21,157 +21,189 @@
 			"type": "part",
 			"number": 100,
 			"title": "General Principles",
-			"start": 100
-		},
-		{
-			"type": "chapter",
-			"number": 100,
-			"title": "Regulations",
-			"start": 100
-		},
-		{
-			"type": "chapter",
-			"number": 200,
-			"title": "Military",
-			"start": 1000
-		},
-		{
-			"type": "chapter",
-			"number": 300,
-			"title": "Military Court",
-			"start": 1500
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "The structure of Military Court",
-			"start": 1500
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "The control of Military Court",
-			"start": 2700
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Specific command to open and close of the military court",
-			"start": 3600
-		},
-		{
-			"type": "chapter",
-			"number": 400,
-			"title": "military Prosecution Bureau",
-			"start": 4900
-		},
-		{
-			"type": "chapter",
-			"number": 500,
-			"title": "Recusing of military personnel",
-			"start": 6300
-		},
-		{
-			"type": "chapter",
-			"number": 600,
-			"title": "Pleader and assistant",
-			"start": 6900
-		},
-		{
-			"type": "chapter",
-			"number": 700,
-			"title": "Document, Sending, Date and Period",
-			"start": 8300
-		},
-		{
-			"type": "chapter",
-			"number": 800,
-			"title": "Summonsing and apprehending of defendants",
-			"start": 8800
-		},
-		{
-			"type": "chapter",
-			"number": 900,
-			"title": "Interrogation and detention of defendant",
-			"start": 10100
-		},
-		{
-			"type": "chapter",
-			"number": 1000,
-			"title": "Searching and arresting",
-			"start": 11100
-		},
-		{
-			"type": "chapter",
-			"number": 1100,
-			"title": "Evidence",
-			"start": 11600
-		},
-		{
-			"type": "chapter",
-			"number": 1200,
-			"title": "Judge",
-			"start": 12600
+			"start": 100,
+			"end": 12900,
+			"children": [
+				{
+					"type": "chapter",
+					"number": 100,
+					"title": "Regulations",
+					"start": 100,
+					"end": 900
+				},
+				{
+					"type": "chapter",
+					"number": 200,
+					"title": "Military",
+					"start": 1000,
+					"end": 1400
+				},
+				{
+					"type": "chapter",
+					"number": 300,
+					"title": "Military Court",
+					"start": 1500,
+					"end": 4800,
+					"children": [
+						{
+							"type": "section",
+							"number": 100,
+							"title": "The structure of Military Court",
+							"start": 1500,
+							"end": 2600
+						},
+						{
+							"type": "section",
+							"number": 200,
+							"title": "The control of Military Court",
+							"start": 2700,
+							"end": 3500
+						},
+						{
+							"type": "section",
+							"number": 300,
+							"title": "Specific command to open and close of the military court",
+							"start": 3600,
+							"end": 4800
+						}
+					]
+				},
+				{
+					"type": "chapter",
+					"number": 400,
+					"title": "military Prosecution Bureau",
+					"start": 4900,
+					"end": 6200
+				},
+				{
+					"type": "chapter",
+					"number": 500,
+					"title": "Recusing of military personnel",
+					"start": 6300,
+					"end": 6800
+				},
+				{
+					"type": "chapter",
+					"number": 600,
+					"title": "Pleader and assistant",
+					"start": 6900,
+					"end": 8201
+				},
+				{
+					"type": "chapter",
+					"number": 700,
+					"title": "Document, Sending, Date and Period",
+					"start": 8300,
+					"end": 8700
+				},
+				{
+					"type": "chapter",
+					"number": 800,
+					"title": "Summonsing and apprehending of defendants",
+					"start": 8800,
+					"end": 10000
+				},
+				{
+					"type": "chapter",
+					"number": 900,
+					"title": "Interrogation and detention of defendant",
+					"start": 10100,
+					"end": 11000
+				},
+				{
+					"type": "chapter",
+					"number": 1000,
+					"title": "Searching and arresting",
+					"start": 11100,
+					"end": 11500
+				},
+				{
+					"type": "chapter",
+					"number": 1100,
+					"title": "Evidence",
+					"start": 11600,
+					"end": 12500
+				},
+				{
+					"type": "chapter",
+					"number": 1200,
+					"title": "Judge",
+					"start": 12600,
+					"end": 12900
+				}
+			]
 		},
 		{
 			"type": "part",
 			"number": 200,
 			"title": "The First Trial",
-			"start": 13000
-		},
-		{
-			"type": "chapter",
-			"number": 100,
-			"title": "Investigation",
-			"start": 13000
-		},
-		{
-			"type": "chapter",
-			"number": 200,
-			"title": "Prosecution",
-			"start": 14700
-		},
-		{
-			"type": "chapter",
-			"number": 300,
-			"title": "The Second Trial",
-			"start": 15100
+			"start": 13000,
+			"end": 17900,
+			"children": [
+				{
+					"type": "chapter",
+					"number": 100,
+					"title": "Investigation",
+					"start": 13000,
+					"end": 14600
+				},
+				{
+					"type": "chapter",
+					"number": 200,
+					"title": "Prosecution",
+					"start": 14700,
+					"end": 15000
+				},
+				{
+					"type": "chapter",
+					"number": 300,
+					"title": "The Second Trial",
+					"start": 15100,
+					"end": 17900
+				}
+			]
 		},
 		{
 			"type": "part",
 			"number": 300,
 			"title": "Appeal",
-			"start": 18000
+			"start": 18000,
+			"end": 20600
 		},
 		{
 			"type": "part",
 			"number": 400,
 			"title": "Resistant Announcement",
-			"start": 20700
+			"start": 20700,
+			"end": 21700
 		},
 		{
 			"type": "part",
 			"number": 500,
 			"title": "Retrial",
-			"start": 21800
+			"start": 21800,
+			"end": 22500
 		},
 		{
 			"type": "part",
 			"number": 600,
 			"title": "Extraordinary Appeal",
-			"start": 22600
+			"start": 22600,
+			"end": 22800
 		},
 		{
 			"type": "part",
 			"number": 700,
 			"title": "Execution",
-			"start": 22900
+			"start": 22900,
+			"end": 23600
 		},
 		{
 			"type": "part",
 			"number": 800,
 			"title": "Supplementary Provisions",
-			"start": 23700
+			"start": 23700,
+			"end": 23800
 		}
 	],
 	"articles": [

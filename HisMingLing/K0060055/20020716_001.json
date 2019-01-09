@@ -14,61 +14,73 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 400
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "個體會計",
-			"start": 500
+			"start": 500,
+			"end": 1000
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "分離會計",
-			"start": 1100
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "分離會計基本原則",
-			"start": 1100
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "成本分離原則",
-			"start": 2000
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "資產分離原則",
-			"start": 3500
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "資金成本計算原則",
-			"start": 4400
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "收入分離原則",
-			"start": 4900
+			"start": 1100,
+			"end": 5000,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "分離會計基本原則",
+					"start": 1100,
+					"end": 1900
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "成本分離原則",
+					"start": 2000,
+					"end": 3400
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "資產分離原則",
+					"start": 3500,
+					"end": 4300
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "資金成本計算原則",
+					"start": 4400,
+					"end": 4800
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "收入分離原則",
+					"start": 4900,
+					"end": 5000
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "行政管理",
-			"start": 5100
+			"start": 5100,
+			"end": 5600
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "附則",
-			"start": 5700
+			"start": 5700,
+			"end": 5900
 		}
 	],
 	"articles": [

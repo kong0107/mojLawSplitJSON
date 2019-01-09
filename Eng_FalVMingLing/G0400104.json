@@ -18,31 +18,38 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Provisions",
-			"start": 100
+			"start": 100,
+			"end": 800
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Management and Supervision",
-			"start": 900
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Finance and Business",
-			"start": 900
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Organization and Personnel",
-			"start": 2500
+			"start": 900,
+			"end": 3500,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Finance and Business",
+					"start": 900,
+					"end": 2400
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Organization and Personnel",
+					"start": 2500,
+					"end": 3500
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Supplementary Provisions",
-			"start": 3600
+			"start": 3600,
+			"end": 3900
 		}
 	],
 	"articles": [

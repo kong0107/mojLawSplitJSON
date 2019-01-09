@@ -35,43 +35,50 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Principles",
-			"start": 100
+			"start": 100,
+			"end": 300
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Installation of System",
-			"start": 400
+			"start": 400,
+			"end": 700
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Management of Engineering Personnel",
-			"start": 800
+			"start": 800,
+			"end": 1000
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Technical Engineering",
-			"start": 1100
+			"start": 1100,
+			"end": 3101
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "System testing and engineering evaluation",
-			"start": 3200
+			"start": 3200,
+			"end": 4000
 		},
 		{
 			"type": "chapter",
 			"number": 600,
 			"title": "System Maintenance",
-			"start": 4100
+			"start": 4100,
+			"end": 4100
 		},
 		{
 			"type": "chapter",
 			"number": 700,
 			"title": "Supplementary Articles",
-			"start": 4101
+			"start": 4101,
+			"end": 4300
 		}
 	],
 	"articles": [

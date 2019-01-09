@@ -26,31 +26,36 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 1600
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "財務",
-			"start": 1700
+			"start": 1700,
+			"end": 2100
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "業務",
-			"start": 2200
+			"start": 2200,
+			"end": 4800
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "人員",
-			"start": 4900
+			"start": 4900,
+			"end": 6500
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "附則",
-			"start": 6600
+			"start": 6600,
+			"end": 6700
 		}
 	],
 	"articles": [

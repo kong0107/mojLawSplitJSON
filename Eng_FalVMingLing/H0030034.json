@@ -22,67 +22,82 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Principles",
-			"start": 100
+			"start": 100,
+			"end": 300
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Establishment",
-			"start": 400
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Establishment of Junior College and Institutions of Higher Education",
-			"start": 400
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Establishment of branch campuses and divisions of junior colleges and institutions of higher education",
-			"start": 800
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Establishment of Junior College Divisions",
-			"start": 1400
+			"start": 400,
+			"end": 1500,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Establishment of Junior College and Institutions of Higher Education",
+					"start": 400,
+					"end": 700
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Establishment of branch campuses and divisions of junior colleges and institutions of higher education",
+					"start": 800,
+					"end": 1300
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Establishment of Junior College Divisions",
+					"start": 1400,
+					"end": 1500
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Alterations",
-			"start": 1600
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Change of name",
-			"start": 1600
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Changes of institutional status",
-			"start": 2000
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Amalgamations",
-			"start": 2500
+			"start": 1600,
+			"end": 2900,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Change of name",
+					"start": 1600,
+					"end": 1900
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Changes of institutional status",
+					"start": 2000,
+					"end": 2402
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Amalgamations",
+					"start": 2500,
+					"end": 2900
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Cessation of Operations",
-			"start": 3000
+			"start": 3000,
+			"end": 3500
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Supplementary Provisions",
-			"start": 3600
+			"start": 3600,
+			"end": 3700
 		}
 	],
 	"articles": [

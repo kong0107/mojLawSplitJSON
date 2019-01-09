@@ -24,79 +24,94 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Provisions",
-			"start": 100
+			"start": 100,
+			"end": 300
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Procedure for Offering and Issuing Collective Trust Funds",
-			"start": 400
+			"start": 400,
+			"end": 1400
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Trust Personnel Rules",
-			"start": 1500
+			"start": 1500,
+			"end": 1800
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Standards of Practice for Collective Trust Fund Business",
-			"start": 1900
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Beneficiary Rights",
-			"start": 1900
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Utilization and Management of Trust Assets",
-			"start": 2300
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Accounting of Collective Trust Funds",
-			"start": 3000
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "Distribution of Trust Proceeds",
-			"start": 3300
-		},
-		{
-			"type": "section",
-			"number": 500,
-			"title": "Termination of Collective Trust Fund Agreement by Beneficiary",
-			"start": 3600
-		},
-		{
-			"type": "section",
-			"number": 600,
-			"title": "Termination of Collective Trust Fund and Modification of Collective Trust Fund Agreement",
-			"start": 3900
+			"start": 1900,
+			"end": 4100,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Beneficiary Rights",
+					"start": 1900,
+					"end": 2200
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Utilization and Management of Trust Assets",
+					"start": 2300,
+					"end": 2900
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Accounting of Collective Trust Funds",
+					"start": 3000,
+					"end": 3200
+				},
+				{
+					"type": "section",
+					"number": 400,
+					"title": "Distribution of Trust Proceeds",
+					"start": 3300,
+					"end": 3500
+				},
+				{
+					"type": "section",
+					"number": 500,
+					"title": "Termination of Collective Trust Fund Agreement by Beneficiary",
+					"start": 3600,
+					"end": 3800
+				},
+				{
+					"type": "section",
+					"number": 600,
+					"title": "Termination of Collective Trust Fund and Modification of Collective Trust Fund Agreement",
+					"start": 3900,
+					"end": 4100
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Meetings of Trust Supervisors and Beneficiaries",
-			"start": 4200
+			"start": 4200,
+			"end": 4700
 		},
 		{
 			"type": "chapter",
 			"number": 600,
 			"title": "Assumption of Trust Business",
-			"start": 4800
+			"start": 4800,
+			"end": 4900
 		},
 		{
 			"type": "chapter",
 			"number": 700,
 			"title": "Supplementary Provisions",
-			"start": 5000
+			"start": 5000,
+			"end": 5100
 		}
 	],
 	"articles": [

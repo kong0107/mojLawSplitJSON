@@ -22,49 +22,59 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Provisions",
-			"start": 100
+			"start": 100,
+			"end": 1000
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Operation of Telecommunications Enterprises",
-			"start": 1100
+			"start": 1100,
+			"end": 3000
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Telecommunications Construction and Management",
-			"start": 3100
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Acquisition and Use of Land",
-			"start": 3100
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Maintenance and Management of Telecommunications Facilities.",
-			"start": 3900
+			"start": 3100,
+			"end": 4500,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Acquisition and Use of Land",
+					"start": 3100,
+					"end": 3801
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Maintenance and Management of Telecommunications Facilities.",
+					"start": 3900,
+					"end": 4500
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Regulation for Telecommunications",
-			"start": 4600
+			"start": 4600,
+			"end": 5500
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Penalties",
-			"start": 5600
+			"start": 5600,
+			"end": 6800
 		},
 		{
 			"type": "chapter",
 			"number": 600,
 			"title": "Supplementary Provisions",
-			"start": 6900
+			"start": 6900,
+			"end": 7200
 		}
 	],
 	"articles": [

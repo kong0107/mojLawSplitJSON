@@ -14,73 +14,91 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 400
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "作業設備",
-			"start": 500
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "高壓室內作業設備",
-			"start": 500
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "潛水作業設備",
-			"start": 1400
+			"start": 500,
+			"end": 1501,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "高壓室內作業設備",
+					"start": 500,
+					"end": 1300
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "潛水作業設備",
+					"start": 1400,
+					"end": 1501
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "作業管理",
-			"start": 1600
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "高壓室內作業管理",
-			"start": 1600
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "潛水作業管理",
-			"start": 3700
+			"start": 1600,
+			"end": 5700,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "高壓室內作業管理",
+					"start": 1600,
+					"end": 3600
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "潛水作業管理",
+					"start": 3700,
+					"end": 5700
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "潛水設備",
-			"start": 5800
+			"start": 5800,
+			"end": 6100
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "再壓室及減壓艙",
-			"start": 6200
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "再壓室",
-			"start": 6200
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "減壓艙",
-			"start": 7800
+			"start": 6200,
+			"end": 9300,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "再壓室",
+					"start": 6200,
+					"end": 7700
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "減壓艙",
+					"start": 7800,
+					"end": 9300
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "附則",
-			"start": 9400
+			"start": 9400,
+			"end": 9400
 		}
 	],
 	"articles": [

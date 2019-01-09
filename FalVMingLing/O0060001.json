@@ -23,37 +23,43 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 800
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "登記",
-			"start": 900
+			"start": 900,
+			"end": 1200
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "管理",
-			"start": 1300
+			"start": 1300,
+			"end": 3300
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "查驗及取締",
-			"start": 3400
+			"start": 3400,
+			"end": 4100
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "罰則",
-			"start": 4200
+			"start": 4200,
+			"end": 5400
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "附則",
-			"start": 5500
+			"start": 5500,
+			"end": 6000
 		}
 	],
 	"articles": [

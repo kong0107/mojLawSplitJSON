@@ -37,25 +37,29 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 1400
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "法人登記",
-			"start": 1500
+			"start": 1500,
+			"end": 3000
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "夫妻財產制契約登記",
-			"start": 3100
+			"start": 3100,
+			"end": 4000
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "附則",
-			"start": 4100
+			"start": 4100,
+			"end": 4200
 		}
 	],
 	"articles": [

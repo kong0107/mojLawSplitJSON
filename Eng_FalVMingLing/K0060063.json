@@ -18,43 +18,52 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Provisions",
-			"start": 100
+			"start": 100,
+			"end": 600
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Application and Verification",
-			"start": 700
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Academic and Educational Telecommunications Network",
-			"start": 700
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Experimental, Research and Development Telecommunication Network",
-			"start": 1600
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "The Establishment and Investigation of Radio Station",
-			"start": 2200
+			"start": 700,
+			"end": 2900,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Academic and Educational Telecommunications Network",
+					"start": 700,
+					"end": 1500
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Experimental, Research and Development Telecommunication Network",
+					"start": 1600,
+					"end": 2100
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "The Establishment and Investigation of Radio Station",
+					"start": 2200,
+					"end": 2900
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "The Establishment and Utility Administration",
-			"start": 3000
+			"start": 3000,
+			"end": 3700
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Supplementary Provisions",
-			"start": 3800
+			"start": 3800,
+			"end": 4300
 		}
 	],
 	"articles": [

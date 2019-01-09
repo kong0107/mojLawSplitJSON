@@ -22,55 +22,66 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 1500
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "保險契約",
-			"start": 1600
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "契約之成立",
-			"start": 1600
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "保險範圍",
-			"start": 2500
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "請求權之行使",
-			"start": 3100
+			"start": 1600,
+			"end": 3700,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "契約之成立",
+					"start": 1600,
+					"end": 2400
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "保險範圍",
+					"start": 2500,
+					"end": 3000
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "請求權之行使",
+					"start": 3100,
+					"end": 3700
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "汽車交通事故特別補償基金",
-			"start": 3800
+			"start": 3800,
+			"end": 4300
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "保險業之監理",
-			"start": 4400
+			"start": 4400,
+			"end": 4701
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "罰則",
-			"start": 4800
+			"start": 4800,
+			"end": 5100
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "附則",
-			"start": 5200
+			"start": 5200,
+			"end": 5300
 		}
 	],
 	"articles": [

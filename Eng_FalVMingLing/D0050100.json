@@ -20,73 +20,87 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Principles",
-			"start": 100
+			"start": 100,
+			"end": 700
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Commercial trade council",
-			"start": 800
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Establishment",
-			"start": 800
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Members",
-			"start": 1200
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Staff",
-			"start": 2000
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "Meeting",
-			"start": 2700
-		},
-		{
-			"type": "section",
-			"number": 500,
-			"title": "Fund",
-			"start": 3300
+			"start": 800,
+			"end": 4000,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Establishment",
+					"start": 800,
+					"end": 1100
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Members",
+					"start": 1200,
+					"end": 1900
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Staff",
+					"start": 2000,
+					"end": 2600
+				},
+				{
+					"type": "section",
+					"number": 400,
+					"title": "Meeting",
+					"start": 2700,
+					"end": 3200
+				},
+				{
+					"type": "section",
+					"number": 500,
+					"title": "Fund",
+					"start": 3300,
+					"end": 4000
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "League of commercial trade councils",
-			"start": 4100
+			"start": 4100,
+			"end": 4700
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Leagues of trade councils of export trades.",
-			"start": 4800
+			"start": 4800,
+			"end": 5400
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Commercial association",
-			"start": 5500
+			"start": 5500,
+			"end": 6200
 		},
 		{
 			"type": "chapter",
 			"number": 600,
 			"title": "Supervision",
-			"start": 6300
+			"start": 6300,
+			"end": 7000
 		},
 		{
 			"type": "chapter",
 			"number": 700,
 			"title": "Supplementary Provisions",
-			"start": 7100
+			"start": 7100,
+			"end": 7600
 		}
 	],
 	"articles": [

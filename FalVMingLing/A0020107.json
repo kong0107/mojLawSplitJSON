@@ -29,31 +29,36 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 200
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "職掌",
-			"start": 300
+			"start": 300,
+			"end": 2800
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "業務會報",
-			"start": 2900
+			"start": 2900,
+			"end": 3200
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "文書處理",
-			"start": 3300
+			"start": 3300,
+			"end": 4100
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "附則",
-			"start": 4200
+			"start": 4200,
+			"end": 4300
 		}
 	],
 	"articles": [

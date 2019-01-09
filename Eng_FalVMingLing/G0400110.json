@@ -23,37 +23,45 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Provisions",
-			"start": 100
+			"start": 100,
+			"end": 902
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Business Permission",
-			"start": 1000
+			"start": 1000,
+			"end": 1601
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Supervision and Management",
-			"start": 1700
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Finance and Business",
-			"start": 1700
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Personnel",
-			"start": 2600
+			"start": 1700,
+			"end": 3100,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Finance and Business",
+					"start": 1700,
+					"end": 2500
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Personnel",
+					"start": 2600,
+					"end": 3100
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Supplemental Provisions",
-			"start": 3200
+			"start": 3200,
+			"end": 3300
 		}
 	],
 	"articles": [

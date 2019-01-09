@@ -14,43 +14,52 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 700
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "經營特許",
-			"start": 800
+			"start": 800,
+			"end": 2700
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "營運管理",
-			"start": 2800
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "設備管理",
-			"start": 2800
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "頻率申請、頻率干擾及載波發射限制",
-			"start": 4000
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "業務管理",
-			"start": 4500
+			"start": 2800,
+			"end": 5500,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "設備管理",
+					"start": 2800,
+					"end": 3900
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "頻率申請、頻率干擾及載波發射限制",
+					"start": 4000,
+					"end": 4400
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "業務管理",
+					"start": 4500,
+					"end": 5500
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "附則",
-			"start": 5600
+			"start": 5600,
+			"end": 5900
 		}
 	],
 	"articles": [

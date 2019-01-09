@@ -41,55 +41,66 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 1202
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "公司股務作業",
-			"start": 1300
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "股票規格與製發",
-			"start": 1300
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "股東名簿及股東開戶",
-			"start": 1800
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "股票過戶、異動登記、設質及遺失之",
-			"start": 2300
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "股票停止過戶及發放股利、配發增資",
-			"start": 4100
+			"start": 1300,
+			"end": 4400,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "股票規格與製發",
+					"start": 1300,
+					"end": 1700
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "股東名簿及股東開戶",
+					"start": 1800,
+					"end": 2201
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "股票過戶、異動登記、設質及遺失之",
+					"start": 2300,
+					"end": 4000
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "股票停止過戶及發放股利、配發增資",
+					"start": 4100,
+					"end": 4400
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 201,
 			"title": "書面或電子方式行使股東會表決權",
-			"start": 4401
+			"start": 4401,
+			"end": 4408
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "董事、監察人、經理人及持有公司股份超",
-			"start": 4500
+			"start": 4500,
+			"end": 4800
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "附則",
-			"start": 4900
+			"start": 4900,
+			"end": 5000
 		}
 	],
 	"articles": [

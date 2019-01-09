@@ -19,31 +19,36 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 500
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "蓄水利用運轉",
-			"start": 600
+			"start": 600,
+			"end": 900
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "洪水運轉",
-			"start": 1000
+			"start": 1000,
+			"end": 1200
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "水門啟用標準、時間及方法",
-			"start": 1300
+			"start": 1300,
+			"end": 1700
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "附則",
-			"start": 1800
+			"start": 1800,
+			"end": 1800
 		}
 	],
 	"articles": [

@@ -13,181 +13,223 @@
 			"type": "編",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 300
 		},
 		{
 			"type": "編",
 			"number": 200,
 			"title": "消防設計",
-			"start": 400
+			"start": 400,
+			"end": 3000
 		},
 		{
 			"type": "編",
 			"number": 300,
 			"title": "消防安全設計",
-			"start": 3100
-		},
-		{
-			"type": "章",
-			"number": 100,
-			"title": "滅火設備",
-			"start": 3100
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "滅火器及室內消防栓設備",
-			"start": 3100
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "室外消防栓設備",
-			"start": 3900
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "自動撒水設備",
-			"start": 4300
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "水霧滅火設備",
-			"start": 6100
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "泡沫滅火設備",
-			"start": 6900
-		},
-		{
-			"type": "節",
-			"number": 600,
-			"title": "二氧化碳滅火設備",
-			"start": 8200
-		},
-		{
-			"type": "節",
-			"number": 700,
-			"title": "乾粉滅火設備及簡易自動滅火設備",
-			"start": 9800
-		},
-		{
-			"type": "章",
-			"number": 200,
-			"title": "警報設備",
-			"start": 11200
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "火警自動警報設備",
-			"start": 11200
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "手動報警設備",
-			"start": 12900
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "緊急廣播設備",
-			"start": 13300
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "瓦斯漏氣火警自動警報設備",
-			"start": 14000
-		},
-		{
-			"type": "章",
-			"number": 300,
-			"title": "避難逃生設備",
-			"start": 14600
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "標示設備",
-			"start": 14600
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "避難器具",
-			"start": 15700
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "緊急照明設備",
-			"start": 17500
-		},
-		{
-			"type": "章",
-			"number": 400,
-			"title": "消防搶救上之必要設備",
-			"start": 18000
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "連結送水管",
-			"start": 18000
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "消防專用蓄水池",
-			"start": 18500
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "排煙設備",
-			"start": 18800
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "緊急電源插座",
-			"start": 19100
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "無線電通信輔助設備",
-			"start": 19200
+			"start": 3100,
+			"end": 19200,
+			"children": [
+				{
+					"type": "章",
+					"number": 100,
+					"title": "滅火設備",
+					"start": 3100,
+					"end": 11100,
+					"children": [
+						{
+							"type": "節",
+							"number": 100,
+							"title": "滅火器及室內消防栓設備",
+							"start": 3100,
+							"end": 3800
+						},
+						{
+							"type": "節",
+							"number": 200,
+							"title": "室外消防栓設備",
+							"start": 3900,
+							"end": 4200
+						},
+						{
+							"type": "節",
+							"number": 300,
+							"title": "自動撒水設備",
+							"start": 4300,
+							"end": 6000
+						},
+						{
+							"type": "節",
+							"number": 400,
+							"title": "水霧滅火設備",
+							"start": 6100,
+							"end": 6800
+						},
+						{
+							"type": "節",
+							"number": 500,
+							"title": "泡沫滅火設備",
+							"start": 6900,
+							"end": 8100
+						},
+						{
+							"type": "節",
+							"number": 600,
+							"title": "二氧化碳滅火設備",
+							"start": 8200,
+							"end": 9700
+						},
+						{
+							"type": "節",
+							"number": 700,
+							"title": "乾粉滅火設備及簡易自動滅火設備",
+							"start": 9800,
+							"end": 11100
+						}
+					]
+				},
+				{
+					"type": "章",
+					"number": 200,
+					"title": "警報設備",
+					"start": 11200,
+					"end": 14500,
+					"children": [
+						{
+							"type": "節",
+							"number": 100,
+							"title": "火警自動警報設備",
+							"start": 11200,
+							"end": 12800
+						},
+						{
+							"type": "節",
+							"number": 200,
+							"title": "手動報警設備",
+							"start": 12900,
+							"end": 13200
+						},
+						{
+							"type": "節",
+							"number": 300,
+							"title": "緊急廣播設備",
+							"start": 13300,
+							"end": 13900
+						},
+						{
+							"type": "節",
+							"number": 400,
+							"title": "瓦斯漏氣火警自動警報設備",
+							"start": 14000,
+							"end": 14500
+						}
+					]
+				},
+				{
+					"type": "章",
+					"number": 300,
+					"title": "避難逃生設備",
+					"start": 14600,
+					"end": 17900,
+					"children": [
+						{
+							"type": "節",
+							"number": 100,
+							"title": "標示設備",
+							"start": 14600,
+							"end": 15600
+						},
+						{
+							"type": "節",
+							"number": 200,
+							"title": "避難器具",
+							"start": 15700,
+							"end": 17400
+						},
+						{
+							"type": "節",
+							"number": 300,
+							"title": "緊急照明設備",
+							"start": 17500,
+							"end": 17900
+						}
+					]
+				},
+				{
+					"type": "章",
+					"number": 400,
+					"title": "消防搶救上之必要設備",
+					"start": 18000,
+					"end": 19200,
+					"children": [
+						{
+							"type": "節",
+							"number": 100,
+							"title": "連結送水管",
+							"start": 18000,
+							"end": 18400
+						},
+						{
+							"type": "節",
+							"number": 200,
+							"title": "消防專用蓄水池",
+							"start": 18500,
+							"end": 18700
+						},
+						{
+							"type": "節",
+							"number": 300,
+							"title": "排煙設備",
+							"start": 18800,
+							"end": 19000
+						},
+						{
+							"type": "節",
+							"number": 400,
+							"title": "緊急電源插座",
+							"start": 19100,
+							"end": 19100
+						},
+						{
+							"type": "節",
+							"number": 500,
+							"title": "無線電通信輔助設備",
+							"start": 19200,
+							"end": 19200
+						}
+					]
+				}
+			]
 		},
 		{
 			"type": "編",
 			"number": 400,
 			"title": "公共危險物品等場所消防設計及消防安全設備",
-			"start": 19300
-		},
-		{
-			"type": "章",
-			"number": 100,
-			"title": "消防設計",
-			"start": 19300
-		},
-		{
-			"type": "章",
-			"number": 200,
-			"title": "消防安全設備",
-			"start": 20900
+			"start": 19300,
+			"end": 23300,
+			"children": [
+				{
+					"type": "章",
+					"number": 100,
+					"title": "消防設計",
+					"start": 19300,
+					"end": 20800
+				},
+				{
+					"type": "章",
+					"number": 200,
+					"title": "消防安全設備",
+					"start": 20900,
+					"end": 23300
+				}
+			]
 		},
 		{
 			"type": "編",
 			"number": 500,
 			"title": "附則",
-			"start": 23400
+			"start": 23400,
+			"end": 23900
 		}
 	],
 	"articles": [

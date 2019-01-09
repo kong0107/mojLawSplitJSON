@@ -24,37 +24,43 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 400
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "登記及開業",
-			"start": 500
+			"start": 500,
+			"end": 1300
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "業務及責任",
-			"start": 1400
+			"start": 1400,
+			"end": 2100
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "公會",
-			"start": 2200
+			"start": 2200,
+			"end": 2900
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "獎懲",
-			"start": 3000
+			"start": 3000,
+			"end": 4000
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "附則",
-			"start": 4100
+			"start": 4100,
+			"end": 4600
 		}
 	],
 	"articles": [

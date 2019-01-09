@@ -28,37 +28,43 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 200
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "設計",
-			"start": 300
+			"start": 300,
+			"end": 1800
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "器材",
-			"start": 1900
+			"start": 1900,
+			"end": 2000
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "施工",
-			"start": 2100
+			"start": 2100,
+			"end": 2900
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "檢驗",
-			"start": 3000
+			"start": 3000,
+			"end": 3100
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "附則",
-			"start": 3200
+			"start": 3200,
+			"end": 3200
 		}
 	],
 	"articles": [

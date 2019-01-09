@@ -25,55 +25,66 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Provisions",
-			"start": 100
+			"start": 100,
+			"end": 500
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Application And Reception Of The Allowances",
-			"start": 600
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Allowances For The Employment Seeking Transportation",
-			"start": 600
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Temporary Job Allowance",
-			"start": 1000
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Living Allowance For Vocational Training",
-			"start": 1800
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "Interest Allowance For Business Creation Loan",
-			"start": 2100
-		},
-		{
-			"type": "section",
-			"number": 500,
-			"title": "Allowance For Employment Referral Matchmaking",
-			"start": 2400
+			"start": 600,
+			"end": 2700,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Allowances For The Employment Seeking Transportation",
+					"start": 600,
+					"end": 900
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Temporary Job Allowance",
+					"start": 1000,
+					"end": 1700
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Living Allowance For Vocational Training",
+					"start": 1800,
+					"end": 2001
+				},
+				{
+					"type": "section",
+					"number": 400,
+					"title": "Interest Allowance For Business Creation Loan",
+					"start": 2100,
+					"end": 2300
+				},
+				{
+					"type": "section",
+					"number": 500,
+					"title": "Allowance For Employment Referral Matchmaking",
+					"start": 2400,
+					"end": 2700
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Restrictions In Application And Reception Of The Allowance",
-			"start": 2800
+			"start": 2800,
+			"end": 3400
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Complimentary Provisions",
-			"start": 3500
+			"start": 3500,
+			"end": 3800
 		}
 	],
 	"articles": [

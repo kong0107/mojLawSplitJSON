@@ -20,37 +20,43 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 400
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "經營特許",
-			"start": 500
+			"start": 500,
+			"end": 1900
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "監理",
-			"start": 2000
+			"start": 2000,
+			"end": 3100
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "設備與人員之管理",
-			"start": 3200
+			"start": 3200,
+			"end": 3400
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "計費",
-			"start": 3500
+			"start": 3500,
+			"end": 3700
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "附則",
-			"start": 3800
+			"start": 3800,
+			"end": 3900
 		}
 	],
 	"articles": [

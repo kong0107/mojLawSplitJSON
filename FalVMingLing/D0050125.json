@@ -25,43 +25,50 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 300
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "資格取得",
-			"start": 400
+			"start": 400,
+			"end": 800
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "執業",
-			"start": 900
+			"start": 900,
+			"end": 2000
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "社會工作師事務所",
-			"start": 2100
+			"start": 2100,
+			"end": 3000
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "公會",
-			"start": 3100
+			"start": 3100,
+			"end": 3600
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "罰則",
-			"start": 3700
+			"start": 3700,
+			"end": 4700
 		},
 		{
 			"type": "章",
 			"number": 700,
 			"title": "附則",
-			"start": 4800
+			"start": 4800,
+			"end": 5100
 		}
 	],
 	"articles": [

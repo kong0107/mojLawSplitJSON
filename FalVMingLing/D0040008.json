@@ -21,37 +21,43 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 300
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "管理機關",
-			"start": 400
+			"start": 400,
+			"end": 600
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "現役軍人及其家屬之優待",
-			"start": 700
+			"start": 700,
+			"end": 2900
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "後備軍人之優待",
-			"start": 3000
+			"start": 3000,
+			"end": 3800
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "優待之停止",
-			"start": 3900
+			"start": 3900,
+			"end": 4100
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "附則",
-			"start": 4200
+			"start": 4200,
+			"end": 4500
 		}
 	],
 	"articles": [

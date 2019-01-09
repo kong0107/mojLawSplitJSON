@@ -18,37 +18,43 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 300
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "合約之簽訂",
-			"start": 400
+			"start": 400,
+			"end": 400
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "設計及建築",
-			"start": 500
+			"start": 500,
+			"end": 1200
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "養護",
-			"start": 1300
+			"start": 1300,
+			"end": 1600
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "使用",
-			"start": 1700
+			"start": 1700,
+			"end": 2100
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "附則",
-			"start": 2200
+			"start": 2200,
+			"end": 2200
 		}
 	],
 	"articles": [

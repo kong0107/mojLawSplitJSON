@@ -14,85 +14,103 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 800
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "危險性機械",
-			"start": 900
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "固定式起重機",
-			"start": 900
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "移動式起重機",
-			"start": 2200
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "人字臂起重桿",
-			"start": 3200
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "營建用升降機",
-			"start": 4200
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "營建用提升機",
-			"start": 5200
-		},
-		{
-			"type": "節",
-			"number": 600,
-			"title": "吊籠",
-			"start": 6200
+			"start": 900,
+			"end": 7000,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "固定式起重機",
+					"start": 900,
+					"end": 2100
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "移動式起重機",
+					"start": 2200,
+					"end": 3100
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "人字臂起重桿",
+					"start": 3200,
+					"end": 4100
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "營建用升降機",
+					"start": 4200,
+					"end": 5100
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "營建用提升機",
+					"start": 5200,
+					"end": 6100
+				},
+				{
+					"type": "節",
+					"number": 600,
+					"title": "吊籠",
+					"start": 6200,
+					"end": 7000
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "危險性設備",
-			"start": 7100
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "鍋爐",
-			"start": 7100
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "壓力容器",
-			"start": 9500
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "高壓氣體特定設備",
-			"start": 12000
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "高壓氣體容器",
-			"start": 14400
+			"start": 7100,
+			"end": 16202,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "鍋爐",
+					"start": 7100,
+					"end": 9400
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "壓力容器",
+					"start": 9500,
+					"end": 11900
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "高壓氣體特定設備",
+					"start": 12000,
+					"end": 14300
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "高壓氣體容器",
+					"start": 14400,
+					"end": 16202
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "附則",
-			"start": 16300
+			"start": 16300,
+			"end": 16800
 		}
 	],
 	"articles": [

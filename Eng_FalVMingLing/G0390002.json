@@ -41,187 +41,228 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Principles",
-			"start": 100
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Definitions and Categories",
-			"start": 100
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Insurable Interest",
-			"start": 1400
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Premiums",
-			"start": 2100
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "Obligations of the Insurer",
-			"start": 2900
-		},
-		{
-			"type": "section",
-			"number": 500,
-			"title": "Double Insurance",
-			"start": 3500
-		},
-		{
-			"type": "section",
-			"number": 600,
-			"title": "Reinsurance",
-			"start": 3900
+			"start": 100,
+			"end": 4200,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Definitions and Categories",
+					"start": 100,
+					"end": 1300
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Insurable Interest",
+					"start": 1400,
+					"end": 2000
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Premiums",
+					"start": 2100,
+					"end": 2800
+				},
+				{
+					"type": "section",
+					"number": 400,
+					"title": "Obligations of the Insurer",
+					"start": 2900,
+					"end": 3400
+				},
+				{
+					"type": "section",
+					"number": 500,
+					"title": "Double Insurance",
+					"start": 3500,
+					"end": 3800
+				},
+				{
+					"type": "section",
+					"number": 600,
+					"title": "Reinsurance",
+					"start": 3900,
+					"end": 4200
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Insurance Contracts",
-			"start": 4300
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "General Provisions",
-			"start": 4300
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Basic Provisions",
-			"start": 5500
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Special Provisions",
-			"start": 6600
+			"start": 4300,
+			"end": 6900,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "General Provisions",
+					"start": 4300,
+					"end": 5401
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Basic Provisions",
+					"start": 5500,
+					"end": 6500
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Special Provisions",
+					"start": 6600,
+					"end": 6900
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Non-life Insurance",
-			"start": 7000
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Fire Insurance",
-			"start": 7000
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Marine Insurance",
-			"start": 8300
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Land and Air Insurance",
-			"start": 8500
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "Liability Insurance",
-			"start": 9000
-		},
-		{
-			"type": "section",
-			"number": 401,
-			"title": "Bonding Insurance",
-			"start": 9501
-		},
-		{
-			"type": "section",
-			"number": 500,
-			"title": "Other Non-life Insurance",
-			"start": 9600
+			"start": 7000,
+			"end": 10000,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Fire Insurance",
+					"start": 7000,
+					"end": 8201
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Marine Insurance",
+					"start": 8300,
+					"end": 8400
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Land and Air Insurance",
+					"start": 8500,
+					"end": 8900
+				},
+				{
+					"type": "section",
+					"number": 400,
+					"title": "Liability Insurance",
+					"start": 9000,
+					"end": 9500
+				},
+				{
+					"type": "section",
+					"number": 401,
+					"title": "Bonding Insurance",
+					"start": 9501,
+					"end": 9503
+				},
+				{
+					"type": "section",
+					"number": 500,
+					"title": "Other Non-life Insurance",
+					"start": 9600,
+					"end": 10000
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Insurance of the Person",
-			"start": 10100
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Life Insurance",
-			"start": 10100
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Health Insurance",
-			"start": 12500
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Personal Injury Insurance",
-			"start": 13100
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "Annuity Insurance",
-			"start": 13501
+			"start": 10100,
+			"end": 13504,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Life Insurance",
+					"start": 10100,
+					"end": 12400
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Health Insurance",
+					"start": 12500,
+					"end": 13000
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Personal Injury Insurance",
+					"start": 13100,
+					"end": 13500
+				},
+				{
+					"type": "section",
+					"number": 400,
+					"title": "Annuity Insurance",
+					"start": 13501,
+					"end": 13504
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Insurance Enterprises",
-			"start": 13600
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "General Provisions",
-			"start": 13600
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Insurance Companies",
-			"start": 15100
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Insurance Cooperatives",
-			"start": 15600
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "Insurance Agents, Brokers, and Surveyors",
-			"start": 16300
-		},
-		{
-			"type": "section",
-			"number": 401,
-			"title": "Trade associations",
-			"start": 16501
-		},
-		{
-			"type": "section",
-			"number": 500,
-			"title": "Penal Provisions",
-			"start": 16600
+			"start": 13600,
+			"end": 17300,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "General Provisions",
+					"start": 13600,
+					"end": 15000
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Insurance Companies",
+					"start": 15100,
+					"end": 15500
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Insurance Cooperatives",
+					"start": 15600,
+					"end": 16200
+				},
+				{
+					"type": "section",
+					"number": 400,
+					"title": "Insurance Agents, Brokers, and Surveyors",
+					"start": 16300,
+					"end": 16500
+				},
+				{
+					"type": "section",
+					"number": 401,
+					"title": "Trade associations",
+					"start": 16501,
+					"end": 16507
+				},
+				{
+					"type": "section",
+					"number": 500,
+					"title": "Penal Provisions",
+					"start": 16600,
+					"end": 17300
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 600,
 			"title": "Supplementary Provisions",
-			"start": 17400
+			"start": 17400,
+			"end": 17800
 		}
 	],
 	"articles": [

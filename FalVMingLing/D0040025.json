@@ -20,31 +20,36 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 200
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "傷亡區分",
-			"start": 300
+			"start": 300,
+			"end": 900
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "撫卹給與",
-			"start": 1000
+			"start": 1000,
+			"end": 1400
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "撫卹程序",
-			"start": 1500
+			"start": 1500,
+			"end": 2100
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "附則",
-			"start": 2200
+			"start": 2200,
+			"end": 2900
 		}
 	],
 	"articles": [

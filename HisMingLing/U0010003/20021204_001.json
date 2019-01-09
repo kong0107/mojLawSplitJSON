@@ -14,31 +14,36 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 700
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "職掌",
-			"start": 800
+			"start": 800,
+			"end": 2200
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "分層負責",
-			"start": 2300
+			"start": 2300,
+			"end": 3000
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "會議",
-			"start": 3100
+			"start": 3100,
+			"end": 3300
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "附則",
-			"start": 3400
+			"start": 3400,
+			"end": 3800
 		}
 	],
 	"articles": [

@@ -18,67 +18,80 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Principles",
-			"start": 100
+			"start": 100,
+			"end": 500
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Administrative Affairs",
-			"start": 600
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Organizations Dealing with Exchange Matters",
-			"start": 600
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Entry and Exit Administration",
-			"start": 1000
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Cultural and Educational Exchanges",
-			"start": 1900
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "Transportation and Shipping",
-			"start": 2400
-		},
-		{
-			"type": "section",
-			"number": 500,
-			"title": "Economic and Trade Exchanges",
-			"start": 2800
+			"start": 600,
+			"end": 3700,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Organizations Dealing with Exchange Matters",
+					"start": 600,
+					"end": 900
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Entry and Exit Administration",
+					"start": 1000,
+					"end": 1800
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Cultural and Educational Exchanges",
+					"start": 1900,
+					"end": 2300
+				},
+				{
+					"type": "section",
+					"number": 400,
+					"title": "Transportation and Shipping",
+					"start": 2400,
+					"end": 2700
+				},
+				{
+					"type": "section",
+					"number": 500,
+					"title": "Economic and Trade Exchanges",
+					"start": 2800,
+					"end": 3700
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Civil Matters",
-			"start": 3800
+			"start": 3800,
+			"end": 4200
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Criminal Matters",
-			"start": 4300
+			"start": 4300,
+			"end": 4600
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Penal Provisions",
-			"start": 4700
+			"start": 4700,
+			"end": 5500
 		},
 		{
 			"type": "chapter",
 			"number": 600,
 			"title": "Supplementary Provisions",
-			"start": 5600
+			"start": 5600,
+			"end": 6200
 		}
 	],
 	"articles": [

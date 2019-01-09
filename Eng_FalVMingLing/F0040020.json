@@ -15,31 +15,36 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Principles",
-			"start": 100
+			"start": 100,
+			"end": 1000
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Services of Standing Commissioned Officers and Non Commissioned Officers",
-			"start": 1100
+			"start": 1100,
+			"end": 1800
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Reserved Commissioned Officers and Reserved Non Commission Officers Military Services",
-			"start": 1900
+			"start": 1900,
+			"end": 2200
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Retirement Separations and Payables",
-			"start": 2300
+			"start": 2300,
+			"end": 4400
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Supplementary Provisions",
-			"start": 4500
+			"start": 4500,
+			"end": 4900
 		}
 	],
 	"articles": [

@@ -24,49 +24,57 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 600
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "公路及市區汽車客運",
-			"start": 700
+			"start": 700,
+			"end": 800
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "鐵路",
-			"start": 900
+			"start": 900,
+			"end": 1000
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "捷運",
-			"start": 1100
+			"start": 1100,
+			"end": 1200
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "空運",
-			"start": 1300
+			"start": 1300,
+			"end": 1400
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "水運",
-			"start": 1500
+			"start": 1500,
+			"end": 1600
 		},
 		{
 			"type": "章",
 			"number": 700,
 			"title": "管理與監督",
-			"start": 1700
+			"start": 1700,
+			"end": 1800
 		},
 		{
 			"type": "章",
 			"number": 800,
 			"title": "附則",
-			"start": 1900
+			"start": 1900,
+			"end": 2000
 		}
 	],
 	"articles": [

@@ -37,115 +37,138 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 400
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "著作",
-			"start": 500
+			"start": 500,
+			"end": 900
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "著作人及著作權",
-			"start": 1000
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "通則",
-			"start": 1000
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "著作人",
-			"start": 1100
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "著作人格權",
-			"start": 1500
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "著作財產權",
-			"start": 2200
-		},
-		{
-			"type": "款",
-			"number": 100,
-			"title": "著作財產權之種類",
-			"start": 2200
-		},
-		{
-			"type": "款",
-			"number": 200,
-			"title": "著作財產權之存續期間",
-			"start": 3000
-		},
-		{
-			"type": "款",
-			"number": 300,
-			"title": "著作財產權之讓與、行使及消滅",
-			"start": 3600
-		},
-		{
-			"type": "款",
-			"number": 400,
-			"title": "著作財產權之限制",
-			"start": 4400
-		},
-		{
-			"type": "款",
-			"number": 500,
-			"title": "著作利用之強制授權",
-			"start": 6700
+			"start": 1000,
+			"end": 7800,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "通則",
+					"start": 1000,
+					"end": 1001
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "著作人",
+					"start": 1100,
+					"end": 1400
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "著作人格權",
+					"start": 1500,
+					"end": 2100
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "著作財產權",
+					"start": 2200,
+					"end": 7800,
+					"children": [
+						{
+							"type": "款",
+							"number": 100,
+							"title": "著作財產權之種類",
+							"start": 2200,
+							"end": 2901
+						},
+						{
+							"type": "款",
+							"number": 200,
+							"title": "著作財產權之存續期間",
+							"start": 3000,
+							"end": 3500
+						},
+						{
+							"type": "款",
+							"number": 300,
+							"title": "著作財產權之讓與、行使及消滅",
+							"start": 3600,
+							"end": 4300
+						},
+						{
+							"type": "款",
+							"number": 400,
+							"title": "著作財產權之限制",
+							"start": 4400,
+							"end": 6600
+						},
+						{
+							"type": "款",
+							"number": 500,
+							"title": "著作利用之強制授權",
+							"start": 6700,
+							"end": 7800
+						}
+					]
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "製版權",
-			"start": 7900
+			"start": 7900,
+			"end": 8000
 		},
 		{
 			"type": "章",
 			"number": 401,
 			"title": "權利管理電子資訊及防盜拷措施",
-			"start": 8001
+			"start": 8001,
+			"end": 8002
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "著作權集體管理團體與著作權審議及調解委員會",
-			"start": 8100
+			"start": 8100,
+			"end": 8300
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "權利侵害之救濟",
-			"start": 8400
+			"start": 8400,
+			"end": 9003
 		},
 		{
 			"type": "章",
 			"number": 601,
 			"title": "網路服務提供者之民事免責事由",
-			"start": 9004
+			"start": 9004,
+			"end": 9012
 		},
 		{
 			"type": "章",
 			"number": 700,
 			"title": "罰則",
-			"start": 9100
+			"start": 9100,
+			"end": 10400
 		},
 		{
 			"type": "章",
 			"number": 800,
 			"title": "附則",
-			"start": 10500
+			"start": 10500,
+			"end": 11700
 		}
 	],
 	"articles": [

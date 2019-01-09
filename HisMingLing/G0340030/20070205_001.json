@@ -14,43 +14,52 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 501
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "帳簿憑證之查核",
-			"start": 600
+			"start": 600,
+			"end": 900
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "執行業務收入之查核",
-			"start": 1000
+			"start": 1000,
+			"end": 1300
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "執行業務費用之查核",
-			"start": 1400
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "通則",
-			"start": 1400
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "各項費用或損失之查核",
-			"start": 1800
+			"start": 1400,
+			"end": 3400,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "通則",
+					"start": 1400,
+					"end": 1700
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "各項費用或損失之查核",
+					"start": 1800,
+					"end": 3400
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "附則",
-			"start": 3500
+			"start": 3500,
+			"end": 3600
 		}
 	],
 	"articles": [

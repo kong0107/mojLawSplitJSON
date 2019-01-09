@@ -15,55 +15,64 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 800
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "初任",
-			"start": 900
+			"start": 900,
+			"end": 1100
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "晉任",
-			"start": 1200
+			"start": 1200,
+			"end": 4100
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "轉任",
-			"start": 4200
+			"start": 4200,
+			"end": 4300
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "敘任",
-			"start": 4400
+			"start": 4400,
+			"end": 4500
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "追晉、追贈",
-			"start": 4600
+			"start": 4600,
+			"end": 4900
 		},
 		{
 			"type": "章",
 			"number": 700,
 			"title": "免官、復官",
-			"start": 5000
+			"start": 5000,
+			"end": 5400
 		},
 		{
 			"type": "章",
 			"number": 800,
 			"title": "俸級晉支",
-			"start": 5500
+			"start": 5500,
+			"end": 5900
 		},
 		{
 			"type": "章",
 			"number": 900,
 			"title": "附則",
-			"start": 6000
+			"start": 6000,
+			"end": 6100
 		}
 	],
 	"articles": [

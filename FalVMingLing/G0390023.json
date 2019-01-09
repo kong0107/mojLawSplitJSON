@@ -27,61 +27,75 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 800
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "業務往來",
-			"start": 900
+			"start": 900,
+			"end": 1400
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "赴大陸地區設立分支機構及參股投資",
-			"start": 1500
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "代表人辦事處",
-			"start": 1500
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "分公司及子公司",
-			"start": 2001
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "參股投資",
-			"start": 2700
+			"start": 1500,
+			"end": 3400,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "代表人辦事處",
+					"start": 1500,
+					"end": 2000
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "分公司及子公司",
+					"start": 2001,
+					"end": 2600
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "參股投資",
+					"start": 2700,
+					"end": 3400
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "來臺設立代表人辦事處及參股投資",
-			"start": 3500
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "代表人辦事處",
-			"start": 3500
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "參股投資",
-			"start": 4100
+			"start": 3500,
+			"end": 4900,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "代表人辦事處",
+					"start": 3500,
+					"end": 4000
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "參股投資",
+					"start": 4100,
+					"end": 4900
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "附則",
-			"start": 5000
+			"start": 5000,
+			"end": 5500
 		}
 	],
 	"articles": [

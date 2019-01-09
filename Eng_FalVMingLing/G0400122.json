@@ -22,67 +22,82 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Principles",
-			"start": 100
+			"start": 100,
+			"end": 700
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Master Agents and Sub-Distributors of Offshore Funds",
-			"start": 800
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Master Agents",
-			"start": 800
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Sub-Distributors",
-			"start": 1800
+			"start": 800,
+			"end": 2200,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Master Agents",
+					"start": 800,
+					"end": 1700
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Sub-Distributors",
+					"start": 1800,
+					"end": 2200
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Offering and Sale of Offshore Funds",
-			"start": 2300
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Qualifications",
-			"start": 2300
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Application (or Filing) Procedures",
-			"start": 2700
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Delivery of Transaction Documents or Reconciliation Statements",
-			"start": 4700
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "Advertising and Promotions",
-			"start": 5000
+			"start": 2300,
+			"end": 5100,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Qualifications",
+					"start": 2300,
+					"end": 2601
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Application (or Filing) Procedures",
+					"start": 2700,
+					"end": 4600
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Delivery of Transaction Documents or Reconciliation Statements",
+					"start": 4700,
+					"end": 4900
+				},
+				{
+					"type": "section",
+					"number": 400,
+					"title": "Advertising and Promotions",
+					"start": 5000,
+					"end": 5100
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Private Placement of Offshore Funds",
-			"start": 5200
+			"start": 5200,
+			"end": 5400
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Supplementary Provisions",
-			"start": 5500
+			"start": 5500,
+			"end": 5900
 		}
 	],
 	"articles": [

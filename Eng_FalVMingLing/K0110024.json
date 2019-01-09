@@ -14,37 +14,45 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Principles",
-			"start": 100
+			"start": 100,
+			"end": 1000
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Special Provisions",
-			"start": 1100
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Personal Watercraft (Jetski) Activity",
-			"start": 1100
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Diving Activity",
-			"start": 1600
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Canoeing Activity",
-			"start": 2200
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "Rafting Activity",
-			"start": 2500
+			"start": 1100,
+			"end": 2700,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Personal Watercraft (Jetski) Activity",
+					"start": 1100,
+					"end": 1500
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Diving Activity",
+					"start": 1600,
+					"end": 2100
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Canoeing Activity",
+					"start": 2200,
+					"end": 2400
+				},
+				{
+					"type": "section",
+					"number": 400,
+					"title": "Rafting Activity",
+					"start": 2500,
+					"end": 2700
+				}
+			]
 		},
 		{
 			"type": "chapter",

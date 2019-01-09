@@ -20,211 +20,252 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 500
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "居家式服務",
-			"start": 600
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "居家式醫護服務",
-			"start": 600
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "居家式復健服務",
-			"start": 1000
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "身體照顧及家務服務",
-			"start": 1500
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "關懷訪視及電話問安服務",
-			"start": 1900
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "居家式餐飲服務",
-			"start": 2200
-		},
-		{
-			"type": "節",
-			"number": 600,
-			"title": "緊急救援服務",
-			"start": 2600
-		},
-		{
-			"type": "節",
-			"number": 700,
-			"title": "住家環境改善服務",
-			"start": 3100
+			"start": 600,
+			"end": 3300,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "居家式醫護服務",
+					"start": 600,
+					"end": 900
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "居家式復健服務",
+					"start": 1000,
+					"end": 1400
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "身體照顧及家務服務",
+					"start": 1500,
+					"end": 1800
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "關懷訪視及電話問安服務",
+					"start": 1900,
+					"end": 2100
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "居家式餐飲服務",
+					"start": 2200,
+					"end": 2500
+				},
+				{
+					"type": "節",
+					"number": 600,
+					"title": "緊急救援服務",
+					"start": 2600,
+					"end": 3000
+				},
+				{
+					"type": "節",
+					"number": 700,
+					"title": "住家環境改善服務",
+					"start": 3100,
+					"end": 3300
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "社區式服務",
-			"start": 3400
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "保健服務",
-			"start": 3400
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "社區式醫護服務",
-			"start": 3800
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "社區式復健服務",
-			"start": 4200
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "輔具服務",
-			"start": 4700
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "心理諮商服務",
-			"start": 5100
-		},
-		{
-			"type": "節",
-			"number": 600,
-			"title": "社區式日間照顧服務",
-			"start": 5500
-		},
-		{
-			"type": "節",
-			"number": 700,
-			"title": "社區式餐飲服務",
-			"start": 6000
-		},
-		{
-			"type": "節",
-			"number": 800,
-			"title": "家庭托顧服務",
-			"start": 6400
-		},
-		{
-			"type": "節",
-			"number": 900,
-			"title": "教育服務",
-			"start": 7000
-		},
-		{
-			"type": "節",
-			"number": 1000,
-			"title": "法律服務",
-			"start": 7400
-		},
-		{
-			"type": "節",
-			"number": 1100,
-			"title": "交通服務",
-			"start": 7700
-		},
-		{
-			"type": "節",
-			"number": 1200,
-			"title": "退休準備服務",
-			"start": 8200
-		},
-		{
-			"type": "節",
-			"number": 1300,
-			"title": "休閒服務",
-			"start": 8500
-		},
-		{
-			"type": "節",
-			"number": 1400,
-			"title": "資訊提供及轉介服務",
-			"start": 8800
+			"start": 3400,
+			"end": 9000,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "保健服務",
+					"start": 3400,
+					"end": 3700
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "社區式醫護服務",
+					"start": 3800,
+					"end": 4100
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "社區式復健服務",
+					"start": 4200,
+					"end": 4600
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "輔具服務",
+					"start": 4700,
+					"end": 5000
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "心理諮商服務",
+					"start": 5100,
+					"end": 5400
+				},
+				{
+					"type": "節",
+					"number": 600,
+					"title": "社區式日間照顧服務",
+					"start": 5500,
+					"end": 5900
+				},
+				{
+					"type": "節",
+					"number": 700,
+					"title": "社區式餐飲服務",
+					"start": 6000,
+					"end": 6300
+				},
+				{
+					"type": "節",
+					"number": 800,
+					"title": "家庭托顧服務",
+					"start": 6400,
+					"end": 6900
+				},
+				{
+					"type": "節",
+					"number": 900,
+					"title": "教育服務",
+					"start": 7000,
+					"end": 7300
+				},
+				{
+					"type": "節",
+					"number": 1000,
+					"title": "法律服務",
+					"start": 7400,
+					"end": 7600
+				},
+				{
+					"type": "節",
+					"number": 1100,
+					"title": "交通服務",
+					"start": 7700,
+					"end": 8100
+				},
+				{
+					"type": "節",
+					"number": 1200,
+					"title": "退休準備服務",
+					"start": 8200,
+					"end": 8400
+				},
+				{
+					"type": "節",
+					"number": 1300,
+					"title": "休閒服務",
+					"start": 8500,
+					"end": 8700
+				},
+				{
+					"type": "節",
+					"number": 1400,
+					"title": "資訊提供及轉介服務",
+					"start": 8800,
+					"end": 9000
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "機構式服務",
-			"start": 9100
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "住宿服務",
-			"start": 9100
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "機構式醫護服務",
-			"start": 9300
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "機構式復健服務",
-			"start": 9600
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "生活照顧服務",
-			"start": 9900
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "膳食服務",
-			"start": 10200
-		},
-		{
-			"type": "節",
-			"number": 600,
-			"title": "緊急送醫服務",
-			"start": 10500
-		},
-		{
-			"type": "節",
-			"number": 700,
-			"title": "社交活動服務",
-			"start": 10700
-		},
-		{
-			"type": "節",
-			"number": 800,
-			"title": "家屬教育服務",
-			"start": 10900
-		},
-		{
-			"type": "節",
-			"number": 900,
-			"title": "機構式日間照顧服務",
-			"start": 11100
+			"start": 9100,
+			"end": 11300,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "住宿服務",
+					"start": 9100,
+					"end": 9200
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "機構式醫護服務",
+					"start": 9300,
+					"end": 9500
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "機構式復健服務",
+					"start": 9600,
+					"end": 9800
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "生活照顧服務",
+					"start": 9900,
+					"end": 10100
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "膳食服務",
+					"start": 10200,
+					"end": 10400
+				},
+				{
+					"type": "節",
+					"number": 600,
+					"title": "緊急送醫服務",
+					"start": 10500,
+					"end": 10600
+				},
+				{
+					"type": "節",
+					"number": 700,
+					"title": "社交活動服務",
+					"start": 10700,
+					"end": 10800
+				},
+				{
+					"type": "節",
+					"number": 800,
+					"title": "家屬教育服務",
+					"start": 10900,
+					"end": 11000
+				},
+				{
+					"type": "節",
+					"number": 900,
+					"title": "機構式日間照顧服務",
+					"start": 11100,
+					"end": 11300
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "附則",
-			"start": 11400
+			"start": 11400,
+			"end": 11400
 		}
 	],
 	"articles": [

@@ -14,49 +14,59 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 400
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "設置標準",
-			"start": 500
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "托嬰中心",
-			"start": 500
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "早期療育機構",
-			"start": 1300
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "安置及教養機構",
-			"start": 1800
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "心理輔導或家庭諮詢機構",
-			"start": 2400
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "其他兒童及少年福利機構",
-			"start": 2700
+			"start": 500,
+			"end": 2900,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "托嬰中心",
+					"start": 500,
+					"end": 1200
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "早期療育機構",
+					"start": 1300,
+					"end": 1700
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "安置及教養機構",
+					"start": 1800,
+					"end": 2300
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "心理輔導或家庭諮詢機構",
+					"start": 2400,
+					"end": 2600
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "其他兒童及少年福利機構",
+					"start": 2700,
+					"end": 2900
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "附則",
-			"start": 3000
+			"start": 3000,
+			"end": 3300
 		}
 	],
 	"articles": [

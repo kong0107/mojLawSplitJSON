@@ -34,31 +34,36 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 100
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "榮譽旗及旗旒旗標之頒授",
-			"start": 200
+			"start": 200,
+			"end": 300
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "戰役紀念旗旒之頒授",
-			"start": 400
+			"start": 400,
+			"end": 800
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "紀念章之制頒",
-			"start": 900
+			"start": 900,
+			"end": 1300
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "附則",
-			"start": 1400
+			"start": 1400,
+			"end": 1700
 		}
 	],
 	"articles": [

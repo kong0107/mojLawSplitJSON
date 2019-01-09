@@ -15,31 +15,36 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General rules",
-			"start": 100
+			"start": 100,
+			"end": 500
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Capital",
-			"start": 600
+			"start": 600,
+			"end": 900
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Organization",
-			"start": 1000
+			"start": 1000,
+			"end": 1600
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Business",
-			"start": 1700
+			"start": 1700,
+			"end": 2100
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Supplements",
-			"start": 2200
+			"start": 2200,
+			"end": 2300
 		}
 	],
 	"articles": [

@@ -61,169 +61,205 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 400
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "軍圖保密",
-			"start": 500
+			"start": 500,
+			"end": 600
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "軍圖申請核發",
-			"start": 700
+			"start": 700,
+			"end": 1700
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "軍圖售價",
-			"start": 1800
+			"start": 1800,
+			"end": 2300
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "軍圖繳舊換新",
-			"start": 2400
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "陸 (地) 圖繳舊換新",
-			"start": 2400
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "海圖繳舊換新",
-			"start": 3100
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "空圖繳舊換讓",
-			"start": 3300
+			"start": 2400,
+			"end": 3500,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "陸 (地) 圖繳舊換新",
+					"start": 2400,
+					"end": 3000
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "海圖繳舊換新",
+					"start": 3100,
+					"end": 3200
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "空圖繳舊換讓",
+					"start": 3300,
+					"end": 3500
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "軍圖遺失之處理",
-			"start": 3600
+			"start": 3600,
+			"end": 4000
 		},
 		{
 			"type": "章",
 			"number": 700,
 			"title": "不適用軍圖之處理",
-			"start": 4100
+			"start": 4100,
+			"end": 4700
 		},
 		{
 			"type": "章",
 			"number": 800,
 			"title": "陸 (地) 圖",
-			"start": 4800
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "地圖分類與軍圖補給系統",
-			"start": 4800
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "陸軍各級單位軍圖業務職責劃",
-			"start": 5100
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "陸 (地) 圖需求",
-			"start": 5200
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "陸 (地) 圖分配",
-			"start": 5900
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "陸 (地) 存量管制",
-			"start": 6100
-		},
-		{
-			"type": "節",
-			"number": 600,
-			"title": "陸 (地) 圖建卡及表報",
-			"start": 6700
+			"start": 4800,
+			"end": 6900,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "地圖分類與軍圖補給系統",
+					"start": 4800,
+					"end": 5000
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "陸軍各級單位軍圖業務職責劃",
+					"start": 5100,
+					"end": 5100
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "陸 (地) 圖需求",
+					"start": 5200,
+					"end": 5800
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "陸 (地) 圖分配",
+					"start": 5900,
+					"end": 6000
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "陸 (地) 存量管制",
+					"start": 6100,
+					"end": 6600
+				},
+				{
+					"type": "節",
+					"number": 600,
+					"title": "陸 (地) 圖建卡及表報",
+					"start": 6700,
+					"end": 6900
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 900,
 			"title": "海圖",
-			"start": 7000
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "海圖分類",
-			"start": 7000
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "海圖補給系統與海軍各級單位",
-			"start": 7100
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "海圖需求",
-			"start": 7300
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "海圖管理",
-			"start": 7500
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "海圖庫站作業",
-			"start": 7900
+			"start": 7000,
+			"end": 8300,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "海圖分類",
+					"start": 7000,
+					"end": 7000
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "海圖補給系統與海軍各級單位",
+					"start": 7100,
+					"end": 7200
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "海圖需求",
+					"start": 7300,
+					"end": 7400
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "海圖管理",
+					"start": 7500,
+					"end": 7800
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "海圖庫站作業",
+					"start": 7900,
+					"end": 8300
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 1000,
 			"title": "空圖",
-			"start": 8400
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "空圖分類",
-			"start": 8400
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "空圖補給系統與空圖業務職掌",
-			"start": 8500
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "空圖管理",
-			"start": 8700
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "空圖庫作業",
-			"start": 9100
+			"start": 8400,
+			"end": 9700,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "空圖分類",
+					"start": 8400,
+					"end": 8400
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "空圖補給系統與空圖業務職掌",
+					"start": 8500,
+					"end": 8600
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "空圖管理",
+					"start": 8700,
+					"end": 9000
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "空圖庫作業",
+					"start": 9100,
+					"end": 9700
+				}
+			]
 		}
 	],
 	"articles": [

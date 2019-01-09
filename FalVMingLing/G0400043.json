@@ -21,31 +21,36 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 200
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "營業許可",
-			"start": 300
+			"start": 300,
+			"end": 800
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "財務、業務及人員之管理",
-			"start": 900
+			"start": 900,
+			"end": 2500
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "信託業兼營證券投資顧問業務辦理全權委託投資業務",
-			"start": 2600
+			"start": 2600,
+			"end": 3700
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "附則",
-			"start": 3800
+			"start": 3800,
+			"end": 3900
 		}
 	],
 	"articles": [

@@ -14,7 +14,8 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 9000
 		},
 		{
 			"type": "章",
@@ -29,37 +30,39 @@
 		{
 			"type": "章",
 			"number": 400,
-			"title": "自動檢查"
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "機械之定期檢查"
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "設備之定期檢查"
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "機械、設備之重點檢查"
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "機械、設備之作業檢點"
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "作業檢點"
-		},
-		{
-			"type": "節",
-			"number": 600,
-			"title": "自動檢查紀錄及必要措施"
+			"title": "自動檢查",
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "機械之定期檢查"
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "設備之定期檢查"
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "機械、設備之重點檢查"
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "機械、設備之作業檢點"
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "作業檢點"
+				},
+				{
+					"type": "節",
+					"number": 600,
+					"title": "自動檢查紀錄及必要措施"
+				}
+			]
 		},
 		{
 			"type": "章",

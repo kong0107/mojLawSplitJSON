@@ -13,31 +13,36 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 200
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "都市計畫之擬定、變更、發布及實施",
-			"start": 300
+			"start": 300,
+			"end": 1300
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "土地使用分區管制",
-			"start": 1400
+			"start": 1400,
+			"end": 3500
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "公共設施用地",
-			"start": 3600
+			"start": 3600,
+			"end": 3800
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "附則",
-			"start": 3900
+			"start": 3900,
+			"end": 4200
 		}
 	],
 	"articles": [

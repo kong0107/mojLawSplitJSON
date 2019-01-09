@@ -23,139 +23,168 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 600
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "踏勘",
-			"start": 700
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "踏勘測量方法",
-			"start": 700
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "路線選擇",
-			"start": 800
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "繪製圖件",
-			"start": 1200
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "填製表報",
-			"start": 1800
+			"start": 700,
+			"end": 2100,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "踏勘測量方法",
+					"start": 700,
+					"end": 700
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "路線選擇",
+					"start": 800,
+					"end": 1100
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "繪製圖件",
+					"start": 1200,
+					"end": 1700
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "填製表報",
+					"start": 1800,
+					"end": 2100
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "初測",
-			"start": 2200
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "初測目的及路線選擇",
-			"start": 2200
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "導線組",
-			"start": 2700
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "水平組",
-			"start": 3400
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "地形組",
-			"start": 4100
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "平面圖",
-			"start": 4700
-		},
-		{
-			"type": "節",
-			"number": 600,
-			"title": "縱部面圖",
-			"start": 5200
-		},
-		{
-			"type": "節",
-			"number": 700,
-			"title": "總圖",
-			"start": 5500
-		},
-		{
-			"type": "節",
-			"number": 800,
-			"title": "建築費概算及表報",
-			"start": 5800
+			"start": 2200,
+			"end": 6200,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "初測目的及路線選擇",
+					"start": 2200,
+					"end": 2600
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "導線組",
+					"start": 2700,
+					"end": 3300
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "水平組",
+					"start": 3400,
+					"end": 4000
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "地形組",
+					"start": 4100,
+					"end": 4600
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "平面圖",
+					"start": 4700,
+					"end": 5100
+				},
+				{
+					"type": "節",
+					"number": 600,
+					"title": "縱部面圖",
+					"start": 5200,
+					"end": 5400
+				},
+				{
+					"type": "節",
+					"number": 700,
+					"title": "總圖",
+					"start": 5500,
+					"end": 5700
+				},
+				{
+					"type": "節",
+					"number": 800,
+					"title": "建築費概算及表報",
+					"start": 5800,
+					"end": 6200
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "定測",
-			"start": 6300
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "定測目的及路線選擇",
-			"start": 6300
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "中線組",
-			"start": 6600
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "水平組",
-			"start": 7300
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "地形組",
-			"start": 7700
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "橫斷面組",
-			"start": 7800
-		},
-		{
-			"type": "節",
-			"number": 600,
-			"title": "製圖及報告",
-			"start": 8100
+			"start": 6300,
+			"end": 8300,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "定測目的及路線選擇",
+					"start": 6300,
+					"end": 6500
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "中線組",
+					"start": 6600,
+					"end": 7200
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "水平組",
+					"start": 7300,
+					"end": 7600
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "地形組",
+					"start": 7700,
+					"end": 7700
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "橫斷面組",
+					"start": 7800,
+					"end": 8000
+				},
+				{
+					"type": "節",
+					"number": 600,
+					"title": "製圖及報告",
+					"start": 8100,
+					"end": 8300
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "附則",
-			"start": 8400
+			"start": 8400,
+			"end": 8400
 		}
 	],
 	"articles": [

@@ -28,31 +28,36 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 400
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "新化學物質登錄",
-			"start": 500
+			"start": 500,
+			"end": 1700
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "既有化學物質登錄",
-			"start": 1800
+			"start": 1800,
+			"end": 2200
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "資訊公開與工商機密保護",
-			"start": 2300
+			"start": 2300,
+			"end": 2500
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "附則",
-			"start": 2600
+			"start": 2600,
+			"end": 3300
 		}
 	],
 	"articles": [

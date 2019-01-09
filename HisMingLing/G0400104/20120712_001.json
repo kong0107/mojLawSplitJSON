@@ -14,31 +14,38 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 800
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "管理與監督",
-			"start": 900
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "財務及業務",
-			"start": 900
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "組織及人員",
-			"start": 2500
+			"start": 900,
+			"end": 3500,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "財務及業務",
+					"start": 900,
+					"end": 2400
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "組織及人員",
+					"start": 2500,
+					"end": 3500
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "附則",
-			"start": 3600
+			"start": 3600,
+			"end": 3900
 		}
 	],
 	"articles": [

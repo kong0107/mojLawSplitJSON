@@ -25,31 +25,36 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 700
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "蒐購",
-			"start": 800
+			"start": 800,
+			"end": 1000
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "捐贈",
-			"start": 1100
+			"start": 1100,
+			"end": 1300
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "寄存",
-			"start": 1400
+			"start": 1400,
+			"end": 1900
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "附則",
-			"start": 2000
+			"start": 2000,
+			"end": 2000
 		}
 	],
 	"articles": [

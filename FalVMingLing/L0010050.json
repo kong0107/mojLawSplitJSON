@@ -21,37 +21,43 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 300
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "研發成果之歸屬",
-			"start": 400
+			"start": 400,
+			"end": 500
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "研發成果之管理及運用",
-			"start": 600
+			"start": 600,
+			"end": 2000
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "研發成果收入之運用及分配",
-			"start": 2100
+			"start": 2100,
+			"end": 2200
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "研發成果之維護",
-			"start": 2300
+			"start": 2300,
+			"end": 2600
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "附則",
-			"start": 2700
+			"start": 2700,
+			"end": 2800
 		}
 	],
 	"articles": [

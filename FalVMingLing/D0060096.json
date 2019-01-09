@@ -44,37 +44,43 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 400
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "測量基準及參考系統",
-			"start": 500
+			"start": 500,
+			"end": 900
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "測量基準之測量",
-			"start": 1000
+			"start": 1000,
+			"end": 1400
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "基本控制測量",
-			"start": 1500
+			"start": 1500,
+			"end": 2800
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "加密控制測量",
-			"start": 2900
+			"start": 2900,
+			"end": 3300
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "附則",
-			"start": 3400
+			"start": 3400,
+			"end": 3600
 		}
 	],
 	"articles": [

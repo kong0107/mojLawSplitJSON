@@ -22,31 +22,36 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 600
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "金融消費者之保護",
-			"start": 700
+			"start": 700,
+			"end": 1201
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "金融消費爭議處理",
-			"start": 1300
+			"start": 1300,
+			"end": 3000
 		},
 		{
 			"type": "章",
 			"number": 301,
 			"title": "罰則",
-			"start": 3001
+			"start": 3001,
+			"end": 3002
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "附則",
-			"start": 3100
+			"start": 3100,
+			"end": 3300
 		}
 	],
 	"articles": [

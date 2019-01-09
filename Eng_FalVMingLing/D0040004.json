@@ -24,37 +24,43 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Articles",
-			"start": 100
+			"start": 100,
+			"end": 300
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Exemption from Conscription",
-			"start": 400
+			"start": 400,
+			"end": 800
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Restriction of Service",
-			"start": 900
+			"start": 900,
+			"end": 1000
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Deferred Draft",
-			"start": 1100
+			"start": 1100,
+			"end": 1800
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Deferred Call",
-			"start": 1900
+			"start": 1900,
+			"end": 3300
 		},
 		{
 			"type": "chapter",
 			"number": 600,
 			"title": "Special Articles",
-			"start": 3400
+			"start": 3400,
+			"end": 4100
 		}
 	],
 	"articles": [

@@ -13,24 +13,29 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 200
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "遴選方式及程序",
-			"start": 300
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "律師",
-			"start": 300
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "教授、副教授、助理教授、講師"
+			"start": 300,
+			"end": 1200,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "律師",
+					"start": 300,
+					"end": 1200
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "教授、副教授、助理教授、講師"
+				}
+			]
 		},
 		{
 			"type": "章",

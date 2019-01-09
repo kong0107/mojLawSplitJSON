@@ -14,73 +14,87 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 800
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "財務報告",
-			"start": 900
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "資產負債表",
-			"start": 900
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "綜合損益表",
-			"start": 1200
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "權益變動表",
-			"start": 1300
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "現金流量表",
-			"start": 1400
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "附註",
-			"start": 1500
-		},
-		{
-			"type": "節",
-			"number": 600,
-			"title": "財務報表名稱",
-			"start": 1900
+			"start": 900,
+			"end": 1900,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "資產負債表",
+					"start": 900,
+					"end": 1100
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "綜合損益表",
+					"start": 1200,
+					"end": 1200
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "權益變動表",
+					"start": 1300,
+					"end": 1302
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "現金流量表",
+					"start": 1400,
+					"end": 1400
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "附註",
+					"start": 1500,
+					"end": 1800
+				},
+				{
+					"type": "節",
+					"number": 600,
+					"title": "財務報表名稱",
+					"start": 1900,
+					"end": 1900
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "期中財務報告",
-			"start": 2000
+			"start": 2000,
+			"end": 2000
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "個體財務報告",
-			"start": 2100
+			"start": 2100,
+			"end": 2300
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "合併財務報表及企業合併",
-			"start": 2400
+			"start": 2400,
+			"end": 2400
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "首次採用",
-			"start": 2500
+			"start": 2500,
+			"end": 2700
 		},
 		{
 			"type": "章",

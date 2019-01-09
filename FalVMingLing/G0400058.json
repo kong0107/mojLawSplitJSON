@@ -23,67 +23,84 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 700
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "處理程序之訂定",
-			"start": 800
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "資金貸與他人",
-			"start": 800
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "為他人背書或提供保證",
-			"start": 1100
+			"start": 800,
+			"end": 1300,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "資金貸與他人",
+					"start": 800,
+					"end": 1000
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "為他人背書或提供保證",
+					"start": 1100,
+					"end": 1300
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "個案之評估",
-			"start": 1400
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "資金貸與他人",
-			"start": 1400
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "為他人背書或提供保證",
-			"start": 1700
+			"start": 1400,
+			"end": 2000,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "資金貸與他人",
+					"start": 1400,
+					"end": 1600
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "為他人背書或提供保證",
+					"start": 1700,
+					"end": 2000
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "資訊公開",
-			"start": 2100
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "資金貸與他人",
-			"start": 2100
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "為他人背書或提供保證",
-			"start": 2400
+			"start": 2100,
+			"end": 2601,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "資金貸與他人",
+					"start": 2100,
+					"end": 2300
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "為他人背書或提供保證",
+					"start": 2400,
+					"end": 2601
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "附則",
-			"start": 2700
+			"start": 2700,
+			"end": 2700
 		}
 	],
 	"articles": [

@@ -14,103 +14,124 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 300
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "保險人、投保單位及被保險人",
-			"start": 400
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "保險人",
-			"start": 400
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "投保單位",
-			"start": 800
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "被保險人",
-			"start": 1900
+			"start": 400,
+			"end": 2600,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "保險人",
+					"start": 400,
+					"end": 700
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "投保單位",
+					"start": 800,
+					"end": 1800
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "被保險人",
+					"start": 1900,
+					"end": 2600
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "保險費",
-			"start": 2700
+			"start": 2700,
+			"end": 4100
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "保險給付",
-			"start": 4200
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "通則",
-			"start": 4200
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "生育給付",
-			"start": 5600
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "傷病給付",
-			"start": 5700
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "職業災害保險醫療給付",
-			"start": 5900
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "失能給付",
-			"start": 6800
-		},
-		{
-			"type": "節",
-			"number": 600,
-			"title": "老年給付",
-			"start": 7700
-		},
-		{
-			"type": "節",
-			"number": 700,
-			"title": "死亡給付",
-			"start": 8000
-		},
-		{
-			"type": "節",
-			"number": 800,
-			"title": "年金給付之申請及核發",
-			"start": 9300
+			"start": 4200,
+			"end": 9700,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "通則",
+					"start": 4200,
+					"end": 5500
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "生育給付",
+					"start": 5600,
+					"end": 5600
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "傷病給付",
+					"start": 5700,
+					"end": 5800
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "職業災害保險醫療給付",
+					"start": 5900,
+					"end": 6700
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "失能給付",
+					"start": 6800,
+					"end": 7600
+				},
+				{
+					"type": "節",
+					"number": 600,
+					"title": "老年給付",
+					"start": 7700,
+					"end": 7900
+				},
+				{
+					"type": "節",
+					"number": 700,
+					"title": "死亡給付",
+					"start": 8000,
+					"end": 9200
+				},
+				{
+					"type": "節",
+					"number": 800,
+					"title": "年金給付之申請及核發",
+					"start": 9300,
+					"end": 9700
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "經費",
-			"start": 9800
+			"start": 9800,
+			"end": 9800
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "附則",
-			"start": 9900
+			"start": 9900,
+			"end": 9900
 		}
 	],
 	"articles": [

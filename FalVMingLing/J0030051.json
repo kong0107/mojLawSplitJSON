@@ -23,67 +23,80 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 300
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "工業專用港之簽約及輔導",
-			"start": 400
+			"start": 400,
+			"end": 800
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "工業專用港之規劃建設",
-			"start": 900
+			"start": 900,
+			"end": 1400
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "工業專用港之港埠經營",
-			"start": 1500
+			"start": 1500,
+			"end": 2400
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "工業專用港之港務管理",
-			"start": 2500
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "船舶入出港",
-			"start": 2500
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "船舶停泊及停航",
-			"start": 2800
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "港區安全",
-			"start": 3300
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "港區行業管理",
-			"start": 5500
+			"start": 2500,
+			"end": 5500,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "船舶入出港",
+					"start": 2500,
+					"end": 2700
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "船舶停泊及停航",
+					"start": 2800,
+					"end": 3200
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "港區安全",
+					"start": 3300,
+					"end": 5400
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "港區行業管理",
+					"start": 5500,
+					"end": 5500
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "工業專用碼頭之興建及管理維護",
-			"start": 5600
+			"start": 5600,
+			"end": 5600
 		},
 		{
 			"type": "章",
 			"number": 700,
 			"title": "附則",
-			"start": 5700
+			"start": 5700,
+			"end": 6100
 		}
 	],
 	"articles": [

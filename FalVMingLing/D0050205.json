@@ -19,25 +19,29 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 900
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "帳戶開立及管理",
-			"start": 1000
+			"start": 1000,
+			"end": 1500
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "帳戶請領及結清",
-			"start": 1600
+			"start": 1600,
+			"end": 2000
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "附則",
-			"start": 2100
+			"start": 2100,
+			"end": 2700
 		}
 	],
 	"articles": [

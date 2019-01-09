@@ -23,43 +23,50 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 600
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "公務統計",
-			"start": 700
+			"start": 700,
+			"end": 900
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "統計調查",
-			"start": 1000
+			"start": 1000,
+			"end": 1500
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "統計資料管理",
-			"start": 1600
+			"start": 1600,
+			"end": 1900
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "統計業務督導",
-			"start": 2000
+			"start": 2000,
+			"end": 2200
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "罰則",
-			"start": 2300
+			"start": 2300,
+			"end": 2500
 		},
 		{
 			"type": "章",
 			"number": 700,
 			"title": "附則",
-			"start": 2600
+			"start": 2600,
+			"end": 2700
 		}
 	],
 	"articles": [

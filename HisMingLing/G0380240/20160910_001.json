@@ -14,31 +14,36 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 200
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "使用者身分確認機制之建立方式、程序及管理",
-			"start": 300
+			"start": 300,
+			"end": 1600
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "交易限額及管理",
-			"start": 1700
+			"start": 1700,
+			"end": 1900
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "使用者身分確認程序所得資料及必要交易紀錄留存",
-			"start": 2000
+			"start": 2000,
+			"end": 2100
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "附則",
-			"start": 2200
+			"start": 2200,
+			"end": 2300
 		}
 	],
 	"articles": [

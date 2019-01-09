@@ -25,31 +25,38 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 300
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "評定程序",
-			"start": 400
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "申請評定程序",
-			"start": 400
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "撤銷及廢止評定程序",
-			"start": 1600
+			"start": 400,
+			"end": 2000,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "申請評定程序",
+					"start": 400,
+					"end": 1500
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "撤銷及廢止評定程序",
+					"start": 1600,
+					"end": 2000
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "附則",
-			"start": 2100
+			"start": 2100,
+			"end": 2100
 		}
 	],
 	"articles": [

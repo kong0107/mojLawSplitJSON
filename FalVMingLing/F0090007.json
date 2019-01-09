@@ -22,151 +22,182 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 400
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "服裝籌備權責",
-			"start": 500
+			"start": 500,
+			"end": 2200
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "服裝補給",
-			"start": 2300
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "單位劃分",
-			"start": 2300
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "分配原則",
-			"start": 2400
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "服裝繳回與處理",
-			"start": 3900
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "帳卡處理",
-			"start": 4400
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "服裝損失之處理",
-			"start": 4800
-		},
-		{
-			"type": "節",
-			"number": 600,
-			"title": "軍職支領文職待遇之聘雇人員",
-			"start": 5000
-		},
-		{
-			"type": "節",
-			"number": 700,
-			"title": "新兵入營服役服裝補給",
-			"start": 5200
-		},
-		{
-			"type": "節",
-			"number": 800,
-			"title": "退伍還鄉士兵之服裝處理",
-			"start": 6100
-		},
-		{
-			"type": "節",
-			"number": 900,
-			"title": "其他服裝補給規定",
-			"start": 6600
+			"start": 2300,
+			"end": 7400,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "單位劃分",
+					"start": 2300,
+					"end": 2300
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "分配原則",
+					"start": 2400,
+					"end": 3800
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "服裝繳回與處理",
+					"start": 3900,
+					"end": 4300
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "帳卡處理",
+					"start": 4400,
+					"end": 4700
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "服裝損失之處理",
+					"start": 4800,
+					"end": 4900
+				},
+				{
+					"type": "節",
+					"number": 600,
+					"title": "軍職支領文職待遇之聘雇人員",
+					"start": 5000,
+					"end": 5100
+				},
+				{
+					"type": "節",
+					"number": 700,
+					"title": "新兵入營服役服裝補給",
+					"start": 5200,
+					"end": 6000
+				},
+				{
+					"type": "節",
+					"number": 800,
+					"title": "退伍還鄉士兵之服裝處理",
+					"start": 6100,
+					"end": 6500
+				},
+				{
+					"type": "節",
+					"number": 900,
+					"title": "其他服裝補給規定",
+					"start": 6600,
+					"end": 7400
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "退伍除役官兵服裝收繳及代金發放作業程",
-			"start": 7500
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "對象及給與標準",
-			"start": 7500
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "預算之核結",
-			"start": 7700
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "申請程序",
-			"start": 8100
-		},
-		{
-			"type": "款",
-			"number": 100,
-			"title": "陸軍 (含代補單位) 部分",
-			"start": 8100
-		},
-		{
-			"type": "款",
-			"number": 200,
-			"title": "海、空軍部分",
-			"start": 8900
-		},
-		{
-			"type": "款",
-			"number": 300,
-			"title": "軍管區司令部及海岸巡防司令部單",
-			"start": 9200
-		},
-		{
-			"type": "款",
-			"number": 400,
-			"title": "憲兵單位部分",
-			"start": 9300
-		},
-		{
-			"type": "款",
-			"number": 500,
-			"title": "證明冊編製",
-			"start": 9700
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "支付要領",
-			"start": 9800
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "其他有關規定",
-			"start": 10100
+			"start": 7500,
+			"end": 10200,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "對象及給與標準",
+					"start": 7500,
+					"end": 7600
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "預算之核結",
+					"start": 7700,
+					"end": 8000
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "申請程序",
+					"start": 8100,
+					"end": 9700,
+					"children": [
+						{
+							"type": "款",
+							"number": 100,
+							"title": "陸軍 (含代補單位) 部分",
+							"start": 8100,
+							"end": 8800
+						},
+						{
+							"type": "款",
+							"number": 200,
+							"title": "海、空軍部分",
+							"start": 8900,
+							"end": 9100
+						},
+						{
+							"type": "款",
+							"number": 300,
+							"title": "軍管區司令部及海岸巡防司令部單",
+							"start": 9200,
+							"end": 9200
+						},
+						{
+							"type": "款",
+							"number": 400,
+							"title": "憲兵單位部分",
+							"start": 9300,
+							"end": 9600
+						},
+						{
+							"type": "款",
+							"number": 500,
+							"title": "證明冊編製",
+							"start": 9700,
+							"end": 9700
+						}
+					]
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "支付要領",
+					"start": 9800,
+					"end": 10000
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "其他有關規定",
+					"start": 10100,
+					"end": 10200
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "被服裝具品質分類",
-			"start": 10300
+			"start": 10300,
+			"end": 10800
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "附則",
-			"start": 10900
+			"start": 10900,
+			"end": 11000
 		}
 	],
 	"articles": [

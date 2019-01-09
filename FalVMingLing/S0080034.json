@@ -24,109 +24,135 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "通例",
-			"start": 100
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "退撫給與之提存準備與管理",
-			"start": 600
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "退撫年資之採計及其相關事宜",
-			"start": 1100
+			"start": 100,
+			"end": 1500,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "通例",
+					"start": 100,
+					"end": 500
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "退撫給與之提存準備與管理",
+					"start": 600,
+					"end": 1000
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "退撫年資之採計及其相關事宜",
+					"start": 1100,
+					"end": 1500
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "退休",
-			"start": 1600
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "退休種類及要件",
-			"start": 1600
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "退休給付",
-			"start": 2600
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "遺屬一次金與遺屬年金",
-			"start": 4300
+			"start": 1600,
+			"end": 5000,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "退休種類及要件",
+					"start": 1600,
+					"end": 2500
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "退休給付",
+					"start": 2600,
+					"end": 4200
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "遺屬一次金與遺屬年金",
+					"start": 4300,
+					"end": 5000
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "撫卹",
-			"start": 5100
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "撫卹要件及原因",
-			"start": 5100
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "撫卹給與",
-			"start": 5400
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "撫卹金領受人",
-			"start": 6200
+			"start": 5100,
+			"end": 6300,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "撫卹要件及原因",
+					"start": 5100,
+					"end": 5300
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "撫卹給與",
+					"start": 5400,
+					"end": 6100
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "撫卹金領受人",
+					"start": 6200,
+					"end": 6300
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "退撫給與之支（發）給、保障及變更",
-			"start": 6400
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "退撫給與之發給",
-			"start": 6400
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "退撫給與之變更與保障",
-			"start": 7500
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "退撫給與之分配",
-			"start": 8200
+			"start": 6400,
+			"end": 8400,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "退撫給與之發給",
+					"start": 6400,
+					"end": 7400
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "退撫給與之變更與保障",
+					"start": 7500,
+					"end": 8100
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "退撫給與之分配",
+					"start": 8200,
+					"end": 8400
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "年資制度轉銜",
-			"start": 8500
+			"start": 8500,
+			"end": 8700
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "附則",
-			"start": 8800
+			"start": 8800,
+			"end": 9500
 		}
 	],
 	"articles": [

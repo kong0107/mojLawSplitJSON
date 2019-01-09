@@ -13,43 +13,50 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 300
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "申請輸入、轉讓、輸出、過境或轉口之許可",
-			"start": 400
+			"start": 400,
+			"end": 1400
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "申請使用、安裝、改裝或持有之許可、許可證或登記備查",
-			"start": 1500
+			"start": 1500,
+			"end": 3400
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "申請停止使用或永久停止使用之許可",
-			"start": 3500
+			"start": 3500,
+			"end": 4100
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "申請展示或租借之許可",
-			"start": 4200
+			"start": 4200,
+			"end": 4600
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "管理",
-			"start": 4700
+			"start": 4700,
+			"end": 5500
 		},
 		{
 			"type": "章",
 			"number": 700,
 			"title": "附則",
-			"start": 5600
+			"start": 5600,
+			"end": 5900
 		}
 	],
 	"articles": [

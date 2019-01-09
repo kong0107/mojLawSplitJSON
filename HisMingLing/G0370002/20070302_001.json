@@ -14,133 +14,165 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 700
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "機構",
-			"start": 800
+			"start": 800,
+			"end": 1100
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "保管",
-			"start": 1200
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "登記",
-			"start": 1200
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "產籍",
-			"start": 1700
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "維護",
-			"start": 2200
+			"start": 1200,
+			"end": 2500,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "登記",
+					"start": 1200,
+					"end": 1600
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "產籍",
+					"start": 1700,
+					"end": 2100
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "維護",
+					"start": 2200,
+					"end": 2500
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "使用",
-			"start": 2600
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "公用財產之用途",
-			"start": 2600
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "非公用財產之撥用",
-			"start": 3000
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "非公用財產之借用",
-			"start": 3900
+			"start": 2600,
+			"end": 4300,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "公用財產之用途",
+					"start": 2600,
+					"end": 2900
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "非公用財產之撥用",
+					"start": 3000,
+					"end": 3800
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "非公用財產之借用",
+					"start": 3900,
+					"end": 4300
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "收益",
-			"start": 4301
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "非公用財產之出租",
-			"start": 4301
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "非公用財產之利用",
-			"start": 4800
+			"start": 4301,
+			"end": 4803,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "非公用財產之出租",
+					"start": 4301,
+					"end": 4700
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "非公用財產之利用",
+					"start": 4800,
+					"end": 4803
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "處分",
-			"start": 4900
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "非公用財產類不動產之處分",
-			"start": 4900
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "非公用財產類動產有價證券及權利之處分",
-			"start": 5800
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "計價",
-			"start": 6100
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "贈與",
-			"start": 6300
+			"start": 4900,
+			"end": 6300,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "非公用財產類不動產之處分",
+					"start": 4900,
+					"end": 5700
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "非公用財產類動產有價證券及權利之處分",
+					"start": 5800,
+					"end": 6000
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "計價",
+					"start": 6100,
+					"end": 6200
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "贈與",
+					"start": 6300,
+					"end": 6300
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 700,
 			"title": "檢核",
-			"start": 6400
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "財產檢查",
-			"start": 6400
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "財產報告",
-			"start": 6700
+			"start": 6400,
+			"end": 6800,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "財產檢查",
+					"start": 6400,
+					"end": 6600
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "財產報告",
+					"start": 6700,
+					"end": 6800
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 800,
 			"title": "附則",
-			"start": 6801
+			"start": 6801,
+			"end": 7500
 		}
 	],
 	"articles": [

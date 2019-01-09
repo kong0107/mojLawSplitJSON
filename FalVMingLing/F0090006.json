@@ -25,295 +25,364 @@
 			"type": "編",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 1600
 		},
 		{
 			"type": "編",
 			"number": 200,
 			"title": "大地測量",
-			"start": 1700
-		},
-		{
-			"type": "章",
-			"number": 100,
-			"title": "三角測量",
-			"start": 1700
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "通則",
-			"start": 1700
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "選點",
-			"start": 2600
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "造標及埋石",
-			"start": 4100
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "基線測量",
-			"start": 5100
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "觀測",
-			"start": 5800
-		},
-		{
-			"type": "章",
-			"number": 200,
-			"title": "三邊測量",
-			"start": 6600
-		},
-		{
-			"type": "章",
-			"number": 300,
-			"title": "導線測量",
-			"start": 7700
-		},
-		{
-			"type": "章",
-			"number": 400,
-			"title": "高程測量",
-			"start": 8600
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "通則",
-			"start": 8600
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "驗潮",
-			"start": 8800
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "水準測量",
-			"start": 9300
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "三角高程測量",
-			"start": 12100
-		},
-		{
-			"type": "章",
-			"number": 500,
-			"title": "天文測量",
-			"start": 13000
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "通則",
-			"start": 13000
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "經度測量",
-			"start": 13500
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "緯度測量",
-			"start": 14600
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "方位角測量",
-			"start": 15100
-		},
-		{
-			"type": "章",
-			"number": 600,
-			"title": "重力測量",
-			"start": 16100
-		},
-		{
-			"type": "章",
-			"number": 700,
-			"title": "衛星測量",
-			"start": 18100
-		},
-		{
-			"type": "章",
-			"number": 800,
-			"title": "集成",
-			"start": 19900
+			"start": 1700,
+			"end": 20500,
+			"children": [
+				{
+					"type": "章",
+					"number": 100,
+					"title": "三角測量",
+					"start": 1700,
+					"end": 6500,
+					"children": [
+						{
+							"type": "節",
+							"number": 100,
+							"title": "通則",
+							"start": 1700,
+							"end": 2500
+						},
+						{
+							"type": "節",
+							"number": 200,
+							"title": "選點",
+							"start": 2600,
+							"end": 4000
+						},
+						{
+							"type": "節",
+							"number": 300,
+							"title": "造標及埋石",
+							"start": 4100,
+							"end": 5000
+						},
+						{
+							"type": "節",
+							"number": 400,
+							"title": "基線測量",
+							"start": 5100,
+							"end": 5700
+						},
+						{
+							"type": "節",
+							"number": 500,
+							"title": "觀測",
+							"start": 5800,
+							"end": 6500
+						}
+					]
+				},
+				{
+					"type": "章",
+					"number": 200,
+					"title": "三邊測量",
+					"start": 6600,
+					"end": 7600
+				},
+				{
+					"type": "章",
+					"number": 300,
+					"title": "導線測量",
+					"start": 7700,
+					"end": 8500
+				},
+				{
+					"type": "章",
+					"number": 400,
+					"title": "高程測量",
+					"start": 8600,
+					"end": 12900,
+					"children": [
+						{
+							"type": "節",
+							"number": 100,
+							"title": "通則",
+							"start": 8600,
+							"end": 8700
+						},
+						{
+							"type": "節",
+							"number": 200,
+							"title": "驗潮",
+							"start": 8800,
+							"end": 9200
+						},
+						{
+							"type": "節",
+							"number": 300,
+							"title": "水準測量",
+							"start": 9300,
+							"end": 12000
+						},
+						{
+							"type": "節",
+							"number": 400,
+							"title": "三角高程測量",
+							"start": 12100,
+							"end": 12900
+						}
+					]
+				},
+				{
+					"type": "章",
+					"number": 500,
+					"title": "天文測量",
+					"start": 13000,
+					"end": 16000,
+					"children": [
+						{
+							"type": "節",
+							"number": 100,
+							"title": "通則",
+							"start": 13000,
+							"end": 13400
+						},
+						{
+							"type": "節",
+							"number": 200,
+							"title": "經度測量",
+							"start": 13500,
+							"end": 14500
+						},
+						{
+							"type": "節",
+							"number": 300,
+							"title": "緯度測量",
+							"start": 14600,
+							"end": 15000
+						},
+						{
+							"type": "節",
+							"number": 400,
+							"title": "方位角測量",
+							"start": 15100,
+							"end": 16000
+						}
+					]
+				},
+				{
+					"type": "章",
+					"number": 600,
+					"title": "重力測量",
+					"start": 16100,
+					"end": 18000
+				},
+				{
+					"type": "章",
+					"number": 700,
+					"title": "衛星測量",
+					"start": 18100,
+					"end": 19800
+				},
+				{
+					"type": "章",
+					"number": 800,
+					"title": "集成",
+					"start": 19900,
+					"end": 20500
+				}
+			]
 		},
 		{
 			"type": "編",
 			"number": 300,
 			"title": "地形測量",
-			"start": 20600
-		},
-		{
-			"type": "章",
-			"number": 100,
-			"title": "平面控制測量",
-			"start": 20600
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "三角測量",
-			"start": 20600
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "導線測量",
-			"start": 22200
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "圖解控制測量",
-			"start": 23800
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "電子測距儀測量",
-			"start": 24900
-		},
-		{
-			"type": "章",
-			"number": 200,
-			"title": "工程控制測量",
-			"start": 25300
-		},
-		{
-			"type": "章",
-			"number": 300,
-			"title": "細則測量",
-			"start": 26400
-		},
-		{
-			"type": "章",
-			"number": 400,
-			"title": "檢查",
-			"start": 28400
-		},
-		{
-			"type": "章",
-			"number": 500,
-			"title": "集成",
-			"start": 29300
+			"start": 20600,
+			"end": 29800,
+			"children": [
+				{
+					"type": "章",
+					"number": 100,
+					"title": "平面控制測量",
+					"start": 20600,
+					"end": 25200,
+					"children": [
+						{
+							"type": "節",
+							"number": 100,
+							"title": "三角測量",
+							"start": 20600,
+							"end": 22100
+						},
+						{
+							"type": "節",
+							"number": 200,
+							"title": "導線測量",
+							"start": 22200,
+							"end": 23700
+						},
+						{
+							"type": "節",
+							"number": 300,
+							"title": "圖解控制測量",
+							"start": 23800,
+							"end": 24800
+						},
+						{
+							"type": "節",
+							"number": 400,
+							"title": "電子測距儀測量",
+							"start": 24900,
+							"end": 25200
+						}
+					]
+				},
+				{
+					"type": "章",
+					"number": 200,
+					"title": "工程控制測量",
+					"start": 25300,
+					"end": 26300
+				},
+				{
+					"type": "章",
+					"number": 300,
+					"title": "細則測量",
+					"start": 26400,
+					"end": 28300
+				},
+				{
+					"type": "章",
+					"number": 400,
+					"title": "檢查",
+					"start": 28400,
+					"end": 29200
+				},
+				{
+					"type": "章",
+					"number": 500,
+					"title": "集成",
+					"start": 29300,
+					"end": 29800
+				}
+			]
 		},
 		{
 			"type": "編",
 			"number": 400,
 			"title": "航空攝影測量",
-			"start": 29900
-		},
-		{
-			"type": "章",
-			"number": 100,
-			"title": "航空攝影",
-			"start": 29900
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "攝影",
-			"start": 29900
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "底片沖洗及集成",
-			"start": 31700
-		},
-		{
-			"type": "章",
-			"number": 200,
-			"title": "控制點測量",
-			"start": 32400
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "通則",
-			"start": 32400
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "野外測量",
-			"start": 33200
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "空中三角測量",
-			"start": 33600
-		},
-		{
-			"type": "章",
-			"number": 300,
-			"title": "立體測圖",
-			"start": 34500
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "通則",
-			"start": 34500
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "精密立體測圖與多倍投影測圖儀",
-			"start": 34600
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "像片立體測圖儀 (為STEROPE等)",
-			"start": 35700
-		},
-		{
-			"type": "章",
-			"number": 400,
-			"title": "糾正製圖",
-			"start": 36000
-		},
-		{
-			"type": "章",
-			"number": 500,
-			"title": "調繪",
-			"start": 37400
-		},
-		{
-			"type": "章",
-			"number": 600,
-			"title": "檢查",
-			"start": 38000
-		},
-		{
-			"type": "章",
-			"number": 700,
-			"title": "集成",
-			"start": 38600
+			"start": 29900,
+			"end": 38900,
+			"children": [
+				{
+					"type": "章",
+					"number": 100,
+					"title": "航空攝影",
+					"start": 29900,
+					"end": 32300,
+					"children": [
+						{
+							"type": "節",
+							"number": 100,
+							"title": "攝影",
+							"start": 29900,
+							"end": 31600
+						},
+						{
+							"type": "節",
+							"number": 200,
+							"title": "底片沖洗及集成",
+							"start": 31700,
+							"end": 32300
+						}
+					]
+				},
+				{
+					"type": "章",
+					"number": 200,
+					"title": "控制點測量",
+					"start": 32400,
+					"end": 34400,
+					"children": [
+						{
+							"type": "節",
+							"number": 100,
+							"title": "通則",
+							"start": 32400,
+							"end": 33100
+						},
+						{
+							"type": "節",
+							"number": 200,
+							"title": "野外測量",
+							"start": 33200,
+							"end": 33500
+						},
+						{
+							"type": "節",
+							"number": 300,
+							"title": "空中三角測量",
+							"start": 33600,
+							"end": 34400
+						}
+					]
+				},
+				{
+					"type": "章",
+					"number": 300,
+					"title": "立體測圖",
+					"start": 34500,
+					"end": 35900,
+					"children": [
+						{
+							"type": "節",
+							"number": 100,
+							"title": "通則",
+							"start": 34500,
+							"end": 34500
+						},
+						{
+							"type": "節",
+							"number": 200,
+							"title": "精密立體測圖與多倍投影測圖儀",
+							"start": 34600,
+							"end": 35600
+						},
+						{
+							"type": "節",
+							"number": 300,
+							"title": "像片立體測圖儀 (為STEROPE等)",
+							"start": 35700,
+							"end": 35900
+						}
+					]
+				},
+				{
+					"type": "章",
+					"number": 400,
+					"title": "糾正製圖",
+					"start": 36000,
+					"end": 37300
+				},
+				{
+					"type": "章",
+					"number": 500,
+					"title": "調繪",
+					"start": 37400,
+					"end": 37900
+				},
+				{
+					"type": "章",
+					"number": 600,
+					"title": "檢查",
+					"start": 38000,
+					"end": 38500
+				},
+				{
+					"type": "章",
+					"number": 700,
+					"title": "集成",
+					"start": 38600,
+					"end": 38900
+				}
+			]
 		}
 	],
 	"articles": [

@@ -14,79 +14,98 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 1000
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "業務往來",
-			"start": 1100
+			"start": 1100,
+			"end": 1900
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "赴大陸地區設立分支機構及參股投資",
-			"start": 2000
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "代表人辦事處",
-			"start": 2000
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "分行及子銀行",
-			"start": 2500
-		},
-		{
-			"type": "款",
-			"number": 100,
-			"title": "分行",
-			"start": 2500
-		},
-		{
-			"type": "款",
-			"number": 200,
-			"title": "子銀行",
-			"start": 3500
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "參股投資",
-			"start": 4700
+			"start": 2000,
+			"end": 5600,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "代表人辦事處",
+					"start": 2000,
+					"end": 2400
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "分行及子銀行",
+					"start": 2500,
+					"end": 4600,
+					"children": [
+						{
+							"type": "款",
+							"number": 100,
+							"title": "分行",
+							"start": 2500,
+							"end": 3400
+						},
+						{
+							"type": "款",
+							"number": 200,
+							"title": "子銀行",
+							"start": 3500,
+							"end": 4600
+						}
+					]
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "參股投資",
+					"start": 4700,
+					"end": 5600
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "來臺設立分支機構及參股投資",
-			"start": 5700
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "代表人辦事處",
-			"start": 5700
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "分行",
-			"start": 6200
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "參股投資",
-			"start": 7200
+			"start": 5700,
+			"end": 8000,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "代表人辦事處",
+					"start": 5700,
+					"end": 6100
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "分行",
+					"start": 6200,
+					"end": 7100
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "參股投資",
+					"start": 7200,
+					"end": 8000
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "附則",
-			"start": 8100
+			"start": 8100,
+			"end": 8600
 		}
 	],
 	"articles": [

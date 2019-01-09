@@ -43,109 +43,131 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Principles",
-			"start": 100
+			"start": 100,
+			"end": 500
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Government Agencies of Election and Recall",
-			"start": 600
+			"start": 600,
+			"end": 1300
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Election and Recall",
-			"start": 1400
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Electors",
-			"start": 1400
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "List of Electors",
-			"start": 2000
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Candidates",
-			"start": 2400
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "Electoral Districts",
-			"start": 3500
-		},
-		{
-			"type": "section",
-			"number": 500,
-			"title": "Public Notice for Election",
-			"start": 3800
-		},
-		{
-			"type": "section",
-			"number": 600,
-			"title": "Election and Recall Activities",
-			"start": 4000
-		},
-		{
-			"type": "section",
-			"number": 700,
-			"title": "Voting and Ballot Counting",
-			"start": 5700
-		},
-		{
-			"type": "section",
-			"number": 800,
-			"title": "Results of Elections",
-			"start": 6700
-		},
-		{
-			"type": "section",
-			"number": 900,
-			"title": "Recall",
-			"start": 7500
-		},
-		{
-			"type": "paragraph",
-			"number": 100,
-			"title": "To Raise a Proposal of Recall",
-			"start": 7500
-		},
-		{
-			"type": "paragraph",
-			"number": 200,
-			"title": "Establishment of a Proposal of Recall",
-			"start": 7900
-		},
-		{
-			"type": "paragraph",
-			"number": 300,
-			"title": "Voting and Ballot Counting for Recall",
-			"start": 8700
+			"start": 1400,
+			"end": 9200,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Electors",
+					"start": 1400,
+					"end": 1900
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "List of Electors",
+					"start": 2000,
+					"end": 2300
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Candidates",
+					"start": 2400,
+					"end": 3400
+				},
+				{
+					"type": "section",
+					"number": 400,
+					"title": "Electoral Districts",
+					"start": 3500,
+					"end": 3701
+				},
+				{
+					"type": "section",
+					"number": 500,
+					"title": "Public Notice for Election",
+					"start": 3800,
+					"end": 3900
+				},
+				{
+					"type": "section",
+					"number": 600,
+					"title": "Election and Recall Activities",
+					"start": 4000,
+					"end": 5600
+				},
+				{
+					"type": "section",
+					"number": 700,
+					"title": "Voting and Ballot Counting",
+					"start": 5700,
+					"end": 6600
+				},
+				{
+					"type": "section",
+					"number": 800,
+					"title": "Results of Elections",
+					"start": 6700,
+					"end": 7400
+				},
+				{
+					"type": "section",
+					"number": 900,
+					"title": "Recall",
+					"start": 7500,
+					"end": 9200,
+					"children": [
+						{
+							"type": "subsection",
+							"number": 100,
+							"title": "To Raise a Proposal of Recall",
+							"start": 7500,
+							"end": 7800
+						},
+						{
+							"type": "subsection",
+							"number": 200,
+							"title": "Establishment of a Proposal of Recall",
+							"start": 7900,
+							"end": 8601
+						},
+						{
+							"type": "subsection",
+							"number": 300,
+							"title": "Voting and Ballot Counting for Recall",
+							"start": 8700,
+							"end": 9200
+						}
+					]
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Penalty for Encumbering Election or Recall",
-			"start": 9300
+			"start": 9300,
+			"end": 11700
 		},
 		{
 			"type": "chapter",
 			"number": 600,
 			"title": "Election and Recall Lawsuits",
-			"start": 11800
+			"start": 11800,
+			"end": 12900
 		},
 		{
 			"type": "chapter",
 			"number": 700,
 			"title": "Supplementary Provisions",
-			"start": 13000
+			"start": 13000,
+			"end": 13400
 		}
 	],
 	"articles": [

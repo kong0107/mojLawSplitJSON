@@ -19,85 +19,103 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 200
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "結構部分",
-			"start": 300
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "材料",
-			"start": 300
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "容許應力",
-			"start": 500
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "荷重",
-			"start": 1100
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "強度",
-			"start": 1800
+			"start": 300,
+			"end": 2300,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "材料",
+					"start": 300,
+					"end": 400
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "容許應力",
+					"start": 500,
+					"end": 1000
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "荷重",
+					"start": 1100,
+					"end": 1700
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "強度",
+					"start": 1800,
+					"end": 2300
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "機械部分",
-			"start": 2400
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "制動器等",
-			"start": 2400
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "捲胴等",
-			"start": 2600
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "安全裝置",
-			"start": 3000
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "電氣部分",
-			"start": 3700
+			"start": 2400,
+			"end": 3900,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "制動器等",
+					"start": 2400,
+					"end": 2500
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "捲胴等",
+					"start": 2600,
+					"end": 2900
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "安全裝置",
+					"start": 3000,
+					"end": 3600
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "電氣部分",
+					"start": 3700,
+					"end": 3900
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "加工",
-			"start": 4000
+			"start": 4000,
+			"end": 4400
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "鋼索及纖維索",
-			"start": 4500
+			"start": 4500,
+			"end": 4700
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "附則",
-			"start": 4800
+			"start": 4800,
+			"end": 4900
 		}
 	],
 	"articles": [

@@ -25,55 +25,66 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Provisions",
-			"start": 100
+			"start": 100,
+			"end": 1202
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Company Shareholder services",
-			"start": 1300
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "The Format of and the Production of Stock Certificates",
-			"start": 1300
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Shareholders Register and Shareholder Account Opening",
-			"start": 1800
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Transfer, Registration of Changes, Pledges, and Lost Reporting Procedures of Stock Certificates",
-			"start": 2300
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "Book Closure, Distribution of Dividends, and Issuance of New Capital Stocks",
-			"start": 4100
+			"start": 1300,
+			"end": 4400,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "The Format of and the Production of Stock Certificates",
+					"start": 1300,
+					"end": 1700
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Shareholders Register and Shareholder Account Opening",
+					"start": 1800,
+					"end": 2201
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Transfer, Registration of Changes, Pledges, and Lost Reporting Procedures of Stock Certificates",
+					"start": 2300,
+					"end": 4000
+				},
+				{
+					"type": "section",
+					"number": 400,
+					"title": "Book Closure, Distribution of Dividends, and Issuance of New Capital Stocks",
+					"start": 4100,
+					"end": 4400
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 201,
 			"title": "Exercising Shareholders' Meeting Voting Rights in Writing or by Means of Electronic Transmission",
-			"start": 4401
+			"start": 4401,
+			"end": 4408
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Management of the Shareholder services of Directors, Supervisors, Managers and Shareholders Holding More than 10 Percent of Outstanding Shares",
-			"start": 4500
+			"start": 4500,
+			"end": 4800
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Supplementary Provisions",
-			"start": 4900
+			"start": 4900,
+			"end": 5000
 		}
 	],
 	"articles": [

@@ -25,31 +25,36 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 800
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "常備軍官役",
-			"start": 900
+			"start": 900,
+			"end": 1600
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "預備軍官役",
-			"start": 1700
+			"start": 1700,
+			"end": 2000
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "退伍除役之給與",
-			"start": 2100
+			"start": 2100,
+			"end": 2700
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "附則",
-			"start": 2800
+			"start": 2800,
+			"end": 3400
 		}
 	],
 	"articles": [

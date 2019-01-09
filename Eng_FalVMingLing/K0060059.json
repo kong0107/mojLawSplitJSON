@@ -27,31 +27,36 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Principles",
-			"start": 100
+			"start": 100,
+			"end": 400
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Voice-based Telecommunications Universal Service",
-			"start": 500
+			"start": 500,
+			"end": 1000
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Telecommunications Universal Service on Data Transmission",
-			"start": 1100
+			"start": 1100,
+			"end": 1600
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Operations and Management for Universal Service",
-			"start": 1700
+			"start": 1700,
+			"end": 2800
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Miscellaneous Principles",
-			"start": 2900
+			"start": 2900,
+			"end": 2900
 		}
 	],
 	"articles": [

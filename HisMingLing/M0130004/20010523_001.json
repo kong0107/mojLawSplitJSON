@@ -13,31 +13,36 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 600
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "預防",
-			"start": 700
+			"start": 700,
+			"end": 1000
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "防疫",
-			"start": 1100
+			"start": 1100,
+			"end": 1300
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "輸出入及檢疫",
-			"start": 1400
+			"start": 1400,
+			"end": 3000
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "附則",
-			"start": 3100
+			"start": 3100,
+			"end": 4500
 		}
 	],
 	"articles": [

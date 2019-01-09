@@ -63,85 +63,103 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Principles",
-			"start": 100
+			"start": 100,
+			"end": 300
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Western Medicine",
-			"start": 400
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "General Provisions",
-			"start": 400
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Drug Review and Registration",
-			"start": 3200
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Post-Approval Changes",
-			"start": 4500
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "License Transfer, Renewal and Reissuance",
-			"start": 7000
-		},
-		{
-			"type": "section",
-			"number": 500,
-			"title": "License Extension",
-			"start": 7200
+			"start": 400,
+			"end": 7300,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "General Provisions",
+					"start": 400,
+					"end": 3100
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Drug Review and Registration",
+					"start": 3200,
+					"end": 4400
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Post-Approval Changes",
+					"start": 4500,
+					"end": 6900
+				},
+				{
+					"type": "section",
+					"number": 400,
+					"title": "License Transfer, Renewal and Reissuance",
+					"start": 7000,
+					"end": 7100
+				},
+				{
+					"type": "section",
+					"number": 500,
+					"title": "License Extension",
+					"start": 7200,
+					"end": 7300
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Chinese Medicine",
-			"start": 7400
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "General Provisions",
-			"start": 7400
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Chinese Medicine Review and Registration",
-			"start": 9100
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Post-Approval Changes of Chinese Medicine",
-			"start": 9700
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "Chinese Medicine License Transfer, Replacement, and Reissuance",
-			"start": 10800
-		},
-		{
-			"type": "section",
-			"number": 500,
-			"title": "Chinese Medicine License Extension Registration",
-			"start": 10900
+			"start": 7400,
+			"end": 10901,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "General Provisions",
+					"start": 7400,
+					"end": 9000
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Chinese Medicine Review and Registration",
+					"start": 9100,
+					"end": 9600
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Post-Approval Changes of Chinese Medicine",
+					"start": 9700,
+					"end": 10700
+				},
+				{
+					"type": "section",
+					"number": 400,
+					"title": "Chinese Medicine License Transfer, Replacement, and Reissuance",
+					"start": 10800,
+					"end": 10800
+				},
+				{
+					"type": "section",
+					"number": 500,
+					"title": "Chinese Medicine License Extension Registration",
+					"start": 10900,
+					"end": 10901
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Supplementary Provisions",
-			"start": 11000
+			"start": 11000,
+			"end": 11000
 		}
 	],
 	"articles": [

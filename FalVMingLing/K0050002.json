@@ -34,367 +34,446 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 1200
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "郵件種類",
-			"start": 1300
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "信函",
-			"start": 1300
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "明信片",
-			"start": 1600
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "新聞紙類",
-			"start": 2100
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "印刷物",
-			"start": 2800
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "盲人文件",
-			"start": 3500
-		},
-		{
-			"type": "節",
-			"number": 600,
-			"title": "小包",
-			"start": 3600
-		},
-		{
-			"type": "節",
-			"number": 700,
-			"title": "包裹",
-			"start": 3800
+			"start": 1300,
+			"end": 5700,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "信函",
+					"start": 1300,
+					"end": 1500
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "明信片",
+					"start": 1600,
+					"end": 2000
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "新聞紙類",
+					"start": 2100,
+					"end": 2700
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "印刷物",
+					"start": 2800,
+					"end": 3400
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "盲人文件",
+					"start": 3500,
+					"end": 3500
+				},
+				{
+					"type": "節",
+					"number": 600,
+					"title": "小包",
+					"start": 3600,
+					"end": 3700
+				},
+				{
+					"type": "節",
+					"number": 700,
+					"title": "包裹",
+					"start": 3800,
+					"end": 5700
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "郵件之特別處理",
-			"start": 5800
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "航空",
-			"start": 5800
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "限時專送、快遞、快捷",
-			"start": 6000
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "掛號",
-			"start": 6500
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "報值",
-			"start": 6800
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "保價",
-			"start": 7600
-		},
-		{
-			"type": "節",
-			"number": 600,
-			"title": "代收貨價",
-			"start": 8700
-		},
-		{
-			"type": "節",
-			"number": 700,
-			"title": "廣告回信",
-			"start": 9400
-		},
-		{
-			"type": "節",
-			"number": 800,
-			"title": "存證信函",
-			"start": 9900
+			"start": 5800,
+			"end": 10700,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "航空",
+					"start": 5800,
+					"end": 5900
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "限時專送、快遞、快捷",
+					"start": 6000,
+					"end": 6401
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "掛號",
+					"start": 6500,
+					"end": 6700
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "報值",
+					"start": 6800,
+					"end": 7500
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "保價",
+					"start": 7600,
+					"end": 8600
+				},
+				{
+					"type": "節",
+					"number": 600,
+					"title": "代收貨價",
+					"start": 8700,
+					"end": 9300
+				},
+				{
+					"type": "節",
+					"number": 700,
+					"title": "廣告回信",
+					"start": 9400,
+					"end": 9800
+				},
+				{
+					"type": "節",
+					"number": 800,
+					"title": "存證信函",
+					"start": 9900,
+					"end": 10700
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "郵件交寄",
-			"start": 10800
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "交寄處所",
-			"start": 10800
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "封面書寫",
-			"start": 10900
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "封裝",
-			"start": 11400
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "交寄證明",
-			"start": 12300
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "交寄執據",
-			"start": 12500
-		},
-		{
-			"type": "節",
-			"number": 600,
-			"title": "回執",
-			"start": 12800
-		},
-		{
-			"type": "節",
-			"number": 700,
-			"title": "禁寄物品及交寄貴重物品",
-			"start": 12900
+			"start": 10800,
+			"end": 13600,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "交寄處所",
+					"start": 10800,
+					"end": 10800
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "封面書寫",
+					"start": 10900,
+					"end": 11300
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "封裝",
+					"start": 11400,
+					"end": 12200
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "交寄證明",
+					"start": 12300,
+					"end": 12400
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "交寄執據",
+					"start": 12500,
+					"end": 12700
+				},
+				{
+					"type": "節",
+					"number": 600,
+					"title": "回執",
+					"start": 12800,
+					"end": 12800
+				},
+				{
+					"type": "節",
+					"number": 700,
+					"title": "禁寄物品及交寄貴重物品",
+					"start": 12900,
+					"end": 13600
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "郵件資費",
-			"start": 13700
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "資費之交付",
-			"start": 13700
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "郵票",
-			"start": 13800
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "印有郵資符誌之郵簡、信封、明信片",
-			"start": 14700
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "郵資已付截記",
-			"start": 15100
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "郵資機",
-			"start": 15500
+			"start": 13700,
+			"end": 15800,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "資費之交付",
+					"start": 13700,
+					"end": 13700
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "郵票",
+					"start": 13800,
+					"end": 14600
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "印有郵資符誌之郵簡、信封、明信片",
+					"start": 14700,
+					"end": 15000
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "郵資已付截記",
+					"start": 15100,
+					"end": 15400
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "郵資機",
+					"start": 15500,
+					"end": 15800
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "郵件運遞",
-			"start": 15900
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "郵件發運",
-			"start": 15900
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "郵件投遞",
-			"start": 16000
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "郵件改投或改寄",
-			"start": 17600
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "郵件撤回及更改姓名地址",
-			"start": 19100
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "存局候領郵件",
-			"start": 19400
-		},
-		{
-			"type": "節",
-			"number": 600,
-			"title": "專用信箱及信袋",
-			"start": 20000
-		},
-		{
-			"type": "節",
-			"number": 700,
-			"title": "欠資郵件遞送",
-			"start": 20700
-		},
-		{
-			"type": "節",
-			"number": 800,
-			"title": "無法投遞郵件之處理",
-			"start": 21300
-		},
-		{
-			"type": "節",
-			"number": 900,
-			"title": "無著郵件之處理",
-			"start": 22000
+			"start": 15900,
+			"end": 22200,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "郵件發運",
+					"start": 15900,
+					"end": 15900
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "郵件投遞",
+					"start": 16000,
+					"end": 17500
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "郵件改投或改寄",
+					"start": 17600,
+					"end": 19000
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "郵件撤回及更改姓名地址",
+					"start": 19100,
+					"end": 19300
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "存局候領郵件",
+					"start": 19400,
+					"end": 19900
+				},
+				{
+					"type": "節",
+					"number": 600,
+					"title": "專用信箱及信袋",
+					"start": 20000,
+					"end": 20600
+				},
+				{
+					"type": "節",
+					"number": 700,
+					"title": "欠資郵件遞送",
+					"start": 20700,
+					"end": 21200
+				},
+				{
+					"type": "節",
+					"number": 800,
+					"title": "無法投遞郵件之處理",
+					"start": 21300,
+					"end": 21900
+				},
+				{
+					"type": "節",
+					"number": 900,
+					"title": "無著郵件之處理",
+					"start": 22000,
+					"end": 22200
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 700,
 			"title": "郵件查詣及補償",
-			"start": 22300
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "郵件查詢",
-			"start": 22300
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "郵件補償",
-			"start": 22700
+			"start": 22300,
+			"end": 23600,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "郵件查詢",
+					"start": 22300,
+					"end": 22600
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "郵件補償",
+					"start": 22700,
+					"end": 23600
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 800,
 			"title": "郵政匯兌",
-			"start": 23700
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "通則",
-			"start": 23700
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "普通匯兌",
-			"start": 24000
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "電報匯兌",
-			"start": 25600
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "送現匯兌",
-			"start": 26200
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "郵政禮券",
-			"start": 26700
+			"start": 23700,
+			"end": 27000,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "通則",
+					"start": 23700,
+					"end": 23900
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "普通匯兌",
+					"start": 24000,
+					"end": 25500
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "電報匯兌",
+					"start": 25600,
+					"end": 26100
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "送現匯兌",
+					"start": 26200,
+					"end": 26600
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "郵政禮券",
+					"start": 26700,
+					"end": 27000
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 900,
 			"title": "郵政儲金",
-			"start": 27100
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "通則",
-			"start": 27100
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "郵政存簿儲金",
-			"start": 29000
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "郵政定期儲金",
-			"start": 30000
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "郵政劃撥儲金",
-			"start": 30700
+			"start": 27100,
+			"end": 32000,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "通則",
+					"start": 27100,
+					"end": 28900
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "郵政存簿儲金",
+					"start": 29000,
+					"end": 29900
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "郵政定期儲金",
+					"start": 30000,
+					"end": 30600
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "郵政劃撥儲金",
+					"start": 30700,
+					"end": 32000
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 1000,
 			"title": "其他業務",
-			"start": 32100
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "代辦業務",
-			"start": 32100
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "集郵及集郵戳記",
-			"start": 32400
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "郵件封裝服務",
-			"start": 32900
+			"start": 32100,
+			"end": 33100,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "代辦業務",
+					"start": 32100,
+					"end": 32300
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "集郵及集郵戳記",
+					"start": 32400,
+					"end": 32800
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "郵件封裝服務",
+					"start": 32900,
+					"end": 33100
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 1100,
 			"title": "附則",
-			"start": 33200
+			"start": 33200,
+			"end": 33400
 		}
 	],
 	"articles": [

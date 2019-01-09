@@ -34,79 +34,94 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 1100
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "醫療機構",
-			"start": 1200
+			"start": 1200,
+			"end": 2900
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "醫療法人",
-			"start": 3000
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "通則",
-			"start": 3000
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "醫療財團法人",
-			"start": 4200
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "醫療社團法人",
-			"start": 4700
+			"start": 3000,
+			"end": 5500,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "通則",
+					"start": 3000,
+					"end": 4100
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "醫療財團法人",
+					"start": 4200,
+					"end": 4600
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "醫療社團法人",
+					"start": 4700,
+					"end": 5500
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "醫療業務",
-			"start": 5600
+			"start": 5600,
+			"end": 8300
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "醫療廣告",
-			"start": 8400
+			"start": 8400,
+			"end": 8700
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "醫事人力及設施分布",
-			"start": 8800
+			"start": 8800,
+			"end": 9300
 		},
 		{
 			"type": "章",
 			"number": 700,
 			"title": "教學醫院",
-			"start": 9400
+			"start": 9400,
+			"end": 9700
 		},
 		{
 			"type": "章",
 			"number": 800,
 			"title": "醫事審議委員會",
-			"start": 9800
+			"start": 9800,
+			"end": 10000
 		},
 		{
 			"type": "章",
 			"number": 900,
 			"title": "罰則",
-			"start": 10100
+			"start": 10100,
+			"end": 11700
 		},
 		{
 			"type": "章",
 			"number": 1000,
 			"title": "附則",
-			"start": 11800
+			"start": 11800,
+			"end": 12300
 		}
 	],
 	"articles": [

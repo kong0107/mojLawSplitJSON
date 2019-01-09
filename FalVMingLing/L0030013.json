@@ -28,37 +28,43 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 300
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "製造、輸入及工廠管理",
-			"start": 400
+			"start": 400,
+			"end": 900
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "廣告及流通管理",
-			"start": 1000
+			"start": 1000,
+			"end": 1200
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "抽查、檢驗及管制",
-			"start": 1300
+			"start": 1300,
+			"end": 1900
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "罰則",
-			"start": 2000
+			"start": 2000,
+			"end": 2700
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "附則",
-			"start": 2800
+			"start": 2800,
+			"end": 3200
 		}
 	],
 	"articles": [

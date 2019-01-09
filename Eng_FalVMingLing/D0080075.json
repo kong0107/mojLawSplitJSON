@@ -15,31 +15,36 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Provisions",
-			"start": 100
+			"start": 100,
+			"end": 300
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Registration and Management",
-			"start": 400
+			"start": 400,
+			"end": 1400
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Operation Management",
-			"start": 1500
+			"start": 1500,
+			"end": 2600
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Penalty",
-			"start": 2700
+			"start": 2700,
+			"end": 3400
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Supplementary Provisions",
-			"start": 3500
+			"start": 3500,
+			"end": 3800
 		}
 	],
 	"articles": [

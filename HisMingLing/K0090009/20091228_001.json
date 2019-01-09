@@ -13,31 +13,36 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 2300
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "航空器駕駛員訓練",
-			"start": 2400
+			"start": 2400,
+			"end": 3700
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "航空人員適職訓練",
-			"start": 3800
+			"start": 3800,
+			"end": 4600
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "航空維修訓練",
-			"start": 4700
+			"start": 4700,
+			"end": 4900
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "附則",
-			"start": 5000
+			"start": 5000,
+			"end": 5300
 		}
 	],
 	"articles": [

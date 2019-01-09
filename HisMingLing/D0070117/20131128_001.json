@@ -13,169 +13,209 @@
 			"type": "章",
 			"number": 100,
 			"title": "電氣設備",
-			"start": 100
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "通則",
-			"start": 100
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "照明設備及緊急供電設備",
-			"start": 300
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "特殊供電",
-			"start": 1100
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "緊急廣播設備",
-			"start": 1700
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "避雷設備",
-			"start": 1900
+			"start": 100,
+			"end": 2500,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "通則",
+					"start": 100,
+					"end": 201
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "照明設備及緊急供電設備",
+					"start": 300,
+					"end": 1000
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "特殊供電",
+					"start": 1100,
+					"end": 1600
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "緊急廣播設備",
+					"start": 1700,
+					"end": 1800
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "避雷設備",
+					"start": 1900,
+					"end": 2500
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "給水排水系統及衛生設備",
-			"start": 2600
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "給水排水系統",
-			"start": 2600
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "衛生設備",
-			"start": 3700
+			"start": 2600,
+			"end": 4100,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "給水排水系統",
+					"start": 2600,
+					"end": 3600
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "衛生設備",
+					"start": 3700,
+					"end": 4100
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "消防栓設備",
-			"start": 4200
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "消防設備",
-			"start": 4200
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "自動撒水設備",
-			"start": 5100
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "火警自動警報器設備",
-			"start": 6400
+			"start": 4200,
+			"end": 7700,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "消防設備",
+					"start": 4200,
+					"end": 5000
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "自動撒水設備",
+					"start": 5100,
+					"end": 6300
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "火警自動警報器設備",
+					"start": 6400,
+					"end": 7700
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "燃燒設備",
-			"start": 7800
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "燃氣設備",
-			"start": 7800
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "鍋爐",
-			"start": 8600
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "熱水器",
-			"start": 8900
+			"start": 7800,
+			"end": 9000,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "燃氣設備",
+					"start": 7800,
+					"end": 8500
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "鍋爐",
+					"start": 8600,
+					"end": 8800
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "熱水器",
+					"start": 8900,
+					"end": 9000
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "空氣調節及通風設備",
-			"start": 9100
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "空氣調節及通風設備之安裝",
-			"start": 9100
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "機械通風系統及通風量",
-			"start": 10000
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "廚房排除油煙設備",
-			"start": 10300
+			"start": 9100,
+			"end": 10700,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "空氣調節及通風設備之安裝",
+					"start": 9100,
+					"end": 9900
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "機械通風系統及通風量",
+					"start": 10000,
+					"end": 10200
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "廚房排除油煙設備",
+					"start": 10300,
+					"end": 10700
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "昇降設備",
-			"start": 10800
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "通則",
-			"start": 10800
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "昇降機",
-			"start": 11000
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "自動樓梯",
-			"start": 12100
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "服務昇降機",
-			"start": 13000
+			"start": 10800,
+			"end": 13200,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "通則",
+					"start": 10800,
+					"end": 10901
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "昇降機",
+					"start": 11000,
+					"end": 12000
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "自動樓梯",
+					"start": 12100,
+					"end": 12900
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "服務昇降機",
+					"start": 13000,
+					"end": 13200
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 700,
 			"title": "受信箱設備",
-			"start": 13300
+			"start": 13300,
+			"end": 13500
 		},
 		{
 			"type": "章",
 			"number": 800,
 			"title": "電話設備",
-			"start": 13600
+			"start": 13600,
+			"end": 14400
 		}
 	],
 	"articles": [

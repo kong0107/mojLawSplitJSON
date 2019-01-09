@@ -21,25 +21,29 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 300
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "解釋案件之審理",
-			"start": 400
+			"start": 400,
+			"end": 1800
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "政黨違憲解散案件之審理",
-			"start": 1900
+			"start": 1900,
+			"end": 3300
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "附則",
-			"start": 3400
+			"start": 3400,
+			"end": 3500
 		}
 	],
 	"articles": [

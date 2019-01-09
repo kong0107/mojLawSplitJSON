@@ -13,109 +13,133 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 900
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "檢查",
-			"start": 1000
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "通則",
-			"start": 1000
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "特別檢查",
-			"start": 1500
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "定期檢查",
-			"start": 2800
+			"start": 1000,
+			"end": 3000,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "通則",
+					"start": 1000,
+					"end": 1400
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "特別檢查",
+					"start": 1500,
+					"end": 2700
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "定期檢查",
+					"start": 2800,
+					"end": 3000
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "構造與裝置",
-			"start": 3100
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "船身",
-			"start": 3100
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "輪機",
-			"start": 4400
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "操縱裝置",
-			"start": 5000
+			"start": 3100,
+			"end": 5100,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "船身",
+					"start": 3100,
+					"end": 4300
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "輪機",
+					"start": 4400,
+					"end": 4900
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "操縱裝置",
+					"start": 5000,
+					"end": 5100
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "乘客艙室",
-			"start": 5200
+			"start": 5200,
+			"end": 5700
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "設備",
-			"start": 5800
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "救生設備",
-			"start": 5800
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "消防設備及防火措施",
-			"start": 6300
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "航行儀器及通信設備",
-			"start": 7200
+			"start": 5800,
+			"end": 7400,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "救生設備",
+					"start": 5800,
+					"end": 6200
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "消防設備及防火措施",
+					"start": 6300,
+					"end": 7100
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "航行儀器及通信設備",
+					"start": 7200,
+					"end": 7400
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "船上秩序",
-			"start": 7500
+			"start": 7500,
+			"end": 7800
 		},
 		{
 			"type": "章",
 			"number": 700,
 			"title": "證書",
-			"start": 7900
+			"start": 7900,
+			"end": 8200
 		},
 		{
 			"type": "章",
 			"number": 800,
 			"title": "檢查費",
-			"start": 8300
+			"start": 8300,
+			"end": 8401
 		},
 		{
 			"type": "章",
 			"number": 900,
 			"title": "附則",
-			"start": 8500
+			"start": 8500,
+			"end": 8500
 		}
 	],
 	"articles": [

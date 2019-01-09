@@ -21,61 +21,75 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General",
-			"start": 100
+			"start": 100,
+			"end": 800
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Business Activities",
-			"start": 900
+			"start": 900,
+			"end": 1400
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Setting up Branch Offices and Making Equity Investment in Mainland Area",
-			"start": 1500
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Representative Offices",
-			"start": 1500
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Branches and Subsidiaries",
-			"start": 2001
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Equity Investment",
-			"start": 2700
+			"start": 1500,
+			"end": 3400,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Representative Offices",
+					"start": 1500,
+					"end": 2000
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Branches and Subsidiaries",
+					"start": 2001,
+					"end": 2600
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Equity Investment",
+					"start": 2700,
+					"end": 3400
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Establishing Representative Office and Making Equity Investment in Taiwan Area",
-			"start": 3500
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Representative Offices",
-			"start": 3500
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Equity Investment",
-			"start": 4100
+			"start": 3500,
+			"end": 4900,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Representative Offices",
+					"start": 3500,
+					"end": 4000
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Equity Investment",
+					"start": 4100,
+					"end": 4900
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Supplemental Provisions",
-			"start": 5000
+			"start": 5000,
+			"end": 5500
 		}
 	],
 	"articles": [

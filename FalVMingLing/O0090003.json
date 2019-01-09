@@ -51,25 +51,29 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 1500
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "環境影響之預防對策",
-			"start": 1600
+			"start": 1600,
+			"end": 4000
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "不同開發行為之評估事項",
-			"start": 4100
+			"start": 4100,
+			"end": 5700
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "附則",
-			"start": 5800
+			"start": 5800,
+			"end": 6100
 		}
 	],
 	"articles": [

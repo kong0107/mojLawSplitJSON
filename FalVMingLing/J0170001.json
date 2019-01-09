@@ -22,79 +22,96 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 600
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "消費者權益",
-			"start": 700
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "健康與安全保障",
-			"start": 700
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "定型化契約",
-			"start": 1100
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "特種交易",
-			"start": 1800
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "消費資訊之規範",
-			"start": 2200
+			"start": 700,
+			"end": 2600,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "健康與安全保障",
+					"start": 700,
+					"end": 1001
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "定型化契約",
+					"start": 1100,
+					"end": 1701
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "特種交易",
+					"start": 1800,
+					"end": 2100
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "消費資訊之規範",
+					"start": 2200,
+					"end": 2600
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "消費者保護團體",
-			"start": 2700
+			"start": 2700,
+			"end": 3200
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "行政監督",
-			"start": 3300
+			"start": 3300,
+			"end": 4200
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "消費爭議之處理",
-			"start": 4300
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "申訴與調解",
-			"start": 4300
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "消費訴訟",
-			"start": 4700
+			"start": 4300,
+			"end": 5500,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "申訴與調解",
+					"start": 4300,
+					"end": 4600
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "消費訴訟",
+					"start": 4700,
+					"end": 5500
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "罰則",
-			"start": 5600
+			"start": 5600,
+			"end": 6200
 		},
 		{
 			"type": "章",
 			"number": 700,
 			"title": "附則",
-			"start": 6300
+			"start": 6300,
+			"end": 6400
 		}
 	],
 	"articles": [

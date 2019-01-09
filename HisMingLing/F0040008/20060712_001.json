@@ -14,55 +14,64 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 800
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "離營作業",
-			"start": 900
+			"start": 900,
+			"end": 1100
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "報到列管",
-			"start": 1200
+			"start": 1200,
+			"end": 1400
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "異動管理",
-			"start": 1500
+			"start": 1500,
+			"end": 2400
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "入出國登記",
-			"start": 2500
+			"start": 2500,
+			"end": 2700
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "戰時或非常事變時異動管理",
-			"start": 2800
+			"start": 2800,
+			"end": 3400
 		},
 		{
 			"type": "章",
 			"number": 700,
 			"title": "編組、訓練、教育",
-			"start": 3500
+			"start": 3500,
+			"end": 3700
 		},
 		{
 			"type": "章",
 			"number": 800,
 			"title": "轉役、免役、回役、除役、禁役",
-			"start": 3800
+			"start": 3800,
+			"end": 4400
 		},
 		{
 			"type": "章",
 			"number": 900,
 			"title": "附則",
-			"start": 4500
+			"start": 4500,
+			"end": 5400
 		}
 	],
 	"articles": [

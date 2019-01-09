@@ -13,43 +13,50 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General",
-			"start": 100
+			"start": 100,
+			"end": 300
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Personal Information Protection Planning",
-			"start": 400
+			"start": 400,
+			"end": 800
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Personal Information Administration Procedure",
-			"start": 900
+			"start": 900,
+			"end": 1700
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Personal Information Administration Measures",
-			"start": 1800
+			"start": 1800,
+			"end": 2100
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Personal Information Processing Method after Termination of Business",
-			"start": 2200
+			"start": 2200,
+			"end": 2200
 		},
 		{
 			"type": "chapter",
 			"number": 600,
 			"title": "Record Mechanism",
-			"start": 2300
+			"start": 2300,
+			"end": 2300
 		},
 		{
 			"type": "chapter",
 			"number": 700,
 			"title": "Miscellaneous",
-			"start": 2400
+			"start": 2400,
+			"end": 2500
 		}
 	],
 	"articles": [

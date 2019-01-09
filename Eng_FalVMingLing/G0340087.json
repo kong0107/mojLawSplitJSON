@@ -19,61 +19,75 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Provisions",
-			"start": 100
+			"start": 100,
+			"end": 200
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Taxation Registration for a Business Entity with a Fixed Place of Business within the Territory of the Republic of China(R.O.C.)",
-			"start": 300
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Establishment Registration",
-			"start": 300
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Modification of Registration , Suspension (Resumption) for Approval and Recordation, or Cancellation of Registration",
-			"start": 800
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Revocation or Nullification of Registration",
-			"start": 1100
+			"start": 300,
+			"end": 1100,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Establishment Registration",
+					"start": 300,
+					"end": 700
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Modification of Registration , Suspension (Resumption) for Approval and Recordation, or Cancellation of Registration",
+					"start": 800,
+					"end": 1000
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Revocation or Nullification of Registration",
+					"start": 1100,
+					"end": 1100
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Taxation Registration for a Business Entity Having No Fixed Place of Business Entity within the Territory of the R.O.C. Which Sells Electronic Services to Domestic Individuals.",
-			"start": 1200
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Establishment Registration",
-			"start": 1200
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Modification of Registration , Suspension (Resumption) for Approval and Recordation, or Cancellation of Registration",
-			"start": 1500
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Nullification of Registration",
-			"start": 1800
+			"start": 1200,
+			"end": 1800,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Establishment Registration",
+					"start": 1200,
+					"end": 1400
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Modification of Registration , Suspension (Resumption) for Approval and Recordation, or Cancellation of Registration",
+					"start": 1500,
+					"end": 1700
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Nullification of Registration",
+					"start": 1800,
+					"end": 1800
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Supplementary Provisions",
-			"start": 1900
+			"start": 1900,
+			"end": 2000
 		}
 	],
 	"articles": [

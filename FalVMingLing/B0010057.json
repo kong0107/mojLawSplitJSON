@@ -21,133 +21,159 @@
 			"type": "編",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 4100
 		},
 		{
 			"type": "編",
 			"number": 200,
 			"title": "調解程序",
-			"start": 4200
+			"start": 4200,
+			"end": 6000
 		},
 		{
 			"type": "編",
 			"number": 300,
 			"title": "家事訴訟事件",
-			"start": 6100
-		},
-		{
-			"type": "章",
-			"number": 100,
-			"title": "通則",
-			"start": 6100
-		},
-		{
-			"type": "章",
-			"number": 200,
-			"title": "婚姻訴訟事件",
-			"start": 7300
-		},
-		{
-			"type": "章",
-			"number": 300,
-			"title": "親子訴訟事件",
-			"start": 7400
-		},
-		{
-			"type": "章",
-			"number": 400,
-			"title": "繼承訴訟事件",
-			"start": 7900
+			"start": 6100,
+			"end": 7900,
+			"children": [
+				{
+					"type": "章",
+					"number": 100,
+					"title": "通則",
+					"start": 6100,
+					"end": 7200
+				},
+				{
+					"type": "章",
+					"number": 200,
+					"title": "婚姻訴訟事件",
+					"start": 7300,
+					"end": 7300
+				},
+				{
+					"type": "章",
+					"number": 300,
+					"title": "親子訴訟事件",
+					"start": 7400,
+					"end": 7800
+				},
+				{
+					"type": "章",
+					"number": 400,
+					"title": "繼承訴訟事件",
+					"start": 7900,
+					"end": 7900
+				}
+			]
 		},
 		{
 			"type": "編",
 			"number": 400,
 			"title": "家事非訟事件",
-			"start": 8000
-		},
-		{
-			"type": "章",
-			"number": 100,
-			"title": "通則",
-			"start": 8000
-		},
-		{
-			"type": "章",
-			"number": 200,
-			"title": "婚姻非訟事件",
-			"start": 9500
-		},
-		{
-			"type": "章",
-			"number": 300,
-			"title": "親子非訟事件",
-			"start": 10100
-		},
-		{
-			"type": "章",
-			"number": 400,
-			"title": "收養非訟事件",
-			"start": 10800
-		},
-		{
-			"type": "章",
-			"number": 500,
-			"title": "未成年人監護事件",
-			"start": 12300
-		},
-		{
-			"type": "章",
-			"number": 600,
-			"title": "親屬間扶養事件",
-			"start": 12800
-		},
-		{
-			"type": "章",
-			"number": 700,
-			"title": "繼承非訟事件",
-			"start": 12900
-		},
-		{
-			"type": "章",
-			"number": 800,
-			"title": "失蹤人財產管理事件",
-			"start": 13300
-		},
-		{
-			"type": "章",
-			"number": 900,
-			"title": "死亡宣告事件",
-			"start": 13400
-		},
-		{
-			"type": "章",
-			"number": 1000,
-			"title": "監護宣告事件",
-			"start": 13700
-		},
-		{
-			"type": "章",
-			"number": 1100,
-			"title": "輔助宣告事件",
-			"start": 14500
-		},
-		{
-			"type": "章",
-			"number": 1200,
-			"title": "親屬會議事件",
-			"start": 14700
-		},
-		{
-			"type": "章",
-			"number": 1300,
-			"title": "保護安置事件",
-			"start": 14900
+			"start": 8000,
+			"end": 16201,
+			"children": [
+				{
+					"type": "章",
+					"number": 100,
+					"title": "通則",
+					"start": 8000,
+					"end": 9400
+				},
+				{
+					"type": "章",
+					"number": 200,
+					"title": "婚姻非訟事件",
+					"start": 9500,
+					"end": 10000
+				},
+				{
+					"type": "章",
+					"number": 300,
+					"title": "親子非訟事件",
+					"start": 10100,
+					"end": 10700
+				},
+				{
+					"type": "章",
+					"number": 400,
+					"title": "收養非訟事件",
+					"start": 10800,
+					"end": 12200
+				},
+				{
+					"type": "章",
+					"number": 500,
+					"title": "未成年人監護事件",
+					"start": 12300,
+					"end": 12700
+				},
+				{
+					"type": "章",
+					"number": 600,
+					"title": "親屬間扶養事件",
+					"start": 12800,
+					"end": 12800
+				},
+				{
+					"type": "章",
+					"number": 700,
+					"title": "繼承非訟事件",
+					"start": 12900,
+					"end": 13200
+				},
+				{
+					"type": "章",
+					"number": 800,
+					"title": "失蹤人財產管理事件",
+					"start": 13300,
+					"end": 13300
+				},
+				{
+					"type": "章",
+					"number": 900,
+					"title": "死亡宣告事件",
+					"start": 13400,
+					"end": 13600
+				},
+				{
+					"type": "章",
+					"number": 1000,
+					"title": "監護宣告事件",
+					"start": 13700,
+					"end": 14400
+				},
+				{
+					"type": "章",
+					"number": 1100,
+					"title": "輔助宣告事件",
+					"start": 14500,
+					"end": 14600
+				},
+				{
+					"type": "章",
+					"number": 1200,
+					"title": "親屬會議事件",
+					"start": 14700,
+					"end": 14800
+				},
+				{
+					"type": "章",
+					"number": 1300,
+					"title": "保護安置事件",
+					"start": 14900,
+					"end": 16201
+				}
+			]
 		},
 		{
 			"type": "編",
 			"number": 500,
 			"title": "履行之確保及執行",
-			"start": 16300
+			"start": 16300,
+			"end": 16700
 		}
 	],
 	"articles": [

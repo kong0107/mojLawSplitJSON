@@ -21,49 +21,59 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Principles",
-			"start": 100
+			"start": 100,
+			"end": 500
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Design and Implementation of Internal Control System",
-			"start": 600
+			"start": 600,
+			"end": 1000
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Assessment of Internal Control System",
-			"start": 1100
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Internal Audits",
-			"start": 1100
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Self-assessment and Statement on Internal Control",
-			"start": 2100
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Special Audits",
-			"start": 2500
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "Compliance System",
-			"start": 2700
+			"start": 1100,
+			"end": 2900,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Internal Audits",
+					"start": 1100,
+					"end": 2000
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Self-assessment and Statement on Internal Control",
+					"start": 2100,
+					"end": 2400
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Special Audits",
+					"start": 2500,
+					"end": 2600
+				},
+				{
+					"type": "section",
+					"number": 400,
+					"title": "Compliance System",
+					"start": 2700,
+					"end": 2900
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Supplementary Provisions",
-			"start": 3000
+			"start": 3000,
+			"end": 3900
 		}
 	],
 	"articles": [

@@ -24,43 +24,50 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 300
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "經營許可",
-			"start": 400
+			"start": 400,
+			"end": 1100
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "營運管理",
-			"start": 1200
+			"start": 1200,
+			"end": 2600
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "節目及廣告管理",
-			"start": 2700
+			"start": 2700,
+			"end": 4100
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "權利保護",
-			"start": 4200
+			"start": 4200,
+			"end": 4500
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "罰則",
-			"start": 4600
+			"start": 4600,
+			"end": 6300
 		},
 		{
 			"type": "章",
 			"number": 700,
 			"title": "附則",
-			"start": 6400
+			"start": 6400,
+			"end": 6800
 		}
 	],
 	"articles": [

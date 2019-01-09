@@ -84,121 +84,147 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "一般規定",
-			"start": 100
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "名詞定義",
-			"start": 700
+			"start": 100,
+			"end": 1200,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "一般規定",
+					"start": 100,
+					"end": 602
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "名詞定義",
+					"start": 700,
+					"end": 1200
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "綜合所得稅",
-			"start": 1300
+			"start": 1300,
+			"end": 1704
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "營利事業所得稅",
-			"start": 1800
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "登記",
-			"start": 1800
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "帳簿憑證與會計紀錄",
-			"start": 2100
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "營利事業所得額",
-			"start": 2400
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "資產估價",
-			"start": 4400
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "（刪除）",
-			"start": 6601
-		},
-		{
-			"type": "節",
-			"number": 600,
-			"title": "未分配盈餘之課稅",
-			"start": 6609
+			"start": 1800,
+			"end": 6609,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "登記",
+					"start": 1800,
+					"end": 2000
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "帳簿憑證與會計紀錄",
+					"start": 2100,
+					"end": 2300
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "營利事業所得額",
+					"start": 2400,
+					"end": 4304
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "資產估價",
+					"start": 4400,
+					"end": 6600
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "（刪除）",
+					"start": 6601,
+					"end": 6608
+				},
+				{
+					"type": "節",
+					"number": 600,
+					"title": "未分配盈餘之課稅",
+					"start": 6609,
+					"end": 6609
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "稽徵程序",
-			"start": 6700
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "暫繳",
-			"start": 6700
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "結算申報",
-			"start": 7100
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "調查",
-			"start": 8000
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "扣繳",
-			"start": 8800
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "自繳",
-			"start": 9800
-		},
-		{
-			"type": "節",
-			"number": 600,
-			"title": "盈餘申報",
-			"start": 10201
+			"start": 6700,
+			"end": 10204,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "暫繳",
+					"start": 6700,
+					"end": 7000
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "結算申報",
+					"start": 7100,
+					"end": 7900
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "調查",
+					"start": 8000,
+					"end": 8700
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "扣繳",
+					"start": 8800,
+					"end": 9700
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "自繳",
+					"start": 9800,
+					"end": 10200
+				},
+				{
+					"type": "節",
+					"number": 600,
+					"title": "盈餘申報",
+					"start": 10201,
+					"end": 10204
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "獎懲",
-			"start": 10300
+			"start": 10300,
+			"end": 12000
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "附則",
-			"start": 12100
+			"start": 12100,
+			"end": 12600
 		}
 	],
 	"articles": [

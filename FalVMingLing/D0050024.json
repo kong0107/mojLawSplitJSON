@@ -21,37 +21,43 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 700
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "福利措施",
-			"start": 800
+			"start": 800,
+			"end": 1100
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "福利機構",
-			"start": 1200
+			"start": 1200,
+			"end": 1700
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "保護",
-			"start": 1800
+			"start": 1800,
+			"end": 2400
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "罰則",
-			"start": 2500
+			"start": 2500,
+			"end": 3000
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "附則",
-			"start": 3100
+			"start": 3100,
+			"end": 3200
 		}
 	],
 	"articles": [

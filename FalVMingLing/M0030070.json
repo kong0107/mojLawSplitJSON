@@ -25,37 +25,43 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 600
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "共同運輸",
-			"start": 700
+			"start": 700,
+			"end": 1100
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "批發交易",
-			"start": 1200
+			"start": 1200,
+			"end": 3100
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "零售交易",
-			"start": 3200
+			"start": 3200,
+			"end": 3400
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "罰則",
-			"start": 3500
+			"start": 3500,
+			"end": 3900
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "附則",
-			"start": 4000
+			"start": 4000,
+			"end": 4300
 		}
 	],
 	"articles": [

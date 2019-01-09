@@ -19,37 +19,43 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 1500
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "識別及鑑別程序",
-			"start": 1600
+			"start": 1600,
+			"end": 1900
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "營運規範",
-			"start": 2000
+			"start": 2000,
+			"end": 2300
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "非技術性安全控管",
-			"start": 2400
+			"start": 2400,
+			"end": 2800
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "技術性安全控管",
-			"start": 2900
+			"start": 2900,
+			"end": 3300
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "格式剖繪",
-			"start": 3400
+			"start": 3400,
+			"end": 3600
 		}
 	],
 	"articles": [

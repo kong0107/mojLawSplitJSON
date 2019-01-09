@@ -27,37 +27,43 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 1000
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "財務",
-			"start": 1100
+			"start": 1100,
+			"end": 1800
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "業務",
-			"start": 1900
+			"start": 1900,
+			"end": 2400
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "投資外國及大陸事業",
-			"start": 2401
+			"start": 2401,
+			"end": 2800
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "合併",
-			"start": 2900
+			"start": 2900,
+			"end": 3600
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "附則",
-			"start": 3700
+			"start": 3700,
+			"end": 3900
 		}
 	],
 	"articles": [

@@ -20,25 +20,29 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 200
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "社區土地開發興建",
-			"start": 300
+			"start": 300,
+			"end": 800
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "社區土地租用與管理",
-			"start": 900
+			"start": 900,
+			"end": 1800
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "附則",
-			"start": 1900
+			"start": 1900,
+			"end": 1900
 		}
 	],
 	"articles": [

@@ -20,43 +20,50 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 200
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "經費來源、用途、管理及監督",
-			"start": 300
+			"start": 300,
+			"end": 1000
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "職業疾病認定及鑑定",
-			"start": 1100
+			"start": 1100,
+			"end": 1700
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "促進就業",
-			"start": 1800
+			"start": 1800,
+			"end": 2100
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "其他保障",
-			"start": 2200
+			"start": 2200,
+			"end": 3200
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "罰則",
-			"start": 3300
+			"start": 3300,
+			"end": 3500
 		},
 		{
 			"type": "章",
 			"number": 700,
 			"title": "附則",
-			"start": 3600
+			"start": 3600,
+			"end": 4100
 		}
 	],
 	"articles": [

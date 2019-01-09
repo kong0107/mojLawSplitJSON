@@ -13,43 +13,50 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 200
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "保稅貨品管理",
-			"start": 300
+			"start": 300,
+			"end": 800
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "保稅帳務管理",
-			"start": 900
+			"start": 900,
+			"end": 1800
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "保稅貨品通關",
-			"start": 1900
+			"start": 1900,
+			"end": 3200
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "保稅貨品委託、受託加工與修理、檢驗、測試及展示",
-			"start": 3300
+			"start": 3300,
+			"end": 4600
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "其他管理",
-			"start": 4700
+			"start": 4700,
+			"end": 5000
 		},
 		{
 			"type": "章",
 			"number": 700,
 			"title": "附則",
-			"start": 5100
+			"start": 5100,
+			"end": 5100
 		}
 	],
 	"articles": [

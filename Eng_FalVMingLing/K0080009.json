@@ -32,55 +32,66 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Principles",
-			"start": 100
+			"start": 100,
+			"end": 200
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Ship's Entrance and Departure from the Port",
-			"start": 300
+			"start": 300,
+			"end": 901
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Ships' Berthing and Laying-up at the Port",
-			"start": 1000
+			"start": 1000,
+			"end": 1700
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Port area safety and pollution prevention measures",
-			"start": 1800
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "General Rules",
-			"start": 1800
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Loading or Unloading Dangerous Substances",
-			"start": 2900
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Ships in Distress or Taking Shelter",
-			"start": 4700
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "Ship Repairs",
-			"start": 4900
+			"start": 1800,
+			"end": 5200,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "General Rules",
+					"start": 1800,
+					"end": 2800
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Loading or Unloading Dangerous Substances",
+					"start": 2900,
+					"end": 4600
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Ships in Distress or Taking Shelter",
+					"start": 4700,
+					"end": 4800
+				},
+				{
+					"type": "section",
+					"number": 400,
+					"title": "Ship Repairs",
+					"start": 4900,
+					"end": 5200
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Annex",
-			"start": 5300
+			"start": 5300,
+			"end": 5400
 		}
 	],
 	"articles": [

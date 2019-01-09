@@ -17,25 +17,29 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Principles",
-			"start": 100
+			"start": 100,
+			"end": 600
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Control",
-			"start": 700
+			"start": 700,
+			"end": 2200
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Penal Provisions",
-			"start": 2300
+			"start": 2300,
+			"end": 3200
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Supplementary Provisions",
-			"start": 3300
+			"start": 3300,
+			"end": 3700
 		}
 	],
 	"articles": [

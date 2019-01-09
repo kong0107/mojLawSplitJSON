@@ -56,25 +56,29 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 400
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "報關及查驗",
-			"start": 500
+			"start": 500,
+			"end": 1000
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "徵免",
-			"start": 1100
+			"start": 1100,
+			"end": 1700
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "附則",
-			"start": 1800
+			"start": 1800,
+			"end": 1800
 		}
 	],
 	"articles": [

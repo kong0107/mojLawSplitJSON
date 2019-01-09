@@ -23,61 +23,73 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 200
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "公正第三人之認可",
-			"start": 300
+			"start": 300,
+			"end": 1000
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "公正第三人之公開拍賣程序",
-			"start": 1100
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "委託拍賣",
-			"start": 1100
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "訂定底價",
-			"start": 1300
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "拍賣公告",
-			"start": 1600
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "拍賣",
-			"start": 1800
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "再行拍賣",
-			"start": 2500
-		},
-		{
-			"type": "節",
-			"number": 600,
-			"title": "移轉登記",
-			"start": 2800
+			"start": 1100,
+			"end": 2900,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "委託拍賣",
+					"start": 1100,
+					"end": 1200
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "訂定底價",
+					"start": 1300,
+					"end": 1500
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "拍賣公告",
+					"start": 1600,
+					"end": 1700
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "拍賣",
+					"start": 1800,
+					"end": 2400
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "再行拍賣",
+					"start": 2500,
+					"end": 2700
+				},
+				{
+					"type": "節",
+					"number": 600,
+					"title": "移轉登記",
+					"start": 2800,
+					"end": 2900
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "附則",
-			"start": 3000
+			"start": 3000,
+			"end": 3000
 		}
 	],
 	"articles": [

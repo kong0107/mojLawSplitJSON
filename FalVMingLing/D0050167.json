@@ -26,61 +26,73 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 600
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "被保險人及保險效力",
-			"start": 700
+			"start": 700,
+			"end": 900
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "保險費",
-			"start": 1000
+			"start": 1000,
+			"end": 2700
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "保險給付",
-			"start": 2800
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "通則",
-			"start": 2800
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "老年年金給付及生育給付",
-			"start": 4100
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "身心障礙年金給付",
-			"start": 4500
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "喪葬給付",
-			"start": 5000
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "遺屬年金給付",
-			"start": 5200
+			"start": 2800,
+			"end": 5700,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "通則",
+					"start": 2800,
+					"end": 4000
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "老年年金給付及生育給付",
+					"start": 4100,
+					"end": 4403
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "身心障礙年金給付",
+					"start": 4500,
+					"end": 4900
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "喪葬給付",
+					"start": 5000,
+					"end": 5100
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "遺屬年金給付",
+					"start": 5200,
+					"end": 5700
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "附則",
-			"start": 5800
+			"start": 5800,
+			"end": 6200
 		}
 	],
 	"articles": [

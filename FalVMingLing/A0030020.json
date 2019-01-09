@@ -26,85 +26,103 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "訴願事件",
-			"start": 100
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "管轄",
-			"start": 400
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "期日及期間",
-			"start": 1400
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "訴願人",
-			"start": 1800
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "送達",
-			"start": 4300
-		},
-		{
-			"type": "節",
-			"number": 600,
-			"title": "訴願卷宗",
-			"start": 4800
+			"start": 100,
+			"end": 5100,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "訴願事件",
+					"start": 100,
+					"end": 300
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "管轄",
+					"start": 400,
+					"end": 1300
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "期日及期間",
+					"start": 1400,
+					"end": 1700
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "訴願人",
+					"start": 1800,
+					"end": 4200
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "送達",
+					"start": 4300,
+					"end": 4700
+				},
+				{
+					"type": "節",
+					"number": 600,
+					"title": "訴願卷宗",
+					"start": 4800,
+					"end": 5100
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "訴願審議委員會",
-			"start": 5200
+			"start": 5200,
+			"end": 5500
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "訴願程序",
-			"start": 5600
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "訴願之提起",
-			"start": 5600
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "訴願審議",
-			"start": 6300
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "訴願決定",
-			"start": 7700
+			"start": 5600,
+			"end": 9600,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "訴願之提起",
+					"start": 5600,
+					"end": 6200
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "訴願審議",
+					"start": 6300,
+					"end": 7600
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "訴願決定",
+					"start": 7700,
+					"end": 9600
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "再審程序",
-			"start": 9700
+			"start": 9700,
+			"end": 9700
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "附則",
-			"start": 9800
+			"start": 9800,
+			"end": 10100
 		}
 	],
 	"articles": [

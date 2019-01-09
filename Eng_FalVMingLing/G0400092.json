@@ -20,67 +20,80 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Principles",
-			"start": 100
+			"start": 100,
+			"end": 400
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Establishment of Securities Investment Consulting Enterprises",
-			"start": 500
+			"start": 500,
+			"end": 900
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Concurrent Operation of Securities Investment Consulting Business or Discretionary Investment Business",
-			"start": 1000
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Securities Firms or Futures Commission Merchants",
-			"start": 1000
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Trust Enterprises",
-			"start": 2200
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Securities Investment Trust Enterprises",
-			"start": 3000
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "Managed Futures Enterprises",
-			"start": 3100
-		},
-		{
-			"type": "section",
-			"number": 500,
-			"title": "Futures Trust Enterprises",
-			"start": 3300
-		},
-		{
-			"type": "section",
-			"number": 600,
-			"title": "Insurance Enterprises",
-			"start": 3600
+			"start": 1000,
+			"end": 4000,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Securities Firms or Futures Commission Merchants",
+					"start": 1000,
+					"end": 2100
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Trust Enterprises",
+					"start": 2200,
+					"end": 2900
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Securities Investment Trust Enterprises",
+					"start": 3000,
+					"end": 3000
+				},
+				{
+					"type": "section",
+					"number": 400,
+					"title": "Managed Futures Enterprises",
+					"start": 3100,
+					"end": 3200
+				},
+				{
+					"type": "section",
+					"number": 500,
+					"title": "Futures Trust Enterprises",
+					"start": 3300,
+					"end": 3500
+				},
+				{
+					"type": "section",
+					"number": 600,
+					"title": "Insurance Enterprises",
+					"start": 3600,
+					"end": 4000
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Establishment of Branch Units",
-			"start": 4100
+			"start": 4100,
+			"end": 4300
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Supplementary Provisions",
-			"start": 4400
+			"start": 4400,
+			"end": 4900
 		}
 	],
 	"articles": [

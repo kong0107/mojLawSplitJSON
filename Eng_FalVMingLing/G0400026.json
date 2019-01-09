@@ -32,79 +32,94 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Principles",
-			"start": 100
+			"start": 100,
+			"end": 1300
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Financial Reports",
-			"start": 1400
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Balance Sheet",
-			"start": 1400
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Statement of Comprehensive Income",
-			"start": 1700
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Statement of Changes in Equity",
-			"start": 1800
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "Statement of Cash Flows",
-			"start": 1900
-		},
-		{
-			"type": "section",
-			"number": 500,
-			"title": "Notes",
-			"start": 2000
+			"start": 1400,
+			"end": 2300,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Balance Sheet",
+					"start": 1400,
+					"end": 1600
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Statement of Comprehensive Income",
+					"start": 1700,
+					"end": 1700
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Statement of Changes in Equity",
+					"start": 1800,
+					"end": 1800
+				},
+				{
+					"type": "section",
+					"number": 400,
+					"title": "Statement of Cash Flows",
+					"start": 1900,
+					"end": 1900
+				},
+				{
+					"type": "section",
+					"number": 500,
+					"title": "Notes",
+					"start": 2000,
+					"end": 2300
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Interim Financial Reports",
-			"start": 2400
+			"start": 2400,
+			"end": 2400
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Parent Company Only Financial Reports",
-			"start": 2500
+			"start": 2500,
+			"end": 3200
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Consolidated Financial Statements and Business Combination",
-			"start": 3300
+			"start": 3300,
+			"end": 3302
 		},
 		{
 			"type": "chapter",
 			"number": 600,
 			"title": "(Deleted)",
-			"start": 3400
+			"start": 3400,
+			"end": 3600
 		},
 		{
 			"type": "chapter",
 			"number": 700,
 			"title": "Joint Arrangements",
-			"start": 3700
+			"start": 3700,
+			"end": 3700
 		},
 		{
 			"type": "chapter",
 			"number": 800,
 			"title": "Supplementary Provisions",
-			"start": 3800
+			"start": 3800,
+			"end": 4000
 		}
 	],
 	"articles": [

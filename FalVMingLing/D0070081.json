@@ -23,37 +23,43 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 500
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "政府直接興建",
-			"start": 600
+			"start": 600,
+			"end": 2300
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "貸款人民自建",
-			"start": 2400
+			"start": 2400,
+			"end": 2900
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "獎勵投資興建",
-			"start": 3000
+			"start": 3000,
+			"end": 3700
 		},
 		{
 			"type": "章",
 			"number": 401,
 			"title": "輔助人民自購",
-			"start": 3701
+			"start": 3701,
+			"end": 3703
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "附則",
-			"start": 3800
+			"start": 3800,
+			"end": 4500
 		}
 	],
 	"articles": [

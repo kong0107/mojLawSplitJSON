@@ -26,37 +26,43 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 400
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "任用",
-			"start": 500
+			"start": 500,
+			"end": 1300
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "俸給",
-			"start": 1400
+			"start": 1400,
+			"end": 1600
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "考績",
-			"start": 1700
+			"start": 1700,
+			"end": 1900
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "退休、撫卹",
-			"start": 2000
+			"start": 2000,
+			"end": 2100
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "附則",
-			"start": 2200
+			"start": 2200,
+			"end": 2300
 		}
 	],
 	"articles": [

@@ -22,79 +22,96 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 500
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "不動產投資信託",
-			"start": 600
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "不動產投資信託基金之募集及私募",
-			"start": 600
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "不動產投資信託基金之運用",
-			"start": 1700
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "不動產投資信託基金之會計",
-			"start": 2600
+			"start": 600,
+			"end": 2800,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "不動產投資信託基金之募集及私募",
+					"start": 600,
+					"end": 1600
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "不動產投資信託基金之運用",
+					"start": 1700,
+					"end": 2500
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "不動產投資信託基金之會計",
+					"start": 2600,
+					"end": 2800
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "不動產資產信託",
-			"start": 2900
+			"start": 2900,
+			"end": 3600
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "受益證券之發行交付及轉讓、受益人會議、信託監察人",
-			"start": 3700
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "受益證券之發行交付及轉讓",
-			"start": 3700
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "受益人會議及信託監察人",
-			"start": 4700
+			"start": 3700,
+			"end": 4800,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "受益證券之發行交付及轉讓",
+					"start": 3700,
+					"end": 4601
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "受益人會議及信託監察人",
+					"start": 4700,
+					"end": 4800
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "稅捐及相關事項",
-			"start": 4900
+			"start": 4900,
+			"end": 5300
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "行政監督",
-			"start": 5400
+			"start": 5400,
+			"end": 5700
 		},
 		{
 			"type": "章",
 			"number": 700,
 			"title": "罰則",
-			"start": 5800
+			"start": 5800,
+			"end": 6500
 		},
 		{
 			"type": "章",
 			"number": 800,
 			"title": "附則",
-			"start": 6600
+			"start": 6600,
+			"end": 6800
 		}
 	],
 	"articles": [

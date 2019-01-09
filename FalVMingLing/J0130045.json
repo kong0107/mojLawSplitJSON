@@ -20,49 +20,57 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 300
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "登記及許可",
-			"start": 400
+			"start": 400,
+			"end": 1200
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "設備及安全",
-			"start": 1300
+			"start": 1300,
+			"end": 2000
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "用地",
-			"start": 2100
+			"start": 2100,
+			"end": 2700
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "經營管理",
-			"start": 2800
+			"start": 2800,
+			"end": 4400
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "監督",
-			"start": 4500
+			"start": 4500,
+			"end": 5500
 		},
 		{
 			"type": "章",
 			"number": 700,
 			"title": "罰則",
-			"start": 5600
+			"start": 5600,
+			"end": 6400
 		},
 		{
 			"type": "章",
 			"number": 800,
 			"title": "附則",
-			"start": 6500
+			"start": 6500,
+			"end": 7200
 		}
 	],
 	"articles": [

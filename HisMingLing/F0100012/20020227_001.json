@@ -14,37 +14,43 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 300
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "軍車駕駛執照",
-			"start": 400
+			"start": 400,
+			"end": 700
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "軍車之使用管理",
-			"start": 800
+			"start": 800,
+			"end": 1900
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "重大交通事故處理、賠償及處罰",
-			"start": 2000
+			"start": 2000,
+			"end": 2500
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "違規處理及處罰",
-			"start": 2600
+			"start": 2600,
+			"end": 7200
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "附則",
-			"start": 7300
+			"start": 7300,
+			"end": 8000
 		}
 	],
 	"articles": [

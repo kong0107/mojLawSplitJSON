@@ -24,43 +24,52 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 200
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "組織",
-			"start": 300
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "會員",
-			"start": 300
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "會務委員會",
-			"start": 600
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "執行機構",
-			"start": 1100
+			"start": 300,
+			"end": 2000,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "會員",
+					"start": 300,
+					"end": 500
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "會務委員會",
+					"start": 600,
+					"end": 1000
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "執行機構",
+					"start": 1100,
+					"end": 2000
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "水利小組",
-			"start": 2100
+			"start": 2100,
+			"end": 3800
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "附則",
-			"start": 3900
+			"start": 3900,
+			"end": 4200
 		}
 	],
 	"articles": [

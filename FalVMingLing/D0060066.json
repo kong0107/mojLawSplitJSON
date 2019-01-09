@@ -21,37 +21,43 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 400
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "經紀業",
-			"start": 500
+			"start": 500,
+			"end": 1200
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "經紀人員",
-			"start": 1300
+			"start": 1300,
+			"end": 1700
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "業務及責任",
-			"start": 1800
+			"start": 1800,
+			"end": 2700
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "獎懲",
-			"start": 2800
+			"start": 2800,
+			"end": 3500
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "附則",
-			"start": 3600
+			"start": 3600,
+			"end": 4000
 		}
 	],
 	"articles": [

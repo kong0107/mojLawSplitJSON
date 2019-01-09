@@ -13,133 +13,161 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 900
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "標誌",
-			"start": 1000
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "通則",
-			"start": 1000
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "警告標誌",
-			"start": 2200
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "禁制標誌",
-			"start": 5600
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "指示標誌",
-			"start": 8700
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "輔助標誌",
-			"start": 13300
+			"start": 1000,
+			"end": 14500,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "通則",
+					"start": 1000,
+					"end": 2100
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "警告標誌",
+					"start": 2200,
+					"end": 5501
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "禁制標誌",
+					"start": 5600,
+					"end": 8600
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "指示標誌",
+					"start": 8700,
+					"end": 13200
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "輔助標誌",
+					"start": 13300,
+					"end": 14500
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "標線",
-			"start": 14600
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "通則",
-			"start": 14600
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "警告標線",
-			"start": 15400
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "禁制標線",
-			"start": 16400
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "指示標線",
-			"start": 18000
+			"start": 14600,
+			"end": 19200,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "通則",
+					"start": 14600,
+					"end": 15300
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "警告標線",
+					"start": 15400,
+					"end": 16300
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "禁制標線",
+					"start": 16400,
+					"end": 17900
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "指示標線",
+					"start": 18000,
+					"end": 19200
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "號誌",
-			"start": 19300
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "通則",
-			"start": 19300
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "號誌組件與設計",
-			"start": 19800
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "各種燈號顯示之意義",
-			"start": 20600
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "燈號之應用",
-			"start": 21200
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "號誌控制方法",
-			"start": 21500
-		},
-		{
-			"type": "節",
-			"number": 600,
-			"title": "號誌之佈設",
-			"start": 22000
-		},
-		{
-			"type": "節",
-			"number": 700,
-			"title": "設置號誌之必要條件",
-			"start": 22600
-		},
-		{
-			"type": "節",
-			"number": 800,
-			"title": "時制設計之基本原則",
-			"start": 23000
+			"start": 19300,
+			"end": 23300,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "通則",
+					"start": 19300,
+					"end": 19700
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "號誌組件與設計",
+					"start": 19800,
+					"end": 20500
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "各種燈號顯示之意義",
+					"start": 20600,
+					"end": 21100
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "燈號之應用",
+					"start": 21200,
+					"end": 21400
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "號誌控制方法",
+					"start": 21500,
+					"end": 21900
+				},
+				{
+					"type": "節",
+					"number": 600,
+					"title": "號誌之佈設",
+					"start": 22000,
+					"end": 22500
+				},
+				{
+					"type": "節",
+					"number": 700,
+					"title": "設置號誌之必要條件",
+					"start": 22600,
+					"end": 22900
+				},
+				{
+					"type": "節",
+					"number": 800,
+					"title": "時制設計之基本原則",
+					"start": 23000,
+					"end": 23300
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "附則",
-			"start": 23400
+			"start": 23400,
+			"end": 23500
 		}
 	],
 	"articles": [

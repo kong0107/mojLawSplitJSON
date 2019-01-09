@@ -14,145 +14,173 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Principles",
-			"start": 100
+			"start": 100,
+			"end": 800
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Special Purpose Trust",
-			"start": 900
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Asset Trust Securitization Plan and Special Purpose Trust",
-			"start": 900
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Issuance and Transfer of Beneficial Securities",
-			"start": 1500
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Beneficiaries' Meeting",
-			"start": 2300
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "Trust Supervisor",
-			"start": 2800
-		},
-		{
-			"type": "section",
-			"number": 500,
-			"title": "Rights and Obligations of the Trustee",
-			"start": 3400
-		},
-		{
-			"type": "section",
-			"number": 600,
-			"title": "Calculations, Taxes, and Relevant Matters of Special Purpose Trust",
-			"start": 3600
-		},
-		{
-			"type": "section",
-			"number": 700,
-			"title": "Alternations and Terminations of the Special Purpose Trust Contract",
-			"start": 4300
+			"start": 900,
+			"end": 5300,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Asset Trust Securitization Plan and Special Purpose Trust",
+					"start": 900,
+					"end": 1400
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Issuance and Transfer of Beneficial Securities",
+					"start": 1500,
+					"end": 2200
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Beneficiaries' Meeting",
+					"start": 2300,
+					"end": 2700
+				},
+				{
+					"type": "section",
+					"number": 400,
+					"title": "Trust Supervisor",
+					"start": 2800,
+					"end": 3300
+				},
+				{
+					"type": "section",
+					"number": 500,
+					"title": "Rights and Obligations of the Trustee",
+					"start": 3400,
+					"end": 3500
+				},
+				{
+					"type": "section",
+					"number": 600,
+					"title": "Calculations, Taxes, and Relevant Matters of Special Purpose Trust",
+					"start": 3600,
+					"end": 4200
+				},
+				{
+					"type": "section",
+					"number": 700,
+					"title": "Alternations and Terminations of the Special Purpose Trust Contract",
+					"start": 4300,
+					"end": 5300
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Special Purpose Company",
-			"start": 5400
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "General Provisions",
-			"start": 5400
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Approval of the Special Purpose Company",
-			"start": 5600
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Rights and Obligations of Shareholders",
-			"start": 5900
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "Organization of the Special Purpose Company",
-			"start": 6200
-		},
-		{
-			"type": "section",
-			"number": 500,
-			"title": "Asset Securitization Plan",
-			"start": 7300
-		},
-		{
-			"type": "section",
-			"number": 600,
-			"title": "Issuance and Transfer of Asset-Backed Securities",
-			"start": 7500
-		},
-		{
-			"type": "section",
-			"number": 700,
-			"title": "Assets Transfer and Management",
-			"start": 8300
-		},
-		{
-			"type": "section",
-			"number": 800,
-			"title": "Business Rules of the Special Purpose Company",
-			"start": 8500
-		},
-		{
-			"type": "section",
-			"number": 900,
-			"title": "Accounting for the Special Purpose Company",
-			"start": 9100
-		},
-		{
-			"type": "section",
-			"number": 1000,
-			"title": "Alternations, Dissolution, and Liquidation of the Special Purpose Company",
-			"start": 9500
+			"start": 5400,
+			"end": 10100,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "General Provisions",
+					"start": 5400,
+					"end": 5500
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Approval of the Special Purpose Company",
+					"start": 5600,
+					"end": 5800
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Rights and Obligations of Shareholders",
+					"start": 5900,
+					"end": 6100
+				},
+				{
+					"type": "section",
+					"number": 400,
+					"title": "Organization of the Special Purpose Company",
+					"start": 6200,
+					"end": 7200
+				},
+				{
+					"type": "section",
+					"number": 500,
+					"title": "Asset Securitization Plan",
+					"start": 7300,
+					"end": 7400
+				},
+				{
+					"type": "section",
+					"number": 600,
+					"title": "Issuance and Transfer of Asset-Backed Securities",
+					"start": 7500,
+					"end": 8200
+				},
+				{
+					"type": "section",
+					"number": 700,
+					"title": "Assets Transfer and Management",
+					"start": 8300,
+					"end": 8400
+				},
+				{
+					"type": "section",
+					"number": 800,
+					"title": "Business Rules of the Special Purpose Company",
+					"start": 8500,
+					"end": 9000
+				},
+				{
+					"type": "section",
+					"number": 900,
+					"title": "Accounting for the Special Purpose Company",
+					"start": 9100,
+					"end": 9400
+				},
+				{
+					"type": "section",
+					"number": 1000,
+					"title": "Alternations, Dissolution, and Liquidation of the Special Purpose Company",
+					"start": 9500,
+					"end": 10100
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Credit Rating and Credit Enhancement",
-			"start": 10200
+			"start": 10200,
+			"end": 10400
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Supervision",
-			"start": 10500
+			"start": 10500,
+			"end": 10700
 		},
 		{
 			"type": "chapter",
 			"number": 600,
 			"title": "Penal Provisions",
-			"start": 10800
+			"start": 10800,
+			"end": 11700
 		},
 		{
 			"type": "chapter",
 			"number": 700,
 			"title": "Supplementary Provisions",
-			"start": 11800
+			"start": 11800,
+			"end": 11900
 		}
 	],
 	"articles": [

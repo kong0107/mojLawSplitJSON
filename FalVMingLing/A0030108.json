@@ -19,19 +19,22 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 500
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "調解程序",
-			"start": 600
+			"start": 600,
+			"end": 2100
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "附則",
-			"start": 2200
+			"start": 2200,
+			"end": 2500
 		}
 	],
 	"articles": [

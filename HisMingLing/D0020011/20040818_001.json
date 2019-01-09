@@ -13,77 +13,87 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 300
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "選舉罷免機關",
-			"start": 400
+			"start": 400,
+			"end": 700
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "選舉及罷免",
-			"start": 800
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "選舉人",
-			"start": 800
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "選舉人名冊",
-			"start": 900
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "候選人",
-			"start": 1300
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "選舉區及選舉公告"
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "選舉及罷免活動"
-		},
-		{
-			"type": "節",
-			"number": 600,
-			"title": "投票及開票"
-		},
-		{
-			"type": "節",
-			"number": 700,
-			"title": "選舉結果"
-		},
-		{
-			"type": "節",
-			"number": 800,
-			"title": "罷免"
-		},
-		{
-			"type": "款",
-			"number": 100,
-			"title": "罷免案之提出"
-		},
-		{
-			"type": "款",
-			"number": 200,
-			"title": "罷免案之成立"
-		},
-		{
-			"type": "款",
-			"number": 300,
-			"title": "罷免投票"
+			"start": 800,
+			"end": 9800,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "選舉人",
+					"start": 800,
+					"end": 800
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "選舉人名冊",
+					"start": 900,
+					"end": 1200
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "候選人",
+					"start": 1300,
+					"end": 9800
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "選舉區及選舉公告"
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "選舉及罷免活動"
+				},
+				{
+					"type": "節",
+					"number": 600,
+					"title": "投票及開票"
+				},
+				{
+					"type": "節",
+					"number": 700,
+					"title": "選舉結果"
+				},
+				{
+					"type": "節",
+					"number": 800,
+					"title": "罷免",
+					"children": [
+						{
+							"type": "款",
+							"number": 100,
+							"title": "罷免案之提出"
+						},
+						{
+							"type": "款",
+							"number": 200,
+							"title": "罷免案之成立"
+						},
+						{
+							"type": "款",
+							"number": 300,
+							"title": "罷免投票"
+						}
+					]
+				}
+			]
 		},
 		{
 			"type": "章",

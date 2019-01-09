@@ -24,31 +24,36 @@
 			"type": "編",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 800
 		},
 		{
 			"type": "編",
 			"number": 200,
 			"title": "地籍",
-			"start": 900
+			"start": 900,
+			"end": 1901
 		},
 		{
 			"type": "編",
 			"number": 300,
 			"title": "土地使用",
-			"start": 2000
+			"start": 2000,
+			"end": 3500
 		},
 		{
 			"type": "編",
 			"number": 400,
 			"title": "土地稅",
-			"start": 3600
+			"start": 3600,
+			"end": 4800
 		},
 		{
 			"type": "編",
 			"number": 500,
 			"title": "土地徵收",
-			"start": 4900
+			"start": 4900,
+			"end": 6100
 		}
 	],
 	"articles": [

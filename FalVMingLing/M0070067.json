@@ -18,31 +18,36 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 200
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "個人資料保護之規劃",
-			"start": 300
+			"start": 300,
+			"end": 700
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "個人資料之管理程序及措施",
-			"start": 800
+			"start": 800,
+			"end": 1200
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "個人資料之安全稽核、紀錄保存及持續改善機制",
-			"start": 1300
+			"start": 1300,
+			"end": 1500
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "附則",
-			"start": 1600
+			"start": 1600,
+			"end": 1600
 		}
 	],
 	"articles": [

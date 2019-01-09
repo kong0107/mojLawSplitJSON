@@ -19,37 +19,43 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 500
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "調查編管與演習",
-			"start": 600
+			"start": 600,
+			"end": 900
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "徵用",
-			"start": 1000
+			"start": 1000,
+			"end": 1900
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "賠 (補) 償、醫療及撫卹",
-			"start": 2000
+			"start": 2000,
+			"end": 2700
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "獎懲",
-			"start": 2800
+			"start": 2800,
+			"end": 2900
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "附則",
-			"start": 3000
+			"start": 3000,
+			"end": 3000
 		}
 	],
 	"articles": [

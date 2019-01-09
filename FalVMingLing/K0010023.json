@@ -25,37 +25,43 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 200
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "職掌",
-			"start": 300
+			"start": 300,
+			"end": 1200
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "分層負責",
-			"start": 1300
+			"start": 1300,
+			"end": 2000
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "會議",
-			"start": 2100
+			"start": 2100,
+			"end": 2300
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "一般事務管理",
-			"start": 2400
+			"start": 2400,
+			"end": 2700
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "附則",
-			"start": 2800
+			"start": 2800,
+			"end": 2800
 		}
 	],
 	"articles": [

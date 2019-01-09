@@ -22,25 +22,29 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Principles",
-			"start": 100
+			"start": 100,
+			"end": 300
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Permits",
-			"start": 400
+			"start": 400,
+			"end": 1600
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Management",
-			"start": 1700
+			"start": 1700,
+			"end": 2700
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Supplementary Provisions",
-			"start": 2800
+			"start": 2800,
+			"end": 3200
 		}
 	],
 	"articles": [

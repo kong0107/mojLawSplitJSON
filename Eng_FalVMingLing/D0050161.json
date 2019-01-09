@@ -14,211 +14,252 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Principles",
-			"start": 100
+			"start": 100,
+			"end": 500
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Home-Base Services",
-			"start": 600
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Home-Base Medical Services",
-			"start": 600
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Home-base Rehabilitation Services",
-			"start": 1000
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Body Care and Housekeeping Services",
-			"start": 1500
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "Visit-Care and Phone-Care Services",
-			"start": 1900
-		},
-		{
-			"type": "section",
-			"number": 500,
-			"title": "Home-Base Food Services",
-			"start": 2200
-		},
-		{
-			"type": "section",
-			"number": 600,
-			"title": "Emergency Care Service",
-			"start": 2600
-		},
-		{
-			"type": "section",
-			"number": 700,
-			"title": "Household Improvement Services",
-			"start": 3100
+			"start": 600,
+			"end": 3300,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Home-Base Medical Services",
+					"start": 600,
+					"end": 900
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Home-base Rehabilitation Services",
+					"start": 1000,
+					"end": 1400
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Body Care and Housekeeping Services",
+					"start": 1500,
+					"end": 1800
+				},
+				{
+					"type": "section",
+					"number": 400,
+					"title": "Visit-Care and Phone-Care Services",
+					"start": 1900,
+					"end": 2100
+				},
+				{
+					"type": "section",
+					"number": 500,
+					"title": "Home-Base Food Services",
+					"start": 2200,
+					"end": 2500
+				},
+				{
+					"type": "section",
+					"number": 600,
+					"title": "Emergency Care Service",
+					"start": 2600,
+					"end": 3000
+				},
+				{
+					"type": "section",
+					"number": 700,
+					"title": "Household Improvement Services",
+					"start": 3100,
+					"end": 3300
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Community-Base Services",
-			"start": 3400
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Health Care Services",
-			"start": 3400
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Community-Base Medical Services",
-			"start": 3800
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Community-Base Rehabilitation Services",
-			"start": 4200
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "Aids Services",
-			"start": 4700
-		},
-		{
-			"type": "section",
-			"number": 500,
-			"title": "Psychological Consultation Services",
-			"start": 5100
-		},
-		{
-			"type": "section",
-			"number": 600,
-			"title": "Community-Base Day-Care Services",
-			"start": 5500
-		},
-		{
-			"type": "section",
-			"number": 700,
-			"title": "Community-Base Food Services",
-			"start": 6000
-		},
-		{
-			"type": "section",
-			"number": 800,
-			"title": "Family Support Services",
-			"start": 6400
-		},
-		{
-			"type": "section",
-			"number": 900,
-			"title": "Education Services",
-			"start": 7000
-		},
-		{
-			"type": "section",
-			"number": 1000,
-			"title": "Legal Services",
-			"start": 7400
-		},
-		{
-			"type": "section",
-			"number": 1100,
-			"title": "Transportation Services",
-			"start": 7700
-		},
-		{
-			"type": "section",
-			"number": 1200,
-			"title": "Retirement Preparation Services",
-			"start": 8200
-		},
-		{
-			"type": "section",
-			"number": 1300,
-			"title": "Recreation Services",
-			"start": 8500
-		},
-		{
-			"type": "section",
-			"number": 1400,
-			"title": "Information Supply and Referral Services",
-			"start": 8800
+			"start": 3400,
+			"end": 9000,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Health Care Services",
+					"start": 3400,
+					"end": 3700
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Community-Base Medical Services",
+					"start": 3800,
+					"end": 4100
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Community-Base Rehabilitation Services",
+					"start": 4200,
+					"end": 4600
+				},
+				{
+					"type": "section",
+					"number": 400,
+					"title": "Aids Services",
+					"start": 4700,
+					"end": 5000
+				},
+				{
+					"type": "section",
+					"number": 500,
+					"title": "Psychological Consultation Services",
+					"start": 5100,
+					"end": 5400
+				},
+				{
+					"type": "section",
+					"number": 600,
+					"title": "Community-Base Day-Care Services",
+					"start": 5500,
+					"end": 5900
+				},
+				{
+					"type": "section",
+					"number": 700,
+					"title": "Community-Base Food Services",
+					"start": 6000,
+					"end": 6300
+				},
+				{
+					"type": "section",
+					"number": 800,
+					"title": "Family Support Services",
+					"start": 6400,
+					"end": 6900
+				},
+				{
+					"type": "section",
+					"number": 900,
+					"title": "Education Services",
+					"start": 7000,
+					"end": 7300
+				},
+				{
+					"type": "section",
+					"number": 1000,
+					"title": "Legal Services",
+					"start": 7400,
+					"end": 7600
+				},
+				{
+					"type": "section",
+					"number": 1100,
+					"title": "Transportation Services",
+					"start": 7700,
+					"end": 8100
+				},
+				{
+					"type": "section",
+					"number": 1200,
+					"title": "Retirement Preparation Services",
+					"start": 8200,
+					"end": 8400
+				},
+				{
+					"type": "section",
+					"number": 1300,
+					"title": "Recreation Services",
+					"start": 8500,
+					"end": 8700
+				},
+				{
+					"type": "section",
+					"number": 1400,
+					"title": "Information Supply and Referral Services",
+					"start": 8800,
+					"end": 9000
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Institution-Base Services",
-			"start": 9100
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Residence Services",
-			"start": 9100
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Institution-Base Medial Services",
-			"start": 9200
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Institution-base Rehabilitation Services",
-			"start": 9600
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "Life Care Services",
-			"start": 9900
-		},
-		{
-			"type": "section",
-			"number": 500,
-			"title": "Food Services",
-			"start": 10200
-		},
-		{
-			"type": "section",
-			"number": 600,
-			"title": "Emergency Care Services",
-			"start": 10500
-		},
-		{
-			"type": "section",
-			"number": 700,
-			"title": "Social Life Services",
-			"start": 10700
-		},
-		{
-			"type": "section",
-			"number": 800,
-			"title": "Education Services for Household Members",
-			"start": 10900
-		},
-		{
-			"type": "section",
-			"number": 900,
-			"title": "Institution-Base Day-Care Services",
-			"start": 11100
+			"start": 9100,
+			"end": 11300,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Residence Services",
+					"start": 9100,
+					"end": 9100
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Institution-Base Medial Services",
+					"start": 9200,
+					"end": 9500
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Institution-base Rehabilitation Services",
+					"start": 9600,
+					"end": 9800
+				},
+				{
+					"type": "section",
+					"number": 400,
+					"title": "Life Care Services",
+					"start": 9900,
+					"end": 10100
+				},
+				{
+					"type": "section",
+					"number": 500,
+					"title": "Food Services",
+					"start": 10200,
+					"end": 10400
+				},
+				{
+					"type": "section",
+					"number": 600,
+					"title": "Emergency Care Services",
+					"start": 10500,
+					"end": 10600
+				},
+				{
+					"type": "section",
+					"number": 700,
+					"title": "Social Life Services",
+					"start": 10700,
+					"end": 10800
+				},
+				{
+					"type": "section",
+					"number": 800,
+					"title": "Education Services for Household Members",
+					"start": 10900,
+					"end": 11000
+				},
+				{
+					"type": "section",
+					"number": 900,
+					"title": "Institution-Base Day-Care Services",
+					"start": 11100,
+					"end": 11300
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Supplementary Provisions",
-			"start": 11400
+			"start": 11400,
+			"end": 11400
 		}
 	],
 	"articles": [

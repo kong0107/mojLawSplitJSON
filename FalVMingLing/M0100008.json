@@ -23,31 +23,36 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 600
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "具會員資格會務委員之遴派",
-			"start": 700
+			"start": 700,
+			"end": 2100
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "機關代表及專家學者會務委員之遴派",
-			"start": 2200
+			"start": 2200,
+			"end": 2400
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "擔任會務委員之消極資格及出缺之補派",
-			"start": 2500
+			"start": 2500,
+			"end": 2900
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "附則",
-			"start": 3000
+			"start": 3000,
+			"end": 3100
 		}
 	],
 	"articles": [

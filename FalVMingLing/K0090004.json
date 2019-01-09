@@ -20,55 +20,64 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 300
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "航空器之入境及出境",
-			"start": 400
+			"start": 400,
+			"end": 900
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "人員之入境及出境",
-			"start": 1000
+			"start": 1000,
+			"end": 1800
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "貨物及其他物品之入境及出境",
-			"start": 1900
+			"start": 1900,
+			"end": 2600
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "過境及轉運",
-			"start": 2700
+			"start": 2700,
+			"end": 2900
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "國際機場設施及交通",
-			"start": 3000
+			"start": 3000,
+			"end": 3500
 		},
 		{
 			"type": "章",
 			"number": 700,
 			"title": "降落國際機場以外之場所",
-			"start": 3600
+			"start": 3600,
+			"end": 3900
 		},
 		{
 			"type": "章",
 			"number": 800,
 			"title": "其他空運便利",
-			"start": 4000
+			"start": 4000,
+			"end": 4400
 		},
 		{
 			"type": "章",
 			"number": 900,
 			"title": "附則",
-			"start": 4500
+			"start": 4500,
+			"end": 4500
 		}
 	],
 	"articles": [

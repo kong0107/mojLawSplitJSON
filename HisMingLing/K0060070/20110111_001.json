@@ -14,55 +14,64 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 300
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "固定通信網路業務號碼可攜服務",
-			"start": 400
+			"start": 400,
+			"end": 1000
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "行動通信網路業務號碼可攜服務",
-			"start": 1100
+			"start": 1100,
+			"end": 1800
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "提供通信服務至受信攜碼用戶",
-			"start": 1900
+			"start": 1900,
+			"end": 2100
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "攜碼用戶移轉作業相關規定",
-			"start": 2200
+			"start": 2200,
+			"end": 2700
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "攜碼用戶資料庫之設置及管理",
-			"start": 2800
+			"start": 2800,
+			"end": 3000
 		},
 		{
 			"type": "章",
 			"number": 700,
 			"title": "集中式資料庫之設置及管理",
-			"start": 3100
+			"start": 3100,
+			"end": 4100
 		},
 		{
 			"type": "章",
 			"number": 800,
 			"title": "費用",
-			"start": 4200
+			"start": 4200,
+			"end": 4600
 		},
 		{
 			"type": "章",
 			"number": 900,
 			"title": "附則",
-			"start": 4700
+			"start": 4700,
+			"end": 5000
 		}
 	],
 	"articles": [

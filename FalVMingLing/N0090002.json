@@ -36,25 +36,29 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 1000
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "私立就業服務機構之許可及變更",
-			"start": 1100
+			"start": 1100,
+			"end": 1900
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "私立就業服務機構之管理",
-			"start": 2000
+			"start": 2000,
+			"end": 4200
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "附則",
-			"start": 4300
+			"start": 4300,
+			"end": 4400
 		}
 	],
 	"articles": [

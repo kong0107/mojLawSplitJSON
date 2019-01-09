@@ -24,43 +24,50 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 500
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "健康食品之許可",
-			"start": 600
+			"start": 600,
+			"end": 900
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "健康食品之安全衛生管理",
-			"start": 1000
+			"start": 1000,
+			"end": 1200
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "健康食品之標示及廣告",
-			"start": 1300
+			"start": 1300,
+			"end": 1500
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "健康食品之稽查及取締",
-			"start": 1600
+			"start": 1600,
+			"end": 2000
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "罰則",
-			"start": 2100
+			"start": 2100,
+			"end": 2900
 		},
 		{
 			"type": "章",
 			"number": 700,
 			"title": "附則",
-			"start": 3000
+			"start": 3000,
+			"end": 3100
 		}
 	],
 	"articles": [

@@ -25,25 +25,29 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 400
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "顧問機構與其顧問人員之資格及條件",
-			"start": 500
+			"start": 500,
+			"end": 1100
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "顧問機構之監督及管理",
-			"start": 1200
+			"start": 1200,
+			"end": 2100
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "附則",
-			"start": 2200
+			"start": 2200,
+			"end": 2200
 		}
 	],
 	"articles": [

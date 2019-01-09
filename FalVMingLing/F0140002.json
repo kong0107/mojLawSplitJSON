@@ -41,85 +41,103 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 600
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "救助服務",
-			"start": 700
+			"start": 700,
+			"end": 900
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "就學補助",
-			"start": 1000
+			"start": 1000,
+			"end": 1100
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "眷村組織管理與眷舍分配管理",
-			"start": 1200
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "一般規定",
-			"start": 1200
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "組織",
-			"start": 1400
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "眷舍分配管理",
-			"start": 1700
-		},
-		{
-			"type": "款",
-			"number": 100,
-			"title": "眷舍分配",
-			"start": 1700
-		},
-		{
-			"type": "款",
-			"number": 200,
-			"title": "補助貸款購宅",
-			"start": 2200
-		},
-		{
-			"type": "款",
-			"number": 300,
-			"title": "眷村管理",
-			"start": 2800
-		},
-		{
-			"type": "款",
-			"number": 400,
-			"title": "眷舍收回",
-			"start": 3100
-		},
-		{
-			"type": "款",
-			"number": 500,
-			"title": "眷村違規處理",
-			"start": 3600
-		},
-		{
-			"type": "款",
-			"number": 600,
-			"title": "眷舍註銷",
-			"start": 3700
+			"start": 1200,
+			"end": 3800,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "一般規定",
+					"start": 1200,
+					"end": 1300
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "組織",
+					"start": 1400,
+					"end": 1600
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "眷舍分配管理",
+					"start": 1700,
+					"end": 3800,
+					"children": [
+						{
+							"type": "款",
+							"number": 100,
+							"title": "眷舍分配",
+							"start": 1700,
+							"end": 2100
+						},
+						{
+							"type": "款",
+							"number": 200,
+							"title": "補助貸款購宅",
+							"start": 2200,
+							"end": 2700
+						},
+						{
+							"type": "款",
+							"number": 300,
+							"title": "眷村管理",
+							"start": 2800,
+							"end": 3000
+						},
+						{
+							"type": "款",
+							"number": 400,
+							"title": "眷舍收回",
+							"start": 3100,
+							"end": 3500
+						},
+						{
+							"type": "款",
+							"number": 500,
+							"title": "眷村違規處理",
+							"start": 3600,
+							"end": 3600
+						},
+						{
+							"type": "款",
+							"number": 600,
+							"title": "眷舍註銷",
+							"start": 3700,
+							"end": 3800
+						}
+					]
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "附則",
-			"start": 3900
+			"start": 3900,
+			"end": 4000
 		}
 	],
 	"articles": [

@@ -13,73 +13,87 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 400
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "商業同業公會",
-			"start": 500
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "設立",
-			"start": 500
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "會員",
-			"start": 800
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "職員",
-			"start": 1700
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "會議",
-			"start": 2300
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "經費",
-			"start": 3100
+			"start": 500,
+			"end": 3200,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "設立",
+					"start": 500,
+					"end": 700
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "會員",
+					"start": 800,
+					"end": 1600
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "職員",
+					"start": 1700,
+					"end": 2200
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "會議",
+					"start": 2300,
+					"end": 3000
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "經費",
+					"start": 3100,
+					"end": 3200
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "商業同業公會聯合會",
-			"start": 3300
+			"start": 3300,
+			"end": 3500
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "輸出業同業公會及聯合會",
-			"start": 3600
+			"start": 3600,
+			"end": 3800
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "商業會",
-			"start": 3900
+			"start": 3900,
+			"end": 4100
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "監督",
-			"start": 4200
+			"start": 4200,
+			"end": 4300
 		},
 		{
 			"type": "章",
 			"number": 700,
 			"title": "附則",
-			"start": 4400
+			"start": 4400,
+			"end": 4700
 		}
 	],
 	"articles": [

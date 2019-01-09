@@ -18,25 +18,29 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 1500
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "懲戒程序",
-			"start": 1600
+			"start": 1600,
+			"end": 4100
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "再審程序",
-			"start": 4200
+			"start": 4200,
+			"end": 4800
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "附則",
-			"start": 4900
+			"start": 4900,
+			"end": 5000
 		}
 	],
 	"articles": [

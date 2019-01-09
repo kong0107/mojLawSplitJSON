@@ -13,139 +13,168 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 1300
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "登記書表簿狀圖冊",
-			"start": 1400
+			"start": 1400,
+			"end": 2500
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "登記之申請及處理",
-			"start": 2600
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "登記之申請",
-			"start": 2600
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "申請登記之文件",
-			"start": 3400
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "登記規費及罰鍰",
-			"start": 4500
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "登記處理程序",
-			"start": 5300
+			"start": 2600,
+			"end": 7000,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "登記之申請",
+					"start": 2600,
+					"end": 3300
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "申請登記之文件",
+					"start": 3400,
+					"end": 4400
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "登記規費及罰鍰",
+					"start": 4500,
+					"end": 5200
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "登記處理程序",
+					"start": 5300,
+					"end": 7000
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "總登記",
-			"start": 7100
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "土地總登記",
-			"start": 7100
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "建物所有權第一次登記",
-			"start": 7800
+			"start": 7100,
+			"end": 8400,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "土地總登記",
+					"start": 7100,
+					"end": 7700
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "建物所有權第一次登記",
+					"start": 7800,
+					"end": 8400
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "標示變更登記",
-			"start": 8500
+			"start": 8500,
+			"end": 9200
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "所有權變更登記",
-			"start": 9300
+			"start": 9300,
+			"end": 10700
 		},
 		{
 			"type": "章",
 			"number": 700,
 			"title": "他項權利登記",
-			"start": 10800
+			"start": 10800,
+			"end": 11800
 		},
 		{
 			"type": "章",
 			"number": 800,
 			"title": "繼承登記",
-			"start": 11900
+			"start": 11900,
+			"end": 12300
 		},
 		{
 			"type": "章",
 			"number": 900,
 			"title": "土地權利信託登記",
-			"start": 12400
+			"start": 12400,
+			"end": 13301
 		},
 		{
 			"type": "章",
 			"number": 1000,
 			"title": "更正登記及限制登記",
-			"start": 13400
+			"start": 13400,
+			"end": 14200
 		},
 		{
 			"type": "章",
 			"number": 1100,
 			"title": "塗銷登記及消滅登記",
-			"start": 14300
+			"start": 14300,
+			"end": 14800
 		},
 		{
 			"type": "章",
 			"number": 1200,
 			"title": "其他登記",
-			"start": 14900
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "更名登記及管理者變更登記",
-			"start": 14900
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "住址變更登記",
-			"start": 15200
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "書狀換給及補給登記",
-			"start": 15400
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "使用管理登記",
-			"start": 15501
+			"start": 14900,
+			"end": 15503,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "更名登記及管理者變更登記",
+					"start": 14900,
+					"end": 15100
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "住址變更登記",
+					"start": 15200,
+					"end": 15300
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "書狀換給及補給登記",
+					"start": 15400,
+					"end": 15500
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "使用管理登記",
+					"start": 15501,
+					"end": 15503
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 1300,
 			"title": "附則",
-			"start": 15600
+			"start": 15600,
+			"end": 15700
 		}
 	],
 	"articles": [

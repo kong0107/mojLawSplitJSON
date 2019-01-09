@@ -19,133 +19,159 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Provisions",
-			"start": 100
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Rules of Application",
-			"start": 100
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Jurisdiction",
-			"start": 1100
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Parties",
-			"start": 2000
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "Recusal",
-			"start": 3200
-		},
-		{
-			"type": "section",
-			"number": 500,
-			"title": "Commencement of Procedure",
-			"start": 3400
-		},
-		{
-			"type": "section",
-			"number": 600,
-			"title": "Inquisition Into Facts and Evidence",
-			"start": 3600
-		},
-		{
-			"type": "section",
-			"number": 700,
-			"title": "Making Information Public",
-			"start": 4400
-		},
-		{
-			"type": "section",
-			"number": 800,
-			"title": "Dates and Periods",
-			"start": 4800
-		},
-		{
-			"type": "section",
-			"number": 900,
-			"title": "Cost and Expenses",
-			"start": 5200
-		},
-		{
-			"type": "section",
-			"number": 1000,
-			"title": "Hearing Proceeding",
-			"start": 5400
-		},
-		{
-			"type": "section",
-			"number": 1100,
-			"title": "Service of Process",
-			"start": 6700
+			"start": 100,
+			"end": 9100,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Rules of Application",
+					"start": 100,
+					"end": 1000
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Jurisdiction",
+					"start": 1100,
+					"end": 1900
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Parties",
+					"start": 2000,
+					"end": 3100
+				},
+				{
+					"type": "section",
+					"number": 400,
+					"title": "Recusal",
+					"start": 3200,
+					"end": 3300
+				},
+				{
+					"type": "section",
+					"number": 500,
+					"title": "Commencement of Procedure",
+					"start": 3400,
+					"end": 3500
+				},
+				{
+					"type": "section",
+					"number": 600,
+					"title": "Inquisition Into Facts and Evidence",
+					"start": 3600,
+					"end": 4300
+				},
+				{
+					"type": "section",
+					"number": 700,
+					"title": "Making Information Public",
+					"start": 4400,
+					"end": 4700
+				},
+				{
+					"type": "section",
+					"number": 800,
+					"title": "Dates and Periods",
+					"start": 4800,
+					"end": 5100
+				},
+				{
+					"type": "section",
+					"number": 900,
+					"title": "Cost and Expenses",
+					"start": 5200,
+					"end": 5300
+				},
+				{
+					"type": "section",
+					"number": 1000,
+					"title": "Hearing Proceeding",
+					"start": 5400,
+					"end": 6600
+				},
+				{
+					"type": "section",
+					"number": 1100,
+					"title": "Service of Process",
+					"start": 6700,
+					"end": 9100
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Administrative Disposition",
-			"start": 9200
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Formation of Administrative Dispositions",
-			"start": 9200
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Statement of Opinions; Hearing",
-			"start": 10200
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "The Effect of Administrative Disposition",
-			"start": 11000
+			"start": 9200,
+			"end": 13400,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Formation of Administrative Dispositions",
+					"start": 9200,
+					"end": 10100
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Statement of Opinions; Hearing",
+					"start": 10200,
+					"end": 10900
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "The Effect of Administrative Disposition",
+					"start": 11000,
+					"end": 13400
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Administrative Contracts",
-			"start": 13500
+			"start": 13500,
+			"end": 14900
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Legal Orders and Administrative Rules",
-			"start": 15000
+			"start": 15000,
+			"end": 16200
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Administrative Planning",
-			"start": 16300
+			"start": 16300,
+			"end": 16400
 		},
 		{
 			"type": "chapter",
 			"number": 600,
 			"title": "Administrative guidance",
-			"start": 16500
+			"start": 16500,
+			"end": 16700
 		},
 		{
 			"type": "chapter",
 			"number": 700,
 			"title": "Petition",
-			"start": 16800
+			"start": 16800,
+			"end": 17300
 		},
 		{
 			"type": "chapter",
 			"number": 800,
 			"title": "Supplementary Provisions",
-			"start": 17400
+			"start": 17400,
+			"end": 17500
 		}
 	],
 	"articles": [

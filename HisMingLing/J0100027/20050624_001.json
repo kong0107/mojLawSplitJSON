@@ -13,19 +13,22 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 400
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "商品驗證業務委託",
-			"start": 500
+			"start": 500,
+			"end": 2400
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "商品檢驗之取樣封存查核業務委託",
-			"start": 2500
+			"start": 2500,
+			"end": 2500
 		}
 	],
 	"articles": [

@@ -24,325 +24,395 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 200
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "編制",
-			"start": 300
+			"start": 300,
+			"end": 500
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "任免",
-			"start": 600
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "遴用",
-			"start": 600
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "銓審",
-			"start": 1300
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "調職",
-			"start": 1500
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "升遷",
-			"start": 2200
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "主管職位保薦",
-			"start": 2900
-		},
-		{
-			"type": "節",
-			"number": 600,
-			"title": "停職、復職、免職",
-			"start": 3400
-		},
-		{
-			"type": "節",
-			"number": 700,
-			"title": "到離職",
-			"start": 3700
-		},
-		{
-			"type": "節",
-			"number": 800,
-			"title": "本會一級主管暨各機構正副首長職期",
-			"start": 4200
-		},
-		{
-			"type": "節",
-			"number": 900,
-			"title": "人事主管職期輪調",
-			"start": 4500
-		},
-		{
-			"type": "節",
-			"number": 1000,
-			"title": "經管財物人員職期輪調",
-			"start": 4800
-		},
-		{
-			"type": "節",
-			"number": 1100,
-			"title": "外職停役檢覈",
-			"start": 5300
+			"start": 600,
+			"end": 5500,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "遴用",
+					"start": 600,
+					"end": 1200
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "銓審",
+					"start": 1300,
+					"end": 1400
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "調職",
+					"start": 1500,
+					"end": 2100
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "升遷",
+					"start": 2200,
+					"end": 2800
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "主管職位保薦",
+					"start": 2900,
+					"end": 3300
+				},
+				{
+					"type": "節",
+					"number": 600,
+					"title": "停職、復職、免職",
+					"start": 3400,
+					"end": 3600
+				},
+				{
+					"type": "節",
+					"number": 700,
+					"title": "到離職",
+					"start": 3700,
+					"end": 4100
+				},
+				{
+					"type": "節",
+					"number": 800,
+					"title": "本會一級主管暨各機構正副首長職期",
+					"start": 4200,
+					"end": 4400
+				},
+				{
+					"type": "節",
+					"number": 900,
+					"title": "人事主管職期輪調",
+					"start": 4500,
+					"end": 4700
+				},
+				{
+					"type": "節",
+					"number": 1000,
+					"title": "經管財物人員職期輪調",
+					"start": 4800,
+					"end": 5200
+				},
+				{
+					"type": "節",
+					"number": 1100,
+					"title": "外職停役檢覈",
+					"start": 5300,
+					"end": 5500
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "薪給",
-			"start": 5600
+			"start": 5600,
+			"end": 6000
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "考核",
-			"start": 6100
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "平時考核",
-			"start": 6100
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "實習考核",
-			"start": 7100
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "年終考績",
-			"start": 7800
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "優良人員選拔",
-			"start": 7900
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "培育人才",
-			"start": 8900
-		},
-		{
-			"type": "節",
-			"number": 600,
-			"title": "人事人員在職訓練",
-			"start": 9400
-		},
-		{
-			"type": "節",
-			"number": 700,
-			"title": "差勤",
-			"start": 9700
-		},
-		{
-			"type": "款",
-			"number": 100,
-			"title": "公差",
-			"start": 9700
-		},
-		{
-			"type": "款",
-			"number": 200,
-			"title": "請假",
-			"start": 10200
-		},
-		{
-			"type": "款",
-			"number": 300,
-			"title": "值勤",
-			"start": 10900
+			"start": 6100,
+			"end": 11800,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "平時考核",
+					"start": 6100,
+					"end": 7000
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "實習考核",
+					"start": 7100,
+					"end": 7700
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "年終考績",
+					"start": 7800,
+					"end": 7800
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "優良人員選拔",
+					"start": 7900,
+					"end": 8800
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "培育人才",
+					"start": 8900,
+					"end": 9300
+				},
+				{
+					"type": "節",
+					"number": 600,
+					"title": "人事人員在職訓練",
+					"start": 9400,
+					"end": 9600
+				},
+				{
+					"type": "節",
+					"number": 700,
+					"title": "差勤",
+					"start": 9700,
+					"end": 11800,
+					"children": [
+						{
+							"type": "款",
+							"number": 100,
+							"title": "公差",
+							"start": 9700,
+							"end": 10100
+						},
+						{
+							"type": "款",
+							"number": 200,
+							"title": "請假",
+							"start": 10200,
+							"end": 10800
+						},
+						{
+							"type": "款",
+							"number": 300,
+							"title": "值勤",
+							"start": 10900,
+							"end": 11800
+						}
+					]
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "獎懲",
-			"start": 11900
+			"start": 11900,
+			"end": 13400
 		},
 		{
 			"type": "章",
 			"number": 700,
 			"title": "保險、福利互助、退休 (職) 、資遣、待",
-			"start": 13500
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "保險",
-			"start": 13500
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "福利互助",
-			"start": 13700
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "退休 (職)",
-			"start": 13800
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "延長服務、資遣及待命進修",
-			"start": 14000
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "撫卹",
-			"start": 14100
-		},
-		{
-			"type": "節",
-			"number": 600,
-			"title": "退休職員聯繫照護",
-			"start": 14200
+			"start": 13500,
+			"end": 14500,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "保險",
+					"start": 13500,
+					"end": 13600
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "福利互助",
+					"start": 13700,
+					"end": 13700
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "退休 (職)",
+					"start": 13800,
+					"end": 13900
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "延長服務、資遣及待命進修",
+					"start": 14000,
+					"end": 14000
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "撫卹",
+					"start": 14100,
+					"end": 14100
+				},
+				{
+					"type": "節",
+					"number": 600,
+					"title": "退休職員聯繫照護",
+					"start": 14200,
+					"end": 14500
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 800,
 			"title": "實物配給",
-			"start": 14600
+			"start": 14600,
+			"end": 14800
 		},
 		{
 			"type": "章",
 			"number": 900,
 			"title": "各項補助",
-			"start": 14900
+			"start": 14900,
+			"end": 15000
 		},
 		{
 			"type": "章",
 			"number": 1000,
 			"title": "資料管理",
-			"start": 15100
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "登記",
-			"start": 15100
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "資料",
-			"start": 15400
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "保證書",
-			"start": 16000
+			"start": 15100,
+			"end": 16000,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "登記",
+					"start": 15100,
+					"end": 15300
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "資料",
+					"start": 15400,
+					"end": 15900
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "保證書",
+					"start": 16000,
+					"end": 16000
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 1100,
 			"title": "印信",
-			"start": 16100
+			"start": 16100,
+			"end": 16400
 		},
 		{
 			"type": "章",
 			"number": 1200,
 			"title": "識別證",
-			"start": 16500
+			"start": 16500,
+			"end": 17000
 		},
 		{
 			"type": "章",
 			"number": 1300,
 			"title": "獎章、紀念品",
-			"start": 17100
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "獎章",
-			"start": 17100
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "紀念品",
-			"start": 17200
+			"start": 17100,
+			"end": 17200,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "獎章",
+					"start": 17100,
+					"end": 17100
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "紀念品",
+					"start": 17200,
+					"end": 17200
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 1400,
 			"title": "出國",
-			"start": 17300
+			"start": 17300,
+			"end": 17700
 		},
 		{
 			"type": "章",
 			"number": 1500,
 			"title": "首長職務交代",
-			"start": 17800
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "交代",
-			"start": 17800
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "監交",
-			"start": 18500
+			"start": 17800,
+			"end": 19500,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "交代",
+					"start": 17800,
+					"end": 18400
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "監交",
+					"start": 18500,
+					"end": 19500
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 1600,
 			"title": "新任首長業務瞭解",
-			"start": 19600
+			"start": 19600,
+			"end": 19900
 		},
 		{
 			"type": "章",
 			"number": 1700,
 			"title": "人事權責",
-			"start": 20000
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "職權",
-			"start": 20000
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "責任",
-			"start": 20500
+			"start": 20000,
+			"end": 20700,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "職權",
+					"start": 20000,
+					"end": 20400
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "責任",
+					"start": 20500,
+					"end": 20700
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 1800,
 			"title": "附則",
-			"start": 20800
+			"start": 20800,
+			"end": 20900
 		}
 	],
 	"articles": [

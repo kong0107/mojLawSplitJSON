@@ -21,67 +21,80 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 300
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "消費者權益",
-			"start": 400
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "健康與安全保障",
-			"start": 400
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "定型化契約",
-			"start": 900
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "特種交易",
-			"start": 1600
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "消費資訊之規範",
-			"start": 2300
+			"start": 400,
+			"end": 2600,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "健康與安全保障",
+					"start": 400,
+					"end": 800
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "定型化契約",
+					"start": 900,
+					"end": 1500
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "特種交易",
+					"start": 1600,
+					"end": 2200
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "消費資訊之規範",
+					"start": 2300,
+					"end": 2600
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "消費者保護團體",
-			"start": 2700
+			"start": 2700,
+			"end": 2900
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "行政監督",
-			"start": 3000
+			"start": 3000,
+			"end": 3400
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "消費爭議之處理",
-			"start": 3500
+			"start": 3500,
+			"end": 4000
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "罰則",
-			"start": 4100
+			"start": 4100,
+			"end": 4100
 		},
 		{
 			"type": "章",
 			"number": 700,
 			"title": "附則",
-			"start": 4200
+			"start": 4200,
+			"end": 4300
 		}
 	],
 	"articles": [

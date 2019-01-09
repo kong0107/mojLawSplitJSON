@@ -21,49 +21,59 @@
 			"type": "章",
 			"number": 100,
 			"title": "通則",
-			"start": 100
+			"start": 100,
+			"end": 1000
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "委員長",
-			"start": 1100
+			"start": 1100,
+			"end": 1500
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "審判長、委員",
-			"start": 1600
+			"start": 1600,
+			"end": 2700
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "書記廳",
-			"start": 2800
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "職掌",
-			"start": 2800
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "文書處理程序",
-			"start": 4100
+			"start": 2800,
+			"end": 6300,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "職掌",
+					"start": 2800,
+					"end": 4000
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "文書處理程序",
+					"start": 4100,
+					"end": 6300
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "人事室、會計室、統計室、資訊室",
-			"start": 6400
+			"start": 6400,
+			"end": 7300
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "附則",
-			"start": 7400
+			"start": 7400,
+			"end": 7900
 		}
 	],
 	"articles": [

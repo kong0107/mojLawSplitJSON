@@ -15,331 +15,406 @@
 			"type": "part",
 			"number": 100,
 			"title": "GENERAL PRINCIPLES",
-			"start": 100
-		},
-		{
-			"type": "chapter",
-			"number": 100,
-			"title": "THE COURT",
-			"start": 100
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Jurisdiction",
-			"start": 100
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Disqualification of Officers of the Court",
-			"start": 3200
-		},
-		{
-			"type": "chapter",
-			"number": 200,
-			"title": "PARTIES",
-			"start": 4000
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Capacity to be Parties and Capacity to Litigate",
-			"start": 4000
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Joinder of Parties",
-			"start": 5300
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Intervention",
-			"start": 5800
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "Advocates and Assistants",
-			"start": 6800
-		},
-		{
-			"type": "chapter",
-			"number": 300,
-			"title": "VALUE OF CLAIM & LITIGATION EXPENSES",
-			"start": 7701
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Determination of the Value of Claim",
-			"start": 7701
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Accounting & Taxation of Litigation Expenses",
-			"start": 7713
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Bearing of Litigation Expenses",
-			"start": 7800
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "Security for Litigation Expenses",
-			"start": 9600
-		},
-		{
-			"type": "section",
-			"number": 500,
-			"title": "Litigation Aid",
-			"start": 10700
-		},
-		{
-			"type": "chapter",
-			"number": 400,
-			"title": "LITIGATION PROCEEDINGS",
-			"start": 11600
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Pleadings",
-			"start": 11600
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Service of Process",
-			"start": 12300
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Date & Period",
-			"start": 15400
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "Stay of Litigation Proceedings",
-			"start": 16800
-		},
-		{
-			"type": "section",
-			"number": 500,
-			"title": "Oral Argument",
-			"start": 19200
-		},
-		{
-			"type": "section",
-			"number": 600,
-			"title": "Decision",
-			"start": 22000
-		},
-		{
-			"type": "section",
-			"number": 601,
-			"title": "Court Administrator Proceeding",
-			"start": 24001
-		},
-		{
-			"type": "section",
-			"number": 700,
-			"title": "Court Dossiers",
-			"start": 24100
+			"start": 100,
+			"end": 24300,
+			"children": [
+				{
+					"type": "chapter",
+					"number": 100,
+					"title": "THE COURT",
+					"start": 100,
+					"end": 3900,
+					"children": [
+						{
+							"type": "section",
+							"number": 100,
+							"title": "Jurisdiction",
+							"start": 100,
+							"end": 3103
+						},
+						{
+							"type": "section",
+							"number": 200,
+							"title": "Disqualification of Officers of the Court",
+							"start": 3200,
+							"end": 3900
+						}
+					]
+				},
+				{
+					"type": "chapter",
+					"number": 200,
+					"title": "PARTIES",
+					"start": 4000,
+					"end": 7700,
+					"children": [
+						{
+							"type": "section",
+							"number": 100,
+							"title": "Capacity to be Parties and Capacity to Litigate",
+							"start": 4000,
+							"end": 5200
+						},
+						{
+							"type": "section",
+							"number": 200,
+							"title": "Joinder of Parties",
+							"start": 5300,
+							"end": 5700
+						},
+						{
+							"type": "section",
+							"number": 300,
+							"title": "Intervention",
+							"start": 5800,
+							"end": 6701
+						},
+						{
+							"type": "section",
+							"number": 400,
+							"title": "Advocates and Assistants",
+							"start": 6800,
+							"end": 7700
+						}
+					]
+				},
+				{
+					"type": "chapter",
+					"number": 300,
+					"title": "VALUE OF CLAIM & LITIGATION EXPENSES",
+					"start": 7701,
+					"end": 11500,
+					"children": [
+						{
+							"type": "section",
+							"number": 100,
+							"title": "Determination of the Value of Claim",
+							"start": 7701,
+							"end": 7712
+						},
+						{
+							"type": "section",
+							"number": 200,
+							"title": "Accounting & Taxation of Litigation Expenses",
+							"start": 7713,
+							"end": 7727
+						},
+						{
+							"type": "section",
+							"number": 300,
+							"title": "Bearing of Litigation Expenses",
+							"start": 7800,
+							"end": 9501
+						},
+						{
+							"type": "section",
+							"number": 400,
+							"title": "Security for Litigation Expenses",
+							"start": 9600,
+							"end": 10600
+						},
+						{
+							"type": "section",
+							"number": 500,
+							"title": "Litigation Aid",
+							"start": 10700,
+							"end": 11500
+						}
+					]
+				},
+				{
+					"type": "chapter",
+					"number": 400,
+					"title": "LITIGATION PROCEEDINGS",
+					"start": 11600,
+					"end": 24300,
+					"children": [
+						{
+							"type": "section",
+							"number": 100,
+							"title": "Pleadings",
+							"start": 11600,
+							"end": 12200
+						},
+						{
+							"type": "section",
+							"number": 200,
+							"title": "Service of Process",
+							"start": 12300,
+							"end": 15301
+						},
+						{
+							"type": "section",
+							"number": 300,
+							"title": "Date & Period",
+							"start": 15400,
+							"end": 16700
+						},
+						{
+							"type": "section",
+							"number": 400,
+							"title": "Stay of Litigation Proceedings",
+							"start": 16800,
+							"end": 19100
+						},
+						{
+							"type": "section",
+							"number": 500,
+							"title": "Oral Argument",
+							"start": 19200,
+							"end": 21900
+						},
+						{
+							"type": "section",
+							"number": 600,
+							"title": "Decision",
+							"start": 22000,
+							"end": 24000
+						},
+						{
+							"type": "section",
+							"number": 601,
+							"title": "Court Administrator Proceeding",
+							"start": 24001,
+							"end": 24004
+						},
+						{
+							"type": "section",
+							"number": 700,
+							"title": "Court Dossiers",
+							"start": 24100,
+							"end": 24300
+						}
+					]
+				}
+			]
 		},
 		{
 			"type": "part",
 			"number": 200,
 			"title": "PROCEDURE IN THE FIRST INSTANCE",
-			"start": 24400
-		},
-		{
-			"type": "chapter",
-			"number": 100,
-			"title": "ORDINARY PROCEEDING",
-			"start": 24400
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Initiation of An Action",
-			"start": 24400
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Preparation for Oral Argument",
-			"start": 26500
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Evidence",
-			"start": 27700
-		},
-		{
-			"type": "item",
-			"number": 100,
-			"title": "General Provisions",
-			"start": 27700
-		},
-		{
-			"type": "item",
-			"number": 200,
-			"title": "Examination of Witnesses",
-			"start": 29800
-		},
-		{
-			"type": "item",
-			"number": 300,
-			"title": "Expert Testimony",
-			"start": 32400
-		},
-		{
-			"type": "item",
-			"number": 400,
-			"title": "Documentary Evidence",
-			"start": 34100
-		},
-		{
-			"type": "item",
-			"number": 500,
-			"title": "Inspection",
-			"start": 36400
-		},
-		{
-			"type": "item",
-			"number": 501,
-			"title": "Examination of Parties",
-			"start": 36701
-		},
-		{
-			"type": "item",
-			"number": 600,
-			"title": "Preservation of evidence",
-			"start": 36800
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "Settlement",
-			"start": 37700
-		},
-		{
-			"type": "section",
-			"number": 500,
-			"title": "Judgments",
-			"start": 38100
-		},
-		{
-			"type": "chapter",
-			"number": 200,
-			"title": "MEDIATION PROCEEDING",
-			"start": 40300
-		},
-		{
-			"type": "chapter",
-			"number": 300,
-			"title": "SUMMARY PROCEEDING",
-			"start": 42700
-		},
-		{
-			"type": "chapter",
-			"number": 400,
-			"title": "SMALL-CLAIM PROCEEDING",
-			"start": 43608
+			"start": 24400,
+			"end": 43632,
+			"children": [
+				{
+					"type": "chapter",
+					"number": 100,
+					"title": "ORDINARY PROCEEDING",
+					"start": 24400,
+					"end": 40200,
+					"children": [
+						{
+							"type": "section",
+							"number": 100,
+							"title": "Initiation of An Action",
+							"start": 24400,
+							"end": 26400
+						},
+						{
+							"type": "section",
+							"number": 200,
+							"title": "Preparation for Oral Argument",
+							"start": 26500,
+							"end": 27600
+						},
+						{
+							"type": "section",
+							"number": 300,
+							"title": "Evidence",
+							"start": 27700,
+							"end": 37602,
+							"children": [
+								{
+									"type": "item",
+									"number": 100,
+									"title": "General Provisions",
+									"start": 27700,
+									"end": 29700
+								},
+								{
+									"type": "item",
+									"number": 200,
+									"title": "Examination of Witnesses",
+									"start": 29800,
+									"end": 32300
+								},
+								{
+									"type": "item",
+									"number": 300,
+									"title": "Expert Testimony",
+									"start": 32400,
+									"end": 34000
+								},
+								{
+									"type": "item",
+									"number": 400,
+									"title": "Documentary Evidence",
+									"start": 34100,
+									"end": 36300
+								},
+								{
+									"type": "item",
+									"number": 500,
+									"title": "Inspection",
+									"start": 36400,
+									"end": 36700
+								},
+								{
+									"type": "item",
+									"number": 501,
+									"title": "Examination of Parties",
+									"start": 36701,
+									"end": 36703
+								},
+								{
+									"type": "item",
+									"number": 600,
+									"title": "Preservation of evidence",
+									"start": 36800,
+									"end": 37602
+								}
+							]
+						},
+						{
+							"type": "section",
+							"number": 400,
+							"title": "Settlement",
+							"start": 37700,
+							"end": 38001
+						},
+						{
+							"type": "section",
+							"number": 500,
+							"title": "Judgments",
+							"start": 38100,
+							"end": 40200
+						}
+					]
+				},
+				{
+					"type": "chapter",
+					"number": 200,
+					"title": "MEDIATION PROCEEDING",
+					"start": 40300,
+					"end": 42600
+				},
+				{
+					"type": "chapter",
+					"number": 300,
+					"title": "SUMMARY PROCEEDING",
+					"start": 42700,
+					"end": 43607
+				},
+				{
+					"type": "chapter",
+					"number": 400,
+					"title": "SMALL-CLAIM PROCEEDING",
+					"start": 43608,
+					"end": 43632
+				}
+			]
 		},
 		{
 			"type": "part",
 			"number": 300,
 			"title": "APPELLATE PROCEDURE",
-			"start": 43700
-		},
-		{
-			"type": "chapter",
-			"number": 100,
-			"title": "PROCEDURE IN THE SECOND INSTANCE",
-			"start": 43700
-		},
-		{
-			"type": "chapter",
-			"number": 200,
-			"title": "PROCEDURE IN THE THIRD INSTANCE",
-			"start": 46400
+			"start": 43700,
+			"end": 48100,
+			"children": [
+				{
+					"type": "chapter",
+					"number": 100,
+					"title": "PROCEDURE IN THE SECOND INSTANCE",
+					"start": 43700,
+					"end": 46300
+				},
+				{
+					"type": "chapter",
+					"number": 200,
+					"title": "PROCEDURE IN THE THIRD INSTANCE",
+					"start": 46400,
+					"end": 48100
+				}
+			]
 		},
 		{
 			"type": "part",
 			"number": 400,
 			"title": "APPEALS FROM RULINGS",
-			"start": 48200
+			"start": 48200,
+			"end": 49501
 		},
 		{
 			"type": "part",
 			"number": 500,
 			"title": "REHEARING  PROCEEDING",
-			"start": 49600
+			"start": 49600,
+			"end": 50700
 		},
 		{
 			"type": "part",
 			"number": 501,
 			"title": "THIRD-PARTY OPPOSITION PROCEEDING",
-			"start": 50701
+			"start": 50701,
+			"end": 50705
 		},
 		{
 			"type": "part",
 			"number": 600,
 			"title": "DEMAND PROCEEDING",
-			"start": 50800
+			"start": 50800,
+			"end": 52100
 		},
 		{
 			"type": "part",
 			"number": 700,
 			"title": "PROVISIONAL REMEDIES PROCEEDING",
-			"start": 52200
+			"start": 52200,
+			"end": 53804
 		},
 		{
 			"type": "part",
 			"number": 800,
 			"title": "PUBLIC SUMMONS PROCEEDING",
-			"start": 53900
+			"start": 53900,
+			"end": 56700
 		},
 		{
 			"type": "part",
 			"number": 900,
 			"title": "ACTIONS CONCERNING PERSONAL AFFAIRS  (Repealed.)",
-			"start": 56800
-		},
-		{
-			"type": "chapter",
-			"number": 100,
-			"title": "ACTIONS CONCERNING MARRIAGE  (Repealed.)",
-			"start": 56800
-		},
-		{
-			"type": "chapter",
-			"number": 200,
-			"title": "ACTIONS CONCERNING PARENT-CHILD RELATIONSHIP  (Repealed.)",
-			"start": 58300
-		},
-		{
-			"type": "chapter",
-			"number": 300,
-			"title": "INTERDICTION  PROCEEDING (Repealed.)",
-			"start": 59700
-		},
-		{
-			"type": "chapter",
-			"number": 400,
-			"title": "DECLARATION OF DEATH (Repealed.)",
-			"start": 62500
+			"start": 56800,
+			"end": 64000,
+			"children": [
+				{
+					"type": "chapter",
+					"number": 100,
+					"title": "ACTIONS CONCERNING MARRIAGE  (Repealed.)",
+					"start": 56800,
+					"end": 58201
+				},
+				{
+					"type": "chapter",
+					"number": 200,
+					"title": "ACTIONS CONCERNING PARENT-CHILD RELATIONSHIP  (Repealed.)",
+					"start": 58300,
+					"end": 59600
+				},
+				{
+					"type": "chapter",
+					"number": 300,
+					"title": "INTERDICTION  PROCEEDING (Repealed.)",
+					"start": 59700,
+					"end": 62408
+				},
+				{
+					"type": "chapter",
+					"number": 400,
+					"title": "DECLARATION OF DEATH (Repealed.)",
+					"start": 62500,
+					"end": 64000
+				}
+			]
 		}
 	],
 	"articles": [

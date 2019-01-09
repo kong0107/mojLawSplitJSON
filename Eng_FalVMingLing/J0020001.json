@@ -29,67 +29,80 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General",
-			"start": 100
+			"start": 100,
+			"end": 700
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Mineral Right",
-			"start": 800
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Nature and Validity of Mineral Right",
-			"start": 800
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Establishment and Renewal of Mineral Right",
-			"start": 1500
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Change, Transfer and Extinction of Mineral Right",
-			"start": 3400
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "Mortgage of Mineral Right",
-			"start": 4100
+			"start": 800,
+			"end": 4200,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Nature and Validity of Mineral Right",
+					"start": 800,
+					"end": 1400
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Establishment and Renewal of Mineral Right",
+					"start": 1500,
+					"end": 3300
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Change, Transfer and Extinction of Mineral Right",
+					"start": 3400,
+					"end": 4000
+				},
+				{
+					"type": "section",
+					"number": 400,
+					"title": "Mortgage of Mineral Right",
+					"start": 4100,
+					"end": 4200
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Mining Land",
-			"start": 4300
+			"start": 4300,
+			"end": 5200
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Mineral Right Fee and Mineral Royalty",
-			"start": 5300
+			"start": 5300,
+			"end": 5600
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Supervision and Promotion of Mining",
-			"start": 5700
+			"start": 5700,
+			"end": 6800
 		},
 		{
 			"type": "chapter",
 			"number": 600,
 			"title": "Penalties",
-			"start": 6900
+			"start": 6900,
+			"end": 7400
 		},
 		{
 			"type": "chapter",
 			"number": 700,
 			"title": "Appendix",
-			"start": 7401
+			"start": 7401,
+			"end": 8000
 		}
 	],
 	"articles": [

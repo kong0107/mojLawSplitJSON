@@ -13,49 +13,59 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Provisions",
-			"start": 100
+			"start": 100,
+			"end": 400
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Organization of the Juvenile Court",
-			"start": 500
+			"start": 500,
+			"end": 1300
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Juvenile Delinquent Protection",
-			"start": 1400
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Investigation and Trial",
-			"start": 1400
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Execution of Protective Measures",
-			"start": 5000
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Interlocutory Appeal and Trial de Novo",
-			"start": 6100
+			"start": 1400,
+			"end": 6402,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Investigation and Trial",
+					"start": 1400,
+					"end": 4900
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Execution of Protective Measures",
+					"start": 5000,
+					"end": 6000
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Interlocutory Appeal and Trial de Novo",
+					"start": 6100,
+					"end": 6402
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Juvenile Criminal Cases",
-			"start": 6500
+			"start": 6500,
+			"end": 8200
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Supplementary Provisions",
-			"start": 8300
+			"start": 8300,
+			"end": 8700
 		}
 	],
 	"articles": [

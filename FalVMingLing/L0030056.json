@@ -21,115 +21,138 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 1500
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "受試者保護",
-			"start": 1600
+			"start": 1600,
+			"end": 2400
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "人體試驗委員會",
-			"start": 2500
+			"start": 2500,
+			"end": 2900
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "試驗主持人",
-			"start": 3000
+			"start": 3000,
+			"end": 3900
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "試驗委託者",
-			"start": 4000
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "通則",
-			"start": 4000
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "品質保證及品質管制",
-			"start": 4900
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "數據處理及保存",
-			"start": 5300
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "試驗藥品之管理",
-			"start": 6200
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "監測",
-			"start": 7300
-		},
-		{
-			"type": "節",
-			"number": 600,
-			"title": "稽核",
-			"start": 8000
+			"start": 4000,
+			"end": 8200,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "通則",
+					"start": 4000,
+					"end": 4800
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "品質保證及品質管制",
+					"start": 4900,
+					"end": 5200
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "數據處理及保存",
+					"start": 5300,
+					"end": 6100
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "試驗藥品之管理",
+					"start": 6200,
+					"end": 7200
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "監測",
+					"start": 7300,
+					"end": 7900
+				},
+				{
+					"type": "節",
+					"number": 600,
+					"title": "稽核",
+					"start": 8000,
+					"end": 8200
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "臨床試驗之申請與審查",
-			"start": 8300
+			"start": 8300,
+			"end": 8800
 		},
 		{
 			"type": "章",
 			"number": 700,
 			"title": "臨床試驗之進行",
-			"start": 8900
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "試驗計畫書",
-			"start": 8900
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "試驗藥品",
-			"start": 9200
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "紀錄與報告",
-			"start": 9800
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "試驗之中止與終止",
-			"start": 11200
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "多機構合作臨床試驗",
-			"start": 11700
+			"start": 8900,
+			"end": 12100,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "試驗計畫書",
+					"start": 8900,
+					"end": 9100
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "試驗藥品",
+					"start": 9200,
+					"end": 9700
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "紀錄與報告",
+					"start": 9800,
+					"end": 11100
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "試驗之中止與終止",
+					"start": 11200,
+					"end": 11600
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "多機構合作臨床試驗",
+					"start": 11700,
+					"end": 12100
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 800,
 			"title": "附則",
-			"start": 12200
+			"start": 12200,
+			"end": 12300
 		}
 	],
 	"articles": [

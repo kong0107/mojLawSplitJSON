@@ -61,37 +61,43 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 300
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "檢定規費",
-			"start": 400
+			"start": 400,
+			"end": 2202
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "鑑定規費",
-			"start": 2300
+			"start": 2300,
+			"end": 2500
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "認證及評鑑規費",
-			"start": 2600
+			"start": 2600,
+			"end": 2700
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "校正規費",
-			"start": 2800
+			"start": 2800,
+			"end": 2901
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "其他度量衡規費",
-			"start": 3000
+			"start": 3000,
+			"end": 3300
 		}
 	],
 	"articles": [

@@ -23,181 +23,221 @@
 			"type": "part",
 			"number": 100,
 			"title": "General Principles",
-			"start": 100
-		},
-		{
-			"type": "chapter",
-			"number": 100,
-			"title": "Definitions and Applications",
-			"start": 100
-		},
-		{
-			"type": "chapter",
-			"number": 200,
-			"title": "Land Rights",
-			"start": 1000
-		},
-		{
-			"type": "chapter",
-			"number": 300,
-			"title": "Restriction on Land Rights",
-			"start": 1400
-		},
-		{
-			"type": "chapter",
-			"number": 400,
-			"title": "Public Land",
-			"start": 2500
-		},
-		{
-			"type": "chapter",
-			"number": 500,
-			"title": "Readjustment of Land Rights",
-			"start": 2800
+			"start": 100,
+			"end": 3500,
+			"children": [
+				{
+					"type": "chapter",
+					"number": 100,
+					"title": "Definitions and Applications",
+					"start": 100,
+					"end": 900
+				},
+				{
+					"type": "chapter",
+					"number": 200,
+					"title": "Land Rights",
+					"start": 1000,
+					"end": 1300
+				},
+				{
+					"type": "chapter",
+					"number": 300,
+					"title": "Restriction on Land Rights",
+					"start": 1400,
+					"end": 2400
+				},
+				{
+					"type": "chapter",
+					"number": 400,
+					"title": "Public Land",
+					"start": 2500,
+					"end": 2700
+				},
+				{
+					"type": "chapter",
+					"number": 500,
+					"title": "Readjustment of Land Rights",
+					"start": 2800,
+					"end": 3500
+				}
+			]
 		},
 		{
 			"type": "part",
 			"number": 200,
 			"title": "Cadastration",
-			"start": 3600
-		},
-		{
-			"type": "chapter",
-			"number": 100,
-			"title": "General Provisions",
-			"start": 3600
-		},
-		{
-			"type": "chapter",
-			"number": 200,
-			"title": "Cadastral Survey",
-			"start": 4400
-		},
-		{
-			"type": "chapter",
-			"number": 300,
-			"title": "General Registration of Land",
-			"start": 4800
-		},
-		{
-			"type": "chapter",
-			"number": 400,
-			"title": "Registration of Changes in Land Rights",
-			"start": 7200
+			"start": 3600,
+			"end": 7902,
+			"children": [
+				{
+					"type": "chapter",
+					"number": 100,
+					"title": "General Provisions",
+					"start": 3600,
+					"end": 4300
+				},
+				{
+					"type": "chapter",
+					"number": 200,
+					"title": "Cadastral Survey",
+					"start": 4400,
+					"end": 4702
+				},
+				{
+					"type": "chapter",
+					"number": 300,
+					"title": "General Registration of Land",
+					"start": 4800,
+					"end": 7100
+				},
+				{
+					"type": "chapter",
+					"number": 400,
+					"title": "Registration of Changes in Land Rights",
+					"start": 7200,
+					"end": 7902
+				}
+			]
 		},
 		{
 			"type": "part",
 			"number": 300,
 			"title": "Land Use",
-			"start": 8000
-		},
-		{
-			"type": "chapter",
-			"number": 100,
-			"title": "General Provisions",
-			"start": 8000
-		},
-		{
-			"type": "chapter",
-			"number": 200,
-			"title": "Restrictions on Land Use",
-			"start": 9000
-		},
-		{
-			"type": "chapter",
-			"number": 300,
-			"title": "Lease of Houses and Building Sites",
-			"start": 9400
-		},
-		{
-			"type": "chapter",
-			"number": 400,
-			"title": "Lease of Farm Land",
-			"start": 10600
-		},
-		{
-			"type": "chapter",
-			"number": 500,
-			"title": "Use of Uncultivated Land",
-			"start": 12500
-		},
-		{
-			"type": "chapter",
-			"number": 600,
-			"title": "Land Consolidation",
-			"start": 13500
+			"start": 8000,
+			"end": 14200,
+			"children": [
+				{
+					"type": "chapter",
+					"number": 100,
+					"title": "General Provisions",
+					"start": 8000,
+					"end": 8900
+				},
+				{
+					"type": "chapter",
+					"number": 200,
+					"title": "Restrictions on Land Use",
+					"start": 9000,
+					"end": 9300
+				},
+				{
+					"type": "chapter",
+					"number": 300,
+					"title": "Lease of Houses and Building Sites",
+					"start": 9400,
+					"end": 10500
+				},
+				{
+					"type": "chapter",
+					"number": 400,
+					"title": "Lease of Farm Land",
+					"start": 10600,
+					"end": 12400
+				},
+				{
+					"type": "chapter",
+					"number": 500,
+					"title": "Use of Uncultivated Land",
+					"start": 12500,
+					"end": 13400
+				},
+				{
+					"type": "chapter",
+					"number": 600,
+					"title": "Land Consolidation",
+					"start": 13500,
+					"end": 14200
+				}
+			]
 		},
 		{
 			"type": "part",
 			"number": 400,
 			"title": "Land Tax",
-			"start": 14300
-		},
-		{
-			"type": "chapter",
-			"number": 100,
-			"title": "General Provisions",
-			"start": 14300
-		},
-		{
-			"type": "chapter",
-			"number": 200,
-			"title": "Value of Land and of Improvements Thereon",
-			"start": 14800
-		},
-		{
-			"type": "chapter",
-			"number": 300,
-			"title": "Land Value Tax",
-			"start": 16700
-		},
-		{
-			"type": "chapter",
-			"number": 400,
-			"title": "Land Value Increment Tax",
-			"start": 17600
-		},
-		{
-			"type": "chapter",
-			"number": 500,
-			"title": "Tax on Improvements on Land",
-			"start": 18500
-		},
-		{
-			"type": "chapter",
-			"number": 600,
-			"title": "Reduction and Remission of Land Tax",
-			"start": 19100
-		},
-		{
-			"type": "chapter",
-			"number": 700,
-			"title": "Tax Delinquency",
-			"start": 20000
+			"start": 14300,
+			"end": 20700,
+			"children": [
+				{
+					"type": "chapter",
+					"number": 100,
+					"title": "General Provisions",
+					"start": 14300,
+					"end": 14700
+				},
+				{
+					"type": "chapter",
+					"number": 200,
+					"title": "Value of Land and of Improvements Thereon",
+					"start": 14800,
+					"end": 16600
+				},
+				{
+					"type": "chapter",
+					"number": 300,
+					"title": "Land Value Tax",
+					"start": 16700,
+					"end": 17500
+				},
+				{
+					"type": "chapter",
+					"number": 400,
+					"title": "Land Value Increment Tax",
+					"start": 17600,
+					"end": 18400
+				},
+				{
+					"type": "chapter",
+					"number": 500,
+					"title": "Tax on Improvements on Land",
+					"start": 18500,
+					"end": 19000
+				},
+				{
+					"type": "chapter",
+					"number": 600,
+					"title": "Reduction and Remission of Land Tax",
+					"start": 19100,
+					"end": 19900
+				},
+				{
+					"type": "chapter",
+					"number": 700,
+					"title": "Tax Delinquency",
+					"start": 20000,
+					"end": 20700
+				}
+			]
 		},
 		{
 			"type": "part",
 			"number": 500,
 			"title": "Compulsory Purchase of Land",
-			"start": 20800
-		},
-		{
-			"type": "chapter",
-			"number": 100,
-			"title": "General Provisions",
-			"start": 20800
-		},
-		{
-			"type": "chapter",
-			"number": 200,
-			"title": "Procedure of Compulsory Purchase",
-			"start": 22200
-		},
-		{
-			"type": "chapter",
-			"number": 300,
-			"title": "Compensations for Compulsory Purchase",
-			"start": 23600
+			"start": 20800,
+			"end": 24700,
+			"children": [
+				{
+					"type": "chapter",
+					"number": 100,
+					"title": "General Provisions",
+					"start": 20800,
+					"end": 22100
+				},
+				{
+					"type": "chapter",
+					"number": 200,
+					"title": "Procedure of Compulsory Purchase",
+					"start": 22200,
+					"end": 23500
+				},
+				{
+					"type": "chapter",
+					"number": 300,
+					"title": "Compensations for Compulsory Purchase",
+					"start": 23600,
+					"end": 24700
+				}
+			]
 		}
 	],
 	"articles": [

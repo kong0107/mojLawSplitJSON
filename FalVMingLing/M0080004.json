@@ -29,49 +29,57 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 200
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "保稅貨品管理",
-			"start": 300
+			"start": 300,
+			"end": 1700
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "保稅貨品查驗、通關",
-			"start": 1800
+			"start": 1800,
+			"end": 3900
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "保稅貨品報廢、失竊、借料、除帳",
-			"start": 4000
+			"start": 4000,
+			"end": 4300
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "保稅貨品委託及受託、互託加工",
-			"start": 4400
+			"start": 4400,
+			"end": 4600
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "保稅貨品入、出區",
-			"start": 4700
+			"start": 4700,
+			"end": 5300
 		},
 		{
 			"type": "章",
 			"number": 700,
 			"title": "生產性貨品出區",
-			"start": 5400
+			"start": 5400,
+			"end": 6000
 		},
 		{
 			"type": "章",
 			"number": 800,
 			"title": "附則",
-			"start": 6100
+			"start": 6100,
+			"end": 6200
 		}
 	],
 	"articles": [

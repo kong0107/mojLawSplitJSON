@@ -13,37 +13,43 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General",
-			"start": 100
+			"start": 100,
+			"end": 500
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Organization",
-			"start": 600
+			"start": 600,
+			"end": 2000
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Operations and Supervision",
-			"start": 2100
+			"start": 2100,
+			"end": 2400
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Human Resources and the Protection of the Rights of Current Employees",
-			"start": 2500
+			"start": 2500,
+			"end": 3400
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Accounting and Finances",
-			"start": 3500
+			"start": 3500,
+			"end": 4100
 		},
 		{
 			"type": "chapter",
 			"number": 600,
 			"title": "Supplementary Provisions",
-			"start": 4200
+			"start": 4200,
+			"end": 4600
 		}
 	],
 	"articles": [

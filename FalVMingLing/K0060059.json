@@ -33,31 +33,36 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 400
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "語音通信普及服務",
-			"start": 500
+			"start": 500,
+			"end": 1000
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "數據通信接取普及服務",
-			"start": 1100
+			"start": 1100,
+			"end": 1600
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "普及服務之運作與管理",
-			"start": 1700
+			"start": 1700,
+			"end": 2800
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "附則",
-			"start": 2900
+			"start": 2900,
+			"end": 2900
 		}
 	],
 	"articles": [

@@ -33,43 +33,50 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 200
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "醫療費用申報及核付",
-			"start": 300
+			"start": 300,
+			"end": 1700
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "程序審查及專業審查",
-			"start": 1800
+			"start": 1800,
+			"end": 2400
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "事前審查",
-			"start": 2500
+			"start": 2500,
+			"end": 2500
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "實地審查",
-			"start": 2600
+			"start": 2600,
+			"end": 2900
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "檔案分析",
-			"start": 3000
+			"start": 3000,
+			"end": 3100
 		},
 		{
 			"type": "章",
 			"number": 700,
 			"title": "附則",
-			"start": 3200
+			"start": 3200,
+			"end": 3400
 		}
 	],
 	"articles": [

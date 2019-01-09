@@ -29,31 +29,36 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 400
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "會計憑證",
-			"start": 500
+			"start": 500,
+			"end": 800
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "會計帳簿",
-			"start": 900
+			"start": 900,
+			"end": 1300
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "會計項目及財務報表之編製",
-			"start": 1400
+			"start": 1400,
+			"end": 4400
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "附則",
-			"start": 4500
+			"start": 4500,
+			"end": 4500
 		}
 	],
 	"articles": [

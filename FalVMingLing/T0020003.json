@@ -31,37 +31,43 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 400
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "交通費",
-			"start": 500
+			"start": 500,
+			"end": 900
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "住宿費",
-			"start": 1000
+			"start": 1000,
+			"end": 1200
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "膳宿費",
-			"start": 1300
+			"start": 1300,
+			"end": 1300
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "臨時費",
-			"start": 1400
+			"start": 1400,
+			"end": 1500
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "附則",
-			"start": 1600
+			"start": 1600,
+			"end": 2200
 		}
 	],
 	"articles": [

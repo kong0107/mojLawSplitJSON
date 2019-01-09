@@ -23,91 +23,108 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 1300
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "市區道路工程",
-			"start": 1400
+			"start": 1400,
+			"end": 2400
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "公路及橋樑工程",
-			"start": 2500
+			"start": 2500,
+			"end": 3200
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "溝渠工程",
-			"start": 3300
+			"start": 3300,
+			"end": 3700
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "漁港工程",
-			"start": 3800
+			"start": 3800,
+			"end": 4000
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "水庫工程",
-			"start": 4100
+			"start": 4100,
+			"end": 4500
 		},
 		{
 			"type": "章",
 			"number": 700,
 			"title": "堤防工程",
-			"start": 4600
+			"start": 4600,
+			"end": 5000
 		},
 		{
 			"type": "章",
 			"number": 800,
 			"title": "疏濬水道工程",
-			"start": 5100
+			"start": 5100,
+			"end": 5300
 		},
 		{
 			"type": "章",
 			"number": 900,
 			"title": "徵收程序",
-			"start": 5400
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "工程受益費以土地及其改良物為徵收標的之查定、經徵作業程序",
-			"start": 5400
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "車輛受益費之徵收程序",
-			"start": 6700
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "船舶受益費之徵收程序",
-			"start": 6900
+			"start": 5400,
+			"end": 7100,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "工程受益費以土地及其改良物為徵收標的之查定、經徵作業程序",
+					"start": 5400,
+					"end": 6600
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "車輛受益費之徵收程序",
+					"start": 6700,
+					"end": 6800
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "船舶受益費之徵收程序",
+					"start": 6900,
+					"end": 7100
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 1000,
 			"title": "徵收權責及其監督與考核",
-			"start": 7200
+			"start": 7200,
+			"end": 7900
 		},
 		{
 			"type": "章",
 			"number": 1100,
 			"title": "免徵及緩徵範圍",
-			"start": 8000
+			"start": 8000,
+			"end": 9100
 		},
 		{
 			"type": "章",
 			"number": 1200,
 			"title": "附則",
-			"start": 9200
+			"start": 9200,
+			"end": 9300
 		}
 	],
 	"articles": [

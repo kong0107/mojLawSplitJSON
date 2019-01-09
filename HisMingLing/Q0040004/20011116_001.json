@@ -14,63 +14,71 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 1000
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "業務往來",
-			"start": 1100
+			"start": 1100,
+			"end": 1100
 		},
 		{
 			"type": "章",
 			"number": 300,
-			"title": "赴大陸地區設立分支機構及參股投資"
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "代表人辦事處"
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "分行及子銀行"
-		},
-		{
-			"type": "款",
-			"number": 100,
-			"title": "分行"
-		},
-		{
-			"type": "款",
-			"number": 200,
-			"title": "子銀行"
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "參股投資"
+			"title": "赴大陸地區設立分支機構及參股投資",
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "代表人辦事處"
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "分行及子銀行",
+					"children": [
+						{
+							"type": "款",
+							"number": 100,
+							"title": "分行"
+						},
+						{
+							"type": "款",
+							"number": 200,
+							"title": "子銀行"
+						}
+					]
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "參股投資"
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 400,
-			"title": "來臺設立分支機構及參股投資"
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "代表人辦事處"
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "分行"
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "參股投資"
+			"title": "來臺設立分支機構及參股投資",
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "代表人辦事處"
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "分行"
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "參股投資"
+				}
+			]
 		},
 		{
 			"type": "章",

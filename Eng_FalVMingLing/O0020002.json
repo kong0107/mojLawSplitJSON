@@ -18,25 +18,29 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Principles",
-			"start": 100
+			"start": 100,
+			"end": 600
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Air Quality Maintenance",
-			"start": 700
+			"start": 700,
+			"end": 1700
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Control",
-			"start": 1800
+			"start": 1800,
+			"end": 4500
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Supplementary Provisions",
-			"start": 4600
+			"start": 4600,
+			"end": 4800
 		}
 	],
 	"articles": [

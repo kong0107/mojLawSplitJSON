@@ -21,37 +21,43 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 600
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "執業",
-			"start": 700
+			"start": 700,
+			"end": 1800
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "職能治療所",
-			"start": 1900
+			"start": 1900,
+			"end": 3100
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "罰則",
-			"start": 3200
+			"start": 3200,
+			"end": 4500
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "公會",
-			"start": 4600
+			"start": 4600,
+			"end": 5700
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "附則",
-			"start": 5800
+			"start": 5800,
+			"end": 6100
 		}
 	],
 	"articles": [

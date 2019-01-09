@@ -19,55 +19,66 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Principles",
-			"start": 100
+			"start": 100,
+			"end": 600
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Regulations for Vessel Carriers",
-			"start": 700
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Vessel Carriers",
-			"start": 700
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Foreign Vessel Carriers",
-			"start": 2800
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "International Joint Organization and International Shipping Agreement",
-			"start": 3400
+			"start": 700,
+			"end": 3500,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Vessel Carriers",
+					"start": 700,
+					"end": 2701
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Foreign Vessel Carriers",
+					"start": 2800,
+					"end": 3300
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "International Joint Organization and International Shipping Agreement",
+					"start": 3400,
+					"end": 3500
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Regulations for Shipping Agency and Freight Forwarding",
-			"start": 3600
+			"start": 3600,
+			"end": 4300
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Regulations for Container Terminal Operators",
-			"start": 4400
+			"start": 4400,
+			"end": 4800
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Penalties",
-			"start": 4900
+			"start": 4900,
+			"end": 5800
 		},
 		{
 			"type": "chapter",
 			"number": 600,
 			"title": "Supplementary Provisions",
-			"start": 5900
+			"start": 5900,
+			"end": 6100
 		}
 	],
 	"articles": [

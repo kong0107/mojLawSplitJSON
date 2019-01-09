@@ -24,31 +24,36 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 800
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "安全衛生設施",
-			"start": 900
+			"start": 900,
+			"end": 3000
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "安全衛生管理",
-			"start": 3100
+			"start": 3100,
+			"end": 4300
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "監督及檢查",
-			"start": 4400
+			"start": 4400,
+			"end": 5300
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "附則",
-			"start": 5400
+			"start": 5400,
+			"end": 5400
 		}
 	],
 	"articles": [

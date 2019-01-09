@@ -13,137 +13,164 @@
 			"type": "章",
 			"number": 100,
 			"title": "基本規則",
-			"start": 100
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "設計要求",
-			"start": 100
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "施工品質",
-			"start": 800
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "載重",
-			"start": 1000
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "耐風設計",
-			"start": 3200
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "耐震設計",
-			"start": 4101
+			"start": 100,
+			"end": 5500,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "設計要求",
+					"start": 100,
+					"end": 700
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "施工品質",
+					"start": 800,
+					"end": 900
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "載重",
+					"start": 1000,
+					"end": 3100
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "耐風設計",
+					"start": 3200,
+					"end": 4100
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "耐震設計",
+					"start": 4101,
+					"end": 5500
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "基礎構造",
-			"start": 5600
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "通則",
-			"start": 5600
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "地基調查",
-			"start": 6300
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "淺基礎",
-			"start": 6900
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "深基礎",
-			"start": 8801
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "擋土牆",
-			"start": 12101
-		},
-		{
-			"type": "節",
-			"number": 600,
-			"title": "基礎開挖",
-			"start": 12200
-		},
-		{
-			"type": "節",
-			"number": 700,
-			"title": "地層改良",
-			"start": 13001
+			"start": 5600,
+			"end": 13002,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "通則",
+					"start": 5600,
+					"end": 6200
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "地基調查",
+					"start": 6300,
+					"end": 6800
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "淺基礎",
+					"start": 6900,
+					"end": 8800
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "深基礎",
+					"start": 8801,
+					"end": 12100
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "擋土牆",
+					"start": 12101,
+					"end": 12104
+				},
+				{
+					"type": "節",
+					"number": 600,
+					"title": "基礎開挖",
+					"start": 12200,
+					"end": 13000
+				},
+				{
+					"type": "節",
+					"number": 700,
+					"title": "地層改良",
+					"start": 13001,
+					"end": 13002
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "磚構造",
-			"start": 13100
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "通則",
-			"start": 13100
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "材料要求",
-			"start": 13300
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "牆壁設計原則",
-			"start": 14100
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "磚造建築物",
-			"start": 15100
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "（刪除）",
-			"start": 15700
-		},
-		{
-			"type": "節",
-			"number": 600,
-			"title": "加強磚造建築物",
-			"start": 16500
-		},
-		{
-			"type": "節",
-			"number": 700,
-			"title": "加強混凝土空心磚造建築物"
-		},
-		{
-			"type": "節",
-			"number": 800,
-			"title": "砌磚工程施工要求"
+			"start": 13100,
+			"end": 54000,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "通則",
+					"start": 13100,
+					"end": 13200
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "材料要求",
+					"start": 13300,
+					"end": 14000
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "牆壁設計原則",
+					"start": 14100,
+					"end": 15000
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "磚造建築物",
+					"start": 15100,
+					"end": 15600
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "（刪除）",
+					"start": 15700,
+					"end": 16400
+				},
+				{
+					"type": "節",
+					"number": 600,
+					"title": "加強磚造建築物",
+					"start": 16500,
+					"end": 54000
+				},
+				{
+					"type": "節",
+					"number": 700,
+					"title": "加強混凝土空心磚造建築物"
+				},
+				{
+					"type": "節",
+					"number": 800,
+					"title": "砌磚工程施工要求"
+				}
+			]
 		},
 		{
 			"type": "章",
@@ -153,132 +180,140 @@
 		{
 			"type": "章",
 			"number": 500,
-			"title": "鋼構造"
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "設計原則"
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "設計強度及應力"
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "構材之設計"
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "（刪除）"
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "接合設計"
-		},
-		{
-			"type": "節",
-			"number": 600,
-			"title": "（刪除）"
-		},
-		{
-			"type": "章",
-			"number": 600,
-			"title": "混凝土構造"
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "通則"
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "品質要求"
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "設計要求"
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "耐震設計之特別規定"
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "強度設計法"
-		},
-		{
-			"type": "節",
-			"number": 600,
-			"title": "工作應力設計法"
-		},
-		{
-			"type": "節",
-			"number": 700,
-			"title": "構件與特殊構材"
+			"title": "鋼構造",
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "設計原則"
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "設計強度及應力"
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "構材之設計"
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "（刪除）"
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "接合設計"
+				},
+				{
+					"type": "節",
+					"number": 600,
+					"title": "（刪除）"
+				}
+			]
 		},
 		{
 			"type": "章",
+			"number": 600,
+			"title": "混凝土構造",
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "通則"
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "品質要求"
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "設計要求"
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "耐震設計之特別規定"
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "強度設計法"
+				},
+				{
+					"type": "節",
+					"number": 600,
+					"title": "工作應力設計法"
+				},
+				{
+					"type": "節",
+					"number": 700,
+					"title": "構件與特殊構材"
+				}
+			]
+		},
+		{
+			"type": "章",
 			"number": 700,
-			"title": "鋼骨鋼筋混凝土構造"
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "設計原則"
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "材料"
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "構材設計"
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "接合設計"
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "施工"
+			"title": "鋼骨鋼筋混凝土構造",
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "設計原則"
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "材料"
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "構材設計"
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "接合設計"
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "施工"
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 800,
-			"title": "冷軋型鋼構造"
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "設計原則"
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "設計強度及應力"
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "構材之設計"
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "接合設計"
+			"title": "冷軋型鋼構造",
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "設計原則"
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "設計強度及應力"
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "構材之設計"
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "接合設計"
+				}
+			]
 		}
 	],
 	"articles": [

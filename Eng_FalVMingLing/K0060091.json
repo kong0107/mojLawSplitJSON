@@ -28,97 +28,119 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Provisions",
-			"start": 100
+			"start": 100,
+			"end": 700
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Operation Concession",
-			"start": 800
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Application and Review",
-			"start": 800
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Bid Preparation",
-			"start": 1700
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Competitive Bidding",
-			"start": 2101
-		},
-		{
-			"type": "subparagraph",
-			"number": 100,
-			"title": "Bidding Procedure",
-			"start": 2101
-		},
-		{
-			"type": "subparagraph",
-			"number": 200,
-			"title": "Quantity-based Bidding",
-			"start": 2200
-		},
-		{
-			"type": "subparagraph",
-			"number": 300,
-			"title": "Location-based Bidding",
-			"start": 3301
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "Inception",
-			"start": 3600
+			"start": 800,
+			"end": 5300,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Application and Review",
+					"start": 800,
+					"end": 1600
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Bid Preparation",
+					"start": 1700,
+					"end": 2100
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Competitive Bidding",
+					"start": 2101,
+					"end": 3500,
+					"children": [
+						{
+							"type": "subsection",
+							"number": 100,
+							"title": "Bidding Procedure",
+							"start": 2101,
+							"end": 2103
+						},
+						{
+							"type": "subsection",
+							"number": 200,
+							"title": "Quantity-based Bidding",
+							"start": 2200,
+							"end": 3300
+						},
+						{
+							"type": "subsection",
+							"number": 300,
+							"title": "Location-based Bidding",
+							"start": 3301,
+							"end": 3500
+						}
+					]
+				},
+				{
+					"type": "section",
+					"number": 400,
+					"title": "Inception",
+					"start": 3600,
+					"end": 5300
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Operations Management",
-			"start": 5400
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Technical Monitoring",
-			"start": 5400
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Operational Monitoring",
-			"start": 6200
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Frequency Operating Right Transfer",
-			"start": 8100
+			"start": 5400,
+			"end": 8300,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Technical Monitoring",
+					"start": 5400,
+					"end": 6100
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Operational Monitoring",
+					"start": 6200,
+					"end": 8000
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Frequency Operating Right Transfer",
+					"start": 8100,
+					"end": 8300
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 301,
 			"title": "Information Security Management",
-			"start": 8301
+			"start": 8301,
+			"end": 8305
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Mediation of Disputes",
-			"start": 8400
+			"start": 8400,
+			"end": 8400
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Supplementary Provisions",
-			"start": 8500
+			"start": 8500,
+			"end": 8900
 		}
 	],
 	"articles": [

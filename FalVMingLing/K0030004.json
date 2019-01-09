@@ -34,67 +34,82 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 700
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "旅客運送",
-			"start": 800
+			"start": 800,
+			"end": 3000
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "包裹及貨物運送",
-			"start": 3100
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "通則",
-			"start": 3100
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "包裹運送",
-			"start": 3800
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "貨物運送",
-			"start": 4600
-		},
-		{
-			"type": "款",
-			"number": 100,
-			"title": "託運",
-			"start": 4600
-		},
-		{
-			"type": "款",
-			"number": 200,
-			"title": "運送",
-			"start": 5100
-		},
-		{
-			"type": "款",
-			"number": 300,
-			"title": "交付",
-			"start": 5700
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "履約責任",
-			"start": 6200
+			"start": 3100,
+			"end": 7200,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "通則",
+					"start": 3100,
+					"end": 3700
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "包裹運送",
+					"start": 3800,
+					"end": 4500
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "貨物運送",
+					"start": 4600,
+					"end": 6100,
+					"children": [
+						{
+							"type": "款",
+							"number": 100,
+							"title": "託運",
+							"start": 4600,
+							"end": 5000
+						},
+						{
+							"type": "款",
+							"number": 200,
+							"title": "運送",
+							"start": 5100,
+							"end": 5600
+						},
+						{
+							"type": "款",
+							"number": 300,
+							"title": "交付",
+							"start": 5700,
+							"end": 6100
+						}
+					]
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "履約責任",
+					"start": 6200,
+					"end": 7200
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "附則",
-			"start": 7300
+			"start": 7300,
+			"end": 7400
 		}
 	],
 	"articles": [

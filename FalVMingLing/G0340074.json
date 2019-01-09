@@ -21,55 +21,66 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 800
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "減免及扣除",
-			"start": 900
+			"start": 900,
+			"end": 1400
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "稅率",
-			"start": 1500
+			"start": 1500,
+			"end": 1500
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "稽徵程序",
-			"start": 1600
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "申報",
-			"start": 1600
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "核稅",
-			"start": 2000
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "繳納",
-			"start": 2500
+			"start": 1600,
+			"end": 2700,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "申報",
+					"start": 1600,
+					"end": 1900
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "核稅",
+					"start": 2000,
+					"end": 2400
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "繳納",
+					"start": 2500,
+					"end": 2700
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "罰則",
-			"start": 2800
+			"start": 2800,
+			"end": 3400
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "附則",
-			"start": 3500
+			"start": 3500,
+			"end": 3600
 		}
 	],
 	"articles": [

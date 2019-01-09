@@ -31,163 +31,198 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 900
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "登記",
-			"start": 1000
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "廠商登記",
-			"start": 1000
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "產品登記",
-			"start": 1500
+			"start": 1000,
+			"end": 2000,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "廠商登記",
+					"start": 1000,
+					"end": 1400
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "產品登記",
+					"start": 1500,
+					"end": 2000
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "照證",
-			"start": 2100
+			"start": 2100,
+			"end": 2700
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "計稅單位及包裝",
-			"start": 2800
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "橡膠輪胎",
-			"start": 2800
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "水泥",
-			"start": 3000
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "飲料品",
-			"start": 3200
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "平板玻璃",
-			"start": 3300
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "油氣類",
-			"start": 3500
-		},
-		{
-			"type": "節",
-			"number": 600,
-			"title": "電器類",
-			"start": 3700
-		},
-		{
-			"type": "節",
-			"number": 700,
-			"title": "車輛類",
-			"start": 3800
+			"start": 2800,
+			"end": 3800,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "橡膠輪胎",
+					"start": 2800,
+					"end": 2900
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "水泥",
+					"start": 3000,
+					"end": 3100
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "飲料品",
+					"start": 3200,
+					"end": 3200
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "平板玻璃",
+					"start": 3300,
+					"end": 3400
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "油氣類",
+					"start": 3500,
+					"end": 3600
+				},
+				{
+					"type": "節",
+					"number": 600,
+					"title": "電器類",
+					"start": 3700,
+					"end": 3700
+				},
+				{
+					"type": "節",
+					"number": 700,
+					"title": "車輛類",
+					"start": 3800,
+					"end": 3800
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "完稅價格",
-			"start": 3900
+			"start": 3900,
+			"end": 4600
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "稽徵程序",
-			"start": 4700
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "國產貨物",
-			"start": 4700
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "進口貨物",
-			"start": 5500
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "帳簿憑證",
-			"start": 6000
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "未稅貨物移運",
-			"start": 6200
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "稽查",
-			"start": 6500
+			"start": 4700,
+			"end": 6900,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "國產貨物",
+					"start": 4700,
+					"end": 5400
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "進口貨物",
+					"start": 5500,
+					"end": 5900
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "帳簿憑證",
+					"start": 6000,
+					"end": 6100
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "未稅貨物移運",
+					"start": 6200,
+					"end": 6400
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "稽查",
+					"start": 6500,
+					"end": 6900
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 700,
 			"title": "免稅、退稅及抵繳",
-			"start": 7000
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "外銷貨物",
-			"start": 7000
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "用作製造另一應稅貨物之原料",
-			"start": 7400
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "參加展覽或勞軍貨物",
-			"start": 8000
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "退廠整理或因故變損暨加工精製之貨物",
-			"start": 8200
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "物體消滅或遺失貨物之處理",
-			"start": 8700
+			"start": 7000,
+			"end": 8800,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "外銷貨物",
+					"start": 7000,
+					"end": 7300
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "用作製造另一應稅貨物之原料",
+					"start": 7400,
+					"end": 7900
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "參加展覽或勞軍貨物",
+					"start": 8000,
+					"end": 8100
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "退廠整理或因故變損暨加工精製之貨物",
+					"start": 8200,
+					"end": 8600
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "物體消滅或遺失貨物之處理",
+					"start": 8700,
+					"end": 8800
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 800,
 			"title": "附則",
-			"start": 8900
+			"start": 8900,
+			"end": 9000
 		}
 	],
 	"articles": [

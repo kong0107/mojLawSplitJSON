@@ -21,31 +21,36 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 200
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "組織",
-			"start": 300
+			"start": 300,
+			"end": 600
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "權責與範圍",
-			"start": 700
+			"start": 700,
+			"end": 1400
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "工作要領",
-			"start": 1500
+			"start": 1500,
+			"end": 2000
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "附則",
-			"start": 2100
+			"start": 2100,
+			"end": 2100
 		}
 	],
 	"articles": [

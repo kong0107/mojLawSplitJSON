@@ -25,79 +25,96 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Provisions",
-			"start": 100
+			"start": 100,
+			"end": 703
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Provincial Government and Provincial Consultative Council",
-			"start": 800
+			"start": 800,
+			"end": 1300
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Local Self-government",
-			"start": 1400
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Local Self-governing bodies, Rights and Duties of Their Constituents",
-			"start": 1400
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Self-government Matters",
-			"start": 1800
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Self-government ordinances and Regulations",
-			"start": 2500
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "Local Government Organizations",
-			"start": 3300
-		},
-		{
-			"type": "subsection",
-			"number": 100,
-			"title": "Local Legislative Body",
-			"start": 3300
-		},
-		{
-			"type": "subsection",
-			"number": 200,
-			"title": "Local Administrative Body",
-			"start": 5500
-		},
-		{
-			"type": "section",
-			"number": 500,
-			"title": "Local Finance",
-			"start": 6300
+			"start": 1400,
+			"end": 7400,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Local Self-governing bodies, Rights and Duties of Their Constituents",
+					"start": 1400,
+					"end": 1700
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Self-government Matters",
+					"start": 1800,
+					"end": 2403
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Self-government ordinances and Regulations",
+					"start": 2500,
+					"end": 3200
+				},
+				{
+					"type": "section",
+					"number": 400,
+					"title": "Local Government Organizations",
+					"start": 3300,
+					"end": 6200,
+					"children": [
+						{
+							"type": "subsection",
+							"number": 100,
+							"title": "Local Legislative Body",
+							"start": 3300,
+							"end": 5400
+						},
+						{
+							"type": "subsection",
+							"number": 200,
+							"title": "Local Administrative Body",
+							"start": 5500,
+							"end": 6200
+						}
+					]
+				},
+				{
+					"type": "section",
+					"number": 500,
+					"title": "Local Finance",
+					"start": 6300,
+					"end": 7400
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Relationship Between Central and Local Governments",
-			"start": 7500
+			"start": 7500,
+			"end": 8301
 		},
 		{
 			"type": "chapter",
 			"number": 401,
 			"title": "Mountain Indigenous Districts of Special Municipalities",
-			"start": 8302
+			"start": 8302,
+			"end": 8308
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Supplementary Provisions",
-			"start": 8400
+			"start": 8400,
+			"end": 8800
 		}
 	],
 	"articles": [

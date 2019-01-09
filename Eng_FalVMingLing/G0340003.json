@@ -76,121 +76,147 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Principles",
-			"start": 100
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "General Provisions",
-			"start": 100
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Definitions",
-			"start": 700
+			"start": 100,
+			"end": 1200,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "General Provisions",
+					"start": 100,
+					"end": 602
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Definitions",
+					"start": 700,
+					"end": 1200
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Consolidated Income Tax",
-			"start": 1300
+			"start": 1300,
+			"end": 1704
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Profit-Seeking Enterprise Income Tax",
-			"start": 1800
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Registration",
-			"start": 1800
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Account Books, Vouchers and Accounting",
-			"start": 2100
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Profit-seeking enterprise Income Amount",
-			"start": 2400
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "Evaluation of Assets",
-			"start": 4400
-		},
-		{
-			"type": "section",
-			"number": 500,
-			"title": "Shareholder Deductible Tax Account",
-			"start": 6601
-		},
-		{
-			"type": "section",
-			"number": 600,
-			"title": "Taxation on Undistributed Surplus Earnings",
-			"start": 6609
+			"start": 1800,
+			"end": 6609,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Registration",
+					"start": 1800,
+					"end": 2000
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Account Books, Vouchers and Accounting",
+					"start": 2100,
+					"end": 2300
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Profit-seeking enterprise Income Amount",
+					"start": 2400,
+					"end": 4304
+				},
+				{
+					"type": "section",
+					"number": 400,
+					"title": "Evaluation of Assets",
+					"start": 4400,
+					"end": 6600
+				},
+				{
+					"type": "section",
+					"number": 500,
+					"title": "Shareholder Deductible Tax Account",
+					"start": 6601,
+					"end": 6608
+				},
+				{
+					"type": "section",
+					"number": 600,
+					"title": "Taxation on Undistributed Surplus Earnings",
+					"start": 6609,
+					"end": 6609
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Assessment & Collection Procedure",
-			"start": 6700
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Provisional Payment",
-			"start": 6700
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Annual Income Tax Return",
-			"start": 7100
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Investigation",
-			"start": 8000
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "Withholding of Tax",
-			"start": 8800
-		},
-		{
-			"type": "section",
-			"number": 500,
-			"title": "Payment of Tax",
-			"start": 9800
-		},
-		{
-			"type": "section",
-			"number": 600,
-			"title": "Declaration of Surplus Earnings",
-			"start": 10201
+			"start": 6700,
+			"end": 10204,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Provisional Payment",
+					"start": 6700,
+					"end": 7000
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Annual Income Tax Return",
+					"start": 7100,
+					"end": 7900
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Investigation",
+					"start": 8000,
+					"end": 8700
+				},
+				{
+					"type": "section",
+					"number": 400,
+					"title": "Withholding of Tax",
+					"start": 8800,
+					"end": 9700
+				},
+				{
+					"type": "section",
+					"number": 500,
+					"title": "Payment of Tax",
+					"start": 9800,
+					"end": 10200
+				},
+				{
+					"type": "section",
+					"number": 600,
+					"title": "Declaration of Surplus Earnings",
+					"start": 10201,
+					"end": 10204
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Reward and Penalty",
-			"start": 10300
+			"start": 10300,
+			"end": 12000
 		},
 		{
 			"type": "chapter",
 			"number": 600,
 			"title": "Supplementary Provisions",
-			"start": 12100
+			"start": 12100,
+			"end": 12600
 		}
 	],
 	"articles": [

@@ -18,55 +18,66 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General principles",
-			"start": 100
+			"start": 100,
+			"end": 600
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Establishment of Securities Investment Trust Enterprises",
-			"start": 700
+			"start": 700,
+			"end": 1400
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Concurrent Operation of Securities Investment Trust Business",
-			"start": 1500
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Trust Enterprises",
-			"start": 1500
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Securities Investment Consulting Enterprises",
-			"start": 2300
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Futures Trust Enterprises",
-			"start": 2900
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "Managed Futures Enterprises",
-			"start": 3800
+			"start": 1500,
+			"end": 4400,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Trust Enterprises",
+					"start": 1500,
+					"end": 2200
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Securities Investment Consulting Enterprises",
+					"start": 2300,
+					"end": 2800
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Futures Trust Enterprises",
+					"start": 2900,
+					"end": 3700
+				},
+				{
+					"type": "section",
+					"number": 400,
+					"title": "Managed Futures Enterprises",
+					"start": 3800,
+					"end": 4400
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Establishment of Branch Units",
-			"start": 4500
+			"start": 4500,
+			"end": 4700
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Supplementary Provisions",
-			"start": 4800
+			"start": 4800,
+			"end": 5100
 		}
 	],
 	"articles": [

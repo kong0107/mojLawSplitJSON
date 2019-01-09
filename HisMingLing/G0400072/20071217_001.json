@@ -14,65 +14,76 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 800
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "財務",
-			"start": 900
+			"start": 900,
+			"end": 2100
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "業務",
-			"start": 2200
+			"start": 2200,
+			"end": 4500
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "合併",
-			"start": 4600
+			"start": 4600,
+			"end": 4800
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "投資外國及大陸事業",
-			"start": 4900
+			"start": 4900,
+			"end": 5800
 		},
 		{
 			"type": "章",
 			"number": 501,
 			"title": "國外分支機構之管理",
-			"start": 5801
+			"start": 5801,
+			"end": 5803
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "自有資本之管理",
-			"start": 5900
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "（刪除）",
-			"start": 5900
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "（刪除）",
-			"start": 6000
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "（刪除）"
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "（刪除）"
+			"start": 5900,
+			"end": 6900,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "（刪除）",
+					"start": 5900,
+					"end": 5900
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "（刪除）",
+					"start": 6000,
+					"end": 6900
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "（刪除）"
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "（刪除）"
+				}
+			]
 		},
 		{
 			"type": "章",

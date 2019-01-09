@@ -30,43 +30,52 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 200
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "審議程序",
-			"start": 300
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "審議之提起及審議決定",
-			"start": 300
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "權益案件",
-			"start": 1400
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "醫療費用案件",
-			"start": 2100
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "特約管理案件",
-			"start": 2500
+			"start": 300,
+			"end": 2500,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "審議之提起及審議決定",
+					"start": 300,
+					"end": 1300
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "權益案件",
+					"start": 1400,
+					"end": 2000
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "醫療費用案件",
+					"start": 2100,
+					"end": 2400
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "特約管理案件",
+					"start": 2500,
+					"end": 2500
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "附則",
-			"start": 2600
+			"start": 2600,
+			"end": 2700
 		}
 	],
 	"articles": [

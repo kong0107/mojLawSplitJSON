@@ -29,55 +29,66 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 1100
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "院長",
-			"start": 1200
+			"start": 1200,
+			"end": 1700
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "民、刑事庭",
-			"start": 1800
+			"start": 1800,
+			"end": 3500
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "書記廳",
-			"start": 3600
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "執掌與職責",
-			"start": 3600
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "訴訟文件卷證之處理",
-			"start": 5100
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "一般行政事務之處理",
-			"start": 5600
+			"start": 3600,
+			"end": 7500,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "執掌與職責",
+					"start": 3600,
+					"end": 5000
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "訴訟文件卷證之處理",
+					"start": 5100,
+					"end": 5500
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "一般行政事務之處理",
+					"start": 5600,
+					"end": 7500
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "人事室、會計室、統計室、政風室、資訊室",
-			"start": 7600
+			"start": 7600,
+			"end": 8400
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "附則",
-			"start": 8500
+			"start": 8500,
+			"end": 8800
 		}
 	],
 	"articles": [

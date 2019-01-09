@@ -14,61 +14,75 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 200
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "在中華民國境內有固定營業場所之營業人稅籍登記",
-			"start": 300
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "設立登記",
-			"start": 300
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "變更登記、停（復）業申報核備或註銷登記",
-			"start": 800
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "撤銷或廢止登記",
-			"start": 1100
+			"start": 300,
+			"end": 1100,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "設立登記",
+					"start": 300,
+					"end": 700
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "變更登記、停（復）業申報核備或註銷登記",
+					"start": 800,
+					"end": 1000
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "撤銷或廢止登記",
+					"start": 1100,
+					"end": 1100
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "在中華民國境內無固定營業場所，銷售電子勞務予境內自然人之營業人稅籍登記",
-			"start": 1200
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "設立登記",
-			"start": 1200
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "變更登記、停（復）業申報核備或註銷登記",
-			"start": 1500
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "廢止登記",
-			"start": 1800
+			"start": 1200,
+			"end": 1800,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "設立登記",
+					"start": 1200,
+					"end": 1400
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "變更登記、停（復）業申報核備或註銷登記",
+					"start": 1500,
+					"end": 1700
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "廢止登記",
+					"start": 1800,
+					"end": 1800
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "附則",
-			"start": 1900
+			"start": 1900,
+			"end": 2000
 		}
 	],
 	"articles": [

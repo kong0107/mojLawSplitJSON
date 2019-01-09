@@ -13,43 +13,50 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 800
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "家畜屠前檢查",
-			"start": 900
+			"start": 900,
+			"end": 1100
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "家畜屠後檢查",
-			"start": 1200
+			"start": 1200,
+			"end": 1500
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "家禽屠前檢查",
-			"start": 1600
+			"start": 1600,
+			"end": 1700
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "家禽屠後檢查",
-			"start": 1800
+			"start": 1800,
+			"end": 2000
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "非供食用屠體與內臟之處理",
-			"start": 2100
+			"start": 2100,
+			"end": 2400
 		},
 		{
 			"type": "章",
 			"number": 700,
 			"title": "附則",
-			"start": 2500
+			"start": 2500,
+			"end": 3000
 		}
 	],
 	"articles": [

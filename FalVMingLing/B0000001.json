@@ -52,829 +52,1019 @@
 			"type": "編",
 			"number": 100,
 			"title": "總則",
-			"start": 100
-		},
-		{
-			"type": "章",
-			"number": 100,
-			"title": "法例",
-			"start": 100
-		},
-		{
-			"type": "章",
-			"number": 200,
-			"title": "人",
-			"start": 600
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "自然人",
-			"start": 600
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "法人",
-			"start": 2500
-		},
-		{
-			"type": "款",
-			"number": 100,
-			"title": "通則",
-			"start": 2500
-		},
-		{
-			"type": "款",
-			"number": 200,
-			"title": "社團",
-			"start": 4500
-		},
-		{
-			"type": "款",
-			"number": 300,
-			"title": "財團",
-			"start": 5900
-		},
-		{
-			"type": "章",
-			"number": 300,
-			"title": "物",
-			"start": 6600
-		},
-		{
-			"type": "章",
-			"number": 400,
-			"title": "法律行為",
-			"start": 7100
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "通則",
-			"start": 7100
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "行為能力",
-			"start": 7500
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "意思表示",
-			"start": 8600
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "條件及期限",
-			"start": 9900
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "代理",
-			"start": 10300
-		},
-		{
-			"type": "節",
-			"number": 600,
-			"title": "無效及撤銷",
-			"start": 11100
-		},
-		{
-			"type": "章",
-			"number": 500,
-			"title": "期日及期間",
-			"start": 11900
-		},
-		{
-			"type": "章",
-			"number": 600,
-			"title": "消滅時效",
-			"start": 12500
-		},
-		{
-			"type": "章",
-			"number": 700,
-			"title": "權利之行使",
-			"start": 14800
+			"start": 100,
+			"end": 15200,
+			"children": [
+				{
+					"type": "章",
+					"number": 100,
+					"title": "法例",
+					"start": 100,
+					"end": 500
+				},
+				{
+					"type": "章",
+					"number": 200,
+					"title": "人",
+					"start": 600,
+					"end": 6500,
+					"children": [
+						{
+							"type": "節",
+							"number": 100,
+							"title": "自然人",
+							"start": 600,
+							"end": 2400
+						},
+						{
+							"type": "節",
+							"number": 200,
+							"title": "法人",
+							"start": 2500,
+							"end": 6500,
+							"children": [
+								{
+									"type": "款",
+									"number": 100,
+									"title": "通則",
+									"start": 2500,
+									"end": 4400
+								},
+								{
+									"type": "款",
+									"number": 200,
+									"title": "社團",
+									"start": 4500,
+									"end": 5800
+								},
+								{
+									"type": "款",
+									"number": 300,
+									"title": "財團",
+									"start": 5900,
+									"end": 6500
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "章",
+					"number": 300,
+					"title": "物",
+					"start": 6600,
+					"end": 7000
+				},
+				{
+					"type": "章",
+					"number": 400,
+					"title": "法律行為",
+					"start": 7100,
+					"end": 11800,
+					"children": [
+						{
+							"type": "節",
+							"number": 100,
+							"title": "通則",
+							"start": 7100,
+							"end": 7400
+						},
+						{
+							"type": "節",
+							"number": 200,
+							"title": "行為能力",
+							"start": 7500,
+							"end": 8500
+						},
+						{
+							"type": "節",
+							"number": 300,
+							"title": "意思表示",
+							"start": 8600,
+							"end": 9800
+						},
+						{
+							"type": "節",
+							"number": 400,
+							"title": "條件及期限",
+							"start": 9900,
+							"end": 10200
+						},
+						{
+							"type": "節",
+							"number": 500,
+							"title": "代理",
+							"start": 10300,
+							"end": 11000
+						},
+						{
+							"type": "節",
+							"number": 600,
+							"title": "無效及撤銷",
+							"start": 11100,
+							"end": 11800
+						}
+					]
+				},
+				{
+					"type": "章",
+					"number": 500,
+					"title": "期日及期間",
+					"start": 11900,
+					"end": 12400
+				},
+				{
+					"type": "章",
+					"number": 600,
+					"title": "消滅時效",
+					"start": 12500,
+					"end": 14700
+				},
+				{
+					"type": "章",
+					"number": 700,
+					"title": "權利之行使",
+					"start": 14800,
+					"end": 15200
+				}
+			]
 		},
 		{
 			"type": "編",
 			"number": 200,
 			"title": "債",
-			"start": 15300
-		},
-		{
-			"type": "章",
-			"number": 100,
-			"title": "通則",
-			"start": 15300
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "債之發生",
-			"start": 15300
-		},
-		{
-			"type": "款",
-			"number": 100,
-			"title": "契約",
-			"start": 15300
-		},
-		{
-			"type": "款",
-			"number": 200,
-			"title": "代理權之授與",
-			"start": 16700
-		},
-		{
-			"type": "款",
-			"number": 300,
-			"title": "無因管理",
-			"start": 17200
-		},
-		{
-			"type": "款",
-			"number": 400,
-			"title": "不當得利",
-			"start": 17900
-		},
-		{
-			"type": "款",
-			"number": 500,
-			"title": "侵權行為",
-			"start": 18400
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "債之標的",
-			"start": 19900
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "債之效力",
-			"start": 21900
-		},
-		{
-			"type": "款",
-			"number": 100,
-			"title": "給付",
-			"start": 21900
-		},
-		{
-			"type": "款",
-			"number": 200,
-			"title": "遲延",
-			"start": 22900
-		},
-		{
-			"type": "款",
-			"number": 300,
-			"title": "保全",
-			"start": 24200
-		},
-		{
-			"type": "款",
-			"number": 400,
-			"title": "契約",
-			"start": 24501
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "多數債務人及債權人",
-			"start": 27100
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "債之移轉",
-			"start": 29400
-		},
-		{
-			"type": "節",
-			"number": 600,
-			"title": "債之消滅",
-			"start": 30700
-		},
-		{
-			"type": "款",
-			"number": 100,
-			"title": "通則",
-			"start": 30700
-		},
-		{
-			"type": "款",
-			"number": 200,
-			"title": "清償",
-			"start": 30900
-		},
-		{
-			"type": "款",
-			"number": 300,
-			"title": "提存",
-			"start": 32600
-		},
-		{
-			"type": "款",
-			"number": 400,
-			"title": "抵銷",
-			"start": 33400
-		},
-		{
-			"type": "款",
-			"number": 500,
-			"title": "免除",
-			"start": 34300
-		},
-		{
-			"type": "款",
-			"number": 600,
-			"title": "混同",
-			"start": 34400
-		},
-		{
-			"type": "章",
-			"number": 200,
-			"title": "各種之債",
-			"start": 34500
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "買賣",
-			"start": 34500
-		},
-		{
-			"type": "款",
-			"number": 100,
-			"title": "通則",
-			"start": 34500
-		},
-		{
-			"type": "款",
-			"number": 200,
-			"title": "效力",
-			"start": 34800
-		},
-		{
-			"type": "款",
-			"number": 300,
-			"title": "買回",
-			"start": 37900
-		},
-		{
-			"type": "款",
-			"number": 400,
-			"title": "特種買賣",
-			"start": 38400
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "互易",
-			"start": 39800
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "交互計算",
-			"start": 40000
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "贈與",
-			"start": 40600
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "租賃",
-			"start": 42100
-		},
-		{
-			"type": "節",
-			"number": 600,
-			"title": "借貸",
-			"start": 46400
-		},
-		{
-			"type": "款",
-			"number": 100,
-			"title": "使用借貸",
-			"start": 46400
-		},
-		{
-			"type": "款",
-			"number": 200,
-			"title": "消費借貸",
-			"start": 47400
-		},
-		{
-			"type": "節",
-			"number": 700,
-			"title": "僱傭",
-			"start": 48200
-		},
-		{
-			"type": "節",
-			"number": 800,
-			"title": "承攬",
-			"start": 49000
-		},
-		{
-			"type": "節",
-			"number": 801,
-			"title": "旅遊",
-			"start": 51401
-		},
-		{
-			"type": "節",
-			"number": 900,
-			"title": "出版",
-			"start": 51500
-		},
-		{
-			"type": "節",
-			"number": 1000,
-			"title": "委任",
-			"start": 52800
-		},
-		{
-			"type": "節",
-			"number": 1100,
-			"title": "經理人及代辦商",
-			"start": 55300
-		},
-		{
-			"type": "節",
-			"number": 1200,
-			"title": "居間",
-			"start": 56500
-		},
-		{
-			"type": "節",
-			"number": 1300,
-			"title": "行紀",
-			"start": 57600
-		},
-		{
-			"type": "節",
-			"number": 1400,
-			"title": "寄託",
-			"start": 58900
-		},
-		{
-			"type": "節",
-			"number": 1500,
-			"title": "倉庫",
-			"start": 61300
-		},
-		{
-			"type": "節",
-			"number": 1600,
-			"title": "運送",
-			"start": 62200
-		},
-		{
-			"type": "款",
-			"number": 100,
-			"title": "通則",
-			"start": 62200
-		},
-		{
-			"type": "款",
-			"number": 200,
-			"title": "物品運送",
-			"start": 62400
-		},
-		{
-			"type": "款",
-			"number": 300,
-			"title": "旅客運送",
-			"start": 65400
-		},
-		{
-			"type": "節",
-			"number": 1700,
-			"title": "承攬運送",
-			"start": 66000
-		},
-		{
-			"type": "節",
-			"number": 1800,
-			"title": "合夥",
-			"start": 66700
-		},
-		{
-			"type": "節",
-			"number": 1900,
-			"title": "隱名合夥",
-			"start": 70000
-		},
-		{
-			"type": "節",
-			"number": 1901,
-			"title": "合會",
-			"start": 70901
-		},
-		{
-			"type": "節",
-			"number": 2000,
-			"title": "指示證券",
-			"start": 71000
-		},
-		{
-			"type": "節",
-			"number": 2100,
-			"title": "無記名證券",
-			"start": 71900
-		},
-		{
-			"type": "節",
-			"number": 2200,
-			"title": "終身定期金",
-			"start": 72900
-		},
-		{
-			"type": "節",
-			"number": 2300,
-			"title": "和解",
-			"start": 73600
-		},
-		{
-			"type": "節",
-			"number": 2400,
-			"title": "保證",
-			"start": 73900
-		},
-		{
-			"type": "節",
-			"number": 2401,
-			"title": "人事保證",
-			"start": 75601
+			"start": 15300,
+			"end": 75609,
+			"children": [
+				{
+					"type": "章",
+					"number": 100,
+					"title": "通則",
+					"start": 15300,
+					"end": 34400,
+					"children": [
+						{
+							"type": "節",
+							"number": 100,
+							"title": "債之發生",
+							"start": 15300,
+							"end": 19800,
+							"children": [
+								{
+									"type": "款",
+									"number": 100,
+									"title": "契約",
+									"start": 15300,
+									"end": 16601
+								},
+								{
+									"type": "款",
+									"number": 200,
+									"title": "代理權之授與",
+									"start": 16700,
+									"end": 17100
+								},
+								{
+									"type": "款",
+									"number": 300,
+									"title": "無因管理",
+									"start": 17200,
+									"end": 17800
+								},
+								{
+									"type": "款",
+									"number": 400,
+									"title": "不當得利",
+									"start": 17900,
+									"end": 18300
+								},
+								{
+									"type": "款",
+									"number": 500,
+									"title": "侵權行為",
+									"start": 18400,
+									"end": 19800
+								}
+							]
+						},
+						{
+							"type": "節",
+							"number": 200,
+							"title": "債之標的",
+							"start": 19900,
+							"end": 21801
+						},
+						{
+							"type": "節",
+							"number": 300,
+							"title": "債之效力",
+							"start": 21900,
+							"end": 27000,
+							"children": [
+								{
+									"type": "款",
+									"number": 100,
+									"title": "給付",
+									"start": 21900,
+									"end": 22800
+								},
+								{
+									"type": "款",
+									"number": 200,
+									"title": "遲延",
+									"start": 22900,
+									"end": 24100
+								},
+								{
+									"type": "款",
+									"number": 300,
+									"title": "保全",
+									"start": 24200,
+									"end": 24500
+								},
+								{
+									"type": "款",
+									"number": 400,
+									"title": "契約",
+									"start": 24501,
+									"end": 27000
+								}
+							]
+						},
+						{
+							"type": "節",
+							"number": 400,
+							"title": "多數債務人及債權人",
+							"start": 27100,
+							"end": 29300
+						},
+						{
+							"type": "節",
+							"number": 500,
+							"title": "債之移轉",
+							"start": 29400,
+							"end": 30600
+						},
+						{
+							"type": "節",
+							"number": 600,
+							"title": "債之消滅",
+							"start": 30700,
+							"end": 34400,
+							"children": [
+								{
+									"type": "款",
+									"number": 100,
+									"title": "通則",
+									"start": 30700,
+									"end": 30800
+								},
+								{
+									"type": "款",
+									"number": 200,
+									"title": "清償",
+									"start": 30900,
+									"end": 32500
+								},
+								{
+									"type": "款",
+									"number": 300,
+									"title": "提存",
+									"start": 32600,
+									"end": 33300
+								},
+								{
+									"type": "款",
+									"number": 400,
+									"title": "抵銷",
+									"start": 33400,
+									"end": 34200
+								},
+								{
+									"type": "款",
+									"number": 500,
+									"title": "免除",
+									"start": 34300,
+									"end": 34300
+								},
+								{
+									"type": "款",
+									"number": 600,
+									"title": "混同",
+									"start": 34400,
+									"end": 34400
+								}
+							]
+						}
+					]
+				},
+				{
+					"type": "章",
+					"number": 200,
+					"title": "各種之債",
+					"start": 34500,
+					"end": 75609,
+					"children": [
+						{
+							"type": "節",
+							"number": 100,
+							"title": "買賣",
+							"start": 34500,
+							"end": 39700,
+							"children": [
+								{
+									"type": "款",
+									"number": 100,
+									"title": "通則",
+									"start": 34500,
+									"end": 34700
+								},
+								{
+									"type": "款",
+									"number": 200,
+									"title": "效力",
+									"start": 34800,
+									"end": 37800
+								},
+								{
+									"type": "款",
+									"number": 300,
+									"title": "買回",
+									"start": 37900,
+									"end": 38300
+								},
+								{
+									"type": "款",
+									"number": 400,
+									"title": "特種買賣",
+									"start": 38400,
+									"end": 39700
+								}
+							]
+						},
+						{
+							"type": "節",
+							"number": 200,
+							"title": "互易",
+							"start": 39800,
+							"end": 39900
+						},
+						{
+							"type": "節",
+							"number": 300,
+							"title": "交互計算",
+							"start": 40000,
+							"end": 40500
+						},
+						{
+							"type": "節",
+							"number": 400,
+							"title": "贈與",
+							"start": 40600,
+							"end": 42000
+						},
+						{
+							"type": "節",
+							"number": 500,
+							"title": "租賃",
+							"start": 42100,
+							"end": 46301
+						},
+						{
+							"type": "節",
+							"number": 600,
+							"title": "借貸",
+							"start": 46400,
+							"end": 48100,
+							"children": [
+								{
+									"type": "款",
+									"number": 100,
+									"title": "使用借貸",
+									"start": 46400,
+									"end": 47300
+								},
+								{
+									"type": "款",
+									"number": 200,
+									"title": "消費借貸",
+									"start": 47400,
+									"end": 48100
+								}
+							]
+						},
+						{
+							"type": "節",
+							"number": 700,
+							"title": "僱傭",
+							"start": 48200,
+							"end": 48900
+						},
+						{
+							"type": "節",
+							"number": 800,
+							"title": "承攬",
+							"start": 49000,
+							"end": 51400
+						},
+						{
+							"type": "節",
+							"number": 801,
+							"title": "旅遊",
+							"start": 51401,
+							"end": 51412
+						},
+						{
+							"type": "節",
+							"number": 900,
+							"title": "出版",
+							"start": 51500,
+							"end": 52700
+						},
+						{
+							"type": "節",
+							"number": 1000,
+							"title": "委任",
+							"start": 52800,
+							"end": 55200
+						},
+						{
+							"type": "節",
+							"number": 1100,
+							"title": "經理人及代辦商",
+							"start": 55300,
+							"end": 56400
+						},
+						{
+							"type": "節",
+							"number": 1200,
+							"title": "居間",
+							"start": 56500,
+							"end": 57500
+						},
+						{
+							"type": "節",
+							"number": 1300,
+							"title": "行紀",
+							"start": 57600,
+							"end": 58800
+						},
+						{
+							"type": "節",
+							"number": 1400,
+							"title": "寄託",
+							"start": 58900,
+							"end": 61200
+						},
+						{
+							"type": "節",
+							"number": 1500,
+							"title": "倉庫",
+							"start": 61300,
+							"end": 62100
+						},
+						{
+							"type": "節",
+							"number": 1600,
+							"title": "運送",
+							"start": 62200,
+							"end": 65900,
+							"children": [
+								{
+									"type": "款",
+									"number": 100,
+									"title": "通則",
+									"start": 62200,
+									"end": 62300
+								},
+								{
+									"type": "款",
+									"number": 200,
+									"title": "物品運送",
+									"start": 62400,
+									"end": 65300
+								},
+								{
+									"type": "款",
+									"number": 300,
+									"title": "旅客運送",
+									"start": 65400,
+									"end": 65900
+								}
+							]
+						},
+						{
+							"type": "節",
+							"number": 1700,
+							"title": "承攬運送",
+							"start": 66000,
+							"end": 66600
+						},
+						{
+							"type": "節",
+							"number": 1800,
+							"title": "合夥",
+							"start": 66700,
+							"end": 69900
+						},
+						{
+							"type": "節",
+							"number": 1900,
+							"title": "隱名合夥",
+							"start": 70000,
+							"end": 70900
+						},
+						{
+							"type": "節",
+							"number": 1901,
+							"title": "合會",
+							"start": 70901,
+							"end": 70909
+						},
+						{
+							"type": "節",
+							"number": 2000,
+							"title": "指示證券",
+							"start": 71000,
+							"end": 71800
+						},
+						{
+							"type": "節",
+							"number": 2100,
+							"title": "無記名證券",
+							"start": 71900,
+							"end": 72800
+						},
+						{
+							"type": "節",
+							"number": 2200,
+							"title": "終身定期金",
+							"start": 72900,
+							"end": 73500
+						},
+						{
+							"type": "節",
+							"number": 2300,
+							"title": "和解",
+							"start": 73600,
+							"end": 73800
+						},
+						{
+							"type": "節",
+							"number": 2400,
+							"title": "保證",
+							"start": 73900,
+							"end": 75600
+						},
+						{
+							"type": "節",
+							"number": 2401,
+							"title": "人事保證",
+							"start": 75601,
+							"end": 75609
+						}
+					]
+				}
+			]
 		},
 		{
 			"type": "編",
 			"number": 300,
 			"title": "物權",
-			"start": 75700
-		},
-		{
-			"type": "章",
-			"number": 100,
-			"title": "通則",
-			"start": 75700
-		},
-		{
-			"type": "章",
-			"number": 200,
-			"title": "所有權",
-			"start": 76500
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "通則",
-			"start": 76500
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "不動產所有權",
-			"start": 77300
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "動產所有權",
-			"start": 80100
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "共有",
-			"start": 81700
-		},
-		{
-			"type": "章",
-			"number": 300,
-			"title": "地上權",
-			"start": 83200
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "普通地上權",
-			"start": 83200
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "區分地上權",
-			"start": 84101
-		},
-		{
-			"type": "章",
-			"number": 400,
-			"title": "（刪除）",
-			"start": 84200
-		},
-		{
-			"type": "章",
-			"number": 401,
-			"title": "農育權",
-			"start": 85001
-		},
-		{
-			"type": "章",
-			"number": 500,
-			"title": "不動產役權",
-			"start": 85100
-		},
-		{
-			"type": "章",
-			"number": 600,
-			"title": "抵押權",
-			"start": 86000
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "普通抵押權",
-			"start": 86000
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "最高限額抵押權",
-			"start": 88101
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "其他抵押權",
-			"start": 88200
-		},
-		{
-			"type": "章",
-			"number": 700,
-			"title": "質權",
-			"start": 88400
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "動產質權",
-			"start": 88400
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "權利質權",
-			"start": 90000
-		},
-		{
-			"type": "章",
-			"number": 800,
-			"title": "典權",
-			"start": 91100
-		},
-		{
-			"type": "章",
-			"number": 900,
-			"title": "留置權",
-			"start": 92800
-		},
-		{
-			"type": "章",
-			"number": 1000,
-			"title": "占有",
-			"start": 94000
+			"start": 75700,
+			"end": 96600,
+			"children": [
+				{
+					"type": "章",
+					"number": 100,
+					"title": "通則",
+					"start": 75700,
+					"end": 76400
+				},
+				{
+					"type": "章",
+					"number": 200,
+					"title": "所有權",
+					"start": 76500,
+					"end": 83100,
+					"children": [
+						{
+							"type": "節",
+							"number": 100,
+							"title": "通則",
+							"start": 76500,
+							"end": 77200
+						},
+						{
+							"type": "節",
+							"number": 200,
+							"title": "不動產所有權",
+							"start": 77300,
+							"end": 80001
+						},
+						{
+							"type": "節",
+							"number": 300,
+							"title": "動產所有權",
+							"start": 80100,
+							"end": 81600
+						},
+						{
+							"type": "節",
+							"number": 400,
+							"title": "共有",
+							"start": 81700,
+							"end": 83100
+						}
+					]
+				},
+				{
+					"type": "章",
+					"number": 300,
+					"title": "地上權",
+					"start": 83200,
+					"end": 84106,
+					"children": [
+						{
+							"type": "節",
+							"number": 100,
+							"title": "普通地上權",
+							"start": 83200,
+							"end": 84100
+						},
+						{
+							"type": "節",
+							"number": 200,
+							"title": "區分地上權",
+							"start": 84101,
+							"end": 84106
+						}
+					]
+				},
+				{
+					"type": "章",
+					"number": 400,
+					"title": "（刪除）",
+					"start": 84200,
+					"end": 85000
+				},
+				{
+					"type": "章",
+					"number": 401,
+					"title": "農育權",
+					"start": 85001,
+					"end": 85009
+				},
+				{
+					"type": "章",
+					"number": 500,
+					"title": "不動產役權",
+					"start": 85100,
+					"end": 85905
+				},
+				{
+					"type": "章",
+					"number": 600,
+					"title": "抵押權",
+					"start": 86000,
+					"end": 88300,
+					"children": [
+						{
+							"type": "節",
+							"number": 100,
+							"title": "普通抵押權",
+							"start": 86000,
+							"end": 88100
+						},
+						{
+							"type": "節",
+							"number": 200,
+							"title": "最高限額抵押權",
+							"start": 88101,
+							"end": 88117
+						},
+						{
+							"type": "節",
+							"number": 300,
+							"title": "其他抵押權",
+							"start": 88200,
+							"end": 88300
+						}
+					]
+				},
+				{
+					"type": "章",
+					"number": 700,
+					"title": "質權",
+					"start": 88400,
+					"end": 91000,
+					"children": [
+						{
+							"type": "節",
+							"number": 100,
+							"title": "動產質權",
+							"start": 88400,
+							"end": 89902
+						},
+						{
+							"type": "節",
+							"number": 200,
+							"title": "權利質權",
+							"start": 90000,
+							"end": 91000
+						}
+					]
+				},
+				{
+					"type": "章",
+					"number": 800,
+					"title": "典權",
+					"start": 91100,
+					"end": 92700
+				},
+				{
+					"type": "章",
+					"number": 900,
+					"title": "留置權",
+					"start": 92800,
+					"end": 93900
+				},
+				{
+					"type": "章",
+					"number": 1000,
+					"title": "占有",
+					"start": 94000,
+					"end": 96600
+				}
+			]
 		},
 		{
 			"type": "編",
 			"number": 400,
 			"title": "親屬",
-			"start": 96700
-		},
-		{
-			"type": "章",
-			"number": 100,
-			"title": "通則",
-			"start": 96700
-		},
-		{
-			"type": "章",
-			"number": 200,
-			"title": "婚姻",
-			"start": 97200
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "婚約",
-			"start": 97200
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "結婚",
-			"start": 98000
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "婚姻之普通效力",
-			"start": 100000
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "夫妻財產制",
-			"start": 100400
-		},
-		{
-			"type": "款",
-			"number": 100,
-			"title": "通則",
-			"start": 100400
-		},
-		{
-			"type": "款",
-			"number": 200,
-			"title": "法定財產制",
-			"start": 101600
-		},
-		{
-			"type": "款",
-			"number": 300,
-			"title": "約定財產制",
-			"start": 103100
-		},
-		{
-			"type": "目",
-			"number": 100,
-			"title": "共同財產制",
-			"start": 103100
-		},
-		{
-			"type": "目",
-			"number": 200,
-			"title": "（刪除）",
-			"start": 104200
-		},
-		{
-			"type": "目",
-			"number": 300,
-			"title": "分別財產制",
-			"start": 104400
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "離婚",
-			"start": 104900
-		},
-		{
-			"type": "章",
-			"number": 300,
-			"title": "父母子女",
-			"start": 105900
-		},
-		{
-			"type": "章",
-			"number": 400,
-			"title": "監護",
-			"start": 109100
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "未成年人之監護",
-			"start": 109100
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "成年人之監護及輔助",
-			"start": 111000
-		},
-		{
-			"type": "章",
-			"number": 500,
-			"title": "扶養",
-			"start": 111400
-		},
-		{
-			"type": "章",
-			"number": 600,
-			"title": "家",
-			"start": 112200
-		},
-		{
-			"type": "章",
-			"number": 700,
-			"title": "親屬會議",
-			"start": 112900
+			"start": 96700,
+			"end": 113700,
+			"children": [
+				{
+					"type": "章",
+					"number": 100,
+					"title": "通則",
+					"start": 96700,
+					"end": 97100
+				},
+				{
+					"type": "章",
+					"number": 200,
+					"title": "婚姻",
+					"start": 97200,
+					"end": 105800,
+					"children": [
+						{
+							"type": "節",
+							"number": 100,
+							"title": "婚約",
+							"start": 97200,
+							"end": 97902
+						},
+						{
+							"type": "節",
+							"number": 200,
+							"title": "結婚",
+							"start": 98000,
+							"end": 99901
+						},
+						{
+							"type": "節",
+							"number": 300,
+							"title": "婚姻之普通效力",
+							"start": 100000,
+							"end": 100301
+						},
+						{
+							"type": "節",
+							"number": 400,
+							"title": "夫妻財產制",
+							"start": 100400,
+							"end": 104800,
+							"children": [
+								{
+									"type": "款",
+									"number": 100,
+									"title": "通則",
+									"start": 100400,
+									"end": 101500
+								},
+								{
+									"type": "款",
+									"number": 200,
+									"title": "法定財產制",
+									"start": 101600,
+									"end": 103004
+								},
+								{
+									"type": "款",
+									"number": 300,
+									"title": "約定財產制",
+									"start": 103100,
+									"end": 104800,
+									"children": [
+										{
+											"type": "目",
+											"number": 100,
+											"title": "共同財產制",
+											"start": 103100,
+											"end": 104100
+										},
+										{
+											"type": "目",
+											"number": 200,
+											"title": "（刪除）",
+											"start": 104200,
+											"end": 104300
+										},
+										{
+											"type": "目",
+											"number": 300,
+											"title": "分別財產制",
+											"start": 104400,
+											"end": 104800
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "節",
+							"number": 500,
+							"title": "離婚",
+							"start": 104900,
+							"end": 105800
+						}
+					]
+				},
+				{
+					"type": "章",
+					"number": 300,
+					"title": "父母子女",
+					"start": 105900,
+					"end": 109000
+				},
+				{
+					"type": "章",
+					"number": 400,
+					"title": "監護",
+					"start": 109100,
+					"end": 111301,
+					"children": [
+						{
+							"type": "節",
+							"number": 100,
+							"title": "未成年人之監護",
+							"start": 109100,
+							"end": 110902
+						},
+						{
+							"type": "節",
+							"number": 200,
+							"title": "成年人之監護及輔助",
+							"start": 111000,
+							"end": 111301
+						}
+					]
+				},
+				{
+					"type": "章",
+					"number": 500,
+					"title": "扶養",
+					"start": 111400,
+					"end": 112100
+				},
+				{
+					"type": "章",
+					"number": 600,
+					"title": "家",
+					"start": 112200,
+					"end": 112800
+				},
+				{
+					"type": "章",
+					"number": 700,
+					"title": "親屬會議",
+					"start": 112900,
+					"end": 113700
+				}
+			]
 		},
 		{
 			"type": "編",
 			"number": 500,
 			"title": "繼承",
-			"start": 113800
-		},
-		{
-			"type": "章",
-			"number": 100,
-			"title": "遺產繼承人",
-			"start": 113800
-		},
-		{
-			"type": "章",
-			"number": 200,
-			"title": "遺產之繼承",
-			"start": 114700
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "效力",
-			"start": 114700
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "（刪除）",
-			"start": 115400
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "遺產之分割",
-			"start": 116400
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "繼承之拋棄",
-			"start": 117400
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "無人承認之繼承",
-			"start": 117700
-		},
-		{
-			"type": "章",
-			"number": 300,
-			"title": "遺囑",
-			"start": 118600
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "通則",
-			"start": 118600
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "方式",
-			"start": 118900
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "效力",
-			"start": 119900
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "執行",
-			"start": 120900
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "撤回",
-			"start": 121900
-		},
-		{
-			"type": "節",
-			"number": 600,
-			"title": "特留分",
-			"start": 122300
+			"start": 113800,
+			"end": 122500,
+			"children": [
+				{
+					"type": "章",
+					"number": 100,
+					"title": "遺產繼承人",
+					"start": 113800,
+					"end": 114600
+				},
+				{
+					"type": "章",
+					"number": 200,
+					"title": "遺產之繼承",
+					"start": 114700,
+					"end": 118500,
+					"children": [
+						{
+							"type": "節",
+							"number": 100,
+							"title": "效力",
+							"start": 114700,
+							"end": 115300
+						},
+						{
+							"type": "節",
+							"number": 200,
+							"title": "（刪除）",
+							"start": 115400,
+							"end": 116300
+						},
+						{
+							"type": "節",
+							"number": 300,
+							"title": "遺產之分割",
+							"start": 116400,
+							"end": 117300
+						},
+						{
+							"type": "節",
+							"number": 400,
+							"title": "繼承之拋棄",
+							"start": 117400,
+							"end": 117601
+						},
+						{
+							"type": "節",
+							"number": 500,
+							"title": "無人承認之繼承",
+							"start": 117700,
+							"end": 118500
+						}
+					]
+				},
+				{
+					"type": "章",
+					"number": 300,
+					"title": "遺囑",
+					"start": 118600,
+					"end": 122500,
+					"children": [
+						{
+							"type": "節",
+							"number": 100,
+							"title": "通則",
+							"start": 118600,
+							"end": 118800
+						},
+						{
+							"type": "節",
+							"number": 200,
+							"title": "方式",
+							"start": 118900,
+							"end": 119800
+						},
+						{
+							"type": "節",
+							"number": 300,
+							"title": "效力",
+							"start": 119900,
+							"end": 120800
+						},
+						{
+							"type": "節",
+							"number": 400,
+							"title": "執行",
+							"start": 120900,
+							"end": 121800
+						},
+						{
+							"type": "節",
+							"number": 500,
+							"title": "撤回",
+							"start": 121900,
+							"end": 122200
+						},
+						{
+							"type": "節",
+							"number": 600,
+							"title": "特留分",
+							"start": 122300,
+							"end": 122500
+						}
+					]
+				}
+			]
 		}
 	],
 	"articles": [

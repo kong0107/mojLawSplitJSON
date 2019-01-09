@@ -28,31 +28,36 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 600
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "規劃建設",
-			"start": 700
+			"start": 700,
+			"end": 2000
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "經營管理",
-			"start": 2100
+			"start": 2100,
+			"end": 4300
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "獎勵及處罰",
-			"start": 4400
+			"start": 4400,
+			"end": 6500
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "附則",
-			"start": 6600
+			"start": 6600,
+			"end": 7100
 		}
 	],
 	"articles": [

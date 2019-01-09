@@ -14,61 +14,73 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 500
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "業務",
-			"start": 600
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "有價證券買賣之融資融券",
-			"start": 600
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "對證券商或其他證券金融事業之轉融通",
-			"start": 2100
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "認股融資及承銷融資",
-			"start": 3000
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "有價證券之交割款項融資",
-			"start": 3400
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "有價證券之借貸",
-			"start": 3800
+			"start": 600,
+			"end": 5400,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "有價證券買賣之融資融券",
+					"start": 600,
+					"end": 2000
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "對證券商或其他證券金融事業之轉融通",
+					"start": 2100,
+					"end": 2900
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "認股融資及承銷融資",
+					"start": 3000,
+					"end": 3300
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "有價證券之交割款項融資",
+					"start": 3400,
+					"end": 3700
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "有價證券之借貸",
+					"start": 3800,
+					"end": 5400
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "財務",
-			"start": 5500
+			"start": 5500,
+			"end": 6000
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "事業及人員之監督管理",
-			"start": 6100
+			"start": 6100,
+			"end": 6500
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "附則",
-			"start": 6600
+			"start": 6600,
+			"end": 6600
 		}
 	],
 	"articles": [

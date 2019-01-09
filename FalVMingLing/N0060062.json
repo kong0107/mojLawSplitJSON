@@ -23,31 +23,36 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 500
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "型式驗證",
-			"start": 600
+			"start": 600,
+			"end": 2200
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "驗證機構之認可及管理",
-			"start": 2300
+			"start": 2300,
+			"end": 4200
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "監督及管理",
-			"start": 4300
+			"start": 4300,
+			"end": 4800
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "附則",
-			"start": 4900
+			"start": 4900,
+			"end": 4900
 		}
 	],
 	"articles": [

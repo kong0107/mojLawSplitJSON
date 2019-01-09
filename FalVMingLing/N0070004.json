@@ -30,43 +30,50 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 300
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "勞動檢查機構",
-			"start": 400
+			"start": 400,
+			"end": 700
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "勞動檢查員",
-			"start": 800
+			"start": 800,
+			"end": 1600
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "代行檢查機構與代行檢查員",
-			"start": 1700
+			"start": 1700,
+			"end": 1800
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "檢查程序",
-			"start": 1900
+			"start": 1900,
+			"end": 3900
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "(刪除)",
-			"start": 4000
+			"start": 4000,
+			"end": 4000
 		},
 		{
 			"type": "章",
 			"number": 700,
 			"title": "附則",
-			"start": 4100
+			"start": 4100,
+			"end": 4100
 		}
 	],
 	"articles": [

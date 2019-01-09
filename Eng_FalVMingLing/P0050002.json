@@ -34,31 +34,36 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Provisions",
-			"start": 100
+			"start": 100,
+			"end": 500
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Radio and Television Operation Regulation",
-			"start": 600
+			"start": 600,
+			"end": 1200
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Radio and Television Program Regulation",
-			"start": 1300
+			"start": 1300,
+			"end": 2200
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Radio and Television Advertising Regulation",
-			"start": 2300
+			"start": 2300,
+			"end": 2400
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Supplementary Provisions",
-			"start": 2500
+			"start": 2500,
+			"end": 2500
 		}
 	],
 	"articles": [

@@ -35,37 +35,43 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 800
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "行政",
-			"start": 900
+			"start": 900,
+			"end": 4002
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "民事",
-			"start": 4100
+			"start": 4100,
+			"end": 7400
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "刑事",
-			"start": 7500
+			"start": 7500,
+			"end": 7800
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "罰則",
-			"start": 7900
+			"start": 7900,
+			"end": 9400
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "附則",
-			"start": 9500
+			"start": 9500,
+			"end": 9600
 		}
 	],
 	"articles": [

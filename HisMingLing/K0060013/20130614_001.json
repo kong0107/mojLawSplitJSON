@@ -14,31 +14,36 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 300
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "無線電頻率分配、指配及廢止",
-			"start": 400
+			"start": 400,
+			"end": 1300
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "無線電頻率之使用及干擾處理",
-			"start": 1400
+			"start": 1400,
+			"end": 3000
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "電臺之識別",
-			"start": 3100
+			"start": 3100,
+			"end": 5000
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "附則",
-			"start": 5100
+			"start": 5100,
+			"end": 5500
 		}
 	],
 	"articles": [

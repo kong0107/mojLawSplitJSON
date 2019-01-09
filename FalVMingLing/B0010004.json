@@ -28,73 +28,87 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 3001
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "關於金錢請求權之執行",
-			"start": 3100
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "參與分配",
-			"start": 3100
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "對於動產之執行",
-			"start": 4500
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "對於不動產之執行",
-			"start": 7500
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "對於船舶及航空器之執行",
-			"start": 11400
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "對於其他財產權之執行",
-			"start": 11500
-		},
-		{
-			"type": "節",
-			"number": 600,
-			"title": "對於公法人財產之執行",
-			"start": 12201
+			"start": 3100,
+			"end": 12204,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "參與分配",
+					"start": 3100,
+					"end": 4400
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "對於動產之執行",
+					"start": 4500,
+					"end": 7400
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "對於不動產之執行",
+					"start": 7500,
+					"end": 11300
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "對於船舶及航空器之執行",
+					"start": 11400,
+					"end": 11404
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "對於其他財產權之執行",
+					"start": 11500,
+					"end": 12200
+				},
+				{
+					"type": "節",
+					"number": 600,
+					"title": "對於公法人財產之執行",
+					"start": 12201,
+					"end": 12204
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "關於物之交付請求權之執行",
-			"start": 12300
+			"start": 12300,
+			"end": 12600
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "關於行為及不行為請求權之執行",
-			"start": 12700
+			"start": 12700,
+			"end": 13100
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "假扣押假處分之執行",
-			"start": 13200
+			"start": 13200,
+			"end": 14000
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "附則",
-			"start": 14100
+			"start": 14100,
+			"end": 14200
 		}
 	],
 	"articles": [

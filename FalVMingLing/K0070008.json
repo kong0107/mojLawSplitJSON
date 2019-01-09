@@ -46,163 +46,200 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "通則",
-			"start": 100
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "用詞釋義",
-			"start": 1400
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "檢查",
-			"start": 3400
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "勘劃",
-			"start": 3900
+			"start": 100,
+			"end": 7200,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "通則",
+					"start": 100,
+					"end": 1301
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "用詞釋義",
+					"start": 1400,
+					"end": 3300
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "檢查",
+					"start": 3400,
+					"end": 3800
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "勘劃",
+					"start": 3900,
+					"end": 7200
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "航行國際間船舶勘劃載重線之條件",
-			"start": 7300
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "艛端艙壁及門扉",
-			"start": 7300
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "艙口、門口、機器間開口及其他開口",
-			"start": 7500
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "通風筒及通氣管",
-			"start": 9200
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "船側開口及欄杆等",
-			"start": 9500
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "甲型船舶乾舷勘劃之特別條件",
-			"start": 10800
+			"start": 7300,
+			"end": 11100,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "艛端艙壁及門扉",
+					"start": 7300,
+					"end": 7400
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "艙口、門口、機器間開口及其他開口",
+					"start": 7500,
+					"end": 9100
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "通風筒及通氣管",
+					"start": 9200,
+					"end": 9400
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "船側開口及欄杆等",
+					"start": 9500,
+					"end": 10700
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "甲型船舶乾舷勘劃之特別條件",
+					"start": 10800,
+					"end": 11100
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "航行國際間船舶之乾舷",
-			"start": 11200
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "基本乾舷",
-			"start": 11200
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "船體主要尺寸對乾舷之修正",
-			"start": 11800
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "船艛對乾舷之修正",
-			"start": 12300
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "舷弧高對乾舷之修正",
-			"start": 13100
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "最小乾舷之釐定",
-			"start": 14000
+			"start": 11200,
+			"end": 14400,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "基本乾舷",
+					"start": 11200,
+					"end": 11700
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "船體主要尺寸對乾舷之修正",
+					"start": 11800,
+					"end": 12200
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "船艛對乾舷之修正",
+					"start": 12300,
+					"end": 13000
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "舷弧高對乾舷之修正",
+					"start": 13100,
+					"end": 13900
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "最小乾舷之釐定",
+					"start": 14000,
+					"end": 14400
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "航行國際間裝載木材甲板貨物船舶之載重",
-			"start": 14500
+			"start": 14500,
+			"end": 16100
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "客船艙區劃分載重線",
-			"start": 16200
+			"start": 16200,
+			"end": 17200
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "航行國內航線船舶載重線",
-			"start": 17300
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "勘劃之條件",
-			"start": 17300
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "基本乾舷",
-			"start": 19000
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "乾舷之修正",
-			"start": 19500
+			"start": 17300,
+			"end": 20000,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "勘劃之條件",
+					"start": 17300,
+					"end": 18900
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "基本乾舷",
+					"start": 19000,
+					"end": 19400
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "乾舷之修正",
+					"start": 19500,
+					"end": 20000
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 700,
 			"title": "地帶、區域及季節期間",
-			"start": 20100
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "地帶",
-			"start": 20100
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "區域及季節期間",
-			"start": 21000
+			"start": 20100,
+			"end": 21000,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "地帶",
+					"start": 20100,
+					"end": 20900
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "區域及季節期間",
+					"start": 21000,
+					"end": 21000
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 800,
 			"title": "附則",
-			"start": 21100
+			"start": 21100,
+			"end": 21100
 		}
 	],
 	"articles": [

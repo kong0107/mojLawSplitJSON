@@ -35,127 +35,154 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 200
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "結構部分",
-			"start": 300
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "材料",
-			"start": 300
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "容許應力",
-			"start": 500
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "荷重",
-			"start": 1200
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "強度",
-			"start": 2000
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "安定度",
-			"start": 2400
-		},
-		{
-			"type": "節",
-			"number": 600,
-			"title": "拉條",
-			"start": 2500
+			"start": 300,
+			"end": 2500,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "材料",
+					"start": 300,
+					"end": 400
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "容許應力",
+					"start": 500,
+					"end": 1100
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "荷重",
+					"start": 1200,
+					"end": 1900
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "強度",
+					"start": 2000,
+					"end": 2300
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "安定度",
+					"start": 2400,
+					"end": 2400
+				},
+				{
+					"type": "節",
+					"number": 600,
+					"title": "拉條",
+					"start": 2500,
+					"end": 2500
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "機械部分",
-			"start": 2600
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "制動器",
-			"start": 2600
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "捲胴",
-			"start": 2900
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "安全裝置",
-			"start": 3300
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "電氣部分",
-			"start": 4300
+			"start": 2600,
+			"end": 4700,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "制動器",
+					"start": 2600,
+					"end": 2800
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "捲胴",
+					"start": 2900,
+					"end": 3200
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "安全裝置",
+					"start": 3300,
+					"end": 4200
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "電氣部分",
+					"start": 4300,
+					"end": 4700
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "附屬部分",
-			"start": 4800
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "緩衝裝置",
-			"start": 4800
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "防止逸走裝置等",
-			"start": 5000
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "走道等",
-			"start": 5200
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "駕駛室及駕駛台",
-			"start": 5600
+			"start": 4800,
+			"end": 5800,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "緩衝裝置",
+					"start": 4800,
+					"end": 4900
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "防止逸走裝置等",
+					"start": 5000,
+					"end": 5100
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "走道等",
+					"start": 5200,
+					"end": 5500
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "駕駛室及駕駛台",
+					"start": 5600,
+					"end": 5800
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "加工",
-			"start": 5900
+			"start": 5900,
+			"end": 6200
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "鋼索及吊鏈",
-			"start": 6300
+			"start": 6300,
+			"end": 6500
 		},
 		{
 			"type": "章",
 			"number": 700,
 			"title": "附則",
-			"start": 6600
+			"start": 6600,
+			"end": 6800
 		}
 	],
 	"articles": [

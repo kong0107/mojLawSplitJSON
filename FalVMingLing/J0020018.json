@@ -18,223 +18,270 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "通則",
-			"start": 100
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "礦場安全組織、人員及檢查",
-			"start": 900
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "礦場安全訓練",
-			"start": 1700
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "礦場安全圖、日誌及守則",
-			"start": 1900
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "防火",
-			"start": 2300
-		},
-		{
-			"type": "節",
-			"number": 600,
-			"title": "爆炸物及爆破",
-			"start": 2600
-		},
-		{
-			"type": "節",
-			"number": 700,
-			"title": "機電、搬運及坑外設施",
-			"start": 2900
+			"start": 100,
+			"end": 6900,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "通則",
+					"start": 100,
+					"end": 800
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "礦場安全組織、人員及檢查",
+					"start": 900,
+					"end": 1600
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "礦場安全訓練",
+					"start": 1700,
+					"end": 1800
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "礦場安全圖、日誌及守則",
+					"start": 1900,
+					"end": 2200
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "防火",
+					"start": 2300,
+					"end": 2500
+				},
+				{
+					"type": "節",
+					"number": 600,
+					"title": "爆炸物及爆破",
+					"start": 2600,
+					"end": 2800
+				},
+				{
+					"type": "節",
+					"number": 700,
+					"title": "機電、搬運及坑外設施",
+					"start": 2900,
+					"end": 6900
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "地下礦場",
-			"start": 7000
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "坑內氣體",
-			"start": 7000
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "通風",
-			"start": 7300
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "氣體、煤層或岩石突出",
-			"start": 8900
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "煤塵控制",
-			"start": 9200
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "坑內防火",
-			"start": 9700
-		},
-		{
-			"type": "節",
-			"number": 600,
-			"title": "防水",
-			"start": 10400
-		},
-		{
-			"type": "節",
-			"number": 700,
-			"title": "支撐",
-			"start": 11400
-		},
-		{
-			"type": "節",
-			"number": 800,
-			"title": "爆炸物及爆破",
-			"start": 12100
-		},
-		{
-			"type": "節",
-			"number": 900,
-			"title": "坑內道路",
-			"start": 12800
-		},
-		{
-			"type": "節",
-			"number": 1000,
-			"title": "搬運",
-			"start": 13400
-		},
-		{
-			"type": "節",
-			"number": 1100,
-			"title": "機械器具",
-			"start": 13700
-		},
-		{
-			"type": "節",
-			"number": 1200,
-			"title": "電機設備",
-			"start": 14100
-		},
-		{
-			"type": "節",
-			"number": 1300,
-			"title": "坑外設施",
-			"start": 14700
+			"start": 7000,
+			"end": 14900,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "坑內氣體",
+					"start": 7000,
+					"end": 7200
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "通風",
+					"start": 7300,
+					"end": 8800
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "氣體、煤層或岩石突出",
+					"start": 8900,
+					"end": 9100
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "煤塵控制",
+					"start": 9200,
+					"end": 9600
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "坑內防火",
+					"start": 9700,
+					"end": 10300
+				},
+				{
+					"type": "節",
+					"number": 600,
+					"title": "防水",
+					"start": 10400,
+					"end": 11300
+				},
+				{
+					"type": "節",
+					"number": 700,
+					"title": "支撐",
+					"start": 11400,
+					"end": 12000
+				},
+				{
+					"type": "節",
+					"number": 800,
+					"title": "爆炸物及爆破",
+					"start": 12100,
+					"end": 12700
+				},
+				{
+					"type": "節",
+					"number": 900,
+					"title": "坑內道路",
+					"start": 12800,
+					"end": 13300
+				},
+				{
+					"type": "節",
+					"number": 1000,
+					"title": "搬運",
+					"start": 13400,
+					"end": 13600
+				},
+				{
+					"type": "節",
+					"number": 1100,
+					"title": "機械器具",
+					"start": 13700,
+					"end": 14000
+				},
+				{
+					"type": "節",
+					"number": 1200,
+					"title": "電機設備",
+					"start": 14100,
+					"end": 14600
+				},
+				{
+					"type": "節",
+					"number": 1300,
+					"title": "坑外設施",
+					"start": 14700,
+					"end": 14900
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "露天礦場",
-			"start": 15000
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "落石及崩塌之防止",
-			"start": 15000
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "爆炸物及爆破",
-			"start": 16000
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "採礦設備",
-			"start": 16200
+			"start": 15000,
+			"end": 16800,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "落石及崩塌之防止",
+					"start": 15000,
+					"end": 15900
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "爆炸物及爆破",
+					"start": 16000,
+					"end": 16100
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "採礦設備",
+					"start": 16200,
+					"end": 16800
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "石油、天然氣礦場",
-			"start": 16900
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "防火及安全管理",
-			"start": 16900
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "鑽井",
-			"start": 17500
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "油氣採收",
-			"start": 18700
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "海域探採",
-			"start": 19300
+			"start": 16900,
+			"end": 20300,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "防火及安全管理",
+					"start": 16900,
+					"end": 17400
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "鑽井",
+					"start": 17500,
+					"end": 18600
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "油氣採收",
+					"start": 18700,
+					"end": 19200
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "海域探採",
+					"start": 19300,
+					"end": 20300
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "衛生醫療及災變救護",
-			"start": 20400
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "衛生醫療",
-			"start": 20400
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "災變處理",
-			"start": 20600
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "救護",
-			"start": 20800
+			"start": 20400,
+			"end": 21300,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "衛生醫療",
+					"start": 20400,
+					"end": 20500
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "災變處理",
+					"start": 20600,
+					"end": 20700
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "救護",
+					"start": 20800,
+					"end": 21300
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "監督",
-			"start": 21400
+			"start": 21400,
+			"end": 21600
 		},
 		{
 			"type": "章",
 			"number": 700,
 			"title": "附則",
-			"start": 21700
+			"start": 21700,
+			"end": 21800
 		}
 	],
 	"articles": [

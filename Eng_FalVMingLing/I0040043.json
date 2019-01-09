@@ -15,49 +15,59 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Principles",
-			"start": 100
+			"start": 100,
+			"end": 900
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Establishment of Reformatory Schools",
-			"start": 1000
+			"start": 1000,
+			"end": 3600
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Enforcement of Reformatory Schools",
-			"start": 3700
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Entering and Leaving Institutions",
-			"start": 3700
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Education Enforcement",
-			"start": 5100
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Living and Discipline",
-			"start": 6900
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "Reward and Punishment",
-			"start": 7700
+			"start": 3700,
+			"end": 8000,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Entering and Leaving Institutions",
+					"start": 3700,
+					"end": 5000
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Education Enforcement",
+					"start": 5100,
+					"end": 6800
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Living and Discipline",
+					"start": 6900,
+					"end": 7600
+				},
+				{
+					"type": "section",
+					"number": 400,
+					"title": "Reward and Punishment",
+					"start": 7700,
+					"end": 8000
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Supplemental Provisions",
-			"start": 8100
+			"start": 8100,
+			"end": 8600
 		}
 	],
 	"articles": [

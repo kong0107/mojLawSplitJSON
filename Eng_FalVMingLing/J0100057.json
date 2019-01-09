@@ -61,37 +61,43 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Principles",
-			"start": 100
+			"start": 100,
+			"end": 300
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Verification Fee",
-			"start": 400
+			"start": 400,
+			"end": 2202
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Appraisal Fee",
-			"start": 2300
+			"start": 2300,
+			"end": 2500
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Type Approval Fee and Assessment Fee",
-			"start": 2600
+			"start": 2600,
+			"end": 2700
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Calibration Fee",
-			"start": 2800
+			"start": 2800,
+			"end": 2901
 		},
 		{
 			"type": "chapter",
 			"number": 600,
 			"title": "Other Fees",
-			"start": 3000
+			"start": 3000,
+			"end": 3300
 		}
 	],
 	"articles": [

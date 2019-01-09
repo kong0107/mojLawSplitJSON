@@ -16,31 +16,36 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General",
-			"start": 100
+			"start": 100,
+			"end": 100
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "The Certifying Body",
-			"start": 200
+			"start": 200,
+			"end": 300
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Application for Accreditation",
-			"start": 400
+			"start": 400,
+			"end": 800
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Management of the Certifying Body",
-			"start": 900
+			"start": 900,
+			"end": 1500
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Supplementary Provisions",
-			"start": 1600
+			"start": 1600,
+			"end": 1600
 		}
 	],
 	"articles": [

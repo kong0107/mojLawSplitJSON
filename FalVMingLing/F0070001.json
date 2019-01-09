@@ -23,25 +23,29 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 300
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "禁止及限制事項",
-			"start": 400
+			"start": 400,
+			"end": 702
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "懲罰",
-			"start": 800
+			"start": 800,
+			"end": 1401
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "附則",
-			"start": 1500
+			"start": 1500,
+			"end": 1900
 		}
 	],
 	"articles": [

@@ -29,37 +29,43 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Provisions",
-			"start": 100
+			"start": 100,
+			"end": 800
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Administrative Matters",
-			"start": 900
+			"start": 900,
+			"end": 4002
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Civil Matters",
-			"start": 4100
+			"start": 4100,
+			"end": 7400
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Criminal Matters",
-			"start": 7500
+			"start": 7500,
+			"end": 7800
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Penal Provisions",
-			"start": 7900
+			"start": 7900,
+			"end": 9400
 		},
 		{
 			"type": "chapter",
 			"number": 600,
 			"title": "Supplementary Provisions",
-			"start": 9500
+			"start": 9500,
+			"end": 9600
 		}
 	],
 	"articles": [

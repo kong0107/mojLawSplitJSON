@@ -36,25 +36,29 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Principles",
-			"start": 100
+			"start": 100,
+			"end": 400
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Application For Registration",
-			"start": 500
+			"start": 500,
+			"end": 1000
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Management and Supervision",
-			"start": 1100
+			"start": 1100,
+			"end": 2100
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Supplementary Provision",
-			"start": 2200
+			"start": 2200,
+			"end": 2400
 		}
 	],
 	"articles": [

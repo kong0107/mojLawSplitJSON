@@ -23,85 +23,103 @@
 			"type": "章",
 			"number": 100,
 			"title": "通則",
-			"start": 100
+			"start": 100,
+			"end": 500
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "船舶",
-			"start": 600
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "船舶所有權",
-			"start": 600
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "海事優先權",
-			"start": 2400
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "船舶抵押權",
-			"start": 3300
+			"start": 600,
+			"end": 3700,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "船舶所有權",
+					"start": 600,
+					"end": 2300
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "海事優先權",
+					"start": 2400,
+					"end": 3200
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "船舶抵押權",
+					"start": 3300,
+					"end": 3700
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "運送",
-			"start": 3800
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "貨物運送",
-			"start": 3800
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "旅客運送",
-			"start": 7900
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "船舶拖帶",
-			"start": 9200
+			"start": 3800,
+			"end": 9300,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "貨物運送",
+					"start": 3800,
+					"end": 7800
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "旅客運送",
+					"start": 7900,
+					"end": 9100
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "船舶拖帶",
+					"start": 9200,
+					"end": 9300
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "船舶碰撞",
-			"start": 9400
+			"start": 9400,
+			"end": 10100
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "海難救助",
-			"start": 10200
+			"start": 10200,
+			"end": 10900
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "共同海損",
-			"start": 11000
+			"start": 11000,
+			"end": 12500
 		},
 		{
 			"type": "章",
 			"number": 700,
 			"title": "海上保險",
-			"start": 12600
+			"start": 12600,
+			"end": 15200
 		},
 		{
 			"type": "章",
 			"number": 800,
 			"title": "附則",
-			"start": 15300
+			"start": 15300,
+			"end": 15300
 		}
 	],
 	"articles": [

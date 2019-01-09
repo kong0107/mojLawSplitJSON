@@ -25,55 +25,66 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 600
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "船舶運送業之管理",
-			"start": 700
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "船舶運送業",
-			"start": 700
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "外國籍船舶運送業",
-			"start": 2800
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "國際聯營組織及國際航運協議",
-			"start": 3400
+			"start": 700,
+			"end": 3500,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "船舶運送業",
+					"start": 700,
+					"end": 2701
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "外國籍船舶運送業",
+					"start": 2800,
+					"end": 3300
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "國際聯營組織及國際航運協議",
+					"start": 3400,
+					"end": 3500
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "船務代理業、海運承攬運送業之管理",
-			"start": 3600
+			"start": 3600,
+			"end": 4300
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "貨櫃集散站經營業之管理",
-			"start": 4400
+			"start": 4400,
+			"end": 4800
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "罰則",
-			"start": 4900
+			"start": 4900,
+			"end": 5800
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "附則",
-			"start": 5900
+			"start": 5900,
+			"end": 6100
 		}
 	],
 	"articles": [

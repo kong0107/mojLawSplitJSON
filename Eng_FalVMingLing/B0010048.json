@@ -13,157 +13,189 @@
 			"type": "part",
 			"number": 100,
 			"title": "GENERAL PRINCIPLES",
-			"start": 100
+			"start": 100,
+			"end": 2200
 		},
 		{
 			"type": "part",
 			"number": 200,
 			"title": "MEDIATION PROCEDURES",
-			"start": 2300
+			"start": 2300,
+			"end": 3600
 		},
 		{
 			"type": "part",
 			"number": 300,
 			"title": "LITIGATION PROCEDURES FOR FAMILY MATTERS",
-			"start": 3700
-		},
-		{
-			"type": "chapter",
-			"number": 100,
-			"title": "GENERAL PRINICIPLES",
-			"start": 3700
-		},
-		{
-			"type": "chapter",
-			"number": 200,
-			"title": "PROCEDURES FOR MARRIAGE MATTERS",
-			"start": 5200
-		},
-		{
-			"type": "chapter",
-			"number": 300,
-			"title": "PROCEDURES FOR PARENT-CHILD RELATION MATTERS",
-			"start": 6100
-		},
-		{
-			"type": "chapter",
-			"number": 400,
-			"title": "LITIGATION MATTERS CONCERNING INHERITANCE",
-			"start": 7000
+			"start": 3700,
+			"end": 7300,
+			"children": [
+				{
+					"type": "chapter",
+					"number": 100,
+					"title": "GENERAL PRINICIPLES",
+					"start": 3700,
+					"end": 5100
+				},
+				{
+					"type": "chapter",
+					"number": 200,
+					"title": "PROCEDURES FOR MARRIAGE MATTERS",
+					"start": 5200,
+					"end": 6000
+				},
+				{
+					"type": "chapter",
+					"number": 300,
+					"title": "PROCEDURES FOR PARENT-CHILD RELATION MATTERS",
+					"start": 6100,
+					"end": 6900
+				},
+				{
+					"type": "chapter",
+					"number": 400,
+					"title": "LITIGATION MATTERS CONCERNING INHERITANCE",
+					"start": 7000,
+					"end": 7300
+				}
+			]
 		},
 		{
 			"type": "part",
 			"number": 400,
 			"title": "NON-LITIGATION PROCEDURES FOR FAMILY MATTERS",
-			"start": 7400
-		},
-		{
-			"type": "chapter",
-			"number": 100,
-			"title": "GENERAL PRINICIPLES",
-			"start": 7400
-		},
-		{
-			"type": "chapter",
-			"number": 200,
-			"title": "NON-LITIGATION MATTERS CONCERNING MARRIAGE",
-			"start": 9800
-		},
-		{
-			"type": "chapter",
-			"number": 300,
-			"title": "NON-LITIGATION MATTERS CONCERNING PARENT-CHILD RELATIONS",
-			"start": 10400
-		},
-		{
-			"type": "chapter",
-			"number": 400,
-			"title": "MATTERS CONCERNING ADOPTION",
-			"start": 11400
-		},
-		{
-			"type": "chapter",
-			"number": 500,
-			"title": "MATTERS CONCERNING GUARDIANSHIP OF MINORS",
-			"start": 12000
-		},
-		{
-			"type": "chapter",
-			"number": 600,
-			"title": "MATTERS CONCERNING MAINTENANCE BETWEEN RELATIVES",
-			"start": 12500
-		},
-		{
-			"type": "chapter",
-			"number": 700,
-			"title": "MATTERS CONCERNING SUCCESSION",
-			"start": 12700
-		},
-		{
-			"type": "chapter",
-			"number": 800,
-			"title": "MATTERS CONCERNING MANAGEMENT OF THE PROPERTY OF AN ABSENT PERSON",
-			"start": 14200
-		},
-		{
-			"type": "chapter",
-			"number": 900,
-			"title": "MATTERS CONCERNING DECLARATION OF DEATH",
-			"start": 15400
-		},
-		{
-			"type": "chapter",
-			"number": 1000,
-			"title": "MATTERS CONCERNING DECLARATION OF COMMENCEMENT OF GUARDIANSHIP",
-			"start": 16400
-		},
-		{
-			"type": "chapter",
-			"number": 1100,
-			"title": "MATTERS CONCERNING DECLARATION OF COMMENCEMENT OF ASSISTANCE",
-			"start": 17700
-		},
-		{
-			"type": "chapter",
-			"number": 1200,
-			"title": "MATTERS CONCERNING THE FAMILY COUNCIL",
-			"start": 18100
-		},
-		{
-			"type": "chapter",
-			"number": 1300,
-			"title": "MATTERS CONCERNING PROTECTIVE PLACEMENT",
-			"start": 18400
+			"start": 7400,
+			"end": 18500,
+			"children": [
+				{
+					"type": "chapter",
+					"number": 100,
+					"title": "GENERAL PRINICIPLES",
+					"start": 7400,
+					"end": 9700
+				},
+				{
+					"type": "chapter",
+					"number": 200,
+					"title": "NON-LITIGATION MATTERS CONCERNING MARRIAGE",
+					"start": 9800,
+					"end": 10300
+				},
+				{
+					"type": "chapter",
+					"number": 300,
+					"title": "NON-LITIGATION MATTERS CONCERNING PARENT-CHILD RELATIONS",
+					"start": 10400,
+					"end": 11300
+				},
+				{
+					"type": "chapter",
+					"number": 400,
+					"title": "MATTERS CONCERNING ADOPTION",
+					"start": 11400,
+					"end": 11900
+				},
+				{
+					"type": "chapter",
+					"number": 500,
+					"title": "MATTERS CONCERNING GUARDIANSHIP OF MINORS",
+					"start": 12000,
+					"end": 12400
+				},
+				{
+					"type": "chapter",
+					"number": 600,
+					"title": "MATTERS CONCERNING MAINTENANCE BETWEEN RELATIVES",
+					"start": 12500,
+					"end": 12600
+				},
+				{
+					"type": "chapter",
+					"number": 700,
+					"title": "MATTERS CONCERNING SUCCESSION",
+					"start": 12700,
+					"end": 14100
+				},
+				{
+					"type": "chapter",
+					"number": 800,
+					"title": "MATTERS CONCERNING MANAGEMENT OF THE PROPERTY OF AN ABSENT PERSON",
+					"start": 14200,
+					"end": 15300
+				},
+				{
+					"type": "chapter",
+					"number": 900,
+					"title": "MATTERS CONCERNING DECLARATION OF DEATH",
+					"start": 15400,
+					"end": 16300
+				},
+				{
+					"type": "chapter",
+					"number": 1000,
+					"title": "MATTERS CONCERNING DECLARATION OF COMMENCEMENT OF GUARDIANSHIP",
+					"start": 16400,
+					"end": 17600
+				},
+				{
+					"type": "chapter",
+					"number": 1100,
+					"title": "MATTERS CONCERNING DECLARATION OF COMMENCEMENT OF ASSISTANCE",
+					"start": 17700,
+					"end": 18000
+				},
+				{
+					"type": "chapter",
+					"number": 1200,
+					"title": "MATTERS CONCERNING THE FAMILY COUNCIL",
+					"start": 18100,
+					"end": 18300
+				},
+				{
+					"type": "chapter",
+					"number": 1300,
+					"title": "MATTERS CONCERNING PROTECTIVE PLACEMENT",
+					"start": 18400,
+					"end": 18500
+				}
+			]
 		},
 		{
 			"type": "part",
 			"number": 500,
 			"title": "SECURING PERFORMANCE AND EXECUTION",
-			"start": 18600
-		},
-		{
-			"type": "chapter",
-			"number": 100,
-			"title": "GENERAL PRINICIPLES",
-			"start": 18600
-		},
-		{
-			"type": "chapter",
-			"number": 200,
-			"title": "EXECUTION OF EXPENSES FOR MAINTEANCE OR OF OTHER EXPENSES",
-			"start": 18900
-		},
-		{
-			"type": "chapter",
-			"number": 300,
-			"title": "EXECUTION CONCERNING HANDING OVER OF A CHILD OR CONCERNING MEETING OR COMMUNICATING WITH A CHILD",
-			"start": 19400
+			"start": 18600,
+			"end": 19500,
+			"children": [
+				{
+					"type": "chapter",
+					"number": 100,
+					"title": "GENERAL PRINICIPLES",
+					"start": 18600,
+					"end": 18800
+				},
+				{
+					"type": "chapter",
+					"number": 200,
+					"title": "EXECUTION OF EXPENSES FOR MAINTEANCE OR OF OTHER EXPENSES",
+					"start": 18900,
+					"end": 19300
+				},
+				{
+					"type": "chapter",
+					"number": 300,
+					"title": "EXECUTION CONCERNING HANDING OVER OF A CHILD OR CONCERNING MEETING OR COMMUNICATING WITH A CHILD",
+					"start": 19400,
+					"end": 19500
+				}
+			]
 		},
 		{
 			"type": "part",
 			"number": 600,
 			"title": "SUPPLEMENTARY PROVISIONS",
-			"start": 19600
+			"start": 19600,
+			"end": 20000
 		}
 	],
 	"articles": [

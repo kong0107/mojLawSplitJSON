@@ -46,37 +46,43 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Provisions",
-			"start": 100
+			"start": 100,
+			"end": 1100
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Cars",
-			"start": 1200
+			"start": 1200,
+			"end": 6800
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Slow-moving Vehicles",
-			"start": 6900
+			"start": 6900,
+			"end": 7700
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Pedestrians",
-			"start": 7800
+			"start": 7800,
+			"end": 8101
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Road Obstacles",
-			"start": 8200
+			"start": 8200,
+			"end": 8400
 		},
 		{
 			"type": "chapter",
 			"number": 600,
 			"title": "Supplementary Provisions",
-			"start": 8500
+			"start": 8500,
+			"end": 9300
 		}
 	],
 	"articles": [

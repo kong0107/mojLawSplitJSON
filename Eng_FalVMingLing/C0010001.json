@@ -38,217 +38,263 @@
 			"type": "part",
 			"number": 100,
 			"title": "GENERAL PROVISIONS",
-			"start": 100
-		},
-		{
-			"type": "chapter",
-			"number": 100,
-			"title": "APPLICATION OF THE CODE",
-			"start": 100
-		},
-		{
-			"type": "chapter",
-			"number": 200,
-			"title": "JURISDICTION OF COURTS",
-			"start": 400
-		},
-		{
-			"type": "chapter",
-			"number": 300,
-			"title": "DISQUALIFICATION OF COURT OFFICERS",
-			"start": 1700
-		},
-		{
-			"type": "chapter",
-			"number": 400,
-			"title": "DEFENSE ATTORNEYS, ASSISTANTS, AND AGENTS",
-			"start": 2700
-		},
-		{
-			"type": "chapter",
-			"number": 500,
-			"title": "DOCUMENTS",
-			"start": 3900
-		},
-		{
-			"type": "chapter",
-			"number": 600,
-			"title": "SERVICE",
-			"start": 5500
-		},
-		{
-			"type": "chapter",
-			"number": 700,
-			"title": "DATES AND PERIODS",
-			"start": 6300
-		},
-		{
-			"type": "chapter",
-			"number": 800,
-			"title": "SUMMONS AND ARREST OF ACCUSED",
-			"start": 7100
-		},
-		{
-			"type": "chapter",
-			"number": 900,
-			"title": "EXAMINATION OF ACCUSED",
-			"start": 9400
-		},
-		{
-			"type": "chapter",
-			"number": 1000,
-			"title": "DETENTION OF ACCUSED",
-			"start": 10100
-		},
-		{
-			"type": "chapter",
-			"number": 1100,
-			"title": "SEARCH AND SEIZURE",
-			"start": 12200
-		},
-		{
-			"type": "chapter",
-			"number": 1200,
-			"title": "EVIDENCE",
-			"start": 15400
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "GENERAL PROVISIONS",
-			"start": 15400
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "WITNESS",
-			"start": 17500
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "EXPERT WITNESSES AND INTERPRETERS",
-			"start": 19700
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "INSPECTIONS",
-			"start": 21200
-		},
-		{
-			"type": "section",
-			"number": 500,
-			"title": "PERPETUATION OF EVIDENCE",
-			"start": 21901
-		},
-		{
-			"type": "chapter",
-			"number": 1300,
-			"title": "DECISIONS",
-			"start": 22000
+			"start": 100,
+			"end": 22700,
+			"children": [
+				{
+					"type": "chapter",
+					"number": 100,
+					"title": "APPLICATION OF THE CODE",
+					"start": 100,
+					"end": 300
+				},
+				{
+					"type": "chapter",
+					"number": 200,
+					"title": "JURISDICTION OF COURTS",
+					"start": 400,
+					"end": 1600
+				},
+				{
+					"type": "chapter",
+					"number": 300,
+					"title": "DISQUALIFICATION OF COURT OFFICERS",
+					"start": 1700,
+					"end": 2600
+				},
+				{
+					"type": "chapter",
+					"number": 400,
+					"title": "DEFENSE ATTORNEYS, ASSISTANTS, AND AGENTS",
+					"start": 2700,
+					"end": 3800
+				},
+				{
+					"type": "chapter",
+					"number": 500,
+					"title": "DOCUMENTS",
+					"start": 3900,
+					"end": 5400
+				},
+				{
+					"type": "chapter",
+					"number": 600,
+					"title": "SERVICE",
+					"start": 5500,
+					"end": 6200
+				},
+				{
+					"type": "chapter",
+					"number": 700,
+					"title": "DATES AND PERIODS",
+					"start": 6300,
+					"end": 7000
+				},
+				{
+					"type": "chapter",
+					"number": 800,
+					"title": "SUMMONS AND ARREST OF ACCUSED",
+					"start": 7100,
+					"end": 9301
+				},
+				{
+					"type": "chapter",
+					"number": 900,
+					"title": "EXAMINATION OF ACCUSED",
+					"start": 9400,
+					"end": 10003
+				},
+				{
+					"type": "chapter",
+					"number": 1000,
+					"title": "DETENTION OF ACCUSED",
+					"start": 10100,
+					"end": 12100
+				},
+				{
+					"type": "chapter",
+					"number": 1100,
+					"title": "SEARCH AND SEIZURE",
+					"start": 12200,
+					"end": 15300
+				},
+				{
+					"type": "chapter",
+					"number": 1200,
+					"title": "EVIDENCE",
+					"start": 15400,
+					"end": 21908,
+					"children": [
+						{
+							"type": "section",
+							"number": 100,
+							"title": "GENERAL PROVISIONS",
+							"start": 15400,
+							"end": 17400
+						},
+						{
+							"type": "section",
+							"number": 200,
+							"title": "WITNESS",
+							"start": 17500,
+							"end": 19601
+						},
+						{
+							"type": "section",
+							"number": 300,
+							"title": "EXPERT WITNESSES AND INTERPRETERS",
+							"start": 19700,
+							"end": 21100
+						},
+						{
+							"type": "section",
+							"number": 400,
+							"title": "INSPECTIONS",
+							"start": 21200,
+							"end": 21900
+						},
+						{
+							"type": "section",
+							"number": 500,
+							"title": "PERPETUATION OF EVIDENCE",
+							"start": 21901,
+							"end": 21908
+						}
+					]
+				},
+				{
+					"type": "chapter",
+					"number": 1300,
+					"title": "DECISIONS",
+					"start": 22000,
+					"end": 22700
+				}
+			]
 		},
 		{
 			"type": "part",
 			"number": 200,
 			"title": "TRIAL OF THE FIRST INSTANCE",
-			"start": 22800
-		},
-		{
-			"type": "chapter",
-			"number": 100,
-			"title": "PUBLIC PROSECUTION",
-			"start": 22800
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "INVESTIGATION",
-			"start": 22800
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "PROSECUTION",
-			"start": 26400
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "TRIAL",
-			"start": 27100
-		},
-		{
-			"type": "chapter",
-			"number": 200,
-			"title": "PRIVATE PROSECUTION",
-			"start": 31900
+			"start": 22800,
+			"end": 34300,
+			"children": [
+				{
+					"type": "chapter",
+					"number": 100,
+					"title": "PUBLIC PROSECUTION",
+					"start": 22800,
+					"end": 31800,
+					"children": [
+						{
+							"type": "section",
+							"number": 100,
+							"title": "INVESTIGATION",
+							"start": 22800,
+							"end": 26300
+						},
+						{
+							"type": "section",
+							"number": 200,
+							"title": "PROSECUTION",
+							"start": 26400,
+							"end": 27000
+						},
+						{
+							"type": "section",
+							"number": 300,
+							"title": "TRIAL",
+							"start": 27100,
+							"end": 31800
+						}
+					]
+				},
+				{
+					"type": "chapter",
+					"number": 200,
+					"title": "PRIVATE PROSECUTION",
+					"start": 31900,
+					"end": 34300
+				}
+			]
 		},
 		{
 			"type": "part",
 			"number": 300,
 			"title": "Appeals",
-			"start": 34400
-		},
-		{
-			"type": "chapter",
-			"number": 100,
-			"title": "General Provisions",
-			"start": 34400
-		},
-		{
-			"type": "chapter",
-			"number": 200,
-			"title": "The Second Instance",
-			"start": 36100
-		},
-		{
-			"type": "chapter",
-			"number": 300,
-			"title": "The Third Instance",
-			"start": 37500
+			"start": 34400,
+			"end": 40200,
+			"children": [
+				{
+					"type": "chapter",
+					"number": 100,
+					"title": "General Provisions",
+					"start": 34400,
+					"end": 36000
+				},
+				{
+					"type": "chapter",
+					"number": 200,
+					"title": "The Second Instance",
+					"start": 36100,
+					"end": 37400
+				},
+				{
+					"type": "chapter",
+					"number": 300,
+					"title": "The Third Instance",
+					"start": 37500,
+					"end": 40200
+				}
+			]
 		},
 		{
 			"type": "part",
 			"number": 400,
 			"title": "Interlocutory Appeal",
-			"start": 40300
+			"start": 40300,
+			"end": 41900
 		},
 		{
 			"type": "part",
 			"number": 500,
 			"title": "Retrial",
-			"start": 42000
+			"start": 42000,
+			"end": 44000
 		},
 		{
 			"type": "part",
 			"number": 600,
 			"title": "Extraordinary Appeal",
-			"start": 44100
+			"start": 44100,
+			"end": 44800
 		},
 		{
 			"type": "part",
 			"number": 700,
 			"title": "Summary Procedure",
-			"start": 44900
+			"start": 44900,
+			"end": 45501
 		},
 		{
 			"type": "part",
 			"number": 701,
 			"title": "The Bargaining Process",
-			"start": 45502
+			"start": 45502,
+			"end": 45511
 		},
 		{
 			"type": "part",
 			"number": 800,
 			"title": "Execution",
-			"start": 45600
+			"start": 45600,
+			"end": 48600
 		},
 		{
 			"type": "part",
 			"number": 900,
 			"title": "Ancillary Civil Action",
-			"start": 48700
+			"start": 48700,
+			"end": 51200
 		}
 	],
 	"articles": [

@@ -30,55 +30,66 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Principles",
-			"start": 100
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "General Provisions",
-			"start": 100
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Definitions",
-			"start": 700
+			"start": 100,
+			"end": 1300,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "General Provisions",
+					"start": 100,
+					"end": 600
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Definitions",
+					"start": 700,
+					"end": 1300
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Land Value Tax",
-			"start": 1400
+			"start": 1400,
+			"end": 2100
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Agricultural Land Tax",
-			"start": 2200
+			"start": 2200,
+			"end": 2701
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Land Value Increment tax",
-			"start": 2800
+			"start": 2800,
+			"end": 3903
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Tax Collection Procedure",
-			"start": 4000
+			"start": 4000,
+			"end": 5200
 		},
 		{
 			"type": "chapter",
 			"number": 600,
 			"title": "Penal Provisions",
-			"start": 5300
+			"start": 5300,
+			"end": 5600
 		},
 		{
 			"type": "chapter",
 			"number": 700,
 			"title": "Supplemental Provisions",
-			"start": 5700
+			"start": 5700,
+			"end": 5900
 		}
 	],
 	"articles": [

@@ -13,160 +13,175 @@
 			"type": "章",
 			"number": 100,
 			"title": "用語定義",
-			"start": 100
+			"start": 100,
+			"end": 100
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "一般設計通則",
-			"start": 200
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "建築基地",
-			"start": 200
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "牆面線、建築物突出部份",
-			"start": 700
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "建築物高度",
-			"start": 1100
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "建蔽率",
-			"start": 2500
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "容積率",
-			"start": 3000
-		},
-		{
-			"type": "節",
-			"number": 600,
-			"title": "地板、天花板",
-			"start": 3100
-		},
-		{
-			"type": "節",
-			"number": 700,
-			"title": "樓梯、欄杆、坡道",
-			"start": 3300
-		},
-		{
-			"type": "節",
-			"number": 800,
-			"title": "日照、採光、通風、節約能源"
-		},
-		{
-			"type": "節",
-			"number": 900,
-			"title": "防音"
-		},
-		{
-			"type": "節",
-			"number": 1000,
-			"title": "廁所、污水處理設施"
-		},
-		{
-			"type": "節",
-			"number": 1100,
-			"title": "煙囟"
-		},
-		{
-			"type": "節",
-			"number": 1200,
-			"title": "昇降及垃圾排除設備"
-		},
-		{
-			"type": "節",
-			"number": 1300,
-			"title": "騎樓、無遮簷人行道"
-		},
-		{
-			"type": "節",
-			"number": 1400,
-			"title": "停車空間"
-		},
-		{
-			"type": "章",
-			"number": 300,
-			"title": "建築物之防火"
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "適用範圍"
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "雜項工作物之防火限制"
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "防火構造"
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "防火區劃"
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "內部裝修限制"
+			"start": 200,
+			"end": 29700,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "建築基地",
+					"start": 200,
+					"end": 600
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "牆面線、建築物突出部份",
+					"start": 700,
+					"end": 1000
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "建築物高度",
+					"start": 1100,
+					"end": 2401
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "建蔽率",
+					"start": 2500,
+					"end": 2900
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "容積率",
+					"start": 3000,
+					"end": 3001
+				},
+				{
+					"type": "節",
+					"number": 600,
+					"title": "地板、天花板",
+					"start": 3100,
+					"end": 3200
+				},
+				{
+					"type": "節",
+					"number": 700,
+					"title": "樓梯、欄杆、坡道",
+					"start": 3300,
+					"end": 29700
+				},
+				{
+					"type": "節",
+					"number": 800,
+					"title": "日照、採光、通風、節約能源"
+				},
+				{
+					"type": "節",
+					"number": 900,
+					"title": "防音"
+				},
+				{
+					"type": "節",
+					"number": 1000,
+					"title": "廁所、污水處理設施"
+				},
+				{
+					"type": "節",
+					"number": 1100,
+					"title": "煙囟"
+				},
+				{
+					"type": "節",
+					"number": 1200,
+					"title": "昇降及垃圾排除設備"
+				},
+				{
+					"type": "節",
+					"number": 1300,
+					"title": "騎樓、無遮簷人行道"
+				},
+				{
+					"type": "節",
+					"number": 1400,
+					"title": "停車空間"
+				}
+			]
 		},
 		{
 			"type": "章",
-			"number": 400,
-			"title": "防火避難設施及消防設備"
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "出入口、走廊、樓梯"
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "排煙設備"
-		},
-		{
-			"type": "節",
 			"number": 300,
-			"title": "緊急照明設備"
+			"title": "建築物之防火",
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "適用範圍"
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "雜項工作物之防火限制"
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "防火構造"
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "防火區劃"
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "內部裝修限制"
+				}
+			]
 		},
 		{
-			"type": "節",
+			"type": "章",
 			"number": 400,
-			"title": "緊急用昇降機"
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "緊急進口"
-		},
-		{
-			"type": "節",
-			"number": 600,
-			"title": "防火間隔"
-		},
-		{
-			"type": "節",
-			"number": 700,
-			"title": "消防設備"
+			"title": "防火避難設施及消防設備",
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "出入口、走廊、樓梯"
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "排煙設備"
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "緊急照明設備"
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "緊急用昇降機"
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "緊急進口"
+				},
+				{
+					"type": "節",
+					"number": 600,
+					"title": "防火間隔"
+				},
+				{
+					"type": "節",
+					"number": 700,
+					"title": "消防設備"
+				}
+			]
 		},
 		{
 			"type": "章",
@@ -176,47 +191,51 @@
 		{
 			"type": "章",
 			"number": 500,
-			"title": "特定建築物及其限制"
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "通則"
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "戲院、電影院、歌廳、演藝場及集會"
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "商場、餐廳、市場"
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "學校"
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "車庫、車輛修理場所、洗車站房、汽車商場 (包括出租汽車及計程車營業站)"
+			"title": "特定建築物及其限制",
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "通則"
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "戲院、電影院、歌廳、演藝場及集會"
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "商場、餐廳、市場"
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "學校"
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "車庫、車輛修理場所、洗車站房、汽車商場 (包括出租汽車及計程車營業站)"
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 600,
-			"title": "防空避難設備"
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "通則"
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "設計及構造概要"
+			"title": "防空避難設備",
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "通則"
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "設計及構造概要"
+				}
+			]
 		},
 		{
 			"type": "章",
@@ -226,32 +245,34 @@
 		{
 			"type": "章",
 			"number": 800,
-			"title": "施工安全措施"
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "通則"
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "防護範圍"
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "擋土設備安全措施"
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "施工架、工作台、走道"
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "按裝及材料之堆積"
+			"title": "施工安全措施",
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "通則"
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "防護範圍"
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "擋土設備安全措施"
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "施工架、工作台、走道"
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "按裝及材料之堆積"
+				}
+			]
 		},
 		{
 			"type": "章",
@@ -266,77 +287,83 @@
 		{
 			"type": "章",
 			"number": 1100,
-			"title": "地下建築物"
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "一般設計通則"
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "建築構造"
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "建築物之防火"
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "防火避難設施及消防設備"
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "空氣調節及通風設備"
-		},
-		{
-			"type": "節",
-			"number": 600,
-			"title": "環境衛生及其它"
+			"title": "地下建築物",
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "一般設計通則"
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "建築構造"
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "建築物之防火"
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "防火避難設施及消防設備"
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "空氣調節及通風設備"
+				},
+				{
+					"type": "節",
+					"number": 600,
+					"title": "環境衛生及其它"
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 1200,
-			"title": "高層建築物"
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "一般設計通則"
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "建築構造"
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "防火避難設施"
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "建築設備"
+			"title": "高層建築物",
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "一般設計通則"
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "建築構造"
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "防火避難設施"
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "建築設備"
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 1300,
-			"title": "山坡地建築"
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "山坡地基地不得開發建築認定基準"
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "設計原則"
+			"title": "山坡地建築",
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "山坡地基地不得開發建築認定基準"
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "設計原則"
+				}
+			]
 		},
 		{
 			"type": "章",
@@ -356,37 +383,39 @@
 		{
 			"type": "章",
 			"number": 1700,
-			"title": "綠建築基準"
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "一般設計通則"
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "建築基地綠化"
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "建築基地保水"
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "建築物節約能源"
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "建築物雨水及生活雜排水回收再利用"
-		},
-		{
-			"type": "節",
-			"number": 600,
-			"title": "綠建材"
+			"title": "綠建築基準",
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "一般設計通則"
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "建築基地綠化"
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "建築基地保水"
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "建築物節約能源"
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "建築物雨水及生活雜排水回收再利用"
+				},
+				{
+					"type": "節",
+					"number": 600,
+					"title": "綠建材"
+				}
+			]
 		}
 	],
 	"articles": [

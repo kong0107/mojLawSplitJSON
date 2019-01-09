@@ -14,49 +14,59 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 500
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "內部控制制度之設計及執行",
-			"start": 600
+			"start": 600,
+			"end": 1000
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "內部控制制度之評估",
-			"start": 1100
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "內部稽核",
-			"start": 1100
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "自行評估及內部控制制度聲明書",
-			"start": 2100
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "專案審查",
-			"start": 2500
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "法令遵循制度",
-			"start": 2700
+			"start": 1100,
+			"end": 2900,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "內部稽核",
+					"start": 1100,
+					"end": 2000
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "自行評估及內部控制制度聲明書",
+					"start": 2100,
+					"end": 2400
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "專案審查",
+					"start": 2500,
+					"end": 2600
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "法令遵循制度",
+					"start": 2700,
+					"end": 2900
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "附則",
-			"start": 3000
+			"start": 3000,
+			"end": 3500
 		}
 	],
 	"articles": [

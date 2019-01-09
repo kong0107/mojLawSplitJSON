@@ -48,319 +48,376 @@
 			"type": "part",
 			"number": 100,
 			"title": "General Provisions",
-			"start": 100
-		},
-		{
-			"type": "chapter",
-			"number": 100,
-			"title": "Application of the Code",
-			"start": 100
-		},
-		{
-			"type": "chapter",
-			"number": 200,
-			"title": "Criminal Responsibility",
-			"start": 1200
-		},
-		{
-			"type": "chapter",
-			"number": 300,
-			"title": "Attempt",
-			"start": 2500
-		},
-		{
-			"type": "chapter",
-			"number": 400,
-			"title": "Principal Offenders and Joint Offenders",
-			"start": 2800
-		},
-		{
-			"type": "chapter",
-			"number": 500,
-			"title": "Punishment",
-			"start": 3200
-		},
-		{
-			"type": "chapter",
-			"number": 501,
-			"title": "Confiscation",
-			"start": 3800
-		},
-		{
-			"type": "chapter",
-			"number": 502,
-			"title": "Replacement of penalty",
-			"start": 4100
-		},
-		{
-			"type": "chapter",
-			"number": 600,
-			"title": "Recidivism",
-			"start": 4700
-		},
-		{
-			"type": "chapter",
-			"number": 700,
-			"title": "Combined Punishment for Several Offenses",
-			"start": 5000
-		},
-		{
-			"type": "chapter",
-			"number": 800,
-			"title": "Sentencing",
-			"start": 5700
-		},
-		{
-			"type": "chapter",
-			"number": 900,
-			"title": "Probation",
-			"start": 7400
-		},
-		{
-			"type": "chapter",
-			"number": 1000,
-			"title": "Parole",
-			"start": 7700
-		},
-		{
-			"type": "chapter",
-			"number": 1100,
-			"title": "Statute of Limitations",
-			"start": 8000
-		},
-		{
-			"type": "chapter",
-			"number": 1200,
-			"title": "Rehabilitative Measures",
-			"start": 8600
+			"start": 100,
+			"end": 9900,
+			"children": [
+				{
+					"type": "chapter",
+					"number": 100,
+					"title": "Application of the Code",
+					"start": 100,
+					"end": 1100
+				},
+				{
+					"type": "chapter",
+					"number": 200,
+					"title": "Criminal Responsibility",
+					"start": 1200,
+					"end": 2400
+				},
+				{
+					"type": "chapter",
+					"number": 300,
+					"title": "Attempt",
+					"start": 2500,
+					"end": 2700
+				},
+				{
+					"type": "chapter",
+					"number": 400,
+					"title": "Principal Offenders and Joint Offenders",
+					"start": 2800,
+					"end": 3100
+				},
+				{
+					"type": "chapter",
+					"number": 500,
+					"title": "Punishment",
+					"start": 3200,
+					"end": 3702
+				},
+				{
+					"type": "chapter",
+					"number": 501,
+					"title": "Confiscation",
+					"start": 3800,
+					"end": 4002
+				},
+				{
+					"type": "chapter",
+					"number": 502,
+					"title": "Replacement of penalty",
+					"start": 4100,
+					"end": 4600
+				},
+				{
+					"type": "chapter",
+					"number": 600,
+					"title": "Recidivism",
+					"start": 4700,
+					"end": 4900
+				},
+				{
+					"type": "chapter",
+					"number": 700,
+					"title": "Combined Punishment for Several Offenses",
+					"start": 5000,
+					"end": 5600
+				},
+				{
+					"type": "chapter",
+					"number": 800,
+					"title": "Sentencing",
+					"start": 5700,
+					"end": 7300
+				},
+				{
+					"type": "chapter",
+					"number": 900,
+					"title": "Probation",
+					"start": 7400,
+					"end": 7600
+				},
+				{
+					"type": "chapter",
+					"number": 1000,
+					"title": "Parole",
+					"start": 7700,
+					"end": 7901
+				},
+				{
+					"type": "chapter",
+					"number": 1100,
+					"title": "Statute of Limitations",
+					"start": 8000,
+					"end": 8500
+				},
+				{
+					"type": "chapter",
+					"number": 1200,
+					"title": "Rehabilitative Measures",
+					"start": 8600,
+					"end": 9900
+				}
+			]
 		},
 		{
 			"type": "part",
 			"number": 200,
 			"title": "Specific Offenses",
-			"start": 10000
-		},
-		{
-			"type": "chapter",
-			"number": 100,
-			"title": "Civil Disturbance",
-			"start": 10000
-		},
-		{
-			"type": "chapter",
-			"number": 200,
-			"title": "Treason",
-			"start": 10300
-		},
-		{
-			"type": "chapter",
-			"number": 300,
-			"title": "Offenses of Interference with Relations with Other States",
-			"start": 11600
-		},
-		{
-			"type": "chapter",
-			"number": 400,
-			"title": "Offenses of Malfeasance in Office",
-			"start": 12000
-		},
-		{
-			"type": "chapter",
-			"number": 500,
-			"title": "Offenses of Obstructing an Officer In Discharge of Duties",
-			"start": 13500
-		},
-		{
-			"type": "chapter",
-			"number": 600,
-			"title": "Offenses of Interference with Voting",
-			"start": 14200
-		},
-		{
-			"type": "chapter",
-			"number": 700,
-			"title": "Offenses of Interference with Public Order",
-			"start": 14900
-		},
-		{
-			"type": "chapter",
-			"number": 800,
-			"title": "Offenses of Escape",
-			"start": 16100
-		},
-		{
-			"type": "chapter",
-			"number": 900,
-			"title": "Offenses of Concealment of Offenders and Destruction of Evidence",
-			"start": 16400
-		},
-		{
-			"type": "chapter",
-			"number": 1000,
-			"title": "Offenses of Perjury and Malicious Accusation",
-			"start": 16800
-		},
-		{
-			"type": "chapter",
-			"number": 1100,
-			"title": "Offenses Against Public Safety",
-			"start": 17300
-		},
-		{
-			"type": "chapter",
-			"number": 1200,
-			"title": "Offenses of Counterfeiting Currency",
-			"start": 19500
-		},
-		{
-			"type": "chapter",
-			"number": 1300,
-			"title": "Offenses of Counterfeiting Securities",
-			"start": 20100
-		},
-		{
-			"type": "chapter",
-			"number": 1400,
-			"title": "Offenses of Falsifying Weights and Measures",
-			"start": 20600
-		},
-		{
-			"type": "chapter",
-			"number": 1500,
-			"title": "Offenses of Forging Instruments or Seals",
-			"start": 21000
-		},
-		{
-			"type": "chapter",
-			"number": 1600,
-			"title": "Sexual Offenses",
-			"start": 22100
-		},
-		{
-			"type": "chapter",
-			"number": 1601,
-			"title": "Offense against Morality",
-			"start": 23000
-		},
-		{
-			"type": "chapter",
-			"number": 1700,
-			"title": "Offenses Against Marriage and Family",
-			"start": 23700
-		},
-		{
-			"type": "chapter",
-			"number": 1800,
-			"title": "Offenses Against Religion, Graves, and Corpses",
-			"start": 24600
-		},
-		{
-			"type": "chapter",
-			"number": 1900,
-			"title": "Offenses Against Agriculture, Industry, and Commerce",
-			"start": 25100
-		},
-		{
-			"type": "chapter",
-			"number": 2000,
-			"title": "Offenses Relating to Opium",
-			"start": 25600
-		},
-		{
-			"type": "chapter",
-			"number": 2100,
-			"title": "Offenses of Gambling",
-			"start": 26600
-		},
-		{
-			"type": "chapter",
-			"number": 2200,
-			"title": "Offenses of Homicide",
-			"start": 27100
-		},
-		{
-			"type": "chapter",
-			"number": 2300,
-			"title": "Offenses of Causing Injury",
-			"start": 27700
-		},
-		{
-			"type": "chapter",
-			"number": 2400,
-			"title": "Offenses of Abortion",
-			"start": 28800
-		},
-		{
-			"type": "chapter",
-			"number": 2500,
-			"title": "Offenses of Abandonment",
-			"start": 29300
-		},
-		{
-			"type": "chapter",
-			"number": 2600,
-			"title": "Offenses Against Freedom",
-			"start": 29600
-		},
-		{
-			"type": "chapter",
-			"number": 2700,
-			"title": "Offenses Against Reputation and Credit",
-			"start": 30900
-		},
-		{
-			"type": "chapter",
-			"number": 2800,
-			"title": "Offenses Against Privacy",
-			"start": 31500
-		},
-		{
-			"type": "chapter",
-			"number": 2900,
-			"title": "Offense of Larceny",
-			"start": 32000
-		},
-		{
-			"type": "chapter",
-			"number": 3000,
-			"title": "Offense of Abrupt Taking, Robbery and Piracy",
-			"start": 32500
-		},
-		{
-			"type": "chapter",
-			"number": 3100,
-			"title": "Offenses of Embezzlement",
-			"start": 33500
-		},
-		{
-			"type": "chapter",
-			"number": 3200,
-			"title": "Offenses of Fraudulence, Breach of Trust, Taking, and Usury",
-			"start": 33900
-		},
-		{
-			"type": "chapter",
-			"number": 3300,
-			"title": "Offenses of Extortion and Kidnapping for Ransom",
-			"start": 34600
-		},
-		{
-			"type": "chapter",
-			"number": 3400,
-			"title": "Offenses of Receiving Stolen Property",
-			"start": 34900
-		},
-		{
-			"type": "chapter",
-			"number": 3500,
-			"title": "Offenses of Destruction, Abandonment, and Damage of Property",
-			"start": 35200
-		},
-		{
-			"type": "chapter",
-			"number": 3600,
-			"title": "Offenses Against the Computer Security",
-			"start": 35800
+			"start": 10000,
+			"end": 36300,
+			"children": [
+				{
+					"type": "chapter",
+					"number": 100,
+					"title": "Civil Disturbance",
+					"start": 10000,
+					"end": 10200
+				},
+				{
+					"type": "chapter",
+					"number": 200,
+					"title": "Treason",
+					"start": 10300,
+					"end": 11500
+				},
+				{
+					"type": "chapter",
+					"number": 300,
+					"title": "Offenses of Interference with Relations with Other States",
+					"start": 11600,
+					"end": 11900
+				},
+				{
+					"type": "chapter",
+					"number": 400,
+					"title": "Offenses of Malfeasance in Office",
+					"start": 12000,
+					"end": 13400
+				},
+				{
+					"type": "chapter",
+					"number": 500,
+					"title": "Offenses of Obstructing an Officer In Discharge of Duties",
+					"start": 13500,
+					"end": 14100
+				},
+				{
+					"type": "chapter",
+					"number": 600,
+					"title": "Offenses of Interference with Voting",
+					"start": 14200,
+					"end": 14800
+				},
+				{
+					"type": "chapter",
+					"number": 700,
+					"title": "Offenses of Interference with Public Order",
+					"start": 14900,
+					"end": 16000
+				},
+				{
+					"type": "chapter",
+					"number": 800,
+					"title": "Offenses of Escape",
+					"start": 16100,
+					"end": 16300
+				},
+				{
+					"type": "chapter",
+					"number": 900,
+					"title": "Offenses of Concealment of Offenders and Destruction of Evidence",
+					"start": 16400,
+					"end": 16700
+				},
+				{
+					"type": "chapter",
+					"number": 1000,
+					"title": "Offenses of Perjury and Malicious Accusation",
+					"start": 16800,
+					"end": 17200
+				},
+				{
+					"type": "chapter",
+					"number": 1100,
+					"title": "Offenses Against Public Safety",
+					"start": 17300,
+					"end": 19400
+				},
+				{
+					"type": "chapter",
+					"number": 1200,
+					"title": "Offenses of Counterfeiting Currency",
+					"start": 19500,
+					"end": 20000
+				},
+				{
+					"type": "chapter",
+					"number": 1300,
+					"title": "Offenses of Counterfeiting Securities",
+					"start": 20100,
+					"end": 20500
+				},
+				{
+					"type": "chapter",
+					"number": 1400,
+					"title": "Offenses of Falsifying Weights and Measures",
+					"start": 20600,
+					"end": 20900
+				},
+				{
+					"type": "chapter",
+					"number": 1500,
+					"title": "Offenses of Forging Instruments or Seals",
+					"start": 21000,
+					"end": 22000
+				},
+				{
+					"type": "chapter",
+					"number": 1600,
+					"title": "Sexual Offenses",
+					"start": 22100,
+					"end": 22901
+				},
+				{
+					"type": "chapter",
+					"number": 1601,
+					"title": "Offense against Morality",
+					"start": 23000,
+					"end": 23600
+				},
+				{
+					"type": "chapter",
+					"number": 1700,
+					"title": "Offenses Against Marriage and Family",
+					"start": 23700,
+					"end": 24500
+				},
+				{
+					"type": "chapter",
+					"number": 1800,
+					"title": "Offenses Against Religion, Graves, and Corpses",
+					"start": 24600,
+					"end": 25000
+				},
+				{
+					"type": "chapter",
+					"number": 1900,
+					"title": "Offenses Against Agriculture, Industry, and Commerce",
+					"start": 25100,
+					"end": 25500
+				},
+				{
+					"type": "chapter",
+					"number": 2000,
+					"title": "Offenses Relating to Opium",
+					"start": 25600,
+					"end": 26500
+				},
+				{
+					"type": "chapter",
+					"number": 2100,
+					"title": "Offenses of Gambling",
+					"start": 26600,
+					"end": 27000
+				},
+				{
+					"type": "chapter",
+					"number": 2200,
+					"title": "Offenses of Homicide",
+					"start": 27100,
+					"end": 27600
+				},
+				{
+					"type": "chapter",
+					"number": 2300,
+					"title": "Offenses of Causing Injury",
+					"start": 27700,
+					"end": 28700
+				},
+				{
+					"type": "chapter",
+					"number": 2400,
+					"title": "Offenses of Abortion",
+					"start": 28800,
+					"end": 29200
+				},
+				{
+					"type": "chapter",
+					"number": 2500,
+					"title": "Offenses of Abandonment",
+					"start": 29300,
+					"end": 29500
+				},
+				{
+					"type": "chapter",
+					"number": 2600,
+					"title": "Offenses Against Freedom",
+					"start": 29600,
+					"end": 30800
+				},
+				{
+					"type": "chapter",
+					"number": 2700,
+					"title": "Offenses Against Reputation and Credit",
+					"start": 30900,
+					"end": 31400
+				},
+				{
+					"type": "chapter",
+					"number": 2800,
+					"title": "Offenses Against Privacy",
+					"start": 31500,
+					"end": 31900
+				},
+				{
+					"type": "chapter",
+					"number": 2900,
+					"title": "Offense of Larceny",
+					"start": 32000,
+					"end": 32400
+				},
+				{
+					"type": "chapter",
+					"number": 3000,
+					"title": "Offense of Abrupt Taking, Robbery and Piracy",
+					"start": 32500,
+					"end": 33401
+				},
+				{
+					"type": "chapter",
+					"number": 3100,
+					"title": "Offenses of Embezzlement",
+					"start": 33500,
+					"end": 33800
+				},
+				{
+					"type": "chapter",
+					"number": 3200,
+					"title": "Offenses of Fraudulence, Breach of Trust, Taking, and Usury",
+					"start": 33900,
+					"end": 34500
+				},
+				{
+					"type": "chapter",
+					"number": 3300,
+					"title": "Offenses of Extortion and Kidnapping for Ransom",
+					"start": 34600,
+					"end": 34801
+				},
+				{
+					"type": "chapter",
+					"number": 3400,
+					"title": "Offenses of Receiving Stolen Property",
+					"start": 34900,
+					"end": 35100
+				},
+				{
+					"type": "chapter",
+					"number": 3500,
+					"title": "Offenses of Destruction, Abandonment, and Damage of Property",
+					"start": 35200,
+					"end": 35700
+				},
+				{
+					"type": "chapter",
+					"number": 3600,
+					"title": "Offenses Against the Computer Security",
+					"start": 35800,
+					"end": 36300
+				}
+			]
 		}
 	],
 	"articles": [

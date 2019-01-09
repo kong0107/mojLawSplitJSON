@@ -22,43 +22,50 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 800
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "編組",
-			"start": 900
+			"start": 900,
+			"end": 2900
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "訓練",
-			"start": 3000
+			"start": 3000,
+			"end": 3300
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "演習",
-			"start": 3400
+			"start": 3400,
+			"end": 3700
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "服勤",
-			"start": 3800
+			"start": 3800,
+			"end": 4000
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "支援軍事勤務",
-			"start": 4100
+			"start": 4100,
+			"end": 4300
 		},
 		{
 			"type": "章",
 			"number": 700,
 			"title": "附則",
-			"start": 4400
+			"start": 4400,
+			"end": 4600
 		}
 	],
 	"articles": [

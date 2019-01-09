@@ -14,127 +14,150 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 700
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "基金之運用範圍及限制",
-			"start": 800
+			"start": 800,
+			"end": 1800
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "基金之種類",
-			"start": 1900
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "通則",
-			"start": 1900
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "股票型基金",
-			"start": 2500
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "債券型基金",
-			"start": 2700
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "平衡型基金及多重資產型基金",
-			"start": 3000
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "指數型基金",
-			"start": 3200
-		},
-		{
-			"type": "節",
-			"number": 600,
-			"title": "指數股票型基金  (Exchange Traded Fund， ETF)",
-			"start": 3700
-		},
-		{
-			"type": "節",
-			"number": 700,
-			"title": "組合型基金",
-			"start": 4200
-		},
-		{
-			"type": "節",
-			"number": 800,
-			"title": "保本型基金",
-			"start": 4400
-		},
-		{
-			"type": "節",
-			"number": 900,
-			"title": "貨幣市場基金",
-			"start": 4700
-		},
-		{
-			"type": "節",
-			"number": 1000,
-			"title": "其他經本會核准發行之基金",
-			"start": 5000
+			"start": 1900,
+			"end": 5000,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "通則",
+					"start": 1900,
+					"end": 2400
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "股票型基金",
+					"start": 2500,
+					"end": 2600
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "債券型基金",
+					"start": 2700,
+					"end": 2900
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "平衡型基金及多重資產型基金",
+					"start": 3000,
+					"end": 3100
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "指數型基金",
+					"start": 3200,
+					"end": 3600
+				},
+				{
+					"type": "節",
+					"number": 600,
+					"title": "指數股票型基金  (Exchange Traded Fund， ETF)",
+					"start": 3700,
+					"end": 4100
+				},
+				{
+					"type": "節",
+					"number": 700,
+					"title": "組合型基金",
+					"start": 4200,
+					"end": 4300
+				},
+				{
+					"type": "節",
+					"number": 800,
+					"title": "保本型基金",
+					"start": 4400,
+					"end": 4600
+				},
+				{
+					"type": "節",
+					"number": 900,
+					"title": "貨幣市場基金",
+					"start": 4700,
+					"end": 4900
+				},
+				{
+					"type": "節",
+					"number": 1000,
+					"title": "其他經本會核准發行之基金",
+					"start": 5000,
+					"end": 5000
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "基金之私募",
-			"start": 5100
+			"start": 5100,
+			"end": 5600
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "基金之保管",
-			"start": 5700
+			"start": 5700,
+			"end": 6300
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "受益憑證",
-			"start": 6400
+			"start": 6400,
+			"end": 6900
 		},
 		{
 			"type": "章",
 			"number": 700,
 			"title": "基金之買回",
-			"start": 7000
+			"start": 7000,
+			"end": 7100
 		},
 		{
 			"type": "章",
 			"number": 800,
 			"title": "基金之會計",
-			"start": 7200
+			"start": 7200,
+			"end": 7700
 		},
 		{
 			"type": "章",
 			"number": 900,
 			"title": "基金之變更、存續、終止、清算",
-			"start": 7800
+			"start": 7800,
+			"end": 8200
 		},
 		{
 			"type": "章",
 			"number": 1000,
 			"title": "基金之合併",
-			"start": 8300
+			"start": 8300,
+			"end": 8900
 		},
 		{
 			"type": "章",
 			"number": 1100,
 			"title": "附則",
-			"start": 9000
+			"start": 9000,
+			"end": 9200
 		}
 	],
 	"articles": [

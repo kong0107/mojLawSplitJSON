@@ -22,67 +22,80 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 600
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "工業同業公會",
-			"start": 700
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "設立",
-			"start": 700
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "會員",
-			"start": 1300
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "職員",
-			"start": 2000
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "會議",
-			"start": 2700
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "經費",
-			"start": 3300
-		},
-		{
-			"type": "節",
-			"number": 600,
-			"title": "全國各業工業同業公會聯合會",
-			"start": 4200
+			"start": 700,
+			"end": 4800,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "設立",
+					"start": 700,
+					"end": 1200
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "會員",
+					"start": 1300,
+					"end": 1900
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "職員",
+					"start": 2000,
+					"end": 2600
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "會議",
+					"start": 2700,
+					"end": 3200
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "經費",
+					"start": 3300,
+					"end": 4100
+				},
+				{
+					"type": "節",
+					"number": 600,
+					"title": "全國各業工業同業公會聯合會",
+					"start": 4200,
+					"end": 4800
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "工業會",
-			"start": 4900
+			"start": 4900,
+			"end": 5800
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "監督",
-			"start": 5900
+			"start": 5900,
+			"end": 6500
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "附則",
-			"start": 6600
+			"start": 6600,
+			"end": 7000
 		}
 	],
 	"articles": [

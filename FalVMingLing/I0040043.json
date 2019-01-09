@@ -21,49 +21,59 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 900
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "矯正學校之設置",
-			"start": 1000
+			"start": 1000,
+			"end": 3600
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "矯正學校之實施",
-			"start": 3700
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "入校出校",
-			"start": 3700
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "教學實施",
-			"start": 5100
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "生活管教",
-			"start": 6900
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "獎懲",
-			"start": 7700
+			"start": 3700,
+			"end": 8000,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "入校出校",
+					"start": 3700,
+					"end": 5000
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "教學實施",
+					"start": 5100,
+					"end": 6800
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "生活管教",
+					"start": 6900,
+					"end": 7600
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "獎懲",
+					"start": 7700,
+					"end": 8000
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "附則",
-			"start": 8100
+			"start": 8100,
+			"end": 8600
 		}
 	],
 	"articles": [

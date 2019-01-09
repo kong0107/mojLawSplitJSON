@@ -46,43 +46,52 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 200
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "維修管理",
-			"start": 300
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "維修、預防性維修或重造作業、紀錄及簽證規定",
-			"start": 300
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "非民用航空運輸業之航空器所有人或使用人維修檢查規定",
-			"start": 1300
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "年限管制件管理規定",
-			"start": 1500
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "適航維修管理規定",
-			"start": 1900
+			"start": 300,
+			"end": 2800,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "維修、預防性維修或重造作業、紀錄及簽證規定",
+					"start": 300,
+					"end": 1200
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "非民用航空運輸業之航空器所有人或使用人維修檢查規定",
+					"start": 1300,
+					"end": 1400
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "年限管制件管理規定",
+					"start": 1500,
+					"end": 1800
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "適航維修管理規定",
+					"start": 1900,
+					"end": 2800
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "附則",
-			"start": 2900
+			"start": 2900,
+			"end": 3000
 		}
 	],
 	"articles": [

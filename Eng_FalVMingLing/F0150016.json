@@ -20,25 +20,29 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Provisions",
-			"start": 100
+			"start": 100,
+			"end": 300
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Educational Level Authentication Test",
-			"start": 400
+			"start": 400,
+			"end": 800
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Entrance Examination and Matriculation",
-			"start": 900
+			"start": 900,
+			"end": 1500
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Scholarships and Grants",
-			"start": 1600
+			"start": 1600,
+			"end": 2100
 		}
 	],
 	"articles": [

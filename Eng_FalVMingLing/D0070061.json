@@ -17,91 +17,108 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Provisions",
-			"start": 100
+			"start": 100,
+			"end": 1300
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "City Road Projects",
-			"start": 1400
+			"start": 1400,
+			"end": 2400
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Highway and Bridge Projects",
-			"start": 2500
+			"start": 2500,
+			"end": 3200
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Ditch Projects",
-			"start": 3300
+			"start": 3300,
+			"end": 3700
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Fishing Harbor Projects",
-			"start": 3800
+			"start": 3800,
+			"end": 4000
 		},
 		{
 			"type": "chapter",
 			"number": 600,
 			"title": "Reservoir Projects",
-			"start": 4100
+			"start": 4100,
+			"end": 4500
 		},
 		{
 			"type": "chapter",
 			"number": 700,
 			"title": "Embankment Projects",
-			"start": 4600
+			"start": 4600,
+			"end": 5000
 		},
 		{
 			"type": "chapter",
 			"number": 800,
 			"title": "Waterway Dredging Projects",
-			"start": 5100
+			"start": 5100,
+			"end": 5300
 		},
 		{
 			"type": "chapter",
 			"number": 900,
 			"title": "Fee Collection Procedure",
-			"start": 5400
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Fees Imposed upon Lands and the Improvements thereon",
-			"start": 5400
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Fees Imposed upon Vehicles",
-			"start": 6700
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Fees Imposed upon Vessels",
-			"start": 6900
+			"start": 5400,
+			"end": 7100,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Fees Imposed upon Lands and the Improvements thereon",
+					"start": 5400,
+					"end": 6600
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Fees Imposed upon Vehicles",
+					"start": 6700,
+					"end": 6800
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Fees Imposed upon Vessels",
+					"start": 6900,
+					"end": 7100
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 1000,
 			"title": "Fee Collection Accountability, Supervision and Evaluation",
-			"start": 7200
+			"start": 7200,
+			"end": 7900
 		},
 		{
 			"type": "chapter",
 			"number": 1100,
 			"title": "Fee Exemption and Payment Postponement",
-			"start": 8000
+			"start": 8000,
+			"end": 9100
 		},
 		{
 			"type": "chapter",
 			"number": 1200,
 			"title": "Supplementary Provisions",
-			"start": 9200
+			"start": 9200,
+			"end": 9300
 		}
 	],
 	"articles": [

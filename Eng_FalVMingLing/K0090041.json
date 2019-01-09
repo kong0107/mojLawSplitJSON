@@ -65,205 +65,245 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General",
-			"start": 100
+			"start": 100,
+			"end": 803
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Civil Air Transport Operations",
-			"start": 900
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Flight Operations",
-			"start": 900
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Flight Preparation",
-			"start": 5400
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "In Flight Procedures",
-			"start": 7800
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "Aircraft Performance & Operating Limitations",
-			"start": 8400
-		},
-		{
-			"type": "section",
-			"number": 500,
-			"title": "Aircraft Instrument, Equipment & Flight Documents",
-			"start": 9500
-		},
-		{
-			"type": "section",
-			"number": 600,
-			"title": "Aircraft Communication & Navigation Equipment",
-			"start": 13100
-		},
-		{
-			"type": "section",
-			"number": 700,
-			"title": "Aircraft Maintenance",
-			"start": 13900
-		},
-		{
-			"type": "section",
-			"number": 800,
-			"title": "Flight Crew",
-			"start": 15300
-		},
-		{
-			"type": "section",
-			"number": 900,
-			"title": "Flight Dispatcher",
-			"start": 17700
-		},
-		{
-			"type": "section",
-			"number": 1000,
-			"title": "Manuals, Forms, Records and Reports",
-			"start": 18200
-		},
-		{
-			"type": "section",
-			"number": 1100,
-			"title": "Cabin Crew member",
-			"start": 18800
-		},
-		{
-			"type": "section",
-			"number": 1200,
-			"title": "Security",
-			"start": 19300
+			"start": 900,
+			"end": 20000,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Flight Operations",
+					"start": 900,
+					"end": 5300
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Flight Preparation",
+					"start": 5400,
+					"end": 7700
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "In Flight Procedures",
+					"start": 7800,
+					"end": 8300
+				},
+				{
+					"type": "section",
+					"number": 400,
+					"title": "Aircraft Performance & Operating Limitations",
+					"start": 8400,
+					"end": 9400
+				},
+				{
+					"type": "section",
+					"number": 500,
+					"title": "Aircraft Instrument, Equipment & Flight Documents",
+					"start": 9500,
+					"end": 13000
+				},
+				{
+					"type": "section",
+					"number": 600,
+					"title": "Aircraft Communication & Navigation Equipment",
+					"start": 13100,
+					"end": 13800
+				},
+				{
+					"type": "section",
+					"number": 700,
+					"title": "Aircraft Maintenance",
+					"start": 13900,
+					"end": 15200
+				},
+				{
+					"type": "section",
+					"number": 800,
+					"title": "Flight Crew",
+					"start": 15300,
+					"end": 17600
+				},
+				{
+					"type": "section",
+					"number": 900,
+					"title": "Flight Dispatcher",
+					"start": 17700,
+					"end": 18100
+				},
+				{
+					"type": "section",
+					"number": 1000,
+					"title": "Manuals, Forms, Records and Reports",
+					"start": 18200,
+					"end": 18700
+				},
+				{
+					"type": "section",
+					"number": 1100,
+					"title": "Cabin Crew member",
+					"start": 18800,
+					"end": 19200
+				},
+				{
+					"type": "section",
+					"number": 1200,
+					"title": "Security",
+					"start": 19300,
+					"end": 20000
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "General Aviation Operations",
-			"start": 20100
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "In-flight Procedures",
-			"start": 20100
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "In Flight Procedures",
-			"start": 22800
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Aircraft Performance & Operating Limitations",
-			"start": 23300
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "Aircraft Instruments, Equipments & Flight Documents",
-			"start": 23700
-		},
-		{
-			"type": "section",
-			"number": 500,
-			"title": "Aircraft Communication and Navigation Equipment",
-			"start": 26100
-		},
-		{
-			"type": "section",
-			"number": 600,
-			"title": "Aircraft Maintenance",
-			"start": 26800
-		},
-		{
-			"type": "section",
-			"number": 700,
-			"title": "Flight Crew",
-			"start": 27800
-		},
-		{
-			"type": "section",
-			"number": 800,
-			"title": "Security",
-			"start": 28300
-		},
-		{
-			"type": "section",
-			"number": 801,
-			"title": "Extra equipments and operations requirement to operate with large and transport category airplane",
-			"start": 28501
+			"start": 20100,
+			"end": 28532,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "In-flight Procedures",
+					"start": 20100,
+					"end": 22701
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "In Flight Procedures",
+					"start": 22800,
+					"end": 23200
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Aircraft Performance & Operating Limitations",
+					"start": 23300,
+					"end": 23600
+				},
+				{
+					"type": "section",
+					"number": 400,
+					"title": "Aircraft Instruments, Equipments & Flight Documents",
+					"start": 23700,
+					"end": 26000
+				},
+				{
+					"type": "section",
+					"number": 500,
+					"title": "Aircraft Communication and Navigation Equipment",
+					"start": 26100,
+					"end": 26700
+				},
+				{
+					"type": "section",
+					"number": 600,
+					"title": "Aircraft Maintenance",
+					"start": 26800,
+					"end": 27700
+				},
+				{
+					"type": "section",
+					"number": 700,
+					"title": "Flight Crew",
+					"start": 27800,
+					"end": 28200
+				},
+				{
+					"type": "section",
+					"number": 800,
+					"title": "Security",
+					"start": 28300,
+					"end": 28500
+				},
+				{
+					"type": "section",
+					"number": 801,
+					"title": "Extra equipments and operations requirement to operate with large and transport category airplane",
+					"start": 28501,
+					"end": 28532
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Supplement Provision",
-			"start": 28600
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Flight operation",
-			"start": 28600
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Flight Preparation",
-			"start": 29000
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Aircraft Instrument, Equipment, and Flight Documentations",
-			"start": 29900
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "Special Flight Operations",
-			"start": 30900
-		},
-		{
-			"type": "section",
-			"number": 500,
-			"title": "Aircraft Maintenance",
-			"start": 31400
-		},
-		{
-			"type": "section",
-			"number": 600,
-			"title": "Large and Turbine-Powered Multiengine Aircrafts",
-			"start": 32500
-		},
-		{
-			"type": "section",
-			"number": 700,
-			"title": "Additional Equipment and Operating Requirements for Large and Transport Category Aircraft",
-			"start": 34100
-		},
-		{
-			"type": "section",
-			"number": 800,
-			"title": "Security",
-			"start": 34800
+			"start": 28600,
+			"end": 34900,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Flight operation",
+					"start": 28600,
+					"end": 28900
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Flight Preparation",
+					"start": 29000,
+					"end": 29800
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Aircraft Instrument, Equipment, and Flight Documentations",
+					"start": 29900,
+					"end": 30801
+				},
+				{
+					"type": "section",
+					"number": 400,
+					"title": "Special Flight Operations",
+					"start": 30900,
+					"end": 31301
+				},
+				{
+					"type": "section",
+					"number": 500,
+					"title": "Aircraft Maintenance",
+					"start": 31400,
+					"end": 32400
+				},
+				{
+					"type": "section",
+					"number": 600,
+					"title": "Large and Turbine-Powered Multiengine Aircrafts",
+					"start": 32500,
+					"end": 34000
+				},
+				{
+					"type": "section",
+					"number": 700,
+					"title": "Additional Equipment and Operating Requirements for Large and Transport Category Aircraft",
+					"start": 34100,
+					"end": 34700
+				},
+				{
+					"type": "section",
+					"number": 800,
+					"title": "Security",
+					"start": 34800,
+					"end": 34900
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Supplement Provision",
-			"start": 35000
+			"start": 35000,
+			"end": 35200
 		}
 	],
 	"articles": [

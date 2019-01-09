@@ -47,49 +47,59 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Principles",
-			"start": 100
+			"start": 100,
+			"end": 100
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Vessel Carriers",
-			"start": 200
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Permit and Registration",
-			"start": 200
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Construction, Purchase and Sale of Vessel",
-			"start": 800
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Operation of Service",
-			"start": 1200
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "Filing Freight and Passenger Tariffs",
-			"start": 1800
+			"start": 200,
+			"end": 1900,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Permit and Registration",
+					"start": 200,
+					"end": 700
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Construction, Purchase and Sale of Vessel",
+					"start": 800,
+					"end": 1100
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Operation of Service",
+					"start": 1200,
+					"end": 1705
+				},
+				{
+					"type": "section",
+					"number": 400,
+					"title": "Filing Freight and Passenger Tariffs",
+					"start": 1800,
+					"end": 1900
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Foreign Vessel Carriers",
-			"start": 2000
+			"start": 2000,
+			"end": 2600
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Supplementary Provisions",
-			"start": 2700
+			"start": 2700,
+			"end": 2900
 		}
 	],
 	"articles": [

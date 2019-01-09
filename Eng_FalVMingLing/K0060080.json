@@ -26,85 +26,103 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Provisions",
-			"start": 100
+			"start": 100,
+			"end": 600
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Operation Concession",
-			"start": 700
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Procedure of Charter Issuance",
-			"start": 700
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Bidding Rules and Procedure",
-			"start": 1100
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Application and Review",
-			"start": 1500
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "Bidding Operation",
-			"start": 2300
-		},
-		{
-			"type": "section",
-			"number": 500,
-			"title": "Establishment Preparation",
-			"start": 3100
+			"start": 700,
+			"end": 4800,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Procedure of Charter Issuance",
+					"start": 700,
+					"end": 1000
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Bidding Rules and Procedure",
+					"start": 1100,
+					"end": 1400
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Application and Review",
+					"start": 1500,
+					"end": 2200
+				},
+				{
+					"type": "section",
+					"number": 400,
+					"title": "Bidding Operation",
+					"start": 2300,
+					"end": 3000
+				},
+				{
+					"type": "section",
+					"number": 500,
+					"title": "Establishment Preparation",
+					"start": 3100,
+					"end": 4800
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Operation Management",
-			"start": 4900
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Charter Fee",
-			"start": 4900
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Cross-investment or Merger",
-			"start": 5000
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Technical Supervision",
-			"start": 5100
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "Supervision over Services Operation",
-			"start": 6100
+			"start": 4900,
+			"end": 7800,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Charter Fee",
+					"start": 4900,
+					"end": 4900
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Cross-investment or Merger",
+					"start": 5000,
+					"end": 5000
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Technical Supervision",
+					"start": 5100,
+					"end": 6000
+				},
+				{
+					"type": "section",
+					"number": 400,
+					"title": "Supervision over Services Operation",
+					"start": 6100,
+					"end": 7800
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Dispute Mediation",
-			"start": 7900
+			"start": 7900,
+			"end": 7900
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Supplementary Provisions",
-			"start": 8000
+			"start": 8000,
+			"end": 8200
 		}
 	],
 	"articles": [

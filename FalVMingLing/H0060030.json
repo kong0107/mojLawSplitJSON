@@ -23,61 +23,75 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 600
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "設立",
-			"start": 700
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "學校之設立",
-			"start": 700
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "分校分部之設立及管理",
-			"start": 1200
+			"start": 700,
+			"end": 1700,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "學校之設立",
+					"start": 700,
+					"end": 1100
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "分校分部之設立及管理",
+					"start": 1200,
+					"end": 1700
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "變更",
-			"start": 1800
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "改名",
-			"start": 1800
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "改制",
-			"start": 2100
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "合併",
-			"start": 2600
+			"start": 1800,
+			"end": 3200,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "改名",
+					"start": 1800,
+					"end": 2000
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "改制",
+					"start": 2100,
+					"end": 2500
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "合併",
+					"start": 2600,
+					"end": 3200
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "停辦",
-			"start": 3300
+			"start": 3300,
+			"end": 3700
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "附則",
-			"start": 3800
+			"start": 3800,
+			"end": 4100
 		}
 	],
 	"articles": [

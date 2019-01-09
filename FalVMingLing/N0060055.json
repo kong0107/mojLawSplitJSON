@@ -34,55 +34,66 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 200
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "第一種壓力容器",
-			"start": 300
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "材料",
-			"start": 300
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "構造",
-			"start": 1100
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "製作及水壓試驗",
-			"start": 4100
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "附屬品",
-			"start": 6600
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "特殊設計",
-			"start": 7200
+			"start": 300,
+			"end": 7300,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "材料",
+					"start": 300,
+					"end": 1000
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "構造",
+					"start": 1100,
+					"end": 4000
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "製作及水壓試驗",
+					"start": 4100,
+					"end": 6500
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "附屬品",
+					"start": 6600,
+					"end": 7100
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "特殊設計",
+					"start": 7200,
+					"end": 7300
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "第二種壓力容器",
-			"start": 7400
+			"start": 7400,
+			"end": 7500
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "附則",
-			"start": 7600
+			"start": 7600,
+			"end": 7600
 		}
 	],
 	"articles": [

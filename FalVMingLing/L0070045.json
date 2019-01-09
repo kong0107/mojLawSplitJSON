@@ -24,31 +24,36 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 200
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "訓練、認證及發證",
-			"start": 300
+			"start": 300,
+			"end": 800
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "繼續教育",
-			"start": 900
+			"start": 900,
+			"end": 1600
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "登錄",
-			"start": 1700
+			"start": 1700,
+			"end": 1900
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "附則",
-			"start": 2000
+			"start": 2000,
+			"end": 2200
 		}
 	],
 	"articles": [

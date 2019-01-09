@@ -32,25 +32,29 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Provisions",
-			"start": 100
+			"start": 100,
+			"end": 1400
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Class A Medical Standard",
-			"start": 1500
+			"start": 1500,
+			"end": 2600
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Class B Medical Standard",
-			"start": 2700
+			"start": 2700,
+			"end": 3800
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Waiver on Medical Exam",
-			"start": 3900
+			"start": 3900,
+			"end": 4500
 		}
 	],
 	"articles": [

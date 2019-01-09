@@ -14,60 +14,73 @@
 			"type": "編",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 1000
 		},
 		{
 			"type": "編",
 			"number": 200,
 			"title": "藥品",
-			"start": 1100
-		},
-		{
-			"type": "章",
-			"number": 100,
-			"title": "健保藥品收載原則",
-			"start": 1100
-		},
-		{
-			"type": "章",
-			"number": 200,
-			"title": "健保藥品支付價格訂定原則",
-			"start": 1400
-		},
-		{
-			"type": "章",
-			"number": 300,
-			"title": "藥品給付協議",
-			"start": 4100
+			"start": 1100,
+			"end": 4600,
+			"children": [
+				{
+					"type": "章",
+					"number": 100,
+					"title": "健保藥品收載原則",
+					"start": 1100,
+					"end": 1300
+				},
+				{
+					"type": "章",
+					"number": 200,
+					"title": "健保藥品支付價格訂定原則",
+					"start": 1400,
+					"end": 4000
+				},
+				{
+					"type": "章",
+					"number": 300,
+					"title": "藥品給付協議",
+					"start": 4100,
+					"end": 4600
+				}
+			]
 		},
 		{
 			"type": "編",
 			"number": 300,
 			"title": "特殊材料",
-			"start": 4700
-		},
-		{
-			"type": "章",
-			"number": 100,
-			"title": "健保特殊材料收載原則",
-			"start": 4700
-		},
-		{
-			"type": "章",
-			"number": 200,
-			"title": "健保特殊材料支付點數訂定原則",
-			"start": 5200
-		},
-		{
-			"type": "章",
-			"number": 300,
-			"title": "特殊材料支付點數之調整",
-			"start": 5400
-		},
-		{
-			"type": "章",
-			"number": 301,
-			"title": "價量協議"
+			"start": 4700,
+			"end": 8500,
+			"children": [
+				{
+					"type": "章",
+					"number": 100,
+					"title": "健保特殊材料收載原則",
+					"start": 4700,
+					"end": 5100
+				},
+				{
+					"type": "章",
+					"number": 200,
+					"title": "健保特殊材料支付點數訂定原則",
+					"start": 5200,
+					"end": 5301
+				},
+				{
+					"type": "章",
+					"number": 300,
+					"title": "特殊材料支付點數之調整",
+					"start": 5400,
+					"end": 8500
+				},
+				{
+					"type": "章",
+					"number": 301,
+					"title": "價量協議"
+				}
+			]
 		},
 		{
 			"type": "編",

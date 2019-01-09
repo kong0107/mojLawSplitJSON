@@ -18,37 +18,43 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 100
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "劃設及其程序",
-			"start": 200
+			"start": 200,
+			"end": 1000
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "變更、廢止及其程序",
-			"start": 1100
+			"start": 1100,
+			"end": 1200
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "管理保護計畫",
-			"start": 1300
+			"start": 1300,
+			"end": 2000
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "進入與不受禁止行為限制之許可",
-			"start": 2100
+			"start": 2100,
+			"end": 2500
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "附則",
-			"start": 2600
+			"start": 2600,
+			"end": 2600
 		}
 	],
 	"articles": [

@@ -23,79 +23,96 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General",
-			"start": 100
+			"start": 100,
+			"end": 200
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Qualification Requirements",
-			"start": 300
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Qualifications of Membership Representative Candidate",
-			"start": 300
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Qualifications of Director and Supervisor Candidates",
-			"start": 600
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Qualifications of Managers",
-			"start": 1100
+			"start": 300,
+			"end": 1401,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Qualifications of Membership Representative Candidate",
+					"start": 300,
+					"end": 500
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Qualifications of Director and Supervisor Candidates",
+					"start": 600,
+					"end": 1000
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Qualifications of Managers",
+					"start": 1100,
+					"end": 1401
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Election Procedure",
-			"start": 1500
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Planning of Electoral Affairs",
-			"start": 1500
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Voting",
-			"start": 2600
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Elected to Office",
-			"start": 3400
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "Objections to Election and Filling up Vacancies",
-			"start": 3800
+			"start": 1500,
+			"end": 3900,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Planning of Electoral Affairs",
+					"start": 1500,
+					"end": 2500
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Voting",
+					"start": 2600,
+					"end": 3300
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Elected to Office",
+					"start": 3400,
+					"end": 3700
+				},
+				{
+					"type": "section",
+					"number": 400,
+					"title": "Objections to Election and Filling up Vacancies",
+					"start": 3800,
+					"end": 3900
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Taking Office and Discharge",
-			"start": 4000
+			"start": 4000,
+			"end": 4800
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Appointment and Dismissal",
-			"start": 4900
+			"start": 4900,
+			"end": 5000
 		},
 		{
 			"type": "chapter",
 			"number": 600,
 			"title": "Supplemental Provisions",
-			"start": 5100
+			"start": 5100,
+			"end": 5200
 		}
 	],
 	"articles": [

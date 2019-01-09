@@ -18,133 +18,159 @@
 			"type": "章",
 			"number": 100,
 			"title": "總綱",
-			"start": 100
+			"start": 100,
+			"end": 600
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "人民之權利義務",
-			"start": 700
+			"start": 700,
+			"end": 2400
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "國民大會",
-			"start": 2500
+			"start": 2500,
+			"end": 3400
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "總統",
-			"start": 3500
+			"start": 3500,
+			"end": 5200
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "行政",
-			"start": 5300
+			"start": 5300,
+			"end": 6100
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "立法",
-			"start": 6200
+			"start": 6200,
+			"end": 7600
 		},
 		{
 			"type": "章",
 			"number": 700,
 			"title": "司法",
-			"start": 7700
+			"start": 7700,
+			"end": 8200
 		},
 		{
 			"type": "章",
 			"number": 800,
 			"title": "考試",
-			"start": 8300
+			"start": 8300,
+			"end": 8900
 		},
 		{
 			"type": "章",
 			"number": 900,
 			"title": "監察",
-			"start": 9000
+			"start": 9000,
+			"end": 10600
 		},
 		{
 			"type": "章",
 			"number": 1000,
 			"title": "中央與地方之權限",
-			"start": 10700
+			"start": 10700,
+			"end": 11100
 		},
 		{
 			"type": "章",
 			"number": 1100,
 			"title": "地方制度",
-			"start": 11200
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "省",
-			"start": 11200
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "縣",
-			"start": 12100
+			"start": 11200,
+			"end": 12800,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "省",
+					"start": 11200,
+					"end": 12000
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "縣",
+					"start": 12100,
+					"end": 12800
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 1200,
 			"title": "選舉、罷免、創制、複決",
-			"start": 12900
+			"start": 12900,
+			"end": 13600
 		},
 		{
 			"type": "章",
 			"number": 1300,
 			"title": "基本國策",
-			"start": 13700
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "國防",
-			"start": 13700
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "外交",
-			"start": 14100
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "國民經濟",
-			"start": 14200
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "社會安全",
-			"start": 15200
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "教育文化",
-			"start": 15800
-		},
-		{
-			"type": "節",
-			"number": 600,
-			"title": "邊疆地區",
-			"start": 16800
+			"start": 13700,
+			"end": 16900,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "國防",
+					"start": 13700,
+					"end": 14000
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "外交",
+					"start": 14100,
+					"end": 14100
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "國民經濟",
+					"start": 14200,
+					"end": 15100
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "社會安全",
+					"start": 15200,
+					"end": 15700
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "教育文化",
+					"start": 15800,
+					"end": 16700
+				},
+				{
+					"type": "節",
+					"number": 600,
+					"title": "邊疆地區",
+					"start": 16800,
+					"end": 16900
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 1400,
 			"title": "憲法之施行及修改",
-			"start": 17000
+			"start": 17000,
+			"end": 17500
 		}
 	],
 	"articles": [

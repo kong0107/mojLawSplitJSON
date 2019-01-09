@@ -21,37 +21,45 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 300
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "許可",
-			"start": 400
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "環境保護事業機構",
-			"start": 400
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "環境保護技術員",
-			"start": 1600
+			"start": 400,
+			"end": 2300,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "環境保護事業機構",
+					"start": 400,
+					"end": 1500
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "環境保護技術員",
+					"start": 1600,
+					"end": 2300
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "管理",
-			"start": 2400
+			"start": 2400,
+			"end": 3600
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "附則",
-			"start": 3700
+			"start": 3700,
+			"end": 4600
 		}
 	],
 	"articles": [

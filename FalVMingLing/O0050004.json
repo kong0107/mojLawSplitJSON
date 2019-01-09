@@ -26,37 +26,45 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 300
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "許可",
-			"start": 400
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "清除、處理機構",
-			"start": 400
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "清除、處理技術員",
-			"start": 1400
+			"start": 400,
+			"end": 2000,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "清除、處理機構",
+					"start": 400,
+					"end": 1300
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "清除、處理技術員",
+					"start": 1400,
+					"end": 2000
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "管理",
-			"start": 2100
+			"start": 2100,
+			"end": 3200
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "附則",
-			"start": 3300
+			"start": 3300,
+			"end": 4100
 		}
 	],
 	"articles": [

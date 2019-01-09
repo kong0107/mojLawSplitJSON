@@ -20,43 +20,52 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 1000
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "分則",
-			"start": 1100
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "水上摩托車活動",
-			"start": 1100
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "潛水活動",
-			"start": 1600
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "獨木舟活動",
-			"start": 2200
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "泛舟活動",
-			"start": 2500
+			"start": 1100,
+			"end": 2700,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "水上摩托車活動",
+					"start": 1100,
+					"end": 1500
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "潛水活動",
+					"start": 1600,
+					"end": 2100
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "獨木舟活動",
+					"start": 2200,
+					"end": 2400
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "泛舟活動",
+					"start": 2500,
+					"end": 2700
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "附則",
-			"start": 2800
+			"start": 2800,
+			"end": 2900
 		}
 	],
 	"articles": [

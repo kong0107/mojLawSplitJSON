@@ -26,67 +26,78 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 800
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "食品製造業",
-			"start": 900
+			"start": 900,
+			"end": 1200
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "食品工廠",
-			"start": 1300
+			"start": 1300,
+			"end": 1500
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "食品物流業",
-			"start": 1600
+			"start": 1600,
+			"end": 1600
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "食品販賣業",
-			"start": 1700
+			"start": 1700,
+			"end": 2100
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "餐飲業",
-			"start": 2200
+			"start": 2200,
+			"end": 2800
 		},
 		{
 			"type": "章",
 			"number": 700,
 			"title": "食品添加物業",
-			"start": 2900
+			"start": 2900,
+			"end": 3200
 		},
 		{
 			"type": "章",
 			"number": 800,
 			"title": "低酸性及酸化罐頭食品製造業",
-			"start": 3300
+			"start": 3300,
+			"end": 3600
 		},
 		{
 			"type": "章",
 			"number": 900,
 			"title": "真空包裝即食食品製造業",
-			"start": 3700
+			"start": 3700,
+			"end": 3900
 		},
 		{
 			"type": "章",
 			"number": 1000,
 			"title": "塑膠類食品器具、食品容器或包裝製造業",
-			"start": 4000
+			"start": 4000,
+			"end": 4500
 		},
 		{
 			"type": "章",
 			"number": 1100,
 			"title": "附則",
-			"start": 4600
+			"start": 4600,
+			"end": 4600
 		}
 	],
 	"articles": [

@@ -26,43 +26,50 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 200
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "輸入藥品查驗",
-			"start": 300
+			"start": 300,
+			"end": 500
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "輸入中藥材查驗",
-			"start": 600
+			"start": 600,
+			"end": 900
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "輸入醫療器材查驗",
-			"start": 1000
+			"start": 1000,
+			"end": 1100
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "輸入藥物查驗其他規定",
-			"start": 1200
+			"start": 1200,
+			"end": 2100
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "規費",
-			"start": 2200
+			"start": 2200,
+			"end": 2200
 		},
 		{
 			"type": "章",
 			"number": 700,
 			"title": "附則",
-			"start": 2300
+			"start": 2300,
+			"end": 2400
 		}
 	],
 	"articles": [

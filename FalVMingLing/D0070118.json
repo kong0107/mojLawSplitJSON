@@ -24,37 +24,43 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 300
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "住戶之權利義務",
-			"start": 400
+			"start": 400,
+			"end": 2400
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "管理組織",
-			"start": 2500
+			"start": 2500,
+			"end": 4000
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "管理服務人",
-			"start": 4100
+			"start": 4100,
+			"end": 4600
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "罰則",
-			"start": 4700
+			"start": 4700,
+			"end": 5200
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "附則",
-			"start": 5300
+			"start": 5300,
+			"end": 6300
 		}
 	],
 	"articles": [

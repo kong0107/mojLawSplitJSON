@@ -18,37 +18,45 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 800
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "普通法院法官之遴選",
-			"start": 900
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "律師轉任法官",
-			"start": 900
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "教授、副教授、助理教授、司法院大法官轉任法官",
-			"start": 1400
+			"start": 900,
+			"end": 1700,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "律師轉任法官",
+					"start": 900,
+					"end": 1300
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "教授、副教授、助理教授、司法院大法官轉任法官",
+					"start": 1400,
+					"end": 1700
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "專業法院法官之遴選",
-			"start": 1800
+			"start": 1800,
+			"end": 2200
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "附則",
-			"start": 2300
+			"start": 2300,
+			"end": 2600
 		}
 	],
 	"articles": [

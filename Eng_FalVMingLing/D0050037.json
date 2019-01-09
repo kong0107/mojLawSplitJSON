@@ -21,43 +21,50 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Regulations",
-			"start": 100
+			"start": 100,
+			"end": 1000
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "The Financial conditions",
-			"start": 1100
+			"start": 1100,
+			"end": 1500
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Services",
-			"start": 1600
+			"start": 1600,
+			"end": 3300
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Welfare Institutions",
-			"start": 3400
+			"start": 3400,
+			"end": 4000
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Protections",
-			"start": 4100
+			"start": 4100,
+			"end": 4400
 		},
 		{
 			"type": "chapter",
 			"number": 600,
 			"title": "Penalty",
-			"start": 4500
+			"start": 4500,
+			"end": 5200
 		},
 		{
 			"type": "chapter",
 			"number": 700,
 			"title": "Bylaws",
-			"start": 5300
+			"start": 5300,
+			"end": 5500
 		}
 	],
 	"articles": [

@@ -35,67 +35,80 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 700
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "礦業權",
-			"start": 800
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "礦業權之性質與效用",
-			"start": 800
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "礦業權之設定及展限",
-			"start": 1500
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "礦業權之變更、移轉與消滅",
-			"start": 3400
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "採礦權之抵押",
-			"start": 4100
+			"start": 800,
+			"end": 4200,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "礦業權之性質與效用",
+					"start": 800,
+					"end": 1400
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "礦業權之設定及展限",
+					"start": 1500,
+					"end": 3300
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "礦業權之變更、移轉與消滅",
+					"start": 3400,
+					"end": 4000
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "採礦權之抵押",
+					"start": 4100,
+					"end": 4200
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "礦業用地",
-			"start": 4300
+			"start": 4300,
+			"end": 5200
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "礦業權費及礦產權利金",
-			"start": 5300
+			"start": 5300,
+			"end": 5600
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "礦業監督及獎勵",
-			"start": 5700
+			"start": 5700,
+			"end": 6800
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "罰則",
-			"start": 6900
+			"start": 6900,
+			"end": 7400
 		},
 		{
 			"type": "章",
 			"number": 700,
 			"title": "附則",
-			"start": 7401
+			"start": 7401,
+			"end": 8000
 		}
 	],
 	"articles": [

@@ -19,31 +19,36 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 300
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "研發成果之歸屬",
-			"start": 400
+			"start": 400,
+			"end": 600
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "一般研發成果之管理及運用",
-			"start": 700
+			"start": 700,
+			"end": 2700
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "國防研發成果之管理及運用",
-			"start": 2800
+			"start": 2800,
+			"end": 3400
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "附則",
-			"start": 3500
+			"start": 3500,
+			"end": 3700
 		}
 	],
 	"articles": [

@@ -22,49 +22,57 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 300
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "編組、監督",
-			"start": 400
+			"start": 400,
+			"end": 500
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "資格、任用",
-			"start": 600
+			"start": 600,
+			"end": 1000
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "服制、訓練",
-			"start": 1100
+			"start": 1100,
+			"end": 1300
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "考核、獎懲",
-			"start": 1400
+			"start": 1400,
+			"end": 1800
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "待遇、退撫",
-			"start": 1900
+			"start": 1900,
+			"end": 2200
 		},
 		{
 			"type": "章",
 			"number": 700,
 			"title": "其他",
-			"start": 2300
+			"start": 2300,
+			"end": 2400
 		},
 		{
 			"type": "章",
 			"number": 800,
 			"title": "附則",
-			"start": 2500
+			"start": 2500,
+			"end": 2500
 		}
 	],
 	"articles": [

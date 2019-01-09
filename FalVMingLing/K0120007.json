@@ -32,37 +32,43 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 300
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "禁建限建範圍之公告、劃定、變更及廢止",
-			"start": 400
+			"start": 400,
+			"end": 500
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "禁建限建範圍及其管制",
-			"start": 600
+			"start": 600,
+			"end": 800
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "限建範圍內建築物、廣告物及工程行為之審核及管理",
-			"start": 900
+			"start": 900,
+			"end": 2100
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "禁建範圍內原有或施工中建築物、廣告物或障礙物之處理",
-			"start": 2200
+			"start": 2200,
+			"end": 2300
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "附則",
-			"start": 2400
+			"start": 2400,
+			"end": 2600
 		}
 	],
 	"articles": [

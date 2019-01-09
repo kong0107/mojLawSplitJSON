@@ -13,67 +13,82 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 200
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "雨水下水道工程設施",
-			"start": 300
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "雨水下水道管渠及其附屬設施",
-			"start": 300
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "雨水抽水站設施",
-			"start": 1600
+			"start": 300,
+			"end": 2500,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "雨水下水道管渠及其附屬設施",
+					"start": 300,
+					"end": 1500
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "雨水抽水站設施",
+					"start": 1600,
+					"end": 2500
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "污水下水道工程設施",
-			"start": 2600
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "污水下水道管渠及其附屬設施",
-			"start": 2600
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "污水抽水站設施",
-			"start": 3300
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "污水處理設施",
-			"start": 3900
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "污泥處理設施",
-			"start": 4800
+			"start": 2600,
+			"end": 5300,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "污水下水道管渠及其附屬設施",
+					"start": 2600,
+					"end": 3200
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "污水抽水站設施",
+					"start": 3300,
+					"end": 3800
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "污水處理設施",
+					"start": 3900,
+					"end": 4700
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "污泥處理設施",
+					"start": 4800,
+					"end": 5300
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "儀表控制設備",
-			"start": 5400
+			"start": 5400,
+			"end": 5700
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "附則",
-			"start": 5800
+			"start": 5800,
+			"end": 5800
 		}
 	],
 	"articles": [

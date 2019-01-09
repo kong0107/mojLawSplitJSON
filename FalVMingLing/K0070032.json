@@ -63,49 +63,59 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 100
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "船舶運送業",
-			"start": 200
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "籌設許可及登記",
-			"start": 200
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "船舶購建及出售",
-			"start": 800
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "營運",
-			"start": 1200
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "運價表申報",
-			"start": 1800
+			"start": 200,
+			"end": 1900,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "籌設許可及登記",
+					"start": 200,
+					"end": 700
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "船舶購建及出售",
+					"start": 800,
+					"end": 1100
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "營運",
+					"start": 1200,
+					"end": 1705
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "運價表申報",
+					"start": 1800,
+					"end": 1900
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "外國籍船舶運送業",
-			"start": 2000
+			"start": 2000,
+			"end": 2600
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "附則",
-			"start": 2700
+			"start": 2700,
+			"end": 2900
 		}
 	],
 	"articles": [

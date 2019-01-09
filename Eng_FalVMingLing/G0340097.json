@@ -32,31 +32,36 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Provisions",
-			"start": 100
+			"start": 100,
+			"end": 400
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Land Value Tax",
-			"start": 500
+			"start": 500,
+			"end": 2000
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Agricultural Land Tax",
-			"start": 2100
+			"start": 2100,
+			"end": 4100
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Land value increment tax",
-			"start": 4200
+			"start": 4200,
+			"end": 6100
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Supplementary Provisions",
-			"start": 6200
+			"start": 6200,
+			"end": 6300
 		}
 	],
 	"articles": [

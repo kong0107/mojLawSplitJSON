@@ -21,37 +21,43 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 400
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "申請、許可及證照",
-			"start": 500
+			"start": 500,
+			"end": 900
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "工程人員管理",
-			"start": 1000
+			"start": 1000,
+			"end": 1100
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "維運管理",
-			"start": 1200
+			"start": 1200,
+			"end": 1300
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "頻率、呼號、電功率及其他電波監理",
-			"start": 1400
+			"start": 1400,
+			"end": 1800
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "附則",
-			"start": 1900
+			"start": 1900,
+			"end": 2100
 		}
 	],
 	"articles": [

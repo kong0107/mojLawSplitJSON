@@ -15,49 +15,59 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Principles",
-			"start": 100
+			"start": 100,
+			"end": 700
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Application and Its Review of the Establishment of Field Testing Institution",
-			"start": 800
+			"start": 800,
+			"end": 1600
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Field Testing Management",
-			"start": 1700
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Application for Field Testing",
-			"start": 1700
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Genetic Characteristics Investigation",
-			"start": 2100
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Biosafety Assessment",
-			"start": 2400
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "Implementation and Monitoring",
-			"start": 2600
+			"start": 1700,
+			"end": 3300,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Application for Field Testing",
+					"start": 1700,
+					"end": 2000
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Genetic Characteristics Investigation",
+					"start": 2100,
+					"end": 2300
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Biosafety Assessment",
+					"start": 2400,
+					"end": 2500
+				},
+				{
+					"type": "section",
+					"number": 400,
+					"title": "Implementation and Monitoring",
+					"start": 2600,
+					"end": 3300
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Supplementary Provisions",
-			"start": 3400
+			"start": 3400,
+			"end": 3500
 		}
 	],
 	"articles": [

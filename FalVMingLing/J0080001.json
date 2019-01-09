@@ -45,199 +45,240 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 3900
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "無限公司",
-			"start": 4000
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "設立",
-			"start": 4000
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "公司之內部關係",
-			"start": 4200
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "公司之對外關係",
-			"start": 5600
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "退股",
-			"start": 6500
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "解散、合併及變更組織",
-			"start": 7100
-		},
-		{
-			"type": "節",
-			"number": 600,
-			"title": "清算",
-			"start": 7900
+			"start": 4000,
+			"end": 9700,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "設立",
+					"start": 4000,
+					"end": 4100
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "公司之內部關係",
+					"start": 4200,
+					"end": 5500
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "公司之對外關係",
+					"start": 5600,
+					"end": 6400
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "退股",
+					"start": 6500,
+					"end": 7000
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "解散、合併及變更組織",
+					"start": 7100,
+					"end": 7800
+				},
+				{
+					"type": "節",
+					"number": 600,
+					"title": "清算",
+					"start": 7900,
+					"end": 9700
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "有限公司",
-			"start": 9800
+			"start": 9800,
+			"end": 11300
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "兩合公司",
-			"start": 11400
+			"start": 11400,
+			"end": 12700
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "股份有限公司",
-			"start": 12800
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "設立",
-			"start": 12800
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "股份",
-			"start": 15600
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "股東會",
-			"start": 17000
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "董事及董事會",
-			"start": 19200
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "監察人",
-			"start": 21600
-		},
-		{
-			"type": "節",
-			"number": 600,
-			"title": "會計",
-			"start": 22800
-		},
-		{
-			"type": "節",
-			"number": 700,
-			"title": "公司債",
-			"start": 24600
-		},
-		{
-			"type": "節",
-			"number": 800,
-			"title": "發行新股",
-			"start": 26600
-		},
-		{
-			"type": "節",
-			"number": 900,
-			"title": "變更章程",
-			"start": 27700
-		},
-		{
-			"type": "節",
-			"number": 1000,
-			"title": "公司重整",
-			"start": 28200
-		},
-		{
-			"type": "節",
-			"number": 1100,
-			"title": "解散、合併及分割",
-			"start": 31500
-		},
-		{
-			"type": "節",
-			"number": 1200,
-			"title": "清算",
-			"start": 32200
-		},
-		{
-			"type": "目",
-			"number": 100,
-			"title": "普通清算",
-			"start": 32200
-		},
-		{
-			"type": "目",
-			"number": 200,
-			"title": "特別清算",
-			"start": 33500
-		},
-		{
-			"type": "節",
-			"number": 1300,
-			"title": "閉鎖性股份有限公司",
-			"start": 35601
+			"start": 12800,
+			"end": 35614,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "設立",
+					"start": 12800,
+					"end": 15500
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "股份",
+					"start": 15600,
+					"end": 16900
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "股東會",
+					"start": 17000,
+					"end": 19100
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "董事及董事會",
+					"start": 19200,
+					"end": 21500
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "監察人",
+					"start": 21600,
+					"end": 22700
+				},
+				{
+					"type": "節",
+					"number": 600,
+					"title": "會計",
+					"start": 22800,
+					"end": 24500
+				},
+				{
+					"type": "節",
+					"number": 700,
+					"title": "公司債",
+					"start": 24600,
+					"end": 26500
+				},
+				{
+					"type": "節",
+					"number": 800,
+					"title": "發行新股",
+					"start": 26600,
+					"end": 27600
+				},
+				{
+					"type": "節",
+					"number": 900,
+					"title": "變更章程",
+					"start": 27700,
+					"end": 28100
+				},
+				{
+					"type": "節",
+					"number": 1000,
+					"title": "公司重整",
+					"start": 28200,
+					"end": 31400
+				},
+				{
+					"type": "節",
+					"number": 1100,
+					"title": "解散、合併及分割",
+					"start": 31500,
+					"end": 32100
+				},
+				{
+					"type": "節",
+					"number": 1200,
+					"title": "清算",
+					"start": 32200,
+					"end": 35600,
+					"children": [
+						{
+							"type": "目",
+							"number": 100,
+							"title": "普通清算",
+							"start": 32200,
+							"end": 33400
+						},
+						{
+							"type": "目",
+							"number": 200,
+							"title": "特別清算",
+							"start": 33500,
+							"end": 35600
+						}
+					]
+				},
+				{
+					"type": "節",
+					"number": 1300,
+					"title": "閉鎖性股份有限公司",
+					"start": 35601,
+					"end": 35614
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "（刪除）",
-			"start": 35700
+			"start": 35700,
+			"end": 36900
 		},
 		{
 			"type": "章",
 			"number": 601,
 			"title": "關係企業",
-			"start": 36901
+			"start": 36901,
+			"end": 36912
 		},
 		{
 			"type": "章",
 			"number": 700,
 			"title": "外國公司",
-			"start": 37000
+			"start": 37000,
+			"end": 38600
 		},
 		{
 			"type": "章",
 			"number": 800,
 			"title": "登記",
-			"start": 38700
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "申請",
-			"start": 38700
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "規費",
-			"start": 43800
+			"start": 38700,
+			"end": 44600,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "申請",
+					"start": 38700,
+					"end": 43700
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "規費",
+					"start": 43800,
+					"end": 44600
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 900,
 			"title": "附則",
-			"start": 44700
+			"start": 44700,
+			"end": 44900
 		}
 	],
 	"articles": [

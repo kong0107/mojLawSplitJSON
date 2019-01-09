@@ -20,31 +20,36 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Principles",
-			"start": 100
+			"start": 100,
+			"end": 200
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Banks",
-			"start": 300
+			"start": 300,
+			"end": 2202
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Securities Firms",
-			"start": 2203
+			"start": 2203,
+			"end": 2211
 		},
 		{
 			"type": "chapter",
 			"number": 301,
 			"title": "Insurance Enterprises",
-			"start": 2212
+			"start": 2212,
+			"end": 2220
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Supplementary Provisions",
-			"start": 2300
+			"start": 2300,
+			"end": 2400
 		}
 	],
 	"articles": [

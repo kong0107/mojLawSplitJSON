@@ -19,55 +19,68 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Principles",
-			"start": 100
+			"start": 100,
+			"end": 600
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Business Dealings",
-			"start": 700
+			"start": 700,
+			"end": 1100
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Establishment of Branch Units and Equity Investment in the Mainland Area",
-			"start": 1200
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Representative Offices",
-			"start": 1200
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Equity Investment",
-			"start": 1600
+			"start": 1200,
+			"end": 2400,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Representative Offices",
+					"start": 1200,
+					"end": 1500
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Equity Investment",
+					"start": 1600,
+					"end": 2400
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Establishment of Branch Units and Equity Investment in Taiwan",
-			"start": 2500
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Representative Offices",
-			"start": 2500
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Equity Investment",
-			"start": 3100
+			"start": 2500,
+			"end": 4400,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Representative Offices",
+					"start": 2500,
+					"end": 3000
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Equity Investment",
+					"start": 3100,
+					"end": 4400
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Supplementary Provisions",
-			"start": 4500
+			"start": 4500,
+			"end": 5000
 		}
 	],
 	"articles": [

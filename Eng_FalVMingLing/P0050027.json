@@ -14,31 +14,36 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Provisions",
-			"start": 100
+			"start": 100,
+			"end": 300
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Accounting Systems",
-			"start": 400
+			"start": 400,
+			"end": 1500
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Cost Pooling and Allocation",
-			"start": 1600
+			"start": 1600,
+			"end": 2400
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Financial Report and Disclosure",
-			"start": 2500
+			"start": 2500,
+			"end": 2800
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Other Provisions",
-			"start": 2900
+			"start": 2900,
+			"end": 2900
 		}
 	],
 	"articles": [

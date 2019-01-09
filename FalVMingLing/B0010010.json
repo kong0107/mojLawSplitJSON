@@ -24,61 +24,73 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 2100
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "公證人",
-			"start": 2200
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "法院之公證人",
-			"start": 2200
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "民間之公證人",
-			"start": 2400
+			"start": 2200,
+			"end": 6900,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "法院之公證人",
+					"start": 2200,
+					"end": 2300
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "民間之公證人",
+					"start": 2400,
+					"end": 6900
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "公證",
-			"start": 7000
+			"start": 7000,
+			"end": 9900
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "認證",
-			"start": 10000
+			"start": 10000,
+			"end": 10700
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "公證費用",
-			"start": 10800
+			"start": 10800,
+			"end": 12900
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "公會",
-			"start": 13000
+			"start": 13000,
+			"end": 14600
 		},
 		{
 			"type": "章",
 			"number": 700,
 			"title": "罰則",
-			"start": 14700
+			"start": 14700,
+			"end": 14900
 		},
 		{
 			"type": "章",
 			"number": 800,
 			"title": "附則",
-			"start": 15000
+			"start": 15000,
+			"end": 15200
 		}
 	],
 	"articles": [

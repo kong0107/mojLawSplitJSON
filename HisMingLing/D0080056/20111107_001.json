@@ -13,25 +13,29 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 300
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "槍砲彈藥之許可及管理",
-			"start": 400
+			"start": 400,
+			"end": 2000
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "管制刀械之許可及管理",
-			"start": 2100
+			"start": 2100,
+			"end": 2900
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "附則",
-			"start": 3000
+			"start": 3000,
+			"end": 3600
 		}
 	],
 	"articles": [

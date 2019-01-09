@@ -20,55 +20,68 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 600
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "安全設施",
-			"start": 700
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "油輪清艙",
-			"start": 700
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "船舶解體",
-			"start": 1300
+			"start": 700,
+			"end": 2300,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "油輪清艙",
+					"start": 700,
+					"end": 1200
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "船舶解體",
+					"start": 1300,
+					"end": 2300
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "安全作業",
-			"start": 2400
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "油輪清艙作業",
-			"start": 2400
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "船舶解體作業",
-			"start": 3200
+			"start": 2400,
+			"end": 4400,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "油輪清艙作業",
+					"start": 2400,
+					"end": 3100
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "船舶解體作業",
+					"start": 3200,
+					"end": 4400
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "安全管理",
-			"start": 4500
+			"start": 4500,
+			"end": 5600
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "附則",
-			"start": 5700
+			"start": 5700,
+			"end": 6200
 		}
 	],
 	"articles": [

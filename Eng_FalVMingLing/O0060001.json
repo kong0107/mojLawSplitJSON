@@ -17,37 +17,43 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Principles",
-			"start": 100
+			"start": 100,
+			"end": 800
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Registration",
-			"start": 900
+			"start": 900,
+			"end": 1200
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Management",
-			"start": 1300
+			"start": 1300,
+			"end": 3300
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Checking and Interdiction",
-			"start": 3400
+			"start": 3400,
+			"end": 4100
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Penal Provisions",
-			"start": 4200
+			"start": 4200,
+			"end": 5400
 		},
 		{
 			"type": "chapter",
 			"number": 600,
 			"title": "Supplementary Provisions",
-			"start": 5500
+			"start": 5500,
+			"end": 6000
 		}
 	],
 	"articles": [

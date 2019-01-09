@@ -29,49 +29,59 @@
 			"type": "編",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 1300
 		},
 		{
 			"type": "編",
 			"number": 200,
 			"title": "分則",
-			"start": 1400
-		},
-		{
-			"type": "章",
-			"number": 100,
-			"title": "違反效忠國家職責罪",
-			"start": 1400
-		},
-		{
-			"type": "章",
-			"number": 200,
-			"title": "違反職役職責罪",
-			"start": 2600
-		},
-		{
-			"type": "章",
-			"number": 300,
-			"title": "違反長官職責罪",
-			"start": 4200
-		},
-		{
-			"type": "章",
-			"number": 400,
-			"title": "違反部屬職責罪",
-			"start": 4700
-		},
-		{
-			"type": "章",
-			"number": 500,
-			"title": "其他軍事犯罪",
-			"start": 5300
+			"start": 1400,
+			"end": 7500,
+			"children": [
+				{
+					"type": "章",
+					"number": 100,
+					"title": "違反效忠國家職責罪",
+					"start": 1400,
+					"end": 2500
+				},
+				{
+					"type": "章",
+					"number": 200,
+					"title": "違反職役職責罪",
+					"start": 2600,
+					"end": 4100
+				},
+				{
+					"type": "章",
+					"number": 300,
+					"title": "違反長官職責罪",
+					"start": 4200,
+					"end": 4600
+				},
+				{
+					"type": "章",
+					"number": 400,
+					"title": "違反部屬職責罪",
+					"start": 4700,
+					"end": 5200
+				},
+				{
+					"type": "章",
+					"number": 500,
+					"title": "其他軍事犯罪",
+					"start": 5300,
+					"end": 7500
+				}
+			]
 		},
 		{
 			"type": "編",
 			"number": 300,
 			"title": "附則",
-			"start": 7600
+			"start": 7600,
+			"end": 7900
 		}
 	],
 	"articles": [

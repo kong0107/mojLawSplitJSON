@@ -13,25 +13,29 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 600
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "預報",
-			"start": 700
+			"start": 700,
+			"end": 800
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "警報特報及報告",
-			"start": 900
+			"start": 900,
+			"end": 1601
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "附則",
-			"start": 1700
+			"start": 1700,
+			"end": 1800
 		}
 	],
 	"articles": [

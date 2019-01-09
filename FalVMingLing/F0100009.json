@@ -32,91 +32,110 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 300
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "作業規定",
-			"start": 400
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "申運權限",
-			"start": 400
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "承運權限",
-			"start": 600
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "申請範圍",
-			"start": 900
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "運輸限制",
-			"start": 1200
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "鐵運核實",
-			"start": 1500
-		},
-		{
-			"type": "節",
-			"number": 600,
-			"title": "鐵運保密",
-			"start": 2100
+			"start": 400,
+			"end": 2700,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "申運權限",
+					"start": 400,
+					"end": 500
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "承運權限",
+					"start": 600,
+					"end": 800
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "申請範圍",
+					"start": 900,
+					"end": 1100
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "運輸限制",
+					"start": 1200,
+					"end": 1400
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "鐵運核實",
+					"start": 1500,
+					"end": 2000
+				},
+				{
+					"type": "節",
+					"number": 600,
+					"title": "鐵運保密",
+					"start": 2100,
+					"end": 2700
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "臺灣地區鐵路軍人各種換票憑證之管制",
-			"start": 2800
+			"start": 2800,
+			"end": 3100
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "鐵運費管制",
-			"start": 3200
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "通則",
-			"start": 3200
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "運費申請",
-			"start": 3300
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "運費分配",
-			"start": 3700
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "運費支用",
-			"start": 4200
+			"start": 3200,
+			"end": 4700,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "通則",
+					"start": 3200,
+					"end": 3200
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "運費申請",
+					"start": 3300,
+					"end": 3600
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "運費分配",
+					"start": 3700,
+					"end": 4100
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "運費支用",
+					"start": 4200,
+					"end": 4700
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "附則",
-			"start": 4800
+			"start": 4800,
+			"end": 5600
 		}
 	],
 	"articles": [

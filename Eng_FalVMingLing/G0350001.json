@@ -37,79 +37,96 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "GENERAL PROVISIONS",
-			"start": 100
+			"start": 100,
+			"end": 1500
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "PROCEDURES GOVERNING CUSTOMS CLEARANCE",
-			"start": 1600
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Declaration and Examination",
-			"start": 1600
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Customs Value",
-			"start": 2900
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Time Limits for Duty Payment and Administrative Remedy",
-			"start": 4300
+			"start": 1600,
+			"end": 4800,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Declaration and Examination",
+					"start": 1600,
+					"end": 2801
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Customs Value",
+					"start": 2900,
+					"end": 4200
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Time Limits for Duty Payment and Administrative Remedy",
+					"start": 4300,
+					"end": 4800
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "PRIVILEGED DUTY TREATMENT",
-			"start": 4900
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Duty Exemption",
-			"start": 4900
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Bonding",
-			"start": 5800
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Customs Duty Refunds",
-			"start": 6300
+			"start": 4900,
+			"end": 6600,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Duty Exemption",
+					"start": 4900,
+					"end": 5700
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Bonding",
+					"start": 5800,
+					"end": 6200
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Customs Duty Refunds",
+					"start": 6300,
+					"end": 6600
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "SPECIAL CUSTOMS DUTY",
-			"start": 6700
+			"start": 6700,
+			"end": 7200
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "PENALTIES",
-			"start": 7300
+			"start": 7300,
+			"end": 9400
 		},
 		{
 			"type": "chapter",
 			"number": 600,
 			"title": "IMPLEMENTATION",
-			"start": 9500
+			"start": 9500,
+			"end": 9600
 		},
 		{
 			"type": "chapter",
 			"number": 700,
 			"title": "SUPPLEMENTARY PROVISIONS",
-			"start": 9700
+			"start": 9700,
+			"end": 10300
 		}
 	],
 	"articles": [

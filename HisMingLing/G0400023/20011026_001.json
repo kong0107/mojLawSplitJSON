@@ -14,55 +14,66 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 1100
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "發行股票",
-			"start": 1200
+			"start": 1200,
+			"end": 1900
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "發行公司債",
-			"start": 2000
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "普通公司債",
-			"start": 2000
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "轉換公司債",
-			"start": 2700
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "附認股權公司債",
-			"start": 3800
+			"start": 2000,
+			"end": 4900,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "普通公司債",
+					"start": 2000,
+					"end": 2600
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "轉換公司債",
+					"start": 2700,
+					"end": 3700
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "附認股權公司債",
+					"start": 3800,
+					"end": 4900
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "發行員工認股權憑證與限制員工權利新股",
-			"start": 5000
+			"start": 5000,
+			"end": 6000
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "公開招募",
-			"start": 6100
+			"start": 6100,
+			"end": 6500
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "補辦公開發行",
-			"start": 6600
+			"start": 6600,
+			"end": 7000
 		},
 		{
 			"type": "章",

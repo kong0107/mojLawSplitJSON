@@ -19,25 +19,29 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 100
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "油料供應",
-			"start": 200
+			"start": 200,
+			"end": 1000
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "用水供應",
-			"start": 1100
+			"start": 1100,
+			"end": 1400
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "附則",
-			"start": 1500
+			"start": 1500,
+			"end": 1500
 		}
 	],
 	"articles": [

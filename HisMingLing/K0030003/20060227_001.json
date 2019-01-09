@@ -13,25 +13,31 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 500
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "營運時速未達二百公里機車車輛之檢修",
-			"start": 600
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "機車檢修",
-			"start": 700
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "車輛檢修",
-			"start": 1600
+			"start": 600,
+			"end": 2700,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "機車檢修",
+					"start": 700,
+					"end": 1500
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "車輛檢修",
+					"start": 1600,
+					"end": 2700
+				}
+			]
 		},
 		{
 			"type": "章",

@@ -18,61 +18,73 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 400
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "分離會計",
-			"start": 500
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "分離會計基本原則",
-			"start": 500
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "成本分離原則",
-			"start": 1200
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "資產分離原則",
-			"start": 1600
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "負債分離原則及權益表達",
-			"start": 1800
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "收入分離原則",
-			"start": 2000
+			"start": 500,
+			"end": 2200,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "分離會計基本原則",
+					"start": 500,
+					"end": 1100
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "成本分離原則",
+					"start": 1200,
+					"end": 1500
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "資產分離原則",
+					"start": 1600,
+					"end": 1700
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "負債分離原則及權益表達",
+					"start": 1800,
+					"end": 1900
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "收入分離原則",
+					"start": 2000,
+					"end": 2200
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "分離會計報告",
-			"start": 2300
+			"start": 2300,
+			"end": 2600
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "查核監督",
-			"start": 2700
+			"start": 2700,
+			"end": 2800
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "附則",
-			"start": 2900
+			"start": 2900,
+			"end": 3000
 		}
 	],
 	"articles": [

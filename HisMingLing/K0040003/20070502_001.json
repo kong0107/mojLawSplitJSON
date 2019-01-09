@@ -13,145 +13,177 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "依據及分類",
-			"start": 100
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "申請立案程序",
-			"start": 300
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "營運",
-			"start": 800
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "監督",
-			"start": 2100
+			"start": 100,
+			"end": 3200,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "依據及分類",
+					"start": 100,
+					"end": 200
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "申請立案程序",
+					"start": 300,
+					"end": 700
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "營運",
+					"start": 800,
+					"end": 2000
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "監督",
+					"start": 2100,
+					"end": 3200
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "客運營業",
-			"start": 3300
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "通則",
-			"start": 3300
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "公路及市區汽車客運業",
-			"start": 3500
-		},
-		{
-			"type": "款",
-			"number": 100,
-			"title": "經營及核准",
-			"start": 3500
-		},
-		{
-			"type": "款",
-			"number": 200,
-			"title": "票價及運價",
-			"start": 4500
-		},
-		{
-			"type": "款",
-			"number": 300,
-			"title": "購票及乘車",
-			"start": 5100
-		},
-		{
-			"type": "款",
-			"number": 400,
-			"title": "退票及補票",
-			"start": 6200
-		},
-		{
-			"type": "款",
-			"number": 500,
-			"title": "行李運輸",
-			"start": 6900
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "遊覽車客運業",
-			"start": 8400
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "計程車客運業",
-			"start": 9100
+			"start": 3300,
+			"end": 9601,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "通則",
+					"start": 3300,
+					"end": 3400
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "公路及市區汽車客運業",
+					"start": 3500,
+					"end": 8300,
+					"children": [
+						{
+							"type": "款",
+							"number": 100,
+							"title": "經營及核准",
+							"start": 3500,
+							"end": 4400
+						},
+						{
+							"type": "款",
+							"number": 200,
+							"title": "票價及運價",
+							"start": 4500,
+							"end": 5000
+						},
+						{
+							"type": "款",
+							"number": 300,
+							"title": "購票及乘車",
+							"start": 5100,
+							"end": 6100
+						},
+						{
+							"type": "款",
+							"number": 400,
+							"title": "退票及補票",
+							"start": 6200,
+							"end": 6800
+						},
+						{
+							"type": "款",
+							"number": 500,
+							"title": "行李運輸",
+							"start": 6900,
+							"end": 8300
+						}
+					]
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "遊覽車客運業",
+					"start": 8400,
+					"end": 9000
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "計程車客運業",
+					"start": 9100,
+					"end": 9601
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 201,
 			"title": "小客車租賃業及小貨車租賃業",
-			"start": 9700
+			"start": 9700,
+			"end": 10300
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "貨運營業",
-			"start": 10400
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "通則",
-			"start": 10400
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "運費或雜費",
-			"start": 10800
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "託運及承運",
-			"start": 11500
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "提貨",
-			"start": 12800
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "個人經營小貨車貨運業",
-			"start": 13300
+			"start": 10400,
+			"end": 13500,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "通則",
+					"start": 10400,
+					"end": 10700
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "運費或雜費",
+					"start": 10800,
+					"end": 11400
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "託運及承運",
+					"start": 11500,
+					"end": 12700
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "提貨",
+					"start": 12800,
+					"end": 13200
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "個人經營小貨車貨運業",
+					"start": 13300,
+					"end": 13500
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "獎勵與處罰",
-			"start": 13600
+			"start": 13600,
+			"end": 13801
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "附則",
-			"start": 13900
+			"start": 13900,
+			"end": 14100
 		}
 	],
 	"articles": [

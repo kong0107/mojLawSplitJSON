@@ -28,37 +28,43 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 2300
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "轉換及分割",
-			"start": 2400
+			"start": 2400,
+			"end": 3500
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "業務及財務",
-			"start": 3600
+			"start": 3600,
+			"end": 5000
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "監督",
-			"start": 5100
+			"start": 5100,
+			"end": 5600
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "罰則",
-			"start": 5700
+			"start": 5700,
+			"end": 6702
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "附則",
-			"start": 6800
+			"start": 6800,
+			"end": 6900
 		}
 	],
 	"articles": [

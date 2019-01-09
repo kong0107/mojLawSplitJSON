@@ -22,31 +22,36 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Provisions",
-			"start": 100
+			"start": 100,
+			"end": 400
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Permission of Operation",
-			"start": 500
+			"start": 500,
+			"end": 2200
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Regulations of Operations",
-			"start": 2300
+			"start": 2300,
+			"end": 5500
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Penal Provisions",
-			"start": 5600
+			"start": 5600,
+			"end": 7200
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Supplementary Provisions",
-			"start": 7300
+			"start": 7300,
+			"end": 7700
 		}
 	],
 	"articles": [

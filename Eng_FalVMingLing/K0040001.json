@@ -27,37 +27,43 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Provisions",
-			"start": 100
+			"start": 100,
+			"end": 1000
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Construction and Maintenance",
-			"start": 1100
+			"start": 1100,
+			"end": 3301
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Highway Transportation",
-			"start": 3400
+			"start": 3400,
+			"end": 5701
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Safety Management",
-			"start": 5800
+			"start": 5800,
+			"end": 6700
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Incentives and Penalties",
-			"start": 6800
+			"start": 6800,
+			"end": 7801
 		},
 		{
 			"type": "chapter",
 			"number": 600,
 			"title": "Supplementary Provisions",
-			"start": 7900
+			"start": 7900,
+			"end": 8100
 		}
 	],
 	"articles": [

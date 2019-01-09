@@ -20,37 +20,43 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 600
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "航空器失事或重大意外事件消息通報",
-			"start": 700
+			"start": 700,
+			"end": 900
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "航空器失事或重大意外事件現場之處理",
-			"start": 1000
+			"start": 1000,
+			"end": 1400
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "航空器失事或重大意外事件調查",
-			"start": 1500
+			"start": 1500,
+			"end": 2000
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "調查報告審查會議",
-			"start": 2100
+			"start": 2100,
+			"end": 2200
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "附則",
-			"start": 2300
+			"start": 2300,
+			"end": 2500
 		}
 	],
 	"articles": [

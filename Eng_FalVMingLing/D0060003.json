@@ -31,139 +31,168 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Principles",
-			"start": 100
+			"start": 100,
+			"end": 1300
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Registration Forms, Lists, Registers, Records, Maps and Certificates",
-			"start": 1400
+			"start": 1400,
+			"end": 2500
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "The Application and Operation of Registration",
-			"start": 2600
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "The Application of Registration",
-			"start": 2600
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Documents for the Application for Registration",
-			"start": 3400
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Registration Tariffs and Fines",
-			"start": 4500
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "Operational Procedure for Registration",
-			"start": 5300
+			"start": 2600,
+			"end": 7000,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "The Application of Registration",
+					"start": 2600,
+					"end": 3300
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Documents for the Application for Registration",
+					"start": 3400,
+					"end": 4400
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Registration Tariffs and Fines",
+					"start": 4500,
+					"end": 5200
+				},
+				{
+					"type": "section",
+					"number": 400,
+					"title": "Operational Procedure for Registration",
+					"start": 5300,
+					"end": 7000
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "General Registration",
-			"start": 7100
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "General Registration of Land",
-			"start": 7100
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Initial Registration of Ownership of Improvements",
-			"start": 7800
+			"start": 7100,
+			"end": 8400,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "General Registration of Land",
+					"start": 7100,
+					"end": 7700
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Initial Registration of Ownership of Improvements",
+					"start": 7800,
+					"end": 8400
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Registration of the Change in Land Descriptions",
-			"start": 8500
+			"start": 8500,
+			"end": 9200
 		},
 		{
 			"type": "chapter",
 			"number": 600,
 			"title": "Registration of Change of Ownership",
-			"start": 9300
+			"start": 9300,
+			"end": 10700
 		},
 		{
 			"type": "chapter",
 			"number": 700,
 			"title": "Registration of Other Rights",
-			"start": 10800
+			"start": 10800,
+			"end": 11800
 		},
 		{
 			"type": "chapter",
 			"number": 800,
 			"title": "Registration of Inheritance",
-			"start": 11900
+			"start": 11900,
+			"end": 12300
 		},
 		{
 			"type": "chapter",
 			"number": 900,
 			"title": "Registration of the Trust of Land Rights",
-			"start": 12400
+			"start": 12400,
+			"end": 13301
 		},
 		{
 			"type": "chapter",
 			"number": 1000,
 			"title": "Registration of Rectification and Restriction",
-			"start": 13400
+			"start": 13400,
+			"end": 14200
 		},
 		{
 			"type": "chapter",
 			"number": 1100,
 			"title": "Registration of Cancellation and Deletion",
-			"start": 14300
+			"start": 14300,
+			"end": 14800
 		},
 		{
 			"type": "chapter",
 			"number": 1200,
 			"title": "Other Registrations",
-			"start": 14900
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Registration of Change in Name and Registration of Change of Administrator",
-			"start": 14900
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Registration of Change in Domicile",
-			"start": 15200
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Registration of the Exchange and Re-issue of the Certificate",
-			"start": 15400
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "Registration for Use and Management",
-			"start": 15501
+			"start": 14900,
+			"end": 15504,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Registration of Change in Name and Registration of Change of Administrator",
+					"start": 14900,
+					"end": 15100
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Registration of Change in Domicile",
+					"start": 15200,
+					"end": 15300
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Registration of the Exchange and Re-issue of the Certificate",
+					"start": 15400,
+					"end": 15500
+				},
+				{
+					"type": "section",
+					"number": 400,
+					"title": "Registration for Use and Management",
+					"start": 15501,
+					"end": 15504
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 1300,
 			"title": "Supplementary Provisions",
-			"start": 15600
+			"start": 15600,
+			"end": 15700
 		}
 	],
 	"articles": [

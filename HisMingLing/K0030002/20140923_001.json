@@ -13,181 +13,219 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 601
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "鐵路修建",
-			"start": 700
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "路線線形",
-			"start": 700
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "路基、淨空及載重",
-			"start": 1500
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "軌距及輪緣槽",
-			"start": 1800
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "軌道",
-			"start": 2100
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "軌枕、墊鈑及道碴",
-			"start": 2500
-		},
-		{
-			"type": "節",
-			"number": 600,
-			"title": "車站設備",
-			"start": 2800
-		},
-		{
-			"type": "節",
-			"number": 700,
-			"title": "號誌機及軌道標誌",
-			"start": 3700
-		},
-		{
-			"type": "節",
-			"number": 800,
-			"title": "保安及防護設備",
-			"start": 4400
-		},
-		{
-			"type": "節",
-			"number": 900,
-			"title": "電信",
-			"start": 4900
-		},
-		{
-			"type": "節",
-			"number": 1000,
-			"title": "電力",
-			"start": 5300
+			"start": 700,
+			"end": 5700,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "路線線形",
+					"start": 700,
+					"end": 1400
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "路基、淨空及載重",
+					"start": 1500,
+					"end": 1700
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "軌距及輪緣槽",
+					"start": 1800,
+					"end": 2000
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "軌道",
+					"start": 2100,
+					"end": 2400
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "軌枕、墊鈑及道碴",
+					"start": 2500,
+					"end": 2700
+				},
+				{
+					"type": "節",
+					"number": 600,
+					"title": "車站設備",
+					"start": 2800,
+					"end": 3600
+				},
+				{
+					"type": "節",
+					"number": 700,
+					"title": "號誌機及軌道標誌",
+					"start": 3700,
+					"end": 4300
+				},
+				{
+					"type": "節",
+					"number": 800,
+					"title": "保安及防護設備",
+					"start": 4400,
+					"end": 4800
+				},
+				{
+					"type": "節",
+					"number": 900,
+					"title": "電信",
+					"start": 4900,
+					"end": 5200
+				},
+				{
+					"type": "節",
+					"number": 1000,
+					"title": "電力",
+					"start": 5300,
+					"end": 5700
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "鐵路路線之養護",
-			"start": 5800
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "路基、軌道及橋涵",
-			"start": 5800
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "電力設備之養護",
-			"start": 7900
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "號誌、標誌及號訊",
-			"start": 8800
+			"start": 5800,
+			"end": 9300,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "路基、軌道及橋涵",
+					"start": 5800,
+					"end": 7800
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "電力設備之養護",
+					"start": 7900,
+					"end": 8700
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "號誌、標誌及號訊",
+					"start": 8800,
+					"end": 9300
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "高速鐵路修建",
-			"start": 9400
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "路線線形",
-			"start": 9400
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "路基、淨空及載重",
-			"start": 10000
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "軌距及輪緣槽",
-			"start": 10300
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "軌道",
-			"start": 10500
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "軌枕、墊板及道碴",
-			"start": 10900
-		},
-		{
-			"type": "節",
-			"number": 600,
-			"title": "車站設備",
-			"start": 11400
-		},
-		{
-			"type": "節",
-			"number": 700,
-			"title": "運轉保安及防護設備",
-			"start": 11600
-		},
-		{
-			"type": "節",
-			"number": 800,
-			"title": "電力設備",
-			"start": 13300
+			"start": 9400,
+			"end": 13800,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "路線線形",
+					"start": 9400,
+					"end": 9900
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "路基、淨空及載重",
+					"start": 10000,
+					"end": 10200
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "軌距及輪緣槽",
+					"start": 10300,
+					"end": 10400
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "軌道",
+					"start": 10500,
+					"end": 10800
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "軌枕、墊板及道碴",
+					"start": 10900,
+					"end": 11300
+				},
+				{
+					"type": "節",
+					"number": 600,
+					"title": "車站設備",
+					"start": 11400,
+					"end": 11500
+				},
+				{
+					"type": "節",
+					"number": 700,
+					"title": "運轉保安及防護設備",
+					"start": 11600,
+					"end": 13200
+				},
+				{
+					"type": "節",
+					"number": 800,
+					"title": "電力設備",
+					"start": 13300,
+					"end": 13800
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "高速鐵路養護",
-			"start": 13900
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "路基、軌道及橋涵",
-			"start": 13900
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "電力設備",
-			"start": 15600
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "運轉保安裝置",
-			"start": 16100
+			"start": 13900,
+			"end": 16400,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "路基、軌道及橋涵",
+					"start": 13900,
+					"end": 15500
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "電力設備",
+					"start": 15600,
+					"end": 16000
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "運轉保安裝置",
+					"start": 16100,
+					"end": 16400
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "附則",
-			"start": 16500
+			"start": 16500,
+			"end": 16600
 		}
 	],
 	"articles": [

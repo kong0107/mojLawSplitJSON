@@ -15,121 +15,147 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Principles",
-			"start": 100
+			"start": 100,
+			"end": 500
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "General Provisions – Operation and Management of Foreign Exchange Business",
-			"start": 600
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Application and Commencement of Foreign Exchange Business",
-			"start": 600
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Management of Foreign Exchange Business",
-			"start": 1100
+			"start": 600,
+			"end": 1800,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Application and Commencement of Foreign Exchange Business",
+					"start": 600,
+					"end": 1000
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Management of Foreign Exchange Business",
+					"start": 1100,
+					"end": 1800
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Detailed Provisions – Operation and Management of Foreign Exchange Business",
-			"start": 1900
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Securities Related Business Involving Foreign Exchange",
-			"start": 1900
-		},
-		{
-			"type": "subsection",
-			"number": 100,
-			"title": "Foreign Currency Denominated International Bond Business",
-			"start": 1900
-		},
-		{
-			"type": "subsection",
-			"number": 200,
-			"title": "Proprietary Trading of Foreign Securities Business",
-			"start": 2300
-		},
-		{
-			"type": "subsection",
-			"number": 300,
-			"title": "Offshore or Foreign Currency Warrant Business",
-			"start": 2500
-		},
-		{
-			"type": "subsection",
-			"number": 400,
-			"title": "Business of Accepting Orders to Trade Foreign Securities",
-			"start": 2700
-		},
-		{
-			"type": "subsection",
-			"number": 500,
-			"title": "Business of Trading Foreign Bonds as an Agent",
-			"start": 2900
-		},
-		{
-			"type": "subsection",
-			"number": 600,
-			"title": "Business of Acting as a Participating Dealer of an Offshore Exchange Traded Fund",
-			"start": 3100
-		},
-		{
-			"type": "subsection",
-			"number": 700,
-			"title": "Business Involving Domestically Issued Foreign Currency Denominated ETFs",
-			"start": 3300
-		},
-		{
-			"type": "subsection",
-			"number": 800,
-			"title": "Offshore Fund Master Agency Business",
-			"start": 3600
-		},
-		{
-			"type": "subsection",
-			"number": 900,
-			"title": "Private Placement of Offshore Funds business",
-			"start": 3900
-		},
-		{
-			"type": "subsection",
-			"number": 1000,
-			"title": "Business of Conducting Wealth Management involving Foreign Currencies by Means of Trust",
-			"start": 4100
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Spot Foreign Exchange Transactions in Connection with Securities Business",
-			"start": 4600
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Foreign Exchange Derivatives Business",
-			"start": 6000
+			"start": 1900,
+			"end": 6600,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Securities Related Business Involving Foreign Exchange",
+					"start": 1900,
+					"end": 4500,
+					"children": [
+						{
+							"type": "subsection",
+							"number": 100,
+							"title": "Foreign Currency Denominated International Bond Business",
+							"start": 1900,
+							"end": 2200
+						},
+						{
+							"type": "subsection",
+							"number": 200,
+							"title": "Proprietary Trading of Foreign Securities Business",
+							"start": 2300,
+							"end": 2400
+						},
+						{
+							"type": "subsection",
+							"number": 300,
+							"title": "Offshore or Foreign Currency Warrant Business",
+							"start": 2500,
+							"end": 2600
+						},
+						{
+							"type": "subsection",
+							"number": 400,
+							"title": "Business of Accepting Orders to Trade Foreign Securities",
+							"start": 2700,
+							"end": 2800
+						},
+						{
+							"type": "subsection",
+							"number": 500,
+							"title": "Business of Trading Foreign Bonds as an Agent",
+							"start": 2900,
+							"end": 3000
+						},
+						{
+							"type": "subsection",
+							"number": 600,
+							"title": "Business of Acting as a Participating Dealer of an Offshore Exchange Traded Fund",
+							"start": 3100,
+							"end": 3200
+						},
+						{
+							"type": "subsection",
+							"number": 700,
+							"title": "Business Involving Domestically Issued Foreign Currency Denominated ETFs",
+							"start": 3300,
+							"end": 3500
+						},
+						{
+							"type": "subsection",
+							"number": 800,
+							"title": "Offshore Fund Master Agency Business",
+							"start": 3600,
+							"end": 3800
+						},
+						{
+							"type": "subsection",
+							"number": 900,
+							"title": "Private Placement of Offshore Funds business",
+							"start": 3900,
+							"end": 4000
+						},
+						{
+							"type": "subsection",
+							"number": 1000,
+							"title": "Business of Conducting Wealth Management involving Foreign Currencies by Means of Trust",
+							"start": 4100,
+							"end": 4500
+						}
+					]
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Spot Foreign Exchange Transactions in Connection with Securities Business",
+					"start": 4600,
+					"end": 5900
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Foreign Exchange Derivatives Business",
+					"start": 6000,
+					"end": 6600
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Operation and Management of Renminbi Business",
-			"start": 6700
+			"start": 6700,
+			"end": 6800
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Supplemental Provisions",
-			"start": 6900
+			"start": 6900,
+			"end": 6900
 		}
 	],
 	"articles": [

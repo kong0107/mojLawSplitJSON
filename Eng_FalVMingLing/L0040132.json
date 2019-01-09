@@ -17,31 +17,36 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Provisions",
-			"start": 100
+			"start": 100,
+			"end": 200
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Application for Accreditation of Certification Bodies",
-			"start": 300
+			"start": 300,
+			"end": 600
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Management of the Certification Body",
-			"start": 700
+			"start": 700,
+			"end": 1200
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Certification Procedures and Management",
-			"start": 1300
+			"start": 1300,
+			"end": 2000
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Addenda",
-			"start": 2100
+			"start": 2100,
+			"end": 2200
 		}
 	],
 	"articles": [

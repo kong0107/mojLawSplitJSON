@@ -13,529 +13,593 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "通則",
-			"start": 100
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "名詞釋義",
-			"start": 700
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "電壓",
-			"start": 800
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "電壓降",
-			"start": 900
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "導線",
-			"start": 1000
-		},
-		{
-			"type": "節",
-			"number": 600,
-			"title": "安培容量",
-			"start": 1600
-		},
-		{
-			"type": "節",
-			"number": 700,
-			"title": "電路之絕緣",
-			"start": 1800
-		},
-		{
-			"type": "節",
-			"number": 800,
-			"title": "接地",
-			"start": 2400
-		},
-		{
-			"type": "節",
-			"number": 900,
-			"title": "低壓開關",
-			"start": 3000
-		},
-		{
-			"type": "節",
-			"number": 1000,
-			"title": "過電流保護",
-			"start": 4700
-		},
-		{
-			"type": "節",
-			"number": 1100,
-			"title": "漏電斷路器之裝置",
-			"start": 5900
-		},
-		{
-			"type": "節",
-			"number": 1200,
-			"title": "配 (分) 電箱",
-			"start": 6400
-		},
-		{
-			"type": "節",
-			"number": 1300,
-			"title": "導線之標示及運用",
-			"start": 6900
+			"start": 100,
+			"end": 7600,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "通則",
+					"start": 100,
+					"end": 600
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "名詞釋義",
+					"start": 700,
+					"end": 700
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "電壓",
+					"start": 800,
+					"end": 800
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "電壓降",
+					"start": 900,
+					"end": 900
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "導線",
+					"start": 1000,
+					"end": 1500
+				},
+				{
+					"type": "節",
+					"number": 600,
+					"title": "安培容量",
+					"start": 1600,
+					"end": 1700
+				},
+				{
+					"type": "節",
+					"number": 700,
+					"title": "電路之絕緣",
+					"start": 1800,
+					"end": 2300
+				},
+				{
+					"type": "節",
+					"number": 800,
+					"title": "接地",
+					"start": 2400,
+					"end": 2900
+				},
+				{
+					"type": "節",
+					"number": 900,
+					"title": "低壓開關",
+					"start": 3000,
+					"end": 4600
+				},
+				{
+					"type": "節",
+					"number": 1000,
+					"title": "過電流保護",
+					"start": 4700,
+					"end": 5800
+				},
+				{
+					"type": "節",
+					"number": 1100,
+					"title": "漏電斷路器之裝置",
+					"start": 5900,
+					"end": 6300
+				},
+				{
+					"type": "節",
+					"number": 1200,
+					"title": "配 (分) 電箱",
+					"start": 6400,
+					"end": 6800
+				},
+				{
+					"type": "節",
+					"number": 1300,
+					"title": "導線之標示及運用",
+					"start": 6900,
+					"end": 7600
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "電燈及家庭用電器具",
-			"start": 7700
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "通則",
-			"start": 7700
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "花線",
-			"start": 9300
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "分路與幹線",
-			"start": 10200
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "放電燈管",
-			"start": 12400
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "屋外電燈裝置工程",
-			"start": 13000
+			"start": 7700,
+			"end": 14600,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "通則",
+					"start": 7700,
+					"end": 9200
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "花線",
+					"start": 9300,
+					"end": 10100
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "分路與幹線",
+					"start": 10200,
+					"end": 12300
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "放電燈管",
+					"start": 12400,
+					"end": 12900
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "屋外電燈裝置工程",
+					"start": 13000,
+					"end": 14600
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "低壓電動機、電熱及其他電力工程",
-			"start": 14700
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "通則",
-			"start": 14700
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "低壓電動機",
-			"start": 15100
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "電熱裝置",
-			"start": 16600
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "電焊機",
-			"start": 17200
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "低壓變壓器",
-			"start": 17600
-		},
-		{
-			"type": "節",
-			"number": 600,
-			"title": "低壓電容器",
-			"start": 17800
+			"start": 14700,
+			"end": 18500,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "通則",
+					"start": 14700,
+					"end": 15000
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "低壓電動機",
+					"start": 15100,
+					"end": 16500
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "電熱裝置",
+					"start": 16600,
+					"end": 17100
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "電焊機",
+					"start": 17200,
+					"end": 17500
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "低壓變壓器",
+					"start": 17600,
+					"end": 17700
+				},
+				{
+					"type": "節",
+					"number": 600,
+					"title": "低壓電容器",
+					"start": 17800,
+					"end": 18500
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "低壓配線方法",
-			"start": 18600
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "通則",
-			"start": 18600
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "磁夾板配線",
-			"start": 19200
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "磁珠配線",
-			"start": 19700
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "木槽板配線",
-			"start": 20800
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "金屬管配線",
-			"start": 21900
-		},
-		{
-			"type": "節",
-			"number": 600,
-			"title": "非金屬管配線",
-			"start": 23900
-		},
-		{
-			"type": "節",
-			"number": 700,
-			"title": "電纜架裝置",
-			"start": 24900
-		},
-		{
-			"type": "節",
-			"number": 800,
-			"title": "低壓PVC電纜、交連PE電纜、EPR電纜及PE電纜配線",
-			"start": 25400
-		},
-		{
-			"type": "節",
-			"number": 900,
-			"title": "鉛皮電纜配線",
-			"start": 26000
-		},
-		{
-			"type": "節",
-			"number": 1000,
-			"title": "MI電纜裝置",
-			"start": 26600
-		},
-		{
-			"type": "節",
-			"number": 1001,
-			"title": "裝甲電纜配線"
-		},
-		{
-			"type": "節",
-			"number": 1100,
-			"title": "導線槽配線"
-		},
-		{
-			"type": "節",
-			"number": 1200,
-			"title": "匯流排槽配線"
-		},
-		{
-			"type": "節",
-			"number": 1300,
-			"title": "燈用軌道"
-		},
-		{
-			"type": "節",
-			"number": 1400,
-			"title": "金屬可撓導線管配線"
-		},
-		{
-			"type": "節",
-			"number": 1500,
-			"title": "合成樹脂可撓導線管"
-		},
-		{
-			"type": "章",
-			"number": 500,
-			"title": "特殊場所"
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "通則"
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "存在爆炸性氣體之第一類場所"
-		},
-		{
-			"type": "款",
-			"number": 100,
-			"title": "一般規定"
-		},
-		{
-			"type": "款",
-			"number": 200,
-			"title": "配線"
-		},
-		{
-			"type": "款",
-			"number": 300,
-			"title": "設備"
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "存在可燃性粉塵之第二類場所"
-		},
-		{
-			"type": "款",
-			"number": 100,
-			"title": "一般規定"
-		},
-		{
-			"type": "款",
-			"number": 200,
-			"title": "配線"
-		},
-		{
-			"type": "款",
-			"number": 300,
-			"title": "設備"
-		},
-		{
-			"type": "節",
-			"number": 301,
-			"title": "存在可燃性纖維或飛絮之第三類場所"
-		},
-		{
-			"type": "款",
-			"number": 100,
-			"title": "一般規定"
-		},
-		{
-			"type": "款",
-			"number": 200,
-			"title": "配線"
-		},
-		{
-			"type": "款",
-			"number": 300,
-			"title": "設備"
-		},
-		{
-			"type": "節",
-			"number": 302,
-			"title": "存在爆炸性氣體之 0  區、1 區及 2  區"
-		},
-		{
-			"type": "節",
-			"number": 303,
-			"title": "存在可燃性粉塵、纖維及飛絮之 20 區、21  區及 22 區"
-		},
-		{
-			"type": "節",
-			"number": 304,
-			"title": "本質安全系統之裝設"
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "有危險物質存在場所"
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "火藥庫等危險場所"
-		},
-		{
-			"type": "節",
-			"number": 600,
-			"title": "發散腐蝕性物質場所"
-		},
-		{
-			"type": "節",
-			"number": 700,
-			"title": "潮濕場所"
-		},
-		{
-			"type": "節",
-			"number": 800,
-			"title": "公共場所"
+			"start": 18600,
+			"end": 49500,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "通則",
+					"start": 18600,
+					"end": 19100
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "磁夾板配線",
+					"start": 19200,
+					"end": 19600
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "磁珠配線",
+					"start": 19700,
+					"end": 20700
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "木槽板配線",
+					"start": 20800,
+					"end": 21800
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "金屬管配線",
+					"start": 21900,
+					"end": 23800
+				},
+				{
+					"type": "節",
+					"number": 600,
+					"title": "非金屬管配線",
+					"start": 23900,
+					"end": 24800
+				},
+				{
+					"type": "節",
+					"number": 700,
+					"title": "電纜架裝置",
+					"start": 24900,
+					"end": 25300
+				},
+				{
+					"type": "節",
+					"number": 800,
+					"title": "低壓PVC電纜、交連PE電纜、EPR電纜及PE電纜配線",
+					"start": 25400,
+					"end": 25900
+				},
+				{
+					"type": "節",
+					"number": 900,
+					"title": "鉛皮電纜配線",
+					"start": 26000,
+					"end": 26500
+				},
+				{
+					"type": "節",
+					"number": 1000,
+					"title": "MI電纜裝置",
+					"start": 26600,
+					"end": 49500
+				},
+				{
+					"type": "節",
+					"number": 1001,
+					"title": "裝甲電纜配線"
+				},
+				{
+					"type": "節",
+					"number": 1100,
+					"title": "導線槽配線"
+				},
+				{
+					"type": "節",
+					"number": 1200,
+					"title": "匯流排槽配線"
+				},
+				{
+					"type": "節",
+					"number": 1300,
+					"title": "燈用軌道"
+				},
+				{
+					"type": "節",
+					"number": 1400,
+					"title": "金屬可撓導線管配線"
+				},
+				{
+					"type": "節",
+					"number": 1500,
+					"title": "合成樹脂可撓導線管"
+				}
+			]
 		},
 		{
 			"type": "章",
-			"number": 600,
-			"title": "特殊設備及設施"
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "電器醫療設備"
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "特別低壓設施"
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "隧道礦坑等場所之設施"
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "臨時燈設施"
-		},
-		{
-			"type": "節",
 			"number": 500,
-			"title": "電動車輛充電系統"
+			"title": "特殊場所",
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "通則"
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "存在爆炸性氣體之第一類場所",
+					"children": [
+						{
+							"type": "款",
+							"number": 100,
+							"title": "一般規定"
+						},
+						{
+							"type": "款",
+							"number": 200,
+							"title": "配線"
+						},
+						{
+							"type": "款",
+							"number": 300,
+							"title": "設備"
+						}
+					]
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "存在可燃性粉塵之第二類場所",
+					"children": [
+						{
+							"type": "款",
+							"number": 100,
+							"title": "一般規定"
+						},
+						{
+							"type": "款",
+							"number": 200,
+							"title": "配線"
+						},
+						{
+							"type": "款",
+							"number": 300,
+							"title": "設備"
+						}
+					]
+				},
+				{
+					"type": "節",
+					"number": 301,
+					"title": "存在可燃性纖維或飛絮之第三類場所",
+					"children": [
+						{
+							"type": "款",
+							"number": 100,
+							"title": "一般規定"
+						},
+						{
+							"type": "款",
+							"number": 200,
+							"title": "配線"
+						},
+						{
+							"type": "款",
+							"number": 300,
+							"title": "設備"
+						}
+					]
+				},
+				{
+					"type": "節",
+					"number": 302,
+					"title": "存在爆炸性氣體之 0  區、1 區及 2  區"
+				},
+				{
+					"type": "節",
+					"number": 303,
+					"title": "存在可燃性粉塵、纖維及飛絮之 20 區、21  區及 22 區"
+				},
+				{
+					"type": "節",
+					"number": 304,
+					"title": "本質安全系統之裝設"
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "有危險物質存在場所"
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "火藥庫等危險場所"
+				},
+				{
+					"type": "節",
+					"number": 600,
+					"title": "發散腐蝕性物質場所"
+				},
+				{
+					"type": "節",
+					"number": 700,
+					"title": "潮濕場所"
+				},
+				{
+					"type": "節",
+					"number": 800,
+					"title": "公共場所"
+				}
+			]
 		},
 		{
-			"type": "款",
-			"number": 100,
-			"title": "通則"
-		},
-		{
-			"type": "款",
-			"number": 200,
-			"title": "配線方法"
-		},
-		{
-			"type": "款",
-			"number": 300,
-			"title": "設備構造"
-		},
-		{
-			"type": "款",
-			"number": 400,
-			"title": "控制與保護"
-		},
-		{
-			"type": "款",
-			"number": 500,
-			"title": "電動車供電設備場所"
-		},
-		{
-			"type": "節",
+			"type": "章",
 			"number": 600,
-			"title": "太陽光電發電系統"
-		},
-		{
-			"type": "款",
-			"number": 100,
-			"title": "通則"
-		},
-		{
-			"type": "款",
-			"number": 200,
-			"title": "電路規定"
-		},
-		{
-			"type": "款",
-			"number": 300,
-			"title": "隔離設備"
-		},
-		{
-			"type": "款",
-			"number": 400,
-			"title": "配線方法"
-		},
-		{
-			"type": "款",
-			"number": 500,
-			"title": "接地"
-		},
-		{
-			"type": "款",
-			"number": 600,
-			"title": "標示"
-		},
-		{
-			"type": "款",
-			"number": 700,
-			"title": "連接其他電源"
-		},
-		{
-			"type": "款",
-			"number": 800,
-			"title": "儲能蓄電池組"
+			"title": "特殊設備及設施",
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "電器醫療設備"
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "特別低壓設施"
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "隧道礦坑等場所之設施"
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "臨時燈設施"
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "電動車輛充電系統",
+					"children": [
+						{
+							"type": "款",
+							"number": 100,
+							"title": "通則"
+						},
+						{
+							"type": "款",
+							"number": 200,
+							"title": "配線方法"
+						},
+						{
+							"type": "款",
+							"number": 300,
+							"title": "設備構造"
+						},
+						{
+							"type": "款",
+							"number": 400,
+							"title": "控制與保護"
+						},
+						{
+							"type": "款",
+							"number": 500,
+							"title": "電動車供電設備場所"
+						}
+					]
+				},
+				{
+					"type": "節",
+					"number": 600,
+					"title": "太陽光電發電系統",
+					"children": [
+						{
+							"type": "款",
+							"number": 100,
+							"title": "通則"
+						},
+						{
+							"type": "款",
+							"number": 200,
+							"title": "電路規定"
+						},
+						{
+							"type": "款",
+							"number": 300,
+							"title": "隔離設備"
+						},
+						{
+							"type": "款",
+							"number": 400,
+							"title": "配線方法"
+						},
+						{
+							"type": "款",
+							"number": 500,
+							"title": "接地"
+						},
+						{
+							"type": "款",
+							"number": 600,
+							"title": "標示"
+						},
+						{
+							"type": "款",
+							"number": 700,
+							"title": "連接其他電源"
+						},
+						{
+							"type": "款",
+							"number": 800,
+							"title": "儲能蓄電池組"
+						}
+					]
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 700,
-			"title": "高壓受電設備、高壓配線及高壓電機器具"
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "通則"
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "高壓受電裝置"
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "高壓配線"
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "高壓變壓器"
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "高壓電動機"
-		},
-		{
-			"type": "節",
-			"number": 600,
-			"title": "高壓電容器"
-		},
-		{
-			"type": "節",
-			"number": 700,
-			"title": "避雷器"
+			"title": "高壓受電設備、高壓配線及高壓電機器具",
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "通則"
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "高壓受電裝置"
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "高壓配線"
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "高壓變壓器"
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "高壓電動機"
+				},
+				{
+					"type": "節",
+					"number": 600,
+					"title": "高壓電容器"
+				},
+				{
+					"type": "節",
+					"number": 700,
+					"title": "避雷器"
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 800,
-			"title": "低壓接戶線、進屋線及電度表工程"
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "通則"
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "接戶線施工要點"
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "電度表裝置"
+			"title": "低壓接戶線、進屋線及電度表工程",
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "通則"
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "接戶線施工要點"
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "電度表裝置"
+				}
+			]
 		},
 		{
 			"type": "章",

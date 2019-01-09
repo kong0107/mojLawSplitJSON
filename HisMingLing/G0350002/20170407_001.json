@@ -14,73 +14,89 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 500
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "通關程序",
-			"start": 600
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "報關及查驗",
-			"start": 600
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "完稅價格",
-			"start": 1100
+			"start": 600,
+			"end": 2700,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "報關及查驗",
+					"start": 600,
+					"end": 1000
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "完稅價格",
+					"start": 1100,
+					"end": 2700
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "稅款之優待",
-			"start": 2800
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "免稅",
-			"start": 2800
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "保稅",
-			"start": 4900
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "退稅",
-			"start": 5000
+			"start": 2800,
+			"end": 5400,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "免稅",
+					"start": 2800,
+					"end": 4800
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "保稅",
+					"start": 4900,
+					"end": 4900
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "退稅",
+					"start": 5000,
+					"end": 5400
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "特別關稅",
-			"start": 5500
+			"start": 5500,
+			"end": 5500
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "罰則",
-			"start": 5600
+			"start": 5600,
+			"end": 5900
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "執行",
-			"start": 6000
+			"start": 6000,
+			"end": 6100
 		},
 		{
 			"type": "章",
 			"number": 700,
 			"title": "附則",
-			"start": 6200
+			"start": 6200,
+			"end": 6200
 		}
 	],
 	"articles": [

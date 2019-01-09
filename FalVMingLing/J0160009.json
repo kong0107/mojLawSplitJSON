@@ -19,31 +19,36 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 400
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "輻射安全防護",
-			"start": 500
+			"start": 500,
+			"end": 2800
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "放射性物質、可發生游離輻射設備或輻射作業之管理",
-			"start": 2900
+			"start": 2900,
+			"end": 3700
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "罰則",
-			"start": 3800
+			"start": 3800,
+			"end": 5000
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "附則",
-			"start": 5100
+			"start": 5100,
+			"end": 5700
 		}
 	],
 	"articles": [

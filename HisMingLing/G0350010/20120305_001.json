@@ -14,61 +14,75 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 800
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "運輸業辦理通關業務之管理",
-			"start": 900
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "登記",
-			"start": 900
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "管理",
-			"start": 1500
+			"start": 900,
+			"end": 3400,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "登記",
+					"start": 900,
+					"end": 1400
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "管理",
+					"start": 1500,
+					"end": 3400
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "運輸工具通關事項之管理",
-			"start": 3500
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "海運",
-			"start": 3500
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "陸運",
-			"start": 5600
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "空運",
-			"start": 7100
+			"start": 3500,
+			"end": 7800,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "海運",
+					"start": 3500,
+					"end": 5500
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "陸運",
+					"start": 5600,
+					"end": 7000
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "空運",
+					"start": 7100,
+					"end": 7800
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "罰則",
-			"start": 7900
+			"start": 7900,
+			"end": 8700
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "附則",
-			"start": 8800
+			"start": 8800,
+			"end": 8800
 		}
 	],
 	"articles": [

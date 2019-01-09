@@ -21,25 +21,29 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 200
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "本條例第二十九條第一項租稅措施",
-			"start": 300
+			"start": 300,
+			"end": 900
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "本條例第二十九條第二項租稅措施",
-			"start": 1000
+			"start": 1000,
+			"end": 1500
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "附則",
-			"start": 1600
+			"start": 1600,
+			"end": 1900
 		}
 	],
 	"articles": [

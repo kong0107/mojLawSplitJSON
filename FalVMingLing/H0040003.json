@@ -41,73 +41,85 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 400
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "新生",
-			"start": 500
+			"start": 500,
+			"end": 600
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "轉學、轉科",
-			"start": 700
+			"start": 700,
+			"end": 900
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "修習學分、修業年限",
-			"start": 1000
+			"start": 1000,
+			"end": 1200
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "選課、學分抵免",
-			"start": 1300
+			"start": 1300,
+			"end": 1700
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "休學、復學",
-			"start": 1800
+			"start": 1800,
+			"end": 2000
 		},
 		{
 			"type": "章",
 			"number": 700,
 			"title": "成績",
-			"start": 2100
+			"start": 2100,
+			"end": 2400
 		},
 		{
 			"type": "章",
 			"number": 800,
 			"title": "退學、開除學籍",
-			"start": 2500
+			"start": 2500,
+			"end": 3200
 		},
 		{
 			"type": "章",
 			"number": 900,
 			"title": "畢業",
-			"start": 3300
+			"start": 3300,
+			"end": 3500
 		},
 		{
 			"type": "章",
 			"number": 1000,
 			"title": "更改事項",
-			"start": 3600
+			"start": 3600,
+			"end": 3800
 		},
 		{
 			"type": "章",
 			"number": 1100,
 			"title": "報備事項",
-			"start": 3900
+			"start": 3900,
+			"end": 4100
 		},
 		{
 			"type": "章",
 			"number": 1200,
 			"title": "附則",
-			"start": 4200
+			"start": 4200,
+			"end": 4500
 		}
 	],
 	"articles": [

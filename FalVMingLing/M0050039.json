@@ -21,49 +21,59 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 400
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "田間試驗機構之設置及管理",
-			"start": 500
+			"start": 500,
+			"end": 1200
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "田間試驗之管理",
-			"start": 1300
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "田間試驗之申請",
-			"start": 1300
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "遺傳特性調查",
-			"start": 1700
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "生物安全評估",
-			"start": 2000
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "執行及監測",
-			"start": 2200
+			"start": 1300,
+			"end": 3000,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "田間試驗之申請",
+					"start": 1300,
+					"end": 1600
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "遺傳特性調查",
+					"start": 1700,
+					"end": 1900
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "生物安全評估",
+					"start": 2000,
+					"end": 2100
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "執行及監測",
+					"start": 2200,
+					"end": 3000
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "附則",
-			"start": 3100
+			"start": 3100,
+			"end": 3200
 		}
 	],
 	"articles": [

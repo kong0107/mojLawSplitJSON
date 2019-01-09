@@ -13,103 +13,124 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 600
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "船舶水密艙區劃分",
-			"start": 700
+			"start": 700,
+			"end": 1400
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "船舶穩度之特別要求",
-			"start": 1500
+			"start": 1500,
+			"end": 1700
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "艙區劃分之水密裝置",
-			"start": 1800
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "尖艙及機艙空間艙壁及軸道",
-			"start": 1800
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "客船及液貨船以外貨船之雙重底",
-			"start": 2000
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "水密艙壁之開口",
-			"start": 2600
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "客船艙壁甲板及貨船乾舷甲板以下之外殼板開口",
-			"start": 3500
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "水密艙壁等之構造及初驗",
-			"start": 4300
-		},
-		{
-			"type": "節",
-			"number": 600,
-			"title": "客船邊際線以上之完整水密",
-			"start": 4700
-		},
-		{
-			"type": "節",
-			"number": 700,
-			"title": "船舶  水抽排設備",
-			"start": 4900
+			"start": 1800,
+			"end": 5800,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "尖艙及機艙空間艙壁及軸道",
+					"start": 1800,
+					"end": 1900
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "客船及液貨船以外貨船之雙重底",
+					"start": 2000,
+					"end": 2500
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "水密艙壁之開口",
+					"start": 2600,
+					"end": 3400
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "客船艙壁甲板及貨船乾舷甲板以下之外殼板開口",
+					"start": 3500,
+					"end": 4200
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "水密艙壁等之構造及初驗",
+					"start": 4300,
+					"end": 4600
+				},
+				{
+					"type": "節",
+					"number": 600,
+					"title": "客船邊際線以上之完整水密",
+					"start": 4700,
+					"end": 4800
+				},
+				{
+					"type": "節",
+					"number": 700,
+					"title": "船舶  水抽排設備",
+					"start": 4900,
+					"end": 5800
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "長度未滿二十四公尺客船之特別條件",
-			"start": 5900
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "平甲板船",
-			"start": 5900
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "艉座型客船",
-			"start": 6100
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "井圍甲板客船",
-			"start": 6600
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "敞船",
-			"start": 7000
+			"start": 5900,
+			"end": 7000,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "平甲板船",
+					"start": 5900,
+					"end": 6000
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "艉座型客船",
+					"start": 6100,
+					"end": 6500
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "井圍甲板客船",
+					"start": 6600,
+					"end": 6900
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "敞船",
+					"start": 7000,
+					"end": 7000
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "附則",
-			"start": 7100
+			"start": 7100,
+			"end": 9200
 		}
 	],
 	"articles": [

@@ -13,19 +13,22 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 200
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "職掌",
-			"start": 300
+			"start": 300,
+			"end": 1600
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "職責",
-			"start": 1700
+			"start": 1700,
+			"end": 2500
 		}
 	],
 	"articles": [

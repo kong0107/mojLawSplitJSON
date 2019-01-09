@@ -13,43 +13,52 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Principles",
-			"start": 100
+			"start": 100,
+			"end": 400
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Institutional  long-term care juridical entities",
-			"start": 500
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "General Provisions",
-			"start": 500
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Long-Term Care Foundations",
-			"start": 2300
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Long-Term Care Corporations",
-			"start": 3000
+			"start": 500,
+			"end": 3600,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "General Provisions",
+					"start": 500,
+					"end": 2200
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Long-Term Care Foundations",
+					"start": 2300,
+					"end": 2900
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Long-Term Care Corporations",
+					"start": 3000,
+					"end": 3600
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Penalty Provisions",
-			"start": 3700
+			"start": 3700,
+			"end": 4300
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Supplementary Provisions",
-			"start": 4400
+			"start": 4400,
+			"end": 4700
 		}
 	],
 	"articles": [

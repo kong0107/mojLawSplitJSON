@@ -43,133 +43,161 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 2101
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "有價證券之募集、發行、私募及買賣",
-			"start": 2200
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "有價證券之募集、發行及買賣",
-			"start": 2200
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "有價證券之收購",
-			"start": 4301
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "有價證券之私募及買賣",
-			"start": 4306
+			"start": 2200,
+			"end": 4308,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "有價證券之募集、發行及買賣",
+					"start": 2200,
+					"end": 4300
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "有價證券之收購",
+					"start": 4301,
+					"end": 4305
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "有價證券之私募及買賣",
+					"start": 4306,
+					"end": 4308
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "證券商",
-			"start": 4400
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "通則",
-			"start": 4400
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "證券承銷商",
-			"start": 7100
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "證券自營商",
-			"start": 8300
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "證券經紀商",
-			"start": 8500
+			"start": 4400,
+			"end": 8800,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "通則",
+					"start": 4400,
+					"end": 7000
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "證券承銷商",
+					"start": 7100,
+					"end": 8200
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "證券自營商",
+					"start": 8300,
+					"end": 8400
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "證券經紀商",
+					"start": 8500,
+					"end": 8800
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "證券商同業公會",
-			"start": 8900
+			"start": 8900,
+			"end": 9200
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "證券交易所",
-			"start": 9300
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "通則",
-			"start": 9300
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "會員制證券交易所",
-			"start": 10300
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "公司制證券交易所",
-			"start": 12400
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "有價證券之上市及買賣",
-			"start": 13800
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "有價證券買賣之受託",
-			"start": 15800
-		},
-		{
-			"type": "節",
-			"number": 600,
-			"title": "監督",
-			"start": 16100
+			"start": 9300,
+			"end": 16500,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "通則",
+					"start": 9300,
+					"end": 10200
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "會員制證券交易所",
+					"start": 10300,
+					"end": 12300
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "公司制證券交易所",
+					"start": 12400,
+					"end": 13700
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "有價證券之上市及買賣",
+					"start": 13800,
+					"end": 15701
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "有價證券買賣之受託",
+					"start": 15800,
+					"end": 16000
+				},
+				{
+					"type": "節",
+					"number": 600,
+					"title": "監督",
+					"start": 16100,
+					"end": 16500
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "之一 外國公司",
-			"start": 16501
+			"start": 16501,
+			"end": 16503
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "仲裁",
-			"start": 16600
+			"start": 16600,
+			"end": 17000
 		},
 		{
 			"type": "章",
 			"number": 700,
 			"title": "罰則",
-			"start": 17100
+			"start": 17100,
+			"end": 18001
 		},
 		{
 			"type": "章",
 			"number": 800,
 			"title": "附則",
-			"start": 18100
+			"start": 18100,
+			"end": 18300
 		}
 	],
 	"articles": [

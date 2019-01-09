@@ -14,43 +14,50 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 700
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "運輸工具檢疫",
-			"start": 800
+			"start": 800,
+			"end": 1800
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "人員檢疫",
-			"start": 1900
+			"start": 1900,
+			"end": 2600
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "船舶衛生",
-			"start": 2700
+			"start": 2700,
+			"end": 3100
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "港區衛生",
-			"start": 3200
+			"start": 3200,
+			"end": 3400
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "國內港埠檢疫",
-			"start": 3500
+			"start": 3500,
+			"end": 3700
 		},
 		{
 			"type": "章",
 			"number": 700,
 			"title": "附則",
-			"start": 3800
+			"start": 3800,
+			"end": 4300
 		}
 	],
 	"articles": [

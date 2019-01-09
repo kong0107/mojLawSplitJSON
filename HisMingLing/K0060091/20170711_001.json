@@ -14,97 +14,119 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 700
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "經營特許",
-			"start": 800
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "申請與審查",
-			"start": 800
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "競價準備",
-			"start": 1700
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "競價",
-			"start": 2101
-		},
-		{
-			"type": "款",
-			"number": 100,
-			"title": "競價程序",
-			"start": 2101
-		},
-		{
-			"type": "款",
-			"number": 200,
-			"title": "數量競價",
-			"start": 2200
-		},
-		{
-			"type": "款",
-			"number": 300,
-			"title": "位置競價",
-			"start": 3301
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "籌設",
-			"start": 3600
+			"start": 800,
+			"end": 5300,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "申請與審查",
+					"start": 800,
+					"end": 1600
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "競價準備",
+					"start": 1700,
+					"end": 2100
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "競價",
+					"start": 2101,
+					"end": 3500,
+					"children": [
+						{
+							"type": "款",
+							"number": 100,
+							"title": "競價程序",
+							"start": 2101,
+							"end": 2103
+						},
+						{
+							"type": "款",
+							"number": 200,
+							"title": "數量競價",
+							"start": 2200,
+							"end": 3300
+						},
+						{
+							"type": "款",
+							"number": 300,
+							"title": "位置競價",
+							"start": 3301,
+							"end": 3500
+						}
+					]
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "籌設",
+					"start": 3600,
+					"end": 5300
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "營運管理",
-			"start": 5400
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "技術監理",
-			"start": 5400
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "業務監理",
-			"start": 6200
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "頻率使用權轉讓",
-			"start": 8100
+			"start": 5400,
+			"end": 8300,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "技術監理",
+					"start": 5400,
+					"end": 6100
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "業務監理",
+					"start": 6200,
+					"end": 8000
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "頻率使用權轉讓",
+					"start": 8100,
+					"end": 8300
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 301,
 			"title": "資通安全管理",
-			"start": 8301
+			"start": 8301,
+			"end": 8305
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "爭議之調處",
-			"start": 8400
+			"start": 8400,
+			"end": 8400
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "附則",
-			"start": 8500
+			"start": 8500,
+			"end": 8900
 		}
 	],
 	"articles": [

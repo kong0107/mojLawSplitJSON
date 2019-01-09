@@ -26,73 +26,87 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Provisions",
-			"start": 100
+			"start": 100,
+			"end": 2000
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Invention Patent",
-			"start": 2100
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Patentability",
-			"start": 2100
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Application",
-			"start": 2500
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Examination and Reexamination",
-			"start": 3600
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "Patent Rights",
-			"start": 5200
-		},
-		{
-			"type": "section",
-			"number": 500,
-			"title": "Compulsory Licensing",
-			"start": 8700
-		},
-		{
-			"type": "section",
-			"number": 600,
-			"title": "Payment of Fees",
-			"start": 9200
-		},
-		{
-			"type": "section",
-			"number": 700,
-			"title": "Damages and Litigation Action",
-			"start": 9600
+			"start": 2100,
+			"end": 10300,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Patentability",
+					"start": 2100,
+					"end": 2400
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Application",
+					"start": 2500,
+					"end": 3500
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Examination and Reexamination",
+					"start": 3600,
+					"end": 5100
+				},
+				{
+					"type": "section",
+					"number": 400,
+					"title": "Patent Rights",
+					"start": 5200,
+					"end": 8600
+				},
+				{
+					"type": "section",
+					"number": 500,
+					"title": "Compulsory Licensing",
+					"start": 8700,
+					"end": 9100
+				},
+				{
+					"type": "section",
+					"number": 600,
+					"title": "Payment of Fees",
+					"start": 9200,
+					"end": 9500
+				},
+				{
+					"type": "section",
+					"number": 700,
+					"title": "Damages and Litigation Action",
+					"start": 9600,
+					"end": 10300
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Utility Model Patent",
-			"start": 10400
+			"start": 10400,
+			"end": 12000
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Design Patent",
-			"start": 12100
+			"start": 12100,
+			"end": 14200
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Supplementary Provisions",
-			"start": 14300
+			"start": 14300,
+			"end": 15900
 		}
 	],
 	"articles": [

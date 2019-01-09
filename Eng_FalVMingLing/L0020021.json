@@ -28,79 +28,94 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Principles",
-			"start": 100
+			"start": 100,
+			"end": 1100
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Medical Care Institutions",
-			"start": 1200
+			"start": 1200,
+			"end": 2900
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Medical Juridical Persons in Medical Care",
-			"start": 3000
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "General Provisions",
-			"start": 3000
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Medical Care Corporate",
-			"start": 4200
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Medical Care Corporations",
-			"start": 4700
+			"start": 3000,
+			"end": 5500,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "General Provisions",
+					"start": 3000,
+					"end": 4100
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Medical Care Corporate",
+					"start": 4200,
+					"end": 4600
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Medical Care Corporations",
+					"start": 4700,
+					"end": 5500
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Medical Practices",
-			"start": 5600
+			"start": 5600,
+			"end": 8300
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Advertisements for Medical Care",
-			"start": 8400
+			"start": 8400,
+			"end": 8700
 		},
 		{
 			"type": "chapter",
 			"number": 600,
 			"title": "Distribution of Medical Manpower and Facilities",
-			"start": 8800
+			"start": 8800,
+			"end": 9300
 		},
 		{
 			"type": "chapter",
 			"number": 700,
 			"title": "Teaching Hospitals",
-			"start": 9400
+			"start": 9400,
+			"end": 9700
 		},
 		{
 			"type": "chapter",
 			"number": 800,
 			"title": "Medical Review Committee",
-			"start": 9800
+			"start": 9800,
+			"end": 10000
 		},
 		{
 			"type": "chapter",
 			"number": 900,
 			"title": "Penal Provisions",
-			"start": 10100
+			"start": 10100,
+			"end": 11700
 		},
 		{
 			"type": "chapter",
 			"number": 1000,
 			"title": "Supplementary Provisions",
-			"start": 11800
+			"start": 11800,
+			"end": 12300
 		}
 	],
 	"articles": [

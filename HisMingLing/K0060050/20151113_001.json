@@ -14,73 +14,87 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 600
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "經營特許",
-			"start": 700
+			"start": 700,
+			"end": 3100
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "營運管理",
-			"start": 3200
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "通則",
-			"start": 3200
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "市內網路業務",
-			"start": 5600
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "長途網路業務",
-			"start": 6100
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "國際網路業務",
-			"start": 6200
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "電路出租業務",
-			"start": 7100
-		},
-		{
-			"type": "節",
-			"number": 600,
-			"title": "號碼可攜服務",
-			"start": 7300
+			"start": 3200,
+			"end": 7400,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "通則",
+					"start": 3200,
+					"end": 5500
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "市內網路業務",
+					"start": 5600,
+					"end": 6001
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "長途網路業務",
+					"start": 6100,
+					"end": 6100
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "國際網路業務",
+					"start": 6200,
+					"end": 7000
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "電路出租業務",
+					"start": 7100,
+					"end": 7201
+				},
+				{
+					"type": "節",
+					"number": 600,
+					"title": "號碼可攜服務",
+					"start": 7300,
+					"end": 7400
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 301,
 			"title": "資通安全管理",
-			"start": 7401
+			"start": 7401,
+			"end": 7404
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "爭議之調處",
-			"start": 7500
+			"start": 7500,
+			"end": 7500
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "附則",
-			"start": 7600
+			"start": 7600,
+			"end": 7900
 		}
 	],
 	"articles": [

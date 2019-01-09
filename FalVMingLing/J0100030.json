@@ -24,37 +24,43 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 200
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "監視查驗檢驗登記",
-			"start": 300
+			"start": 300,
+			"end": 600
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "報驗",
-			"start": 700
+			"start": 700,
+			"end": 1301
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "執行方式",
-			"start": 1400
+			"start": 1400,
+			"end": 2102
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "發證",
-			"start": 2200
+			"start": 2200,
+			"end": 2900
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "附則",
-			"start": 3000
+			"start": 3000,
+			"end": 3100
 		}
 	],
 	"articles": [

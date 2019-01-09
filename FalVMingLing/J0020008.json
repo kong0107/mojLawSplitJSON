@@ -21,37 +21,43 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 900
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "安全設施",
-			"start": 1000
+			"start": 1000,
+			"end": 2600
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "災變之救護",
-			"start": 2700
+			"start": 2700,
+			"end": 3300
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "監督",
-			"start": 3400
+			"start": 3400,
+			"end": 3900
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "罰則",
-			"start": 4000
+			"start": 4000,
+			"end": 4500
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "附則",
-			"start": 4600
+			"start": 4600,
+			"end": 4700
 		}
 	],
 	"articles": [

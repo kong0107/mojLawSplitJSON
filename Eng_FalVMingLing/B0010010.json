@@ -18,61 +18,73 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Provisions",
-			"start": 100
+			"start": 100,
+			"end": 2100
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "The Notaries",
-			"start": 2200
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "The Notaries Serving in the Courts",
-			"start": 2200
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Civil Notary",
-			"start": 2400
+			"start": 2200,
+			"end": 6900,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "The Notaries Serving in the Courts",
+					"start": 2200,
+					"end": 2300
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Civil Notary",
+					"start": 2400,
+					"end": 6900
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Notarization",
-			"start": 7000
+			"start": 7000,
+			"end": 9900
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Attestation",
-			"start": 10000
+			"start": 10000,
+			"end": 10700
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Notarial Fees",
-			"start": 10800
+			"start": 10800,
+			"end": 12900
 		},
 		{
 			"type": "chapter",
 			"number": 600,
 			"title": "The Notary Associations",
-			"start": 13000
+			"start": 13000,
+			"end": 14600
 		},
 		{
 			"type": "chapter",
 			"number": 700,
 			"title": "Penal Provisions",
-			"start": 14700
+			"start": 14700,
+			"end": 14900
 		},
 		{
 			"type": "chapter",
 			"number": 800,
 			"title": "Supplementary Provisions",
-			"start": 15000
+			"start": 15000,
+			"end": 15200
 		}
 	],
 	"articles": [

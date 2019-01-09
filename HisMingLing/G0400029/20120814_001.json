@@ -14,79 +14,98 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 1100
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "募集與發行國內有價證券",
-			"start": 1200
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "股票",
-			"start": 1200
-		},
-		{
-			"type": "款",
-			"number": 100,
-			"title": "第一上市（櫃）公司及興櫃公司",
-			"start": 1200
-		},
-		{
-			"type": "款",
-			"number": 200,
-			"title": "第二上市（櫃）公司",
-			"start": 2200
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "存託憑證",
-			"start": 2800
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "債券",
-			"start": 4300
+			"start": 1200,
+			"end": 5300,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "股票",
+					"start": 1200,
+					"end": 2700,
+					"children": [
+						{
+							"type": "款",
+							"number": 100,
+							"title": "第一上市（櫃）公司及興櫃公司",
+							"start": 1200,
+							"end": 2100
+						},
+						{
+							"type": "款",
+							"number": 200,
+							"title": "第二上市（櫃）公司",
+							"start": 2200,
+							"end": 2700
+						}
+					]
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "存託憑證",
+					"start": 2800,
+					"end": 4200
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "債券",
+					"start": 4300,
+					"end": 5300
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "募集與發行海外有價證券",
-			"start": 5400
+			"start": 5400,
+			"end": 5700
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "補辦公開發行及其他發行新股案件",
-			"start": 5800
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "補辦公開發行",
-			"start": 5800
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "發行員工認股權憑證與限制員工權利新股",
-			"start": 6000
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "減少資本",
-			"start": 6200
+			"start": 5800,
+			"end": 6300,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "補辦公開發行",
+					"start": 5800,
+					"end": 5902
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "發行員工認股權憑證與限制員工權利新股",
+					"start": 6000,
+					"end": 6100
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "減少資本",
+					"start": 6200,
+					"end": 6300
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "附則",
-			"start": 6400
+			"start": 6400,
+			"end": 6600
 		}
 	],
 	"articles": [

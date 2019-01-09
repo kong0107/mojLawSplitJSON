@@ -15,115 +15,138 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Provisions",
-			"start": 100
+			"start": 100,
+			"end": 1500
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Protection of Trial Subjects",
-			"start": 1600
+			"start": 1600,
+			"end": 2400
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Ethics Committee",
-			"start": 2500
+			"start": 2500,
+			"end": 2900
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Investigator",
-			"start": 3000
+			"start": 3000,
+			"end": 3900
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Sponsor",
-			"start": 4000
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "General Rules",
-			"start": 4000
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Quality Assurance and Quality Control",
-			"start": 4900
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Data Handling and Record Keeping",
-			"start": 5300
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "Management of Investigational Product(s)",
-			"start": 6200
-		},
-		{
-			"type": "section",
-			"number": 500,
-			"title": "Monitoring",
-			"start": 7300
-		},
-		{
-			"type": "section",
-			"number": 600,
-			"title": "Audit",
-			"start": 8000
+			"start": 4000,
+			"end": 8200,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "General Rules",
+					"start": 4000,
+					"end": 4800
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Quality Assurance and Quality Control",
+					"start": 4900,
+					"end": 5200
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Data Handling and Record Keeping",
+					"start": 5300,
+					"end": 6100
+				},
+				{
+					"type": "section",
+					"number": 400,
+					"title": "Management of Investigational Product(s)",
+					"start": 6200,
+					"end": 7200
+				},
+				{
+					"type": "section",
+					"number": 500,
+					"title": "Monitoring",
+					"start": 7300,
+					"end": 7900
+				},
+				{
+					"type": "section",
+					"number": 600,
+					"title": "Audit",
+					"start": 8000,
+					"end": 8200
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 600,
 			"title": "Application and Assessment of Clinical Trials",
-			"start": 8300
+			"start": 8300,
+			"end": 8800
 		},
 		{
 			"type": "chapter",
 			"number": 700,
 			"title": "Conduction of Clinical Trials",
-			"start": 8900
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Clinical Trial Protocol",
-			"start": 8900
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Investigational Products",
-			"start": 9200
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Records and Reports",
-			"start": 9800
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "Suspension and Termination of a Trial",
-			"start": 11200
-		},
-		{
-			"type": "section",
-			"number": 500,
-			"title": "Multicenter Trials",
-			"start": 11700
+			"start": 8900,
+			"end": 12100,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Clinical Trial Protocol",
+					"start": 8900,
+					"end": 9100
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Investigational Products",
+					"start": 9200,
+					"end": 9700
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Records and Reports",
+					"start": 9800,
+					"end": 11100
+				},
+				{
+					"type": "section",
+					"number": 400,
+					"title": "Suspension and Termination of a Trial",
+					"start": 11200,
+					"end": 11600
+				},
+				{
+					"type": "section",
+					"number": 500,
+					"title": "Multicenter Trials",
+					"start": 11700,
+					"end": 12100
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 800,
 			"title": "Supplemental Provisions",
-			"start": 12200
+			"start": 12200,
+			"end": 12300
 		}
 	],
 	"articles": [

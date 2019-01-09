@@ -26,31 +26,36 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 200
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "銀行",
-			"start": 300
+			"start": 300,
+			"end": 2202
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "證券商",
-			"start": 2203
+			"start": 2203,
+			"end": 2211
 		},
 		{
 			"type": "章",
 			"number": 301,
 			"title": "保險業",
-			"start": 2212
+			"start": 2212,
+			"end": 2220
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "附則",
-			"start": 2300
+			"start": 2300,
+			"end": 2400
 		}
 	],
 	"articles": [

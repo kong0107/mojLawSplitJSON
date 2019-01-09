@@ -26,79 +26,98 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Provisions",
-			"start": 100
+			"start": 100,
+			"end": 1000
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Business Activities",
-			"start": 1100
+			"start": 1100,
+			"end": 1900
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Setting up Branches and Making Equity Investment in Mainland China",
-			"start": 2000
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Representative Offices",
-			"start": 2000
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Branches and Subsidiary banks",
-			"start": 2500
-		},
-		{
-			"type": "subsection",
-			"number": 100,
-			"title": "Branches",
-			"start": 2500
-		},
-		{
-			"type": "subsection",
-			"number": 200,
-			"title": "Subsidiary banks",
-			"start": 3500
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Equity Investment",
-			"start": 4700
+			"start": 2000,
+			"end": 5600,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Representative Offices",
+					"start": 2000,
+					"end": 2400
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Branches and Subsidiary banks",
+					"start": 2500,
+					"end": 4600,
+					"children": [
+						{
+							"type": "subsection",
+							"number": 100,
+							"title": "Branches",
+							"start": 2500,
+							"end": 3400
+						},
+						{
+							"type": "subsection",
+							"number": 200,
+							"title": "Subsidiary banks",
+							"start": 3500,
+							"end": 4600
+						}
+					]
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Equity Investment",
+					"start": 4700,
+					"end": 5600
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Establishing Branches and Making Equity Investment in Taiwan Area",
-			"start": 5700
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Representative Offices",
-			"start": 5700
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Branches",
-			"start": 6200
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Equity Investment",
-			"start": 7200
+			"start": 5700,
+			"end": 8000,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Representative Offices",
+					"start": 5700,
+					"end": 6100
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Branches",
+					"start": 6200,
+					"end": 7100
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Equity Investment",
+					"start": 7200,
+					"end": 8000
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Supplemental Provisions",
-			"start": 8100
+			"start": 8100,
+			"end": 8600
 		}
 	],
 	"articles": [

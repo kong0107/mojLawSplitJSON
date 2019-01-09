@@ -20,145 +20,173 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 800
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "特殊目的信託",
-			"start": 900
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "資產信託證券化計畫及特殊目的信託",
-			"start": 900
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "受益證券之發行及轉讓",
-			"start": 1500
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "受益人會議",
-			"start": 2300
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "信託監察人",
-			"start": 2800
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "受託機構之權利義務",
-			"start": 3400
-		},
-		{
-			"type": "節",
-			"number": 600,
-			"title": "特殊目的信託之計算、稅捐及相關事項",
-			"start": 3600
-		},
-		{
-			"type": "節",
-			"number": 700,
-			"title": "特殊目的信託契約之變更與終止",
-			"start": 4300
+			"start": 900,
+			"end": 5300,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "資產信託證券化計畫及特殊目的信託",
+					"start": 900,
+					"end": 1400
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "受益證券之發行及轉讓",
+					"start": 1500,
+					"end": 2200
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "受益人會議",
+					"start": 2300,
+					"end": 2700
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "信託監察人",
+					"start": 2800,
+					"end": 3300
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "受託機構之權利義務",
+					"start": 3400,
+					"end": 3500
+				},
+				{
+					"type": "節",
+					"number": 600,
+					"title": "特殊目的信託之計算、稅捐及相關事項",
+					"start": 3600,
+					"end": 4200
+				},
+				{
+					"type": "節",
+					"number": 700,
+					"title": "特殊目的信託契約之變更與終止",
+					"start": 4300,
+					"end": 5300
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "特殊目的公司",
-			"start": 5400
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "通則",
-			"start": 5400
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "特殊目的公司之許可設立",
-			"start": 5600
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "股東之權利義務",
-			"start": 5900
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "特殊目的公司之組織",
-			"start": 6200
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "資產證券化計畫",
-			"start": 7300
-		},
-		{
-			"type": "節",
-			"number": 600,
-			"title": "資產基礎證券之發行及轉讓",
-			"start": 7500
-		},
-		{
-			"type": "節",
-			"number": 700,
-			"title": "資產之移轉與管理",
-			"start": 8300
-		},
-		{
-			"type": "節",
-			"number": 800,
-			"title": "特殊目的公司之業務規範",
-			"start": 8500
-		},
-		{
-			"type": "節",
-			"number": 900,
-			"title": "特殊目的公司之會計",
-			"start": 9100
-		},
-		{
-			"type": "節",
-			"number": 1000,
-			"title": "特殊目的公司之變更、解散及清算",
-			"start": 9500
+			"start": 5400,
+			"end": 10100,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "通則",
+					"start": 5400,
+					"end": 5500
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "特殊目的公司之許可設立",
+					"start": 5600,
+					"end": 5800
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "股東之權利義務",
+					"start": 5900,
+					"end": 6100
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "特殊目的公司之組織",
+					"start": 6200,
+					"end": 7200
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "資產證券化計畫",
+					"start": 7300,
+					"end": 7400
+				},
+				{
+					"type": "節",
+					"number": 600,
+					"title": "資產基礎證券之發行及轉讓",
+					"start": 7500,
+					"end": 8200
+				},
+				{
+					"type": "節",
+					"number": 700,
+					"title": "資產之移轉與管理",
+					"start": 8300,
+					"end": 8400
+				},
+				{
+					"type": "節",
+					"number": 800,
+					"title": "特殊目的公司之業務規範",
+					"start": 8500,
+					"end": 9000
+				},
+				{
+					"type": "節",
+					"number": 900,
+					"title": "特殊目的公司之會計",
+					"start": 9100,
+					"end": 9400
+				},
+				{
+					"type": "節",
+					"number": 1000,
+					"title": "特殊目的公司之變更、解散及清算",
+					"start": 9500,
+					"end": 10100
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "信用評等及信用增強",
-			"start": 10200
+			"start": 10200,
+			"end": 10400
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "監督",
-			"start": 10500
+			"start": 10500,
+			"end": 10700
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "罰則",
-			"start": 10800
+			"start": 10800,
+			"end": 11700
 		},
 		{
 			"type": "章",
 			"number": 700,
 			"title": "附則",
-			"start": 11800
+			"start": 11800,
+			"end": 11900
 		}
 	],
 	"articles": [

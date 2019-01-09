@@ -16,79 +16,96 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Provisions",
-			"start": 100
+			"start": 100,
+			"end": 500
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Real Estate Investment Trust",
-			"start": 600
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Public Offering and Private Placement of Real Estate Investment Trust Funds",
-			"start": 600
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Utilization of Real Estate Investment Trust Funds",
-			"start": 1700
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Accounting of REIT Funds",
-			"start": 2600
+			"start": 600,
+			"end": 2800,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Public Offering and Private Placement of Real Estate Investment Trust Funds",
+					"start": 600,
+					"end": 1600
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Utilization of Real Estate Investment Trust Funds",
+					"start": 1700,
+					"end": 2500
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Accounting of REIT Funds",
+					"start": 2600,
+					"end": 2800
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Real Estate Asset Trust",
-			"start": 2900
+			"start": 2900,
+			"end": 3600
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Issue, Delivery and Transfer of Beneficial Securities, Beneficiaries’meetings",
-			"start": 3700
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Issue, Delivery and Transfer of Beneficial Securities",
-			"start": 3700
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Beneficiaries’ Meetings and Trust Supervisors",
-			"start": 4700
+			"start": 3700,
+			"end": 4800,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Issue, Delivery and Transfer of Beneficial Securities",
+					"start": 3700,
+					"end": 4601
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Beneficiaries’ Meetings and Trust Supervisors",
+					"start": 4700,
+					"end": 4800
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Taxes and Relevant Matters",
-			"start": 4900
+			"start": 4900,
+			"end": 5300
 		},
 		{
 			"type": "chapter",
 			"number": 600,
 			"title": "Administrative Supervision",
-			"start": 5400
+			"start": 5400,
+			"end": 5700
 		},
 		{
 			"type": "chapter",
 			"number": 700,
 			"title": "Penalty Provisions",
-			"start": 5800
+			"start": 5800,
+			"end": 6500
 		},
 		{
 			"type": "chapter",
 			"number": 800,
 			"title": "Supplementary Provisions",
-			"start": 6600
+			"start": 6600,
+			"end": 6800
 		}
 	],
 	"articles": [

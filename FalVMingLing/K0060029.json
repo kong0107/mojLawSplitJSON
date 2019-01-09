@@ -38,55 +38,66 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 300
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "第一類電信事業間網路互連",
-			"start": 400
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "網路互連原則",
-			"start": 400
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "網路介接點設置原則",
-			"start": 700
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "網路互連費用",
-			"start": 1300
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "通信費處理原則",
-			"start": 1900
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "網路互連協議及裁決程序",
-			"start": 2600
+			"start": 400,
+			"end": 3200,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "網路互連原則",
+					"start": 400,
+					"end": 600
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "網路介接點設置原則",
+					"start": 700,
+					"end": 1200
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "網路互連費用",
+					"start": 1300,
+					"end": 1800
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "通信費處理原則",
+					"start": 1900,
+					"end": 2500
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "網路互連協議及裁決程序",
+					"start": 2600,
+					"end": 3200
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "第一類電信事業與第二類電信事業間之網路互連",
-			"start": 3300
+			"start": 3300,
+			"end": 4100
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "附則",
-			"start": 4200
+			"start": 4200,
+			"end": 4200
 		}
 	],
 	"articles": [

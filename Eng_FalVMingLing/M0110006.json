@@ -19,31 +19,36 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Provisions",
-			"start": 100
+			"start": 100,
+			"end": 1501
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Agricultural Use",
-			"start": 1600
+			"start": 1600,
+			"end": 2900
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Non-Agricultural Use",
-			"start": 3000
+			"start": 3000,
+			"end": 3201
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Incentives and Penalties",
-			"start": 3300
+			"start": 3300,
+			"end": 3600
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Supplementary Provisions",
-			"start": 3700
+			"start": 3700,
+			"end": 3900
 		}
 	],
 	"articles": [

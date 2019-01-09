@@ -27,67 +27,80 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 500
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "行政",
-			"start": 600
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "交流機構",
-			"start": 600
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "入出境管理",
-			"start": 1000
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "文教交流",
-			"start": 1900
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "交通運輸",
-			"start": 2400
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "經貿交流",
-			"start": 2800
+			"start": 600,
+			"end": 3700,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "交流機構",
+					"start": 600,
+					"end": 900
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "入出境管理",
+					"start": 1000,
+					"end": 1800
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "文教交流",
+					"start": 1900,
+					"end": 2300
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "交通運輸",
+					"start": 2400,
+					"end": 2700
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "經貿交流",
+					"start": 2800,
+					"end": 3700
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "民事",
-			"start": 3800
+			"start": 3800,
+			"end": 4200
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "刑事",
-			"start": 4300
+			"start": 4300,
+			"end": 4600
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "罰則",
-			"start": 4700
+			"start": 4700,
+			"end": 5500
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "附則",
-			"start": 5600
+			"start": 5600,
+			"end": 6200
 		}
 	],
 	"articles": [

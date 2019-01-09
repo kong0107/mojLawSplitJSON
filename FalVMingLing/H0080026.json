@@ -24,37 +24,43 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 300
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "登記及許可",
-			"start": 400
+			"start": 400,
+			"end": 1100
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "演出管理",
-			"start": 1200
+			"start": 1200,
+			"end": 1500
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "(刪除)",
-			"start": 1600
+			"start": 1600,
+			"end": 1800
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "輔導、獎勵及處分",
-			"start": 1900
+			"start": 1900,
+			"end": 2200
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "附則",
-			"start": 2300
+			"start": 2300,
+			"end": 2700
 		}
 	],
 	"articles": [

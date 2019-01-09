@@ -17,25 +17,29 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Principles",
-			"start": 100
+			"start": 100,
+			"end": 500
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Listed Securities Borrowing and Lending Business",
-			"start": 600
+			"start": 600,
+			"end": 3000
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Book-Entry Central Government Bond Borrowing and Lending Business",
-			"start": 3100
+			"start": 3100,
+			"end": 3800
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Supplementary Provisions",
-			"start": 3900
+			"start": 3900,
+			"end": 4100
 		}
 	],
 	"articles": [

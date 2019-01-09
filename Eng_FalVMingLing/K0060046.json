@@ -49,43 +49,52 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General provisions",
-			"start": 100
+			"start": 100,
+			"end": 700
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Concession operation",
-			"start": 800
+			"start": 800,
+			"end": 2700
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Operations management",
-			"start": 2800
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Equipment management",
-			"start": 2800
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Frequency application, frequency interference and visual frequency transmission restrictions",
-			"start": 4000
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Operations management",
-			"start": 4500
+			"start": 2800,
+			"end": 5500,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Equipment management",
+					"start": 2800,
+					"end": 3900
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Frequency application, frequency interference and visual frequency transmission restrictions",
+					"start": 4000,
+					"end": 4400
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Operations management",
+					"start": 4500,
+					"end": 5500
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Supplementary provisions",
-			"start": 5600
+			"start": 5600,
+			"end": 5900
 		}
 	],
 	"articles": [

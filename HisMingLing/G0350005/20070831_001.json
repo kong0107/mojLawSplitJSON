@@ -14,43 +14,50 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 300
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "登記",
-			"start": 400
+			"start": 400,
+			"end": 900
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "保稅工廠之管理",
-			"start": 1000
+			"start": 1000,
+			"end": 2700
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "保稅物品之通關",
-			"start": 2800
+			"start": 2800,
+			"end": 4200
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "保稅物品之管理",
-			"start": 4300
+			"start": 4300,
+			"end": 5000
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "罰則",
-			"start": 5100
+			"start": 5100,
+			"end": 5800
 		},
 		{
 			"type": "章",
 			"number": 700,
 			"title": "附則",
-			"start": 5900
+			"start": 5900,
+			"end": 6100
 		}
 	],
 	"articles": [

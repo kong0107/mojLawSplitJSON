@@ -32,85 +32,103 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 600
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "經營特許",
-			"start": 700
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "釋照程序",
-			"start": 700
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "競價規則及競價程序",
-			"start": 1100
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "申請與審查",
-			"start": 1500
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "競價作業",
-			"start": 2300
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "籌設",
-			"start": 3100
+			"start": 700,
+			"end": 4800,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "釋照程序",
+					"start": 700,
+					"end": 1000
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "競價規則及競價程序",
+					"start": 1100,
+					"end": 1400
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "申請與審查",
+					"start": 1500,
+					"end": 2200
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "競價作業",
+					"start": 2300,
+					"end": 3000
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "籌設",
+					"start": 3100,
+					"end": 4800
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "營運管理",
-			"start": 4900
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "特許費",
-			"start": 4900
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "相互投資或合併",
-			"start": 5000
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "技術監理",
-			"start": 5100
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "業務監理",
-			"start": 6100
+			"start": 4900,
+			"end": 7800,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "特許費",
+					"start": 4900,
+					"end": 4900
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "相互投資或合併",
+					"start": 5000,
+					"end": 5000
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "技術監理",
+					"start": 5100,
+					"end": 6000
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "業務監理",
+					"start": 6100,
+					"end": 7800
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "爭議之調處",
-			"start": 7900
+			"start": 7900,
+			"end": 7900
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "附則",
-			"start": 8000
+			"start": 8000,
+			"end": 8200
 		}
 	],
 	"articles": [

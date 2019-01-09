@@ -14,70 +14,80 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 700
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "經營特許",
-			"start": 800
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "申請與審查",
-			"start": 800
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "競價準備",
-			"start": 1700
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "競價"
-		},
-		{
-			"type": "款",
-			"number": 100,
-			"title": "競價程序"
-		},
-		{
-			"type": "款",
-			"number": 200,
-			"title": "數量競價"
-		},
-		{
-			"type": "款",
-			"number": 300,
-			"title": "位置競價"
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "籌設"
+			"start": 800,
+			"end": 8900,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "申請與審查",
+					"start": 800,
+					"end": 1600
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "競價準備",
+					"start": 1700,
+					"end": 8900
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "競價",
+					"children": [
+						{
+							"type": "款",
+							"number": 100,
+							"title": "競價程序"
+						},
+						{
+							"type": "款",
+							"number": 200,
+							"title": "數量競價"
+						},
+						{
+							"type": "款",
+							"number": 300,
+							"title": "位置競價"
+						}
+					]
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "籌設"
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 300,
-			"title": "營運管理"
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "技術監理"
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "業務監理"
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "頻率使用權轉讓"
+			"title": "營運管理",
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "技術監理"
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "業務監理"
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "頻率使用權轉讓"
+				}
+			]
 		},
 		{
 			"type": "章",

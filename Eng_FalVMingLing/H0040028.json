@@ -13,49 +13,59 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Provisions",
-			"start": 100
+			"start": 100,
+			"end": 300
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Planning & Management of Technical and    Vocational Education",
-			"start": 400
+			"start": 400,
+			"end": 800
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Provision of Technical & Vocational Education",
-			"start": 900
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Career Information Education",
-			"start": 900
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Basic Vocational Education",
-			"start": 1100
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Vocational Continuing Education",
-			"start": 2000
+			"start": 900,
+			"end": 2300,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Career Information Education",
+					"start": 900,
+					"end": 1000
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Basic Vocational Education",
+					"start": 1100,
+					"end": 1900
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Vocational Continuing Education",
+					"start": 2000,
+					"end": 2300
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Qualified Teachers for Technical & Vocational Education",
-			"start": 2400
+			"start": 2400,
+			"end": 2600
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Supplementary Provisions",
-			"start": 2700
+			"start": 2700,
+			"end": 2900
 		}
 	],
 	"articles": [

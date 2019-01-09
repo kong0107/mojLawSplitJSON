@@ -19,61 +19,73 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Provisions",
-			"start": 100
+			"start": 100,
+			"end": 500
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Business Activities",
-			"start": 600
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Margin Purchases and Short Sales in Securities Trading",
-			"start": 600
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Re-Financing for Securities Firms and Other Securities Finance Enterprises",
-			"start": 2100
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Subscription Loans and Underwriting Loans",
-			"start": 3000
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "Securities Settlement Financing",
-			"start": 3400
-		},
-		{
-			"type": "section",
-			"number": 500,
-			"title": "Securities Borrowing and Lending",
-			"start": 3800
+			"start": 600,
+			"end": 5400,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Margin Purchases and Short Sales in Securities Trading",
+					"start": 600,
+					"end": 2000
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Re-Financing for Securities Firms and Other Securities Finance Enterprises",
+					"start": 2100,
+					"end": 2900
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Subscription Loans and Underwriting Loans",
+					"start": 3000,
+					"end": 3300
+				},
+				{
+					"type": "section",
+					"number": 400,
+					"title": "Securities Settlement Financing",
+					"start": 3400,
+					"end": 3700
+				},
+				{
+					"type": "section",
+					"number": 500,
+					"title": "Securities Borrowing and Lending",
+					"start": 3800,
+					"end": 5400
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Finance",
-			"start": 5500
+			"start": 5500,
+			"end": 6000
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Supervision and Administration of Enterprises and Personnel",
-			"start": 6100
+			"start": 6100,
+			"end": 6501
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Supplementary Provisions",
-			"start": 6600
+			"start": 6600,
+			"end": 6600
 		}
 	],
 	"articles": [

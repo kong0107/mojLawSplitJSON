@@ -27,157 +27,189 @@
 			"type": "編",
 			"number": 100,
 			"title": "總則",
-			"start": 100
-		},
-		{
-			"type": "章",
-			"number": 100,
-			"title": "法例",
-			"start": 100
-		},
-		{
-			"type": "章",
-			"number": 200,
-			"title": "軍法人員",
-			"start": 1000
-		},
-		{
-			"type": "章",
-			"number": 300,
-			"title": "軍事法院",
-			"start": 1500
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "軍事法院之組織",
-			"start": 1500
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "軍事法院之管轄",
-			"start": 2700
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "軍事法庭之開閉及用語",
-			"start": 3600
-		},
-		{
-			"type": "章",
-			"number": 400,
-			"title": "軍事檢察署",
-			"start": 4900
-		},
-		{
-			"type": "章",
-			"number": 500,
-			"title": "軍法人員之迴避",
-			"start": 6300
-		},
-		{
-			"type": "章",
-			"number": 600,
-			"title": "辯護人及輔佐人",
-			"start": 6900
-		},
-		{
-			"type": "章",
-			"number": 700,
-			"title": "文書、送達、期日及期間",
-			"start": 8300
-		},
-		{
-			"type": "章",
-			"number": 800,
-			"title": "被告之傳喚及拘提",
-			"start": 8800
-		},
-		{
-			"type": "章",
-			"number": 900,
-			"title": "被告之訊問及羈押",
-			"start": 10100
-		},
-		{
-			"type": "章",
-			"number": 1000,
-			"title": "搜索及扣押",
-			"start": 11100
-		},
-		{
-			"type": "章",
-			"number": 1100,
-			"title": "證據",
-			"start": 11600
-		},
-		{
-			"type": "章",
-			"number": 1200,
-			"title": "裁判",
-			"start": 12600
+			"start": 100,
+			"end": 12900,
+			"children": [
+				{
+					"type": "章",
+					"number": 100,
+					"title": "法例",
+					"start": 100,
+					"end": 900
+				},
+				{
+					"type": "章",
+					"number": 200,
+					"title": "軍法人員",
+					"start": 1000,
+					"end": 1400
+				},
+				{
+					"type": "章",
+					"number": 300,
+					"title": "軍事法院",
+					"start": 1500,
+					"end": 4800,
+					"children": [
+						{
+							"type": "節",
+							"number": 100,
+							"title": "軍事法院之組織",
+							"start": 1500,
+							"end": 2600
+						},
+						{
+							"type": "節",
+							"number": 200,
+							"title": "軍事法院之管轄",
+							"start": 2700,
+							"end": 3500
+						},
+						{
+							"type": "節",
+							"number": 300,
+							"title": "軍事法庭之開閉及用語",
+							"start": 3600,
+							"end": 4800
+						}
+					]
+				},
+				{
+					"type": "章",
+					"number": 400,
+					"title": "軍事檢察署",
+					"start": 4900,
+					"end": 6200
+				},
+				{
+					"type": "章",
+					"number": 500,
+					"title": "軍法人員之迴避",
+					"start": 6300,
+					"end": 6800
+				},
+				{
+					"type": "章",
+					"number": 600,
+					"title": "辯護人及輔佐人",
+					"start": 6900,
+					"end": 8201
+				},
+				{
+					"type": "章",
+					"number": 700,
+					"title": "文書、送達、期日及期間",
+					"start": 8300,
+					"end": 8700
+				},
+				{
+					"type": "章",
+					"number": 800,
+					"title": "被告之傳喚及拘提",
+					"start": 8800,
+					"end": 10000
+				},
+				{
+					"type": "章",
+					"number": 900,
+					"title": "被告之訊問及羈押",
+					"start": 10100,
+					"end": 11000
+				},
+				{
+					"type": "章",
+					"number": 1000,
+					"title": "搜索及扣押",
+					"start": 11100,
+					"end": 11500
+				},
+				{
+					"type": "章",
+					"number": 1100,
+					"title": "證據",
+					"start": 11600,
+					"end": 12500
+				},
+				{
+					"type": "章",
+					"number": 1200,
+					"title": "裁判",
+					"start": 12600,
+					"end": 12900
+				}
+			]
 		},
 		{
 			"type": "編",
 			"number": 200,
 			"title": "初審",
-			"start": 13000
-		},
-		{
-			"type": "章",
-			"number": 100,
-			"title": "偵查",
-			"start": 13000
-		},
-		{
-			"type": "章",
-			"number": 200,
-			"title": "起訴",
-			"start": 14700
-		},
-		{
-			"type": "章",
-			"number": 300,
-			"title": "審判",
-			"start": 15100
+			"start": 13000,
+			"end": 17900,
+			"children": [
+				{
+					"type": "章",
+					"number": 100,
+					"title": "偵查",
+					"start": 13000,
+					"end": 14600
+				},
+				{
+					"type": "章",
+					"number": 200,
+					"title": "起訴",
+					"start": 14700,
+					"end": 15000
+				},
+				{
+					"type": "章",
+					"number": 300,
+					"title": "審判",
+					"start": 15100,
+					"end": 17900
+				}
+			]
 		},
 		{
 			"type": "編",
 			"number": 300,
 			"title": "上訴",
-			"start": 18000
+			"start": 18000,
+			"end": 20600
 		},
 		{
 			"type": "編",
 			"number": 400,
 			"title": "抗告",
-			"start": 20700
+			"start": 20700,
+			"end": 21700
 		},
 		{
 			"type": "編",
 			"number": 500,
 			"title": "再審",
-			"start": 21800
+			"start": 21800,
+			"end": 22500
 		},
 		{
 			"type": "編",
 			"number": 600,
 			"title": "非常上訴",
-			"start": 22600
+			"start": 22600,
+			"end": 22800
 		},
 		{
 			"type": "編",
 			"number": 700,
 			"title": "執行",
-			"start": 22900
+			"start": 22900,
+			"end": 23600
 		},
 		{
 			"type": "編",
 			"number": 800,
 			"title": "附則",
-			"start": 23700
+			"start": 23700,
+			"end": 23800
 		}
 	],
 	"articles": [

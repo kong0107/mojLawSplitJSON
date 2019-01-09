@@ -13,37 +13,43 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 500
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "兵籍調查",
-			"start": 600
+			"start": 600,
+			"end": 900
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "徵兵檢查",
-			"start": 1000
+			"start": 1000,
+			"end": 1800
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "抽籤",
-			"start": 1900
+			"start": 1900,
+			"end": 2300
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "徵集",
-			"start": 2400
+			"start": 2400,
+			"end": 3500
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "附則",
-			"start": 3600
+			"start": 3600,
+			"end": 4100
 		}
 	],
 	"articles": [

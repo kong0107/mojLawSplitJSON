@@ -62,31 +62,36 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 400
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "註冊",
-			"start": 500
+			"start": 500,
+			"end": 1900
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "經營",
-			"start": 2000
+			"start": 2000,
+			"end": 5400
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "獎懲",
-			"start": 5500
+			"start": 5500,
+			"end": 5800
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "附則",
-			"start": 5900
+			"start": 5900,
+			"end": 6800
 		}
 	],
 	"articles": [

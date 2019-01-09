@@ -23,115 +23,138 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 900
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "證券投資信託基金",
-			"start": 1000
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "基金募集、私募、發行及行銷",
-			"start": 1000
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "基金之操作",
-			"start": 1700
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "基金之保管",
-			"start": 2100
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "基金之買回",
-			"start": 2500
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "基金之會計",
-			"start": 2600
-		},
-		{
-			"type": "節",
-			"number": 600,
-			"title": "受益憑證",
-			"start": 3200
-		},
-		{
-			"type": "節",
-			"number": 700,
-			"title": "受益人會議",
-			"start": 3800
-		},
-		{
-			"type": "節",
-			"number": 800,
-			"title": "基金之終止、清算及合併",
-			"start": 4500
+			"start": 1000,
+			"end": 4900,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "基金募集、私募、發行及行銷",
+					"start": 1000,
+					"end": 1601
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "基金之操作",
+					"start": 1700,
+					"end": 2000
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "基金之保管",
+					"start": 2100,
+					"end": 2400
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "基金之買回",
+					"start": 2500,
+					"end": 2500
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "基金之會計",
+					"start": 2600,
+					"end": 3100
+				},
+				{
+					"type": "節",
+					"number": 600,
+					"title": "受益憑證",
+					"start": 3200,
+					"end": 3700
+				},
+				{
+					"type": "節",
+					"number": 700,
+					"title": "受益人會議",
+					"start": 3800,
+					"end": 4400
+				},
+				{
+					"type": "節",
+					"number": 800,
+					"title": "基金之終止、清算及合併",
+					"start": 4500,
+					"end": 4900
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "全權委託投資業務",
-			"start": 5000
+			"start": 5000,
+			"end": 6200
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "證券投資信託及顧問事業",
-			"start": 6300
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "通則",
-			"start": 6300
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "證券投資信託事業",
-			"start": 7300
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "證券投資顧問事業",
-			"start": 8300
+			"start": 6300,
+			"end": 8300,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "通則",
+					"start": 6300,
+					"end": 7200
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "證券投資信託事業",
+					"start": 7300,
+					"end": 8200
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "證券投資顧問事業",
+					"start": 8300,
+					"end": 8300
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "自律機構",
-			"start": 8400
+			"start": 8400,
+			"end": 9200
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "行政監督",
-			"start": 9300
+			"start": 9300,
+			"end": 10400
 		},
 		{
 			"type": "章",
 			"number": 700,
 			"title": "罰則",
-			"start": 10500
+			"start": 10500,
+			"end": 12000
 		},
 		{
 			"type": "章",
 			"number": 800,
 			"title": "附則",
-			"start": 12100
+			"start": 12100,
+			"end": 12400
 		}
 	],
 	"articles": [

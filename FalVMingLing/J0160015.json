@@ -19,31 +19,36 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 700
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "核子原料及核子燃料之管制",
-			"start": 800
+			"start": 800,
+			"end": 1600
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "放射性廢棄物之管制",
-			"start": 1700
+			"start": 1700,
+			"end": 3100
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "罰則",
-			"start": 3200
+			"start": 3200,
+			"end": 4500
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "附則",
-			"start": 4600
+			"start": 4600,
+			"end": 5100
 		}
 	],
 	"articles": [

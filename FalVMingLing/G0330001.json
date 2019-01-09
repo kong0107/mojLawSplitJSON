@@ -20,31 +20,36 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 500
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "產製",
-			"start": 600
+			"start": 600,
+			"end": 2700
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "運銷",
-			"start": 2800
+			"start": 2800,
+			"end": 3500
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "罰則",
-			"start": 3600
+			"start": 3600,
+			"end": 4400
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "附則",
-			"start": 4500
+			"start": 4500,
+			"end": 4600
 		}
 	],
 	"articles": [

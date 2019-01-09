@@ -45,79 +45,98 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Provisions",
-			"start": 100
+			"start": 100,
+			"end": 1100
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Offering and Issuance of Domestic Securities",
-			"start": 1200
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Stock",
-			"start": 1200
-		},
-		{
-			"type": "subsection",
-			"number": 100,
-			"title": "Primary Exchange (or OTC) Listed Companies and Emerging Stock Companies",
-			"start": 1200
-		},
-		{
-			"type": "subsection",
-			"number": 200,
-			"title": "Secondary Exchange (or OTC) Listed Companies",
-			"start": 2200
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Taiwan Depositary Receipts",
-			"start": 2800
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Bonds",
-			"start": 4300
+			"start": 1200,
+			"end": 5300,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Stock",
+					"start": 1200,
+					"end": 2700,
+					"children": [
+						{
+							"type": "subsection",
+							"number": 100,
+							"title": "Primary Exchange (or OTC) Listed Companies and Emerging Stock Companies",
+							"start": 1200,
+							"end": 2100
+						},
+						{
+							"type": "subsection",
+							"number": 200,
+							"title": "Secondary Exchange (or OTC) Listed Companies",
+							"start": 2200,
+							"end": 2700
+						}
+					]
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Taiwan Depositary Receipts",
+					"start": 2800,
+					"end": 4200
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Bonds",
+					"start": 4300,
+					"end": 5300
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Offering and Issuance of Overseas Securities",
-			"start": 5400
+			"start": 5400,
+			"end": 5700
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Retroactive Handling of Public Issuance Procedures and Other New Share Issue Cases",
-			"start": 5800
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Retroactive Handling of Public Issuance Procedures",
-			"start": 5800
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Issuance of Employee Stock Warrants and New Restricted Employee Shares",
-			"start": 6000
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Capital Reduction",
-			"start": 6200
+			"start": 5800,
+			"end": 6300,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Retroactive Handling of Public Issuance Procedures",
+					"start": 5800,
+					"end": 5902
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Issuance of Employee Stock Warrants and New Restricted Employee Shares",
+					"start": 6000,
+					"end": 6100
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Capital Reduction",
+					"start": 6200,
+					"end": 6300
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Supplementary Provisions",
-			"start": 6400
+			"start": 6400,
+			"end": 6600
 		}
 	],
 	"articles": [

@@ -25,31 +25,36 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 300
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "檢體收件及監管",
-			"start": 400
+			"start": 400,
+			"end": 1000
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "檢驗作業及閾值",
-			"start": 1100
+			"start": 1100,
+			"end": 2400
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "品質管制及品質保證",
-			"start": 2500
+			"start": 2500,
+			"end": 3400
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "附則",
-			"start": 3500
+			"start": 3500,
+			"end": 3600
 		}
 	],
 	"articles": [

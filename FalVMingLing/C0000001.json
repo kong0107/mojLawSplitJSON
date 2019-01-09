@@ -54,319 +54,376 @@
 			"type": "編",
 			"number": 100,
 			"title": "總則",
-			"start": 100
-		},
-		{
-			"type": "章",
-			"number": 100,
-			"title": "法例",
-			"start": 100
-		},
-		{
-			"type": "章",
-			"number": 200,
-			"title": "刑事責任",
-			"start": 1200
-		},
-		{
-			"type": "章",
-			"number": 300,
-			"title": "未遂犯",
-			"start": 2500
-		},
-		{
-			"type": "章",
-			"number": 400,
-			"title": "正犯與共犯",
-			"start": 2800
-		},
-		{
-			"type": "章",
-			"number": 500,
-			"title": "刑",
-			"start": 3200
-		},
-		{
-			"type": "章",
-			"number": 501,
-			"title": "沒收",
-			"start": 3800
-		},
-		{
-			"type": "章",
-			"number": 502,
-			"title": "易刑",
-			"start": 4100
-		},
-		{
-			"type": "章",
-			"number": 600,
-			"title": "累犯",
-			"start": 4700
-		},
-		{
-			"type": "章",
-			"number": 700,
-			"title": "數罪併罰",
-			"start": 5000
-		},
-		{
-			"type": "章",
-			"number": 800,
-			"title": "刑之酌科及加減",
-			"start": 5700
-		},
-		{
-			"type": "章",
-			"number": 900,
-			"title": "緩刑",
-			"start": 7400
-		},
-		{
-			"type": "章",
-			"number": 1000,
-			"title": "假釋",
-			"start": 7700
-		},
-		{
-			"type": "章",
-			"number": 1100,
-			"title": "時效",
-			"start": 8000
-		},
-		{
-			"type": "章",
-			"number": 1200,
-			"title": "保安處分",
-			"start": 8600
+			"start": 100,
+			"end": 9900,
+			"children": [
+				{
+					"type": "章",
+					"number": 100,
+					"title": "法例",
+					"start": 100,
+					"end": 1100
+				},
+				{
+					"type": "章",
+					"number": 200,
+					"title": "刑事責任",
+					"start": 1200,
+					"end": 2400
+				},
+				{
+					"type": "章",
+					"number": 300,
+					"title": "未遂犯",
+					"start": 2500,
+					"end": 2700
+				},
+				{
+					"type": "章",
+					"number": 400,
+					"title": "正犯與共犯",
+					"start": 2800,
+					"end": 3100
+				},
+				{
+					"type": "章",
+					"number": 500,
+					"title": "刑",
+					"start": 3200,
+					"end": 3702
+				},
+				{
+					"type": "章",
+					"number": 501,
+					"title": "沒收",
+					"start": 3800,
+					"end": 4002
+				},
+				{
+					"type": "章",
+					"number": 502,
+					"title": "易刑",
+					"start": 4100,
+					"end": 4600
+				},
+				{
+					"type": "章",
+					"number": 600,
+					"title": "累犯",
+					"start": 4700,
+					"end": 4900
+				},
+				{
+					"type": "章",
+					"number": 700,
+					"title": "數罪併罰",
+					"start": 5000,
+					"end": 5600
+				},
+				{
+					"type": "章",
+					"number": 800,
+					"title": "刑之酌科及加減",
+					"start": 5700,
+					"end": 7300
+				},
+				{
+					"type": "章",
+					"number": 900,
+					"title": "緩刑",
+					"start": 7400,
+					"end": 7600
+				},
+				{
+					"type": "章",
+					"number": 1000,
+					"title": "假釋",
+					"start": 7700,
+					"end": 7901
+				},
+				{
+					"type": "章",
+					"number": 1100,
+					"title": "時效",
+					"start": 8000,
+					"end": 8500
+				},
+				{
+					"type": "章",
+					"number": 1200,
+					"title": "保安處分",
+					"start": 8600,
+					"end": 9900
+				}
+			]
 		},
 		{
 			"type": "編",
 			"number": 200,
 			"title": "分則",
-			"start": 10000
-		},
-		{
-			"type": "章",
-			"number": 100,
-			"title": "內亂罪",
-			"start": 10000
-		},
-		{
-			"type": "章",
-			"number": 200,
-			"title": "外患罪",
-			"start": 10300
-		},
-		{
-			"type": "章",
-			"number": 300,
-			"title": "妨害國交罪",
-			"start": 11600
-		},
-		{
-			"type": "章",
-			"number": 400,
-			"title": "瀆職罪",
-			"start": 12000
-		},
-		{
-			"type": "章",
-			"number": 500,
-			"title": "妨害公務罪",
-			"start": 13500
-		},
-		{
-			"type": "章",
-			"number": 600,
-			"title": "妨害投票罪",
-			"start": 14200
-		},
-		{
-			"type": "章",
-			"number": 700,
-			"title": "妨害秩序罪",
-			"start": 14900
-		},
-		{
-			"type": "章",
-			"number": 800,
-			"title": "脫逃罪",
-			"start": 16100
-		},
-		{
-			"type": "章",
-			"number": 900,
-			"title": "藏匿人犯及湮滅證據罪",
-			"start": 16400
-		},
-		{
-			"type": "章",
-			"number": 1000,
-			"title": "偽證及誣告罪",
-			"start": 16800
-		},
-		{
-			"type": "章",
-			"number": 1100,
-			"title": "公共危險罪",
-			"start": 17300
-		},
-		{
-			"type": "章",
-			"number": 1200,
-			"title": "偽造貨幣罪",
-			"start": 19500
-		},
-		{
-			"type": "章",
-			"number": 1300,
-			"title": "偽造有價證券罪",
-			"start": 20100
-		},
-		{
-			"type": "章",
-			"number": 1400,
-			"title": "偽造度量衡罪",
-			"start": 20600
-		},
-		{
-			"type": "章",
-			"number": 1500,
-			"title": "偽造文書印文罪",
-			"start": 21000
-		},
-		{
-			"type": "章",
-			"number": 1600,
-			"title": "妨害性自主罪",
-			"start": 22100
-		},
-		{
-			"type": "章",
-			"number": 1601,
-			"title": "妨害風化罪",
-			"start": 23000
-		},
-		{
-			"type": "章",
-			"number": 1700,
-			"title": "妨害婚姻及家庭罪",
-			"start": 23700
-		},
-		{
-			"type": "章",
-			"number": 1800,
-			"title": "褻瀆祀典及侵害墳墓屍體罪",
-			"start": 24600
-		},
-		{
-			"type": "章",
-			"number": 1900,
-			"title": "妨害農工商罪",
-			"start": 25100
-		},
-		{
-			"type": "章",
-			"number": 2000,
-			"title": "鴉片罪",
-			"start": 25600
-		},
-		{
-			"type": "章",
-			"number": 2100,
-			"title": "賭博罪",
-			"start": 26600
-		},
-		{
-			"type": "章",
-			"number": 2200,
-			"title": "殺人罪",
-			"start": 27100
-		},
-		{
-			"type": "章",
-			"number": 2300,
-			"title": "傷害罪",
-			"start": 27700
-		},
-		{
-			"type": "章",
-			"number": 2400,
-			"title": "墮胎罪",
-			"start": 28800
-		},
-		{
-			"type": "章",
-			"number": 2500,
-			"title": "遺棄罪",
-			"start": 29300
-		},
-		{
-			"type": "章",
-			"number": 2600,
-			"title": "妨害自由罪",
-			"start": 29600
-		},
-		{
-			"type": "章",
-			"number": 2700,
-			"title": "妨害名譽及信用罪",
-			"start": 30900
-		},
-		{
-			"type": "章",
-			"number": 2800,
-			"title": "妨害秘密罪",
-			"start": 31500
-		},
-		{
-			"type": "章",
-			"number": 2900,
-			"title": "竊盜罪",
-			"start": 32000
-		},
-		{
-			"type": "章",
-			"number": 3000,
-			"title": "搶奪強盜及海盜罪",
-			"start": 32500
-		},
-		{
-			"type": "章",
-			"number": 3100,
-			"title": "侵占罪",
-			"start": 33500
-		},
-		{
-			"type": "章",
-			"number": 3200,
-			"title": "詐欺背信及重利罪",
-			"start": 33900
-		},
-		{
-			"type": "章",
-			"number": 3300,
-			"title": "恐嚇及擄人勒贖罪",
-			"start": 34600
-		},
-		{
-			"type": "章",
-			"number": 3400,
-			"title": "贓物罪",
-			"start": 34900
-		},
-		{
-			"type": "章",
-			"number": 3500,
-			"title": "毀棄損壞罪",
-			"start": 35200
-		},
-		{
-			"type": "章",
-			"number": 3600,
-			"title": "妨害電腦使用罪",
-			"start": 35800
+			"start": 10000,
+			"end": 36300,
+			"children": [
+				{
+					"type": "章",
+					"number": 100,
+					"title": "內亂罪",
+					"start": 10000,
+					"end": 10200
+				},
+				{
+					"type": "章",
+					"number": 200,
+					"title": "外患罪",
+					"start": 10300,
+					"end": 11500
+				},
+				{
+					"type": "章",
+					"number": 300,
+					"title": "妨害國交罪",
+					"start": 11600,
+					"end": 11900
+				},
+				{
+					"type": "章",
+					"number": 400,
+					"title": "瀆職罪",
+					"start": 12000,
+					"end": 13400
+				},
+				{
+					"type": "章",
+					"number": 500,
+					"title": "妨害公務罪",
+					"start": 13500,
+					"end": 14100
+				},
+				{
+					"type": "章",
+					"number": 600,
+					"title": "妨害投票罪",
+					"start": 14200,
+					"end": 14800
+				},
+				{
+					"type": "章",
+					"number": 700,
+					"title": "妨害秩序罪",
+					"start": 14900,
+					"end": 16000
+				},
+				{
+					"type": "章",
+					"number": 800,
+					"title": "脫逃罪",
+					"start": 16100,
+					"end": 16300
+				},
+				{
+					"type": "章",
+					"number": 900,
+					"title": "藏匿人犯及湮滅證據罪",
+					"start": 16400,
+					"end": 16700
+				},
+				{
+					"type": "章",
+					"number": 1000,
+					"title": "偽證及誣告罪",
+					"start": 16800,
+					"end": 17200
+				},
+				{
+					"type": "章",
+					"number": 1100,
+					"title": "公共危險罪",
+					"start": 17300,
+					"end": 19400
+				},
+				{
+					"type": "章",
+					"number": 1200,
+					"title": "偽造貨幣罪",
+					"start": 19500,
+					"end": 20000
+				},
+				{
+					"type": "章",
+					"number": 1300,
+					"title": "偽造有價證券罪",
+					"start": 20100,
+					"end": 20500
+				},
+				{
+					"type": "章",
+					"number": 1400,
+					"title": "偽造度量衡罪",
+					"start": 20600,
+					"end": 20900
+				},
+				{
+					"type": "章",
+					"number": 1500,
+					"title": "偽造文書印文罪",
+					"start": 21000,
+					"end": 22000
+				},
+				{
+					"type": "章",
+					"number": 1600,
+					"title": "妨害性自主罪",
+					"start": 22100,
+					"end": 22901
+				},
+				{
+					"type": "章",
+					"number": 1601,
+					"title": "妨害風化罪",
+					"start": 23000,
+					"end": 23600
+				},
+				{
+					"type": "章",
+					"number": 1700,
+					"title": "妨害婚姻及家庭罪",
+					"start": 23700,
+					"end": 24500
+				},
+				{
+					"type": "章",
+					"number": 1800,
+					"title": "褻瀆祀典及侵害墳墓屍體罪",
+					"start": 24600,
+					"end": 25000
+				},
+				{
+					"type": "章",
+					"number": 1900,
+					"title": "妨害農工商罪",
+					"start": 25100,
+					"end": 25500
+				},
+				{
+					"type": "章",
+					"number": 2000,
+					"title": "鴉片罪",
+					"start": 25600,
+					"end": 26500
+				},
+				{
+					"type": "章",
+					"number": 2100,
+					"title": "賭博罪",
+					"start": 26600,
+					"end": 27000
+				},
+				{
+					"type": "章",
+					"number": 2200,
+					"title": "殺人罪",
+					"start": 27100,
+					"end": 27600
+				},
+				{
+					"type": "章",
+					"number": 2300,
+					"title": "傷害罪",
+					"start": 27700,
+					"end": 28700
+				},
+				{
+					"type": "章",
+					"number": 2400,
+					"title": "墮胎罪",
+					"start": 28800,
+					"end": 29200
+				},
+				{
+					"type": "章",
+					"number": 2500,
+					"title": "遺棄罪",
+					"start": 29300,
+					"end": 29500
+				},
+				{
+					"type": "章",
+					"number": 2600,
+					"title": "妨害自由罪",
+					"start": 29600,
+					"end": 30800
+				},
+				{
+					"type": "章",
+					"number": 2700,
+					"title": "妨害名譽及信用罪",
+					"start": 30900,
+					"end": 31400
+				},
+				{
+					"type": "章",
+					"number": 2800,
+					"title": "妨害秘密罪",
+					"start": 31500,
+					"end": 31900
+				},
+				{
+					"type": "章",
+					"number": 2900,
+					"title": "竊盜罪",
+					"start": 32000,
+					"end": 32400
+				},
+				{
+					"type": "章",
+					"number": 3000,
+					"title": "搶奪強盜及海盜罪",
+					"start": 32500,
+					"end": 33401
+				},
+				{
+					"type": "章",
+					"number": 3100,
+					"title": "侵占罪",
+					"start": 33500,
+					"end": 33800
+				},
+				{
+					"type": "章",
+					"number": 3200,
+					"title": "詐欺背信及重利罪",
+					"start": 33900,
+					"end": 34500
+				},
+				{
+					"type": "章",
+					"number": 3300,
+					"title": "恐嚇及擄人勒贖罪",
+					"start": 34600,
+					"end": 34801
+				},
+				{
+					"type": "章",
+					"number": 3400,
+					"title": "贓物罪",
+					"start": 34900,
+					"end": 35100
+				},
+				{
+					"type": "章",
+					"number": 3500,
+					"title": "毀棄損壞罪",
+					"start": 35200,
+					"end": 35700
+				},
+				{
+					"type": "章",
+					"number": 3600,
+					"title": "妨害電腦使用罪",
+					"start": 35800,
+					"end": 36300
+				}
+			]
 		}
 	],
 	"articles": [

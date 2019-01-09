@@ -20,25 +20,29 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 200
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "期貨結算機構之設置",
-			"start": 300
+			"start": 300,
+			"end": 800
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "期貨交易所或其他機構申請兼營期貨結算",
-			"start": 900
+			"start": 900,
+			"end": 1500
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "附則",
-			"start": 1600
+			"start": 1600,
+			"end": 1800
 		}
 	],
 	"articles": [

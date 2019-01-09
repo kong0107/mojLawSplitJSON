@@ -19,25 +19,29 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 100
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "會議任務、成員及遴選事項",
-			"start": 200
+			"start": 200,
+			"end": 500
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "審查會議及評估會議之運作方式",
-			"start": 600
+			"start": 600,
+			"end": 1000
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "附則",
-			"start": 1100
+			"start": 1100,
+			"end": 1400
 		}
 	],
 	"articles": [

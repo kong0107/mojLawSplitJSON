@@ -43,43 +43,50 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General",
-			"start": 100
+			"start": 100,
+			"end": 400
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Tax Scope and Tax Rates",
-			"start": 500
+			"start": 500,
+			"end": 600
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Exemptions",
-			"start": 700
+			"start": 700,
+			"end": 800
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Collection Procedure",
-			"start": 900
+			"start": 900,
+			"end": 1900
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Inspection",
-			"start": 2000
+			"start": 2000,
+			"end": 2400
 		},
 		{
 			"type": "chapter",
 			"number": 600,
 			"title": "Penalty",
-			"start": 2500
+			"start": 2500,
+			"end": 3700
 		},
 		{
 			"type": "chapter",
 			"number": 700,
 			"title": "Supplemental Provisions",
-			"start": 3800
+			"start": 3800,
+			"end": 3800
 		}
 	],
 	"articles": [

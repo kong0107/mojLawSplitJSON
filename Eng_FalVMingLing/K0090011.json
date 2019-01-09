@@ -37,31 +37,36 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Principles",
-			"start": 100
+			"start": 100,
+			"end": 400
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Certification",
-			"start": 500
+			"start": 500,
+			"end": 900
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Housing, Facilities, Equipment, Materials, and Data",
-			"start": 1000
+			"start": 1000,
+			"end": 1300
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Personnel",
-			"start": 1400
+			"start": 1400,
+			"end": 2000
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Operating Rule",
-			"start": 2100
+			"start": 2100,
+			"end": 3500
 		}
 	],
 	"articles": [

@@ -23,43 +23,50 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 400
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "編制及職掌",
-			"start": 500
+			"start": 500,
+			"end": 2100
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "入院出院",
-			"start": 2200
+			"start": 2200,
+			"end": 3300
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "個案分析",
-			"start": 3400
+			"start": 3400,
+			"end": 3700
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "教育及管理",
-			"start": 3800
+			"start": 3800,
+			"end": 4600
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "獎懲",
-			"start": 4700
+			"start": 4700,
+			"end": 5000
 		},
 		{
 			"type": "章",
 			"number": 700,
 			"title": "附則",
-			"start": 5100
+			"start": 5100,
+			"end": 5200
 		}
 	],
 	"articles": [

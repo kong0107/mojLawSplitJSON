@@ -19,109 +19,135 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Principles",
-			"start": 100
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "General Provisions",
-			"start": 100
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Retirement and Benefit Payment Fund Reserve and Management",
-			"start": 600
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Calculation of Years of Service for Retirement and Benefits Entitlement and Related Matters",
-			"start": 1200
+			"start": 100,
+			"end": 1600,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "General Provisions",
+					"start": 100,
+					"end": 500
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Retirement and Benefit Payment Fund Reserve and Management",
+					"start": 600,
+					"end": 1100
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Calculation of Years of Service for Retirement and Benefits Entitlement and Related Matters",
+					"start": 1200,
+					"end": 1600
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Retirement",
-			"start": 1700
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Types of Retirement and Criteria",
-			"start": 1700
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Retirement Payments",
-			"start": 2700
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Lump-sum Survivor Benefits and Survivor Annuity",
-			"start": 4300
+			"start": 1700,
+			"end": 5000,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Types of Retirement and Criteria",
+					"start": 1700,
+					"end": 2600
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Retirement Payments",
+					"start": 2700,
+					"end": 4200
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Lump-sum Survivor Benefits and Survivor Annuity",
+					"start": 4300,
+					"end": 5000
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Bereavement Compensation",
-			"start": 5100
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Criteria and Grounds for Bereavement Compensation",
-			"start": 5100
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Payment of Bereavement Compensation",
-			"start": 5400
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Recipients of Bereavement Compensation",
-			"start": 6200
+			"start": 5100,
+			"end": 6300,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Criteria and Grounds for Bereavement Compensation",
+					"start": 5100,
+					"end": 5300
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Payment of Bereavement Compensation",
+					"start": 5400,
+					"end": 6100
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Recipients of Bereavement Compensation",
+					"start": 6200,
+					"end": 6300
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Retirement and Benefit Payments - Payment (Disbursement), Guarantees, and Alterations",
-			"start": 6400
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Payment of Retirement and Benefit Payments",
-			"start": 6400
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Retirement and Benefit Payment Alterations and Guarantees",
-			"start": 7500
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Allocation of Retirement and Benefit Payments",
-			"start": 8300
+			"start": 6400,
+			"end": 8500,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Payment of Retirement and Benefit Payments",
+					"start": 6400,
+					"end": 7400
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Retirement and Benefit Payment Alterations and Guarantees",
+					"start": 7500,
+					"end": 8200
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Allocation of Retirement and Benefit Payments",
+					"start": 8300,
+					"end": 8500
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Years of Service System Transitions",
-			"start": 8600
+			"start": 8600,
+			"end": 8800
 		},
 		{
 			"type": "chapter",
 			"number": 600,
 			"title": "Supplementary Provisions",
-			"start": 8900
+			"start": 8900,
+			"end": 10000
 		}
 	],
 	"articles": [

@@ -21,133 +21,161 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 3000
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "製造安全設施",
-			"start": 3100
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "甲類製造事業單位之固定式製造設備",
-			"start": 3100
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "甲類製造事業單位之第二種製造設備",
-			"start": 8400
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "甲類製造事業單位之加氣站",
-			"start": 8500
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "甲類製造事業單位之移動式製造設備",
-			"start": 8800
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "乙類製造事業單位之製造設備",
-			"start": 9500
+			"start": 3100,
+			"end": 10300,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "甲類製造事業單位之固定式製造設備",
+					"start": 3100,
+					"end": 8300
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "甲類製造事業單位之第二種製造設備",
+					"start": 8400,
+					"end": 8400
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "甲類製造事業單位之加氣站",
+					"start": 8500,
+					"end": 8700
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "甲類製造事業單位之移動式製造設備",
+					"start": 8800,
+					"end": 9400
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "乙類製造事業單位之製造設備",
+					"start": 9500,
+					"end": 10300
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "供應安全設施",
-			"start": 10400
+			"start": 10400,
+			"end": 11200
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "儲存安全設施",
-			"start": 11300
+			"start": 11300,
+			"end": 12200
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "運輸安全設施",
-			"start": 12300
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "固定於車輛之容器之運輸",
-			"start": 12300
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "非固定於車輛之容器之運輸",
-			"start": 14200
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "導管運輸",
-			"start": 15300
+			"start": 12300,
+			"end": 15300,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "固定於車輛之容器之運輸",
+					"start": 12300,
+					"end": 14100
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "非固定於車輛之容器之運輸",
+					"start": 14200,
+					"end": 15200
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "導管運輸",
+					"start": 15300,
+					"end": 15300
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "高壓氣體消費設施",
-			"start": 15400
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "特定高壓氣體消費設施",
-			"start": 15400
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "特定液化石油氣消費設施",
-			"start": 17600
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "可燃性氣體等消費設施",
-			"start": 17900
+			"start": 15400,
+			"end": 19200,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "特定高壓氣體消費設施",
+					"start": 15400,
+					"end": 17500
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "特定液化石油氣消費設施",
+					"start": 17600,
+					"end": 17800
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "可燃性氣體等消費設施",
+					"start": 17900,
+					"end": 19200
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 700,
 			"title": "冷凍機器",
-			"start": 19300
+			"start": 19300,
+			"end": 20700
 		},
 		{
 			"type": "章",
 			"number": 800,
 			"title": "設施之其他規定",
-			"start": 20800
+			"start": 20800,
+			"end": 20900
 		},
 		{
 			"type": "章",
 			"number": 900,
 			"title": "可燃性氣體等之廢棄",
-			"start": 21000
+			"start": 21000,
+			"end": 21700
 		},
 		{
 			"type": "章",
 			"number": 1000,
 			"title": "安全管理",
-			"start": 21800
+			"start": 21800,
+			"end": 24000
 		},
 		{
 			"type": "章",
 			"number": 1100,
 			"title": "附則",
-			"start": 24100
+			"start": 24100,
+			"end": 24500
 		}
 	],
 	"articles": [

@@ -45,67 +45,80 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Principles",
-			"start": 100
+			"start": 100,
+			"end": 1101
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Issuing Stock",
-			"start": 1200
+			"start": 1200,
+			"end": 1900
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Issuance of Corporate Bonds",
-			"start": 2000
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Ordinary Corporate Bonds",
-			"start": 2000
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Convertible Bonds",
-			"start": 2700
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Corporate Bonds with Equity Warrants",
-			"start": 3800
+			"start": 2000,
+			"end": 4900,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Ordinary Corporate Bonds",
+					"start": 2000,
+					"end": 2600
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Convertible Bonds",
+					"start": 2700,
+					"end": 3700
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Corporate Bonds with Equity Warrants",
+					"start": 3800,
+					"end": 4900
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Issuance of Employee Stock Warrants and New Restricted Employee Shares",
-			"start": 5000
+			"start": 5000,
+			"end": 6009
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Secondary Distributions",
-			"start": 6100
+			"start": 6100,
+			"end": 6500
 		},
 		{
 			"type": "chapter",
 			"number": 600,
 			"title": "Retroactive Handling of Public Issuance Procedures",
-			"start": 6600
+			"start": 6600,
+			"end": 7100
 		},
 		{
 			"type": "chapter",
 			"number": 700,
 			"title": "Distribution of Bonus Shares and Capital Reductions",
-			"start": 7200
+			"start": 7200,
+			"end": 7400
 		},
 		{
 			"type": "chapter",
 			"number": 800,
 			"title": "Supplementary Provisions",
-			"start": 7500
+			"start": 7500,
+			"end": 7600
 		}
 	],
 	"articles": [

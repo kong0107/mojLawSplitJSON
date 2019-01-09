@@ -27,49 +27,59 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 400
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "少年法院之組織",
-			"start": 500
+			"start": 500,
+			"end": 1300
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "少年保護事件",
-			"start": 1400
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "調查及審理",
-			"start": 1400
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "保護處分之執行",
-			"start": 5000
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "抗告及重新審理",
-			"start": 6100
+			"start": 1400,
+			"end": 6402,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "調查及審理",
+					"start": 1400,
+					"end": 4900
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "保護處分之執行",
+					"start": 5000,
+					"end": 6000
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "抗告及重新審理",
+					"start": 6100,
+					"end": 6402
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "少年刑事案件",
-			"start": 6500
+			"start": 6500,
+			"end": 8200
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "附則",
-			"start": 8300
+			"start": 8300,
+			"end": 8700
 		}
 	],
 	"articles": [

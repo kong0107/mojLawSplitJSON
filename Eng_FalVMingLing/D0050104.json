@@ -14,67 +14,80 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Principles",
-			"start": 100
+			"start": 100,
+			"end": 300
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Industrial board of trade",
-			"start": 400
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Establishment",
-			"start": 400
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Members",
-			"start": 1000
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Staff",
-			"start": 1700
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "Meeting",
-			"start": 2600
-		},
-		{
-			"type": "section",
-			"number": 500,
-			"title": "Fund",
-			"start": 3500
-		},
-		{
-			"type": "section",
-			"number": 600,
-			"title": "National leagues of industrial boards of trade",
-			"start": 3900
+			"start": 400,
+			"end": 4200,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Establishment",
+					"start": 400,
+					"end": 900
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Members",
+					"start": 1000,
+					"end": 1600
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Staff",
+					"start": 1700,
+					"end": 2500
+				},
+				{
+					"type": "section",
+					"number": 400,
+					"title": "Meeting",
+					"start": 2600,
+					"end": 3400
+				},
+				{
+					"type": "section",
+					"number": 500,
+					"title": "Fund",
+					"start": 3500,
+					"end": 3800
+				},
+				{
+					"type": "section",
+					"number": 600,
+					"title": "National leagues of industrial boards of trade",
+					"start": 3900,
+					"end": 4200
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Industrial Association",
-			"start": 4300
+			"start": 4300,
+			"end": 4600
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Supervision",
-			"start": 4700
+			"start": 4700,
+			"end": 4900
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Supplementary Provisions",
-			"start": 5000
+			"start": 5000,
+			"end": 5500
 		}
 	],
 	"articles": [

@@ -15,61 +15,75 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Principles",
-			"start": 100
+			"start": 100,
+			"end": 600
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Establishment",
-			"start": 700
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Establishment of schools",
-			"start": 700
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Establishment and management of branch campuses and branch departments",
-			"start": 1300
+			"start": 700,
+			"end": 1800,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Establishment of schools",
+					"start": 700,
+					"end": 1200
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Establishment and management of branch campuses and branch departments",
+					"start": 1300,
+					"end": 1800
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Change",
-			"start": 1801
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Change of Name",
-			"start": 1801
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Restructuring",
-			"start": 1900
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Merger",
-			"start": 2300
+			"start": 1801,
+			"end": 2900,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Change of Name",
+					"start": 1801,
+					"end": 1802
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Restructuring",
+					"start": 1900,
+					"end": 2200
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Merger",
+					"start": 2300,
+					"end": 2900
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Discontinuation",
-			"start": 3000
+			"start": 3000,
+			"end": 3300
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Supplementary Provisions",
-			"start": 3301
+			"start": 3301,
+			"end": 3400
 		}
 	],
 	"articles": [

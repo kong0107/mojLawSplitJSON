@@ -19,31 +19,36 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 1500
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "廠商登記",
-			"start": 1600
+			"start": 1600,
+			"end": 1800
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "帳簿憑證及稽徵",
-			"start": 1900
+			"start": 1900,
+			"end": 2800
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "免稅及退稅",
-			"start": 2900
+			"start": 2900,
+			"end": 3200
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "附則",
-			"start": 3300
+			"start": 3300,
+			"end": 3300
 		}
 	],
 	"articles": [

@@ -28,31 +28,36 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 400
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "經營許可",
-			"start": 500
+			"start": 500,
+			"end": 2200
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "營運管理",
-			"start": 2300
+			"start": 2300,
+			"end": 5500
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "罰則",
-			"start": 5600
+			"start": 5600,
+			"end": 7200
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "附則",
-			"start": 7300
+			"start": 7300,
+			"end": 7700
 		}
 	],
 	"articles": [

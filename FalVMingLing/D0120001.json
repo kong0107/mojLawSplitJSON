@@ -28,43 +28,50 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 400
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "火災預防",
-			"start": 500
+			"start": 500,
+			"end": 1502
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "災害搶救",
-			"start": 1600
+			"start": 1600,
+			"end": 2500
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "火災調查與鑑定",
-			"start": 2600
+			"start": 2600,
+			"end": 2700
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "民力運用",
-			"start": 2800
+			"start": 2800,
+			"end": 3200
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "罰則",
-			"start": 3300
+			"start": 3300,
+			"end": 4500
 		},
 		{
 			"type": "章",
 			"number": 700,
 			"title": "附則",
-			"start": 4600
+			"start": 4600,
+			"end": 4700
 		}
 	],
 	"articles": [

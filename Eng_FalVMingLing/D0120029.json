@@ -33,181 +33,223 @@
 			"type": "part",
 			"number": 100,
 			"title": "General Provisions",
-			"start": 100
+			"start": 100,
+			"end": 300
 		},
 		{
 			"type": "part",
 			"number": 200,
 			"title": "Fire Protection Design",
-			"start": 400
+			"start": 400,
+			"end": 3000
 		},
 		{
 			"type": "part",
 			"number": 300,
 			"title": "Fire Safety Equipments",
-			"start": 3100
-		},
-		{
-			"type": "chapter",
-			"number": 100,
-			"title": "Fire Extinguishing Equipments",
-			"start": 3100
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Fire Extinguisher and Indoor Fire Hydrant Equipments",
-			"start": 3100
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Outdoor Fire Hydrant Equipments",
-			"start": 3900
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Automatic Sprinkler system",
-			"start": 4300
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "Water Fog Fire Extinguishing Equipments",
-			"start": 6100
-		},
-		{
-			"type": "section",
-			"number": 500,
-			"title": "Foam Fire Extinguishing Equipments",
-			"start": 6900
-		},
-		{
-			"type": "section",
-			"number": 600,
-			"title": "Carbon Dioxide Fire Extinguishing Equipments",
-			"start": 8200
-		},
-		{
-			"type": "section",
-			"number": 700,
-			"title": "Dry Chemicals Fire Extinguishing Equipments and Simple Automatic Fire Extinguishing Equipments",
-			"start": 9800
-		},
-		{
-			"type": "chapter",
-			"number": 200,
-			"title": "Alarm Equipments",
-			"start": 11200
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Automatic Fire Alarm Equipments",
-			"start": 11200
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Manual Fire Alarm Equipments",
-			"start": 12900
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Emergency Broadcasting Equipments",
-			"start": 13300
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "Automatic Fire Alarm Equipments for Gas Leakage",
-			"start": 14000
-		},
-		{
-			"type": "chapter",
-			"number": 300,
-			"title": "Refuge and Escape Equipments",
-			"start": 14600
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Indicating Equipment",
-			"start": 14600
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Refuge Appliances",
-			"start": 15700
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Emergency Lighting Equipments",
-			"start": 17500
-		},
-		{
-			"type": "chapter",
-			"number": 400,
-			"title": "Necessary Equipments for Fire Rescue",
-			"start": 18000
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Connecting delivery pipe",
-			"start": 18000
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Fire Water Pool",
-			"start": 18500
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Smoke Control Equipments",
-			"start": 18800
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "Emergency Power Sockets",
-			"start": 19100
-		},
-		{
-			"type": "section",
-			"number": 500,
-			"title": "Wireless Communication Auxiliary Equipments",
-			"start": 19200
+			"start": 3100,
+			"end": 19200,
+			"children": [
+				{
+					"type": "chapter",
+					"number": 100,
+					"title": "Fire Extinguishing Equipments",
+					"start": 3100,
+					"end": 23900,
+					"children": [
+						{
+							"type": "section",
+							"number": 100,
+							"title": "Fire Extinguisher and Indoor Fire Hydrant Equipments",
+							"start": 3100,
+							"end": 3800
+						},
+						{
+							"type": "section",
+							"number": 200,
+							"title": "Outdoor Fire Hydrant Equipments",
+							"start": 3900,
+							"end": 4200
+						},
+						{
+							"type": "section",
+							"number": 300,
+							"title": "Automatic Sprinkler system",
+							"start": 4300,
+							"end": 6000
+						},
+						{
+							"type": "section",
+							"number": 400,
+							"title": "Water Fog Fire Extinguishing Equipments",
+							"start": 6100,
+							"end": 6800
+						},
+						{
+							"type": "section",
+							"number": 500,
+							"title": "Foam Fire Extinguishing Equipments",
+							"start": 6900,
+							"end": 8100
+						},
+						{
+							"type": "section",
+							"number": 600,
+							"title": "Carbon Dioxide Fire Extinguishing Equipments",
+							"start": 8200,
+							"end": 9700
+						},
+						{
+							"type": "section",
+							"number": 700,
+							"title": "Dry Chemicals Fire Extinguishing Equipments and Simple Automatic Fire Extinguishing Equipments",
+							"start": 9800,
+							"end": 23900
+						}
+					]
+				},
+				{
+					"type": "chapter",
+					"number": 200,
+					"title": "Alarm Equipments",
+					"start": 11200,
+					"end": 14500,
+					"children": [
+						{
+							"type": "section",
+							"number": 100,
+							"title": "Automatic Fire Alarm Equipments",
+							"start": 11200,
+							"end": 12800
+						},
+						{
+							"type": "section",
+							"number": 200,
+							"title": "Manual Fire Alarm Equipments",
+							"start": 12900,
+							"end": 13200
+						},
+						{
+							"type": "section",
+							"number": 300,
+							"title": "Emergency Broadcasting Equipments",
+							"start": 13300,
+							"end": 13900
+						},
+						{
+							"type": "section",
+							"number": 400,
+							"title": "Automatic Fire Alarm Equipments for Gas Leakage",
+							"start": 14000,
+							"end": 14500
+						}
+					]
+				},
+				{
+					"type": "chapter",
+					"number": 300,
+					"title": "Refuge and Escape Equipments",
+					"start": 14600,
+					"end": 17900,
+					"children": [
+						{
+							"type": "section",
+							"number": 100,
+							"title": "Indicating Equipment",
+							"start": 14600,
+							"end": 15600
+						},
+						{
+							"type": "section",
+							"number": 200,
+							"title": "Refuge Appliances",
+							"start": 15700,
+							"end": 17400
+						},
+						{
+							"type": "section",
+							"number": 300,
+							"title": "Emergency Lighting Equipments",
+							"start": 17500,
+							"end": 17900
+						}
+					]
+				},
+				{
+					"type": "chapter",
+					"number": 400,
+					"title": "Necessary Equipments for Fire Rescue",
+					"start": 18000,
+					"end": 19200,
+					"children": [
+						{
+							"type": "section",
+							"number": 100,
+							"title": "Connecting delivery pipe",
+							"start": 18000,
+							"end": 18400
+						},
+						{
+							"type": "section",
+							"number": 200,
+							"title": "Fire Water Pool",
+							"start": 18500,
+							"end": 18700
+						},
+						{
+							"type": "section",
+							"number": 300,
+							"title": "Smoke Control Equipments",
+							"start": 18800,
+							"end": 19000
+						},
+						{
+							"type": "section",
+							"number": 400,
+							"title": "Emergency Power Sockets",
+							"start": 19100,
+							"end": 19100
+						},
+						{
+							"type": "section",
+							"number": 500,
+							"title": "Wireless Communication Auxiliary Equipments",
+							"start": 19200,
+							"end": 19200
+						}
+					]
+				}
+			]
 		},
 		{
 			"type": "part",
 			"number": 400,
 			"title": "Fire Safety Design and Equipments for Public Hazardous Goods, Inflammable High-pressure Gas, Gas Station, Air Supply station, Storage Tank of Natural Gas, and Other Places",
-			"start": 19300
-		},
-		{
-			"type": "chapter",
-			"number": 100,
-			"title": "Fire Protection Design",
-			"start": 19300
-		},
-		{
-			"type": "chapter",
-			"number": 200,
-			"title": "Fire Safety Equipments",
-			"start": 20900
+			"start": 19300,
+			"end": 23300,
+			"children": [
+				{
+					"type": "chapter",
+					"number": 100,
+					"title": "Fire Protection Design",
+					"start": 19300,
+					"end": 20800
+				},
+				{
+					"type": "chapter",
+					"number": 200,
+					"title": "Fire Safety Equipments",
+					"start": 20900,
+					"end": 23300
+				}
+			]
 		},
 		{
 			"type": "part",
 			"number": 500,
 			"title": "Supplementary Articles",
-			"start": 23400
+			"start": 23400,
+			"end": 23900
 		}
 	],
 	"articles": [

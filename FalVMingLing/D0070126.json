@@ -19,31 +19,36 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 400
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "建築經理公司之設立",
-			"start": 500
+			"start": 500,
+			"end": 800
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "建築經理公司之業務",
-			"start": 900
+			"start": 900,
+			"end": 2900
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "建築經理公司之管理",
-			"start": 3000
+			"start": 3000,
+			"end": 3600
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "附則",
-			"start": 3700
+			"start": 3700,
+			"end": 3700
 		}
 	],
 	"articles": [

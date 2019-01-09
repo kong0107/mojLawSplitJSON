@@ -17,55 +17,66 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Principles",
-			"start": 100
+			"start": 100,
+			"end": 500
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Disposition Procedures",
-			"start": 600
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Establishment of Disposition Procedures",
-			"start": 600
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Acquisition or Disposal of Assets",
-			"start": 900
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Related Party Transactions",
-			"start": 1300
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "Engaging in Derivatives Trading",
-			"start": 1800
-		},
-		{
-			"type": "section",
-			"number": 500,
-			"title": "Mergers and Consolidations, Splits, Acquisitions, and Assignment of Shares",
-			"start": 2200
+			"start": 600,
+			"end": 2900,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Establishment of Disposition Procedures",
+					"start": 600,
+					"end": 800
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Acquisition or Disposal of Assets",
+					"start": 900,
+					"end": 1200
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Related Party Transactions",
+					"start": 1300,
+					"end": 1700
+				},
+				{
+					"type": "section",
+					"number": 400,
+					"title": "Engaging in Derivatives Trading",
+					"start": 1800,
+					"end": 2100
+				},
+				{
+					"type": "section",
+					"number": 500,
+					"title": "Mergers and Consolidations, Splits, Acquisitions, and Assignment of Shares",
+					"start": 2200,
+					"end": 2900
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Public Disclosure of Information",
-			"start": 3000
+			"start": 3000,
+			"end": 3100
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Additional Provisions",
-			"start": 3200
+			"start": 3200,
+			"end": 3400
 		}
 	],
 	"articles": [

@@ -21,43 +21,52 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 1301
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "委託經營之方式",
-			"start": 1400
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "民間機構未參與科技工業機構整建或擴建之委託經營",
-			"start": 1400
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "民間機構參與科技工業機構整建或擴建之委託經營",
-			"start": 1700
+			"start": 1400,
+			"end": 1900,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "民間機構未參與科技工業機構整建或擴建之委託經營",
+					"start": 1400,
+					"end": 1600
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "民間機構參與科技工業機構整建或擴建之委託經營",
+					"start": 1700,
+					"end": 1900
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "委託經營契約要項及履約管理",
-			"start": 2000
+			"start": 2000,
+			"end": 2700
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "機構委託經營時人員之疏處及權益保障",
-			"start": 2800
+			"start": 2800,
+			"end": 3300
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "附則",
-			"start": 3400
+			"start": 3400,
+			"end": 3800
 		}
 	],
 	"articles": [

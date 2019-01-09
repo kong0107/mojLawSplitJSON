@@ -23,25 +23,29 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 300
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "組織及備案",
-			"start": 400
+			"start": 400,
+			"end": 1000
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "工作及考核",
-			"start": 1100
+			"start": 1100,
+			"end": 1400
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "附則",
-			"start": 1500
+			"start": 1500,
+			"end": 1700
 		}
 	],
 	"articles": [

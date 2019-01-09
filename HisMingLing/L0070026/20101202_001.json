@@ -14,31 +14,38 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 100
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "人工生殖機構許可之條件",
-			"start": 200
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "醫療機構",
-			"start": 200
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "公益法人",
-			"start": 1300
+			"start": 200,
+			"end": 2300,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "醫療機構",
+					"start": 200,
+					"end": 1200
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "公益法人",
+					"start": 1300,
+					"end": 2300
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "附則",
-			"start": 2400
+			"start": 2400,
+			"end": 3200
 		}
 	],
 	"articles": [

@@ -44,37 +44,43 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 600
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "體格檢查",
-			"start": 700
+			"start": 700,
+			"end": 1400
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "體位判定、編號、疾病、缺點分類",
-			"start": 1500
+			"start": 1500,
+			"end": 2200
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "體位分類運用",
-			"start": 2300
+			"start": 2300,
+			"end": 2900
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "體位分類資料管理",
-			"start": 3000
+			"start": 3000,
+			"end": 3500
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "附則",
-			"start": 3600
+			"start": 3600,
+			"end": 3900
 		}
 	],
 	"articles": [

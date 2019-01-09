@@ -14,169 +14,205 @@
 			"type": "編",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 200
 		},
 		{
 			"type": "編",
 			"number": 200,
 			"title": "藥品優良製造規範",
-			"start": 300
-		},
-		{
-			"type": "章",
-			"number": 100,
-			"title": "西藥",
-			"start": 300
-		},
-		{
-			"type": "章",
-			"number": 200,
-			"title": "中藥",
-			"start": 400
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "通則",
-			"start": 400
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "環境衛生",
-			"start": 700
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "廠房及設施",
-			"start": 800
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "設備",
-			"start": 1500
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "組織及人事",
-			"start": 2200
-		},
-		{
-			"type": "節",
-			"number": 600,
-			"title": "原料與產品容器及封蓋之管制",
-			"start": 2600
-		},
-		{
-			"type": "節",
-			"number": 700,
-			"title": "製程管制",
-			"start": 3000
-		},
-		{
-			"type": "節",
-			"number": 800,
-			"title": "包裝及標示管制",
-			"start": 3600
-		},
-		{
-			"type": "節",
-			"number": 900,
-			"title": "儲存及運銷",
-			"start": 4000
-		},
-		{
-			"type": "節",
-			"number": 1000,
-			"title": "品質管制",
-			"start": 4200
-		},
-		{
-			"type": "節",
-			"number": 1100,
-			"title": "紀錄及報告",
-			"start": 4500
-		},
-		{
-			"type": "節",
-			"number": 1200,
-			"title": "申訴及退回產品之處理",
-			"start": 5200
-		},
-		{
-			"type": "節",
-			"number": 1300,
-			"title": "臨床試驗用藥",
-			"start": 5400
+			"start": 300,
+			"end": 5900,
+			"children": [
+				{
+					"type": "章",
+					"number": 100,
+					"title": "西藥",
+					"start": 300,
+					"end": 300
+				},
+				{
+					"type": "章",
+					"number": 200,
+					"title": "中藥",
+					"start": 400,
+					"end": 5900,
+					"children": [
+						{
+							"type": "節",
+							"number": 100,
+							"title": "通則",
+							"start": 400,
+							"end": 600
+						},
+						{
+							"type": "節",
+							"number": 200,
+							"title": "環境衛生",
+							"start": 700,
+							"end": 700
+						},
+						{
+							"type": "節",
+							"number": 300,
+							"title": "廠房及設施",
+							"start": 800,
+							"end": 1400
+						},
+						{
+							"type": "節",
+							"number": 400,
+							"title": "設備",
+							"start": 1500,
+							"end": 2100
+						},
+						{
+							"type": "節",
+							"number": 500,
+							"title": "組織及人事",
+							"start": 2200,
+							"end": 2500
+						},
+						{
+							"type": "節",
+							"number": 600,
+							"title": "原料與產品容器及封蓋之管制",
+							"start": 2600,
+							"end": 2900
+						},
+						{
+							"type": "節",
+							"number": 700,
+							"title": "製程管制",
+							"start": 3000,
+							"end": 3500
+						},
+						{
+							"type": "節",
+							"number": 800,
+							"title": "包裝及標示管制",
+							"start": 3600,
+							"end": 3900
+						},
+						{
+							"type": "節",
+							"number": 900,
+							"title": "儲存及運銷",
+							"start": 4000,
+							"end": 4100
+						},
+						{
+							"type": "節",
+							"number": 1000,
+							"title": "品質管制",
+							"start": 4200,
+							"end": 4400
+						},
+						{
+							"type": "節",
+							"number": 1100,
+							"title": "紀錄及報告",
+							"start": 4500,
+							"end": 5100
+						},
+						{
+							"type": "節",
+							"number": 1200,
+							"title": "申訴及退回產品之處理",
+							"start": 5200,
+							"end": 5300
+						},
+						{
+							"type": "節",
+							"number": 1300,
+							"title": "臨床試驗用藥",
+							"start": 5400,
+							"end": 5900
+						}
+					]
+				}
+			]
 		},
 		{
 			"type": "編",
 			"number": 300,
 			"title": "醫療器材優良製造規範",
-			"start": 6000
-		},
-		{
-			"type": "章",
-			"number": 100,
-			"title": "通則",
-			"start": 6000
-		},
-		{
-			"type": "章",
-			"number": 200,
-			"title": "標準模式",
-			"start": 6300
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "品質管理系統",
-			"start": 6300
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "管理階層責任",
-			"start": 6800
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "資源管理",
-			"start": 7900
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "產品實現",
-			"start": 8400
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "量測、分析及改進",
-			"start": 11300
-		},
-		{
-			"type": "章",
-			"number": 300,
-			"title": "精要模式",
-			"start": 12400
-		},
-		{
-			"type": "章",
-			"number": 400,
-			"title": "臨床試驗用醫療器材",
-			"start": 14000
+			"start": 6000,
+			"end": 14500,
+			"children": [
+				{
+					"type": "章",
+					"number": 100,
+					"title": "通則",
+					"start": 6000,
+					"end": 6200
+				},
+				{
+					"type": "章",
+					"number": 200,
+					"title": "標準模式",
+					"start": 6300,
+					"end": 12300,
+					"children": [
+						{
+							"type": "節",
+							"number": 100,
+							"title": "品質管理系統",
+							"start": 6300,
+							"end": 6700
+						},
+						{
+							"type": "節",
+							"number": 200,
+							"title": "管理階層責任",
+							"start": 6800,
+							"end": 7800
+						},
+						{
+							"type": "節",
+							"number": 300,
+							"title": "資源管理",
+							"start": 7900,
+							"end": 8300
+						},
+						{
+							"type": "節",
+							"number": 400,
+							"title": "產品實現",
+							"start": 8400,
+							"end": 11200
+						},
+						{
+							"type": "節",
+							"number": 500,
+							"title": "量測、分析及改進",
+							"start": 11300,
+							"end": 12300
+						}
+					]
+				},
+				{
+					"type": "章",
+					"number": 300,
+					"title": "精要模式",
+					"start": 12400,
+					"end": 13900
+				},
+				{
+					"type": "章",
+					"number": 400,
+					"title": "臨床試驗用醫療器材",
+					"start": 14000,
+					"end": 14500
+				}
+			]
 		},
 		{
 			"type": "編",
 			"number": 400,
 			"title": "附則",
-			"start": 14600
+			"start": 14600,
+			"end": 14600
 		}
 	],
 	"articles": [

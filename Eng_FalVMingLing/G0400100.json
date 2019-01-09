@@ -19,103 +19,126 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Provisions",
-			"start": 100
+			"start": 100,
+			"end": 600
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Futures Exchange",
-			"start": 700
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "General Provision",
-			"start": 700
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Membership Type Futures Exchange",
-			"start": 2100
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Futures Exchange Organized as a Company",
-			"start": 3400
+			"start": 700,
+			"end": 4400,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "General Provision",
+					"start": 700,
+					"end": 2000
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Membership Type Futures Exchange",
+					"start": 2100,
+					"end": 3300
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Futures Exchange Organized as a Company",
+					"start": 3400,
+					"end": 4400
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Futures Clearing Houses",
-			"start": 4500
+			"start": 4500,
+			"end": 5500
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Futures Enterprises",
-			"start": 5600
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Futures Commission Merchants",
-			"start": 5600
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Leverage Transaction Merchants",
-			"start": 8000
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Futures Service Enterprise",
-			"start": 8200
+			"start": 5600,
+			"end": 8800,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Futures Commission Merchants",
+					"start": 5600,
+					"end": 7900
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Leverage Transaction Merchants",
+					"start": 8000,
+					"end": 8100
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Futures Service Enterprise",
+					"start": 8200,
+					"end": 8800
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Futures Associations",
-			"start": 8900
+			"start": 8900,
+			"end": 9400
 		},
 		{
 			"type": "chapter",
 			"number": 600,
 			"title": "Supervision and Administration",
-			"start": 9500
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Supervision",
-			"start": 9500
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Administration",
-			"start": 10400
+			"start": 9500,
+			"end": 10800,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Supervision",
+					"start": 9500,
+					"end": 10300
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Administration",
+					"start": 10400,
+					"end": 10800
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 700,
 			"title": "Arbitration",
-			"start": 10900
+			"start": 10900,
+			"end": 11100
 		},
 		{
 			"type": "chapter",
 			"number": 800,
 			"title": "Penal Provisions",
-			"start": 11200
+			"start": 11200,
+			"end": 12000
 		},
 		{
 			"type": "chapter",
 			"number": 900,
 			"title": "Supplementary Provisions",
-			"start": 12100
+			"start": 12100,
+			"end": 12500
 		}
 	],
 	"articles": [

@@ -52,37 +52,43 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 1100
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "汽車",
-			"start": 1200
+			"start": 1200,
+			"end": 6800
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "慢車",
-			"start": 6900
+			"start": 6900,
+			"end": 7700
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "行人",
-			"start": 7800
+			"start": 7800,
+			"end": 8101
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "道路障礙",
-			"start": 8200
+			"start": 8200,
+			"end": 8400
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "附則",
-			"start": 8500
+			"start": 8500,
+			"end": 9300
 		}
 	],
 	"articles": [

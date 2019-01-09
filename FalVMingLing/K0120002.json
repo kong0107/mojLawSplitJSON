@@ -22,25 +22,29 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 200
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "申請與審核",
-			"start": 300
+			"start": 300,
+			"end": 1200
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "簽約、籌辦與施工",
-			"start": 1300
+			"start": 1300,
+			"end": 2100
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "附則",
-			"start": 2200
+			"start": 2200,
+			"end": 2500
 		}
 	],
 	"articles": [

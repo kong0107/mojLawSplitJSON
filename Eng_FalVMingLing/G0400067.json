@@ -28,67 +28,80 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Principles",
-			"start": 100
+			"start": 100,
+			"end": 1100
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Practice Registration",
-			"start": 1200
+			"start": 1200,
+			"end": 1400
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "CPA Firms",
-			"start": 1500
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Organization and personnel",
-			"start": 1500
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Single-person, co-location, and joint CPA firms",
-			"start": 2000
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Incorporated CPA firms",
-			"start": 2400
+			"start": 1500,
+			"end": 3800,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Organization and personnel",
+					"start": 1500,
+					"end": 1900
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Single-person, co-location, and joint CPA firms",
+					"start": 2000,
+					"end": 2300
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Incorporated CPA firms",
+					"start": 2400,
+					"end": 3800
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Professional Services and Liabilities",
-			"start": 3900
+			"start": 3900,
+			"end": 4900
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Professional Associations",
-			"start": 5000
+			"start": 5000,
+			"end": 6000
 		},
 		{
 			"type": "chapter",
 			"number": 600,
 			"title": "Disciplinary Matters",
-			"start": 6100
+			"start": 6100,
+			"end": 6800
 		},
 		{
 			"type": "chapter",
 			"number": 700,
 			"title": "Penal Provisions",
-			"start": 6900
+			"start": 6900,
+			"end": 7500
 		},
 		{
 			"type": "chapter",
 			"number": 800,
 			"title": "Supplementary Provisions",
-			"start": 7600
+			"start": 7600,
+			"end": 8100
 		}
 	],
 	"articles": [

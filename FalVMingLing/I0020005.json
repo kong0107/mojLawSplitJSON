@@ -22,49 +22,59 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 301
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "預算之編列與支付",
-			"start": 400
+			"start": 400,
+			"end": 600
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "協議",
-			"start": 700
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "代理人",
-			"start": 700
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "協議之進行",
-			"start": 1500
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "協議之期日及期間",
-			"start": 2900
+			"start": 700,
+			"end": 3400,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "代理人",
+					"start": 700,
+					"end": 1400
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "協議之進行",
+					"start": 1500,
+					"end": 2800
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "協議之期日及期間",
+					"start": 2900,
+					"end": 3400
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "訴訟及強制執行",
-			"start": 3500
+			"start": 3500,
+			"end": 4102
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "附則",
-			"start": 4200
+			"start": 4200,
+			"end": 4500
 		}
 	],
 	"articles": [

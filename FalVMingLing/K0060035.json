@@ -47,49 +47,59 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 300
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "經營特許",
-			"start": 400
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "通則",
-			"start": 400
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "申請與審查",
-			"start": 1300
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "籌設",
-			"start": 1800
+			"start": 400,
+			"end": 3400,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "通則",
+					"start": 400,
+					"end": 1200
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "申請與審查",
+					"start": 1300,
+					"end": 1700
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "籌設",
+					"start": 1800,
+					"end": 3400
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "技術監理",
-			"start": 3500
+			"start": 3500,
+			"end": 6200
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "業務管理",
-			"start": 6300
+			"start": 6300,
+			"end": 8200
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "附則",
-			"start": 8300
+			"start": 8300,
+			"end": 8800
 		}
 	],
 	"articles": [

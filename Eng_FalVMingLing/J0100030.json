@@ -18,37 +18,43 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General",
-			"start": 100
+			"start": 100,
+			"end": 200
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Registration for Monitoring Inspection",
-			"start": 300
+			"start": 300,
+			"end": 600
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Application for Inspection",
-			"start": 700
+			"start": 700,
+			"end": 1301
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Execution method",
-			"start": 1400
+			"start": 1400,
+			"end": 2102
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Issuance of Inspection Certificates",
-			"start": 2200
+			"start": 2200,
+			"end": 2900
 		},
 		{
 			"type": "chapter",
 			"number": 600,
 			"title": "Other",
-			"start": 3000
+			"start": 3000,
+			"end": 3100
 		}
 	],
 	"articles": [

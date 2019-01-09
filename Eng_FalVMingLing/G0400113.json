@@ -20,31 +20,36 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Principles",
-			"start": 100
+			"start": 100,
+			"end": 1600
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Finances",
-			"start": 1700
+			"start": 1700,
+			"end": 2100
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Operations",
-			"start": 2200
+			"start": 2200,
+			"end": 4800
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Personnel",
-			"start": 4900
+			"start": 4900,
+			"end": 6500
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Supplementary Provisions",
-			"start": 6600
+			"start": 6600,
+			"end": 6700
 		}
 	],
 	"articles": [

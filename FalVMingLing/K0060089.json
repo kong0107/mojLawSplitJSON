@@ -29,31 +29,36 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 300
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "基地臺設置",
-			"start": 400
+			"start": 400,
+			"end": 1200
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "工程技術標準",
-			"start": 1300
+			"start": 1300,
+			"end": 1700
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "頻率及電功率",
-			"start": 1800
+			"start": 1800,
+			"end": 1900
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "附則",
-			"start": 2000
+			"start": 2000,
+			"end": 2400
 		}
 	],
 	"articles": [

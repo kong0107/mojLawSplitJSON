@@ -27,91 +27,108 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 500
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "選舉罷免機關",
-			"start": 600
+			"start": 600,
+			"end": 1000
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "選舉",
-			"start": 1100
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "選舉人",
-			"start": 1100
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "選舉人名冊",
-			"start": 1600
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "候選人",
-			"start": 2000
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "選舉公告",
-			"start": 3400
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "選舉活動",
-			"start": 3600
-		},
-		{
-			"type": "節",
-			"number": 600,
-			"title": "投票及開票",
-			"start": 5300
-		},
-		{
-			"type": "節",
-			"number": 700,
-			"title": "選舉結果",
-			"start": 6300
-		},
-		{
-			"type": "節",
-			"number": 800,
-			"title": "副總統之缺位補選",
-			"start": 6800
+			"start": 1100,
+			"end": 6900,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "選舉人",
+					"start": 1100,
+					"end": 1500
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "選舉人名冊",
+					"start": 1600,
+					"end": 1900
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "候選人",
+					"start": 2000,
+					"end": 3300
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "選舉公告",
+					"start": 3400,
+					"end": 3500
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "選舉活動",
+					"start": 3600,
+					"end": 5200
+				},
+				{
+					"type": "節",
+					"number": 600,
+					"title": "投票及開票",
+					"start": 5300,
+					"end": 6200
+				},
+				{
+					"type": "節",
+					"number": 700,
+					"title": "選舉結果",
+					"start": 6300,
+					"end": 6700
+				},
+				{
+					"type": "節",
+					"number": 800,
+					"title": "副總統之缺位補選",
+					"start": 6800,
+					"end": 6900
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "罷免",
-			"start": 7000
+			"start": 7000,
+			"end": 7800
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "妨害選舉罷免之處罰",
-			"start": 7900
+			"start": 7900,
+			"end": 10100
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "選舉罷免訴訟",
-			"start": 10200
+			"start": 10200,
+			"end": 11200
 		},
 		{
 			"type": "章",
 			"number": 700,
 			"title": "附則",
-			"start": 11300
+			"start": 11300,
+			"end": 11700
 		}
 	],
 	"articles": [

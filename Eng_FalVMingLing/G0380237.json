@@ -15,49 +15,59 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Provisions",
-			"start": 100
+			"start": 100,
+			"end": 600
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Application and Approval",
-			"start": 700
+			"start": 700,
+			"end": 1400
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Supervision and Administration",
-			"start": 1500
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Specialized Electronic PaymentInstitutions",
-			"start": 1500
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Dual-status Electronic Payment Institutions",
-			"start": 3900
+			"start": 1500,
+			"end": 4100,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Specialized Electronic PaymentInstitutions",
+					"start": 1500,
+					"end": 3800
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Dual-status Electronic Payment Institutions",
+					"start": 3900,
+					"end": 4100
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Trade Association",
-			"start": 4200
+			"start": 4200,
+			"end": 4300
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Penal Provisions",
-			"start": 4400
+			"start": 4400,
+			"end": 5300
 		},
 		{
 			"type": "chapter",
 			"number": 600,
 			"title": "Supplementary Provisions",
-			"start": 5400
+			"start": 5400,
+			"end": 5800
 		}
 	],
 	"articles": [

@@ -22,31 +22,36 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Provisions",
-			"start": 100
+			"start": 100,
+			"end": 200
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Establishment and Changes",
-			"start": 300
+			"start": 300,
+			"end": 1300
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Business and Management",
-			"start": 1400
+			"start": 1400,
+			"end": 3800
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Consumer Protection",
-			"start": 3900
+			"start": 3900,
+			"end": 5300
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Penal Provisions and Supplemental Provisions",
-			"start": 5400
+			"start": 5400,
+			"end": 5600
 		}
 	],
 	"articles": [

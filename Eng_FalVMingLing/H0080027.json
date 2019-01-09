@@ -20,43 +20,52 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "Overall Rules",
-			"start": 100
+			"start": 100,
+			"end": 900
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Practice of Special Education",
-			"start": 1000
-		},
-		{
-			"type": "part",
-			"number": 100,
-			"title": "General Rules",
-			"start": 1000
-		},
-		{
-			"type": "part",
-			"number": 200,
-			"title": "Education for Disabled",
-			"start": 2200
-		},
-		{
-			"type": "part",
-			"number": 300,
-			"title": "Gifted Education",
-			"start": 3500
+			"start": 1000,
+			"end": 4100,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "General Rules",
+					"start": 1000,
+					"end": 2100
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Education for Disabled",
+					"start": 2200,
+					"end": 3400
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Gifted Education",
+					"start": 3500,
+					"end": 4100
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Special Education Support Systems",
-			"start": 4200
+			"start": 4200,
+			"end": 4700
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Affix Rules",
-			"start": 4800
+			"start": 4800,
+			"end": 5100
 		}
 	],
 	"articles": [

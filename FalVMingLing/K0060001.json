@@ -28,49 +28,59 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 1000
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "電信事業之經營",
-			"start": 1100
+			"start": 1100,
+			"end": 3000
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "電信建設與管理",
-			"start": 3100
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "土地之取得與使用",
-			"start": 3100
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "電信設備之維護與管理",
-			"start": 3900
+			"start": 3100,
+			"end": 4500,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "土地之取得與使用",
+					"start": 3100,
+					"end": 3801
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "電信設備之維護與管理",
+					"start": 3900,
+					"end": 4500
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "電信監理",
-			"start": 4600
+			"start": 4600,
+			"end": 5500
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "罰則",
-			"start": 5600
+			"start": 5600,
+			"end": 6800
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "附則",
-			"start": 6900
+			"start": 6900,
+			"end": 7200
 		}
 	],
 	"articles": [

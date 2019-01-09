@@ -37,103 +37,126 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 1000
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "要保機關、被保險人及受益人",
-			"start": 1100
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "要保機關",
-			"start": 1100
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "被保險人",
-			"start": 1400
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "受益人",
-			"start": 1800
+			"start": 1100,
+			"end": 1900,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "要保機關",
+					"start": 1100,
+					"end": 1300
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "被保險人",
+					"start": 1400,
+					"end": 1700
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "受益人",
+					"start": 1800,
+					"end": 1900
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "保險俸（薪）額及保險費",
-			"start": 2000
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "保險俸（薪）額",
-			"start": 2000
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "保險費",
-			"start": 2200
+			"start": 2000,
+			"end": 2400,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "保險俸（薪）額",
+					"start": 2000,
+					"end": 2100
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "保險費",
+					"start": 2200,
+					"end": 2400
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "要保、退保及變更登記",
-			"start": 2500
+			"start": 2500,
+			"end": 3400
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "保險給付",
-			"start": 3500
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "通則",
-			"start": 3500
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "失能給付",
-			"start": 4900
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "養老給付",
-			"start": 5200
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "死亡給付",
-			"start": 7500
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "眷屬喪葬津貼、生育給付及育嬰留職停薪津貼",
-			"start": 8100
+			"start": 3500,
+			"end": 8300,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "通則",
+					"start": 3500,
+					"end": 4800
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "失能給付",
+					"start": 4900,
+					"end": 5100
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "養老給付",
+					"start": 5200,
+					"end": 7400
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "死亡給付",
+					"start": 7500,
+					"end": 8000
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "眷屬喪葬津貼、生育給付及育嬰留職停薪津貼",
+					"start": 8100,
+					"end": 8300
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "業務監督",
-			"start": 8400
+			"start": 8400,
+			"end": 8500
 		},
 		{
 			"type": "章",
 			"number": 700,
 			"title": "附則",
-			"start": 8600
+			"start": 8600,
+			"end": 9000
 		}
 	],
 	"articles": [

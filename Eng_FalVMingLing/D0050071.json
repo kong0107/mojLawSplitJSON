@@ -18,55 +18,66 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General",
-			"start": 100
+			"start": 100,
+			"end": 800
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Civil Protection Orders",
-			"start": 900
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Petition and Trial",
-			"start": 900
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Enforcement",
-			"start": 2100
+			"start": 900,
+			"end": 2800,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Petition and Trial",
+					"start": 900,
+					"end": 2000
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Enforcement",
+					"start": 2100,
+					"end": 2800
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Criminal Procedure",
-			"start": 2900
+			"start": 2900,
+			"end": 4200
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Parents and Children",
-			"start": 4300
+			"start": 4300,
+			"end": 4700
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Prevention and Disposition",
-			"start": 4800
+			"start": 4800,
+			"end": 6000
 		},
 		{
 			"type": "chapter",
 			"number": 600,
 			"title": "Penalties",
-			"start": 6100
+			"start": 6100,
+			"end": 6301
 		},
 		{
 			"type": "chapter",
 			"number": 700,
 			"title": "Supplementary Provisions",
-			"start": 6400
+			"start": 6400,
+			"end": 6600
 		}
 	],
 	"articles": [

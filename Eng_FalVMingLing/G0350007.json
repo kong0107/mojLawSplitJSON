@@ -41,31 +41,36 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Principle",
-			"start": 100
+			"start": 100,
+			"end": 200
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Establishment",
-			"start": 300
+			"start": 300,
+			"end": 1000
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Management",
-			"start": 1100
+			"start": 1100,
+			"end": 3300
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Fine and Penalty",
-			"start": 3400
+			"start": 3400,
+			"end": 3900
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Addenda",
-			"start": 4000
+			"start": 4000,
+			"end": 4200
 		}
 	],
 	"articles": [

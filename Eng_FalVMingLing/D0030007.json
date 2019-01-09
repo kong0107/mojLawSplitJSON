@@ -25,25 +25,29 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Provisions",
-			"start": 100
+			"start": 100,
+			"end": 800
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Household Registration",
-			"start": 900
+			"start": 900,
+			"end": 2200
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Census and Household Statistics",
-			"start": 2300
+			"start": 2300,
+			"end": 3400
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Supplementary Provisions",
-			"start": 3500
+			"start": 3500,
+			"end": 3600
 		}
 	],
 	"articles": [

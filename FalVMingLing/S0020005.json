@@ -32,43 +32,50 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 900
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "任官",
-			"start": 1000
+			"start": 1000,
+			"end": 1600
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "任職",
-			"start": 1700
+			"start": 1700,
+			"end": 2100
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "俸給",
-			"start": 2200
+			"start": 2200,
+			"end": 2700
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "考核與考績",
-			"start": 2800
+			"start": 2800,
+			"end": 3400
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "退休與撫卹",
-			"start": 3500
+			"start": 3500,
+			"end": 3601
 		},
 		{
 			"type": "章",
 			"number": 700,
 			"title": "附則",
-			"start": 3700
+			"start": 3700,
+			"end": 4200
 		}
 	],
 	"articles": [

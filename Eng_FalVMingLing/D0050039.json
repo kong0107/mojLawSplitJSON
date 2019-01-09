@@ -16,49 +16,59 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Principles",
-			"start": 100
+			"start": 100,
+			"end": 800
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Long term caring institutions",
-			"start": 900
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Long term care institutions",
-			"start": 900
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Nursing institutions",
-			"start": 1400
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Institutions caring for dementia senior citizens",
-			"start": 2100
+			"start": 900,
+			"end": 2400,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Long term care institutions",
+					"start": 900,
+					"end": 1300
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Nursing institutions",
+					"start": 1400,
+					"end": 2000
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Institutions caring for dementia senior citizens",
+					"start": 2100,
+					"end": 2400
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Domiciliary caring institutions",
-			"start": 2500
+			"start": 2500,
+			"end": 3000
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Other Senior Citizens’ Welfare Institutions",
-			"start": 3100
+			"start": 3100,
+			"end": 3300
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Supplementary Provisions",
-			"start": 3400
+			"start": 3400,
+			"end": 3800
 		}
 	],
 	"articles": [

@@ -14,31 +14,36 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Provisions",
-			"start": 100
+			"start": 100,
+			"end": 500
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Archives Management",
-			"start": 600
+			"start": 600,
+			"end": 1600
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Access",
-			"start": 1700
+			"start": 1700,
+			"end": 2200
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Penal Provisions",
-			"start": 2300
+			"start": 2300,
+			"end": 2600
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Supplementary Provisions",
-			"start": 2700
+			"start": 2700,
+			"end": 3000
 		}
 	],
 	"articles": [

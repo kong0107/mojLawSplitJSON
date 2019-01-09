@@ -31,37 +31,43 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 200
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "任用資格",
-			"start": 300
+			"start": 300,
+			"end": 2201
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "任用程序",
-			"start": 2300
+			"start": 2300,
+			"end": 3001
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "任用限制",
-			"start": 3100
+			"start": 3100,
+			"end": 3500
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "任期",
-			"start": 3600
+			"start": 3600,
+			"end": 3900
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "附則",
-			"start": 4000
+			"start": 4000,
+			"end": 4300
 		}
 	],
 	"articles": [

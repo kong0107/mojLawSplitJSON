@@ -22,31 +22,36 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Provisions",
-			"start": 100
+			"start": 100,
+			"end": 600
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Taxable Items and Tax Amounts",
-			"start": 700
+			"start": 700,
+			"end": 800
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Tax Collection",
-			"start": 900
+			"start": 900,
+			"end": 1500
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Penalties",
-			"start": 1600
+			"start": 1600,
+			"end": 1900
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Supplementary Provisions",
-			"start": 2000
+			"start": 2000,
+			"end": 2300
 		}
 	],
 	"articles": [

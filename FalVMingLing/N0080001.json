@@ -23,85 +23,101 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 401
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "職業訓練機構",
-			"start": 500
+			"start": 500,
+			"end": 600
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "職業訓練之實施",
-			"start": 700
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "養成訓練",
-			"start": 700
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "技術生訓練",
-			"start": 1100
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "進修訓練",
-			"start": 1500
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "轉業訓練",
-			"start": 1800
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "（刪除）",
-			"start": 2100
+			"start": 700,
+			"end": 2300,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "養成訓練",
+					"start": 700,
+					"end": 1000
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "技術生訓練",
+					"start": 1100,
+					"end": 1400
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "進修訓練",
+					"start": 1500,
+					"end": 1700
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "轉業訓練",
+					"start": 1800,
+					"end": 2000
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "（刪除）",
+					"start": 2100,
+					"end": 2300
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "職業訓練師",
-			"start": 2400
+			"start": 2400,
+			"end": 2600
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "事業機構辦理訓練之費用",
-			"start": 2700
+			"start": 2700,
+			"end": 3000
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "技能檢定、發證及認證",
-			"start": 3100
+			"start": 3100,
+			"end": 3500
 		},
 		{
 			"type": "章",
 			"number": 700,
 			"title": "輔導及獎勵",
-			"start": 3600
+			"start": 3600,
+			"end": 3801
 		},
 		{
 			"type": "章",
 			"number": 800,
 			"title": "罰則",
-			"start": 3900
+			"start": 3900,
+			"end": 4100
 		},
 		{
 			"type": "章",
 			"number": 900,
 			"title": "附則",
-			"start": 4200
+			"start": 4200,
+			"end": 4400
 		}
 	],
 	"articles": [

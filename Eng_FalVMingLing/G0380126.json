@@ -29,25 +29,29 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Provision",
-			"start": 100
+			"start": 100,
+			"end": 500
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Foreign Bank Branches",
-			"start": 600
+			"start": 600,
+			"end": 2200
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Foreign Bank Representative Offices",
-			"start": 2300
+			"start": 2300,
+			"end": 2800
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Supplemental Provisions",
-			"start": 2900
+			"start": 2900,
+			"end": 2900
 		}
 	],
 	"articles": [

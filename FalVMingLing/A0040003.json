@@ -31,79 +31,96 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 703
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "省政府與省諮議會",
-			"start": 800
+			"start": 800,
+			"end": 1300
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "地方自治",
-			"start": 1400
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "地方自治團體及其居民之權利與義務",
-			"start": 1400
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "自治事項",
-			"start": 1800
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "自治法規",
-			"start": 2500
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "自治組織",
-			"start": 3300
-		},
-		{
-			"type": "款",
-			"number": 100,
-			"title": "地方立法機關",
-			"start": 3300
-		},
-		{
-			"type": "款",
-			"number": 200,
-			"title": "地方行政機關",
-			"start": 5500
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "自治財政",
-			"start": 6300
+			"start": 1400,
+			"end": 7400,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "地方自治團體及其居民之權利與義務",
+					"start": 1400,
+					"end": 1700
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "自治事項",
+					"start": 1800,
+					"end": 2403
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "自治法規",
+					"start": 2500,
+					"end": 3200
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "自治組織",
+					"start": 3300,
+					"end": 6200,
+					"children": [
+						{
+							"type": "款",
+							"number": 100,
+							"title": "地方立法機關",
+							"start": 3300,
+							"end": 5400
+						},
+						{
+							"type": "款",
+							"number": 200,
+							"title": "地方行政機關",
+							"start": 5500,
+							"end": 6200
+						}
+					]
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "自治財政",
+					"start": 6300,
+					"end": 7400
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "中央與地方及地方間之關係",
-			"start": 7500
+			"start": 7500,
+			"end": 8301
 		},
 		{
 			"type": "章",
 			"number": 401,
 			"title": "直轄市山地原住民區",
-			"start": 8302
+			"start": 8302,
+			"end": 8308
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "附則",
-			"start": 8400
+			"start": 8400,
+			"end": 8800
 		}
 	],
 	"articles": [

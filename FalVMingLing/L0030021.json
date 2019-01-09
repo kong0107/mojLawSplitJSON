@@ -27,31 +27,36 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 600
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "審核及許可",
-			"start": 700
+			"start": 700,
+			"end": 1200
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "販賣之管理",
-			"start": 1300
+			"start": 1300,
+			"end": 1700
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "檢查及取締",
-			"start": 1800
+			"start": 1800,
+			"end": 1900
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "附則",
-			"start": 2000
+			"start": 2000,
+			"end": 2000
 		}
 	],
 	"articles": [

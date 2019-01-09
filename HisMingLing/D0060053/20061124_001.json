@@ -13,202 +13,219 @@
 			"type": "編",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 30000
 		},
 		{
 			"type": "編",
 			"number": 200,
-			"title": "地籍測量"
-		},
-		{
-			"type": "章",
-			"number": 100,
-			"title": "基本控制測量及加密控制測量"
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "（刪除）"
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "（刪除）"
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "（刪除）"
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "（刪除）"
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "（刪除）"
-		},
-		{
-			"type": "節",
-			"number": 600,
-			"title": "（刪除）"
-		},
-		{
-			"type": "章",
-			"number": 200,
-			"title": "圖根測量"
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "通則"
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "選點"
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "觀測計算"
-		},
-		{
-			"type": "章",
-			"number": 300,
-			"title": "戶地測量"
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "通則"
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "地籍調查"
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "戶地地面測量"
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "戶地航空攝影測量"
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "繪圖"
-		},
-		{
-			"type": "章",
-			"number": 400,
-			"title": "計算面積"
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "通則"
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "計算面積之精度"
-		},
-		{
-			"type": "章",
-			"number": 500,
-			"title": "製圖"
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "通則"
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "地籍圖"
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "地籍公告圖"
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "段接續一覽圖"
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "地段圖"
-		},
-		{
-			"type": "節",
-			"number": 600,
-			"title": "鄉鎮市區一覽圖"
-		},
-		{
-			"type": "節",
-			"number": 700,
-			"title": "直轄市縣市一覽圖"
-		},
-		{
-			"type": "節",
-			"number": 800,
-			"title": "數值法製圖"
-		},
-		{
-			"type": "章",
-			"number": 600,
-			"title": "重新實施地籍測量"
-		},
-		{
-			"type": "編",
-			"number": 300,
-			"title": "土地複丈"
-		},
-		{
-			"type": "章",
-			"number": 100,
-			"title": "通則"
-		},
-		{
-			"type": "章",
-			"number": 200,
-			"title": "圖解法複丈"
-		},
-		{
-			"type": "章",
-			"number": 300,
-			"title": "數值法複丈"
+			"title": "地籍測量",
+			"children": [
+				{
+					"type": "章",
+					"number": 100,
+					"title": "基本控制測量及加密控制測量",
+					"children": [
+						{
+							"type": "節",
+							"number": 100,
+							"title": "（刪除）"
+						},
+						{
+							"type": "節",
+							"number": 200,
+							"title": "（刪除）"
+						},
+						{
+							"type": "節",
+							"number": 300,
+							"title": "（刪除）"
+						},
+						{
+							"type": "節",
+							"number": 400,
+							"title": "（刪除）"
+						},
+						{
+							"type": "節",
+							"number": 500,
+							"title": "（刪除）"
+						},
+						{
+							"type": "節",
+							"number": 600,
+							"title": "（刪除）"
+						}
+					]
+				},
+				{
+					"type": "章",
+					"number": 200,
+					"title": "圖根測量",
+					"children": [
+						{
+							"type": "節",
+							"number": 100,
+							"title": "通則"
+						},
+						{
+							"type": "節",
+							"number": 200,
+							"title": "選點"
+						},
+						{
+							"type": "節",
+							"number": 300,
+							"title": "觀測計算"
+						}
+					]
+				},
+				{
+					"type": "章",
+					"number": 300,
+					"title": "戶地測量",
+					"children": [
+						{
+							"type": "節",
+							"number": 100,
+							"title": "通則"
+						},
+						{
+							"type": "節",
+							"number": 200,
+							"title": "地籍調查"
+						},
+						{
+							"type": "節",
+							"number": 300,
+							"title": "戶地地面測量"
+						},
+						{
+							"type": "節",
+							"number": 400,
+							"title": "戶地航空攝影測量"
+						},
+						{
+							"type": "節",
+							"number": 500,
+							"title": "繪圖"
+						}
+					]
+				},
+				{
+					"type": "章",
+					"number": 400,
+					"title": "計算面積",
+					"children": [
+						{
+							"type": "節",
+							"number": 100,
+							"title": "通則"
+						},
+						{
+							"type": "節",
+							"number": 200,
+							"title": "計算面積之精度"
+						}
+					]
+				},
+				{
+					"type": "章",
+					"number": 500,
+					"title": "製圖",
+					"children": [
+						{
+							"type": "節",
+							"number": 100,
+							"title": "通則"
+						},
+						{
+							"type": "節",
+							"number": 200,
+							"title": "地籍圖"
+						},
+						{
+							"type": "節",
+							"number": 300,
+							"title": "地籍公告圖"
+						},
+						{
+							"type": "節",
+							"number": 400,
+							"title": "段接續一覽圖"
+						},
+						{
+							"type": "節",
+							"number": 500,
+							"title": "地段圖"
+						},
+						{
+							"type": "節",
+							"number": 600,
+							"title": "鄉鎮市區一覽圖"
+						},
+						{
+							"type": "節",
+							"number": 700,
+							"title": "直轄市縣市一覽圖"
+						},
+						{
+							"type": "節",
+							"number": 800,
+							"title": "數值法製圖"
+						}
+					]
+				},
+				{
+					"type": "章",
+					"number": 600,
+					"title": "重新實施地籍測量"
+				}
+			]
 		},
 		{
 			"type": "編",
-			"number": 400,
-			"title": "建築改良物測量"
-		},
-		{
-			"type": "章",
-			"number": 100,
-			"title": "通則"
-		},
-		{
-			"type": "章",
-			"number": 200,
-			"title": "建物第一次測量"
-		},
-		{
-			"type": "章",
 			"number": 300,
-			"title": "建物複丈"
+			"title": "土地複丈",
+			"children": [
+				{
+					"type": "章",
+					"number": 100,
+					"title": "通則"
+				},
+				{
+					"type": "章",
+					"number": 200,
+					"title": "圖解法複丈"
+				},
+				{
+					"type": "章",
+					"number": 300,
+					"title": "數值法複丈"
+				}
+			]
+		},
+		{
+			"type": "編",
+			"number": 400,
+			"title": "建築改良物測量",
+			"children": [
+				{
+					"type": "章",
+					"number": 100,
+					"title": "通則"
+				},
+				{
+					"type": "章",
+					"number": 200,
+					"title": "建物第一次測量"
+				},
+				{
+					"type": "章",
+					"number": 300,
+					"title": "建物複丈"
+				}
+			]
 		},
 		{
 			"type": "編",

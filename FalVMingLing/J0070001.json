@@ -33,73 +33,87 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 1700
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "商標",
-			"start": 1800
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "申請註冊",
-			"start": 1800
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "審查及核准",
-			"start": 2900
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "商標權",
-			"start": 3300
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "異議",
-			"start": 4800
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "評定",
-			"start": 5700
-		},
-		{
-			"type": "節",
-			"number": 600,
-			"title": "廢止",
-			"start": 6300
-		},
-		{
-			"type": "節",
-			"number": 700,
-			"title": "權利侵害之救濟",
-			"start": 6800
+			"start": 1800,
+			"end": 7900,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "申請註冊",
+					"start": 1800,
+					"end": 2800
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "審查及核准",
+					"start": 2900,
+					"end": 3200
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "商標權",
+					"start": 3300,
+					"end": 4700
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "異議",
+					"start": 4800,
+					"end": 5600
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "評定",
+					"start": 5700,
+					"end": 6200
+				},
+				{
+					"type": "節",
+					"number": 600,
+					"title": "廢止",
+					"start": 6300,
+					"end": 6700
+				},
+				{
+					"type": "節",
+					"number": 700,
+					"title": "權利侵害之救濟",
+					"start": 6800,
+					"end": 7900
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "證明標章、團體標章及團體商標",
-			"start": 8000
+			"start": 8000,
+			"end": 9400
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "罰則",
-			"start": 9500
+			"start": 9500,
+			"end": 9900
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "附則",
-			"start": 10000
+			"start": 10000,
+			"end": 11100
 		}
 	],
 	"articles": [

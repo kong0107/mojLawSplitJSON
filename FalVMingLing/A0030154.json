@@ -31,217 +31,265 @@
 			"type": "編",
 			"number": 100,
 			"title": "總則",
-			"start": 100
-		},
-		{
-			"type": "章",
-			"number": 100,
-			"title": "行政訴訟事件",
-			"start": 100
-		},
-		{
-			"type": "章",
-			"number": 200,
-			"title": "行政法院",
-			"start": 1300
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "管轄",
-			"start": 1300
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "法官之迴避",
-			"start": 1900
-		},
-		{
-			"type": "章",
-			"number": 300,
-			"title": "當事人",
-			"start": 2200
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "當事人能力及訴訟能力",
-			"start": 2200
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "選定當事人",
-			"start": 2900
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "共同訴訟",
-			"start": 3700
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "訴訟參加",
-			"start": 4100
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "訴訟代理人及輔佐人",
-			"start": 4900
-		},
-		{
-			"type": "章",
-			"number": 400,
-			"title": "訴訟程序",
-			"start": 5700
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "當事人書狀",
-			"start": 5700
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "送達",
-			"start": 6100
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "期日及期間",
-			"start": 8400
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "訴訟卷宗",
-			"start": 9500
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "訴訟費用",
-			"start": 9800
+			"start": 100,
+			"end": 10400,
+			"children": [
+				{
+					"type": "章",
+					"number": 100,
+					"title": "行政訴訟事件",
+					"start": 100,
+					"end": 1205
+				},
+				{
+					"type": "章",
+					"number": 200,
+					"title": "行政法院",
+					"start": 1300,
+					"end": 2100,
+					"children": [
+						{
+							"type": "節",
+							"number": 100,
+							"title": "管轄",
+							"start": 1300,
+							"end": 1800
+						},
+						{
+							"type": "節",
+							"number": 200,
+							"title": "法官之迴避",
+							"start": 1900,
+							"end": 2100
+						}
+					]
+				},
+				{
+					"type": "章",
+					"number": 300,
+					"title": "當事人",
+					"start": 2200,
+					"end": 5600,
+					"children": [
+						{
+							"type": "節",
+							"number": 100,
+							"title": "當事人能力及訴訟能力",
+							"start": 2200,
+							"end": 2800
+						},
+						{
+							"type": "節",
+							"number": 200,
+							"title": "選定當事人",
+							"start": 2900,
+							"end": 3600
+						},
+						{
+							"type": "節",
+							"number": 300,
+							"title": "共同訴訟",
+							"start": 3700,
+							"end": 4000
+						},
+						{
+							"type": "節",
+							"number": 400,
+							"title": "訴訟參加",
+							"start": 4100,
+							"end": 4800
+						},
+						{
+							"type": "節",
+							"number": 500,
+							"title": "訴訟代理人及輔佐人",
+							"start": 4900,
+							"end": 5600
+						}
+					]
+				},
+				{
+					"type": "章",
+					"number": 400,
+					"title": "訴訟程序",
+					"start": 5700,
+					"end": 10400,
+					"children": [
+						{
+							"type": "節",
+							"number": 100,
+							"title": "當事人書狀",
+							"start": 5700,
+							"end": 6000
+						},
+						{
+							"type": "節",
+							"number": 200,
+							"title": "送達",
+							"start": 6100,
+							"end": 8300
+						},
+						{
+							"type": "節",
+							"number": 300,
+							"title": "期日及期間",
+							"start": 8400,
+							"end": 9400
+						},
+						{
+							"type": "節",
+							"number": 400,
+							"title": "訴訟卷宗",
+							"start": 9500,
+							"end": 9700
+						},
+						{
+							"type": "節",
+							"number": 500,
+							"title": "訴訟費用",
+							"start": 9800,
+							"end": 10400
+						}
+					]
+				}
+			]
 		},
 		{
 			"type": "編",
 			"number": 200,
 			"title": "第一審程序",
-			"start": 10401
-		},
-		{
-			"type": "章",
-			"number": 100,
-			"title": "高等行政法院通常訴訟程序",
-			"start": 10401
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "起訴",
-			"start": 10401
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "停止執行",
-			"start": 11600
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "言詞辯論",
-			"start": 12000
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "證據",
-			"start": 13300
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "訴訟程序之停止",
-			"start": 17700
-		},
-		{
-			"type": "節",
-			"number": 600,
-			"title": "裁判",
-			"start": 18700
-		},
-		{
-			"type": "節",
-			"number": 700,
-			"title": "和解",
-			"start": 21900
-		},
-		{
-			"type": "章",
-			"number": 200,
-			"title": "地方法院行政訴訟庭簡易訴訟程序",
-			"start": 22900
-		},
-		{
-			"type": "章",
-			"number": 300,
-			"title": "交通裁決事件訴訟程序",
-			"start": 23701
-		},
-		{
-			"type": "章",
-			"number": 400,
-			"title": "收容聲請事件程序",
-			"start": 23710
+			"start": 10401,
+			"end": 23717,
+			"children": [
+				{
+					"type": "章",
+					"number": 100,
+					"title": "高等行政法院通常訴訟程序",
+					"start": 10401,
+					"end": 22800,
+					"children": [
+						{
+							"type": "節",
+							"number": 100,
+							"title": "起訴",
+							"start": 10401,
+							"end": 11500
+						},
+						{
+							"type": "節",
+							"number": 200,
+							"title": "停止執行",
+							"start": 11600,
+							"end": 11900
+						},
+						{
+							"type": "節",
+							"number": 300,
+							"title": "言詞辯論",
+							"start": 12000,
+							"end": 13200
+						},
+						{
+							"type": "節",
+							"number": 400,
+							"title": "證據",
+							"start": 13300,
+							"end": 17600
+						},
+						{
+							"type": "節",
+							"number": 500,
+							"title": "訴訟程序之停止",
+							"start": 17700,
+							"end": 18600
+						},
+						{
+							"type": "節",
+							"number": 600,
+							"title": "裁判",
+							"start": 18700,
+							"end": 21800
+						},
+						{
+							"type": "節",
+							"number": 700,
+							"title": "和解",
+							"start": 21900,
+							"end": 22800
+						}
+					]
+				},
+				{
+					"type": "章",
+					"number": 200,
+					"title": "地方法院行政訴訟庭簡易訴訟程序",
+					"start": 22900,
+					"end": 23700
+				},
+				{
+					"type": "章",
+					"number": 300,
+					"title": "交通裁決事件訴訟程序",
+					"start": 23701,
+					"end": 23709
+				},
+				{
+					"type": "章",
+					"number": 400,
+					"title": "收容聲請事件程序",
+					"start": 23710,
+					"end": 23717
+				}
+			]
 		},
 		{
 			"type": "編",
 			"number": 300,
 			"title": "上訴審程序",
-			"start": 23800
+			"start": 23800,
+			"end": 26300
 		},
 		{
 			"type": "編",
 			"number": 400,
 			"title": "抗告程序",
-			"start": 26400
+			"start": 26400,
+			"end": 27200
 		},
 		{
 			"type": "編",
 			"number": 500,
 			"title": "再審程序",
-			"start": 27300
+			"start": 27300,
+			"end": 28300
 		},
 		{
 			"type": "編",
 			"number": 600,
 			"title": "重新審理",
-			"start": 28400
+			"start": 28400,
+			"end": 29200
 		},
 		{
 			"type": "編",
 			"number": 700,
 			"title": "保全程序",
-			"start": 29300
+			"start": 29300,
+			"end": 30300
 		},
 		{
 			"type": "編",
 			"number": 800,
 			"title": "強制執行",
-			"start": 30400
+			"start": 30400,
+			"end": 30701
 		},
 		{
 			"type": "編",
 			"number": 900,
 			"title": "附則",
-			"start": 30800
+			"start": 30800,
+			"end": 30800
 		}
 	],
 	"articles": [

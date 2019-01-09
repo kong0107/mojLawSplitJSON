@@ -55,73 +55,87 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Provisions",
-			"start": 100
+			"start": 100,
+			"end": 600
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Operation Concession",
-			"start": 700
+			"start": 700,
+			"end": 3100
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Operation Administration",
-			"start": 3200
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "General",
-			"start": 3200
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Local Network Business",
-			"start": 5600
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Long Distance Network Business",
-			"start": 6100
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "International Network Business",
-			"start": 6200
-		},
-		{
-			"type": "section",
-			"number": 500,
-			"title": "Leased-Circuit Business",
-			"start": 7100
-		},
-		{
-			"type": "section",
-			"number": 600,
-			"title": "Number Portability",
-			"start": 7300
+			"start": 3200,
+			"end": 7400,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "General",
+					"start": 3200,
+					"end": 5500
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Local Network Business",
+					"start": 5600,
+					"end": 6001
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Long Distance Network Business",
+					"start": 6100,
+					"end": 6100
+				},
+				{
+					"type": "section",
+					"number": 400,
+					"title": "International Network Business",
+					"start": 6200,
+					"end": 7000
+				},
+				{
+					"type": "section",
+					"number": 500,
+					"title": "Leased-Circuit Business",
+					"start": 7100,
+					"end": 7201
+				},
+				{
+					"type": "section",
+					"number": 600,
+					"title": "Number Portability",
+					"start": 7300,
+					"end": 7400
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 301,
 			"title": "Information and Communication Security Management",
-			"start": 7401
+			"start": 7401,
+			"end": 7406
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Settlement of Disputes",
-			"start": 7500
+			"start": 7500,
+			"end": 7500
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Other Provisions",
-			"start": 7600
+			"start": 7600,
+			"end": 7900
 		}
 	],
 	"articles": [

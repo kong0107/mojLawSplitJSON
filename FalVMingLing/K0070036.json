@@ -27,109 +27,131 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 901
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "化學液體船之構造與穩度",
-			"start": 1000
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "船舶殘存能力",
-			"start": 1000
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "貨艙櫃之型式與位置",
-			"start": 1900
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "船舶佈置",
-			"start": 2300
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "泵、管路及裝卸裝置",
-			"start": 2900
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "貨艙櫃通氣系統",
-			"start": 3700
-		},
-		{
-			"type": "節",
-			"number": 600,
-			"title": "貨艙櫃之環境控制",
-			"start": 3900
-		},
-		{
-			"type": "節",
-			"number": 700,
-			"title": "貨艙櫃貨物之溫度控制",
-			"start": 4200
-		},
-		{
-			"type": "節",
-			"number": 800,
-			"title": "電力裝置",
-			"start": 4400
-		},
-		{
-			"type": "節",
-			"number": 900,
-			"title": "構造材料",
-			"start": 4800
+			"start": 1000,
+			"end": 4900,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "船舶殘存能力",
+					"start": 1000,
+					"end": 1800
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "貨艙櫃之型式與位置",
+					"start": 1900,
+					"end": 2200
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "船舶佈置",
+					"start": 2300,
+					"end": 2800
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "泵、管路及裝卸裝置",
+					"start": 2900,
+					"end": 3600
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "貨艙櫃通氣系統",
+					"start": 3700,
+					"end": 3800
+				},
+				{
+					"type": "節",
+					"number": 600,
+					"title": "貨艙櫃之環境控制",
+					"start": 3900,
+					"end": 4100
+				},
+				{
+					"type": "節",
+					"number": 700,
+					"title": "貨艙櫃貨物之溫度控制",
+					"start": 4200,
+					"end": 4300
+				},
+				{
+					"type": "節",
+					"number": 800,
+					"title": "電力裝置",
+					"start": 4400,
+					"end": 4700
+				},
+				{
+					"type": "節",
+					"number": 900,
+					"title": "構造材料",
+					"start": 4800,
+					"end": 4900
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "化學液體船之安全設備",
-			"start": 5000
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "防火與滅火",
-			"start": 5000
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "貨物區域內之機械通風",
-			"start": 5500
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "儀器",
-			"start": 5800
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "人員防護設備",
-			"start": 6000
+			"start": 5000,
+			"end": 6500,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "防火與滅火",
+					"start": 5000,
+					"end": 5400
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "貨物區域內之機械通風",
+					"start": 5500,
+					"end": 5700
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "儀器",
+					"start": 5800,
+					"end": 5900
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "人員防護設備",
+					"start": 6000,
+					"end": 6500
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "化學液體船載運個別危險化學品",
-			"start": 6600
+			"start": 6600,
+			"end": 6700
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "附則",
-			"start": 6800
+			"start": 6800,
+			"end": 6800
 		}
 	],
 	"articles": [

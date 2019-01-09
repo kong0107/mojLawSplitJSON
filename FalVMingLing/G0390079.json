@@ -58,19 +58,22 @@
 			"type": "章",
 			"number": 100,
 			"title": "通則",
-			"start": 100
+			"start": 100,
+			"end": 100
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "設立",
-			"start": 200
+			"start": 200,
+			"end": 1600
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "管理",
-			"start": 1700
+			"start": 1700,
+			"end": 3000
 		}
 	],
 	"articles": [

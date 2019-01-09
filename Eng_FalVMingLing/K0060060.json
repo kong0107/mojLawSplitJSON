@@ -42,73 +42,89 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Provisions",
-			"start": 100
+			"start": 100,
+			"end": 700
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Franchise for Operation",
-			"start": 800
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Application and Reviewing",
-			"start": 800
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Preparation for Bidding",
-			"start": 1700
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Bidding",
-			"start": 2100
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "Establishment",
-			"start": 3200
+			"start": 800,
+			"end": 5000,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Application and Reviewing",
+					"start": 800,
+					"end": 1600
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Preparation for Bidding",
+					"start": 1700,
+					"end": 2000
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Bidding",
+					"start": 2100,
+					"end": 3100
+				},
+				{
+					"type": "section",
+					"number": 400,
+					"title": "Establishment",
+					"start": 3200,
+					"end": 5000
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Operational Management",
-			"start": 5100
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Technical Supervision",
-			"start": 5100
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Supervision on the Business",
-			"start": 6300
+			"start": 5100,
+			"end": 8000,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Technical Supervision",
+					"start": 5100,
+					"end": 6200
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Supervision on the Business",
+					"start": 6300,
+					"end": 8000
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 301,
 			"title": "Information Security Management",
-			"start": 8001
+			"start": 8001,
+			"end": 8005
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Mediation of Disputes",
-			"start": 8100
+			"start": 8100,
+			"end": 8100
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Additional Provisions",
-			"start": 8200
+			"start": 8200,
+			"end": 8600
 		}
 	],
 	"articles": [

@@ -25,49 +25,59 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 400
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "內部控制制度之設計及執行",
-			"start": 500
+			"start": 500,
+			"end": 900
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "內部控制制度之評估",
-			"start": 1000
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "內部稽核",
-			"start": 1000
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "自行評估及內部控制制度聲明書",
-			"start": 2100
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "會計師專案審查",
-			"start": 2500
+			"start": 1000,
+			"end": 3700,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "內部稽核",
+					"start": 1000,
+					"end": 2000
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "自行評估及內部控制制度聲明書",
+					"start": 2100,
+					"end": 2400
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "會計師專案審查",
+					"start": 2500,
+					"end": 3700
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "對子公司之監督與管理",
-			"start": 3800
+			"start": 3800,
+			"end": 4100
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "附則",
-			"start": 4200
+			"start": 4200,
+			"end": 4700
 		}
 	],
 	"articles": [

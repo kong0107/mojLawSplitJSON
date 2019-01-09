@@ -14,103 +14,126 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 200
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "帳簿憑證之查核",
-			"start": 300
+			"start": 300,
+			"end": 1400
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "收入類之查核",
-			"start": 1500
+			"start": 1500,
+			"end": 3602
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "銷貨成本之查核",
-			"start": 3700
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "進貨及進料",
-			"start": 3700
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "期初存貨、存料、在製品、製成品及副產品",
-			"start": 4600
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "期末存貨、存料、在製品、製成品及副產品",
-			"start": 5000
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "製成品、耗用原料",
-			"start": 5800
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "直接人工及製造費用",
-			"start": 6000
+			"start": 3700,
+			"end": 6100,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "進貨及進料",
+					"start": 3700,
+					"end": 4500
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "期初存貨、存料、在製品、製成品及副產品",
+					"start": 4600,
+					"end": 4900
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "期末存貨、存料、在製品、製成品及副產品",
+					"start": 5000,
+					"end": 5700
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "製成品、耗用原料",
+					"start": 5800,
+					"end": 5900
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "直接人工及製造費用",
+					"start": 6000,
+					"end": 6100
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "費用類之查核",
-			"start": 6200
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "通則",
-			"start": 6200
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "各項費用",
-			"start": 7100
+			"start": 6200,
+			"end": 10300,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "通則",
+					"start": 6200,
+					"end": 7001
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "各項費用",
+					"start": 7100,
+					"end": 10300
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "資產負債資本之查核",
-			"start": 10400
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "資產類",
-			"start": 10400
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "負債及資本類",
-			"start": 10700
+			"start": 10400,
+			"end": 11101,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "資產類",
+					"start": 10400,
+					"end": 10600
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "負債及資本類",
+					"start": 10700,
+					"end": 11101
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 700,
 			"title": "漏報短報所得額及結算稅額之核定",
-			"start": 11200
+			"start": 11200,
+			"end": 11300
 		},
 		{
 			"type": "章",
 			"number": 800,
 			"title": "附則",
-			"start": 11400
+			"start": 11400,
+			"end": 11700
 		}
 	],
 	"articles": [

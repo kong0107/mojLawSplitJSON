@@ -15,37 +15,43 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "GENERAL",
-			"start": 100
+			"start": 100,
+			"end": 600
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "OBSERVATION",
-			"start": 700
+			"start": 700,
+			"end": 1600
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "FORECASTS AND WARNINGS",
-			"start": 1700
+			"start": 1700,
+			"end": 1900
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "CALIBRATION OF INSTRUMENTS",
-			"start": 2000
+			"start": 2000,
+			"end": 2000
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "AWARDS AND PENALTIES",
-			"start": 2100
+			"start": 2100,
+			"end": 2700
 		},
 		{
 			"type": "chapter",
 			"number": 600,
 			"title": "APPENDIX",
-			"start": 2800
+			"start": 2800,
+			"end": 3100
 		}
 	],
 	"articles": [

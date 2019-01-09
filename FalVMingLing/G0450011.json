@@ -28,31 +28,36 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 500
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "外匯業務之申請及開辦",
-			"start": 600
+			"start": 600,
+			"end": 2800
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "外匯業務之經營",
-			"start": 2900
+			"start": 2900,
+			"end": 4900
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "人民幣業務之管理",
-			"start": 5000
+			"start": 5000,
+			"end": 5200
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "附則",
-			"start": 5300
+			"start": 5300,
+			"end": 5500
 		}
 	],
 	"articles": [

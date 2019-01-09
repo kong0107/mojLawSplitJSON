@@ -18,31 +18,36 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 400
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "業務",
-			"start": 500
+			"start": 500,
+			"end": 1000
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "主任之資格條件",
-			"start": 1100
+			"start": 1100,
+			"end": 1300
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "監督及管理",
-			"start": 1400
+			"start": 1400,
+			"end": 2800
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "附則",
-			"start": 2900
+			"start": 2900,
+			"end": 3000
 		}
 	],
 	"articles": [

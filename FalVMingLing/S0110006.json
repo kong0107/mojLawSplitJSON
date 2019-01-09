@@ -19,43 +19,50 @@
 			"type": "大",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 400
 		},
 		{
 			"type": "大",
 			"number": 200,
 			"title": "遴用",
-			"start": 500
+			"start": 500,
+			"end": 800
 		},
 		{
 			"type": "大",
 			"number": 300,
 			"title": "陞遷",
-			"start": 900
+			"start": 900,
+			"end": 1800
 		},
 		{
 			"type": "大",
 			"number": 400,
 			"title": "考核獎懲",
-			"start": 1900
+			"start": 1900,
+			"end": 2100
 		},
 		{
 			"type": "大",
 			"number": 500,
 			"title": "訓練進修",
-			"start": 2200
+			"start": 2200,
+			"end": 2400
 		},
 		{
 			"type": "大",
 			"number": 600,
 			"title": "服務",
-			"start": 2500
+			"start": 2500,
+			"end": 3000
 		},
 		{
 			"type": "大",
 			"number": 700,
 			"title": "附則",
-			"start": 3100
+			"start": 3100,
+			"end": 3100
 		}
 	],
 	"articles": [

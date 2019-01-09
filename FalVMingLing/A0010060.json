@@ -23,43 +23,50 @@
 			"type": "章",
 			"number": 100,
 			"title": "通則",
-			"start": 100
+			"start": 100,
+			"end": 800
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "院長",
-			"start": 900
+			"start": 900,
+			"end": 1400
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "庭長、法官",
-			"start": 1500
+			"start": 1500,
+			"end": 2800
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "書記廳",
-			"start": 2900
+			"start": 2900,
+			"end": 4100
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "人事室、會計室、統計室、政風室、資訊室",
-			"start": 4200
+			"start": 4200,
+			"end": 5300
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "處理文件程序",
-			"start": 5400
+			"start": 5400,
+			"end": 7400
 		},
 		{
 			"type": "章",
 			"number": 700,
 			"title": "附則",
-			"start": 7500
+			"start": 7500,
+			"end": 7700
 		}
 	],
 	"articles": [

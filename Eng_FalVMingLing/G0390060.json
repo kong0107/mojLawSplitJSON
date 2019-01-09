@@ -16,55 +16,66 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Rules",
-			"start": 100
+			"start": 100,
+			"end": 1500
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Insurance Contract",
-			"start": 1600
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Execution of the Contract",
-			"start": 1600
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Coverage of Insurance",
-			"start": 2500
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Claim of Insurance Benefits",
-			"start": 3100
+			"start": 1600,
+			"end": 3700,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Execution of the Contract",
+					"start": 1600,
+					"end": 2400
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Coverage of Insurance",
+					"start": 2500,
+					"end": 3000
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Claim of Insurance Benefits",
+					"start": 3100,
+					"end": 3700
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Motor Vehicle Accident Compensation Fund",
-			"start": 3800
+			"start": 3800,
+			"end": 4300
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Supervision of the Insurance Companies",
-			"start": 4400
+			"start": 4400,
+			"end": 4701
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Penalty",
-			"start": 4800
+			"start": 4800,
+			"end": 5100
 		},
 		{
 			"type": "chapter",
 			"number": 600,
 			"title": "Addendum",
-			"start": 5200
+			"start": 5200,
+			"end": 5300
 		}
 	],
 	"articles": [

@@ -20,43 +20,50 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 300
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "糧食倉庫修建",
-			"start": 400
+			"start": 400,
+			"end": 700
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "糧食倉庫管理",
-			"start": 800
+			"start": 800,
+			"end": 2600
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "糧食倉庫防護",
-			"start": 2700
+			"start": 2700,
+			"end": 3300
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "糧食檢驗",
-			"start": 3400
+			"start": 3400,
+			"end": 4300
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "病蟲防治",
-			"start": 4400
+			"start": 4400,
+			"end": 4500
 		},
 		{
 			"type": "章",
 			"number": 700,
 			"title": "附則",
-			"start": 4600
+			"start": 4600,
+			"end": 4600
 		}
 	],
 	"articles": [

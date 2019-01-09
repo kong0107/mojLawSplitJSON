@@ -21,85 +21,101 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Principles",
-			"start": 100
+			"start": 100,
+			"end": 1000
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Financial Reports",
-			"start": 1100
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Balance Sheet",
-			"start": 1100
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Statement of Comprehensive Income",
-			"start": 1400
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Statement of Changes in Equity",
-			"start": 1500
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "Statement of Cash Flows",
-			"start": 1600
-		},
-		{
-			"type": "section",
-			"number": 500,
-			"title": "Notes",
-			"start": 1700
-		},
-		{
-			"type": "section",
-			"number": 600,
-			"title": "Titles of Financial Statements",
-			"start": 2100
+			"start": 1100,
+			"end": 2100,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Balance Sheet",
+					"start": 1100,
+					"end": 1300
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Statement of Comprehensive Income",
+					"start": 1400,
+					"end": 1400
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Statement of Changes in Equity",
+					"start": 1500,
+					"end": 1500
+				},
+				{
+					"type": "section",
+					"number": 400,
+					"title": "Statement of Cash Flows",
+					"start": 1600,
+					"end": 1600
+				},
+				{
+					"type": "section",
+					"number": 500,
+					"title": "Notes",
+					"start": 1700,
+					"end": 2000
+				},
+				{
+					"type": "section",
+					"number": 600,
+					"title": "Titles of Financial Statements",
+					"start": 2100,
+					"end": 2100
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Interim Financial Reports",
-			"start": 2200
+			"start": 2200,
+			"end": 2200
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Parent Company Only Financial Reports",
-			"start": 2300
+			"start": 2300,
+			"end": 2500
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Concurrent Operation of the Business of a Futures Clearing House",
-			"start": 2600
+			"start": 2600,
+			"end": 3000
 		},
 		{
 			"type": "chapter",
 			"number": 600,
 			"title": "(Deleted)",
-			"start": 3100
+			"start": 3100,
+			"end": 3300
 		},
 		{
 			"type": "chapter",
 			"number": 700,
 			"title": "Joint Arrangements",
-			"start": 3400
+			"start": 3400,
+			"end": 3400
 		},
 		{
 			"type": "chapter",
 			"number": 800,
 			"title": "Supplementary Provisions",
-			"start": 3500
+			"start": 3500,
+			"end": 3500
 		}
 	],
 	"articles": [

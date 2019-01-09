@@ -39,73 +39,87 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 200
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "職業安全衛生組織及人員",
-			"start": 201
+			"start": 201,
+			"end": 1200
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "職業安全衛生管理措施",
-			"start": 1201
+			"start": 1201,
+			"end": 1207
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "自動檢查",
-			"start": 1300
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "機械之定期檢查",
-			"start": 1300
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "設備之定期檢查",
-			"start": 2700
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "機械、設備之重點檢查",
-			"start": 4500
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "機械、設備之作業檢點",
-			"start": 5000
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "作業檢點",
-			"start": 6400
-		},
-		{
-			"type": "節",
-			"number": 600,
-			"title": "自動檢查紀錄及必要措施",
-			"start": 7900
+			"start": 1300,
+			"end": 8500,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "機械之定期檢查",
+					"start": 1300,
+					"end": 2600
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "設備之定期檢查",
+					"start": 2700,
+					"end": 4401
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "機械、設備之重點檢查",
+					"start": 4500,
+					"end": 4900
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "機械、設備之作業檢點",
+					"start": 5000,
+					"end": 6300
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "作業檢點",
+					"start": 6400,
+					"end": 7800
+				},
+				{
+					"type": "節",
+					"number": 600,
+					"title": "自動檢查紀錄及必要措施",
+					"start": 7900,
+					"end": 8500
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "報告",
-			"start": 8600
+			"start": 8600,
+			"end": 8700
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "附則",
-			"start": 8800
+			"start": 8800,
+			"end": 9000
 		}
 	],
 	"articles": [

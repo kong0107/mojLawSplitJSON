@@ -13,43 +13,50 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 300
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "公糧業者及其經管倉庫應具備條件",
-			"start": 400
+			"start": 400,
+			"end": 500
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "公糧經收",
-			"start": 600
+			"start": 600,
+			"end": 800
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "公糧保管",
-			"start": 900
+			"start": 900,
+			"end": 1200
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "公糧加工及撥付",
-			"start": 1300
+			"start": 1300,
+			"end": 1600
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "其他管理事項",
-			"start": 1700
+			"start": 1700,
+			"end": 3000
 		},
 		{
 			"type": "章",
 			"number": 700,
 			"title": "附則",
-			"start": 3100
+			"start": 3100,
+			"end": 3100
 		}
 	],
 	"articles": [

@@ -25,133 +25,159 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "法例",
-			"start": 100
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "管轄",
-			"start": 1100
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "當事人",
-			"start": 2000
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "迴避",
-			"start": 3200
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "程序之開始",
-			"start": 3400
-		},
-		{
-			"type": "節",
-			"number": 600,
-			"title": "調查事實及證據",
-			"start": 3600
-		},
-		{
-			"type": "節",
-			"number": 700,
-			"title": "資訊公開",
-			"start": 4400
-		},
-		{
-			"type": "節",
-			"number": 800,
-			"title": "期日與期間",
-			"start": 4800
-		},
-		{
-			"type": "節",
-			"number": 900,
-			"title": "費用",
-			"start": 5200
-		},
-		{
-			"type": "節",
-			"number": 1000,
-			"title": "聽證程序",
-			"start": 5400
-		},
-		{
-			"type": "節",
-			"number": 1100,
-			"title": "送達",
-			"start": 6700
+			"start": 100,
+			"end": 9100,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "法例",
+					"start": 100,
+					"end": 1000
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "管轄",
+					"start": 1100,
+					"end": 1900
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "當事人",
+					"start": 2000,
+					"end": 3100
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "迴避",
+					"start": 3200,
+					"end": 3300
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "程序之開始",
+					"start": 3400,
+					"end": 3500
+				},
+				{
+					"type": "節",
+					"number": 600,
+					"title": "調查事實及證據",
+					"start": 3600,
+					"end": 4300
+				},
+				{
+					"type": "節",
+					"number": 700,
+					"title": "資訊公開",
+					"start": 4400,
+					"end": 4700
+				},
+				{
+					"type": "節",
+					"number": 800,
+					"title": "期日與期間",
+					"start": 4800,
+					"end": 5100
+				},
+				{
+					"type": "節",
+					"number": 900,
+					"title": "費用",
+					"start": 5200,
+					"end": 5300
+				},
+				{
+					"type": "節",
+					"number": 1000,
+					"title": "聽證程序",
+					"start": 5400,
+					"end": 6600
+				},
+				{
+					"type": "節",
+					"number": 1100,
+					"title": "送達",
+					"start": 6700,
+					"end": 9100
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "行政處分",
-			"start": 9200
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "行政處分之成立",
-			"start": 9200
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "陳述意見及聽證",
-			"start": 10200
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "行政處分之效力",
-			"start": 11000
+			"start": 9200,
+			"end": 13400,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "行政處分之成立",
+					"start": 9200,
+					"end": 10100
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "陳述意見及聽證",
+					"start": 10200,
+					"end": 10900
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "行政處分之效力",
+					"start": 11000,
+					"end": 13400
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "行政契約",
-			"start": 13500
+			"start": 13500,
+			"end": 14900
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "法規命令及行政規則",
-			"start": 15000
+			"start": 15000,
+			"end": 16200
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "行政計畫",
-			"start": 16300
+			"start": 16300,
+			"end": 16400
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "行政指導",
-			"start": 16500
+			"start": 16500,
+			"end": 16700
 		},
 		{
 			"type": "章",
 			"number": 700,
 			"title": "陳情",
-			"start": 16800
+			"start": 16800,
+			"end": 17300
 		},
 		{
 			"type": "章",
 			"number": 800,
 			"title": "附則",
-			"start": 17400
+			"start": 17400,
+			"end": 17500
 		}
 	],
 	"articles": [

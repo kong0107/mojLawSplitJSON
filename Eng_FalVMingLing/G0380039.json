@@ -20,43 +20,52 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Principles",
-			"start": 100
+			"start": 100,
+			"end": 900
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Deposit Insurance and Insured Risk Control",
-			"start": 1000
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Deposit Insurance",
-			"start": 1000
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Insured Risk Control",
-			"start": 2200
+			"start": 1000,
+			"end": 2700,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Deposit Insurance",
+					"start": 1000,
+					"end": 2100
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Insured Risk Control",
+					"start": 2200,
+					"end": 2700
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Fulfillment of Insurance Responsibilities",
-			"start": 2800
+			"start": 2800,
+			"end": 4500
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Penal Provisions",
-			"start": 4600
+			"start": 4600,
+			"end": 4700
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Supplementary Provisions",
-			"start": 4800
+			"start": 4800,
+			"end": 5200
 		}
 	],
 	"articles": [

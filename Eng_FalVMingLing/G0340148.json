@@ -13,91 +13,114 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Provisions",
-			"start": 100
+			"start": 100,
+			"end": 700
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "A Specific Request",
-			"start": 800
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Raising A Specific Request",
-			"start": 800
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Receiving A Specific Request",
-			"start": 1200
+			"start": 800,
+			"end": 1400,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Raising A Specific Request",
+					"start": 800,
+					"end": 1100
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Receiving A Specific Request",
+					"start": 1200,
+					"end": 1400
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Spontaneous Exchange",
-			"start": 1500
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Raising Spontaneous Exchange",
-			"start": 1500
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Receiving Spontaneous Exchange",
-			"start": 1800
+			"start": 1500,
+			"end": 1800,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Raising Spontaneous Exchange",
+					"start": 1500,
+					"end": 1700
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Receiving Spontaneous Exchange",
+					"start": 1800,
+					"end": 1800
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Automatic Exchange",
-			"start": 1900
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Basis for Implementation",
-			"start": 1900
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Raising Automatic Exchange",
-			"start": 2000
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Receiving Automatic Exchange",
-			"start": 2200
+			"start": 1900,
+			"end": 2200,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Basis for Implementation",
+					"start": 1900,
+					"end": 1900
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Raising Automatic Exchange",
+					"start": 2000,
+					"end": 2100
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Receiving Automatic Exchange",
+					"start": 2200,
+					"end": 2200
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Feedback",
-			"start": 2300
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Providing Feedback",
-			"start": 2300
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Receiving Feedback",
-			"start": 2500
+			"start": 2300,
+			"end": 2500,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Providing Feedback",
+					"start": 2300,
+					"end": 2400
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Receiving Feedback",
+					"start": 2500,
+					"end": 2500
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 600,
 			"title": "Supplemental Provisions",
-			"start": 2600
+			"start": 2600,
+			"end": 2800
 		}
 	],
 	"articles": [

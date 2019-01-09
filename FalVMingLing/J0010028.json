@@ -22,55 +22,64 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 200
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "職掌",
-			"start": 300
+			"start": 300,
+			"end": 1700
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "人事管理",
-			"start": 1800
+			"start": 1800,
+			"end": 2400
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "文書處理",
-			"start": 2500
+			"start": 2500,
+			"end": 3700
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "財務管理",
-			"start": 3800
+			"start": 3800,
+			"end": 4100
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "庶務管理",
-			"start": 4200
+			"start": 4200,
+			"end": 5200
 		},
 		{
 			"type": "章",
 			"number": 700,
 			"title": "會議",
-			"start": 5300
+			"start": 5300,
+			"end": 5400
 		},
 		{
 			"type": "章",
 			"number": 800,
 			"title": "分層負責",
-			"start": 5500
+			"start": 5500,
+			"end": 5900
 		},
 		{
 			"type": "章",
 			"number": 900,
 			"title": "附則",
-			"start": 6000
+			"start": 6000,
+			"end": 6000
 		}
 	],
 	"articles": [

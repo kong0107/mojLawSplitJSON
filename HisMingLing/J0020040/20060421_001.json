@@ -13,37 +13,43 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 200
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "資格及條件",
-			"start": 300
+			"start": 300,
+			"end": 700
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "申請及審查",
-			"start": 800
+			"start": 800,
+			"end": 900
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "管理及訓練",
-			"start": 1000
+			"start": 1000,
+			"end": 1300
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "責任及收費標準",
-			"start": 1400
+			"start": 1400,
+			"end": 2400
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "附則",
-			"start": 2500
+			"start": 2500,
+			"end": 2600
 		}
 	],
 	"articles": [

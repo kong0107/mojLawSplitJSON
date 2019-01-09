@@ -17,31 +17,36 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Provisions",
-			"start": 100
+			"start": 100,
+			"end": 500
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Type Certification",
-			"start": 600
+			"start": 600,
+			"end": 2200
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Recognition and Management of Certification Bodies",
-			"start": 2300
+			"start": 2300,
+			"end": 4200
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Monitoring and Management",
-			"start": 4300
+			"start": 4300,
+			"end": 4800
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Others",
-			"start": 4900
+			"start": 4900,
+			"end": 4900
 		}
 	],
 	"articles": [

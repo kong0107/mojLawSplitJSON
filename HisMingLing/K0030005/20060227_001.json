@@ -13,271 +13,334 @@
 			"type": "編",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 300
 		},
 		{
 			"type": "編",
 			"number": 200,
 			"title": "一般鐵路",
-			"start": 400
-		},
-		{
-			"type": "章",
-			"number": 100,
-			"title": "路線及設備",
-			"start": 400
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "路線",
-			"start": 400
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "電車線路",
-			"start": 900
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "號誌裝置",
-			"start": 1400
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "建築界限",
-			"start": 1700
-		},
-		{
-			"type": "章",
-			"number": 200,
-			"title": "車輛及裝載限制",
-			"start": 1800
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "車輛",
-			"start": 1800
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "裝載限制",
-			"start": 2300
-		},
-		{
-			"type": "章",
-			"number": 300,
-			"title": "號誌、號訊及標誌",
-			"start": 2700
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "通則",
-			"start": 2700
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "固定號誌機",
-			"start": 3200
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "臨時號誌機",
-			"start": 4300
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "手作號誌",
-			"start": 4600
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "號訊",
-			"start": 5000
-		},
-		{
-			"type": "節",
-			"number": 600,
-			"title": "標誌",
-			"start": 5300
-		},
-		{
-			"type": "章",
-			"number": 400,
-			"title": "運轉",
-			"start": 5600
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "列車編組",
-			"start": 5600
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "列車運轉",
-			"start": 6300
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "調車",
-			"start": 7600
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "運轉速度",
-			"start": 8000
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "轉轍之處理",
-			"start": 8700
-		},
-		{
-			"type": "節",
-			"number": 600,
-			"title": "停留車輛",
-			"start": 8900
-		},
-		{
-			"type": "章",
-			"number": 500,
-			"title": "閉塞",
-			"start": 9200
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "通則",
-			"start": 9200
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "常用閉塞式",
-			"start": 9800
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "代用閉塞式",
-			"start": 10200
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "閉塞準用法",
-			"start": 11400
-		},
-		{
-			"type": "章",
-			"number": 600,
-			"title": "行車事故之處理",
-			"start": 12200
+			"start": 400,
+			"end": 12600,
+			"children": [
+				{
+					"type": "章",
+					"number": 100,
+					"title": "路線及設備",
+					"start": 400,
+					"end": 1700,
+					"children": [
+						{
+							"type": "節",
+							"number": 100,
+							"title": "路線",
+							"start": 400,
+							"end": 800
+						},
+						{
+							"type": "節",
+							"number": 200,
+							"title": "電車線路",
+							"start": 900,
+							"end": 1300
+						},
+						{
+							"type": "節",
+							"number": 300,
+							"title": "號誌裝置",
+							"start": 1400,
+							"end": 1600
+						},
+						{
+							"type": "節",
+							"number": 400,
+							"title": "建築界限",
+							"start": 1700,
+							"end": 1700
+						}
+					]
+				},
+				{
+					"type": "章",
+					"number": 200,
+					"title": "車輛及裝載限制",
+					"start": 1800,
+					"end": 2600,
+					"children": [
+						{
+							"type": "節",
+							"number": 100,
+							"title": "車輛",
+							"start": 1800,
+							"end": 2200
+						},
+						{
+							"type": "節",
+							"number": 200,
+							"title": "裝載限制",
+							"start": 2300,
+							"end": 2600
+						}
+					]
+				},
+				{
+					"type": "章",
+					"number": 300,
+					"title": "號誌、號訊及標誌",
+					"start": 2700,
+					"end": 5500,
+					"children": [
+						{
+							"type": "節",
+							"number": 100,
+							"title": "通則",
+							"start": 2700,
+							"end": 3100
+						},
+						{
+							"type": "節",
+							"number": 200,
+							"title": "固定號誌機",
+							"start": 3200,
+							"end": 4200
+						},
+						{
+							"type": "節",
+							"number": 300,
+							"title": "臨時號誌機",
+							"start": 4300,
+							"end": 4500
+						},
+						{
+							"type": "節",
+							"number": 400,
+							"title": "手作號誌",
+							"start": 4600,
+							"end": 4900
+						},
+						{
+							"type": "節",
+							"number": 500,
+							"title": "號訊",
+							"start": 5000,
+							"end": 5200
+						},
+						{
+							"type": "節",
+							"number": 600,
+							"title": "標誌",
+							"start": 5300,
+							"end": 5500
+						}
+					]
+				},
+				{
+					"type": "章",
+					"number": 400,
+					"title": "運轉",
+					"start": 5600,
+					"end": 9100,
+					"children": [
+						{
+							"type": "節",
+							"number": 100,
+							"title": "列車編組",
+							"start": 5600,
+							"end": 6200
+						},
+						{
+							"type": "節",
+							"number": 200,
+							"title": "列車運轉",
+							"start": 6300,
+							"end": 7500
+						},
+						{
+							"type": "節",
+							"number": 300,
+							"title": "調車",
+							"start": 7600,
+							"end": 7900
+						},
+						{
+							"type": "節",
+							"number": 400,
+							"title": "運轉速度",
+							"start": 8000,
+							"end": 8600
+						},
+						{
+							"type": "節",
+							"number": 500,
+							"title": "轉轍之處理",
+							"start": 8700,
+							"end": 8800
+						},
+						{
+							"type": "節",
+							"number": 600,
+							"title": "停留車輛",
+							"start": 8900,
+							"end": 9100
+						}
+					]
+				},
+				{
+					"type": "章",
+					"number": 500,
+					"title": "閉塞",
+					"start": 9200,
+					"end": 12100,
+					"children": [
+						{
+							"type": "節",
+							"number": 100,
+							"title": "通則",
+							"start": 9200,
+							"end": 9700
+						},
+						{
+							"type": "節",
+							"number": 200,
+							"title": "常用閉塞式",
+							"start": 9800,
+							"end": 10100
+						},
+						{
+							"type": "節",
+							"number": 300,
+							"title": "代用閉塞式",
+							"start": 10200,
+							"end": 11300
+						},
+						{
+							"type": "節",
+							"number": 400,
+							"title": "閉塞準用法",
+							"start": 11400,
+							"end": 12100
+						}
+					]
+				},
+				{
+					"type": "章",
+					"number": 600,
+					"title": "行車事故之處理",
+					"start": 12200,
+					"end": 12600
+				}
+			]
 		},
 		{
 			"type": "編",
 			"number": 300,
 			"title": "高速鐵路",
-			"start": 12700
-		},
-		{
-			"type": "章",
-			"number": 100,
-			"title": "（刪除）",
-			"start": 12700
-		},
-		{
-			"type": "章",
-			"number": 200,
-			"title": "設施及車輛",
-			"start": 12900
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "路線檢查與維護",
-			"start": 12900
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "電力設備檢查與維護",
-			"start": 13500
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "保安裝置檢查與維護",
-			"start": 13900
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "車輛檢查與維護",
-			"start": 14100
-		},
-		{
-			"type": "章",
-			"number": 300,
-			"title": "運轉",
-			"start": 14400
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "號誌、號訊及標誌",
-			"start": 14400
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "列車編組",
-			"start": 14900
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "車輛、列車之運轉與保安",
-			"start": 15300
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "運轉速度",
-			"start": 16900
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "車輛停留",
-			"start": 17300
-		},
-		{
-			"type": "章",
-			"number": 400,
-			"title": "行車事故之處理",
-			"start": 17400
+			"start": 12700,
+			"end": 17500,
+			"children": [
+				{
+					"type": "章",
+					"number": 100,
+					"title": "（刪除）",
+					"start": 12700,
+					"end": 12800
+				},
+				{
+					"type": "章",
+					"number": 200,
+					"title": "設施及車輛",
+					"start": 12900,
+					"end": 14300,
+					"children": [
+						{
+							"type": "節",
+							"number": 100,
+							"title": "路線檢查與維護",
+							"start": 12900,
+							"end": 13400
+						},
+						{
+							"type": "節",
+							"number": 200,
+							"title": "電力設備檢查與維護",
+							"start": 13500,
+							"end": 13800
+						},
+						{
+							"type": "節",
+							"number": 300,
+							"title": "保安裝置檢查與維護",
+							"start": 13900,
+							"end": 14000
+						},
+						{
+							"type": "節",
+							"number": 400,
+							"title": "車輛檢查與維護",
+							"start": 14100,
+							"end": 14300
+						}
+					]
+				},
+				{
+					"type": "章",
+					"number": 300,
+					"title": "運轉",
+					"start": 14400,
+					"end": 17300,
+					"children": [
+						{
+							"type": "節",
+							"number": 100,
+							"title": "號誌、號訊及標誌",
+							"start": 14400,
+							"end": 14800
+						},
+						{
+							"type": "節",
+							"number": 200,
+							"title": "列車編組",
+							"start": 14900,
+							"end": 15200
+						},
+						{
+							"type": "節",
+							"number": 300,
+							"title": "車輛、列車之運轉與保安",
+							"start": 15300,
+							"end": 16800
+						},
+						{
+							"type": "節",
+							"number": 400,
+							"title": "運轉速度",
+							"start": 16900,
+							"end": 17200
+						},
+						{
+							"type": "節",
+							"number": 500,
+							"title": "車輛停留",
+							"start": 17300,
+							"end": 17300
+						}
+					]
+				},
+				{
+					"type": "章",
+					"number": 400,
+					"title": "行車事故之處理",
+					"start": 17400,
+					"end": 17500
+				}
+			]
 		},
 		{
 			"type": "編",
 			"number": 400,
 			"title": "附則",
-			"start": 17600
+			"start": 17600,
+			"end": 17700
 		}
 	],
 	"articles": [

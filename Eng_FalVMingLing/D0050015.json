@@ -18,49 +18,59 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General rules",
-			"start": 100
+			"start": 100,
+			"end": 400
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Establishment standards",
-			"start": 500
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Nursery service center",
-			"start": 500
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Early intervention institutes",
-			"start": 1300
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Placement and educational institutes",
-			"start": 1800
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "Psychological counseling or family consultation institutes. (Psychological guidance or family consulting Institutes)",
-			"start": 2400
-		},
-		{
-			"type": "section",
-			"number": 500,
-			"title": "Other children and youth welfare institutes.",
-			"start": 2700
+			"start": 500,
+			"end": 2900,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Nursery service center",
+					"start": 500,
+					"end": 1200
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Early intervention institutes",
+					"start": 1300,
+					"end": 1700
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Placement and educational institutes",
+					"start": 1800,
+					"end": 2300
+				},
+				{
+					"type": "section",
+					"number": 400,
+					"title": "Psychological counseling or family consultation institutes. (Psychological guidance or family consulting Institutes)",
+					"start": 2400,
+					"end": 2600
+				},
+				{
+					"type": "section",
+					"number": 500,
+					"title": "Other children and youth welfare institutes.",
+					"start": 2700,
+					"end": 2900
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Supplementary provisions",
-			"start": 3000
+			"start": 3000,
+			"end": 3300
 		}
 	],
 	"articles": [

@@ -32,109 +32,129 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General",
-			"start": 100
+			"start": 100,
+			"end": 600
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Aircraft",
-			"start": 700
+			"start": 700,
+			"end": 2302
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Airman",
-			"start": 2400
+			"start": 2400,
+			"end": 2701
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Airport, Airfield & Navigation Aids",
-			"start": 2800
+			"start": 2800,
+			"end": 3700
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Flight Safety",
-			"start": 3800
+			"start": 3800,
+			"end": 4705
 		},
 		{
 			"type": "chapter",
 			"number": 600,
 			"title": "Management of Civil Air Transport Enterprise",
-			"start": 4800
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Civil Air Transport Enterprise",
-			"start": 4800
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "General Aviation Enterprise",
-			"start": 6400
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Air Freight Forwarder",
-			"start": 6600
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "Air Cargo entrepot",
-			"start": 7100
-		},
-		{
-			"type": "section",
-			"number": 500,
-			"title": "Airport Ground Handling Services",
-			"start": 7400
+			"start": 4800,
+			"end": 7701,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Civil Air Transport Enterprise",
+					"start": 4800,
+					"end": 6301
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "General Aviation Enterprise",
+					"start": 6400,
+					"end": 6500
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Air Freight Forwarder",
+					"start": 6600,
+					"end": 7001
+				},
+				{
+					"type": "section",
+					"number": 400,
+					"title": "Air Cargo entrepot",
+					"start": 7100,
+					"end": 7300
+				},
+				{
+					"type": "section",
+					"number": 500,
+					"title": "Airport Ground Handling Services",
+					"start": 7400,
+					"end": 7701
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 700,
 			"title": "Foreign Aircraft or Foreign Civil Air Transport Enterprise",
-			"start": 7800
+			"start": 7800,
+			"end": 8301
 		},
 		{
 			"type": "chapter",
 			"number": 800,
 			"title": "(Deleted)",
-			"start": 8400
+			"start": 8400,
+			"end": 8801
 		},
 		{
 			"type": "chapter",
 			"number": 900,
 			"title": "Liability for Compensation",
-			"start": 8900
+			"start": 8900,
+			"end": 9900
 		},
 		{
 			"type": "chapter",
 			"number": 901,
 			"title": "Ultra-light Vehicle",
-			"start": 9901
+			"start": 9901,
+			"end": 9908
 		},
 		{
 			"type": "chapter",
 			"number": 902,
 			"title": "DRONE",
-			"start": 9909
+			"start": 9909,
+			"end": 9919
 		},
 		{
 			"type": "chapter",
 			"number": 1000,
 			"title": "Penalties",
-			"start": 10000
+			"start": 10000,
+			"end": 12000
 		},
 		{
 			"type": "chapter",
 			"number": 1100,
 			"title": "Supplemental Provisions",
-			"start": 12100
+			"start": 12100,
+			"end": 12300
 		}
 	],
 	"articles": [

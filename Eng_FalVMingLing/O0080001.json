@@ -17,49 +17,61 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Principles",
-			"start": 100
+			"start": 100,
+			"end": 300
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Organizations Handling Public Disputes",
-			"start": 400
-		},
-		{
-			"type": "subchapter",
-			"number": 100,
-			"title": "Mediation Committees",
-			"start": 400
-		},
-		{
-			"type": "subchapter",
-			"number": 200,
-			"title": "Arbitration Panel",
-			"start": 900
+			"start": 400,
+			"end": 1300,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Mediation Committees",
+					"start": 400,
+					"end": 800
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Arbitration Panel",
+					"start": 900,
+					"end": 1300
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Settlement Procedures",
-			"start": 1400
-		},
-		{
-			"type": "subchapter",
-			"number": 100,
-			"title": "Mediation",
-			"start": 1400
-		},
-		{
-			"type": "subchapter",
-			"number": 200,
-			"title": "Arbitration",
-			"start": 3300
+			"start": 1400,
+			"end": 4000,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Mediation",
+					"start": 1400,
+					"end": 3200
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Arbitration",
+					"start": 3300,
+					"end": 4000
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Supplementary Provisions",
-			"start": 4100
+			"start": 4100,
+			"end": 5100
 		}
 	],
 	"articles": [

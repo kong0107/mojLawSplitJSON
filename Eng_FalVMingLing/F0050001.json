@@ -18,31 +18,36 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "GENERAL PRINCIPLES",
-			"start": 100
+			"start": 100,
+			"end": 500
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "INUSRANCE BENEFICIARY",
-			"start": 600
+			"start": 600,
+			"end": 900
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "INSURANCE PREMIUM",
-			"start": 1000
+			"start": 1000,
+			"end": 1100
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "INSURANCE PAYMENT",
-			"start": 1200
+			"start": 1200,
+			"end": 2000
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "SUPPLEMENTARY PROVISIONS",
-			"start": 2100
+			"start": 2100,
+			"end": 2500
 		}
 	],
 	"articles": [

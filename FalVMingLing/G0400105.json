@@ -28,55 +28,66 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 700
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "本國期貨商之設置",
-			"start": 800
+			"start": 800,
+			"end": 1800
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "外國期貨商之設置",
-			"start": 1900
+			"start": 1900,
+			"end": 2300
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "他業申請兼營期貨業務",
-			"start": 2400
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "本國證券商",
-			"start": 2400
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "本國金融機構",
-			"start": 3400
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "外國證券商或金融機構",
-			"start": 3900
+			"start": 2400,
+			"end": 4200,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "本國證券商",
+					"start": 2400,
+					"end": 3300
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "本國金融機構",
+					"start": 3400,
+					"end": 3800
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "外國證券商或金融機構",
+					"start": 3900,
+					"end": 4200
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "業務種類之增加",
-			"start": 4300
+			"start": 4300,
+			"end": 4600
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "附則",
-			"start": 4700
+			"start": 4700,
+			"end": 5100
 		}
 	],
 	"articles": [

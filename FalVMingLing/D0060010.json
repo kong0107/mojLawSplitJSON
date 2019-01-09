@@ -53,43 +53,50 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 1400
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "規定地價",
-			"start": 1500
+			"start": 1500,
+			"end": 2500
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "照價徵稅",
-			"start": 2600
+			"start": 2600,
+			"end": 4200
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "照價收買",
-			"start": 4300
+			"start": 4300,
+			"end": 4900
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "漲價歸公",
-			"start": 5000
+			"start": 5000,
+			"end": 6600
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "土地使用",
-			"start": 6700
+			"start": 6700,
+			"end": 10000
 		},
 		{
 			"type": "章",
 			"number": 700,
 			"title": "附則",
-			"start": 10100
+			"start": 10100,
+			"end": 10200
 		}
 	],
 	"articles": [

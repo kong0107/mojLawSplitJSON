@@ -13,43 +13,50 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 700
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "危險品包裝",
-			"start": 800
+			"start": 800,
+			"end": 2800
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "標記及標籤",
-			"start": 2900
+			"start": 2900,
+			"end": 3600
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "危險品裝運文件",
-			"start": 3700
+			"start": 3700,
+			"end": 4400
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "危險品裝載運送",
-			"start": 4500
+			"start": 4500,
+			"end": 11400
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "危險品裝載檢查",
-			"start": 11500
+			"start": 11500,
+			"end": 11800
 		},
 		{
 			"type": "章",
 			"number": 700,
 			"title": "附則",
-			"start": 11900
+			"start": 11900,
+			"end": 12100
 		}
 	],
 	"articles": [

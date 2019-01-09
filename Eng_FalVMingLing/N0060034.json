@@ -112,85 +112,101 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Provisions",
-			"start": 100
+			"start": 100,
+			"end": 300
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Power presses or shear machines",
-			"start": 400
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Safetyguards",
-			"start": 400
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Safety devices",
-			"start": 600
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Mechanisms and Devices",
-			"start": 1600
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "Mechanical systems",
-			"start": 2700
-		},
-		{
-			"type": "section",
-			"number": 500,
-			"title": "Hydraulic systems",
-			"start": 4500
+			"start": 400,
+			"end": 4900,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Safetyguards",
+					"start": 400,
+					"end": 500
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Safety devices",
+					"start": 600,
+					"end": 1500
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Mechanisms and Devices",
+					"start": 1600,
+					"end": 2600
+				},
+				{
+					"type": "section",
+					"number": 400,
+					"title": "Mechanical systems",
+					"start": 2700,
+					"end": 4400
+				},
+				{
+					"type": "section",
+					"number": 500,
+					"title": "Hydraulic systems",
+					"start": 4500,
+					"end": 4900
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Hand-fed planer",
-			"start": 5000
+			"start": 5000,
+			"end": 5800
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Woodworking circular saws",
-			"start": 5900
+			"start": 5900,
+			"end": 7000
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Power lift-trucks",
-			"start": 7100
+			"start": 7100,
+			"end": 8400
 		},
 		{
 			"type": "chapter",
 			"number": 600,
 			"title": "Grinders and grinding wheels",
-			"start": 8500
+			"start": 8500,
+			"end": 10900
 		},
 		{
 			"type": "chapter",
 			"number": 700,
 			"title": "Explosion-proof and electroshock-proof equipment",
-			"start": 11000
+			"start": 11000,
+			"end": 11101
 		},
 		{
 			"type": "chapter",
 			"number": 800,
 			"title": "Markings",
-			"start": 11200
+			"start": 11200,
+			"end": 11900
 		},
 		{
 			"type": "chapter",
 			"number": 900,
 			"title": "Supplementary Provisions",
-			"start": 12000
+			"start": 12000,
+			"end": 12100
 		}
 	],
 	"articles": [

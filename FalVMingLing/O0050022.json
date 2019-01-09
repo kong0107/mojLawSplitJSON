@@ -22,31 +22,36 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 400
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "申請與審定",
-			"start": 500
+			"start": 500,
+			"end": 800
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "技術顧問機構之遴選",
-			"start": 900
+			"start": 900,
+			"end": 1500
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "公民營機構之遴選",
-			"start": 1600
+			"start": 1600,
+			"end": 2200
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "興建、營運與監督",
-			"start": 2300
+			"start": 2300,
+			"end": 3800
 		}
 	],
 	"articles": [

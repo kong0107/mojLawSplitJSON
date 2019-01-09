@@ -16,43 +16,50 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General",
-			"start": 100
+			"start": 100,
+			"end": 300
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Requirements for CPSK and warehouse",
-			"start": 400
+			"start": 400,
+			"end": 500
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Collection of public stock paddy",
-			"start": 600
+			"start": 600,
+			"end": 800
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Storage of public stock",
-			"start": 900
+			"start": 900,
+			"end": 1200
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Processing and Distribution of Public Stock",
-			"start": 1300
+			"start": 1300,
+			"end": 1600
 		},
 		{
 			"type": "chapter",
 			"number": 600,
 			"title": "Other management issues",
-			"start": 1700
+			"start": 1700,
+			"end": 3000
 		},
 		{
 			"type": "chapter",
 			"number": 700,
 			"title": "Annexes",
-			"start": 3100
+			"start": 3100,
+			"end": 3100
 		}
 	],
 	"articles": [

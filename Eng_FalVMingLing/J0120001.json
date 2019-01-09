@@ -18,31 +18,36 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Provisions",
-			"start": 100
+			"start": 100,
+			"end": 1000
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Finance",
-			"start": 1100
+			"start": 1100,
+			"end": 1700
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Operations",
-			"start": 1800
+			"start": 1800,
+			"end": 3000
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Personnel",
-			"start": 3100
+			"start": 3100,
+			"end": 3700
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Addendum",
-			"start": 3800
+			"start": 3800,
+			"end": 3800
 		}
 	],
 	"articles": [

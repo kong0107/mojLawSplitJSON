@@ -22,25 +22,29 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 500
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "評估、審查及監督",
-			"start": 600
+			"start": 600,
+			"end": 1900
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "罰則",
-			"start": 2000
+			"start": 2000,
+			"end": 2400
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "附則",
-			"start": 2500
+			"start": 2500,
+			"end": 3200
 		}
 	],
 	"articles": [

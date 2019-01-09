@@ -56,49 +56,57 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General",
-			"start": 100
+			"start": 100,
+			"end": 200
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Permit & Registration",
-			"start": 300
+			"start": 300,
+			"end": 1100
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Air Route Certificate",
-			"start": 1200
+			"start": 1200,
+			"end": 1500
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Charter Flights",
-			"start": 1600
+			"start": 1600,
+			"end": 1800
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Flight Application",
-			"start": 1900
+			"start": 1900,
+			"end": 2200
 		},
 		{
 			"type": "chapter",
 			"number": 600,
 			"title": "Operational Administration",
-			"start": 2300
+			"start": 2300,
+			"end": 2902
 		},
 		{
 			"type": "chapter",
 			"number": 700,
 			"title": "Foreign Civil Air Transport Enterprise (deleted)",
-			"start": 3000
+			"start": 3000,
+			"end": 3400
 		},
 		{
 			"type": "chapter",
 			"number": 800,
 			"title": "Supplemental Provisions",
-			"start": 3500
+			"start": 3500,
+			"end": 3600
 		}
 	],
 	"articles": [

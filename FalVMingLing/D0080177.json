@@ -20,31 +20,36 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 500
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "預防及鑑別",
-			"start": 600
+			"start": 600,
+			"end": 1100
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "被害人保護",
-			"start": 1200
+			"start": 1200,
+			"end": 3000
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "罰則",
-			"start": 3100
+			"start": 3100,
+			"end": 4200
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "附則",
-			"start": 4300
+			"start": 4300,
+			"end": 4500
 		}
 	],
 	"articles": [

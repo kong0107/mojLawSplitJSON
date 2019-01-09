@@ -21,25 +21,29 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Provisions",
-			"start": 100
+			"start": 100,
+			"end": 500
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Import Control",
-			"start": 600
+			"start": 600,
+			"end": 1400
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Export Control",
-			"start": 1500
+			"start": 1500,
+			"end": 2000
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Supplementary Provisions",
-			"start": 2100
+			"start": 2100,
+			"end": 2200
 		}
 	],
 	"articles": [

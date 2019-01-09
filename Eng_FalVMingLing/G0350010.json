@@ -36,61 +36,75 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Provisions",
-			"start": 100
+			"start": 100,
+			"end": 800
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Management of Customs Clearance Processing of Carriers",
-			"start": 900
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Registration",
-			"start": 900
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Management",
-			"start": 1500
+			"start": 900,
+			"end": 3400,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Registration",
+					"start": 900,
+					"end": 1400
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Management",
+					"start": 1500,
+					"end": 3400
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Management Concerning Customs Clearance for Transportation Mean",
-			"start": 3500
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Sea Shipping",
-			"start": 3500
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Land Transportation",
-			"start": 5600
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Air Transportation",
-			"start": 7100
+			"start": 3500,
+			"end": 7800,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Sea Shipping",
+					"start": 3500,
+					"end": 5500
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Land Transportation",
+					"start": 5600,
+					"end": 7000
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Air Transportation",
+					"start": 7100,
+					"end": 7800
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Penalty",
-			"start": 7900
+			"start": 7900,
+			"end": 8700
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Supplementary Provisions",
-			"start": 8800
+			"start": 8800,
+			"end": 8800
 		}
 	],
 	"articles": [

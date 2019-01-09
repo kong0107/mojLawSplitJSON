@@ -18,37 +18,45 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 400
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "設立許可",
-			"start": 500
+			"start": 500,
+			"end": 700
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "管理與監督",
-			"start": 800
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "財務與業務",
-			"start": 800
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "組織與人員",
-			"start": 2300
+			"start": 800,
+			"end": 2900,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "財務與業務",
+					"start": 800,
+					"end": 2200
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "組織與人員",
+					"start": 2300,
+					"end": 2900
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "附則",
-			"start": 3000
+			"start": 3000,
+			"end": 3000
 		}
 	],
 	"articles": [

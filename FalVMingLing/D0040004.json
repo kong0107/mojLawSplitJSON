@@ -30,37 +30,43 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 300
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "免役",
-			"start": 400
+			"start": 400,
+			"end": 800
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "禁役",
-			"start": 900
+			"start": 900,
+			"end": 1000
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "緩徵",
-			"start": 1100
+			"start": 1100,
+			"end": 1800
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "緩召",
-			"start": 1900
+			"start": 1900,
+			"end": 3300
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "附則",
-			"start": 3400
+			"start": 3400,
+			"end": 4100
 		}
 	],
 	"articles": [

@@ -20,19 +20,22 @@
 			"type": "章",
 			"number": 100,
 			"title": "通則",
-			"start": 100
+			"start": 100,
+			"end": 300
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "分配",
-			"start": 400
+			"start": 400,
+			"end": 1100
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "管理",
-			"start": 1200
+			"start": 1200,
+			"end": 1900
 		}
 	],
 	"articles": [

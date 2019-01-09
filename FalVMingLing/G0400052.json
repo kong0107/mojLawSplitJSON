@@ -42,31 +42,36 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 600
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "關係企業合併營業報告書",
-			"start": 700
+			"start": 700,
+			"end": 900
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "關係企業合併財務報表",
-			"start": 1000
+			"start": 1000,
+			"end": 1400
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "關係報告書",
-			"start": 1500
+			"start": 1500,
+			"end": 1801
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "附則",
-			"start": 1900
+			"start": 1900,
+			"end": 1900
 		}
 	],
 	"articles": [

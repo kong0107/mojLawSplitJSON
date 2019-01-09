@@ -14,67 +14,80 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General",
-			"start": 100
+			"start": 100,
+			"end": 400
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Sand and Gravel Excavation Permit",
-			"start": 500
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Conditions for applying permit",
-			"start": 500
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Application and drawings",
-			"start": 1000
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Examine and registration",
-			"start": 1300
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "Extension",
-			"start": 1600
-		},
-		{
-			"type": "section",
-			"number": 500,
-			"title": "Commencement, area reduction, revision and extinction",
-			"start": 1800
+			"start": 500,
+			"end": 2800,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Conditions for applying permit",
+					"start": 500,
+					"end": 900
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Application and drawings",
+					"start": 1000,
+					"end": 1200
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Examine and registration",
+					"start": 1300,
+					"end": 1500
+				},
+				{
+					"type": "section",
+					"number": 400,
+					"title": "Extension",
+					"start": 1600,
+					"end": 1700
+				},
+				{
+					"type": "section",
+					"number": 500,
+					"title": "Commencement, area reduction, revision and extinction",
+					"start": 1800,
+					"end": 2800
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Safety in Sand and Gravel Excavation Field",
-			"start": 2900
+			"start": 2900,
+			"end": 3100
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Supervision",
-			"start": 3200
+			"start": 3200,
+			"end": 3500
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Penal Provisions",
-			"start": 3600
+			"start": 3600,
+			"end": 4500
 		},
 		{
 			"type": "chapter",
 			"number": 600,
 			"title": "Supplementary Provisions",
-			"start": 4600
+			"start": 4600,
+			"end": 5300
 		}
 	],
 	"articles": [

@@ -43,37 +43,43 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 1300
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "郵費及郵票",
-			"start": 1400
+			"start": 1400,
+			"end": 1800
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "郵件遞送及管理",
-			"start": 1900
+			"start": 1900,
+			"end": 2800
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "郵件補償",
-			"start": 2900
+			"start": 2900,
+			"end": 3500
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "罰則",
-			"start": 3600
+			"start": 3600,
+			"end": 4600
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "附則",
-			"start": 4700
+			"start": 4700,
+			"end": 4900
 		}
 	],
 	"articles": [

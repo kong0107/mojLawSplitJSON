@@ -14,31 +14,36 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 600
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "辦理事務",
-			"start": 700
+			"start": 700,
+			"end": 1200
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "服務成績考查",
-			"start": 1300
+			"start": 1300,
+			"end": 1900
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "再予審查",
-			"start": 2000
+			"start": 2000,
+			"end": 2200
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "附則",
-			"start": 2300
+			"start": 2300,
+			"end": 2400
 		}
 	],
 	"articles": [

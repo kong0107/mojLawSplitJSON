@@ -27,25 +27,29 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Principles",
-			"start": 100
+			"start": 100,
+			"end": 200
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Application, Permit, and License",
-			"start": 300
+			"start": 300,
+			"end": 1500
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Equipment and Communication Regulations",
-			"start": 1600
+			"start": 1600,
+			"end": 1800
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Supplementary Provisions",
-			"start": 1900
+			"start": 1900,
+			"end": 2200
 		}
 	],
 	"articles": [

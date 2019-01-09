@@ -28,49 +28,59 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Principles",
-			"start": 100
+			"start": 100,
+			"end": 300
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Permission of Operation",
-			"start": 400
+			"start": 400,
+			"end": 1300
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Operation Administration",
-			"start": 1400
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "General Provisions",
-			"start": 1400
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Intra-corporation Network Communication Service (or VPN Service)",
-			"start": 2100
+			"start": 1400,
+			"end": 2400,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "General Provisions",
+					"start": 1400,
+					"end": 2000
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Intra-corporation Network Communication Service (or VPN Service)",
+					"start": 2100,
+					"end": 2400
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Regulation of Maintenance and Operation of Telecommunication Facilities",
-			"start": 2500
+			"start": 2500,
+			"end": 3100
 		},
 		{
 			"type": "chapter",
 			"number": 401,
 			"title": "Information and Communication Security Management",
-			"start": 3101
+			"start": 3101,
+			"end": 3103
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Supplementary Provisions",
-			"start": 3200
+			"start": 3200,
+			"end": 3600
 		}
 	],
 	"articles": [

@@ -21,19 +21,22 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 200
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "設置標準",
-			"start": 300
+			"start": 300,
+			"end": 500
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "附則",
-			"start": 600
+			"start": 600,
+			"end": 600
 		}
 	],
 	"articles": [

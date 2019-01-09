@@ -13,37 +13,43 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Provisions",
-			"start": 100
+			"start": 100,
+			"end": 400
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Product Surveillance",
-			"start": 500
+			"start": 500,
+			"end": 1100
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Market Checks",
-			"start": 1200
+			"start": 1200,
+			"end": 1900
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Processing of Noncompliant Products",
-			"start": 2000
+			"start": 2000,
+			"end": 2400
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Return Shipment and Destruction",
-			"start": 2500
+			"start": 2500,
+			"end": 2700
 		},
 		{
 			"type": "chapter",
 			"number": 600,
 			"title": "Others",
-			"start": 2800
+			"start": 2800,
+			"end": 2800
 		}
 	],
 	"articles": [

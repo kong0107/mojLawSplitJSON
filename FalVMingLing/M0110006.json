@@ -25,31 +25,36 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 1501
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "農業使用",
-			"start": 1600
+			"start": 1600,
+			"end": 2900
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "非農業使用",
-			"start": 3000
+			"start": 3000,
+			"end": 3201
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "獎懲",
-			"start": 3300
+			"start": 3300,
+			"end": 3600
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "附則",
-			"start": 3700
+			"start": 3700,
+			"end": 3900
 		}
 	],
 	"articles": [

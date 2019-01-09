@@ -38,43 +38,50 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 400
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "課徵範圍",
-			"start": 500
+			"start": 500,
+			"end": 600
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "稅率或稅額",
-			"start": 700
+			"start": 700,
+			"end": 700
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "納稅方法",
-			"start": 800
+			"start": 800,
+			"end": 2000
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "印花稅檢查",
-			"start": 2100
+			"start": 2100,
+			"end": 2200
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "罰則",
-			"start": 2300
+			"start": 2300,
+			"end": 2900
 		},
 		{
 			"type": "章",
 			"number": 700,
 			"title": "附則",
-			"start": 3000
+			"start": 3000,
+			"end": 3100
 		}
 	],
 	"articles": [

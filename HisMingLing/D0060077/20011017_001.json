@@ -13,73 +13,89 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 700
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "估價作業程序",
-			"start": 800
+			"start": 800,
+			"end": 1700
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "估價方法",
-			"start": 1800
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "比較法",
-			"start": 1800
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "收益法",
-			"start": 2800
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "成本法",
-			"start": 4800
+			"start": 1800,
+			"end": 8200,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "比較法",
+					"start": 1800,
+					"end": 2700
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "收益法",
+					"start": 2800,
+					"end": 4700
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "成本法",
+					"start": 4800,
+					"end": 8200
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "宗地估價",
-			"start": 8300
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "通則",
-			"start": 8300
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "特殊宗地估價",
-			"start": 9000
+			"start": 8300,
+			"end": 9700,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "通則",
+					"start": 8300,
+					"end": 8900
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "特殊宗地估價",
+					"start": 9000,
+					"end": 9700
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "房地估價",
-			"start": 9800
+			"start": 9800,
+			"end": 10600
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "土地改良物估價",
-			"start": 10700
+			"start": 10700,
+			"end": 11300
 		},
 		{
 			"type": "章",
 			"number": 700,
 			"title": "權利估價",
-			"start": 11400
+			"start": 11400,
+			"end": 11600
 		},
 		{
 			"type": "章",

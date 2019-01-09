@@ -23,25 +23,29 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 500
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "上市、上櫃有價證券借貸業務",
-			"start": 600
+			"start": 600,
+			"end": 3000
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "中央登錄公債借貸業務",
-			"start": 3100
+			"start": 3100,
+			"end": 3800
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "附則",
-			"start": 3900
+			"start": 3900,
+			"end": 4100
 		}
 	],
 	"articles": [

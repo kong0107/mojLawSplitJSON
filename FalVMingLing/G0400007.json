@@ -36,49 +36,61 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 300
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "設立許可或特許",
-			"start": 400
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "會員制證券交易所",
-			"start": 400
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "公司制證券交易所",
-			"start": 1100
+			"start": 400,
+			"end": 1700,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "會員制證券交易所",
+					"start": 400,
+					"end": 1000
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "公司制證券交易所",
+					"start": 1100,
+					"end": 1700
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "管理與監督",
-			"start": 1800
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "財務及業務",
-			"start": 1800
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "組織及人員",
-			"start": 3700
+			"start": 1800,
+			"end": 4700,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "財務及業務",
+					"start": 1800,
+					"end": 3600
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "組織及人員",
+					"start": 3700,
+					"end": 4700
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "附則",
-			"start": 4800
+			"start": 4800,
+			"end": 4900
 		}
 	],
 	"articles": [

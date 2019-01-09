@@ -21,49 +21,59 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Principles",
-			"start": 100
+			"start": 100,
+			"end": 300
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "The Design and Implementation of Internal Control System",
-			"start": 400
+			"start": 400,
+			"end": 800
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "The Inspection of Internal Control System",
-			"start": 900
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Internal Audit",
-			"start": 900
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Self-inspection and Internal Control System Statement",
-			"start": 2400
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Audit by an Accountant",
-			"start": 2600
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "Regulatory Compliance System",
-			"start": 3000
+			"start": 900,
+			"end": 3400,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Internal Audit",
+					"start": 900,
+					"end": 2300
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Self-inspection and Internal Control System Statement",
+					"start": 2400,
+					"end": 2500
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Audit by an Accountant",
+					"start": 2600,
+					"end": 2900
+				},
+				{
+					"type": "section",
+					"number": 400,
+					"title": "Regulatory Compliance System",
+					"start": 3000,
+					"end": 3400
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Supplementary Principles",
-			"start": 3500
+			"start": 3500,
+			"end": 4100
 		}
 	],
 	"articles": [

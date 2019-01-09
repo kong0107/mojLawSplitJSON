@@ -33,103 +33,124 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Provisions",
-			"start": 100
+			"start": 100,
+			"end": 300
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Insurer, Insured Units, and Insured Persons",
-			"start": 400
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Insurer",
-			"start": 400
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Insured Units",
-			"start": 800
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Insured Person",
-			"start": 1900
+			"start": 400,
+			"end": 2601,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Insurer",
+					"start": 400,
+					"end": 700
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Insured Units",
+					"start": 800,
+					"end": 1800
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Insured Person",
+					"start": 1900,
+					"end": 2601
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Insurance Premiums",
-			"start": 2700
+			"start": 2700,
+			"end": 4100
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Insurance Benefit Payments",
-			"start": 4200
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "General Rules",
-			"start": 4200
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Maternity Benefits",
-			"start": 5600
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Injury or Sickness Benefits",
-			"start": 5700
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "Occupational Accident Insurance Medical Benefits",
-			"start": 5900
-		},
-		{
-			"type": "section",
-			"number": 500,
-			"title": "Disability Benefits",
-			"start": 6800
-		},
-		{
-			"type": "section",
-			"number": 600,
-			"title": "Old-age Benefits",
-			"start": 7700
-		},
-		{
-			"type": "section",
-			"number": 700,
-			"title": "Death Benefits",
-			"start": 8000
-		},
-		{
-			"type": "section",
-			"number": 800,
-			"title": "The Application and Issuance of Pension Payment",
-			"start": 9300
+			"start": 4200,
+			"end": 9700,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "General Rules",
+					"start": 4200,
+					"end": 5500
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Maternity Benefits",
+					"start": 5600,
+					"end": 5600
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Injury or Sickness Benefits",
+					"start": 5700,
+					"end": 5800
+				},
+				{
+					"type": "section",
+					"number": 400,
+					"title": "Occupational Accident Insurance Medical Benefits",
+					"start": 5900,
+					"end": 6700
+				},
+				{
+					"type": "section",
+					"number": 500,
+					"title": "Disability Benefits",
+					"start": 6800,
+					"end": 7600
+				},
+				{
+					"type": "section",
+					"number": 600,
+					"title": "Old-age Benefits",
+					"start": 7700,
+					"end": 7900
+				},
+				{
+					"type": "section",
+					"number": 700,
+					"title": "Death Benefits",
+					"start": 8000,
+					"end": 9200
+				},
+				{
+					"type": "section",
+					"number": 800,
+					"title": "The Application and Issuance of Pension Payment",
+					"start": 9300,
+					"end": 9700
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Expenses",
-			"start": 9800
+			"start": 9800,
+			"end": 9801
 		},
 		{
 			"type": "chapter",
 			"number": 600,
 			"title": "Supplementary Provisions",
-			"start": 9900
+			"start": 9900,
+			"end": 9900
 		}
 	],
 	"articles": [

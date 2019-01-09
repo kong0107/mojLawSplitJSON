@@ -13,106 +13,127 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 1100
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "穀類裝載基本條件",
-			"start": 1200
+			"start": 1200,
+			"end": 1700
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "穀類假定傾側力矩之計算",
-			"start": 1800
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "假定空隙之情況與計算完整穩度之方法",
-			"start": 1800
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "已平艙滿載艙間之假定體積傾側力矩",
-			"start": 2100
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "未平艙滿載艙間之假定體積傾側力矩",
-			"start": 2400
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "圍壁之假定體積傾側力矩",
-			"start": 2500
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "部分裝載艙間之假定體積傾側力矩",
-			"start": 2600
-		},
-		{
-			"type": "節",
-			"number": 600,
-			"title": "其他假定",
-			"start": 3000
+			"start": 1800,
+			"end": 3000,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "假定空隙之情況與計算完整穩度之方法",
+					"start": 1800,
+					"end": 2000
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "已平艙滿載艙間之假定體積傾側力矩",
+					"start": 2100,
+					"end": 2300
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "未平艙滿載艙間之假定體積傾側力矩",
+					"start": 2400,
+					"end": 2400
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "圍壁之假定體積傾側力矩",
+					"start": 2500,
+					"end": 2500
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "部分裝載艙間之假定體積傾側力矩",
+					"start": 2600,
+					"end": 2900
+				},
+				{
+					"type": "節",
+					"number": 600,
+					"title": "其他假定",
+					"start": 3000,
+					"end": 3000
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "穀類防動裝置與穩固設施",
-			"start": 3100
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "榖類防動裝置之強度",
-			"start": 3100
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "已平艙滿載艙間之穩固",
-			"start": 3400
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "部分載艙間之穩固",
-			"start": 3600
+			"start": 3100,
+			"end": 3800,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "榖類防動裝置之強度",
+					"start": 3100,
+					"end": 3300
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "已平艙滿載艙間之穩固",
+					"start": 3400,
+					"end": 3500
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "部分載艙間之穩固",
+					"start": 3600,
+					"end": 3800
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "散裝貨物之裝載",
-			"start": 3900
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "貨物的裝卸與計畫",
-			"start": 3900
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "固體散裝危險貨物之裝運"
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "平艙"
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "特殊散裝貨物裝載"
+			"start": 3900,
+			"end": 4000,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "貨物的裝卸與計畫",
+					"start": 3900,
+					"end": 4000
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "固體散裝危險貨物之裝運"
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "平艙"
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "特殊散裝貨物裝載"
+				}
+			]
 		},
 		{
 			"type": "章",

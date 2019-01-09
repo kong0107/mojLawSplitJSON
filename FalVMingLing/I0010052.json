@@ -24,43 +24,50 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 800
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "檢驗及解剖屍體",
-			"start": 900
+			"start": 900,
+			"end": 1100
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "執業",
-			"start": 1200
+			"start": 1200,
+			"end": 1800
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "義務",
-			"start": 1900
+			"start": 1900,
+			"end": 2500
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "公會",
-			"start": 2600
+			"start": 2600,
+			"end": 3100
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "獎懲",
-			"start": 3200
+			"start": 3200,
+			"end": 4300
 		},
 		{
 			"type": "章",
 			"number": 700,
 			"title": "附則",
-			"start": 4400
+			"start": 4400,
+			"end": 5300
 		}
 	],
 	"articles": [

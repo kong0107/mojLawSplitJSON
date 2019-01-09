@@ -17,85 +17,103 @@
 			"type": "chapter",
 			"number": 100,
 			"title": "General Provisions",
-			"start": 100
+			"start": 100,
+			"end": 500
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "The Ship",
-			"start": 600
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Ownership Of The Ship",
-			"start": 600
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Maritime Liens",
-			"start": 2400
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Ship Mortgages",
-			"start": 3300
+			"start": 600,
+			"end": 3700,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Ownership Of The Ship",
+					"start": 600,
+					"end": 2300
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Maritime Liens",
+					"start": 2400,
+					"end": 3700
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Ship Mortgages",
+					"start": 3300,
+					"end": 3700
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Carriage",
-			"start": 3800
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "carriage Of Cargo",
-			"start": 3800
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Carriage Of Passengers",
-			"start": 7900
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Towage Of Ship",
-			"start": 9200
+			"start": 3800,
+			"end": 9300,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "carriage Of Cargo",
+					"start": 3800,
+					"end": 7800
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Carriage Of Passengers",
+					"start": 7900,
+					"end": 9100
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Towage Of Ship",
+					"start": 9200,
+					"end": 9300
+				}
+			]
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Collision Of Ships",
-			"start": 9400
+			"start": 9400,
+			"end": 10100
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Salvage",
-			"start": 10200
+			"start": 10200,
+			"end": 10900
 		},
 		{
 			"type": "chapter",
 			"number": 600,
 			"title": "General Average",
-			"start": 11000
+			"start": 11000,
+			"end": 12500
 		},
 		{
 			"type": "chapter",
 			"number": 700,
 			"title": "Marine Insurance",
-			"start": 12600
+			"start": 12600,
+			"end": 15200
 		},
 		{
 			"type": "chapter",
 			"number": 800,
 			"title": "Supplementary Provisions",
-			"start": 15300
+			"start": 15300,
+			"end": 15300
 		}
 	],
 	"articles": [

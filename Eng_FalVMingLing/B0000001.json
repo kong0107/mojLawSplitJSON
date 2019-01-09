@@ -67,829 +67,1005 @@
 			"type": "part",
 			"number": 100,
 			"title": "General Principles",
-			"start": 100
-		},
-		{
-			"type": "chapter",
-			"number": 100,
-			"title": "Application Rules",
-			"start": 100
-		},
-		{
-			"type": "chapter",
-			"number": 200,
-			"title": "Persons",
-			"start": 600
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Natural Persons",
-			"start": 600
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Juridical Persons",
-			"start": 2500
-		},
-		{
-			"type": "subsection",
-			"number": 100,
-			"title": "General Provisions",
-			"start": 2500
-		},
-		{
-			"type": "subsection",
-			"number": 200,
-			"title": "Corporations",
-			"start": 4500
-		},
-		{
-			"type": "subsection",
-			"number": 300,
-			"title": "Foundation",
-			"start": 5900
-		},
-		{
-			"type": "chapter",
-			"number": 300,
-			"title": "Things",
-			"start": 6600
-		},
-		{
-			"type": "chapter",
-			"number": 400,
-			"title": "Juridical Acts",
-			"start": 7100
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "General Provisions",
-			"start": 7100
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Capacity to Make Juridical Acts",
-			"start": 7500
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Expression of Intent",
-			"start": 8600
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "Conditions and Time of Commencement and Ending",
-			"start": 9900
-		},
-		{
-			"type": "section",
-			"number": 500,
-			"title": "Agency",
-			"start": 10300
-		},
-		{
-			"type": "section",
-			"number": 600,
-			"title": "Voidance and Revocation",
-			"start": 11100
-		},
-		{
-			"type": "chapter",
-			"number": 500,
-			"title": "Dates and Periods",
-			"start": 11900
-		},
-		{
-			"type": "chapter",
-			"number": 600,
-			"title": "Extinctive Prescription",
-			"start": 12500
-		},
-		{
-			"type": "chapter",
-			"number": 700,
-			"title": "Exercise of Rights",
-			"start": 14800
+			"start": 100,
+			"end": 15200,
+			"children": [
+				{
+					"type": "chapter",
+					"number": 100,
+					"title": "Application Rules",
+					"start": 100,
+					"end": 500
+				},
+				{
+					"type": "chapter",
+					"number": 200,
+					"title": "Persons",
+					"start": 600,
+					"end": 6500,
+					"children": [
+						{
+							"type": "section",
+							"number": 100,
+							"title": "Natural Persons",
+							"start": 600,
+							"end": 2400
+						},
+						{
+							"type": "section",
+							"number": 200,
+							"title": "Juridical Persons",
+							"start": 2500,
+							"end": 4400
+						},
+						{
+							"type": "section",
+							"number": 100,
+							"title": "General Provisions",
+							"start": 2500,
+							"end": 4400
+						},
+						{
+							"type": "section",
+							"number": 200,
+							"title": "Corporations",
+							"start": 4500,
+							"end": 5800
+						},
+						{
+							"type": "section",
+							"number": 300,
+							"title": "Foundation",
+							"start": 5900,
+							"end": 6500
+						}
+					]
+				},
+				{
+					"type": "chapter",
+					"number": 300,
+					"title": "Things",
+					"start": 6600,
+					"end": 7000
+				},
+				{
+					"type": "chapter",
+					"number": 400,
+					"title": "Juridical Acts",
+					"start": 7100,
+					"end": 11800,
+					"children": [
+						{
+							"type": "section",
+							"number": 100,
+							"title": "General Provisions",
+							"start": 7100,
+							"end": 7400
+						},
+						{
+							"type": "section",
+							"number": 200,
+							"title": "Capacity to Make Juridical Acts",
+							"start": 7500,
+							"end": 8500
+						},
+						{
+							"type": "section",
+							"number": 300,
+							"title": "Expression of Intent",
+							"start": 8600,
+							"end": 9800
+						},
+						{
+							"type": "section",
+							"number": 400,
+							"title": "Conditions and Time of Commencement and Ending",
+							"start": 9900,
+							"end": 10200
+						},
+						{
+							"type": "section",
+							"number": 500,
+							"title": "Agency",
+							"start": 10300,
+							"end": 11000
+						},
+						{
+							"type": "section",
+							"number": 600,
+							"title": "Voidance and Revocation",
+							"start": 11100,
+							"end": 11800
+						}
+					]
+				},
+				{
+					"type": "chapter",
+					"number": 500,
+					"title": "Dates and Periods",
+					"start": 11900,
+					"end": 12400
+				},
+				{
+					"type": "chapter",
+					"number": 600,
+					"title": "Extinctive Prescription",
+					"start": 12500,
+					"end": 14700
+				},
+				{
+					"type": "chapter",
+					"number": 700,
+					"title": "Exercise of Rights",
+					"start": 14800,
+					"end": 15200
+				}
+			]
 		},
 		{
 			"type": "part",
 			"number": 200,
 			"title": "Obligations",
-			"start": 15300
-		},
-		{
-			"type": "chapter",
-			"number": 100,
-			"title": "General Provisions",
-			"start": 15300
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Sources of Obligations",
-			"start": 15300
-		},
-		{
-			"type": "subsection",
-			"number": 100,
-			"title": "Contracts",
-			"start": 15300
-		},
-		{
-			"type": "subsection",
-			"number": 200,
-			"title": "Conferring Of Authority Of Agency",
-			"start": 16700
-		},
-		{
-			"type": "subsection",
-			"number": 300,
-			"title": "Management Of Affairs Without Mandate",
-			"start": 17200
-		},
-		{
-			"type": "subsection",
-			"number": 400,
-			"title": "Unjust Enrichment",
-			"start": 17900
-		},
-		{
-			"type": "subsection",
-			"number": 500,
-			"title": "Torts",
-			"start": 18400
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Object Of Obligations",
-			"start": 19900
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Effects Of Obligations",
-			"start": 21900
-		},
-		{
-			"type": "subsection",
-			"number": 100,
-			"title": "Performance",
-			"start": 21900
-		},
-		{
-			"type": "subsection",
-			"number": 200,
-			"title": "Defaults",
-			"start": 22900
-		},
-		{
-			"type": "subsection",
-			"number": 300,
-			"title": "Preservation",
-			"start": 24200
-		},
-		{
-			"type": "subsection",
-			"number": 400,
-			"title": "Contracts",
-			"start": 24501
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "Plurality Of Creditors And Debtors",
-			"start": 27100
-		},
-		{
-			"type": "section",
-			"number": 500,
-			"title": "Transfer Of Obligations",
-			"start": 29400
-		},
-		{
-			"type": "section",
-			"number": 600,
-			"title": "Extinction Of Obligations",
-			"start": 30700
-		},
-		{
-			"type": "subsection",
-			"number": 100,
-			"title": "General Provision",
-			"start": 30700
-		},
-		{
-			"type": "subsection",
-			"number": 200,
-			"title": "Performance",
-			"start": 30900
-		},
-		{
-			"type": "subsection",
-			"number": 300,
-			"title": "Lodgments",
-			"start": 32600
-		},
-		{
-			"type": "subsection",
-			"number": 400,
-			"title": "Offset",
-			"start": 33400
-		},
-		{
-			"type": "subsection",
-			"number": 500,
-			"title": "Releases",
-			"start": 34300
-		},
-		{
-			"type": "subsection",
-			"number": 600,
-			"title": "Merger",
-			"start": 34400
-		},
-		{
-			"type": "chapter",
-			"number": 200,
-			"title": "Particular Kinds Of Obligations",
-			"start": 34500
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Sale",
-			"start": 34500
-		},
-		{
-			"type": "subsection",
-			"number": 100,
-			"title": "General Provisions",
-			"start": 34500
-		},
-		{
-			"type": "subsection",
-			"number": 200,
-			"title": "Effects of Sale",
-			"start": 34800
-		},
-		{
-			"type": "subsection",
-			"number": 300,
-			"title": "Redemption",
-			"start": 37900
-		},
-		{
-			"type": "subsection",
-			"number": 400,
-			"title": "Particular Kinds of Sale",
-			"start": 38400
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Exchange",
-			"start": 39800
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Current Account",
-			"start": 40000
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "Gift",
-			"start": 40600
-		},
-		{
-			"type": "section",
-			"number": 500,
-			"title": "Lease",
-			"start": 42100
-		},
-		{
-			"type": "section",
-			"number": 600,
-			"title": "Loan",
-			"start": 46400
-		},
-		{
-			"type": "subsection",
-			"number": 100,
-			"title": "Loan for Use",
-			"start": 46400
-		},
-		{
-			"type": "subsection",
-			"number": 200,
-			"title": "LOANS FOR CONSUMPTION",
-			"start": 47400
-		},
-		{
-			"type": "section",
-			"number": 700,
-			"title": "Hire of Services",
-			"start": 48200
-		},
-		{
-			"type": "section",
-			"number": 800,
-			"title": "Hire of Work",
-			"start": 49000
-		},
-		{
-			"type": "section",
-			"number": 801,
-			"title": "Travel",
-			"start": 51401
-		},
-		{
-			"type": "section",
-			"number": 900,
-			"title": "Publication",
-			"start": 51500
-		},
-		{
-			"type": "section",
-			"number": 1000,
-			"title": "Mandate",
-			"start": 52800
-		},
-		{
-			"type": "section",
-			"number": 1100,
-			"title": "Manager And Commercial Agents",
-			"start": 55300
-		},
-		{
-			"type": "section",
-			"number": 1200,
-			"title": "Brokerage",
-			"start": 56500
-		},
-		{
-			"type": "section",
-			"number": 1300,
-			"title": "Commission Agency",
-			"start": 57600
-		},
-		{
-			"type": "section",
-			"number": 1400,
-			"title": "Deposit",
-			"start": 58900
-		},
-		{
-			"type": "section",
-			"number": 1500,
-			"title": "Warehousing",
-			"start": 61300
-		},
-		{
-			"type": "section",
-			"number": 1600,
-			"title": "Carriage",
-			"start": 62200
-		},
-		{
-			"type": "subsection",
-			"number": 100,
-			"title": "General Provision",
-			"start": 62200
-		},
-		{
-			"type": "subsection",
-			"number": 200,
-			"title": "Carriage Of Goods",
-			"start": 62400
-		},
-		{
-			"type": "subsection",
-			"number": 300,
-			"title": "Carriage Of Passengers",
-			"start": 65400
-		},
-		{
-			"type": "section",
-			"number": 1700,
-			"title": "Forwarding Agency",
-			"start": 66000
-		},
-		{
-			"type": "section",
-			"number": 1800,
-			"title": "Partnership",
-			"start": 66700
-		},
-		{
-			"type": "section",
-			"number": 1900,
-			"title": "Sleeping Partnership",
-			"start": 70000
-		},
-		{
-			"type": "section",
-			"number": 1901,
-			"title": "Bid Society",
-			"start": 70901
-		},
-		{
-			"type": "section",
-			"number": 2000,
-			"title": "Security Payable By An Assigned Person",
-			"start": 71000
-		},
-		{
-			"type": "section",
-			"number": 2100,
-			"title": "Securities Payable To Bearer",
-			"start": 71900
-		},
-		{
-			"type": "section",
-			"number": 2200,
-			"title": "Annuity For Lifetime",
-			"start": 72900
-		},
-		{
-			"type": "section",
-			"number": 2300,
-			"title": "Compromise And Settlement",
-			"start": 73600
-		},
-		{
-			"type": "section",
-			"number": 2400,
-			"title": "Guaranty",
-			"start": 73900
-		},
-		{
-			"type": "section",
-			"number": 2401,
-			"title": "Employment Guaranty",
-			"start": 75601
+			"start": 15300,
+			"end": 75609,
+			"children": [
+				{
+					"type": "chapter",
+					"number": 100,
+					"title": "General Provisions",
+					"start": 15300,
+					"end": 34400,
+					"children": [
+						{
+							"type": "section",
+							"number": 100,
+							"title": "Sources of Obligations",
+							"start": 15300,
+							"end": 16601
+						},
+						{
+							"type": "section",
+							"number": 100,
+							"title": "Contracts",
+							"start": 15300,
+							"end": 16601
+						},
+						{
+							"type": "section",
+							"number": 200,
+							"title": "Conferring Of Authority Of Agency",
+							"start": 16700,
+							"end": 17100
+						},
+						{
+							"type": "section",
+							"number": 300,
+							"title": "Management Of Affairs Without Mandate",
+							"start": 17200,
+							"end": 17800
+						},
+						{
+							"type": "section",
+							"number": 400,
+							"title": "Unjust Enrichment",
+							"start": 17900,
+							"end": 18300
+						},
+						{
+							"type": "section",
+							"number": 500,
+							"title": "Torts",
+							"start": 18400,
+							"end": 19800
+						},
+						{
+							"type": "section",
+							"number": 200,
+							"title": "Object Of Obligations",
+							"start": 19900,
+							"end": 21801
+						},
+						{
+							"type": "section",
+							"number": 300,
+							"title": "Effects Of Obligations",
+							"start": 21900,
+							"end": 22800
+						},
+						{
+							"type": "section",
+							"number": 100,
+							"title": "Performance",
+							"start": 21900,
+							"end": 22800
+						},
+						{
+							"type": "section",
+							"number": 200,
+							"title": "Defaults",
+							"start": 22900,
+							"end": 24100
+						},
+						{
+							"type": "section",
+							"number": 300,
+							"title": "Preservation",
+							"start": 24200,
+							"end": 24500
+						},
+						{
+							"type": "section",
+							"number": 400,
+							"title": "Contracts",
+							"start": 24501,
+							"end": 27000
+						},
+						{
+							"type": "section",
+							"number": 400,
+							"title": "Plurality Of Creditors And Debtors",
+							"start": 27100,
+							"end": 29300
+						},
+						{
+							"type": "section",
+							"number": 500,
+							"title": "Transfer Of Obligations",
+							"start": 29400,
+							"end": 30600
+						},
+						{
+							"type": "section",
+							"number": 600,
+							"title": "Extinction Of Obligations",
+							"start": 30700,
+							"end": 30800
+						},
+						{
+							"type": "section",
+							"number": 100,
+							"title": "General Provision",
+							"start": 30700,
+							"end": 30800
+						},
+						{
+							"type": "section",
+							"number": 200,
+							"title": "Performance",
+							"start": 30900,
+							"end": 32500
+						},
+						{
+							"type": "section",
+							"number": 300,
+							"title": "Lodgments",
+							"start": 32600,
+							"end": 33300
+						},
+						{
+							"type": "section",
+							"number": 400,
+							"title": "Offset",
+							"start": 33400,
+							"end": 34200
+						},
+						{
+							"type": "section",
+							"number": 500,
+							"title": "Releases",
+							"start": 34300,
+							"end": 34300
+						},
+						{
+							"type": "section",
+							"number": 600,
+							"title": "Merger",
+							"start": 34400,
+							"end": 34400
+						}
+					]
+				},
+				{
+					"type": "chapter",
+					"number": 200,
+					"title": "Particular Kinds Of Obligations",
+					"start": 34500,
+					"end": 75609,
+					"children": [
+						{
+							"type": "section",
+							"number": 100,
+							"title": "Sale",
+							"start": 34500,
+							"end": 34700
+						},
+						{
+							"type": "section",
+							"number": 100,
+							"title": "General Provisions",
+							"start": 34500,
+							"end": 34700
+						},
+						{
+							"type": "section",
+							"number": 200,
+							"title": "Effects of Sale",
+							"start": 34800,
+							"end": 37800
+						},
+						{
+							"type": "section",
+							"number": 300,
+							"title": "Redemption",
+							"start": 37900,
+							"end": 38300
+						},
+						{
+							"type": "section",
+							"number": 400,
+							"title": "Particular Kinds of Sale",
+							"start": 38400,
+							"end": 39700
+						},
+						{
+							"type": "section",
+							"number": 200,
+							"title": "Exchange",
+							"start": 39800,
+							"end": 39900
+						},
+						{
+							"type": "section",
+							"number": 300,
+							"title": "Current Account",
+							"start": 40000,
+							"end": 40500
+						},
+						{
+							"type": "section",
+							"number": 400,
+							"title": "Gift",
+							"start": 40600,
+							"end": 42000
+						},
+						{
+							"type": "section",
+							"number": 500,
+							"title": "Lease",
+							"start": 42100,
+							"end": 46301
+						},
+						{
+							"type": "section",
+							"number": 600,
+							"title": "Loan",
+							"start": 46400,
+							"end": 47300
+						},
+						{
+							"type": "section",
+							"number": 100,
+							"title": "Loan for Use",
+							"start": 46400,
+							"end": 47300
+						},
+						{
+							"type": "section",
+							"number": 200,
+							"title": "LOANS FOR CONSUMPTION",
+							"start": 47400,
+							"end": 48100
+						},
+						{
+							"type": "section",
+							"number": 700,
+							"title": "Hire of Services",
+							"start": 48200,
+							"end": 48900
+						},
+						{
+							"type": "section",
+							"number": 800,
+							"title": "Hire of Work",
+							"start": 49000,
+							"end": 51400
+						},
+						{
+							"type": "section",
+							"number": 801,
+							"title": "Travel",
+							"start": 51401,
+							"end": 51412
+						},
+						{
+							"type": "section",
+							"number": 900,
+							"title": "Publication",
+							"start": 51500,
+							"end": 52700
+						},
+						{
+							"type": "section",
+							"number": 1000,
+							"title": "Mandate",
+							"start": 52800,
+							"end": 55200
+						},
+						{
+							"type": "section",
+							"number": 1100,
+							"title": "Manager And Commercial Agents",
+							"start": 55300,
+							"end": 56400
+						},
+						{
+							"type": "section",
+							"number": 1200,
+							"title": "Brokerage",
+							"start": 56500,
+							"end": 57500
+						},
+						{
+							"type": "section",
+							"number": 1300,
+							"title": "Commission Agency",
+							"start": 57600,
+							"end": 58800
+						},
+						{
+							"type": "section",
+							"number": 1400,
+							"title": "Deposit",
+							"start": 58900,
+							"end": 61200
+						},
+						{
+							"type": "section",
+							"number": 1500,
+							"title": "Warehousing",
+							"start": 61300,
+							"end": 62100
+						},
+						{
+							"type": "section",
+							"number": 1600,
+							"title": "Carriage",
+							"start": 62200,
+							"end": 62300
+						},
+						{
+							"type": "section",
+							"number": 100,
+							"title": "General Provision",
+							"start": 62200,
+							"end": 62300
+						},
+						{
+							"type": "section",
+							"number": 200,
+							"title": "Carriage Of Goods",
+							"start": 62400,
+							"end": 65300
+						},
+						{
+							"type": "section",
+							"number": 300,
+							"title": "Carriage Of Passengers",
+							"start": 65400,
+							"end": 65900
+						},
+						{
+							"type": "section",
+							"number": 1700,
+							"title": "Forwarding Agency",
+							"start": 66000,
+							"end": 66600
+						},
+						{
+							"type": "section",
+							"number": 1800,
+							"title": "Partnership",
+							"start": 66700,
+							"end": 69900
+						},
+						{
+							"type": "section",
+							"number": 1900,
+							"title": "Sleeping Partnership",
+							"start": 70000,
+							"end": 70900
+						},
+						{
+							"type": "section",
+							"number": 1901,
+							"title": "Bid Society",
+							"start": 70901,
+							"end": 70909
+						},
+						{
+							"type": "section",
+							"number": 2000,
+							"title": "Security Payable By An Assigned Person",
+							"start": 71000,
+							"end": 71800
+						},
+						{
+							"type": "section",
+							"number": 2100,
+							"title": "Securities Payable To Bearer",
+							"start": 71900,
+							"end": 72800
+						},
+						{
+							"type": "section",
+							"number": 2200,
+							"title": "Annuity For Lifetime",
+							"start": 72900,
+							"end": 73500
+						},
+						{
+							"type": "section",
+							"number": 2300,
+							"title": "Compromise And Settlement",
+							"start": 73600,
+							"end": 73800
+						},
+						{
+							"type": "section",
+							"number": 2400,
+							"title": "Guaranty",
+							"start": 73900,
+							"end": 75600
+						},
+						{
+							"type": "section",
+							"number": 2401,
+							"title": "Employment Guaranty",
+							"start": 75601,
+							"end": 75609
+						}
+					]
+				}
+			]
 		},
 		{
 			"type": "part",
 			"number": 300,
 			"title": "Rights In Rem",
-			"start": 75700
-		},
-		{
-			"type": "chapter",
-			"number": 100,
-			"title": "General Provisions",
-			"start": 75700
-		},
-		{
-			"type": "chapter",
-			"number": 200,
-			"title": "Ownership",
-			"start": 76500
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "General Provisions",
-			"start": 76500
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Ownership of the Real Property",
-			"start": 77300
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Ownership of the Personal Property",
-			"start": 80100
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "Co-Ownership",
-			"start": 81700
-		},
-		{
-			"type": "chapter",
-			"number": 300,
-			"title": "Superficies",
-			"start": 83200
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "General Superficies",
-			"start": 83200
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Divided Superficies",
-			"start": 84101
-		},
-		{
-			"type": "chapter",
-			"number": 400,
-			"title": "(Repealed)",
-			"start": 84200
-		},
-		{
-			"type": "chapter",
-			"number": 401,
-			"title": "Agricultural Right",
-			"start": 85001
-		},
-		{
-			"type": "chapter",
-			"number": 500,
-			"title": "Servitude of real property",
-			"start": 85100
-		},
-		{
-			"type": "chapter",
-			"number": 600,
-			"title": "Mortgage",
-			"start": 86000
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "General Mortgages",
-			"start": 86000
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Line of Credit Mortgages",
-			"start": 88101
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Other Mortgage",
-			"start": 88200
-		},
-		{
-			"type": "chapter",
-			"number": 700,
-			"title": "Pledge",
-			"start": 88400
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Pledge of Personal Property",
-			"start": 88400
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Pledge of Rights",
-			"start": 90000
-		},
-		{
-			"type": "chapter",
-			"number": 800,
-			"title": "Dian",
-			"start": 91100
-		},
-		{
-			"type": "chapter",
-			"number": 900,
-			"title": "Right Of Retention",
-			"start": 92800
-		},
-		{
-			"type": "chapter",
-			"number": 1000,
-			"title": "Possession",
-			"start": 94000
+			"start": 75700,
+			"end": 96600,
+			"children": [
+				{
+					"type": "chapter",
+					"number": 100,
+					"title": "General Provisions",
+					"start": 75700,
+					"end": 76400
+				},
+				{
+					"type": "chapter",
+					"number": 200,
+					"title": "Ownership",
+					"start": 76500,
+					"end": 83100,
+					"children": [
+						{
+							"type": "section",
+							"number": 100,
+							"title": "General Provisions",
+							"start": 76500,
+							"end": 77200
+						},
+						{
+							"type": "section",
+							"number": 200,
+							"title": "Ownership of the Real Property",
+							"start": 77300,
+							"end": 80001
+						},
+						{
+							"type": "section",
+							"number": 300,
+							"title": "Ownership of the Personal Property",
+							"start": 80100,
+							"end": 81600
+						},
+						{
+							"type": "section",
+							"number": 400,
+							"title": "Co-Ownership",
+							"start": 81700,
+							"end": 83100
+						}
+					]
+				},
+				{
+					"type": "chapter",
+					"number": 300,
+					"title": "Superficies",
+					"start": 83200,
+					"end": 84106,
+					"children": [
+						{
+							"type": "section",
+							"number": 100,
+							"title": "General Superficies",
+							"start": 83200,
+							"end": 84100
+						},
+						{
+							"type": "section",
+							"number": 200,
+							"title": "Divided Superficies",
+							"start": 84101,
+							"end": 84106
+						}
+					]
+				},
+				{
+					"type": "chapter",
+					"number": 400,
+					"title": "(Repealed)",
+					"start": 84200,
+					"end": 85000
+				},
+				{
+					"type": "chapter",
+					"number": 401,
+					"title": "Agricultural Right",
+					"start": 85001,
+					"end": 85009
+				},
+				{
+					"type": "chapter",
+					"number": 500,
+					"title": "Servitude of real property",
+					"start": 85100,
+					"end": 85905
+				},
+				{
+					"type": "chapter",
+					"number": 600,
+					"title": "Mortgage",
+					"start": 86000,
+					"end": 88300,
+					"children": [
+						{
+							"type": "section",
+							"number": 100,
+							"title": "General Mortgages",
+							"start": 86000,
+							"end": 88100
+						},
+						{
+							"type": "section",
+							"number": 200,
+							"title": "Line of Credit Mortgages",
+							"start": 88101,
+							"end": 88117
+						},
+						{
+							"type": "section",
+							"number": 300,
+							"title": "Other Mortgage",
+							"start": 88200,
+							"end": 88300
+						}
+					]
+				},
+				{
+					"type": "chapter",
+					"number": 700,
+					"title": "Pledge",
+					"start": 88400,
+					"end": 91000,
+					"children": [
+						{
+							"type": "section",
+							"number": 100,
+							"title": "Pledge of Personal Property",
+							"start": 88400,
+							"end": 89902
+						},
+						{
+							"type": "section",
+							"number": 200,
+							"title": "Pledge of Rights",
+							"start": 90000,
+							"end": 91000
+						}
+					]
+				},
+				{
+					"type": "chapter",
+					"number": 800,
+					"title": "Dian",
+					"start": 91100,
+					"end": 92700
+				},
+				{
+					"type": "chapter",
+					"number": 900,
+					"title": "Right Of Retention",
+					"start": 92800,
+					"end": 93900
+				},
+				{
+					"type": "chapter",
+					"number": 1000,
+					"title": "Possession",
+					"start": 94000,
+					"end": 96600
+				}
+			]
 		},
 		{
 			"type": "part",
 			"number": 400,
 			"title": "Family",
-			"start": 96700
-		},
-		{
-			"type": "chapter",
-			"number": 100,
-			"title": "General Provisions",
-			"start": 96700
-		},
-		{
-			"type": "chapter",
-			"number": 200,
-			"title": "Marriage",
-			"start": 97200
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Betrothal",
-			"start": 97200
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Conclusion of Marriage",
-			"start": 98000
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "Efficacy of Marriage",
-			"start": 100000
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "Matrimonial Property Regimes",
-			"start": 100400
-		},
-		{
-			"type": "subsection",
-			"number": 100,
-			"title": "GENERAL PROVISIONS",
-			"start": 100400
-		},
-		{
-			"type": "subsection",
-			"number": 200,
-			"title": "Statutory Regimes",
-			"start": 101600
-		},
-		{
-			"type": "subsection",
-			"number": 300,
-			"title": "Contractual Regimes",
-			"start": 103100
-		},
-		{
-			"type": "item",
-			"number": 100,
-			"title": "Community of Property",
-			"start": 103100
-		},
-		{
-			"type": "item",
-			"number": 200,
-			"title": "（Repealed）",
-			"start": 104200
-		},
-		{
-			"type": "item",
-			"number": 300,
-			"title": "Separation of Property Regime",
-			"start": 104400
-		},
-		{
-			"type": "section",
-			"number": 500,
-			"title": "Divorce",
-			"start": 104900
-		},
-		{
-			"type": "chapter",
-			"number": 300,
-			"title": "Parents and Children",
-			"start": 105900
-		},
-		{
-			"type": "chapter",
-			"number": 400,
-			"title": "Guardianship",
-			"start": 109100
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "Guardianship over Minors",
-			"start": 109100
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "Guardianship and Assistantship over Adults",
-			"start": 111000
-		},
-		{
-			"type": "chapter",
-			"number": 500,
-			"title": "Maintenance",
-			"start": 111400
-		},
-		{
-			"type": "chapter",
-			"number": 600,
-			"title": "House",
-			"start": 112200
-		},
-		{
-			"type": "chapter",
-			"number": 700,
-			"title": "Family Council",
-			"start": 112900
+			"start": 96700,
+			"end": 113700,
+			"children": [
+				{
+					"type": "chapter",
+					"number": 100,
+					"title": "General Provisions",
+					"start": 96700,
+					"end": 97100
+				},
+				{
+					"type": "chapter",
+					"number": 200,
+					"title": "Marriage",
+					"start": 97200,
+					"end": 105800,
+					"children": [
+						{
+							"type": "section",
+							"number": 100,
+							"title": "Betrothal",
+							"start": 97200,
+							"end": 97902
+						},
+						{
+							"type": "section",
+							"number": 200,
+							"title": "Conclusion of Marriage",
+							"start": 98000,
+							"end": 99901
+						},
+						{
+							"type": "section",
+							"number": 300,
+							"title": "Efficacy of Marriage",
+							"start": 100000,
+							"end": 100301
+						},
+						{
+							"type": "section",
+							"number": 400,
+							"title": "Matrimonial Property Regimes",
+							"start": 100400,
+							"end": 104800,
+							"children": [
+								{
+									"type": "subsection",
+									"number": 100,
+									"title": "GENERAL PROVISIONS",
+									"start": 100400,
+									"end": 101500
+								},
+								{
+									"type": "subsection",
+									"number": 200,
+									"title": "Statutory Regimes",
+									"start": 101600,
+									"end": 103004
+								},
+								{
+									"type": "subsection",
+									"number": 300,
+									"title": "Contractual Regimes",
+									"start": 103100,
+									"end": 104800,
+									"children": [
+										{
+											"type": "item",
+											"number": 100,
+											"title": "Community of Property",
+											"start": 103100,
+											"end": 104100
+										},
+										{
+											"type": "item",
+											"number": 200,
+											"title": "（Repealed）",
+											"start": 104200,
+											"end": 104300
+										},
+										{
+											"type": "item",
+											"number": 300,
+											"title": "Separation of Property Regime",
+											"start": 104400,
+											"end": 104800
+										}
+									]
+								}
+							]
+						},
+						{
+							"type": "section",
+							"number": 500,
+							"title": "Divorce",
+							"start": 104900,
+							"end": 105800
+						}
+					]
+				},
+				{
+					"type": "chapter",
+					"number": 300,
+					"title": "Parents and Children",
+					"start": 105900,
+					"end": 109000
+				},
+				{
+					"type": "chapter",
+					"number": 400,
+					"title": "Guardianship",
+					"start": 109100,
+					"end": 111301,
+					"children": [
+						{
+							"type": "section",
+							"number": 100,
+							"title": "Guardianship over Minors",
+							"start": 109100,
+							"end": 110902
+						},
+						{
+							"type": "section",
+							"number": 200,
+							"title": "Guardianship and Assistantship over Adults",
+							"start": 111000,
+							"end": 111301
+						}
+					]
+				},
+				{
+					"type": "chapter",
+					"number": 500,
+					"title": "Maintenance",
+					"start": 111400,
+					"end": 112100
+				},
+				{
+					"type": "chapter",
+					"number": 600,
+					"title": "House",
+					"start": 112200,
+					"end": 112800
+				},
+				{
+					"type": "chapter",
+					"number": 700,
+					"title": "Family Council",
+					"start": 112900,
+					"end": 113700
+				}
+			]
 		},
 		{
 			"type": "part",
 			"number": 500,
 			"title": "Succession",
-			"start": 113800
-		},
-		{
-			"type": "chapter",
-			"number": 100,
-			"title": "HEIRS TO PROPERTY",
-			"start": 113800
-		},
-		{
-			"type": "chapter",
-			"number": 200,
-			"title": "SUCCESSION TO PROPERTY",
-			"start": 114700
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "EFFECTS",
-			"start": 114700
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "（Repealed）",
-			"start": 115400
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "PARTITION OF INHERITANCE",
-			"start": 116400
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "WAIVER OF INHERITANCE",
-			"start": 117400
-		},
-		{
-			"type": "section",
-			"number": 500,
-			"title": "UNACKNOWLEDGED SUCCESSION",
-			"start": 117700
-		},
-		{
-			"type": "chapter",
-			"number": 300,
-			"title": "WILLS",
-			"start": 118600
-		},
-		{
-			"type": "section",
-			"number": 100,
-			"title": "GENERAL PROVISIONS",
-			"start": 118600
-		},
-		{
-			"type": "section",
-			"number": 200,
-			"title": "FORMALITIES",
-			"start": 118900
-		},
-		{
-			"type": "section",
-			"number": 300,
-			"title": "EFFECTS",
-			"start": 119900
-		},
-		{
-			"type": "section",
-			"number": 400,
-			"title": "EXECUTION",
-			"start": 120900
-		},
-		{
-			"type": "section",
-			"number": 500,
-			"title": "WITHDRAWAL",
-			"start": 121900
-		},
-		{
-			"type": "section",
-			"number": 600,
-			"title": "COMPULSORY PORTIONS",
-			"start": 122300
+			"start": 113800,
+			"end": 122500,
+			"children": [
+				{
+					"type": "chapter",
+					"number": 100,
+					"title": "HEIRS TO PROPERTY",
+					"start": 113800,
+					"end": 114600
+				},
+				{
+					"type": "chapter",
+					"number": 200,
+					"title": "SUCCESSION TO PROPERTY",
+					"start": 114700,
+					"end": 118500,
+					"children": [
+						{
+							"type": "section",
+							"number": 100,
+							"title": "EFFECTS",
+							"start": 114700,
+							"end": 115300
+						},
+						{
+							"type": "section",
+							"number": 200,
+							"title": "（Repealed）",
+							"start": 115400,
+							"end": 116300
+						},
+						{
+							"type": "section",
+							"number": 300,
+							"title": "PARTITION OF INHERITANCE",
+							"start": 116400,
+							"end": 117300
+						},
+						{
+							"type": "section",
+							"number": 400,
+							"title": "WAIVER OF INHERITANCE",
+							"start": 117400,
+							"end": 117601
+						},
+						{
+							"type": "section",
+							"number": 500,
+							"title": "UNACKNOWLEDGED SUCCESSION",
+							"start": 117700,
+							"end": 118500
+						}
+					]
+				},
+				{
+					"type": "chapter",
+					"number": 300,
+					"title": "WILLS",
+					"start": 118600,
+					"end": 122500,
+					"children": [
+						{
+							"type": "section",
+							"number": 100,
+							"title": "GENERAL PROVISIONS",
+							"start": 118600,
+							"end": 118800
+						},
+						{
+							"type": "section",
+							"number": 200,
+							"title": "FORMALITIES",
+							"start": 118900,
+							"end": 119800
+						},
+						{
+							"type": "section",
+							"number": 300,
+							"title": "EFFECTS",
+							"start": 119900,
+							"end": 120800
+						},
+						{
+							"type": "section",
+							"number": 400,
+							"title": "EXECUTION",
+							"start": 120900,
+							"end": 121800
+						},
+						{
+							"type": "section",
+							"number": 500,
+							"title": "WITHDRAWAL",
+							"start": 121900,
+							"end": 122200
+						},
+						{
+							"type": "section",
+							"number": 600,
+							"title": "COMPULSORY PORTIONS",
+							"start": 122300,
+							"end": 122500
+						}
+					]
+				}
+			]
 		}
 	],
 	"articles": [

@@ -29,181 +29,221 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "事件管轄",
-			"start": 100
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "關係人",
-			"start": 1000
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "費用之徵收及負擔",
-			"start": 1300
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "聲請及處理",
-			"start": 2900
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "裁定及抗告",
-			"start": 3600
-		},
-		{
-			"type": "節",
-			"number": 600,
-			"title": "司法事務官處理程序",
-			"start": 5000
+			"start": 100,
+			"end": 5800,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "事件管轄",
+					"start": 100,
+					"end": 900
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "關係人",
+					"start": 1000,
+					"end": 1200
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "費用之徵收及負擔",
+					"start": 1300,
+					"end": 2800
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "聲請及處理",
+					"start": 2900,
+					"end": 3503
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "裁定及抗告",
+					"start": 3600,
+					"end": 4900
+				},
+				{
+					"type": "節",
+					"number": 600,
+					"title": "司法事務官處理程序",
+					"start": 5000,
+					"end": 5800
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "民事非訟事件",
-			"start": 5900
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "法人之監督及維護事件",
-			"start": 5900
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "意思表示之公示送達事件",
-			"start": 6600
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "出版、拍賣及證書保存事件",
-			"start": 6700
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "信託事件",
-			"start": 7500
+			"start": 5900,
+			"end": 8100,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "法人之監督及維護事件",
+					"start": 5900,
+					"end": 6500
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "意思表示之公示送達事件",
+					"start": 6600,
+					"end": 6600
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "出版、拍賣及證書保存事件",
+					"start": 6700,
+					"end": 7401
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "信託事件",
+					"start": 7500,
+					"end": 8100
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "登記事件",
-			"start": 8200
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "法人登記",
-			"start": 8200
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "夫妻財產制契約登記",
-			"start": 10100
+			"start": 8200,
+			"end": 10700,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "法人登記",
+					"start": 8200,
+					"end": 10000
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "夫妻財產制契約登記",
+					"start": 10100,
+					"end": 10700
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "（刪除）",
-			"start": 10800
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "（刪除）",
-			"start": 10800
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "（刪除）",
-			"start": 12100
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "（刪除）",
-			"start": 13300
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "（刪除）",
-			"start": 13800
-		},
-		{
-			"type": "節",
-			"number": 401,
-			"title": "（刪除）",
-			"start": 14001
-		},
-		{
-			"type": "節",
-			"number": 500,
-			"title": "（刪除）",
-			"start": 14100
-		},
-		{
-			"type": "節",
-			"number": 600,
-			"title": "（刪除）",
-			"start": 15800
-		},
-		{
-			"type": "節",
-			"number": 601,
-			"title": "（刪除）",
-			"start": 16901
-		},
-		{
-			"type": "節",
-			"number": 700,
-			"title": "（刪除）",
-			"start": 17000
+			"start": 10800,
+			"end": 17000,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "（刪除）",
+					"start": 10800,
+					"end": 12000
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "（刪除）",
+					"start": 12100,
+					"end": 13200
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "（刪除）",
+					"start": 13300,
+					"end": 13700
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "（刪除）",
+					"start": 13800,
+					"end": 14000
+				},
+				{
+					"type": "節",
+					"number": 401,
+					"title": "（刪除）",
+					"start": 14001,
+					"end": 14002
+				},
+				{
+					"type": "節",
+					"number": 500,
+					"title": "（刪除）",
+					"start": 14100,
+					"end": 15700
+				},
+				{
+					"type": "節",
+					"number": 600,
+					"title": "（刪除）",
+					"start": 15800,
+					"end": 16900
+				},
+				{
+					"type": "節",
+					"number": 601,
+					"title": "（刪除）",
+					"start": 16901,
+					"end": 16902
+				},
+				{
+					"type": "節",
+					"number": 700,
+					"title": "（刪除）",
+					"start": 17000,
+					"end": 17000
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "商事非訟事件",
-			"start": 17100
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "公司事件",
-			"start": 17100
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "海商事件",
-			"start": 19300
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "票據事件",
-			"start": 19400
+			"start": 17100,
+			"end": 19500,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "公司事件",
+					"start": 17100,
+					"end": 19200
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "海商事件",
+					"start": 19300,
+					"end": 19300
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "票據事件",
+					"start": 19400,
+					"end": 19500
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 600,
 			"title": "附則",
-			"start": 19600
+			"start": 19600,
+			"end": 19800
 		}
 	],
 	"articles": [

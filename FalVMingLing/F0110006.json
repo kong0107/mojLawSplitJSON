@@ -22,91 +22,112 @@
 			"type": "章",
 			"number": 100,
 			"title": "總則",
-			"start": 100
+			"start": 100,
+			"end": 1200
 		},
 		{
 			"type": "章",
 			"number": 200,
 			"title": "軍人儲蓄獎卷",
-			"start": 1300
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "發行",
-			"start": 1300
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "中獎及還本",
-			"start": 1700
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "其他",
-			"start": 2200
+			"start": 1300,
+			"end": 2400,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "發行",
+					"start": 1300,
+					"end": 1600
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "中獎及還本",
+					"start": 1700,
+					"end": 2100
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "其他",
+					"start": 2200,
+					"end": 2400
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 300,
 			"title": "軍人優惠定期儲蓄存款",
-			"start": 2500
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "通則",
-			"start": 2500
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "存本取息儲蓄存款",
-			"start": 4200
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "零存整付儲蓄存款",
-			"start": 4600
-		},
-		{
-			"type": "節",
-			"number": 400,
-			"title": "整存整付存款",
-			"start": 4900
+			"start": 2500,
+			"end": 5000,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "通則",
+					"start": 2500,
+					"end": 4100
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "存本取息儲蓄存款",
+					"start": 4200,
+					"end": 4500
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "零存整付儲蓄存款",
+					"start": 4600,
+					"end": 4800
+				},
+				{
+					"type": "節",
+					"number": 400,
+					"title": "整存整付存款",
+					"start": 4900,
+					"end": 5000
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 400,
 			"title": "戰區官兵儲蓄",
-			"start": 5100
-		},
-		{
-			"type": "節",
-			"number": 100,
-			"title": "通則",
-			"start": 5100
-		},
-		{
-			"type": "節",
-			"number": 200,
-			"title": "軍人儲蓄獎卷",
-			"start": 5500
-		},
-		{
-			"type": "節",
-			"number": 300,
-			"title": "軍人定期儲蓄存款",
-			"start": 5700
+			"start": 5100,
+			"end": 5800,
+			"children": [
+				{
+					"type": "節",
+					"number": 100,
+					"title": "通則",
+					"start": 5100,
+					"end": 5400
+				},
+				{
+					"type": "節",
+					"number": 200,
+					"title": "軍人儲蓄獎卷",
+					"start": 5500,
+					"end": 5600
+				},
+				{
+					"type": "節",
+					"number": 300,
+					"title": "軍人定期儲蓄存款",
+					"start": 5700,
+					"end": 5800
+				}
+			]
 		},
 		{
 			"type": "章",
 			"number": 500,
 			"title": "附則",
-			"start": 5900
+			"start": 5900,
+			"end": 6000
 		}
 	],
 	"articles": [
