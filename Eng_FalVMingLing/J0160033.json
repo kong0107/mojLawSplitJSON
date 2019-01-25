@@ -4,7 +4,7 @@
 	"english": "Fees for Regulatory Services under the Nuclear Reactor Facilities Regulation Act",
 	"title": "核子反應器設施管制收費標準",
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=J0160033",
-	"englishUpdate": "20171227",
+	"englishUpdate": "20181108",
 	"history": [
 		"Original 13 Articles promulgated by Atomic Energy Council, Executive Yuan on July 2, 2003 under Decree No. Hui-He-Tzu 0920014930.",
 		"Article 3, as amended on February 18, 2004 by the Atomic Energy Council, Executive Yuan under Decree No. Huei-He-Tzu-0930004588.",
@@ -14,7 +14,8 @@
 		"Article 5, 6, 7 and 13 were amended and promulgated on January 8, 2010 by the Atomic Energy Council, Executive Yuan per its Decree No. Huei-He-Tzu-0990000103.",
 		"Article 6, 7 and 16 were amended and promulgated on September 14, 2012 by the Atomic Energy Council, Executive Yuan per its Decree No. Huei-He-Tzu-1010014878.",
 		"Article 11 were amended and promulgated on March 2, 2017 by the Atomic Energy Council, Executive Yuan per its Decree No. Huei-He-Tzu-10600026902.",
-		"Article 5 were amended and promulgated on December 27, 2017 by the Atomic Energy Council, Executive Yuan per its Decree No. Huei-He-Tzu-10600164342."
+		"Article 5 were amended and promulgated on December 27, 2017 by the Atomic Energy Council, Executive Yuan per its Decree No. Huei-He-Tzu-10600164342.",
+		"Article 6,7,11 were amended and promulgated on November 08, 2018 by the Atomic Energy Council, Executive Yuan per its Decree No. Huei-He-Tzu-10700132872."
 	],
 	"divisions": [],
 	"articles": [
@@ -40,11 +41,11 @@
 		},
 		{
 			"number": 600,
-			"content": "The annual inspection fee for each operating nuclear power reactor is NT$12,000,000.\r\nThe inspection fee referred to in the preceding Paragraph shall be assessed by the calendar year from the date of issuance of the operating license to the day before issuance of decommissioning permit."
+			"content": "The annual inspection fee for each operating nuclear power reactor is NT$12,000,000.\r\nThe inspection fee referred to in the preceding Paragraph shall be assessed by the calendar year from the date of issuance of the operating license to the date of expiration of the operating license.If it is less than one year, it shall be assessed according to the fraction of actual days to a full year."
 		},
 		{
 			"number": 700,
-			"content": "The annual nuclear fuel inspection fee for each operating nuclear power reactor is NT$2,000,000.\r\nThe inspection fee referred to in the Preceding paragraph shall be assessed by the calendar year from the date of initial fuel loading to the day before issuance of the decommissioning permit.\r\nIf it is less than one year, it shall be assessed according to the fraction of actual days to a full year."
+			"content": "The annual nuclear fuel inspection fee for each operating nuclear power reactor is NT$2,000,000.\r\nThe inspection fee referred to in the Preceding paragraph shall be assessed by the calendar year from the date of initial fuel loading to the date of expiration of the operating license.If it is less than one year, it shall be assessed according to the fraction of actual days to a full year."
 		},
 		{
 			"number": 800,
@@ -60,7 +61,7 @@
 		},
 		{
 			"number": 1100,
-			"content": "The annual decommissioning inspection fee is charged according to the following categories and rates：\r\n1. The annual dismantling and administration inspection fee for each nuclear power unit is charged at the rate of NT$4,250,000 from the date of issuance of the decommissioning permit to the date of termination of the decommissioning permit.\r\n2. The annual nuclear fuel safety maintenance inspection fee for each unit is charged from the date of issuance of the decommissioning permit to the date of removal of all nuclear fuels from both the reactor and the spent fuel pool based on the following rules：\r\n(1) The annual fee is charged at NT$6,800,000 per unit while nuclear fuels are stored in both the reactor and the spent fuel pool.\r\n(2) The annual fee is charged at NT$2,700,000 per unit while nuclear fuels are stored only in the spent fuel pool.\r\nThe inspection fee referred to in the preceding paragraph shall be assessed by the calendar year. If it is less than 1 year, it shall be assessed according to the fraction of actual days to a full year."
+			"content": "The annual decommissioning inspection fee is charged according to the following categories and rates：\r\n1.The annual dismantling and administration inspection fee for each nuclear power unit is charged at the rate of NT$4,250,000 from the day after the date of expiration of the operating license to the date of termination of the decommissioning permit.\r\n2.The annual nuclear fuel safety maintenance inspection fee for each unit is charged from the day after the date of expiration of the operating license to the date of removal of all nuclear fuels from both the reactor and the spent fuel pool based on the following rules：\r\n(1)The annual fee is charged at NT$6,800,000 per unit while nuclear fuels are stored in both the reactor and the spent fuel pool.\r\n(2)The annual fee is charged at NT$2,700,000 per unit while nuclear fuels are stored only in the spent fuel pool.\r\nThe inspection fee referred to in the preceding paragraph shall be assessed by the calendar year. If it is less than 1 year, it shall be assessed according to the fraction of actual days to a full year."
 		},
 		{
 			"number": 1200,
