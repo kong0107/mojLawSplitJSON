@@ -4,7 +4,7 @@
 	"english": "Regulations of Civil Air Transport Enterprise",
 	"title": "民用航空運輸業管理規則",
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0090003",
-	"englishUpdate": "20181017",
+	"englishUpdate": "20181121",
 	"attachments": [
 		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004054",
 		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004055",
@@ -25,10 +25,10 @@
 		"Amended by MOTC Order No. 07150 on October 21, 1953",
 		"Amended on April 8, 1961",
 		"Regulations of Civil Air Transport Enterprise Registration and Management amended as Regulation of Civil Air Transport Enterprise by MOTC Order No. 580810270 on August 9, 1969；",
-		"Amended by MOTC Order No. 09190 on October 7, 1974；",
-		"Amended by MOTC Order No. 10929 on December 9, 1975；",
-		"Amended by MOTC Order No. 15127 on August 9, 1980；",
-		"Amended by MOTC Order No. 7503 on January 15, 1986",
+		"Amended by MOTC Order No. 09190 on October 7, 1974； ",
+		"MOTC Order No. 10929 on December 9, 1975； ",
+		"MOTC Order No. 15127 on August 9, 1980； ",
+		"MOTC Order No. 7503 on January 15, 1986",
 		"Amendment to Article 29 promulgated by MOTC Order No. 7724 on September 15, 1988",
 		"Amendment to Article 31 promulgated by MOTC Order No. 7731 on November 15, 1988",
 		"Amendments to Articles 3~13 promulgated by MOTC Order No. 7805 on January 15, 1989",
@@ -49,7 +49,8 @@
 		"Amendment to Article 2, 19, 20, 35-1 and addition of Article29-2,35-3,35-4 promulgated by MOTC Order No. 10450097191 on July 30, 2015",
 		"Amendment to Article 3, 5, 8, 16, 18, 35-2 and addition of Article 8-1 promulgated by MOTC Order No. 10750028511 on March 8, 2018",
 		"Amendment to Article 13-1 promulgated by MOTC Order No. 10750070761 on June 1, 2018",
-		"Amendment to Article 11 promulgated by MOTC Order No. 10750137931 on October 17, 2018"
+		"Amendment to Article 11 promulgated by MOTC Order No. 10750137931 on October 17, 2018",
+		"Addition of Article 29-3 promulgated by MOTC Order No. 10750154731 on November 21, 2018"
 	],
 	"divisions": [
 		{
@@ -92,7 +93,7 @@
 			"number": 600,
 			"title": "Operational Administration",
 			"start": 2300,
-			"end": 2902
+			"end": 2903
 		},
 		{
 			"type": "chapter",
@@ -241,6 +242,10 @@
 		{
 			"number": 2902,
 			"content": "The restriction on the types of passengers based on flight safety considerations of a civil air transport enterprise serving domestic air routes, shall be reported to CAA for title prior to its implementation."
+		},
+		{
+			"number": 2903,
+			"content": "Civil air transport enterprise shall, prior to the suspension or termination of its operation, submit the business suspension or termination plan to MOTC through CAA for approval, and shall not suspend or terminate its business earlier than 60 days after the approval date.\r\nThe business suspension or termination plan stated in the preceding paragraph shall include the following contents:\r\n1) The list of operating scheduled or non-scheduled flights and timetable plan.\r\n2) The passenger handling mechanism pursuant to Article 13-1.\r\n3) The plan that fill the operating capacity of scheduled domestic flight routes."
 		},
 		{
 			"number": 3000,
