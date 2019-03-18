@@ -1,17 +1,18 @@
 {
 	"pcode": "M0040003",
 	"type": "命令",
-	"english": "Regulations Governing Inspection of Cutting And Harvesting of Forest Products",
+	"english": "Regulations for Management of Protection Forest",
 	"title": "林產物伐採查驗規則",
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=M0040003",
-	"englishUpdate": "19991231",
+	"englishUpdate": "20181204",
 	"history": [
-		"Promulgated on February 17, 1953   ",
-		"Amende on March 21, 1968",
-		"Amende on March 5, 1671",
-		"Amende on June 30, 1989",
-		"Amende on November 30, 1999",
-		"Amende on December 31, 1999"
+		"Promulgated on February 17, 1953.",
+		"Amendment to all Articles promulgated on March 21, 1968.",
+		"Amendment to all Articles promulgated on March 5, 1971.",
+		"Amendment to all Articles promulgated on June 30, 1989.",
+		"Amendment to Articles 4, 7, 17, 21 promulgated on November 30, 1999.",
+		"Amendment to Article 11 promulgated on December 31, 1999.",
+		"Amendment to all Articles promulgated on December 4, 2018."
 	],
 	"divisions": [
 		{
@@ -19,20 +20,20 @@
 			"number": 100,
 			"title": "General Provisions",
 			"start": 100,
-			"end": 700
+			"end": 300
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Cutting and harvesting",
-			"start": 800,
-			"end": 1400
+			"start": 400,
+			"end": 1100
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Inspection",
-			"start": 1500,
+			"start": 1200,
 			"end": 2000
 		},
 		{
@@ -46,91 +47,91 @@
 	"articles": [
 		{
 			"number": 100,
-			"content": "These Regulations are enacted pursuant to the provisions of the first paragraph of Article 45 of the Forestry Act (hereinafter \"Act\")."
+			"content": "The Regulations are enacted pursuant to the provisions of the first paragraph of Article 45 of the Forestry Act (hereinafter \"Act\")."
 		},
 		{
 			"number": 200,
-			"content": "The term \"forest products\" as used in these Regulations means the main products and by-products of a state-owned or public forest or a private forest except those which do not serve the purposes for operating the forest."
+			"content": "The term \"forest products\" as used in the Regulations means the main products and by-products for the purposes of managing of state-owned forest or public forest or a private forest.\r\n1.Main products: include unrefined, withered, lodging bamboos/trees and the remaining roots of plants and remnant materials.\r\n2.By-products: includes bark, pitch, seeds/fruits, fallen twigs, leaves, shrubs/vines, bamboo shoots, grasses, fungi and forest products other than the main products."
 		},
 		{
 			"number": 300,
-			"content": "The terms \"mistaken cutting\" and \"unauthorized cutting\" as used in these Regulations are defined as follows:\r\n1.  Mistaken cutting means cutting trees which are not approved for cutting due to the mistaken belief that such trees may be cut and harvested, provided that the harvester holds no intention to illegally possess such trees. \r\n2.  Unauthorized cutting means knowingly cutting trees and piling the trees cut on the site without applying for an approval in advance which is legally required or with such an application pending approval, provided that the harvester holds no intention to illegally possess such trees."
+			"content": "The definition of terms in the Regulations are show as below:\r\n1.Theft: Unauthorized cutting or harvesting of other people’s trees without their consent.\r\n2.Mistaken cutting: Cutting or harvesting one's own trees outside the approved scope.\r\n3.Unauthorized cutting: Cutting or harvesting one's own trees without approval."
 		},
 		{
 			"number": 400,
-			"content": "The permit for cutting and harvesting forest products shall be approved as follows:\r\n1.  In the case of a state-owned forest, in accordance with the Regulations Governing Disposition of Forest Products of State-Owned Forests;\r\n2.  In the case of a public forest, by the municipal, county (city) competent authority; and\r\n3.  In the case of a private forest, by the municipal or county (city) competent authority, provided that the provision of the preceding subparagraph shall govern for the cutting and harvesting of a protection forest."
+			"content": "A permit must be obtained before cutting and harvesting forest products.\r\nPermits for cutting and harvesting forest products shall be approved as below:\r\n1.In case of a state-owned forest: In accordance with the Regulations Governing Disposition of Forest Products of State-owned Forests.\r\n2.In case of a public or private forest: By the municipal/county (city) competent authority."
 		},
 		{
 			"number": 500,
-			"content": "The forest products inspections under these Regulations include \r\n1.  Forest products release inspection;\r\n2.  Forest products moving inspections; and\r\n3.  Cutover forest inspection."
+			"content": "The harvester of forest products of a public or private forest shall submit an application form along with the following documents to apply to the municipal/county (city) competent authority for the permit for cutting, harvesting and transporting such forest products:\r\n1.The location map of the cutting and harvesting area.\r\n2.The document certifying the rights in the subject forest products.\r\n3.The road plan and the soil and water conservation plan.\r\n4.The reforestation (utilization) plan for the cutover forest.\r\nThe applicant may present good cause and relevant certifying document instead of the plan provided in subparagraphs 3 or 4 of the preceding paragraph."
 		},
 		{
 			"number": 600,
-			"content": "The agency to conduct the relevant forest products inspection shall be as follows:\r\n1.  The release inspection and the cutover forest inspection shall be conducted by the original competent authority issuing the cutting and harvesting permit.\r\n2.  The forest products moving inspection shall be conducted by the relevant checkpoint; the competent authority may organize inspection teams to conduct mobile inspections."
+			"content": "The municipal/county (city) competent authority shall, after receiving the application provided in the preceding article, dispatch personnel to conduct an on-site inspection of the following matters and produce a written report on such inspection:\r\n1.Compliance with the restrictions and conditions provided in Article 10 of the Act and the Regulations Governing Management of Protection Forests.\r\n2.Conformity of such particulars as specified in the application form with the actual conditions.\r\n3.Ground conditions: Including the rock mass, the depth of the top soil, the quality of the soil, and the gradient of the mountain.\r\n4.Status of the forest: Including the area and the species, age, average height, diameter of the trees and the quantity of trees and timber volume per hectare.\r\n5.Feasibility of the proposed reforestation (utilization) plan for the cutover forest.\r\nThe municipal/county (city) competent authority may entrust a forestry technologist, who is legally registered to practice, to handle the on-site inspections provided in the preceding paragraph.\r\nIf the result of the inspection is determined to be one of the following, a portion or the whole of the cutting and harvesting shall not be permitted:\r\n1.Harvester is prohibited or restricted from cutting and harvesting by Article 10 of the Act and the Regulations Governing Management of Protection Forests, or other conditions that require prohibiting or restricting cutting and harvesting.\r\n2.Harvester had not received approval from competent authority for the cutting and harvesting of forest products that belong to a national park, designated scenic area or as required by other laws and regulations."
 		},
 		{
 			"number": 700,
-			"content": "The stamp certifying the relevant forest products inspection shall be prepared by the central or municipal competent authority and handed over to the agency conducting such inspection for custody and use.  Such stamps include\r\n1.  The investigation stamp, which shall be used during the harvest volume check to certify the per-tree check of the coniferous trees, broadleaf tree, precious trees, and trees subject to selection cutting or alternate cutting.\r\n2.  The blocking wood inspection stamp, which shall be used to certify the investigation of blocking wood, subsidiary materials or trees omitted from previous inspections.\r\n3.  The demarcation stamp, which shall be used to mark the boundaries of the forest products cutting areas.\r\n4.  The release stamp, which shall be used to certify the release inspection.\r\n5.  The attachment stamp, which shall be used to certify an investigation of the harvest and the root plants thereof from pirate cutting, unauthorized cutting or mistaken cutting.\r\n6.  The cutover forest inspection stamp, which shall be used to certify the cutover forest inspection following the completion of the cutting and harvesting operation."
+			"content": "Where the subject cutting area of the public or private forest as designated in the application is adjacent to a state-owned forestry business area, a protection forest, a national park or a designated scenic area, the municipal/county (city) competent authority shall, before approving such application, conduct a second on-site inspection in conjunction with the managing administration of the state-owned forest, protection forest, the national park or the designated scenic area concerned and the applicant, and set up demarcation trees, boundary markers, or other markers around the cutting area and note the same in the relevant location map."
 		},
 		{
 			"number": 800,
-			"content": "The harvester of forest products of a public or private forest shall submit the following documents to apply to the competent authority for the permit for cutting, harvesting and transporting such forest products:\r\n1.  The application form;\r\n2.  The location map of the cutting area;\r\n3.  The document certifying the rights in the subject forest products;\r\n4.  The road plan and the soil and water conservation plan;\r\n5.  The reforestation plan for the cutover forest.\r\nA good cause shall be given instead of the absence (if any) of the plan provided in subparagraphs 4 or 5 of the preceding paragraph and the relevant certifying document shall be presented where necessary."
+			"content": "The municipal/county (city) competent authority shall, when issuing the Permit for Cutting, Harvesting and Transporting Forest Products of a Public or Private Forest, distribute a copy of such permit and the cutting area location map to the local forestry managing administration, police agency and administration office of the hsiang (township) concerned respectively, and shall, on a monthly basis, prepare the statistics of the cutting/harvesting permits issued and submit the same to the central competent authority for reference purposes.\r\nThe Permit for Cutting, Harvesting and Transporting Forest Products of a Public or Private Forest in the preceding paragraph is as per Supplemental Form 1."
 		},
 		{
 			"number": 900,
-			"content": "The competent authority shall, after receiving the application provided in the preceding article dispatch personnel to conduct an on-site inspection of the following matters and produce a written report on such inspection:\r\n1.  Compliance with the restrictions provided in Article 10 of the Act and the Regulations Governing Management of Protection Forests;\r\n2.  Conformity of such particulars as specified in the application form with the actual conditions;\r\n3.  The ground conditions, including the rock mass, the depth of the top soil, the quality of the soil, and the gradient of the mountain.\r\n4.  The status of the forest, including the area and the species, age, average height, diameter of the trees and the quantity of trees and timber volume per hectare.\r\n5.  Feasibility of the proposed cutover forest utilization plan.\r\n6.  Recommendation for approving or disapproving the application and the reasons therefore."
+			"content": "No harvester shall engage in any of the following activities in the course of cutting and harvesting forest products of a public or private forest:\r\n1.Destroying the soil or water conservation.\r\n2.Damaging bamboos, trees or work products of another person.\r\n3.Destroying or removing the demarcation trees, boundary markers, or other markers within the cutting and harvesting area;\r\n4.Cutting bamboos or trees to be reserved which are designated or marked so by the government.\r\n5.Theft, unauthorized cutting or mistaken cutting of forest products.\r\nThe municipal/county (city) competent authority shall revoke permits and act in accordance with relevant laws and regulations if the harvester meets any of the conditions stipulated in the subparagraphs of the preceding paragraph."
 		},
 		{
 			"number": 1000,
-			"content": "Where the subject cutting area of the public or private forest as designated in the application is adjacent to a state-owned forestry business area, a protection forest, a national park or a designated scenic area, the competent authority shall, before approving such application, conduct a second on-site inspection in conjunction with the local regulatory agency of the state-own forest, protection forest, the national park or the designated scenic area concerned and the applicant, and set up boundary markers or demarcation trees around the cutting area and note the same in the relevant location map."
+			"content": "The municipal/county (city) competent authority may dispatch personnel to conduct guidance and supervision from time to time during the validity term of the cutting and harvesting permit and the harvester shall not avoid, obstruct or refuse such guidance and supervision."
 		},
 		{
 			"number": 1100,
-			"content": "The competent authority shall, when issuing the permit for cutting and harvesting forest products of a public or private forest, distribute a copy of such permit and the cutting area location map to the local forestry managing administration, police agency and administration office of the hsiang (township) concerned respectively.  The county (city) government concerned shall, on a monthly basis, prepare the statistics of the cutting/harvesting permits issued and submit the same to the National Principal Authority (\"NPA\") for reference purposes."
+			"content": "The harvester of forest products of a public or private forest shall, at any time after discovering an absence of the investigation stamp, blocking wood inspection stamp, or the demarcation stamp, apply to the original agency issuing the cutting and harvesting permit for investigation and branding the relevant stamp mark subject to no breach of laws and regulations or contract."
 		},
 		{
 			"number": 1200,
-			"content": "No harvester shall engage in any of the following activities in the course of cutting and harvesting forest products of a public or private forest:\r\n1.  Destroying the soil and water conservation;\r\n2.  Damaging bamboos, trees or work products of another person;\r\n3.  Destroying or removing the demarcation trees or other signs set up within the cutting area;\r\n4.  Cutting bamboos or trees to be reserved which are designated or marked so by the government.\r\n5.  Pirate cutting, unauthorized cutting or mistaken cutting."
+			"content": "The inspection of harvested forest products of state-owned, public and private forests shall be handled in accordance with the Regulations.\r\nThe inspection of harvested forest products under the Regulations include:\r\n1.Forest products release inspection\r\n2.Forest products moving inspections\r\n3.Cutover forest inspection"
 		},
 		{
 			"number": 1300,
-			"content": "The competent authority may dispatch personnel to conduct guidance and supervision from time to time during the validity term of the cutting and harvesting permit and the harvester shall not refuse such guidance and supervision."
+			"content": "The division of labor for the inspection of harvested forest products shall be as below :\r\n1.The release inspection and the cutover forest inspection shall be conducted by the original competent authority issuing the cutting and harvesting permit.\r\n2.The forest products moving inspection shall be conducted by the relevant checkpoint; the competent authority may organize mobile inspection teams to conduct inspections."
 		},
 		{
 			"number": 1400,
-			"content": "The harvester of forest products of a public or private forest shall, at any time after discovering an absence of the relevant stamp mark on the relevant demarcation trees, natural forest, conifer forest, selection cutting forest or precious trees, apply to the original agency issuing the cutting and harvesting permit for investigation and branding the relevant stamp mark subject to no breach of laws and regulations or contract."
+			"content": "The stamp certifying the relevant forest products inspection shall be prepared by the central competent authority and handed over to the agency conducting such inspection for custody and use. Such stamps include:\r\n1.The investigation stamp: used during the harvest volume check to certify the per-tree check of the coniferous trees, broadleaf trees, precious trees, and trees subject to selection cutting or alternate cutting. However, during per-tree checks in simple sampling areas for artificial forest, investigators shall replace the investigation stamps with spray paint, ropes or other simple marking methods.\r\n2.The blocking wood inspection stamp: used to certify the investigation of blocking wood, subsidiary materials or trees omitted from previous inspections.\r\n3.The demarcation stamp: used to mark the boundaries of the forest products cutting areas.\r\n4.The release stamp: used to certify the release inspection.\r\n5.The attachment stamp: used to certify an investigation of the harvest and the root plants thereof from theft, unauthorized cutting or mistaken cutting.\r\n6.The cutover forest inspection stamp: used to certify the cutover forest inspection following the completion of the cutting and harvesting operation."
 		},
 		{
 			"number": 1500,
-			"content": "The harvester shall apply to the competent authority for the competent authority to conduct the release inspection of the forest products trimmed and gathered up in the cutting area or at the relevant plain ground.  Such forest products may not be moved and transported until after being branded with the release stamp."
+			"content": "The harvester shall apply to the original competent authority issuing the cutting and harvesting permit for the competent authority to conduct the release inspection of the forest products trimmed and gathered up in the cutting area or at the relevant plain ground. Such forest products may not be moved and transported until after being branded with the release stamp"
 		},
 		{
 			"number": 1600,
-			"content": "The forest products release inspection shall be in accordance with the following:\r\n1.  In case of a state-owned forest:\r\n(1)  The inspection shall be conducted in the cutting area or at the designated plain ground where cutting and harvesting is permitted.  The harvester may apply for the inspection on a batch-by-batch basis.\r\n(2)  Where the end of the main product has a diameter of 20cm or more or the precious broadleaf tree or coniferous tree cut has a diameter of 12cm or more, the harvester shall number each of such timbers and brand the same with its stamp registered for such purposes.  Such timbers shall be inspected and branded with the release stamp before being released for moving and transportation.\r\n(3)  The competent authority shall make out a detailed list of the inspected and released forest products and issue a copy thereof to the relevant forest product checkpoint and the harvester respectively.\r\n2.  In case of a public or private forest:\r\n(1)  The harvester shall fill out an application for moving the forest products and file the same to the relevant inspection agency to conduct the release inspection in the cutting area or at the designated plain ground.\r\n(2)  The inspecting personnel shall stamp the release stamp onto the timber and fill in the amount released on the reverse side of the cutting/harvest permit and impress his/her seal thereon and returned the same to the harvester for holding as the evidence of approval for moving.\r\n3.  By-products, bamboos, branches, tips of twigs, waste materials, raw materials for industrial purposes and products not suitable for numbering or branding stamps may be categorized for purposes of the release inspection, provided that the result of the weight measurement conducted at the relevant checkpoint shall prevail with respect to the amount released.\r\n4.  The by-products shall be measured according to the applicable unit and specification.\r\nThe release inspection of the forest products of a reforestation concession shall be in accordance with the provision of subparagraph 2 of the preceding paragraph."
+			"content": "The forest products release inspection shall be in accordance with the following:\r\n1.In the case of a state-owned forest, excluding reforestation concessions:\r\n(1)The release inspection shall be conducted in the cutting area or at the designated plain ground where cutting and harvesting is permitted. The harvester may apply for the release inspection on a batch-by-batch basis.\r\n(2)Where the end of the main product has a diameter of 20cm or more, or the end of a naturally-occurring precious broadleaf or coniferous tree cut has a diameter of 12cm or more, the harvester shall number each of such timbers and brand the same with the stamp chosen in accordance with Article 44, Paragraph 2 of the Act for such purposes. Such timbers shall be inspected and branded with the release stamp before being released for moving and transportation.\r\n(3)The competent authority shall make out a Detailed List for Forest Product Release Inspection (as per Supplemental Forms 2 and 3) and issue a copy thereof to the relevant forest product checkpoint and the harvester respectively.\r\n2.In the case of a reforestation concession in a state-owned forest, public forest, or private forest:\r\n(1)The harvester shall fill out an application for moving the forest products and file the same to the relevant inspection agency to conduct the release inspection in the cutting area or at the designated plain ground. The harvester of forest products from a public forest shall handle the matter in accordance with Item 2 of the preceding paragraph.\r\n(2)The inspecting personnel shall stamp the release stamp onto the timber and fill in the amount released on the reverse side of the Permit for Cutting, Harvesting and Transporting and impress his/her seal thereon and returned the same to the harvester for holding as the evidence of approval for moving.\r\n(3)By-products, bamboos, branches, tips of twigs, thinning logs with ends that have a diameter of 20cm or less, waste materials, raw materials for industrial purposes and products not suitable for numbering or branding stamps may be categorized for purposes of the release inspection, provided that the result of the weight measurement conducted at the relevant checkpoint shall prevail with respect to the amount released.\r\n3.The by-products shall be measured according to the applicable unit and specification."
 		},
 		{
 			"number": 1700,
-			"content": "The standards for the timber types and specification of forest products with respect to forest products release inspection shall be prescribed by the NPA or the municipal competent authority."
+			"content": "The standards for the timber types and specification of forest products with respect to forest products release inspection shall be in accordance with the National Standards of the Republic of China (CNS) Wood Industry category."
 		},
 		{
 			"number": 1800,
-			"content": "The forest products moving inspection shall be in accordance with the following:\r\n1.  In case of a state-own forest, the harvester shall make out a list of the forest products to be moved, stop at and produce the same list to the relevant checkpoint for inspection.  The personnel at such checkpoint shall check to confirm such forest products being moved conform to those described in the list before stamping the list for release.  The list as stamped shall be made in three counterparts with the checkpoint, the competent authority and the harvester each holding one copy thereof.\r\n2.  In case of a public or private forest, the evidence issued by the relevant inspection agency approving the moving and transportation of the forest products shall be presented to the checkpoint.  The personnel at such checkpoint will stamp such evidence to release the products after confirming that such products conform to those described in the evidence.\r\n3.  Where the forest products being moved and transported need to pass more than one checkpoints, the procedure provided in the preceding subparagraph shall be conducted by the first checkpoint.  The other checkpoints will stamp the moving list to release the forest products after confirming that such forest products conform to those described in the moving list.\r\n4.  Forest products or timber articles sold in the market shall be inspected based on the relevant government uniform invoice issued.\r\n5.  Forest products subject to direct management by the relevant forestry managing administration shall bear the moving stamp and a moving list thereof shall be made out for ready inspection.  Such forest products shall be branded the release stamp upon sale."
+			"content": "The forest products moving inspection shall be in accordance with the following:\r\n1.In case of a state-owned forest, excluding reforestation concessions, the harvester shall make a list of forest products to be moved in accordance with to the types of forest products (Supplemental Forms 4 and 5), stop at and produce the same list to the relevant checkpoint for inspection. The personnel at such checkpoint shall check to confirm such forest products being moved conform to those described in the list before stamping the list for release. The list as stamped shall be made in three counterparts with the checkpoint, the central competent authority, and the harvester each holding one copy thereof.\r\n2.In case of a reforestation concession in a state-owned forest, public forest, or private forest, the evidence issued by the release inspection agency approving the moving and transportation of the forest products shall be presented to the checkpoint. The personnel at such checkpoint will stamp such evidence to release the products after confirming that such products conform to those described in the evidence.\r\n3.Where the forest products being moved and transported need to pass more than one checkpoints, the procedure provided in the preceding subparagraph shall be conducted by the first checkpoint. The other checkpoints or inspection teams will stamp the moving list to release the forest products after confirming that such forest products conform to those described in the moving list.\r\n4.The forest products or wood products sold on the market shall be inspected based on uniform invoices.\r\n5.Forest products subject to direct management by the relevant forestry managing administration shall bear the moving stamp and a moving list (as per Supplemental Form 6) thereof shall be made out for ready inspection. Such forest products shall be branded the release stamp upon sale."
 		},
 		{
 			"number": 1900,
-			"content": "The harvester of forest products of a state-owned or public forest shall, within ten days after completing the transportation of the forest products, apply to the competent authority for cutover forest inspection.  The cutover forest inspection shall be conducted to confirm\r\n1.  In cases of clear cutting, whether the demarcation trees are intact and whether cutting and harvesting has been conducted outside the designated boundaries.\r\n2.  In cases of selection cutting, whether there are trees which are not approved for cutting and harvested have been cut.\r\n3.  Whether the harvester has acted in breach of the contract.\r\nThe inspection group conducting the inspection provided in the preceding paragraph shall be headed by a technical personnel who did not participate in the original on-site inspection.\r\nWhere the cutover forest inspection results show that no cutting outside the boundaries, pirate cutting or any other activity was conducted in breach of the laws and regulations or contract, the competent authority shall issue the certificate of completion of operation."
+			"content": "The harvester of forest products of a state-owned or public forest shall, within ten days of completing the transportation of the forest products, apply to the original competent authority issuing the cutting and harvesting permit for cutover forest inspection. The cutover forest inspection shall be conducted to confirm the following:\r\n1.In cases of clear cutting, whether the demarcation trees are intact and whether cutting and harvesting has been conducted outside the designated boundaries.\r\n2.In cases of selection cutting, whether there are trees which are not approved for cutting and harvested have been cut.\r\n3.Whether the harvester has acted in breach of the contract.\r\nThe inspection group conducting the inspection provided in the preceding paragraph shall be headed by technical personnel who did not participate in the inspection stipulated in Article 6. Where the cutover forest inspection results show that no cutting outside the boundaries, theft or any other activity was conducted in breach of the laws and regulations or contract, the certificate of completion of operation is issued by the original competent authority issuing the cutting and harvesting permit."
 		},
 		{
 			"number": 2000,
-			"content": "Any activity in violation of these Regulations as is discovered as a result of supervision or inspection shall be promptly reported to the competent authorities.  Where such violation involves criminal liability, the local police agency shall be engaged to duly conduct the relevant investigation.  In such case, the relevant tangible evidences shall be properly kept."
+			"content": "Any activity in violation of the Act or the Regulations as is discovered by supervision or inspection personnel shall be promptly reported to the competent authorities. Where such violation involves criminal liability, the local police agency shall be engaged to duly conduct the relevant investigation. In such case, the relevant tangible evidence shall be properly kept."
 		},
 		{
 			"number": 2100,
-			"content": "The forms of the documents and lists designated in these Regulations shall be prescribed by the NPA."
+			"content": "The central competent authority shall appoint subordinate agencies or entrust a state-owned forest managing administration for the cutting and harvesting inspections stipulated in Articles 15, 16, 18 and 19.\r\nThe municipal/county (city) competent authority may appoint subordinate agencies or entrust the administration office of the hsiang (township, city) for the cutting and harvesting permits stipulated in Article 4, Paragraph 2, Subparagraph 2, and for the cutting and harvesting inspections stipulated in Articles 15, 16, 18 and 19."
 		},
 		{
 			"number": 2200,
-			"content": "These Regulations shall come into force on the day of promulgation."
+			"content": "The Regulations shall come into force on the day of promulgation."
 		}
 	]
 }
