@@ -1,12 +1,15 @@
 {
 	"pcode": "J0160066",
 	"type": "命令",
-	"english": "Regulations for Management of Radioactive Waste below Certain Activity or Specific Activity",
+	"english": "Regulations on Clearance Level for Radioactive Waste Management",
 	"title": "一定活度或比活度以下放射性廢棄物管理辦法",
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=J0160066",
 	"englishUpdate": "20041229",
+	"attachments": [
+		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000005136"
+	],
 	"history": [
-		"Announced on December 29, 2004"
+		"Enforced by letter HWZ No.0930047668 on Dec 29, 2004"
 	],
 	"divisions": [],
 	"articles": [
@@ -16,27 +19,27 @@
 		},
 		{
 			"number": 200,
-			"content": "The terms used in the Regulations are defined as follows:\r\n1. Activity: refers to the number of spontaneous disintegrations occurring in a certain amount of radionuclides at a given time.\r\n2. Specific activity: activity per unit mass.\r\n3. Release: the removal of solid radioactive waste from the facilities for recycling, bury or incineration."
+			"content": "The terms used in the Regulations are defined as follows:\r\n1. Activity: the number of spontaneous disintegrations occurring in a certain amount of radionuclides at a given time.\r\n2. Specific activity: activity per unit mass.\r\n3. Release: the removal of solid radioactive waste from the facilities for recycling, burial and incineration."
 		},
 		{
 			"number": 300,
-			"content": "Radioactive waste (hereinafter abbr. as the waste) stipulated in the regulations means solid radioactive waste excluding what stipulated as follows:\r\n1. Waste derived from natural occurring radioactive materials.\r\n2. Radioactive waste produced by patients discharged from hospital who have received nuclear medical diagnosis or treatment.\r\nThe clearance level for the waste in above paragraphs shall be in accord with stipulations in the appendix table."
+			"content": "Clearance waste (hereinafter abbr. as the waste)referred to in the regulations means solid radioactive waste excluding the  following:\r\n1. Waste derived from naturally-occurring radioactive materials.\r\n2. Radioactive waste produced by patients discharged from hospital who have received nuclear medical diagnosis or treatment.\r\nThe clearance level for the waste described in above paragraphs shall be in accord with stipulations in the appendix table."
 		},
 		{
 			"number": 400,
-			"content": "Radioactive waste with activity or specific activity in accord with the stipulations of clearance level in the above article shall be allowed for release.\r\nTo implement release of waste, a release plan specifying the following contents shall be submitted to the competent authority for approval prior to implementation:\r\n1. Managing organization and responsibilities.\r\n2. Sources and characteristic of the waste.\r\n3. Measuring and analysis methods for the activity or specific activity of the waste.\r\n4. Method and place for release of the waste.\r\n5. Quality assurance program.\r\n6. Other matters specified by the competent authority in public notice.\r\nThe release plan referred to in the above paragraph may be integrated in the radiation protection plan for submission."
+			"content": "Radioactive waste with activity or specific activity below the clearance level described in Article 3 shall be allowed to be free released.\r\nTo implement the release of waste, a release plan specifying the following shall be submitted to the competent authority for approval prior to implementation:\r\n1. Managing organization and its responsibilities.\r\n2. Sources and characteristics of the waste.\r\n3. Measuring and analysis methods for the activity or specific activity of the waste.\r\n4. Method and location of the release waste.\r\n5. Quality assurance program.\r\n6. Other matters specified in a public announcement by the competent authority.\r\nThe release plan referred to in the above paragraph may be submitted as part of the radiation protection plan of a nuclear facility or organization using isotopes ."
 		},
 		{
 			"number": 500,
-			"content": "Release operation records of subparagraph 2 to 4 in paragraph 2 of the above article shall be kept for 10 years for future checking."
+			"content": "Records of the waste release referred to in subparagraphs 2 to 4 in paragraph 2 of Article 4 shall be kept for 10 years."
 		},
 		{
 			"number": 600,
-			"content": "Based on the radiation dose evaluation on the radioactive waste, the annual individual effective dose not exceeds 0.01 mSv and the collective dose not exceeds 1 person-Sv, a radiation dose evaluation report and release plan shall be submitted to the competent authority for approval prior to implementing release of waste."
+			"content": "If the annual individual effective dose does not exceed 0.01 mSv and the collective dose does not exceed 1 person-Sv caused by the release radioactive waste, a radiation dose evaluation report and release plan shall be submitted to the competent authority for approval prior to implementing release of waste."
 		},
 		{
 			"number": 700,
-			"content": "Deliberate mixing dilution of radioactive waste to meet the values of specific activity given in article 3 shall not be permitted. Those approved by the competent authority is not subject to this restriction."
+			"content": "Deliberate dilution of radioactive waste by mixing to meet the values of specific activity given in article 3 shall not be permitted. Special cases approved by the competent authority are not subject to this restriction."
 		},
 		{
 			"number": 800,
