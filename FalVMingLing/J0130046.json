@@ -8,22 +8,19 @@
 		"經濟部",
 		"能源管理目"
 	],
-	"lastUpdate": "20110616",
+	"lastUpdate": "20190328",
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000097249",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000097250",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000097251",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000097252",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000097253",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000235154",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000235155",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000235156",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000235157",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000235158"
+		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000245036",
+		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000245037",
+		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000245038",
+		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000245039",
+		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000245040",
+		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000245041"
 	],
 	"history": [
-		"中華民國一百年六月十六日經濟部經能字第 10004603320 號令訂定發布全文 8 條；並自發布日施行"
+		"中華民國一百年六月十六日經濟部經能字第 10004603320 號令訂定發布全文 8 條；並自發布日施行",
+		"中華民國一百零八年三月二十八日經濟部經能字第 10804601340 號令修正發布第 4、6 條條文"
 	],
 	"divisions": [],
 	"articles": [
@@ -41,7 +38,7 @@
 		},
 		{
 			"number": 400,
-			"content": "天然氣事業輸儲設備地理資訊管理系統應建置下列資料項目：\r\n一、管線資料\r\n（一）管位坐標資料：指管線圖形位址之描述，檔案格式如附表一。\r\n（二）管線屬性資料：指用來描述管線要素之品質、關係等資料；管線屬\r\n      性資料之紀錄需與管位坐標資料相對應，其檔案格式如附表二。\r\n二、開關閥資料：描述開關閥位址坐標及屬性等文數字之資料，其檔案格\r\n    式如附表三。\r\n三、場站資料：描述場站位址坐標及屬性等文數字之資料，其檔案格式如\r\n    附表四。\r\n四、人（手）孔資料：描述人手孔位址坐標及屬性等文數字之資料，其檔\r\n    案格式如附表五。"
+			"content": "天然氣事業輸儲設備地理資訊管理系統應建置下列資料項目：\r\n一、管線資料\r\n（一）管位坐標資料：指管線圖形位址之描述，檔案格式如附表一。\r\n（二）管線屬性資料：指用來描述管線要素之品質、關係等資料；管線屬\r\n      性資料之紀錄需與管位坐標資料相對應，其檔案格式如附表二。\r\n（三）用戶編號及管線識別碼資料：指公用天然氣事業之用戶編號、公司\r\n      代碼及系統編號，其檔案格式如附表二之一。\r\n二、開關閥資料：描述開關閥位址坐標及屬性等文數字之資料，其檔案格\r\n    式如附表三。\r\n三、場站資料：描述場站位址坐標及屬性等文數字之資料，其檔案格式如\r\n    附表四。\r\n四、人（手）孔資料：描述人（手）孔位址坐標及屬性等文數字之資料，\r\n    其檔案格式如附表五。\r\n前項第一款第三目規定之資料項目，不適用於天然氣生產或進口事業。"
 		},
 		{
 			"number": 500,
@@ -49,7 +46,7 @@
 		},
 		{
 			"number": 600,
-			"content": "天然氣事業輸儲設備地理資訊管理系統資料坐標系統，應採國家坐標系統\r\n（TWD 67）或國家新坐標系統（TWD97 ）。"
+			"content": "天然氣事業輸儲設備地理資訊管理系統資料坐標系統，應採國家新坐標系\r\n統（TWD 97）。"
 		},
 		{
 			"number": 700,
