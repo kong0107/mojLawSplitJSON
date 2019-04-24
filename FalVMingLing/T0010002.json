@@ -11,7 +11,12 @@
 	"isDiscarded": true,
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000221098"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國六十九年一月二十一日行政院主計處（69）台處忠二字第 00497 號函訂定發布全文 35 條",

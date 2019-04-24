@@ -6,7 +6,12 @@
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=O0020072",
 	"englishUpdate": "20060102",
 	"attachments": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000001700"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attached Table International Toxicity Equivalency Factors.pdf"
+			]
+		}
 	],
 	"history": [
 		"Seven articles promulgated by Environmental Protection Administration Order Huan-Pao-Shu-Kung-Tzu No. 0940105905 on January 2, 2006."

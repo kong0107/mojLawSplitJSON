@@ -11,10 +11,30 @@
 	"lastUpdate": "20170821",
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000054245",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000054246",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000234349",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000234350"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件一.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件一.DOC"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件二.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件二.DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國九十七年五月十四日交通部交航字第 0970085027 號令 、 內政部台內營字第 0970819902 號令會銜訂定發布全文 19 條；並自發布日施行",

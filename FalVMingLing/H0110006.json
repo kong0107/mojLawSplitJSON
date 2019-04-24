@@ -11,7 +11,12 @@
 	"isDiscarded": true,
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000126514"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"聘僱外國留學生申請書.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國八十二年二月十五日教育部（82）台參字第 007512 號令 、 行政院勞工委員會（82）台勞職業字第 09878 號令會銜訂定發布全文 12 條",

@@ -11,7 +11,12 @@
 	"lastUpdate": "20190214",
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000241388"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"法務部司法官學院編制表.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國一百零二年七月一日法務部法令字第 10208515480 號令訂定發布；並自一百零二年七月一日施行",

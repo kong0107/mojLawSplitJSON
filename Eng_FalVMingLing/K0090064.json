@@ -6,10 +6,30 @@
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0090064",
 	"englishUpdate": "20171212",
 	"attachments": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003885",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003886",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003887",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003888"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment 1  Application for Permission for Preparatory Operations for Private Aircraft Activities.odt"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment 2  Ministry of Transportation and Communications Civil Aeronautics Administration  Application for Private Aircraft Aviation.odt"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment 3  Private Aircraft Passenger List.odt"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment 4  Ministry of Transportation and Communications Civil Aeronautics Administration Notification for Civil Aircraft Aviation Permission.odt"
+			]
+		}
 	],
 	"history": [
 		"Full text promulgated by the MOTC Order No. 0970085028 on April 22, 2008.",

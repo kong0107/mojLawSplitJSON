@@ -6,7 +6,12 @@
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0400022",
 	"englishUpdate": "20170209",
 	"attachments": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000002291"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"APPENDIX 23 (AMENDED).doc"
+			]
+		}
 	],
 	"history": [
 		" Articles 7, 10, 17, 18, and 21 amended and promulgated and Article 20-1 added 30 December 2003 per Order No. Taiwan-Finance-Securities-I-0920005337 of the Securities and Futures Commission, Ministry of Finance",

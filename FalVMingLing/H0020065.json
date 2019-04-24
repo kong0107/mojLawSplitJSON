@@ -11,8 +11,18 @@
 	"isDiscarded": true,
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000055287",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000234358"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表國立新竹生活美學館場地使用時段及收費標準表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表國立新竹生活美學館場地使用時段及收費標準表.DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國九十五年四月七日國立新竹社會教育館竹社秘字第 0950000740 號令訂定發布全文 4 條；並自發布日施行",

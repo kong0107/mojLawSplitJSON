@@ -11,8 +11,18 @@
 	"lastUpdate": "20130517",
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000129756",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000229355"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表.DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國九十三年五月十三日內政部台內消字第 0930090922 號令訂定發布全文 19 條；並自發布日施行",

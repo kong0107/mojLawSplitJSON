@@ -12,7 +12,12 @@
 	"isTranslated": true,
 	"english": "Regulations for Systematic Inspection of Imported Food",
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000227664"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國一百零三年二月十一日衛生福利部部授食字第 1021351939 號令訂定發布全文 8 條；並自發布日施行",

@@ -6,8 +6,18 @@
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=M0130009",
 	"englishUpdate": "20150408",
 	"attachments": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000002654",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004716"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Annex：Regulated articles eligible for the Regulations.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Annex：Regulated articles eligible for the Regulations.doc"
+			]
+		}
 	],
 	"history": [
 		" Adopted and promulgated on January 30, 2003",

@@ -6,9 +6,24 @@
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=M0130013",
 	"englishUpdate": "20160225",
 	"attachments": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003078",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003079",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003080"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Table 1 Animal Holding Fees Schedule.pdf"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Table 2 Fee Standard for Animal Carcass Burning.pdf"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Table 3 Fumigation and Sterilization Fees Standard.pdf"
+			]
+		}
 	],
 	"history": [
 		"Adopted and promulgated on August 31, 1999",

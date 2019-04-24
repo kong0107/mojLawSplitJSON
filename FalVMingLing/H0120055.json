@@ -11,8 +11,18 @@
 	"isDiscarded": true,
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000083617",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000234793"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表、行政院體育委員會國家體育場場地設施設備規費收費基準表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表、行政院體育委員會國家體育場場地設施設備規費收費基準表.DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國九十九年九月九日行政院體育委員會國家體育場管理處國體場秘字第 0990001272 號令訂定發布全文 6 條；並自發布日施行",

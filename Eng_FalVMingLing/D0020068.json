@@ -6,8 +6,18 @@
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0020068",
 	"englishUpdate": "20080430",
 	"attachments": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000000454",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004416"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Appendix.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Appendix.doc"
+			]
+		}
 	],
 	"history": [
 		"Promulgated on April 30, 2008"

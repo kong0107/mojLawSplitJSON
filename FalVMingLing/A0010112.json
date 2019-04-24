@@ -11,7 +11,12 @@
 	"lastUpdate": "20180302",
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000213495"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"中央研究院編制表.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國一百零三年四月二日中央研究院人事字第 10305021492 號令訂定發布",

@@ -6,10 +6,30 @@
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=S0020005",
 	"englishUpdate": "20180606",
 	"attachments": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004228",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004229",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004230",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004231"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment 1 Scale of Salary Grades and Remuneration Standards for Police Personnel.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment 1 Scale of Salary Grades and Remuneration Standards for Police Personnel.DOC"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment 2.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment 2.DOC"
+			]
+		}
 	],
 	"history": [
 		" Enacted and promulgated by President Order Tai-Tong (1)-Yi-Tzu No.0167 on Jan. 17, 1976",

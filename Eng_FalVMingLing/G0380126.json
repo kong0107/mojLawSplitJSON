@@ -6,12 +6,42 @@
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0380126",
 	"englishUpdate": "20180331",
 	"attachments": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000001208",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000001209",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000001212",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000001213",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000002774",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000002775"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment 1  Application for Establishment of Branch in ROC by Foreign Banks.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment 2  Declaration of Foreign Bank's Agent for Litigious and Non-litigious Matters in the ROC.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment 3  Application for Approved Branch Business Items.pdf"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment 4  Application for Business License.pdf"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment 5  Instructions for Calculating Eligible Assets of Foreign Bank Branches.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment 6  Application for Establishment of Representative Office in ROC by Foreign Banks.PDF"
+			]
+		}
 	],
 	"history": [
 		"Promulgated by the Ministry of Finance (MOF) on September 4, 2001",

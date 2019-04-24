@@ -4,7 +4,7 @@
 	"english": "Regulations Governing the Business of Negotiable Instruments Exchange and Clearance of Accounts among Banks",
 	"title": "票據交換及銀行間劃撥結算業務管理辦法",
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0430003",
-	"englishUpdate": "20140124",
+	"englishUpdate": "20190201",
 	"history": [
 		" Promulgated on December 29, 1980",
 		" Amended on November 4, 1982",
@@ -17,9 +17,10 @@
 		" Articles 22, 23, 25, 31, 33, 37, 38 and 41 amended; article 32 deleted on July 14, 1999",
 		" All twenty-seven articles amended on June 27, 2001",
 		" all thirty-seven articles amended on July 31, 2002.",
-		" All twenty-eight articles amended on December 22, 2010.",
-		" Article 23 amended on Septmber 28, 2012.",
-		" Articles 18 and 26 amended on January 24, 2014"
+		" All twenty-eight articles amended on December 22, 2010",
+		" Article 23 amended on September 28, 2012.",
+		" Articles 18 and 26 amended on January 24, 2014",
+		" Amended on February 1, 2019"
 	],
 	"divisions": [
 		{
@@ -32,144 +33,120 @@
 		{
 			"type": "chapter",
 			"number": 200,
-			"title": "Establishment and Operation of Clearinghouse",
+			"title": "Establishmentand Operation of Clearinghouse",
 			"start": 300,
-			"end": 1300
+			"end": 700
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Exchange of Negotiable Instruments and Clearance of Accounts",
-			"start": 1400,
-			"end": 1800
+			"start": 800,
+			"end": 1200
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Business Rules of Clearinghouse",
-			"start": 1900,
-			"end": 2400
+			"start": 1300,
+			"end": 1800
 		},
 		{
 			"type": "chapter",
 			"number": 500,
 			"title": "Supplemental Provisions",
-			"start": 2500,
-			"end": 2800
+			"start": 1900,
+			"end": 2200
 		}
 	],
 	"articles": [
 		{
 			"number": 100,
-			"content": "(Legal Basis)\r\nThese Regulations are prescribed pursuant to Article 32 of the Central Bank of the Republic of China (Taiwan) Act."
+			"content": "These Regulations are prescribed pursuant to Article 32 of the CentralBank of the Republic of China (Taiwan) Act."
 		},
 		{
 			"number": 200,
-			"content": "(Definition)\r\n\"Business of negotiable instruments exchange and clearance of accounts among banks” as used in these Regulations refers to the exchange of negotiable instruments between financial institutions, the clearance of amounts receivable or payable among financial institutions and relevant businesses."
+			"content": "“Business of negotiable instruments exchange and clearance of accounts among banks” as used in these Regulations refers to the exchange of negotiable instruments between financial institutions, the clearance of amounts receivable or payable among financialinstitutionsand relevant businesses."
 		},
 		{
 			"number": 300,
-			"content": "(Establishment and Organization of Clearinghouse)\r\nInstitutions that engage in the business of negotiable instruments exchange and clearance of accounts among banks shall be called clearinghouses. The establishment of a clearinghouse shall obtain the approval of the Central Bank of the Republic of China (Taiwan) (hereafter referred to as \"the Bank\") and a clearinghouse must be an incorporated foundation."
+			"content": "Institutions that engage in the business of negotiable instruments exchange and clearance of accounts among banks shall be called clearinghouses. A clearing house shall be a foundation and established with the approval of the Central Bank of the Republic of China (Taiwan)(hereafter referred to as “the Bank”)."
 		},
 		{
 			"number": 400,
-			"content": "(Application Procedure)\r\nIn applying under the provisions of the preceding Article for incorporation of a foundation, the entire group of persons who have stated a willingness to serve as director must apply to the Bank for approval of incorporation, submitting three copies of each of the following documents:  \r\n1. Application for approval of incorporation as a foundation;\r\n2. Articles of incorporation (original document)\r\n3. Inventory of donated properties, and documentation there of;\r\n4. Statements by contributors that they agree to transfer ownership of donated properties to the foundation once the registration of the foundation has bee approved;\r\n5. Minutes of contributor meetings;\r\n6. A list of directors and supervisors, and photocopies of their national identity certificates;\r\n7. Statements of agreement from persons who have agreed to serve as director or supervisor;\r\n8. A specimen impression of the foundation’s seal, and either specimen seal impressions or specimen signatures of the directors;\r\n9. Minutes of the board of directors’ founding meeting;\r\n10. A document explaining the foundation’s operations plan; and  \r\n11. Other documents designated by the Bank."
+			"content": "The establishment, supervision and administration of foundations establishedin accordance with the preceding article shall be governed by the Foundations Act, the Regulations Regarding Authorization Provisions of the Foundations Act by the Central Bank of the Republic of China (Taiwan), and the Regulations Governing the Accounting Treatment and Principleson the Preparation of Financial Reportsfor Foundations Overseen by the Central Bank of the Republic of China (Taiwan)."
 		},
 		{
 			"number": 500,
-			"content": "(Articles of Incorporation)\r\nThe articles of incorporation shall set forth the following particulars:  \r\n1. The foundation’s name and purpose, and the location of its main office and any branch offices;\r\n2. The type and monetary value of donated properties, and methods of safekeeping and utilization thereof;\r\n3. Operations and methods of management thereof;\r\n4. The number and term length of directors and supervisors, and the method of their appointment;\r\n5. The organizational structure, and the duties of the board of directors and the supervisors;\r\n6. Ownership of any property remaining after the foundation is dissolved or the competent authority voids its approval of incorporation; and\r\n7. The duration (if limited) of the foundation."
+			"content": "The board of directors of a clearinghouse shall meet at least once every three months, and minutes of each meeting shall be reported to the Bank for recordwithin one month after the conclusion of the meeting."
 		},
 		{
 			"number": 600,
-			"content": "(Registration)\r\nAfter approval has been granted for incorporation of a foundation registration papers shall be filed with the court of jurisdiction within 30 days of receipt of the approval document, and a photocopy of the registration certificate shall be reported to the Bank for record within 30 days of receipt of notice that registration has been completed.  \r\nWhen any item subject to the incorporation approval process is amended, application for approval of amendment shall be submitted, together with related documents, to the Bank within 30 days of occurrence of the amendment. The provisions of the preceding paragraph shall apply mutandis to procedures for recording the registration amendment with the court of jurisdiction and with the Bank."
+			"content": "The chairman of the board, president, vice president or persons holding comparable positions of a clearinghouse shall in principle be fulltime positions. Notwithstanding the foregoing, such principle may be waived under special circumstances subject to the approval of the Bank."
 		},
 		{
 			"number": 700,
-			"content": "(Operation of Board of Directors)\r\nThe board of directors of a clearinghouse shall meet at least once every three months, and minutes of each meeting shall be reported to the Bank for recordation within one month after the conclusion of the meeting Resolutions adopted by the board of directors must be approved by a majority vote at a meeting attended by more than one-half of the directors. Where the articles of incorporation have more stringent provisions, said provisions shall apply."
+			"content": "A clearinghouse may establish an advisory committee. The committee shall be composed of representatives appointed or recommended by the financial institutions participating in the clearing operations, and shall be responsible for studying and giving advice on matters related to clearing operations, business development, regulatory affairs or other important matters."
 		},
 		{
 			"number": 800,
-			"content": "(Full-time Responsible Persons)\r\nThe chairman of the board, president, vice president or persons holding comparable positions of a clearinghouse shall in principle be fulltime positions. Notwithstanding the foregoing, such principle may be waived under special circumstances subject to the approval of the Bank."
+			"content": "All financial institutions that have been approved to conduct checking deposit business may apply to a clearinghouse to participate in the clearing of negotiable instruments as a clearing entity. Branches of clearing entities shall without exception participate in their localclearinghouse [operations], provided that negotiable instruments received by credit cooperatives, farmers' associations or fishermen's associations shall, as instructed by the Bank, be cleared through the Taiwan Cooperative Bank, Ltd. or other clearing entities.\r\nAny financial institution that has not applied to participate in the clearing of negotiable instruments in accordance with the preceding paragraph may engage a clearing entity as its agent for the clearing of negotiable instruments. The engaged financial institution is required to apply to the clearinghouse for its consent before providing the aforementioned service."
 		},
 		{
 			"number": 900,
-			"content": "(Advisory Committee)\r\nA clearinghouse may establish an advisory committee. The committee shall be composed of representatives appointed or recommended by the financial institutions participating in the clearing operations, and shall be responsible for studying and giving advice on matters related to clearing operations, business development, regulatory affairs or other important matters."
+			"content": "A clearing entity engaged as an agent for the clearing of negotiable instruments shall assume on behalf of the representedentity all liability with respect to clearing."
 		},
 		{
 			"number": 1000,
-			"content": "(Remuneration of Directors, Supervisors and Employees)\r\nThe remuneration or pay of directors, supervisors, and employees at each level of a clearinghouse may be set with reference to standards for government-run financial institutions; the remuneration or pay shall be reported to the Bank for recordation"
+			"content": "Types of negotiable instruments covered under these Regulations are as follows:\r\n1.Bank drafts (including bankers’ acceptances);\r\n2.Promissory notes (including cashier's checks);\r\n3.Checks (including treasury (public) checks); and\r\n4.Other payment certificatesapproved by the Bank for exchange.\r\nNegotiable instruments mentioned in the preceding paragraph can be in written or electronic form."
 		},
 		{
 			"number": 1100,
-			"content": "(Compliance Obligation)\r\nIn managing the foundation's properties and operations, a clearinghouse and its directors and supervisors shall rigorously abide by the intent of, and management procedures set forth in applicable laws and regulations and in the articles of incorporation."
+			"content": "A clearing entity shall open a deposit account with the Bank or a correspondent bank of the Bank. Payable or receivable clearing balances of the clearing entity shall be paid or collected through the aforementioned account.\r\nWhere there is a necessity fora clearing entity that has not opened a deposit account with the Bank to pay or collect payable or receivable clearing balances through the Bank, the clearing entity shall first apply to the clearinghouse for permission to transact the payments or collections through another clearing entity's deposit account with the Bank. The clearinghouse shall report the same to the Bank for record."
 		},
 		{
 			"number": 1200,
-			"content": "(Rectification and Void of Approval)\r\nWhere a clearinghouse is under any of the following circumstances below, the Bank may serve notice and demand remedial action within a given time period; in the event remediation is not made within the specified time period, the Bank may void its approval and notify the court where the foundation filed its registration papers:  \r\n1. The board of directors adopts an illegal or improper resolution;\r\n2. The clearinghouse fails to carry out operations in accordance with its operations plan, or engages in operations outside the permitted scope;\r\n3. The clearinghouse fails to obtain legal documentation to substantiate its income and/or expenditures, or fails to maintain complete accounting records;\r\n4. The clearinghouse makes misrepresentations in reports related to its business, finance, or other important matters; or\r\n5. Other violations of the provisions of laws or regulations."
+			"content": "Where the balances in a clearing entity's deposit account mentioned in the foregoing article are insufficient to pay a given day’s clearing balances, the clearing entity shall make up the shortfall within the time period prescribed by the Bank or a correspondent bank of the Bank.\r\nA clearinghouse shall prescribea response mechanism on how to complete the clearingoperation on the same day when a clearing entity violates the provisions of the preceding paragraph and becomes unable to pay its clearing balance for the day, and report the same to the Bank for record.\r\nWhere a clearing entity is unable to pay a given day’s clearing balance that might seriously undermine the clearing operation, the clearinghouse may, with approval of its board of directors, temporarily suspend such entity’s clearing operation and report the same to the Bank for record. The Bank in turn will forward the information to the Financial Supervisory Commission."
 		},
 		{
 			"number": 1300,
-			"content": "(Accounting System)\r\nThe fiscal year for a clearinghouse shall begin on January 1 and end on December 31 of the same year.  \r\nA clearinghouse shall prepare its budget for the     following fiscal year and report the same to the Bank for recordation two months prior to the beginning of a fiscal year, and prepare its year-end business report and final accounting statements and report the same to the Bank for recordation within two months after the end of a fiscal year."
+			"content": "A clearinghouse shall prescribea “Participation Agreement for Clearing Negotiable Instruments”which shall clearly state the following particulars:\r\n1.The qualifications required for application to be a clearing entity;\r\n2.Criteria for determining the amount of clearing margin a clearing entity must post, depositrestrictions and conditions for its return;\r\n3.Aclearing entity mayact as a clearing agent for other financial   institutions that are non-clearing participants;\r\n4.Negotiable instruments collected by a clearing entity from another clearing entity shall be presented to the local clearinghouse to carry  out clearing; if a negotiable instrument presented for payment is dishonored, the payer clearing entity shall return the dishonored negotiable instrument to the local clearinghouse for exchange;\r\n5.Branches of clearing entities shall, without exception, participate in local clearing of negotiable instruments and the [parent] clearing entity shall submit for clearing all negotiable instruments from other clearing entities accepted by its branches and assume full liability associated with their clearing;\r\n6.A clearing entity shall open a deposit account with the Bank or a correspondent bank of the Bank; settlement of all payable and receivable clearing balances and dishonored negotiable instrument clearing balances shall be conducted in accordance with the Directions for the Central Bank of the Republic of     China (Taiwan) to Govern Electronic Interbank Funds Transfer and Settlement    and other relevant regulations; and\r\n7.Other protocols to be observed by clearing entities."
 		},
 		{
 			"number": 1400,
-			"content": "(Application for Participation in exchange of Negotiable Instruments)\r\nAll financial institutions that have been approved to conduct checking deposit business may apply to a clearinghouse to participate in the clearing of negotiable instruments as a clearing entity. Branches of clearing entities shall without exception participate in their local clearinghouse [operations], provided that negotiable instruments received by credit cooperatives, farmers' associations or fishermen's associations shall, as instructed by the Bank, be cleared through the Taiwan Cooperative Bank, Ltd. or other clearing entities.  \r\nAny financial institution that has not applied to participate in the clearing of negotiable instruments in accordance with the preceding paragraph may engage a clearing entity as its agent for the clearing of negotiable instruments. The engaged financial institution is required to apply to the clearinghouse for its consent before providing the aforementioned service."
+			"content": "A clearinghouseshall prescribecriteria for all processing fees collected for the provision of services."
 		},
 		{
 			"number": 1500,
-			"content": "(Responsibility of a Clearing Agent)\r\nA clearing entity engaged as an agent for the clearing of negotiable instruments shall assume on behalf of the represented entity all liability with respect to clearing."
+			"content": "A clearinghouseshall prescribeprocedures for handling negotiable instruments clearing, and other necessary operation protocols."
 		},
 		{
 			"number": 1600,
-			"content": "(Types of Negotiable Instruments)\r\nTypes of negotiable instruments covered under these Regulations are as follows:  \r\n1. Bank drafts (including bank acceptance);\r\n2. Cashier's checks (including cashier's checks with a bank as paying agent);\r\n3. Checks (including treasury (public) checks); and\r\n4. Other payment vouchers approved by the Bank for exchange.\r\nNegotiable instruments mentioned in the preceding paragraph can be in written or electronic form."
+			"content": "A clearinghouseshall adopt protocols with financial enterprises that conduct checking account operations to govern the handling of dishonored checks and other related matters."
 		},
 		{
 			"number": 1700,
-			"content": "(Settlement of Receivable and Payable Balances)\r\nA clearing entity shall open a deposit account with the Bank or a correspondent bank of the Bank. Payable or receivable clearing balances of the clearing entity shall be paid or collected through the aforementioned account.  \r\nWhere there is a necessity for a clearing entity that has not opened a deposit account with the Bank to pay or collect payable or receivable clearing balances through the Bank, the clearing entity shall first apply to the clearinghouse for permission to transact the payments or collections through another clearing entity's deposit account with the Bank. The clearinghouse shall report the same to the Bank for recordation."
+			"content": "For the purpose of conducting negotiable instruments exchange, clearinghouses and financialinstitutions that conduct checking account operations shall collect the credit information of checking account holders, and the financial institutions shall provide clearinghouses with credit information in theirpossession.\r\nClearinghouses shall duly note changes to credit information mentioned in the preceding paragraph, and periodically provide financial institutions that conduct checking account operations with the following information of account holders with significantlyimpaired credit records:\r\n1.In case of a personal account, the name and identification card number of holder.\r\n2.In case of an account held by a business or group that is a non-juristic-person, the account name and the name and identification card number of its responsible person; and\r\n3.In case of an account held by a juristic person, the account name and the uniform business number of the company or business or the withholding uniform invoice number.\r\nCredit information referred to in Paragraph 1 hereof includes basic account opening information, information on loss reporting and stop payment, cancellation of pay order,dishonored check record (including alert accounts and frozen accounts), rejected accounts,investigation results and court decisionson committed crime associated with use of negotiable instruments, presenters, negotiable instruments exchanged, and other relevant credit information.Notwithstanding the foregoing, credit information that shall be collected by financial institutions that conduct checking account operations exclude investigation results or court decisions on committed crime associated with use of negotiable instruments.\r\nA clearinghouseshall, to the extent necessary for matching the accuracy of basic data files of nationwide checking account holders, collect household registration data pertaining to changes to the name or identification card number of personal account holders and the responsible person registration data of juristic person accounts.\r\nA clearinghouseshall make available for public inquiry dishonored check recordsand rejected transaction information of checking account holders and otherrelevantcredit information.\r\nFor the collection of personal information referred to in Paragraph 1 and Paragraph 4 hereof and related information security matters, a clearinghouseshall develop a security maintenance plan to prevent the theft, alteration, destruction, loss or leakage of personal information."
 		},
 		{
 			"number": 1800,
-			"content": "(Operation in the Circumstances of Insufficient Deposit Balance for Settlement)\r\nWhere the balances in a clearing entity's deposit account mentioned in the foregoing article are insufficient to pay a given day's clearing balances, the clearing entity shall make up the shortfall within the time period prescribed by the Bank or a correspondent bank of the Bank.  \r\nA clearinghouse shall draft a response mechanism on how to complete the clearing operation on the same day when a clearing entity violates the provisions of the preceding paragraph and becomes unable to pay its clearing balance for the day, and report the same to the Bank for recordation.  \r\nWhere a clearing entity is unable to pay a given day’s clearing balance that might seriously undermine the clearing operation, the clearinghouse may, with approval of its board of directors, temporarily suspend such entity’s clearing operation and report the same to the Bank for recordation. The Bank in turn will forward the information to the Financial Supervisory Commission."
+			"content": "The business rules prescribedby a clearinghouse in accordance with the provisions of the preceding five articles shall be submitted to the Bank for record; the same shall apply to all amendments thereto."
 		},
 		{
 			"number": 1900,
-			"content": "(Participation Agreement for Clearing Negotiable Instruments)\r\nA clearinghouse shall draft a \" Participation Agreement for Clearing Negotiable Instruments\" which shall clearly state the following particulars:  \r\n1. The qualifications required for application to be a clearing entity;\r\n2. Criteria for determining the amount of clearing margin a clearing entity must post, deposit restrictions and conditions for its return;  \r\n3 [Provisions permitting] a clearing entity to act as a clearing agent for other financial institutions that are non-clearing participants;  \r\n4. Negotiable instruments collected by a clearing entity from another clearing entity shall be presented to the local clearinghouse to carry  out clearing; if a negotiable instrument presented for payment is dishonored, the payer clearing entity shall return the dishonored negotiable instrument to the local clearinghouse for exchange;  \r\n5. Branches of clearing entities shall, without exception, participate in local clearing of negotiable instruments and the [parent] clearing entity shall submit for clearing all negotiable instruments from other clearing entities accepted by its branches and assume full liability associated with their clearing;  \r\n6. A clearing entity shall open a deposit account with the Bank or a correspondent bank of the Bank; settlement of all payable and receivable clearing balances and dishonored negotiable instrument clearing balances shall be conducted in accordance with the Directions for the Central Bank of the Republic of China (Taiwan) to Govern Electronic Interbank Funds Transfer and Settlement    and other relevant regulations; and  \r\n7. Other protocols to be observed by clearing entities"
+			"content": "A clearinghouseshall strengthen internal constraints and closely supervise the conduct of personnel with respect to the handling of the record of dishonored checks due to insufficient funds and other credit history information."
 		},
 		{
 			"number": 2000,
-			"content": "(Service Fees)\r\nClearinghouses shall draft criteria for all processing fees collected for the provision of services."
+			"content": "Where a clearing entity’s violation of these Regulations or [other] negotiable instrument clearing rules and regulations is of serious nature and might seriously undermine the clearing operations, a clearinghouse may, with approval of its board of directors, temporarily suspend such entity’s clearing operations and report the same to the Bank for record. The Bank in turn will forward the information to the Financial Supervisory Commission."
 		},
 		{
 			"number": 2100,
-			"content": "(Operating Procedures for the Clearing of Negotiable Instruments)\r\nClearinghouses shall draft procedures for handing negotiable instruments clearing, systems for accounting and auditing, and other necessary operation protocols."
+			"content": "A clearinghouse shall submit scheduled or unscheduled business, financialor other relevant reports as prescribed or notified by the Bank; the Bank may assign an officer to examine the business, finance or other matters of a clearinghouse."
 		},
 		{
 			"number": 2200,
-			"content": "(Processing Rules for dishonored Negotiable Instruments)\r\nClearinghouses shall adopt protocols with financial enterprises that conduct checking account operations to govern the handling of dishonored checks and other related matters."
-		},
-		{
-			"number": 2300,
-			"content": "(Rules for Gathering and Reporting Credit Information related to Negotiable Instruments)  \r\nFor the purpose of conducting negotiable instruments exchange, clearinghouses and financial institutions that conduct checking account operations shall collect the credit information of checking account holders, and the financial institutions shall provide clearinghouses with credit information in their possession.  \r\nClearinghouses shall duly note changes to credit information mentioned in the preceding paragraph, and periodically provide financial institutions that conduct checking account operations with the following information of account holders with significantly impaired credit records:  \r\n1. In case of a personal account, the name and identification card number of holder.  \r\n2. In case of an account held by a business or group that is a non-juristic-person, the account name and the name and identification card number of its responsible person; and  \r\n3. In case of an account held by a juristic person, the account name and the uniform business number of the company or business or the withholding uniform invoice number.\r\nCredit information referred to in Paragraph 1 hereof includes basic account opening information, information on loss reporting and stop payment, cancellation of pay order, dishonored check record (including alert accounts and frozen accounts), rejected accounts, investigation results and court decisions on committed crime associated with use of negotiable instruments, presenters, negotiable instruments exchanged, and other relevant credit information. Notwithstanding the foregoing, credit information that shall be collected by financial institutions that conduct checking account operations exclude investigation results or court decisions on committed crime associated with use of negotiable instruments.   \r\nClearinghouses shall, to the extent necessary for matching the accuracy of basic data files of nationwide checking account holders, collect household registration data pertaining to changes to the name or identification card number of personal account holders and the responsible person registration data of juristic person accounts.   \r\nClearinghouses shall make available for public inquiry of dishonored check record and rejected transaction information of checking account holders and other revelent credit information.  \r\nFor the collection of personal information referred to in Paragraph 1 and Paragraph 4 hereof and related information security matters, clearinghouses shall develop a security maintenance plan to prevent the theft, alteration, destruction, loss or leakage of personal information."
-		},
-		{
-			"number": 2400,
-			"content": "(Reporting of Business Rules for Clearinghouse)\r\nThe business rules and accounting and auditing systems drafted by a clearinghouse in accordance with the provisions of the preceding five Articles shall be submitted to the Bank for recordation; the same shall apply to all amendments thereto."
-		},
-		{
-			"number": 2500,
-			"content": "(Internal Controls for the Processing of Credit  Information Related to Negotiable Instruments)\r\nClearinghouses shall strengthen internal constraints and closely supervise the conduct of personnel with respect to the handling of the record of dishonored checks due to insufficient funds and other credit history information."
-		},
-		{
-			"number": 2600,
-			"content": "(Handling of Violations)\r\nWhere a clearing entity‘s violation of these Regulations or [other] negotiable instrument clearing rules and regulations is of serious nature and might seriously undermine the clearing operations, a clearinghouse may, with approval of its board of directors, temporarily suspend such entity’s clearing operations and report the same to the Bank for recordation. The Bank in turn will forward the information to the Financial Supervisory Commission."
-		},
-		{
-			"number": 2700,
-			"content": "(Supervision of Clearinghouse)\r\nA clearinghouse shall submit scheduled or unscheduled business, financial or other relevant reports as prescribed or notified by the Bank; the Bank may assign an officer to examine the business, finance or other matters of a clearinghouse"
-		},
-		{
-			"number": 2800,
-			"content": "(Date of Promulgation)\r\nThese regulations shall become effective from the date of promulgation."
+			"content": "These Regulations shall take effectfromFebruary 1, 2019."
 		}
 	]
 }

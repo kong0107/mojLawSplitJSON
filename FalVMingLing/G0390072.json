@@ -12,7 +12,12 @@
 	"isTranslated": true,
 	"english": "Regulations Governing Investments in Insurance-related Enterprises by Insurance Companies",
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000236860"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表：保險業投資保險相關事業申請表.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國九十六年八月二十九日行政院金融監督管理委員會金管保一字第 09602503941 號令訂定發布全文 7 條；並自發布日施行",

@@ -11,12 +11,42 @@
 	"isDiscarded": true,
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000018503",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000018504",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000018505",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000018506",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000233310",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000233311"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附式一候選人競選辦事處銜牌圖式.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附式二公職人員選舉候選人設立競選辦事處登記書.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附式二公職人員選舉候選人設立競選辦事處登記書.DOC"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附式三公職人員選舉候選人置助選員名冊.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附式三公職人員選舉候選人置助選員名冊.DOC"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附式四助選員標誌式樣.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國六十九年九月十一日中央選舉委員會令訂定發布全文 15 條",

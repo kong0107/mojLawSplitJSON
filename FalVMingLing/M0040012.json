@@ -12,7 +12,12 @@
 	"isTranslated": true,
 	"english": "Regulations Governing Management, Operation And Coordination of Forests Located within National Parks Or Designated Scenic Areas",
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000102971"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國七十九年五月二十五日行政院（79）台農字第 12626 號令訂定發布全文 10 條"

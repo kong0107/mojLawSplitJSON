@@ -11,7 +11,12 @@
 	"isDiscarded": true,
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000126614"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"國立台南藝術學院籌備處編制表.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國八十二年五月十九日教育部（82）台參字第 027203 號令訂定發布全文 11 條",

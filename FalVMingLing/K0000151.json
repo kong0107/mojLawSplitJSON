@@ -11,7 +11,12 @@
 	"isDiscarded": true,
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000181174"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"交通部公路總局各區車輛行車事故鑑定會編制表.ODT"
+			]
+		}
 	],
 	"history": [
 		"中華民國一百零二年十二月三十日交通部交人字第 10250178481 號令訂定發布；並自一百零三年一月一日生效",

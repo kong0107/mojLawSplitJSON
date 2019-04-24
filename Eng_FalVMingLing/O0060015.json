@@ -6,12 +6,42 @@
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=O0060015",
 	"englishUpdate": "20181218",
 	"attachments": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000005153",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000005154",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000005155",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000005156",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000005157",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000005158"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Annex 1.pdf"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Annex 1.doc"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Annex 2.pdf"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Annex 2.doc"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Annex 3.pdf"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Annex 3.doc"
+			]
+		}
 	],
 	"history": [
 		"Promulgated on February 8, 1991",
@@ -21,7 +51,7 @@
 		"Amended on September 29, 1999",
 		"Amended on January 25, 2008",
 		"Amended on September 28, 2009",
-		"Amended on December 18, 2018"
+		"Latest Revision Effective on December 18, 2018"
 	],
 	"divisions": [],
 	"articles": [

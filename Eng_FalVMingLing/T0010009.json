@@ -6,8 +6,18 @@
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=T0010009",
 	"englishUpdate": "20060629",
 	"attachments": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000000224",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004382"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment：The Duplicating or Copying the Government Information Fee Standard Table.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment：The Duplicating or Copying the Government Information Fee Standard Table.DOC"
+			]
+		}
 	],
 	"history": [
 		"Full text promulgated on June 29,2006 by the DGBAS, Executive Yuan Order Chu Ping Tsu No.0950003947A."

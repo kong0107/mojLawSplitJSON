@@ -11,12 +11,42 @@
 	"lastUpdate": "20190201",
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000240863",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000240864",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000240865",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000240866",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000240867",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000240868"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一之一：財團法人○○○○○○○○年度工作計畫.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一之二：○○醫療財團法人○○年度工作計畫.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二：財團法人○○○○○○○○年度經費預算.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表三：○○醫療財團法人○○年度經費預算.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表四之一：財團法人○○○○○○○○年度工作報告.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表四之二：○○醫療財團法人○○年度工作報告.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國一百零八年二月一日衛生福利部衛部醫字第 1081660432 號令訂定發布全文 7 條；並自一百零八年二月一日施行"

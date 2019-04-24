@@ -6,10 +6,30 @@
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=O0090002",
 	"englishUpdate": "20180411",
 	"attachments": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000002782",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004160",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004161",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004739"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment Chart：The Flow Chart of Environmental Impact Assessment.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment Chart：The Flow Chart of Environmental Impact Assessment.doc"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment Chart 1 Environmental Impact Assessment Review and Division of Labor of the Competent Authority in Supervision.pdf"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment Chart 2 Development Activity Which Shall Conduct 2nd Phase Environmental Impact Assessment.pdf"
+			]
+		}
 	],
 	"history": [
 		"Original 53 articles promulgated by Environmental Protection Administration order on October 25, 1995",

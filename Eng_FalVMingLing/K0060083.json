@@ -6,12 +6,42 @@
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0060083",
 	"englishUpdate": "20130802",
 	"attachments": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000002038",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000002039",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000002040",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004596",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004597",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004598"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Annex 1：Telecommunication Engineering Enterprise Registration License.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Annex 1：Telecommunication Engineering Enterprise Registration License.doc"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Annex 2：Consent of Employment.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Annex 2：Consent of Employment.doc"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Annex 3：Application form for telecommunication engineering enterprise registration license.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Annex 3：Application form for telecommunication engineering enterprise registration license.doc"
+			]
+		}
 	],
 	"history": [
 		" The whole 18 articles promulgated by National Communications Commission on Dec. 31 2008. Ref: Tong Chuan Zi Ji No. 09743031140",

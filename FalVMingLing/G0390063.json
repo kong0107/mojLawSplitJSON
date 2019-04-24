@@ -12,7 +12,12 @@
 	"isTranslated": true,
 	"english": "Regulations for the Accounting Arrangement and Procedure of Submitting Business and Financial Reports of Compulsory Automobile Liability Insurance",
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000211736"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件：強制汽車責任保險會計分錄處理方式.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國九十四年十月七日行政院金融監督管理委員會金管保四字第 09402563331 號令訂定發布全文 10 條；並自發布日施行",

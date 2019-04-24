@@ -6,8 +6,18 @@
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=O0060037",
 	"englishUpdate": "20090907",
 	"attachments": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000001745",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000001746"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attached Table 1 Key Points Concerning the Classification and Labeling of Hazardous Substances.pdf"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attached Table 2 Labeling Format.pdf"
+			]
+		}
 	],
 	"history": [
 		"Original 18 articles determined and promulgated by Environmental Protection Administration Order Huan-Shu-Tu-Tzu No. 0960095329 on December 17, 2007.\r\n  Enforcement from December 31, 2008 promulgated by Environmental Protection Administration Order Huan-Shu-Tu-Tzu No. 0960101710 on December 31, 2007.",

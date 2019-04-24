@@ -11,7 +11,12 @@
 	"isDiscarded": true,
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000128485"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"人體重要關節運動範圍圖.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國七十四年三月十一日國防部（74）恕惻字第 0820 號令訂定發布",

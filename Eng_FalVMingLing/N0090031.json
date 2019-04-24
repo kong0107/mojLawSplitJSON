@@ -6,7 +6,12 @@
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=N0090031",
 	"englishUpdate": "20180509",
 	"attachments": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000002433"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Reference Table.pdf"
+			]
+		}
 	],
 	"history": [
 		"Promulgated on January 13,2004",

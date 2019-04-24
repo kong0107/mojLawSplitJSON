@@ -11,12 +11,42 @@
 	"lastUpdate": "20190328",
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000245036",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000245037",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000245038",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000245039",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000245040",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000245041"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一  管位坐標資料檔案格式.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二  管線屬性資料檔案格式.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二之一  用戶編號及管線識別碼資料檔案格式.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表三  開關閥資料檔案格式.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表四  場站資料檔案格式.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表五  人手孔資料檔案格式.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國一百年六月十六日經濟部經能字第 10004603320 號令訂定發布全文 8 條；並自發布日施行",

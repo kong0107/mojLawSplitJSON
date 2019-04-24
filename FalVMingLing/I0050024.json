@@ -11,8 +11,18 @@
 	"isDiscarded": true,
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000104054",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000235237"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表：私立學校及學術研究機構製給個人資料複製本收費基準表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表：私立學校及學術研究機構製給個人資料複製本收費基準表.DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國八十六年二月十二日教育部（86）台參字第 86013398 號令訂定發布全文 21 條",

@@ -12,7 +12,12 @@
 	"isTranslated": true,
 	"english": "Regulations for Administration on Funeral Director",
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000197788"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表：殯葬相關專業課程列表.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國一百零一年六月二十八日內政部台內民字第 1010233992 號令訂定發布全文 12 條；並自一百零一年七月一日施行",

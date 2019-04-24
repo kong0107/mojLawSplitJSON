@@ -11,12 +11,42 @@
 	"isDiscarded": true,
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000032055",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000032056",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000032057",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000233892",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000233893",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000233894"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一專門職業及技術人員特種考試漁船船員考試應考資格表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一專門職業及技術人員特種考試漁船船員考試應考資格表.DOC"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二專門職業及技術人員特種考試漁船船員考試全部科目免試資格表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二專門職業及技術人員特種考試漁船船員考試全部科目免試資格表.DOC"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表三專門職業及技術人員特種考試漁船船員考試應試科目表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表三專門職業及技術人員特種考試漁船船員考試應試科目表.DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國九十年二月十六日考試院（90）考台組壹一字第 11663 號令訂定發布全文 20 條；並自發布日起實施",

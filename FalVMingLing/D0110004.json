@@ -11,8 +11,18 @@
 	"lastUpdate": "20170630",
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000200078",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000200079"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附式一：○○罷免辦事處登記書.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附式二：○○罷免辦事人員名冊.PDF"
+			]
+		}
 	],
 	"history": [
 		"民國七十二年七月十九日發布施行全文十三條",

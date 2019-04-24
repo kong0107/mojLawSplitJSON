@@ -11,12 +11,42 @@
 	"lastUpdate": "20161123",
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000110067",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000110068",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000110069",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000235319",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000235320",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000235321"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"格式一.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"格式一.DOC"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"格式二.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"格式二.DOC"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"範例.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"範例.DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國一百零一年四月十七日司法院院台廳少家二字第 1010010803 號令訂定發布全文 6 條；並自一百零一年六月一日施行",

@@ -11,7 +11,12 @@
 	"isDiscarded": true,
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000128429"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件 分類重要名詞釋義.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國四十六年十一月三十日國防部（46）循術字第 372 號令訂定發布",

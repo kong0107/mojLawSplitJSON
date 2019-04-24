@@ -11,7 +11,12 @@
 	"lastUpdate": "20170929",
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000205362"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"中央選舉委員會編制表.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國九十八年十二月二十二日中央選舉委員會中選人字第 0983700448 號令訂定發布；並自九十八年七月一日生效",

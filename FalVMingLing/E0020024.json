@@ -11,10 +11,30 @@
 	"lastUpdate": "20190201",
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000240923",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000240924",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000240925",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000240926"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"格式一 （財團法人名稱）資產負債表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"格式二 （財團法人名稱）收支餘絀表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"格式三 （財團法人名稱）淨值變動表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"格式四 （財團法人名稱）現金流量表.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國一百零八年二月一日外交部外條法字第 10825502950 號令訂定發布全文 11 條；並自一百零八年二月一日施行"

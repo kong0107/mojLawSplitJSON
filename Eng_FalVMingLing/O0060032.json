@@ -6,7 +6,12 @@
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=O0060032",
 	"englishUpdate": "20060726",
 	"attachments": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000000819"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attached Table.PDF"
+			]
+		}
 	],
 	"history": [
 		"July 26, 2006 EPA Tu-Tzu No. 0950058408"

@@ -12,9 +12,24 @@
 	"isTranslated": true,
 	"english": "Armed Forces Uniforms Act",
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000140594",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000140595",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000140596"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附圖一：軍常服制式圖.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附圖二：軍便服制式圖.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附圖三：帽徽、帽飾及階級標識制式圖.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國九十六年十一月七日總統華總一義字第 09600147261 號令制定公布全文 11 條；並自公布日施行",

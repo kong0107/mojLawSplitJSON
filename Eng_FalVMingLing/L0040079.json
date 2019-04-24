@@ -6,8 +6,18 @@
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=L0040079",
 	"englishUpdate": "20160118",
 	"attachments": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003154",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004836"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Article 2.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Article 2.doc"
+			]
+		}
 	],
 	"history": [
 		"DOH Food No0970404024Announced, 2008.07.01",

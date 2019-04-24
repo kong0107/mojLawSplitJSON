@@ -6,12 +6,42 @@
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=O0090012",
 	"englishUpdate": "20180411",
 	"attachments": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004236",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004237",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004238",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004239",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004240",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004241"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attached Table 1.pdf"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attached Table 2.pdf"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attached Table 3.pdf"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attached Table 4.pdf"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attached Table 5.pdf"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attached Table 6.pdf"
+			]
+		}
 	],
 	"history": [
 		" Promulgated by Environmental Protection Administration order (84) Huan-Shu-Tsung- Tzu No. 5406 on October 18, 1995.",

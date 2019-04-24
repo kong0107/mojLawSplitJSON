@@ -11,10 +11,30 @@
 	"isDiscarded": true,
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000014991",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000014992",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000233233",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000233234"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件一警察人員執行勤務死亡殘廢特別給付金申請表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件一警察人員執行勤務死亡殘廢特別給付金申請表.DOC"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件二請領警察人員執行勤務死亡殘疾特別給付金同一順序遺族登記委託書.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件二請領警察人員執行勤務死亡殘疾特別給付金同一順序遺族登記委託書.DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國七十九年九月七日內政部（79）台內警字第 811874 號令訂定發布全文 7 條",

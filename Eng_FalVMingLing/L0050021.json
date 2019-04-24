@@ -6,7 +6,12 @@
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=L0050021",
 	"englishUpdate": "20181116",
 	"attachments": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000005004"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment Criteria of Compensation for Vaccine Injury.odt"
+			]
+		}
 	],
 	"history": [
 		" Formulated and announced in 14 articles by the Department of Health, the Executive Yuan, on 13 July 2004, under Shu-Shou-Chi Order No. 0930000662",

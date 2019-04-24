@@ -11,8 +11,18 @@
 	"lastUpdate": "20131126",
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000137366",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000235634"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表.DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國五十四年二月二十七日交通部（54）交參字第 01728 號令訂定發布",

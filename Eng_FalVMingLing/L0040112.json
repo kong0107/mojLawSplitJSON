@@ -6,12 +6,42 @@
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=L0040112",
 	"englishUpdate": "20180718",
 	"attachments": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000002834",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000002835",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000002836",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004741",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004742",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004743"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Appendix 1.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Appendix 1.doc"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Appendix 2.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Appendix 2.doc"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Appendix 3.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Appendix 3.doc"
+			]
+		}
 	],
 	"history": [
 		"Promulgated on December 03, 2013",

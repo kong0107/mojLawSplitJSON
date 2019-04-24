@@ -11,7 +11,12 @@
 	"lastUpdate": "20190307",
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000243360"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國七十二年十一月二十九日內政部（72）台內警字第 192666 號令訂定發布全文 10 條",

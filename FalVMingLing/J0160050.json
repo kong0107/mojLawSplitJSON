@@ -11,7 +11,12 @@
 	"lastUpdate": "20160128",
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000173437"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件核子事故分類基準.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國九十四年六月二十九日行政院原子能委員會會技字第 0940022106 號令訂定發布全文 14 條；並自核子事故緊急應變法施行之日施行",

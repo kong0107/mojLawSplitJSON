@@ -6,8 +6,18 @@
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0060079",
 	"englishUpdate": "20070723",
 	"attachments": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000000995",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004460"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment  CTRFD Operation and Import Permit Statutory Fee Table.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment  CTRFD Operation and Import Permit Statutory Fee Table.doc"
+			]
+		}
 	],
 	"history": [
 		" 5 Articles promulgated in full by the Ministry of Transportation and Communications（MOTC） on Jan. 11, 2006. Ref：Jiao-Yu- Fa Tze No. 09500850061",

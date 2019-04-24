@@ -12,7 +12,12 @@
 	"isTranslated": true,
 	"english": "Regulations Governing The Recognition Of An Impartial Third Party And Its Public Auction Procedure",
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000031726"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"公正第三人認可申請書.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國九十年六月十四日財政部（90）台財融（三）字第 90207744 號令訂定發布全文 30 條；並自發布日施行",

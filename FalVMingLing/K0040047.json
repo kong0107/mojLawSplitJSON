@@ -11,8 +11,18 @@
 	"lastUpdate": "20180614",
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000137839",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000235635"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件.DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國九十三年七月二十一日交通部交路發字第 093B000059 號令訂定發布全文 18 條；並自發布日施行",

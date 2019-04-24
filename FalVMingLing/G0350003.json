@@ -12,7 +12,12 @@
 	"isTranslated": true,
 	"english": "Regulations Governing the Declaration, Inspection, Duty and Release of Personal Luggage or Goods of Inward passengers",
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000211950"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表：入境旅客攜帶自用農畜水產品、菸酒、大陸地區物品、自用藥物、環境及動物用藥限量表.ODT"
+			]
+		}
 	],
 	"history": [
 		"中華民國五十八年二月十一日財政部（58）台財關發字第 01674 號令訂定發布全文 16 條",

@@ -11,8 +11,18 @@
 	"isDiscarded": true,
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000141576",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000141577"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"行政院勞工委員會職業訓練局桃園職業訓練中心暫行編制表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"行政院勞工委員會職業訓練局臺南職業訓練中心暫行編制表.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國八十八年六月二十九日行政院勞工委員會（88）台勞人一字第 0029311 號令訂定發布全文 11 條；並自八十八年七月一日起施行",

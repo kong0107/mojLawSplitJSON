@@ -11,9 +11,24 @@
 	"lastUpdate": "20190218",
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000242042",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000242043",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000242044"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一  公務人員特種考試司法人員考試應考資格表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二  公務人員特種考試司法人員考試應試科目表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表三  公務人員特種考試司法人員考試體格檢查標準表.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國四十三年六月十二日考試院訂定發布",

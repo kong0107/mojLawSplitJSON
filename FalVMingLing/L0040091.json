@@ -11,7 +11,12 @@
 	"lastUpdate": "20150611",
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000162899"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國九十九年十二月三十日行政院衛生署署授食字第 0991303894 號令訂定發布全文 5 條；並自一百年一月一日施行",

@@ -12,7 +12,12 @@
 	"isTranslated": true,
 	"english": "Regulations for National Health Insurance Reimbursement of the Self-advanced Medical Expenses",
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000208090"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表：申請核退醫療費用時應檢具之書據.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國八十四年一月二十三日行政院衛生署（84）衛署健保字第 84005437 號令訂定發布全文 11 條",

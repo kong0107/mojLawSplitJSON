@@ -11,8 +11,18 @@
 	"isDiscarded": true,
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000018697",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000232647"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"行政院農業委員會水土保持局暫行編制表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"行政院農業委員會水土保持局暫行編制表.DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國八十八年六月二十九日行政院農業委員會（88）農人字第 88080326 號令訂定發布全文 13 條；並自八十八年七月一日起施行",

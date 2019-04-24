@@ -6,8 +6,18 @@
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=L0050018",
 	"englishUpdate": "20181224",
 	"attachments": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003636",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004942"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment：Principles concerning the determination and management of items failed in the health examination at designated hospitals.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment：Principles concerning the determination and management of items failed in the health examination at designated hospitals.doc"
+			]
+		}
 	],
 	"history": [
 		"Formulated and announced in 13 articles by the Department of Health, the Executive Yuan, on 13 January 2004, under Shu-Shou-Chi Order No. 0930000043",

@@ -11,7 +11,12 @@
 	"lastUpdate": "20181114",
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000233372"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"法務部法醫研究所編制表.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國一百年十月五日法務部法令字第 1001303878 號令訂定發布；並自一百零一年一月一日生效",

@@ -11,10 +11,30 @@
 	"lastUpdate": "20120425",
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000110609",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000110610",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000235322",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000235323"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件一：文書傳送之首頁格式.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件一：文書傳送之首頁格式.DOC"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件二：回傳格式.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件二：回傳格式.DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國一百零一年四月二十五日司法院院台廳少家二字第 1010011703 號令訂定發布全文 12 條；並自一百零一年六月一日施行"

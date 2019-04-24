@@ -6,8 +6,18 @@
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=M0050009",
 	"englishUpdate": "20181211",
 	"attachments": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003091",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004829"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attached Table：Attached Table standards for the license fee.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attached Table：Attached Table standards for the license fee.DOC"
+			]
+		}
 	],
 	"history": [
 		"The full text of 15 articles promulgated by the Council of Agriculture, Executive Yuan on November 17, 1989 under Order No. 78 Nong-Yu-Tsu 8040367A.",

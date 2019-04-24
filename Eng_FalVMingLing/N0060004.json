@@ -6,10 +6,30 @@
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=N0060004",
 	"englishUpdate": "20180314",
 	"attachments": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004117",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004118",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004119",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004120"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment 1 Permissible Exposure Limitsof Hazardous Substances in Air.pdf"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment 1 Permissible Exposure Limitsof Hazardous Substances in Air.doc"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment 2 Permissible Exposure Limits of Dusts in Air.pdf"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment 2 Permissible Exposure Limits of Dusts in Air.doc"
+			]
+		}
 	],
 	"history": [
 		"Enacted and promulgated of total eleven articles of the Standards by the Ministry of the Interior Order of the Tai-Nei-Lao-Tzu No. 58463 on Aug 7, 1974.",

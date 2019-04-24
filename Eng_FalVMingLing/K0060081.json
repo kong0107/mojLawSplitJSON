@@ -6,14 +6,54 @@
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0060081",
 	"englishUpdate": "20170912",
 	"attachments": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003821",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003822",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003823",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003824",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003825",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003826",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003827",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003828"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Appendix 1  CALCULATION STANDARDS TABLE OF MOBILE TELECOMMUNICATIONS FREQUENCY.pdf"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Appendix 2  CALCULATION STANDARDS TABLE OF DEDICATED MOBILE TELECOMMUNICATIONS FREQUENCY.pdf"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Appendix 3  CALCULATION STANDARDS TABLE OF FIXED TELECOMMUNICATIONS FREQUENCY.pdf"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Appendix 4  CALCULATION STANDARDS TABLE OF SATELLITE COMMUNICATIONS FREQUENCY.pdf"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Appendix 5  CALCULATION STANDARDS TABLE OF RADIO AND TELEVISION FREQUENCY.pdf"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Annex 1  Territory factor table.pdf"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Annex 2  Adjustment factor d.pdf"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Annex 3  Frequency table of maritime and land distress communications.pdf"
+			]
+		}
 	],
 	"history": [
 		"6 Articles promulgated in full by National Communications Commission（NCC）on April 9, 2007. Ref：Tung-Chuan-Tz Tze No. 09605041570",

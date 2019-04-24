@@ -11,51 +11,276 @@
 	"lastUpdate": "20180706",
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000021843",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000021845",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000021847",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000021851",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000021852",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000021855",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000021857",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000031046",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000031047",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000031049",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000042806",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000042812",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000052544",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000063251",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000063253",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000078550",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000078551",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000124699",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000124700",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000124701",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000124702",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000124703",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000124704",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000124709",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000124710",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000124711",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000158791",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000158792",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000158793",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000158798",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000158799",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000174281",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000193099",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000193100",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000193101",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000193102",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000193103",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000193104",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000193105",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000193106",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000193107",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000193108",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000193109",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000193110",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000222269"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一  董事及監察人資料.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一之一  總經理、副總經理、協理、各部門及分支機構主管資料.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一之二  酬金揭露方式.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一之三  分派員工酬勞之經理人姓名及分派情形.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一之四  退休之董事長及總經理回任顧問資訊.ODT"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二  董事會運作情形資訊.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二之一  審計委員會運作情形資訊.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二之一之一監察人參與董事會運作情形.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二之二  本行公司治理運作情形及其與銀行業公司治理實務守則差異情形及原因.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二之二之一.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二之二之二：履行社會責任情形.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二之二之三：落實誠信經營情形.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二之三銀行有關人士辭職解任情形彙總表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表三、會計師公費資訊.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表三之一、會計師公費資訊.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表三之二  更換會計師資訊.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表四董事、監察人、經理人.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表四之一持股比例占前十名之股東，其相互間之關係資料.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表五.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表六股本來源.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表七.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表八：股權分散情形.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表九.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表十最近年度及截至年報刊印止子公司持有或處分本行股票情形.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表十一銀行買回本行股份情形.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表十二金融債券發行情形.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表十三.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表十四.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表十五員工認股權憑證辦理情形.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表十五之一限制員工權利新股辦理情形.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表十六  取得員工認股權憑證之經理人及取得認股權憑證可認股數前十大員工之姓名、取得及認購情形.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表十六之一  取得限制員工權利新股之經理人及取得前十大之員工姓名、取得情形.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表十七.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表十八最近二年度及截至年報刊印日止從業員工資料.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表十九.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二十.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二十一.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二十二.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二十三證券化風險管理制度.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二十三之一證券化商品資訊.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二十四.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二十五.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二十六.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二十七、私募有價證券資料.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二十八最近年度及截至年報刊印止子公司持有或處分本行股票情形.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國九十年六月二十六日財政部（90）台財融（六）字第 90746086 號令訂定發布全文 14 條；並自九十一年一月一日起施行",

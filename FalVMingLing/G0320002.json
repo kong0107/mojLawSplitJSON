@@ -11,10 +11,30 @@
 	"isDiscarded": true,
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000020535",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000020536",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000020537",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000020538"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件一請款書.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件二支付書.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件三撥款通知書.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件四公庫支票.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國二十八年六月二十七日行政院訂定發布",

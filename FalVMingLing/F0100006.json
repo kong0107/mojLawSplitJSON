@@ -11,8 +11,18 @@
 	"isDiscarded": true,
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000128535",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000128536"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件一 臺灣地區戰備各時期（經常警戒第一、二階段及戰鬥戰備時期）軍事長途講話傳遞優先順序表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件二 長途電話去話登記單.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國五十三年七月一日國防部（53）法丙字第 001 號令訂定發布（「台灣地區戰備各時期軍事長途電話使用限制辦法」同日廢止）",

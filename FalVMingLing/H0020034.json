@@ -11,12 +11,42 @@
 	"lastUpdate": "20110722",
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000099060",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000099061",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000099062",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000235173",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000235174",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000235175"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件一獎狀格式.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件一獎狀格式.DOC"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件二獎牌格式.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件二獎牌格式.DOC"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件三獎座格式.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件三獎座格式.DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國八十三年二月二十三日教育部（83）台參字第 009271 號令訂定發布全文 9 條",

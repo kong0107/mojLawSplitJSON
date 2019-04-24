@@ -6,7 +6,12 @@
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=L0050017",
 	"englishUpdate": "20170118",
 	"attachments": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003438"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Appendix：Immunization Items and Schedules for Children from Birth to prior to Elementary School Entry.odt"
+			]
+		}
 	],
 	"history": [
 		"Formulated in 9 articles and announced jointly on November 28, 2002, by the Department of Health, the Executive Yuan, under Shu-Chi-Guan No. 0910064458, Ministry of the Interior under Tai-Nei-Tung No. 0910002264, and Ministry of Education under Tai (91) Ti No. 91168668",

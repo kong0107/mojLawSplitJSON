@@ -12,7 +12,12 @@
 	"isTranslated": true,
 	"english": "Regulations for the Testing of Yields of Nicotine and Tar Contained in Tobacco Products and the Labeling of Cigarette Containers",
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000133313"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附圖.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國九十七年三月二十七日行政院衛生署署授國字第 0970700170 號令訂定發布全文 13 條；並自九十八年一月十一日施行",

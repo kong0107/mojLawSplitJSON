@@ -11,7 +11,12 @@
 	"lastUpdate": "20180123",
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000211280"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"交通部公路總局嘉義區監理所編制表.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國一百零七年一月二十三日交通部交人字第 1075000439 號令訂定發布；並自一百零七年一月十五日生效"

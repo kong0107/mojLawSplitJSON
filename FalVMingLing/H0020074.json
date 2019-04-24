@@ -11,8 +11,18 @@
 	"isDiscarded": true,
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000055872",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000234391"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表國立教育資料館南海書院場地使用規費收費基準表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表國立教育資料館南海書院場地使用規費收費基準表.DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國九十七年七月三日國立教育資料館 97 總字第 0970002242C 號令訂定發布全文 3 條；並自發布日施行",

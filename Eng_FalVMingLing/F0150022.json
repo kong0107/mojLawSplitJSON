@@ -6,8 +6,18 @@
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=F0150022",
 	"englishUpdate": "20140618",
 	"attachments": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000002370",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004639"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"The Fee-charging Standard Table for Duplicating or Copying Government.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"The Fee-charging Standard Table for Duplicating or Copying Government.doc"
+			]
+		}
 	],
 	"history": [
 		" Promulgated by VAC on August 1, 2006",

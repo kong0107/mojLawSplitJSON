@@ -6,8 +6,18 @@
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0060073",
 	"englishUpdate": "20131104",
 	"attachments": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000002069",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004605"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment.doc"
+			]
+		}
 	],
 	"history": [
 		" 6 Articles were promulgated in full by the Ministry of Transportation and Communications (MOTC) on September 13, 2004. Ref.: Jiao-Yu-Fa-Tze No. 093B000068",

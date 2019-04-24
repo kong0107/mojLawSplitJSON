@@ -11,8 +11,18 @@
 	"isDiscarded": true,
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000064697",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000234633"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件電動自行車新車抽驗規範.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件電動自行車新車抽驗規範.DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國九十八年五月五日行政院環境保護署環署空字第 0980037808 號令訂定發布全文 11 條；並自發布日施行",

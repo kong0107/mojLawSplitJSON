@@ -4,13 +4,38 @@
 	"english": "Standards for Pesticide Residue Limits in Foods",
 	"title": "農藥殘留容許量標準",
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=L0040083",
-	"englishUpdate": "20180912",
+	"englishUpdate": "20190128",
 	"attachments": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003620",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003621",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003622",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004004",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004242"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Appendix Table 1：Pesticide Residue Limits in Foods.pdf"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Appendix Table 2：Extraneous Residue Limits.pdf"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Appendix Table 3：List of Pesticide MRLs Omitted.pdf"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Appendix Table 4：Pesticides Prohibited for Use.pdf"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Appendix Table 5：Classification of Crops for the Pesticide Residue Limits in Foods.pdf"
+			]
+		}
 	],
 	"history": [
 		"Food No. 0970407974 Announced, October 21, 2008",
@@ -62,17 +87,18 @@
 		"Food No. 1061301760 Amended, June 29, 2017",
 		"Food No. 1061303851 Amended, January 16, 2018",
 		"Food No. 1071301017 Amended, June 27, 2018",
-		"Food No. 1071302309 Amended, September 12, 2018"
+		"Food No. 1071302309 Amended, September 12, 2018",
+		"Food No. 1071303640 Amended, January 28, 2019"
 	],
 	"divisions": [],
 	"articles": [
 		{
 			"number": 100,
-			"content": "The Standards are prescribed in accordance with the provisions of the\r\nsecond paragraph of Article 15 of the Act Governing Food Safety and\r\nSanitation."
+			"content": "The Standards are prescribed in accordance with the provisions of the second paragraph of Article 15 of the Act Governing Food Safety and Sanitation."
 		},
 		{
 			"number": 200,
-			"content": "Both the maximum residue limits referred in the Standards and the\r\nactually examined residues of pesticides are calculated on the basis of the\r\nweights of the produces in the forms on market.\r\nThe examination of pesticide residues shall include the pesticide itself\r\nand its metabolites."
+			"content": "Both the maximum residue limits referred in the Standards and the actually examined residues of pesticides are calculated on the basis of the weights of the produces in the forms on market.\r\nThe examination of pesticide residues shall include the pesticide itself and its metabolites."
 		},
 		{
 			"number": 300,
@@ -80,15 +106,15 @@
 		},
 		{
 			"number": 400,
-			"content": "Pesticides listed in the Appendix Table 3 are highly safe, it is not\r\nnecessary to set the maximum residue limits and examine their residues."
+			"content": "Pesticides listed in the Appendix Table 3 are highly safe, it is not necessary to set the maximum residue limits and examine their residues."
 		},
 		{
 			"number": 500,
-			"content": "No residue shall be detected for the pesticides prohibited for use by the\r\nagriculture authority, unless other regulations apply. The names of such\r\npesticides are listed in the Appendix Table 4."
+			"content": "No residue shall be detected for the pesticides prohibited for use by the agriculture authority, unless other regulations apply. The names of such pesticides are listed in the Appendix Table 4."
 		},
 		{
 			"number": 600,
-			"content": "The classification of crops referred in the Standards for pesticide residue\r\nlimits in foods Table are listed in the Appendix Table 5."
+			"content": "The classification of crops referred in the Standards for pesticide residue limits in foods Table are listed in the Appendix Table 5."
 		},
 		{
 			"number": 700,

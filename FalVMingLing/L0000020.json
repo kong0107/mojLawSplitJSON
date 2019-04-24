@@ -11,8 +11,18 @@
 	"isDiscarded": true,
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000018944",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000232650"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"全民健康保險醫療費用協定委員會編制表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"全民健康保險醫療費用協定委員會編制表.DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國八十五年十月九日行政院衛生署（85）衛署健保字第 85054917 號令訂定發布全文 17 條暨其編制表",

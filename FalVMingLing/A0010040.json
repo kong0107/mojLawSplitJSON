@@ -11,8 +11,18 @@
 	"isDiscarded": true,
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000025230",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000232696"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"行政院九二一震災災後重建推動委員會暫行組織規程編組表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"行政院九二一震災災後重建推動委員會暫行組織規程編組表.DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國八十九年五月三十日行政院（89）台研綜字第 03044 號令訂定發布全文 12 條；並自發布日起施行",

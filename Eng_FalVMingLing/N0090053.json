@@ -6,7 +6,12 @@
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=N0090053",
 	"englishUpdate": "20180206",
 	"attachments": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003941"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Addendum.pdf"
+			]
+		}
 	],
 	"history": [
 		"Order No. 10705016091 of the Ministry of Labor of the Republic of China on February 6th, 2018 16 articles have been issued; and implemented since February 8, 2018"

@@ -11,12 +11,42 @@
 	"lastUpdate": "20180823",
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000148528",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000226446",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000226447",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000226448",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000226449",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000235970"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一：民事事務部分.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一：民事事務部分.DOC"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二：刑事事務部分.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二：刑事事務部分.DOC"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表三.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表三.DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國九十年十月十一日司法院（90）院台廳司一字第 24237 號令訂正發布全文 21 條；並自九十一年一月一日起施行，但第三條第二項之規定自發布日施行",

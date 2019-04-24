@@ -6,8 +6,18 @@
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=M0050040",
 	"englishUpdate": "20181219",
 	"attachments": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004115",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004116"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Appendix 1 The Reporting Form of Fishing Operations for Foreign Fishing Vessels Invested in or Operated by Nationals of theRepublic of China (for Vessels that Catch Fishes).pdf"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Appendix 2 The Reporting Form of Fishing Operations for Foreign Fishing Vessels Invested in or Operated by Nationals of the Republic of China(for Carrier Vessels).pdf"
+			]
+		}
 	],
 	"history": [
 		"Promulgated by the Council of Agriculture, Executive Yuan on 16 October 2009 under Order No. Nung-Yu-Tzu 0981325550.",

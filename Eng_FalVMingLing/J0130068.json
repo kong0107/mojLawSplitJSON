@@ -6,10 +6,30 @@
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=J0130068",
 	"englishUpdate": "20151124",
 	"attachments": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003677",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003678",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003679",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003680"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Table 1 The Best Available Techniques Which Shall Be Applied in Utility Systems and Equipment.pdf"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Table 2 The Best Available Techniques Which Shall Be Applied in Processing Techniques for Electricity Generation or Cogeneration Systems.pdf"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Table 3 The Best Available Techniques Which Shall Be Applied in Processing Techniques for Petroleum Refineries and Massive Energy- Consumption Users.pdf"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Table 4 The Best Available Techniques Which Shall Be Applied in Processing Techniques for Semi-Conductor and Panel Industries.pdf"
+			]
+		}
 	],
 	"history": [
 		"Promulgated on November 24, 2015"

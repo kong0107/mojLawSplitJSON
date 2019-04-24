@@ -11,7 +11,12 @@
 	"lastUpdate": "20180824",
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000226227"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表.ODT"
+			]
+		}
 	],
 	"history": [
 		"中華民國八十七年十一月四日行政院（87）台法字第 53991 號令訂定發布全文 16 條；並自發布日施行",

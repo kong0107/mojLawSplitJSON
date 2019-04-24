@@ -11,10 +11,30 @@
 	"lastUpdate": "20190123",
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000240288",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000240289",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000240290",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000240291"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"格式一  財團法人XXX資產負債表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"格式二  財團法人XXX收支餘絀表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"格式三  財團法人XXX淨值變動表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"格式四  財團法人XXX現金流量表.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國一百零八年一月二十三日金融監督管理委員會金管法字第 10801005260 號令訂定發布全文 15 條；並自一百零八年二月一日施行"

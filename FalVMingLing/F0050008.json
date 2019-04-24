@@ -11,7 +11,12 @@
 	"isDiscarded": true,
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000128320"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表：軍人功績卹金給與金額表.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國六十五年一月六日國防部（65）金銓字第 408 號令發布施行",

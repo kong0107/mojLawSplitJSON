@@ -6,10 +6,30 @@
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=N0090023",
 	"englishUpdate": "20170706",
 	"attachments": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003439",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003440",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003441",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003442"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment 1.odt"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment 2.odt"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment 3.odt"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment 4.odt"
+			]
+		}
 	],
 	"history": [
 		"Promulgated by the Bureau of Employment and Vocational Training of the Council of Labor Affairs, the Executive Yuan, on September 25, 2003, by the Order of Lau Chih Wai Tze No.0920207723.",

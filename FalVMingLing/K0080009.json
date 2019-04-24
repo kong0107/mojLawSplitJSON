@@ -12,7 +12,12 @@
 	"isTranslated": true,
 	"english": "The Regulations on Port Services at Commercial Ports",
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000167563"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國七十年十一月五日交通部（70）交法字第 25300 號令訂定發布全文 76 條",

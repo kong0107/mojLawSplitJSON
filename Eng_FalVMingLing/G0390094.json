@@ -6,7 +6,12 @@
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0390094",
 	"englishUpdate": "20181109",
 	"attachments": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004990"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment：Statement on Internal AML／CFT Control.pdf"
+			]
+		}
 	],
 	"history": [
 		"Promulgated on November 9, 2018 per Order No. Jin-Guan-Bao-Zong-Zi-10704566961 of the Financial Supervisory Commission"

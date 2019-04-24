@@ -11,8 +11,18 @@
 	"lastUpdate": "20160607",
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000164477",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000180194"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國九十八年七月十三日內政部內授中社字第 0980700473 號令訂定發布全文 21 條；並自發布日施行",

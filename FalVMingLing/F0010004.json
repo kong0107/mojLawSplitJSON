@@ -11,10 +11,30 @@
 	"isDiscarded": true,
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000027517",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000027518",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000233724",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000233725"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附錄一行政院國軍退除役官兵輔導委員會部分業務劃分表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附錄一行政院國軍退除役官兵輔導委員會部分業務劃分表.DOC"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附錄二本會勞工行政業務劃分表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附錄二本會勞工行政業務劃分表.DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國四十五年三月二十三日行政院國軍退除役官兵輔導委員會（45）輔秘字第 35061 號令訂定發布",

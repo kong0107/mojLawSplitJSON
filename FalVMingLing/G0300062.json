@@ -11,7 +11,12 @@
 	"lastUpdate": "20140305",
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000142308"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"中央銀行編制表.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國一百年五月二十日中央銀行台央人一字第 1000003077 號令訂定發布；並自一百年四月二十九日生效",

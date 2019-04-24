@@ -7,8 +7,18 @@
 	"englishUpdate": "20160705",
 	"isDiscarded": true,
 	"attachments": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000001466",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004500"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"The Attached Table of Article 3.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"The Attached Table of Article 3.doc"
+			]
+		}
 	],
 	"history": [
 		" On July 30, 1999, the Order of Government Information Office (88) Jian Guang No. 12122 published the full text of seven articles. These standards shall come into effect as of the date of promulgation.",

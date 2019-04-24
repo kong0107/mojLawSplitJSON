@@ -6,8 +6,18 @@
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0060080",
 	"englishUpdate": "20150716",
 	"attachments": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000002797",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004740"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Appendix：The calculation reference table of charter fee for WBA service provider for charter renewal.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Appendix：The calculation reference table of charter fee for WBA service provider for charter renewal.doc"
+			]
+		}
 	],
 	"history": [
 		" 82 Articles promulgated in full by National Communications Commission（NCC） on March 30, 2007. Ref: Tung-Chuan-Chi Tze No. 09605038420",

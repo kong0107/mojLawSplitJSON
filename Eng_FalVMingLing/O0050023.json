@@ -6,10 +6,30 @@
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=O0050023",
 	"englishUpdate": "20170512",
 	"attachments": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000000950",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000000951",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004453",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004454"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Table 1 Manufactured Hazardous Industrial Waste.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Table 1 Manufactured Hazardous Industrial Waste.doc"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Table 2 Comparative Table of Mixed Hardware Waste Identification at Different Disposal Stages.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Table 2 Comparative Table of Mixed Hardware Waste Identification at Different Disposal Stages.doc"
+			]
+		}
 	],
 	"history": [
 		"Original 9 articles promulgated by Environmental Protection Administration order on March 7, 2001",

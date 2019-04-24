@@ -6,7 +6,12 @@
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=L0040026",
 	"englishUpdate": "20180731",
 	"attachments": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004169"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Article 3.pdf"
+			]
+		}
 	],
 	"history": [
 		"Food No.0940403032 Amended, 4/15/2005",

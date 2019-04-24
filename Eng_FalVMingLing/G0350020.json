@@ -6,11 +6,36 @@
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0350020",
 	"englishUpdate": "20170823",
 	"attachments": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003785",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003786",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003787",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003788",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003789"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Appendix 1  Application Form for Duty Exemption of Relief Article Importations.pdf"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Appendix 2  List of Imported Relief Articles.pdf"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Appendix 3  Relief Article Allocation Plan.pdf"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Appendix 4  Letter of Commitment.pdf"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Appendix 5  Transfer Notification of the Application for Duty Exemption of Relief Article Importations.pdf"
+			]
+		}
 	],
 	"history": [
 		" Promulgated on January 13, 1970",

@@ -11,8 +11,18 @@
 	"lastUpdate": "20190128",
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000240539",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000240540"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件一  （財團法人名稱）xxx年度工作計畫（格式範例）.ODT"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件二  （財團法人名稱）xxx年度工作報告（格式範例）.ODT"
+			]
+		}
 	],
 	"history": [
 		"中華民國一百零八年一月二十八日國防部國規委會字第 1080000033 號令訂定發布全文 8 條；並自一百零八年二月一日施行"

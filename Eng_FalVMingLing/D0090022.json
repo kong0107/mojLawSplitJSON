@@ -6,10 +6,30 @@
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0090022",
 	"englishUpdate": "20020724",
 	"attachments": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000000214",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000000215",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004380",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004381"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment 1：Types of Coast Guard Medal.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment 1：Types of Coast Guard Medal.doc"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment 2：Certificate of Coast Guard Medal.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment 2：Certificate of Coast Guard Medal.doc"
+			]
+		}
 	],
 	"history": [
 		"Promulgated on July 24, 2002 by Coast Guard Administration, Executive Yuan, Republic of China Ref. No.: Su/Jen/Kao/Tze No. 0910009233"

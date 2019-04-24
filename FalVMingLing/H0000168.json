@@ -11,7 +11,12 @@
 	"isDiscarded": true,
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000189904"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"國家人權博物館籌備處編制表.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國一百年十月十七日行政院文化建設委員會文人字第 10020263091 號令訂定發布；並自一百年十月十九日生效",

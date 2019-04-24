@@ -11,7 +11,12 @@
 	"isDiscarded": true,
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000022356"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"行政院衛生署南投醫院暫行編制表.JPG"
+			]
+		}
 	],
 	"history": [
 		"中華民國九十四年一月十九日行政院衛生署衛署人字第 0940044363 號令訂定發布全文 10 條；並自九十一年三月一日施行",

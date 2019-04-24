@@ -11,10 +11,30 @@
 	"lastUpdate": "20150130",
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000157010",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000157011",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000157012",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000157013"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件一：重要濕地復育時間換算基準.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件二：濕地影響費計算公式.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件三：重要濕地異地補償面積比率換算基準.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件四：重要濕地異地補償代金計算公式.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國一百零四年一月三十日內政部台內營字第 1040801099 號令訂定發布全文 21 條；並自濕地保育法施行之日施行"

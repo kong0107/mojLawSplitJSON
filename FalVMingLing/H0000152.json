@@ -11,7 +11,12 @@
 	"lastUpdate": "20150615",
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000162991"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"教育部編制表.PDF"
+			]
+		}
 	],
 	"history": [
 		"",

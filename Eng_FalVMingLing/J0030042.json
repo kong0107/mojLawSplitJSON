@@ -6,8 +6,18 @@
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=J0030042",
 	"englishUpdate": "20170605",
 	"attachments": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003735",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003736"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Table I – Category A.pdf"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Table II – Category B.pdf"
+			]
+		}
 	],
 	"history": [
 		" A total of nine articles were promulgated on December 23, 1998 by the MOEA per Decree No. 87-Ching-Gong-Tzi-87229531.",

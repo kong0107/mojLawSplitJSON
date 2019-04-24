@@ -6,7 +6,12 @@
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=O0020073",
 	"englishUpdate": "20060105",
 	"attachments": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000001686"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attached table：pollution control equipment operating record items.pdf"
+			]
+		}
 	],
 	"history": [
 		"Ten articles promulgated by Environmental Protection Administration Order Kong-Tzu No. 0950000717 on January 5, 2006."

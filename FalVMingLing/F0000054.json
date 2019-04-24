@@ -12,7 +12,12 @@
 	"isTranslated": true,
 	"english": "Organizational Regulations of the Chinese Naval Academy",
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000040333"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"海軍軍官學校編制表.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國九十年七月四日國防部（90）鐸錮字第 000675 號令訂定發布全文 15 條；並自發布日施行",

@@ -6,8 +6,18 @@
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=F0030038",
 	"englishUpdate": "20080116",
 	"attachments": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000000351",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004409"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment：The table of the pay of active military servicemen (stipulated from the paragraph 2 of Article 4 of this Act).PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment：The table of the pay of active military servicemen (stipulated from the paragraph 2 of Article 4 of this Act).doc"
+			]
+		}
 	],
 	"history": [
 		" Enacted and promulgated on January 16th, 2008."

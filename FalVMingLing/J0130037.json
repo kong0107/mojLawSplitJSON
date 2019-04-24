@@ -11,8 +11,18 @@
 	"lastUpdate": "20120110",
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000106292",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000235265"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件.DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國九十九年四月二十九日經濟部經能字第 09904602170 號令訂定發布全文 7 條；並自發布日施行",

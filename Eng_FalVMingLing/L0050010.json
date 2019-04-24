@@ -6,8 +6,18 @@
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=L0050010",
 	"englishUpdate": "20160401",
 	"attachments": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003128",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004833"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Appendix：Items of Safety Stockpile for Materials for Communicable Disease Control.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Appendix：Items of Safety Stockpile for Materials for Communicable Disease Control.doc"
+			]
+		}
 	],
 	"history": [
 		" Formulated and announced in 16 articles by the Department of Health, the Executive Yuan, on August 3, 2004, under Shu-Shou-Chi Order No. 0930000766",

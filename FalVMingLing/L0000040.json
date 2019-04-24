@@ -11,8 +11,18 @@
 	"isDiscarded": true,
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000008567",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000232588"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"行政院衛生署胸腔病院暫行編制表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"行政院衛生署胸腔病院暫行編制表.DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國九十一年一月三十日行政院衛生署（91）衛署中字第 0910000130 號令訂定發布全文 12 條；並自發布日施行",

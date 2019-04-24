@@ -7,8 +7,18 @@
 	"englishUpdate": "20130101",
 	"isDiscarded": true,
 	"attachments": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000001414",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004497"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Appendix：Charging Standards for Reproduction or Duplication of Government Information.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Appendix：Charging Standards for Reproduction or Duplication of Government Information.doc"
+			]
+		}
 	],
 	"history": [
 		"Qing-Bi-Zi No. 0950500080 on June 8, 2006 ",

@@ -11,9 +11,24 @@
 	"lastUpdate": "20190201",
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000240902",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000240903",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000240904"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一：工作計畫.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二：經費預算.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表三：工作報告.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國一百零八年二月一日衛生福利部衛授家字第 1080500839 號令訂定發布全文 8 條；並自一百零八年二月一日施行"

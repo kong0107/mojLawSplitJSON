@@ -6,7 +6,12 @@
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=J0050019",
 	"englishUpdate": "20180927",
 	"attachments": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004360"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Administration Fees and Charging Standards for Businesses Operating in the EPZ.pdf"
+			]
+		}
 	],
 	"history": [
 		"Promulgated on January 7, 1998",

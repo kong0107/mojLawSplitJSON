@@ -11,7 +11,12 @@
 	"isDiscarded": true,
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000126498"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"寄發國外書件地址清單.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國六十一年四月十二日教育部（61）台參字第 8046 號令訂定發布全文 11 條",

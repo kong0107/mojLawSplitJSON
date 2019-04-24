@@ -11,7 +11,12 @@
 	"lastUpdate": "20170623",
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000199700"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"法務部矯正署臺南第二監獄編制表.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國一百零四年七月十七日法務部法令字第 10408515700 號令訂定發布；並自一百零四年七月十六日生效",

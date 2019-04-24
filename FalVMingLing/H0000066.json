@@ -11,8 +11,18 @@
 	"isDiscarded": true,
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000046766",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000232743"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"國家教育研究院籌備處編制表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"國家教育研究院籌備處編制表.DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國八十九年一月二十一日教育部（89）台參字第 89008329 號令訂定發布全文 11 條；本規程自發布日施行",

@@ -12,7 +12,12 @@
 	"isTranslated": true,
 	"english": "Regulations for the Assessment and Approval Process of Hazardous Medical Device",
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000202808"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表.ODT"
+			]
+		}
 	],
 	"history": [
 		"中華民國七十二年七月七日行政院衛生署（72）衛署醫字第 429940 號令訂定發布",

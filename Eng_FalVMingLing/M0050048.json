@@ -6,7 +6,12 @@
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=M0050048",
 	"englishUpdate": "20180418",
 	"attachments": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004121"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment.pdf"
+			]
+		}
 	],
 	"history": [
 		"The full text established and promulgated on 5 March 2014 by the Council of Agriculture, Executive Yuan under Order No. Nung-yu-tzu 1031332616.",

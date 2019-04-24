@@ -11,8 +11,18 @@
 	"isDiscarded": true,
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000010819",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000228498"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"內政部消防署空中消防隊籌備處編制表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"內政部消防署空中消防隊籌備處編制表.DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國九十年十二月十七日內政部（90）台內消字第 9063402 號令訂定發布全文 11 條",

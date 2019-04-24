@@ -12,7 +12,12 @@
 	"isTranslated": true,
 	"english": "Regulations of Allowance and Approbated Grant for Workers with Occupational Accidents",
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000172850"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國九十一年四月十日行政院勞工委員會勞保三字第 0910017095 號令訂定發布全文 24 條；並自九十一年四月二十八日施行",

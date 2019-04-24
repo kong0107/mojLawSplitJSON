@@ -11,7 +11,12 @@
 	"lastUpdate": "20171110",
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000207207"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國一百零六年十一月十日司法院院台廳行一字第 1060029893 號令訂定發布全文 16 條；並自一百零六年十二月二十八日施行"

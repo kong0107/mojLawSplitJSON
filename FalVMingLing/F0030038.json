@@ -12,7 +12,12 @@
 	"isTranslated": true,
 	"english": "Pay Act of the Armed Forces",
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000052108"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表志願役現役軍人俸表.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國九十七年一月十六日總統華總一義字第 09700002541 號令制定公布全文 19 條；本條例施行日期，由行政院定之中華民國九十七年十二月十日行政院院授人給字第 09700650512 號令發布定自九十八年一月一日施行"

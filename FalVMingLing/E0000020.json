@@ -11,7 +11,12 @@
 	"lastUpdate": "20171205",
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000208177"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"外交部編制表.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國一百零一年八月二十三日外交部外研綜字第 10147505860 號令訂定發布；並自一百零一年九月一日生效",

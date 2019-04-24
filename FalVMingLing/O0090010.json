@@ -11,7 +11,12 @@
 	"lastUpdate": "20150921",
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000133282"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國八十四年九月二十日行政院環境保護署（84）環署綜字第 47272 號令訂定發布全文 7 條",

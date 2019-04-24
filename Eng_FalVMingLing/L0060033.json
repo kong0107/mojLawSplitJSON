@@ -6,10 +6,30 @@
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=L0060033",
 	"englishUpdate": "20180427",
 	"attachments": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004171",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004172",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004173",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004174"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Table 1.pdf"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Table 2.pdf"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Table 1.doc"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Table 2.doc"
+			]
+		}
 	],
 	"history": [
 		"A total of 15 articles of these Regulations promulgated on 23 November 2012 in accordance with the Department of Health, Executive Yuan Order Wei-Shu-Chien-Pao 1012660285.",

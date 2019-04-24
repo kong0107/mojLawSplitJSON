@@ -11,8 +11,18 @@
 	"isDiscarded": true,
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000129193",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000129194"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表（一）  漁船船員應檢覈資格表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表（二）  海軍退除役人員應漁船船員檢覈資格表.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國七十七年一月四日考試院（77）考台秘議字第 0001 號令 、 行政院（76）台經字第 30055 號令會同訂定發布全文 15 條",

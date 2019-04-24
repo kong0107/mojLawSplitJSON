@@ -12,10 +12,30 @@
 	"isTranslated": true,
 	"english": "Regulations governing Foreign Aircrafts Flying in ROC Territory",
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000116133",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000116134",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000235373",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000235374"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件一交通部民用航空局民用航空器飛航國境申請書.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件一交通部民用航空局民用航空器飛航國境申請書.DOC"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件二交通部民用航空局核准民用航空器飛航通知單.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件二交通部民用航空局核准民用航空器飛航通知單.DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國六十四年七月十六日交通部（64）交航字第 06294 號令訂定發布",

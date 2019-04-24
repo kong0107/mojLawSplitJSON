@@ -12,7 +12,12 @@
 	"isTranslated": true,
 	"english": "Organization Regulations of the Army Engineering School",
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000043980"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"陸軍工兵學校編制表.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國九十年十二月十二日國防部（90）鐸錮字第 001410 號令訂定發布全文 11 條；並自發布日起施行",

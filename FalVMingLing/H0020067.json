@@ -11,8 +11,18 @@
 	"isDiscarded": true,
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000042099",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000234056"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表國立編譯館場地設施使用規費收費基準表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表國立編譯館場地設施使用規費收費基準表.DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國九十六年三月二十二日國立編譯館國總字第 0960001364 號令訂定發布全文 3 條；並自發布日施行",

@@ -11,8 +11,18 @@
 	"isDiscarded": true,
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000018593",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000018594"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附式一收支帳簿格式.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附式二申報表格式.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國七十二年十一月十一日中央選舉委員會（72）中選法字第 8741 號令訂定發布全文 10 條",

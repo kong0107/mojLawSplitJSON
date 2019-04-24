@@ -12,11 +12,36 @@
 	"isTranslated": true,
 	"english": "Regulations for Administration on Fixed Network Telecommunications Business",
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000197744",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000197745",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000197746",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000197747",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000197748"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件一○○公司○○業務電信關鍵基礎設施防護計畫（參考格式）.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一電信關鍵基礎設施影響因子評量表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二電信事業關鍵基礎設施基本資料.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表三電信事業關鍵基礎設施風險評量表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表四電信事業關鍵基礎設施風險評量及設施級別自評表.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國八十八年五月十八日交通部（88）交郵發字第 8817 號令訂定發布全文 80 條；並自發布日起施行",

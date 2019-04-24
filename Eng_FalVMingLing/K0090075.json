@@ -6,8 +6,18 @@
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0090075",
 	"englishUpdate": "20130916",
 	"attachments": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000001346",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004476"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Appendix   Charge for Business Courtesy Clearance.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Appendix   Charge for Business Courtesy Clearance.doc"
+			]
+		}
 	],
 	"history": [
 		" Promulgated on November 10, 2010",

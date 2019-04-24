@@ -6,7 +6,12 @@
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=L0030022",
 	"englishUpdate": "20180213",
 	"attachments": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003910"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attached table Quota of yearly purchases of schedule 1 and 2 controlled drugs table.pdf"
+			]
+		}
 	],
 	"history": [
 		"Promulgated and Enforced by the Department of Health, Executive Yuan, Order No. 89008657 on 14 February 2000",

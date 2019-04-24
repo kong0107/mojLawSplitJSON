@@ -7,8 +7,18 @@
 	"englishUpdate": "20150306",
 	"isDiscarded": true,
 	"attachments": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000001554",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000001555"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment 1  Parties and Related Persons Under Specific Articles of the Fair Trade Law.pdf"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment 2  Reference List for the Classifications of, and Access to, the Materials and Files of the Fair Trade Commission.pdf"
+			]
+		}
 	],
 	"history": [
 		"Passed by the 543rd Commissioners’ Meeting on 4 April 2002\r\nCirculated by Order Ref. Kung Mi Fa Tzu No. 0910003769 on 1 May 2002",

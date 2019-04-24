@@ -11,8 +11,18 @@
 	"isDiscarded": true,
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000075522",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000234734"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件一電信業及傳播業電腦處理個人資料（登記、變更登記、終止登記、補發執照）申請書.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件一電信業及傳播業電腦處理個人資料（登記、變更登記、終止登記、補發執照）申請書.DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國八十六年九月八日交通部（86）交郵發字第 8671 號令訂定發布全文 17 條",

@@ -12,12 +12,42 @@
 	"isTranslated": true,
 	"english": "Regulations for the Management of Telecommunications Engineering Enterprises",
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000060724",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000060725",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000060726",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000234588",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000234589",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000234590"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件一電信工程業登記執照.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件一電信工程業登記執照.DOC"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件二受僱同意書.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件二受僱同意書.DOC"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件三電信工程業登記執照申請書.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件三電信工程業登記執照申請書.DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國九十七年十二月三十一日國家通訊傳播委員會通傳技字第 09743031140 號令訂定發布全文 18 條；並自發布後三個月施行",

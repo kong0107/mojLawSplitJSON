@@ -11,12 +11,42 @@
 	"lastUpdate": "20161130",
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000020643",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000020644",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000020645",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000233571",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000233572",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000233573"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"格式一.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"格式一.DOC"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"格式二.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"格式二.DOC"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"範例.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"範例.DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國八十九年三月二十三日司法院（89）院台廳民一字第 07226 號令訂定發布全文 5 條；並自發布日起施行",

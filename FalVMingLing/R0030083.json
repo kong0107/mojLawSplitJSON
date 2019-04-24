@@ -11,8 +11,18 @@
 	"isDiscarded": true,
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000129181",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000129182"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一  特種考試高科技或稀少性技術人員考試應考資格表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二  特種考試高科技或稀少性技術人員考試應試科目表.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國八十六年七月三十日考試院（86）考台組壹一字第 03901 號令訂定發布全文 15 條",

@@ -11,8 +11,18 @@
 	"isDiscarded": true,
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000131324",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000131325"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一  年特種考試交通事業人員考試訓練成績考核表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二  年特種考試交通事業人員考試請領考試及格證書清冊.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國八十五年八月二十九日考試院（85）考台組參一字第 05261 號令 、 行政院（85）台人政力字第 30468 號令訂定發布全文 11 條",

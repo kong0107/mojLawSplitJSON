@@ -11,7 +11,12 @@
 	"lastUpdate": "20180615",
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000220581"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"交通部鐵道局編制表.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國一百零七年六月十五日交通部交人字第 1070017363 號令訂定發布；並自一百零七年六月十一日生效"

@@ -12,7 +12,12 @@
 	"isTranslated": true,
 	"english": "Labor Insurance Disability Benefit Payment Standards",
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000166595"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國九十七年十二月二十五日行政院勞工委員會勞保 3 字第 0970140672 號令訂定發布全文 9 條；並自九十八年一月一日施行",

@@ -11,8 +11,18 @@
 	"isDiscarded": true,
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000129185",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000129186"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件一  專門職業及技術人員考試口試評分表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件二  專門職業及技術人員考試實地考試評分表.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國七十六年四月一日考試院（76）考台秘議字第 0778 號令訂定發布全文 10 條",

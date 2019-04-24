@@ -12,9 +12,24 @@
 	"isTranslated": true,
 	"english": "Regulations Governing the Registration of Food Businesses",
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000163213",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000163214",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000163215"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一：製造及加工產品應登錄之資訊.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二：輸入產品應登錄之資訊.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表三：販售產品應登錄之資訊.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國一百零二年十二月三日衛生福利部部授食字第 1021351280 號令訂定發布全文 10 條；並自發布日施行",

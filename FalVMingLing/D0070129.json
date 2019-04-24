@@ -11,8 +11,18 @@
 	"lastUpdate": "20120201",
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000018103",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000233293"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表.DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國八十五年十一月二十七日內政部台（85）內營字第 8584997 號令 、 財政部台財保字第 850641668 號令會銜訂定發布全文 7 條；並自發布日施行",

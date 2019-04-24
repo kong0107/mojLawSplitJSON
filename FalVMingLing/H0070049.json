@@ -11,8 +11,18 @@
 	"lastUpdate": "20151111",
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000115912",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000235372"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表.DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國一百零一年八月二十一日教育部臺參字第 1010151508C 號令訂定發布全文 14 條；並自一百零一年一月一日施行",

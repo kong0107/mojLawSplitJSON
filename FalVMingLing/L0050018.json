@@ -12,7 +12,12 @@
 	"isTranslated": true,
 	"english": "Regulations Governing Management of the Health Examination of Employed Aliens",
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000196811"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表：指定醫院健康檢查項目不合格之認定及處理原則.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國九十三年一月十三日行政院衛生署署授疾字第 0930000043 號令訂定發布全文 13 條；並自發布日施行",

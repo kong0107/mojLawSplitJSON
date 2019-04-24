@@ -6,7 +6,12 @@
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0380115",
 	"englishUpdate": "20150609",
 	"attachments": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000001724"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Appendix Calculation Example.PDF"
+			]
+		}
 	],
 	"history": [
 		" The full text of 7 articles promulgated by the Ministry of Finance Order Tai-Tsai-Rong (1) Zi-0901000176 on October 31, 2001.",

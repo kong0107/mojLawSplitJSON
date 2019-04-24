@@ -11,8 +11,18 @@
 	"isDiscarded": true,
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000129177",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000129178"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一  公務人員考試個別口試評分表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二  公務人員考試集體口試評分表.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國七十六年四月一日考試院（76）考台秘議字第 0777 號令訂定發布全文 9 條",

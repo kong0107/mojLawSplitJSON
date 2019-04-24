@@ -11,7 +11,12 @@
 	"isDiscarded": true,
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000126515"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"表冊.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國三十年六月四日教育部（30）第 2158 號令訂定發布",

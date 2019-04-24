@@ -11,8 +11,18 @@
 	"isDiscarded": true,
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000018995",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000232664"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"九十三年國民住宅出售出租及貸款自建對象家庭收入標準.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"九十三年國民住宅出售出租及貸款自建對象家庭收入標準.DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國九十三年一月七日行政院院臺內字第 0920068446 號令訂定發布",

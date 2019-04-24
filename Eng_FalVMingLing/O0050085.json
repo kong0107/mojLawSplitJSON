@@ -6,8 +6,18 @@
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=O0050085",
 	"englishUpdate": "20171124",
 	"attachments": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003865",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003866"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment 1 Written Document for the Record of Proper Clearance of Industrial Waste (used by those that declare the manifest).pdf"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment 2.pdf"
+			]
+		}
 	],
 	"history": [
 		" Original 9 articles promulgated by Environmental Protection Administration order on November 24, 2017"

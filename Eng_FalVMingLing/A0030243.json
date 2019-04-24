@@ -6,8 +6,18 @@
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=A0030243",
 	"englishUpdate": "20110706",
 	"attachments": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000001513",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004517"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Remuneration Chart for Judges.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Remuneration Chart for Judges.doc"
+			]
+		}
 	],
 	"history": [
 		"Promulgated by the Presidential Order No. Hwa-Zong-Yi-10000141401 on July 6, 2011\r\n  To be effective as of a year since being promulgated, except that Chapter 5 to be effective in half of a year and Article 78 to be effective in three years and six months since being promulgated."

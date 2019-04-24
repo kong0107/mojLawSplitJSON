@@ -6,8 +6,18 @@
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0090062",
 	"englishUpdate": "20181210",
 	"attachments": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000005138",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000005139"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment 1：APPLICATION.odt"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment 2：DANGEROUS GOODS OCCURRENCE REPORT.odt"
+			]
+		}
 	],
 	"history": [
 		"Full text promulgated by the MOTC Order No. 0970085011 on February 25, 2008.\r\n  There are 36 Articles in the Regulations.",

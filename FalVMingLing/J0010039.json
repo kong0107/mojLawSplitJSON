@@ -11,8 +11,18 @@
 	"lastUpdate": "20100329",
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000079237",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000234753"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件組織架構圖.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件組織架構圖.DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國九十二年四月二十三日經濟部經人字第 09200058700 號令訂定發布全文 23 條；並自發布日起施行",

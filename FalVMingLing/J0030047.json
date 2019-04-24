@@ -11,7 +11,12 @@
 	"lastUpdate": "20180730",
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000224075"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國九十一年一月九日經濟部（91）經工字第 09004628550 號令訂定發布全文 21 條；並自發布日起施行",

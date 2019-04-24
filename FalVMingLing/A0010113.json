@@ -11,7 +11,12 @@
 	"lastUpdate": "20180820",
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000225858"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"行政院編制表.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國一百年十月二十七日行政院院臺人字第 1000105050 號令訂定發布；並自一百零一年一月一日施行",

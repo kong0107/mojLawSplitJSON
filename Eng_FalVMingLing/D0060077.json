@@ -6,8 +6,18 @@
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0060077",
 	"englishUpdate": "20131220",
 	"attachments": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000002275",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004355"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"formula.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"formula.doc"
+			]
+		}
 	],
 	"history": [
 		"Promulgated by letter Tai-Nei-Di No.9077692 of Ministry of the Interior on October 17, 2001",

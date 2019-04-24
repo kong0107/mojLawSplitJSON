@@ -11,8 +11,18 @@
 	"isDiscarded": true,
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000128430",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000128431"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件一 學生現役名冊.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件二 國民身分證職業變更註記規定.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國五十七年十一月二十二日行政院（57）台內字第 9251 號令訂定發布",

@@ -6,8 +6,18 @@
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0390020",
 	"englishUpdate": "20181121",
 	"attachments": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000002582",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004689"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment Documents Required for Insurer’s Application to Invest in Overseas Insurance-Related Enterprises.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment Documents Required for Insurer’s Application to Invest in Overseas Insurance-Related Enterprises.doc"
+			]
+		}
 	],
 	"history": [
 		"Promulgated 6 March 1993 per Ministry of Finance Letter (82) Taiwan-Finance-Insurance No. 821176360",

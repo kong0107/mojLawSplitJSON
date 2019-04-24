@@ -6,9 +6,24 @@
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=J0160054",
 	"englishUpdate": "20181116",
 	"attachments": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000005010",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000005011",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000005012"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Annexed 1.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Annexed 2.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Annexed 3.PDF"
+			]
+		}
 	],
 	"history": [
 		"Promulgated and enforced by Letter Hui-Wu-Tzu No. 0930021810 on July 14th, 2004",

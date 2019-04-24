@@ -6,8 +6,18 @@
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0080009",
 	"englishUpdate": "20181122",
 	"attachments": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000002862",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004751"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment：BALLAST WATER REPORTING FORM.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment：BALLAST WATER REPORTING FORM.doc"
+			]
+		}
 	],
 	"history": [
 		" Promulgated on November 5, 1981",

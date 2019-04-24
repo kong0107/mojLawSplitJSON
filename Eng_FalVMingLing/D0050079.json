@@ -6,10 +6,30 @@
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0050079",
 	"englishUpdate": "20110629",
 	"attachments": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000001347",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000001348",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004477",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004478"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Table 1：Scope of Specific Physical and Mental Disability.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Table 1：Scope of Specific Physical and Mental Disability.doc"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Table 2：Certain Scopes of Diseases.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Table 2：Certain Scopes of Diseases.doc"
+			]
+		}
 	],
 	"history": [
 		" Promulgated by Ministry of the Interior Order Tai-Nei-She-Zih No.4920 on Jan. 28, 1981",

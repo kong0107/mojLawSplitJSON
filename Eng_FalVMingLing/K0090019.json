@@ -6,7 +6,12 @@
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0090019",
 	"englishUpdate": "20180718",
 	"attachments": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004214"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Table of the Rates of Fee-charging Standards for the Use of State-operated Airport, Navigation Aids and Related Facilities.odt"
+			]
+		}
 	],
 	"history": [
 		"Promulgated on May 20,1983",

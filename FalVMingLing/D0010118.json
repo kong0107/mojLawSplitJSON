@@ -11,10 +11,30 @@
 	"lastUpdate": "20190121",
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000240112",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000240113",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000240114",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000240115"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件一：（財團法人名稱）資產負債表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件二：（財團法人名稱）收支營運表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件三：（財團法人名稱）淨值變動表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件四：（財團法人名稱）現金流量表.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國一百零八年一月二十一日內政部台內會字第 1080360324 號令訂定發布全文 27 條；並自財團法人法施行之日（一百零八年二月一日）施行"

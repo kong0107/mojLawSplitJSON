@@ -12,7 +12,12 @@
 	"isTranslated": true,
 	"english": "Fee-Charging Standards for Lot Release, Reference Materials, and Testing of Foods, Drugs and Cosmetics",
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000183810"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國一百年十二月三十日行政院衛生署署授食字第 1001904420 號令訂定發布全文 4 條；除另定施行日期者外，自發布日施行",

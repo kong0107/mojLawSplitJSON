@@ -12,7 +12,12 @@
 	"isTranslated": true,
 	"english": "Standards for Low Power Radio-frequency Devices Statutory Fee",
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000198668"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表低功率射頻電機規費收費基準表.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國九十三年一月二十七日交通部交郵發字第 093B000007 號令訂定發布全文 4 條；並自發布日施行",

@@ -6,12 +6,42 @@
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0090013",
 	"englishUpdate": "20160308",
 	"attachments": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000002051",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000002052",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000002053",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004599",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004600",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004601"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"attachment 1.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"attachment 1.doc"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"attachment 2：Application Form for Medical Waiver (Company).PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"attachment 2：Application Form for Medical Waiver (Company).doc"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"attachment 2：Application Form for Medical Waiver (Personal).PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"attachment 2：Application Form for Medical Waiver (Personal).doc"
+			]
+		}
 	],
 	"history": [
 		"Full text promulgated by the CAA decree on November 17, 1973",

@@ -12,7 +12,12 @@
 	"isTranslated": true,
 	"english": "Regulations Governing the Declaration of Foreign Exchange Receipts and Disbursements or Transactions",
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000233012"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國八十四年八月三十日中央銀行（84）台央外字第（伍） 1639 號令訂定發布全文 10 條",

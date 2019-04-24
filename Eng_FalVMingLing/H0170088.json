@@ -6,8 +6,18 @@
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=H0170088",
 	"englishUpdate": "20150617",
 	"attachments": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000002723",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004726"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Appendix：Admission Prices for National Museum of Taiwan History.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Appendix：Admission Prices for National Museum of Taiwan History.doc"
+			]
+		}
 	],
 	"history": [
 		"Standards are promulgated by National Museum of Taiwan History Xing-Tzu No. 10020034191 on 26th, October, 2011 and are effective on 29th, October, 2011.",

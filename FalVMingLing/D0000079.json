@@ -11,12 +11,42 @@
 	"isDiscarded": true,
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000028197",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000028198",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000028199",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000232709",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000232710",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000232711"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"內政部中區兒童之家暫行編制表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"內政部中區兒童之家暫行編制表.DOC"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"內政部北區兒童之家暫行編制表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"內政部北區兒童之家暫行編制表.DOC"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"內政部南區兒童之家暫行編制表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"內政部南區兒童之家暫行編制表.DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國八十八年六月二十九日內政部（88）台內人字第 8889637 號令訂定發布全文 11 條暨暫行編制表；並自同年七月一日起施行",

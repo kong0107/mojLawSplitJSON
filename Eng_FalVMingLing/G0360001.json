@@ -6,7 +6,12 @@
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0360001",
 	"englishUpdate": "19340528",
 	"attachments": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003659"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"1934 Six Percent British Boxer Indemnity Government Bond Principal and Interest Repayment Chart.pdf"
+			]
+		}
 	],
 	"history": [
 		"Promulgated on 28 May 1934"

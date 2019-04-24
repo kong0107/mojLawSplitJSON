@@ -11,7 +11,12 @@
 	"lastUpdate": "20170105",
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000189901"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"國立臺灣交響樂團編制表.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國九十七年三月四日行政院文化建設委員會文人字第 0972104648 號令訂定發布；並自發布日施行",

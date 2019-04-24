@@ -11,7 +11,12 @@
 	"lastUpdate": "20180524",
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000218100"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"國家教育研究院編制表.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國一百年四月十一日教育部臺參字第 1000050303C 號令訂定發布",

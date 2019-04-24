@@ -6,7 +6,12 @@
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0110036",
 	"englishUpdate": "20180518",
 	"attachments": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003932"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment.odt"
+			]
+		}
 	],
 	"history": [
 		"Promulgated on Nov. 1st, 2013.",

@@ -11,8 +11,18 @@
 	"lastUpdate": "20110531",
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000095941",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000235085"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件○○（農村社區名稱）社區公約範本.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件○○（農村社區名稱）社區公約範本.DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國一百年五月三十一日行政院農業委員會農水保字第 1001866090 號令訂定發布全文 10 條；並自發布日施行"

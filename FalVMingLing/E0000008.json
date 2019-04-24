@@ -11,8 +11,18 @@
 	"isDiscarded": true,
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000022142",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000232690"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"僑務委員會駐外僑務工作人員編制表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"僑務委員會駐外僑務工作人員編制表.DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國七十一年九月一日僑務委員會（71）台僑參字第 32285 號令訂定發布全文 7 條",

@@ -12,7 +12,12 @@
 	"isTranslated": true,
 	"english": "Regulations Governing Issuance of Bank Debentures by Banks",
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000157801"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件：○○○○銀行發行金融債券申請書.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國八十九年十二月三十日財政部（89）台財融（二）字第 89765716 號函訂定發布全文 11 條",

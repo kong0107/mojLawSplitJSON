@@ -11,8 +11,18 @@
 	"isDiscarded": true,
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000021946",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000233635"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件違反強制汽車責任保險事件統一裁罰標標準表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件違反強制汽車責任保險事件統一裁罰標標準表.DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國八十八年六月二十九日交通部（88）交路發字第 8824 號令 、 財政部（88）台財保字第 882409791 號令會銜訂定發布全文 29 條；並自八十八年七月一日起施行",

@@ -6,8 +6,18 @@
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0060078",
 	"englishUpdate": "20070426",
 	"attachments": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000000306",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004391"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment：Table for Telecommunications Terminal Equipment Statutory Fee.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment：Table for Telecommunications Terminal Equipment Statutory Fee.doc"
+			]
+		}
 	],
 	"history": [
 		" 7 Articles promulgated in full by the Ministry of Transportation and Communications（MOTC） on Jan. 10, 2006. Ref ：Jiao-Lu-Fa Tze No.09500850031",

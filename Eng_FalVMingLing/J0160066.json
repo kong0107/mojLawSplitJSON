@@ -6,7 +6,12 @@
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=J0160066",
 	"englishUpdate": "20041229",
 	"attachments": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000005136"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Appendix Clearance Level for Radioactive Waste.pdf"
+			]
+		}
 	],
 	"history": [
 		"Enforced by letter HWZ No.0930047668 on Dec 29, 2004"

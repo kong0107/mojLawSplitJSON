@@ -12,7 +12,12 @@
 	"isTranslated": true,
 	"english": "Organization Regulations of the Navy Technical School",
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000051960"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"海軍技術學校編制表.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國九十年六月二十日國防部（90）鐸錮字第 000604 號令訂定發布全文 12 條；並自發布日施行",

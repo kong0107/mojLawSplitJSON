@@ -11,7 +11,12 @@
 	"isDiscarded": true,
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000126647"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"縣／市短期補習班聘用外國人專任外國語文教師申請書.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國八十四年一月九日教育部（84）台參字第 00757 號令 、 行政院勞工委員會（84）台勞職業字第 102011 號令會銜訂定發布全文 14 條",

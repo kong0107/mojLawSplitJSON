@@ -11,10 +11,30 @@
 	"isDiscarded": true,
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000020483",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000020484",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000233559",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000233560"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件一.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件一.DOC"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件二..PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件二..DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國四十四年六月七日行政院（44）台防字第 3614 號令訂定發布全文 15 條文",

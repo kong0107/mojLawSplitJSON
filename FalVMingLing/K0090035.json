@@ -11,10 +11,30 @@
 	"lastUpdate": "20140106",
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000106931",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000106932",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000235296",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000235297"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件一 ○○航空公司○○年○○月份離島地區居民航空票價補貼名冊.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件一 ○○航空公司○○年○○月份離島地區居民航空票價補貼名冊.DOC"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件二 ○○航空公司○○年○○月份離島地區居民航空票價補貼款清冊.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件二 ○○航空公司○○年○○月份離島地區居民航空票價補貼款清冊.DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國八十八年七月一日交通部（88）交航發字第 8825 號令訂定發布全文 8 條；並自發布日起施行",

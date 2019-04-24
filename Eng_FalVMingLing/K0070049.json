@@ -6,8 +6,18 @@
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0070049",
 	"englishUpdate": "20170613",
 	"attachments": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003737",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004954"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment - Minimum Monthly Wage for the R.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment - Minimum Monthly Wage for the R.DOC"
+			]
+		}
 	],
 	"history": [
 		" Enacted by order of the Ministry of Transportation and Communications No. Jiao-Hang-Fa-Zi-091B000117 dated October 1, 2002.",

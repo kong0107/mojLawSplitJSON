@@ -6,8 +6,18 @@
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=N0060073",
 	"englishUpdate": "20160115",
 	"attachments": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003188",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004837"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Schedule.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Schedule.doc"
+			]
+		}
 	],
 	"history": [
 		"Announced on Apr.10, 2002,according to the order of Labor 3, No.0910017095",

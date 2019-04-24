@@ -12,9 +12,24 @@
 	"isTranslated": true,
 	"english": "Sanitation Standard for Contaminants and Toxins in Food",
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000217139",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000217140",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000217141"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一：食品中重金屬之限量.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二：食品中真菌毒素之限量.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表三：食品中其他污染物質及毒素之限量.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國一百零七年五月八日衛生福利部衛授食字第 1071300778 號令訂定發布全文 6 條；並自一百零八年一月一日施行"

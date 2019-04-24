@@ -6,7 +6,12 @@
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=M0060002",
 	"englishUpdate": "20170727",
 	"attachments": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003776"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Table for Article 1-1 Maximum allowable limits of dioxin, and that of dioxin and dioxin-like PCBs in feed or feed additives.odt"
+			]
+		}
 	],
 	"history": [
 		"This Rule was prescribed and promulgated on February 11, 1977.",

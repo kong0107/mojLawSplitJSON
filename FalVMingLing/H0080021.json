@@ -11,8 +11,18 @@
 	"isDiscarded": true,
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000018406",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000018407"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"文藝獎侯選人推薦書-1.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"文藝獎侯選人推薦書-2.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國六十年五月十七日教育部文化局（60）文二字第 2766 號令訂定發布",

@@ -11,8 +11,18 @@
 	"lastUpdate": "20060125",
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000032157",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000233896"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表.DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國八十二年七月二十七日行政院環境保護署（82）環署空字第 35337 號令訂定發布全文 7 條",

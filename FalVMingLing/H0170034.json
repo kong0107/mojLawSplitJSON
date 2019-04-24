@@ -11,8 +11,18 @@
 	"isDiscarded": true,
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000036988",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000233976"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表華山文化園區場地使用收費基準表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表華山文化園區場地使用收費基準表.DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國九十四年八月二十四日行政院文化建設委員會文壹字第 0941118566 號令訂定發布全文 3 條；並自發布日施行",

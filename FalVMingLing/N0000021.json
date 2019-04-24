@@ -11,12 +11,42 @@
 	"isDiscarded": true,
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000009099",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000009100",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000009101",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000232590",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000232591",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000232592"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"行政院勞工委員會中區勞動檢查所暫行編制表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"行政院勞工委員會中區勞動檢查所暫行編制表.DOC"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"行政院勞工委員會北區勞動檢查所暫行編制表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"行政院勞工委員會北區勞動檢查所暫行編制表.DOC"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"行政院勞工委員會南區勞動檢查所暫行編制表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"行政院勞工委員會南區勞動檢查所暫行編制表.DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國八十八年六月二十九日行政院勞工委員會令（88）台勞人一字第 0029299 號令訂定發布全文 10 條；並自八十八年七月一日起施行",

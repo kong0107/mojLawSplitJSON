@@ -6,8 +6,18 @@
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0350037",
 	"englishUpdate": "20100526",
 	"attachments": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000002023",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004591"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Appendix：Scale of Positions and the Remuneration Table for Customs officers.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Appendix：Scale of Positions and the Remuneration Table for Customs officers.doc"
+			]
+		}
 	],
 	"history": [
 		"Promulgated on February 01, 1991",

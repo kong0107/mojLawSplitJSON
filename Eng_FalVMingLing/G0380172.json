@@ -6,7 +6,12 @@
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0380172",
 	"englishUpdate": "20150917",
 	"attachments": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000002893"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Appendix Calculation Example.pdf"
+			]
+		}
 	],
 	"history": [
 		"Full text of 23 articles adopted and promulgated on 30 September 2003 ",

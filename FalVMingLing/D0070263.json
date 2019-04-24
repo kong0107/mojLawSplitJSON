@@ -11,7 +11,12 @@
 	"lastUpdate": "20171215",
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000208784"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"圖一～圖六.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國一百零六年十二月十五日內政部台內營字第 1060818995 號令訂定發布全文 8 條；並自一百零六年十二月十六日施行"

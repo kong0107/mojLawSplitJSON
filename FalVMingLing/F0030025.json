@@ -11,13 +11,48 @@
 	"isDiscarded": true,
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000128568",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000128569",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000128570",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000128571",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000128572",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000128573",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000128574"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一 戰役獎金報告（建議表）.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二 殲滅敵軍部隊獎金表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表三 俘獲或擊斃敵軍幹部獎金表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表四 擊沉或炸沉敵軍艦船獎金表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表五 擊落或擊燬敵軍飛機獎金表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表六 鹵獲敵軍主要裝備獎金表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表七 向大陸邊遠及沿海地區實施奇襲作戰獎金標準表.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國五十二年二月七日國防部（52）越趨字第 014 號令訂定發布中華民國五十一年八月二十八日行政院（51）台人字第 5445 號令核定（原「國軍作戰獎懲辦法」即廢止）",

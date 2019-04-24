@@ -11,7 +11,12 @@
 	"lastUpdate": "20160108",
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000172959"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國一百零三年六月六日銓敘部部退一字第 10338567341 號令訂定發布全文 10 條；並自一百零三年六月一日施行",

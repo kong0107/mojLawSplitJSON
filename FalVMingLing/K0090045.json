@@ -12,8 +12,18 @@
 	"isTranslated": true,
 	"english": "Regulation for the Subsidization of Civil Air Transport Enterprises in Respect of the Operation of Offshore Island Routes",
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000150486",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000235987"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件.DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國九十一年十二月三十日交通部交航發字第 091B000162-1 號令訂定發布全文 6 條；並自發布日施行",

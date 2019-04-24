@@ -11,8 +11,18 @@
 	"isDiscarded": true,
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000016077",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000232617"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"內政部空中勤務總隊籌備處編制表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"內政部空中勤務總隊籌備處編制表.DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國九十三年三月三日內政部台內人字第 0930002579 號令訂定發布全文 14 條及編制表；並自九十三年三月十日施行",

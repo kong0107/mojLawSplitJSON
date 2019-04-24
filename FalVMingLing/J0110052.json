@@ -11,7 +11,12 @@
 	"lastUpdate": "20170512",
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000197346"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國九十三年四月二十一日經濟部經水字第 09304603370 號令訂定發布全文 4 條；並自發布日施行",

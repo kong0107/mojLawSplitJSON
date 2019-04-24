@@ -6,8 +6,18 @@
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0060076",
 	"englishUpdate": "20070713",
 	"attachments": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000000994",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004459"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment  Dedicated telecommunications statutory fee charge table.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment  Dedicated telecommunications statutory fee charge table.doc"
+			]
+		}
 	],
 	"history": [
 		" 6 Articles promulgated in full by the Ministry of Transportation and Communications（MOTC） on Sep. 5, 2005. Ref ：Jiao-Lu Tze No.09400850381",

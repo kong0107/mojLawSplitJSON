@@ -11,8 +11,18 @@
 	"isDiscarded": true,
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000128537",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000128538"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國四十七年十二月一日國防部（47）通乙字第 26 號令訂定發布",

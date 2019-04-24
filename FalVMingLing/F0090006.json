@@ -11,7 +11,12 @@
 	"isDiscarded": true,
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000128265"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附圖.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國五十四年十二月二十日國防部（54）約法字第 334 號令訂定發布",

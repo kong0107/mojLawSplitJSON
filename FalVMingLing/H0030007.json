@@ -11,7 +11,12 @@
 	"isDiscarded": true,
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000126499"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"大學及獨立學院專任教師薪級表.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國二十九年八月教育部第 28009 號令訂定發布",

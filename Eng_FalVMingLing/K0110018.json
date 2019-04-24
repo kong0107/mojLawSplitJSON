@@ -6,8 +6,18 @@
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0110018",
 	"englishUpdate": "20170120",
 	"attachments": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000002892",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004752"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"APPENDIX：Table of the Division of Authority and Responsibility for the Management of Tourist Amusement Enterprises.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"APPENDIX：Table of the Division of Authority and Responsibility for the Management of Tourist Amusement Enterprises.doc"
+			]
+		}
 	],
 	"history": [
 		"Promulgated as per a Ministry of Transportation and Communications ordinance, Reference MOTC Integrated No. 091B000165, dated December 30, 2002.",

@@ -11,12 +11,42 @@
 	"isDiscarded": true,
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000128562",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000128563",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000128564",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000128565",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000128566",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000128567"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件一 年班比敘高級中學生新生（轉學生）名冊.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件二 年班比敘國民中學生新生（轉學生）名冊.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件三 畢業生畢業成績一覽表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件四 畢業證書.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件五 畢業生畢業成績一覽表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件六 畢業證書.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國六十六年四月二十七日國防部（66）金銓字第 1263 號令 、 教育部（66）台中字第 11697 號令會銜訂定發布中華民國六十六年四月七日行政院台教字第 2685 號函核定發布",

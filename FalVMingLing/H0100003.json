@@ -11,8 +11,18 @@
 	"isDiscarded": true,
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000126610",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000126611"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件一 僑生中華文化獎學金申請表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件二 僑生中華文化獎學金初審合格名冊.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國六十九年八月二十一日教育部（69）台參字第 25377 號令訂定發布",

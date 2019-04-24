@@ -11,7 +11,12 @@
 	"lastUpdate": "20180412",
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000215112"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"法務部矯正署桃園女子監獄編制表.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國九十九年十二月三十一日法務部法令字第 0990904463 號令訂定發布；並自一百年一月一日生效",

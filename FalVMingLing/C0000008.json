@@ -12,10 +12,30 @@
 	"isTranslated": true,
 	"english": "Narcotics Hazard Prevention Act",
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000203525",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000203526",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000203527",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000203528"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一第一級毒品.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二第二級毒品.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表三第三級毒品.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表四第四級毒品.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國四十四年六月三日總統制定公布全文 22 條",

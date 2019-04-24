@@ -11,10 +11,30 @@
 	"isDiscarded": true,
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000128268",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000128269",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000128270",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000128271"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件一：軍品存量登記卡片.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件二：國軍軍品申請撥運或繳回接收單.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件三：（全銜）醫院衛材消耗出納清冊.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件四：麻醉管制藥品登記卡.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國五十三年三月十七日國防部（53）明智字第 0038 號令訂定發布",

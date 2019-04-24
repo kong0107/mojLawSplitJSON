@@ -6,7 +6,12 @@
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0060071",
 	"englishUpdate": "20170607",
 	"attachments": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003755"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment - Low Power Radio-frequency Devices Statutory Fees.odt"
+			]
+		}
 	],
 	"history": [
 		" 4 Articles promulgated in full by the Ministry of Transportation and Communications（MOTC） on Jan. 27, 2004. Ref：Jiao-Lu-Fa Tze No.093B000007.",

@@ -11,8 +11,18 @@
 	"isDiscarded": true,
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000036151",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000036152"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件一【全銜】函.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件二（全銜）退除役軍人就任公職停發退休俸／生活補助費通知單.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國八十五年十一月六日行政院令訂定發布全文 8 條中華民國八十五年十二月三十一日行政院（85）台人政給字第 45632 號令定自八十六年一月一日施行",

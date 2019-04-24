@@ -12,13 +12,48 @@
 	"isTranslated": true,
 	"english": "Regulations Governing Company Registration",
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000232336",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000232337",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000232338",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000232339",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000232340",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000232341",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000232342"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一  無限公司登記應附送書表一覽表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二  兩合公司登記應附送書表一覽表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表三  有限公司登記應附送書表一覽表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表四  股份有限公司登記應附送書表一覽表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表五  閉鎖性股份有限公司登記應附送書表一覽表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表六  外國公司申請分公司登記應附送書表一覽表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表七  外國公司申請辦事處登記應附送書表一覽表.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國九十年十二月十二日經濟部（90）經商字第 09002256830 號令訂定發布全文 17 條；並自發布日施行",

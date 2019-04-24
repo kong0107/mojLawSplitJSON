@@ -6,8 +6,18 @@
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=M0030082",
 	"englishUpdate": "20180621",
 	"attachments": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004234",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004235"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Appendix 1：The Certification Criteria for Organic Agricultural Products and Organic Agricultural Processed Products.pdf"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Annex 2：Amendment Regulation for Table of Organic Agricultural Products and Organic Agricultural Processed Products Categories and Items.pdf"
+			]
+		}
 	],
 	"history": [
 		"Promulgated under Order Nung-Liang-Tze 0961061246 dated July 6, 2007 Articles 25~28 corrected under Order Nung-Liang-Tze 0961061578 dated August 14. 2007",

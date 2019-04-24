@@ -6,10 +6,30 @@
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=A0030192",
 	"englishUpdate": "20020311",
 	"attachments": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000000032",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000000033",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004361",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004362"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Schedule 1.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Schedule 1.doc"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Schedule 2.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Schedule 2.doc"
+			]
+		}
 	],
 	"history": [
 		"(promulgated on March 11, 2002)"

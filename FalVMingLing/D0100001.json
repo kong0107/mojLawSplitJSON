@@ -11,8 +11,18 @@
 	"isDiscarded": true,
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000029530",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000233746"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表蒙藏委員會輔導海外蒙藏學生回國升學補助費基準.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表蒙藏委員會輔導海外蒙藏學生回國升學補助費基準.DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國五十四年八月九日行政院（54）台教字第 5647 號令核定中華民國五十四年十二月二十九日蒙藏委員會（54）台參字第 0859 號令訂定發布",

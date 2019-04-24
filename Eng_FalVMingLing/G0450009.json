@@ -6,7 +6,12 @@
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0450009",
 	"englishUpdate": "20181113",
 	"attachments": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000005043"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Declaration Statement of Foreign Exchange Receipts and Disbursements or Transactions.PDF"
+			]
+		}
 	],
 	"history": [
 		" Promulgated on August 30, 1995",

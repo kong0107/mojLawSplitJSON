@@ -6,7 +6,12 @@
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=L0040084",
 	"englishUpdate": "20180619",
 	"attachments": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004167"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Appendix 1：Standards for Scope, Application and Limitation of Food Additives.pdf"
+			]
+		}
 	],
 	"history": [
 		"DOH Food No. 0970405591 Announced. 11/20/2008",

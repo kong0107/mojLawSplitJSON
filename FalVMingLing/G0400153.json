@@ -12,7 +12,12 @@
 	"isTranslated": true,
 	"english": "Regulations Governing Offshore Securities Branches",
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000203210"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國一百零二年十二月二十六日金融監督管理委員會金管證券字第 1020053236 號令 、 中央銀行台央外拾壹字第 1020050903 號令會銜訂定發布全文 14 條；並自發布日施行",

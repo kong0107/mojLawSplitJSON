@@ -11,8 +11,18 @@
 	"lastUpdate": "20170110",
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000018536",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000018537"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件一.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件二.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國三十七年五月十二日國防部（37）一般命令第 109 號令訂定發布",

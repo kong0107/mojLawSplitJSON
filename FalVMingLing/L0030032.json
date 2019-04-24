@@ -11,8 +11,18 @@
 	"lastUpdate": "20000807",
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000219812",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000219813"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國八十九年八月七日行政院衛生署（89）衛署藥字第 0890009788 號令訂定發布全文 8 條；並自八十九年八月九日起施行"

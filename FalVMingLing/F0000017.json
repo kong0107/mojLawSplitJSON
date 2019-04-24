@@ -11,8 +11,18 @@
 	"isDiscarded": true,
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000088255",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000232872"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"行政院國軍退除役官兵輔導委員會臺北榮民總醫院編制表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"行政院國軍退除役官兵輔導委員會臺北榮民總醫院編制表.DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國四十七年七月十六日行政院國軍退除役官兵就業輔導委員會（47）輔人字第 818 號令發布",

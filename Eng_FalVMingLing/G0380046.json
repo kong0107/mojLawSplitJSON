@@ -6,12 +6,42 @@
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0380046",
 	"englishUpdate": "20140109",
 	"attachments": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000001725",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000001726",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000001727",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004563",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004564",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004565"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Appendix 1.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Appendix 1.doc"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Appendix 2 Classification Standard of Capital Category of Banks Yearly.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Appendix 2 Classification Standard of Capital Category of Banks Yearly.doc"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Appendix 3 Calculation Example described in Article 5 of the Regulations.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Appendix 3 Calculation Example described in Article 5 of the Regulations.doc"
+			]
+		}
 	],
 	"history": [
 		" The full text of 11 articles promulgated by the Ministry of Finance Order Tai-Tsai-Rong (1) Zi-811738891 on April 16, 1992.",

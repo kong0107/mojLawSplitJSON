@@ -11,10 +11,30 @@
 	"isDiscarded": true,
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000010771",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000129183",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000129184",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000233223"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一國軍上校以上軍官外職停役轉任公務人員檢覈筆試應試科目表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一國軍上校以上軍官外職停役轉任公務人員檢覈筆試應試科目表.DOC"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二  口試委員按口試評分表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表三  實地考試委員按實地考試評分表.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國七十七年十二月十四日考試院（77）考台秘議字第 3495 號令訂定發布全文 11 條",

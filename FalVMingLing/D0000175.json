@@ -11,7 +11,12 @@
 	"lastUpdate": "20190326",
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000244879"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"內政部空中勤務總隊編制表.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國九十四年十二月五日內政部台內空勤字第 0940099117 號令訂定發布；並九十四年十一月九日施行",

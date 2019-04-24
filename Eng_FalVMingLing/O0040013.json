@@ -6,8 +6,18 @@
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=O0040013",
 	"englishUpdate": "20171020",
 	"attachments": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003878",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003879"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attached Table 1.pdf"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attached Table 2.pdf"
+			]
+		}
 	],
 	"history": [
 		"Original 66 articles promulgated by Environmental Protection Administration order (83) Huan-Shu-Shui-Tzu No. 31073 on July 13, 1994.",

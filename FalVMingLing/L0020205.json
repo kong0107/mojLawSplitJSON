@@ -11,10 +11,30 @@
 	"lastUpdate": "20190201",
 	"isTranslated": false,
 	"attachments": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000240857",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000240858",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000240859",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000240860"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一：資產負債表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二：營運活動表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表三：現金流量表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表四：功能別費用表.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國一百零八年二月一日衛生福利部衛部醫字第 1081660432 號令訂定發布全文 44 條；並自一百零八年二月一日施行"
