@@ -5,8 +5,18 @@
 	"法規網址": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0090045",
 	"最新英文異動日期": "20140922",
 	"附件": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000002513",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004675"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment.doc"
+			]
+		}
 	],
 	"沿革內容": "1.Full text promulgated by MOTC Order No. 091B000162 on December 30, 2002\r\n2.Amendment to Article 1 promulgated by MOTC Order No. 093B000023 on March 16, 2004\r\n3.Amendment to Articles 3 , 5 promulgated by MOTC Order No. 0950085054 on September 25, 2006\r\n4.Amendment to Article 4 and attachment of Articles 5 promulgated by MOTC Order No. 10300283961 on September 22, 2014",
 	"法規內容": [

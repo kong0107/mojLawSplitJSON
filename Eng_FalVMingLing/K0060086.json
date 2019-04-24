@@ -5,8 +5,18 @@
 	"法規網址": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0060086",
 	"最新英文異動日期": "20100315",
 	"附件": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000001126",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004461"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment (Fee Charge Items).PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment (Fee Charge Items).doc"
+			]
+		}
 	],
 	"沿革內容": "1.Six articles were promulgated and enacted on March 15, 2010 by the order of the National Communications Commission (NCC)",
 	"法規內容": [

@@ -5,7 +5,12 @@
 	"法規網址": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=L0040094",
 	"最新英文異動日期": "20160829",
 	"附件": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003367"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Annex.PDF"
+			]
+		}
 	],
 	"沿革內容": "1.Full text including 4 articles formulated and promulgated by the Executive Yuan, the Department of Health Order Shu-Shou-Shi No. 1001904420, on December 30, 2011.\r\n2.Text of article 1 amended by the Ministry of Health and Welfare Order Bu-Shou-Shi No. 1021950561, on October 2, 2013.\r\n3.Full text including 4 articles amended by the Ministry of Health and Welfare Order Bu-Shou-Shi No. 1041900335, on April 9, 2015.\r\n4.Text of article 2 related annex amended by the Ministry of Health and Welfare Order Bu-Shou-Shi No. 1051901465, on August 29, 2016.",
 	"法規內容": [

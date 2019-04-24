@@ -5,12 +5,42 @@
 	"法規網址": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0060060",
 	"最新英文異動日期": "20180410",
 	"附件": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003692",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003693",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003694",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003695",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003696",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003697"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment.pdf"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Annexed table 1 Assessment of Influential Factors of Critical Telecommunications Infrastructure.pdf"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Annexed table 2  Basic Information of Critical Telecommunications Infrastructure.pdf"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Annexed table 3 Risk Assessment of Critical Telecommunications Infrastructure.pdf"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Annexed table 4 Risk Assessment of Critical Telecommunications Infrastructure and Self-Assessment of Facility Level.pdf"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Appendix 1 Protection Plan of Critical Telecommunications Infrastructure of _____________ (Company Name) (a reference format).pdf"
+			]
+		}
 	],
 	"沿革內容": "1.The whole 93 articles were promulgated on October 15th in 2001 in (90) Jiao-you-fa Zih, No. 00063 document issued by Ministry of Transportation and Communications.\r\n2.The amendment of Article 33 was promulgated on October 30th in 2001 in Jiao-you-fa 90 Zih, No. 00068 document issued by Ministry of Transportation and Communications.\r\n3.The amendment of Article 8 and the deletion of Article 9 and 67 were promulgated on March 6th in 2003 in Jiao-you-fa Zih, No. 092B000025 document issued by Ministry of Transportation and Communications.\r\n4.The amendment of Article 70 and the deletion of Article 72 were promulgated on September 3rd in 2003 in Jiao-you-fa Zih, No. 092B000084 document issued by Ministry of Transportation and Communications.\r\n5.The amendment of Article 52 and 64 and the deletion of Article 53 to 55 were promulgated on December 3rd in 2003 in Jiao-you-fa Zih, No. 092B000108 document issued by Ministry of Transportation and Communications.\r\n6.The amendment of Article 81 and the deletion of Article 71 were promulgated on December 23rd in 2003 in Jiao-you-fa Zih, No. 092B000119 document issued by Ministry of Transportation and Communications.\r\n7.The amendment of Article 65, 86, and 87 was promulgated on January 27th in 2004 in Jiao-you-fa Zih, No. 093B000008 document issued by Ministry of Transportation and Communications.\r\n8.The amendment of Article 78 and 83 and the addition of Article 82-1 were promulgated on November 17th in 2005 in Jiao-you-fa Zih, No. 09400850533 document issued by Ministry of Transportation and Communications.\r\n9.The amendment of the whole 85 articles was promulgated on July 5th in 2007 in Jiao-you-fa Zih, No. 09605096211 document issued by Ministry of Transportation and Communications.\r\n10.The amendment of Article 40, 50, 64, 66, and 76 and the addition of Article 69-1 were promulgated on May 6th in 2008 in Tong-chuan-ying Zih, No. 09741011830 document issued by National Communications Commission.\r\n11.The amendment of Article 5, 12, 14, 15, 22, 24, 30, 31, 34 to 36, 38, 42, 44, and 76 to 86 was promulgated on August 13th in 2008 in Tong-chuan-ying Zih, No. 09741050640 document issued by National Communications Commission.\r\n12.The amendment of partial Articles was promulgated on December 30th in 2008 in Tong-chuan-Chi Zih, No. 09743029670 document issued by National Communications Commission.\r\n13.The amendment of Article 4-1 was promulgated on April 3rd in 2009 in Tong-chuan- ying Zih, No. 09841017710 document issued by National Communications Commission.\r\n14.The amendment of Article 59 was promulgated on December 17th in 2009 in Tong-chuan- Chi Zih, No. 09843032400 document issued by National Communications Commission.\r\n15.The amendment of Article 2 and 71 was promulgated on January 20, 2010 in Tong-chuan-chi Zih, No. 09940000600 document issued by National Communications Commission\r\n16.The amendment of partial Articles were promulgated on December 28, 2010 by National Communications Commission (NCC). Ref: Tung-Chuan-Ji Tze No. 09943029350\r\n17.The amendment of Articles 41, 56 promulgated by National Communications Commission (NCC) on Sep. 22, 2011. Ref: Tung-Chuan-Ying Tze No. 10041057100.\r\n18.The amendment of Articles 52 promulgated by National Communications Commission (NCC) on Oct. 29, 2012. Ref: Tung-Chuan-Tung-Xun Tze No. 10141055110.\r\n19.The amendment of Articles 69 promulgated by National Communications Commission (NCC) on Feb 7, 2013. Ref: Tung-Chuan-Zong-Guei Tze No. 10240004070.\r\n20.The amendment of Article 77 by NCC on Jul 12, 2016. Ref: Ping-Tai Tze No. 10541021810.\r\n21.The amendment of Article 2, 38,86 and the addition of Article 52-1, 52-2, 80-1 to 80-5 promulgated by NCC on May 22, 2017, Ref. Order Tung-Chuan-Chi-Chu Tze No. 10663009550\r\n22.The amendment of Article 79-1 by NCC on April 10, 2018. Ref: Tung-Chuan-Ping-Tai Tze No. 10741011260",
 	"法規內容": [

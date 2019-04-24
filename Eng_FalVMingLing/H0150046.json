@@ -5,10 +5,30 @@
 	"法規網址": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=H0150046",
 	"最新英文異動日期": "20150610",
 	"附件": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000002778",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000002779",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004737",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004738"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Appendix 1：Table of Teacher Salary Grades.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Appendix 1：Table of Teacher Salary Grades.doc"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Appendix 2：Criteria for Assigning Starting Salaries for Teachers at Elementary and Secondary Schools.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Appendix 2：Criteria for Assigning Starting Salaries for Teachers at Elementary and Secondary Schools.doc"
+			]
+		}
 	],
 	"沿革內容": "1.Presidential Order Hua-Zong-Yi-Yi-Zi No. 10400067391 enacted and promulgated 10 June, 2015: Full text of 26 articles, with the date of effect to be determined by the Executive Yuan",
 	"法規內容": [

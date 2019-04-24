@@ -7,9 +7,24 @@
 	"是否英譯註記": "Y",
 	"英文法規名稱": "Regulations on the Permit Application and the Management for Decommissioning of Nuclear Reactor Facilities",
 	"附件": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000233831",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000233832",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000233833"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件一：動力用核子反應器設施除役期間應立即通報之情事及通報時限.ODT"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件二：動力用核子反應器設施除役期間應檢送書面報告之情事.ODT"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件三：研究用核子反應器設施除役期間應立即通報之情事.ODT"
+			]
+		}
 	],
 	"沿革內容": "1.中華民國九十三年七月十四日行政院原子能委員會會物字第 093002181\r\n  0 號令訂定發布全文 11 條；並自發布日施行\r\n2.中華民國一百零一年七月九日行政院原子能委員會會物字第 101001079\r\n  0 號令修正發布第 2  條條文\r\n3.中華民國一百零七年十一月十六日行政院原子能委員會會核字第 10700\r\n  136792  號令修正發布名稱及全文 16 條；並自發布日施行\r\n  （原名稱：核子反應器設施除役許可申請審核辦法；新名稱：核子反應\r\n  器設施除役許可申請審核及管理辦法）",
 	"法規內容": [

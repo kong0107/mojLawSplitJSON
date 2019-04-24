@@ -5,10 +5,30 @@
 	"法規網址": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0090002",
 	"最新英文異動日期": "20150730",
 	"附件": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000002860",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000002861",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004749",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004750"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment 1.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment 1.doc"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment 2.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment 2.doc"
+			]
+		}
 	],
 	"沿革內容": "1.As promulgated by MOTC Order No.06294 on July 16, 1975\r\n2.Amended by MOTC Order No.2379 on June 4, 1985\r\n3.Full text Amended by MOTC Order No. 88104 on November 24, 1999\r\n  There are 16 Articles in the Regulations.\r\n4.Amendments to Articles 1, 15 promulgated by MOTC Order No. 00081 on November 27, 2001；\r\n5.Amendments to Articles 1, 6~8, 11 promulgated by MOTC Order No. 0970085030 on May 2, 2008\r\n6.Amendment to Article 6 promulgated by MOTC Order No. 0990085031 on June 24, 2010\r\n7.Amendment to Articles 2, 3, 6~8, 8-1, 15, attachments 1, 2 promulgated by MOTC Order No.10150123961 on August 28, 2012\r\n8.Amendment to Articles 7, 8-1, promulgated by MOTC Order No.10250027001 on March 20, 2013\r\n9.Amendment to Article 5, 6, 7, 8 and addition of Article7-1,15-1,15-2 promulgated by MOTC Order No. 10450097191 on July 30, 2015",
 	"法規內容": [

@@ -7,7 +7,12 @@
 	"是否英譯註記": "Y",
 	"英文法規名稱": "Regulations Governing Issuance of NTD Bank Debentures by Foreign Bank Branches",
 	"附件": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000215631"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件：外國銀行在臺分行發行新臺幣金融債券申請書.PDF"
+			]
+		}
 	],
 	"沿革內容": "1.中華民國一百零七年四月十七日金融監督管理委員會金管銀外字第 107\r\n  02710830  號令訂定發布全文 13 條；並自發布日施行",
 	"法規內容": [

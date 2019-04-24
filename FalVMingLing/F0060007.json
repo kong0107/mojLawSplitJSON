@@ -7,9 +7,24 @@
 	"是否英譯註記": "Y",
 	"英文法規名稱": "Armed Forces Uniforms Act",
 	"附件": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000140594",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000140595",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000140596"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附圖一：軍常服制式圖.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附圖二：軍便服制式圖.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附圖三：帽徽、帽飾及階級標識制式圖.PDF"
+			]
+		}
 	],
 	"沿革內容": "1.中華民國九十六年十一月七日總統華總一義字第 09600147261  號令制\r\n  定公布全文 11 條；並自公布日施行                              \r\n2.中華民國一百零三年一月二十九日總統華總一義字第 10300011821  號\r\n  令修正公布全文 11 條；並自公布日施行",
 	"法規內容": [

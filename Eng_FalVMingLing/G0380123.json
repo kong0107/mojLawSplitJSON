@@ -6,8 +6,18 @@
 	"最新英文異動日期": "20100329",
 	"廢止註記": "廢",
 	"附件": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000000258",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004390"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment.doc"
+			]
+		}
 	],
 	"沿革內容": "1.Promulgated on 2001.10.31\r\n2.Amended on 2002.01.31\r\n3.Amended on 2005/06/14 per Order No. Jin-Kuan-Yin (2)-Zi-No.0942000051\r\n4.Amended on September 06, 2007\r\n5.Abolished on March 29, 2010",
 	"法規內容": [

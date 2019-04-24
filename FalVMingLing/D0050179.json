@@ -7,10 +7,30 @@
 	"是否英譯註記": "Y",
 	"英文法規名稱": "Regulations for Suspected Report and File Management of Delay Development Children",
 	"附件": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000112390",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000112391",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000235336",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000235337"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一：疑似發展遲緩兒童通報表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一：疑似發展遲緩兒童通報表.DOC"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二：疑似發展遲緩兒童通報回覆表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二：疑似發展遲緩兒童通報回覆表.DOC"
+			]
+		}
 	],
 	"沿革內容": "1.中華民國一百零一年五月二十九日內政部台內童字第 1010840183 號令\r\n  訂定發布全文 6  條；並自發布日施行",
 	"法規內容": [

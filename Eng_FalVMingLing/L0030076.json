@@ -5,8 +5,18 @@
 	"法規網址": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=L0030076",
 	"最新英文異動日期": "20130808",
 	"附件": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000002066",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000002067"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Appendix 1.pdf"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Appendix 2.pdf"
+			]
+		}
 	],
 	"沿革內容": "1.Promulgated on August 8, 2013",
 	"法規內容": [

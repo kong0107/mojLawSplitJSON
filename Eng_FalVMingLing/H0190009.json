@@ -5,8 +5,18 @@
 	"法規網址": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=H0190009",
 	"最新英文異動日期": "20080409",
 	"附件": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000001515",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004519"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment：Fee Standards.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment：Fee Standards.doc"
+			]
+		}
 	],
 	"沿革內容": "1.Promulgated on April 09, 2008",
 	"法規內容": [

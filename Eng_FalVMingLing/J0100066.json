@@ -5,8 +5,18 @@
 	"法規網址": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=J0100066",
 	"最新英文異動日期": "20110301",
 	"附件": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000001275",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004475"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Table 1.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Table 1.doc"
+			]
+		}
 	],
 	"沿革內容": "1. Enacted and promulgated by Ching-Piao-Tzu No.09204611270 of the Ministry of Economic Affairs on 10 September 2003\r\n2. Articles 3, 4, 9, 11, 12, and 15 amended and promulgated by Ching-Piao-Tzu No.10004601020 of the Ministry of Economic on March 1, 2011",
 	"法規內容": [

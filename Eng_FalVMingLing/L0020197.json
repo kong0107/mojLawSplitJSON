@@ -5,7 +5,12 @@
 	"法規網址": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=L0020197",
 	"最新英文異動日期": "20180511",
 	"附件": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000005137"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Appendix：A List of the Mountain Areas, Outlying Islands, and Remote Areas.pdf"
+			]
+		}
 	],
 	"沿革內容": "1.Promulgated on May 11, 2018",
 	"法規內容": [

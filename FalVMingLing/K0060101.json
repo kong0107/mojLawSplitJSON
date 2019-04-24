@@ -7,31 +7,156 @@
 	"是否英譯註記": "Y",
 	"英文法規名稱": "Examination Regulations for the License Renewal of Satellite Broadcasting and Foreign Satellite Broadcasting Businesses",
 	"附件": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000181408",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000181409",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000181410",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000181411",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000181419",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000181420",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000181421",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000181422",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000181424",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000181425",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000181426",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000181427",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000181428",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000181429",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000181430",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000181431",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000181432",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000201360",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000217898",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000217899",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000217900",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000217901",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000217902",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000217903",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000217904"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一之一直播衛星事業換照申請書.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一之二境外直播衛星事業換照申請書.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一之三節目供應事業換照申請書.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一之四境外節目供應事業換照申請書.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二之一直播衛星事業及境外直播衛星事業未來6年營運計畫摘要表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二之二節目供應事業及境外節目供應事業【一般頻道】未來6年營運計畫摘要表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二之三節目供應事業及境外節目供應事業【購物頻道】未來6年營運計畫摘要表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表三、未來6年營運計畫應載細項.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表四之一直播衛星事業及境外直播衛星事業執照期間第4年至執照屆滿6個月前（受評鑑期間）營運計畫執行報告應載細項及填寫說明.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表四之二節目供應事業及境外節目供應事業【一般頻道】執照期間第4年至執照屆滿6個月前（受評鑑期間）營運計畫執行報告應載細項及填寫說明.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表四之三節目供應事業及境外節目供應事業【購物頻道】執照期間第4年至執照屆滿6個月前（受評鑑期間）營運計畫執行報告應載細項及填寫說明.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表五之一評鑑應改善(或改正)事項之執行情形.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表五之二申設或前次換照及其他行政處分附款、承諾事項或行政指導之執行情形.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表六之一衛星廣播電視事業及境外衛星廣播電視事業營業收入明細表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表六之二衛星廣播電視事業及境外衛星廣播電視事業營業支出明細表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表六之三節目供應事業及境外節目供應事業上架統計表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表七之一董事名冊.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表七之二監察人名冊.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表七之三經理人名冊.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表七之四股東名冊.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表七之五捐助人名冊.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表八之一股權結構圖(範例).PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表八之二外國人持股比例計算表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表九之一衛星廣播電視事業-自然人切結書.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表九之二衛星廣播電視事業-法人切結書.PDF"
+			]
+		}
 	],
 	"沿革內容": "1.中華民國一百零五年七月六日國家通訊傳播委員會通傳內容字第 10548\r\n  018400  號令訂定發布全文 16 條；並自發布日施行\r\n2.中華民國一百零六年七月十八日國家通訊傳播委員會通傳內容字第 106\r\n  48020471  號令修正發布第 3  條條文之附表二之一、附表三、第 4  \r\n  條條文之附表二之一、附表三、第 5  條條文之附表二之二、附表二之\r\n  三、附表三、第 6  條條文之附表二之二、附表二之三、附表三；刪除\r\n  第 9  條條文\r\n3.中華民國一百零七年五月十七日國家通訊傳播委員會通傳內容字第 107\r\n  48012161  號令修正發布第 2  條條文及第 5、6 條條文之附表二之二\r\n  、附表二之三、第 3、4、5、6 條條文之附表三、第 3、4 條條文之附\r\n  表四之一、第 5、6 條條文之附表四之二、附表四之三及附表六之三",
 	"法規內容": [

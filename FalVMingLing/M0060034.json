@@ -7,10 +7,30 @@
 	"是否英譯註記": "Y",
 	"英文法規名稱": "Regulations for the Field Trial of Transgenic Breeding Livestock (Fowl) and the Bio-Safety Assessment",
 	"附件": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000021601",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000021602",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000233611",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000233612"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件基因轉殖種畜禽田間試驗申請書.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件基因轉殖種畜禽田間試驗申請書.DOC"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"格式一基因轉殖種畜禽特性資料說明書.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"格式一基因轉殖種畜禽特性資料說明書.DOC"
+			]
+		}
 	],
 	"沿革內容": "1.中華民國九十一年十一月十五日行政院農業委員會農牧字第 091004049\r\n  1 號令訂定發布全文 10 條；並自發布日施行",
 	"法規內容": [

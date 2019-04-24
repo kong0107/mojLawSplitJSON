@@ -7,10 +7,30 @@
 	"是否英譯註記": "Y",
 	"英文法規名稱": "Standards Governing the Accounting and Preparation of Financial Reports of Communications Foundations",
 	"附件": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000240710",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000240711",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000240712",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000240713"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"格式一資產負債表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"格式二收支餘絀表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"格式三淨值變動表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"格式四現金流量決算表.PDF"
+			]
+		}
 	],
 	"沿革內容": "1.中華民國一百零八年一月三十日國家通訊傳播委員會通傳綜規字第 108\r\n  40000830  號令訂定發布全文 20 條；並自一百零八年二月一日施行",
 	"法規內容": [

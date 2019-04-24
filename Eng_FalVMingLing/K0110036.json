@@ -5,7 +5,12 @@
 	"法規網址": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0110036",
 	"最新英文異動日期": "20180518",
 	"附件": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003932"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment.odt"
+			]
+		}
 	],
 	"沿革內容": "1.Promulgated on Nov. 1st, 2013.\r\n2.Amended on Dec. 28, 2017\r\n3.Amended on May 18, 2018",
 	"法規內容": [

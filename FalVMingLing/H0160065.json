@@ -7,10 +7,30 @@
 	"是否英譯註記": "Y",
 	"英文法規名稱": "Ministry of Science and Technology’s Regulations for the Awarding of Science and Technology Profession Medals",
 	"附件": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000223799",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000223800",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000223801",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000223802"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一 科技專業獎章式樣及圖說.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二 請頒科技專業獎章事實表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表三 獎章證書.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表四 英文證書.PDF"
+			]
+		}
 	],
 	"沿革內容": "1.中華民國一百零七年七月二十六日科技部科部人字第 1070049342A  號\r\n  令訂定發布全文 8  條；並自發布日施行",
 	"法規內容": [

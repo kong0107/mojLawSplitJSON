@@ -8,8 +8,18 @@
 	"是否英譯註記": "Y",
 	"英文法規名稱": "Petrochemical Industry Effluent Standards",
 	"附件": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000104263",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000235239"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表.DOC"
+			]
+		}
 	],
 	"沿革內容": "1.中華民國一百年十二月一日行政院環境保護署環署水字第 1000103848\r\n  號令訂定發布全文 10 條；除另定施行日期者外，自發布日施行\r\n2.中華民國一百零六年十二月二十五日行政院環境保護署環署水字第 106\r\n  0101606 號令發布廢止",
 	"法規內容": [

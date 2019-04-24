@@ -5,9 +5,24 @@
 	"法規網址": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0060107",
 	"最新英文異動日期": "20161208",
 	"附件": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003452",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003453",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003454"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attached Table  Application for Cable Radio and Television Terminal Equipment Certification Bodies.pdf"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Appendix I  Application for Cable Radio and Television Terminal Equipment Certification Body.pdf"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Appendix II  Cable Radio and Television Terminal Equipment Certification Body Accreditation Certificate.pdf"
+			]
+		}
 	],
 	"沿革內容": "1.Promulgated on December 8, 2016",
 	"法規內容": [

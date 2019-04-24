@@ -7,9 +7,24 @@
 	"是否英譯註記": "Y",
 	"英文法規名稱": "Regulations Governing the Production and Issuance of the National Health Insurance IC Card and Data Storage",
 	"附件": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000119715",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000178834",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000235408"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一：健保卡得存取資料內容.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一：健保卡得存取資料內容.DOC"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二：保險醫事服務機構應上傳之就醫紀錄內容.ODT"
+			]
+		}
 	],
 	"沿革內容": "1.中華民國一百零一年十月三十日行政院衛生署衛署健保字第 101266026\r\n  2 號令訂定發布全文 17 條；並自一百零二年一月一日施行\r\n2.中華民國一百零五年五月十七日衛生福利部衛部保字第 1051260303 號\r\n  令修正發布第 2～4、8、11、15、17  條條文及第 10 條附表二；增訂\r\n  第 4-1  條條文；並自發布日施行\r\n3.中華民國一百零七年五月十八日衛生福利部衛部保字第 1071260237 號\r\n  令修正發布第 4、4-1 條條文",
 	"法規內容": [

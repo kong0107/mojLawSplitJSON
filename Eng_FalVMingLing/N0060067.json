@@ -5,7 +5,12 @@
 	"法規網址": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=N0060067",
 	"最新英文異動日期": "20170925",
 	"附件": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003791"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Appendix.PDF"
+			]
+		}
 	],
 	"沿革內容": "1.9 Articles adopted and promulgated in full by Ministerial Order on January 1, 2015.\r\n2.Articles 4, 5, 8, 9 and Appendix amended and promulgated by Ministerial Order on September 25, 2017",
 	"法規內容": [

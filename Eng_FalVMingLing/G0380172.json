@@ -5,7 +5,12 @@
 	"法規網址": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0380172",
 	"最新英文異動日期": "20150917",
 	"附件": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000002893"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Appendix Calculation Example.pdf"
+			]
+		}
 	],
 	"沿革內容": "1.Full text of 23 articles adopted and promulgated on 30 September 2003 \r\n2.Article 6 amended and issued on 3 June 2004 \r\n3.Full text of 26 articles amended and issued on 1 April 2010\r\n4.Article 12 amended and issued on 17 September 2015",
 	"法規內容": [

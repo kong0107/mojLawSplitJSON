@@ -5,8 +5,18 @@
 	"法規網址": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=L0030055",
 	"最新英文異動日期": "20170330",
 	"附件": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000002522",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004677"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Appendix：Essential Principles (EP), and Summary of Technical Documentation.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Appendix：Essential Principles (EP), and Summary of Technical Documentation.doc"
+			]
+		}
 	],
 	"沿革內容": "1.Promulgated on December 30, 2004 \r\n2.Amended on June 20, 2005 \r\n3.Amended on October 24, 2005 \r\n4.Amended on April 12, 2006 \r\n5.Amended on September 7, 2010 \r\n6.Amended on September 5, 2014\r\n7.Amended on March 30, 2017",
 	"法規內容": [

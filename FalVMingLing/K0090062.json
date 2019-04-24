@@ -7,9 +7,24 @@
 	"是否英譯註記": "Y",
 	"英文法規名稱": "Regulations Governing the Safe Transport of Dangerous Goods by Air",
 	"附件": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000052306",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000234299",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000237259"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件一申請書.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件一申請書.DOC"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件二危險物品事件報告.ODT"
+			]
+		}
 	],
 	"沿革內容": "1.中華民國九十七年二月二十五日交通部交航字第 0970085011 號令訂定\r\n  發布全文 36 條；並自發布日施行\r\n2.中華民國一百零七年十二月十日交通部交航字第 10750162871  號令修\r\n  正發布第 18、24～26、32、35 條條文；增訂第 34-1 條條文",
 	"法規內容": [

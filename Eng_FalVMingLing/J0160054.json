@@ -5,9 +5,24 @@
 	"法規網址": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=J0160054",
 	"最新英文異動日期": "20181116",
 	"附件": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000005010",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000005011",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000005012"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Annexed 1.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Annexed 2.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Annexed 3.PDF"
+			]
+		}
 	],
 	"沿革內容": "1.Promulgated and enforced by Letter Hui-Wu-Tzu No. 0930021810 on July 14th, 2004\r\n2.Amendment of Articles 2 on July 9, 2012 by the Atomic Energy Council per its decree No. Hui-Wu-Tzu-1010010790\r\n3.Amendment of all Articles on November 16, 2018 by the Atomic Energy Council, Executive Yuan per its Decree No. Huei-He-Tzu-10700136792.",
 	"法規內容": [

@@ -5,8 +5,18 @@
 	"法規網址": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=J0160073",
 	"最新英文異動日期": "20060427",
 	"附件": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000001507",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004512"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment：The Duplicating or Copying the Government Information Fee Standard Table.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment：The Duplicating or Copying the Government Information Fee Standard Table.doc"
+			]
+		}
 	],
 	"沿革內容": "1.Announced Date 2006.04.27",
 	"法規內容": [

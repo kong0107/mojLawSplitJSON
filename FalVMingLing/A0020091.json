@@ -7,8 +7,18 @@
 	"是否英譯註記": "Y",
 	"英文法規名稱": "Regulations of Uniforms for Judge, Prosecutor, Public Defender, Attorney and Court Clerk",
 	"附件": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000210826",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000210827"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附圖（一）.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附圖（二）.PDF"
+			]
+		}
 	],
 	"沿革內容": "1.中華民國七十九年八月六日司法院（79）院台廳四字第 04799  號、行\r\n  政院（79）台法字第 20819 令會同訂定發布全文 6 條\r\n2.中華民國九十三年十二月二十九日司法院院台廳司一字第 0930031514 \r\n  號令、行政院院臺法字第 0930056008 號令會銜修正發布第 4、5 條條\r\n  文",
 	"法規內容": [

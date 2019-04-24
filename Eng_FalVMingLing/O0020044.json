@@ -5,7 +5,12 @@
 	"法規網址": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=O0020044",
 	"最新英文異動日期": "20021016",
 	"附件": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000001711"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Table of International Toxicity Equivalency Factor Values.pdf"
+			]
+		}
 	],
 	"沿革內容": "1.Full text originally promulgated by Environmental Protection Administration order on December 12, 2001; Article 1 revised and\r\n2.promulgated by Environmental Protection Administration order on October 16, 2002.",
 	"法規內容": [

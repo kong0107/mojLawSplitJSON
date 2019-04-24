@@ -5,8 +5,18 @@
 	"法規網址": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0020068",
 	"最新英文異動日期": "20080430",
 	"附件": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000000454",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004416"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Appendix.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Appendix.doc"
+			]
+		}
 	],
 	"沿革內容": "1.Promulgated on April 30, 2008",
 	"法規內容": [

@@ -7,8 +7,18 @@
 	"是否英譯註記": "Y",
 	"英文法規名稱": "Permit and Management Regulations for Children and Youth Adoption Service Providers",
 	"附件": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000112295",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000235335"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表.DOC"
+			]
+		}
 	],
 	"沿革內容": "1.中華民國九十三年六月二十四日內政部臺內童字第 0930093719 號令訂\r\n  定發布全文 13 條；並自發布日施行\r\n2.中華民國一百零一年五月二十三日內政部台內童字第 1010840085 號令\r\n  修正發布名稱及全文 35 條；並自一百零一年五月三十日施行\r\n  （原名稱：兒童及少年福利機構從事收出養服務許可及管理辦法；新名\r\n  稱：兒童及少年收出養媒合服務者許可及管理辦法）\r\n3.中華民國一百零四年十二月十八日衛生福利部部授家字第 1040901110 \r\n  號令修正發布第 1、35  條條文；並自發布日施行",
 	"法規內容": [

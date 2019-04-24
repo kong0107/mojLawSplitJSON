@@ -7,8 +7,18 @@
 	"廢止註記": "廢",
 	"是否英譯註記": "N",
 	"附件": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000084749",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000232848"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"新北市政府編制表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"新北市政府編制表.DOC"
+			]
+		}
 	],
 	"沿革內容": "1.中華民國九十九年十月八日行政院院臺秘字第 0990104070 號令訂定發\r\n  布全文 15 條暨編制表；並自九十九年十二月二十五日施行\r\n2.中華民國一百零一年一月三十一日行政院院臺綜字第 1010000068 號令\r\n  發布廢止",
 	"法規內容": [

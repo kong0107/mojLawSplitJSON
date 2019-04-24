@@ -7,12 +7,42 @@
 	"是否英譯註記": "Y",
 	"英文法規名稱": "Regulations for the Approval and Management of the Exporters of Catches or Fisheries Products of Distant Water Fisheries",
 	"附件": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000224508",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000224509",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000224510",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000224511",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000224512",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000224513"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件一  遠洋漁業相關業者從事需經主管機關核准始得出口之遠洋漁業漁獲物或漁產品種類一覽表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件二  遠洋魚貨出口業者核准申請書.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件三  業務營運說明書.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件四  遠洋漁業漁獲物或漁產品採購、銷售及庫存資料申報格式.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件五  稽核項目及基準.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件六  風險基準表.PDF"
+			]
+		}
 	],
 	"沿革內容": "1.中華民國一百零六年一月二十日行政院農業委員會農漁字第 106133207\r\n  0 號令訂定發布全文 18 條；並自一百零六年一月二十日施行\r\n2.中華民國一百零七年八月七日行政院農業委員會農漁字第 1071336070\r\n  號令修正發布全文 20 條；並自發布日施行",
 	"法規內容": [

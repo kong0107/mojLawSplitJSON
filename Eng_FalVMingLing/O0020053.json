@@ -5,9 +5,24 @@
 	"法規網址": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=O0020053",
 	"最新英文異動日期": "20041215",
 	"附件": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000001687",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000001688",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000001689"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Appendix 1 Required Items for Recall and Correction Plans.pdf"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Appendix 2 Required Items for Recall and Correction Records.pdf"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Appendix 3 Required Items for Written Notification of Recall and Correction.pdf"
+			]
+		}
 	],
 	"沿革內容": "1.Promulgated on February 12, 2003\r\n2.Revisions to Appendix 2 promulgated on December 15, 2004",
 	"法規內容": [

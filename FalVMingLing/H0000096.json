@@ -7,8 +7,18 @@
 	"廢止註記": "廢",
 	"是否英譯註記": "N",
 	"附件": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000056577",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000232758"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"國立臺中圖書館編制表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"國立臺中圖書館編制表.DOC"
+			]
+		}
 	],
 	"沿革內容": "1.中華民國九十七年七月三十日教育部台參字第 0970143012C  號令訂定\r\n  發布全文 5  條及編制表；並自發布日施行  \r\n2.中華民國一百零一年十二月三十日教育部臺秘企字第 1010252736B  號\r\n  令發布廢止",
 	"法規內容": [

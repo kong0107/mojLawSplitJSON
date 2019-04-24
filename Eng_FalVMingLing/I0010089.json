@@ -5,7 +5,12 @@
 	"法規網址": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=I0010089",
 	"最新英文異動日期": "20160831",
 	"附件": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003841"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"attachment.PDF"
+			]
+		}
 	],
 	"沿革內容": "1.Issued on Oct. 05, 2011\r\n2.Date (Announced):October 5, 2011 Date (Amended):August 31, 2016",
 	"法規內容": [

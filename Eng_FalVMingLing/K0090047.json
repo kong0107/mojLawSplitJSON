@@ -5,8 +5,18 @@
 	"法規網址": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0090047",
 	"最新英文異動日期": "20170915",
 	"附件": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003830",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003836"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment 1 Acknowledgement of Agreement for Civil Aviation passengers to Disembark.odt"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment 2 Individual Complaint by Passenger.odt"
+			]
+		}
 	],
 	"沿革內容": "1.Promulgated on April 4, 2002 by CAA\r\n2.Amendments of Articles 2,6,7 promulgated by CAA Order No.0044 on April 29, 2010\r\n3.Amendments of Articles 3 and addition of Article3-1 promulgated by CAA Order No.1065019862 on September 15, 2017",
 	"法規內容": [

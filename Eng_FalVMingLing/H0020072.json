@@ -5,8 +5,18 @@
 	"法規網址": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=H0020072",
 	"最新英文異動日期": "20160518",
 	"附件": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003784",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004963"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Appendix.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Appendix.doc"
+			]
+		}
 	],
 	"沿革內容": "1.Announced on May 30th,2007\r\n2.Amended on Apr. 1th,2010\r\n3.Amended on May 18th,2016",
 	"法規內容": [

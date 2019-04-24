@@ -7,9 +7,24 @@
 	"是否英譯註記": "Y",
 	"英文法規名稱": "Regulations for the Inspection and Examination of Imported Medicaments",
 	"附件": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000225994",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000225995",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000225996"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表三.PDF"
+			]
+		}
 	],
 	"沿革內容": "1.中華民國一百零二年五月十三日行政院衛生署署授食字第 1021600820\r\n  號令訂定發布全文 24 條；並自發布日施行\r\n2.中華民國一百零四年七月三日衛生福利部部授食字第 1041603996 號令\r\n  修正發布第 24 條條文及第 22 條條文之附表二；並自一百零四年七月\r\n  一日施行\r\n3.中華民國一百零七年八月二十二日衛生福利部衛授食字第 1071403424 \r\n  號令修正發布第 3、11、22  條條文；並增訂第 4-1 條條文",
 	"法規內容": [

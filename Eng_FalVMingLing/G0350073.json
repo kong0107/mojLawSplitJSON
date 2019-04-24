@@ -5,12 +5,42 @@
 	"法規網址": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0350073",
 	"最新英文異動日期": "20170614",
 	"附件": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000002614",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000002615",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000002616",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004698",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004699",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004700"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Table 2：Criteria for the Performance of General Mechanical Seals.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Table 2：Criteria for the Performance of General Mechanical Seals.doc"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Table 3：Criteria for the Performance of Passive Electronic Seals.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Table 3：Criteria for the Performance of Passive Electronic Seals.doc"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Table 4：Criteria for the Performance of Active Electronic Seals.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Table 4：Criteria for the Performance of Active Electronic Seals.doc"
+			]
+		}
 	],
 	"沿革內容": "1.Promulgated on January 06, 2015\r\n2.Amended on June 14, 2017",
 	"法規內容": [

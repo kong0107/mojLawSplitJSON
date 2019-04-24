@@ -6,12 +6,42 @@
 	"最新異動日期": "20151030",
 	"是否英譯註記": "N",
 	"附件": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000168488",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000168489",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000168490",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000236241",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000236242",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000236243"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"格式一、○○○○法院閱卷聲請書.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"格式一、○○○○法院閱卷聲請書.DOC"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"格式二、書記官交付卷宗登記簿.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"格式二、書記官交付卷宗登記簿.DOC"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"格式三、閱卷登記簿.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"格式三、閱卷登記簿.DOC"
+			]
+		}
 	],
 	"沿革內容": "1.中華民國九十九年十一月四日司法院院台廳行一字第 0990026731 號令\r\n  訂定發布全文 28 條；並自發布日施行\r\n2.中華民國一百零四年十月三十日司法院院台廳行一字第 1040027736 號\r\n  令修正發布第 4、6、13～17、23 條條文",
 	"法規內容": [

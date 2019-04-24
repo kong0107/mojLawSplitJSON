@@ -5,12 +5,42 @@
 	"法規網址": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=L0070002",
 	"最新英文異動日期": "20120405",
 	"附件": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000001568",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000001569",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000001570",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004543",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004544",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004545"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Annex I Items of health or pre-marital examination.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Annex I Items of health or pre-marital examination.doc"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Annex II Scope of medical grounds for the identification of pregnancy or childbirth which might lead to life-threatening or endanger physical or mental health.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Annex II Scope of medical grounds for the identification of pregnancy or childbirth which might lead to life-threatening or endanger physical or mental health.doc"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Annex III The scope of the relevant medical reasons in identifying potential abnormal development on fetus.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Annex III The scope of the relevant medical reasons in identifying potential abnormal development on fetus.doc"
+			]
+		}
 	],
 	"沿革內容": "1.Promulgated on January 04, 1985\r\n2.Amended on May 09, 2000\r\n3.Amended on April 05, 2012",
 	"法規內容": [

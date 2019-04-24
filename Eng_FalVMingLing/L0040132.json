@@ -5,8 +5,18 @@
 	"法規網址": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=L0040132",
 	"最新英文異動日期": "20160311",
 	"附件": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003129",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004834"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment.doc"
+			]
+		}
 	],
 	"沿革內容": "1.Promulgated on March 11, 2016",
 	"法規內容": [

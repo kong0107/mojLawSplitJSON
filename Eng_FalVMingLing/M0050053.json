@@ -5,8 +5,18 @@
 	"法規網址": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=M0050053",
 	"最新英文異動日期": "20180928",
 	"附件": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004985",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004986"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Appendix 1 Manufacturers and Types of the Automatic Location Communicator (ALC).pdf"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Appendix 2 Specifications on the Software and Hardware of the Electronic Logbook System.pdf"
+			]
+		}
 	],
 	"沿革內容": "1.The full text of seven articles promulgated on 19 January 2017 by the Council of Agriculture, Executive Yuan under Order No. Nung-Yu-Tzu 1061332055.\r\n2.Article 7, appendix 1 of Article 2, and appendix 2 of Article 3 amended and promulgated on 3 January 2018 by the Council of Agriculture, Executive Yuan under Order No. Nung-Yu-Tzu 1061339891.\r\n3.Appendix 2 of Article 3 amended and promulgated on 28 September 2018 by the Council of Agriculture, Executive Yuan under Order No. Nung-Yu-Tzu 1071337256.",
 	"法規內容": [

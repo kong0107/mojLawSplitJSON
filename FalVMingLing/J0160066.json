@@ -7,8 +7,18 @@
 	"是否英譯註記": "Y",
 	"英文法規名稱": "Regulations on Clearance Level for Radioactive Waste Management",
 	"附件": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000022001",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000233646"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一定活度或比活度以下放射性廢棄物之限值.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一定活度或比活度以下放射性廢棄物之限值.DOC"
+			]
+		}
 	],
 	"沿革內容": "1.中華民國九十三年十二月二十九日行政院原子能委員會會物字第 09300\r\n  47668 號令訂定發布全文 8  條；並自發布日施行",
 	"法規內容": [

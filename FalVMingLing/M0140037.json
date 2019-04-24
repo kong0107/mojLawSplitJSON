@@ -7,12 +7,42 @@
 	"廢止註記": "廢",
 	"是否英譯註記": "N",
 	"附件": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000136682",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000136683",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000136684",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000235628",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000235629",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000235630"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一：試驗、研究、檢測、鑑定項目及其費額表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一：試驗、研究、檢測、鑑定項目及其費額表.DOC"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二：標準品供應項目及其費額表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二：標準品供應項目及其費額表.DOC"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表三：技術諮商指導、教育訓練測驗項目及其費額表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表三：技術諮商指導、教育訓練測驗項目及其費額表.DOC"
+			]
+		}
 	],
 	"沿革內容": "1.中華民國一百零二年十一月十二日行政院農業委員會農藥試字第 10226\r\n  29974 號令訂定發布全文 8  條；並自發布日施行\r\n2.中華民國一百零二年十二月十二日行政院農業委員會農藥試字第 10226\r\n  36131 號令發布廢止",
 	"法規內容": [

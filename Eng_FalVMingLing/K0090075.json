@@ -5,8 +5,18 @@
 	"法規網址": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0090075",
 	"最新英文異動日期": "20130916",
 	"附件": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000001346",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004476"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Appendix   Charge for Business Courtesy Clearance.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Appendix   Charge for Business Courtesy Clearance.doc"
+			]
+		}
 	],
 	"沿革內容": "1. Promulgated on November 10, 2010\r\n2. Amended on Oct 25, 2011\r\n3. Article 8 amended on Sep 16, 2013",
 	"法規內容": [

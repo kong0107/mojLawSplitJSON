@@ -8,8 +8,18 @@
 	"是否英譯註記": "Y",
 	"英文法規名稱": "Optoelectronic Material and Element Manufacturing Industry Air Pollution Control and Emission Standards",
 	"附件": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000031089",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000233864"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表污染防制設備操作運轉記錄項目.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表污染防制設備操作運轉記錄項目.DOC"
+			]
+		}
 	],
 	"沿革內容": "1.中華民國九十五年一月五日行政院環境保護署環署空字第 0950000717\r\n  號令訂定發布全文 10 條；本標準除另定施行日期者外，自發布日施行",
 	"法規內容": [

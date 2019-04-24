@@ -7,9 +7,24 @@
 	"廢止註記": "廢",
 	"是否英譯註記": "N",
 	"附件": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000128521",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000128522",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000128523"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一 全民防衛動員計畫指導體系一覽表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二 全民防衛動員準備業務指導體系.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表三 中央全民防衛動員準備業務會報編組表.PDF"
+			]
+		}
 	],
 	"沿革內容": "1.中華民國八十六年五月二十八日行政院（86）台防字第 21461  號令訂\r\n  定發布全文 45 條\r\n2.中華民國九十年十二月二十七日行政院（90）台防字第 074596 號令發\r\n  布廢止",
 	"法規內容": [

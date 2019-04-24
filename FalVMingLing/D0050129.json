@@ -7,10 +7,30 @@
 	"是否英譯註記": "Y",
 	"英文法規名稱": "Regulations of Title Change of Land and Improved Buildings for Credit Unions",
 	"附件": [
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000028201",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000028202",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000233741",
-		"https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000233742"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件一儲蓄互助社土地、建築改良物以他人名義登記實際為儲蓄互助社所有更名申請書.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件一儲蓄互助社土地、建築改良物以他人名義登記實際為儲蓄互助社所有更名申請書.DOC"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件二００市／縣市政府證明書.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件二００市／縣市政府證明書.DOC"
+			]
+		}
 	],
 	"沿革內容": "1.中華民國九十一年十二月十八日內政部臺內中社字第 0910082787 號令\r\n  訂定發布全文 6  條；並自發布日施行",
 	"法規內容": [

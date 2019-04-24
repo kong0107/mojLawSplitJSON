@@ -5,10 +5,30 @@
 	"法規網址": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=A0030192",
 	"最新英文異動日期": "20020311",
 	"附件": [
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000000032",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000000033",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004361",
-		"https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004362"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Schedule 1.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Schedule 1.doc"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Schedule 2.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Schedule 2.doc"
+			]
+		}
 	],
 	"沿革內容": "(promulgated on March 11, 2002)",
 	"法規內容": [
