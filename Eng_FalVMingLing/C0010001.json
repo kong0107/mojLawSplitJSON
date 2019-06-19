@@ -4,7 +4,7 @@
 	"english": "The Code of Criminal Procedure",
 	"title": "刑事訴訟法",
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=C0010001",
-	"englishUpdate": "20071212",
+	"englishUpdate": "20171116",
 	"history": [
 		"Promulgated on July 28, 1928",
 		"Amended on January 1, 1935",
@@ -31,7 +31,8 @@
 		"Amended on June 14, 2006",
 		"Amended on March 21, 2007",
 		"Amended on July 4, 2007",
-		"Amended on December 12, 2007"
+		"Amended on December 12, 2007",
+		"Amended on November 16, 2017"
 	],
 	"divisions": [
 		{
@@ -284,6 +285,13 @@
 		},
 		{
 			"type": "part",
+			"number": 702,
+			"title": "",
+			"start": 45512,
+			"end": 45537
+		},
+		{
+			"type": "part",
 			"number": 800,
 			"title": "Execution",
 			"start": 45600,
@@ -404,7 +412,7 @@
 		},
 		{
 			"number": 2700,
-			"content": "An accused may at any time retain defense attorneys.  The same rule shall apply to a suspect being interrogated by judicial police officers or judicial policemen.\r\nA statutory agent, spouse, lineal blood relative, collateral blood relative within the third degree of kinship, family head, or family member may independently retain defense attorneys for the accused or suspect.\r\nIn case an accused or a suspect is unable to make a complete statement due to unsound mind, the persons listed in the preceding section shall be notified of the same, provided that the said notification is not required if it can not be made practically.\r\n\r\nNote: Articles 1 through 343 were amended lastly on February 6, 2003."
+			"content": "The accused may at any time retain defense attorneys. The same rule applies to a suspect under investigation by judicial police officers or judicial policemen.\r\nA statutory agent, spouse, lineal blood relative, collateral blood relative within the third degree of kinship, head of the household, or family member may independently retain a defense attorney for the accused or suspect.\r\nIf the accused or suspect is unable to make a complete statement due to mental disorder or other mental deficiencies, a person from the group as described in the preceding paragraph, shall be notified to retain a defense attorney for the accused or suspect. However, this rule does not apply where a person from the said group cannot be reached."
 		},
 		{
 			"number": 2800,
@@ -420,7 +428,11 @@
 		},
 		{
 			"number": 3100,
-			"content": "In cases where the minimum punishment is no less than three years imprisonment, where a high court has jurisdiction over the first instance, or where the accused is unable to make a complete statement due to unsound mind, the presiding judge shall appoint a public defender or a lawyer to defend the accused if no defense attorney has been retained; in other cases, if no defense attorney has been retained by an accused with low income and a request for appointing one has been submitted, or if it is considered necessary, the same rule shall apply.\r\nIf in the case specified in the preceding section a retained defense attorney fails to appear without good reason on the trial date, the presiding judge may appoint a public defender.\r\nOne public defender may be appointed to defend several defendants unless their interests conflict.\r\nAfter a public defender has been appointed, such appointment may be cancelled upon the retention of a lawyer as a defense attorney.\r\n\r\nNote: Articles 1 through 343 were amended lastly on February 6, 2003."
+			"content": "If the accused has not retained a defense attorney in any one of the following circumstances, the presiding judge shall appoint a public defender or attorney for the defendant:\r\n1. Where the minimum punishment is no less than three-year imprisonment. \r\n2. Where a high court has jurisdiction over the first instance.\r\n3. Where the accused is unable to make a complete statement due to mental disorder or other mental deficiencies.\r\n4. Where the accused is an aborigine, and is being prosecuted or is put on trial following normal proceedings.\r\n5. Where the accused's income level is low or middle-to-low, and has submitted a request for an appointment of a public defender or attorney.\r\n6. Where the presiding judge deems it necessary for the case. \r\nIf the retained attorney, in the said case as described in the preceding paragraph, without just cause, does not appear in court during the trial dates, the presiding judge may appoint a public defender or attorney.\r\nA single public defender may be appointed to represent more than one accused. However, this rule does not apply where there is conflict of interests between the accused.\r\nWhere after a public defender is appointed, the accused who retains a defense attorney may revoke the appointment.\r\nIf the accused or suspect, who is unable to make a complete statement due to mental disorder or other mental deficiencies, or who is an aborigine, has not retained a defense attorney during an investigation, the prosecutor, judicial police officer, or judicial police should notify a legally established legal aid agency to assign an attorney for the accused's or suspect's defense. However, if the accused or suspect requests an immediate interrogation or questioning, or if the defense attorney is not present after more than a four-hour wait, the interrogation or questioning may be commenced."
+		},
+		{
+			"number": 3101,
+			"content": "If the defendant has not retained a defense attorney during the detention hearing of an investigation, the presiding judge shall appoint a public defender or attorney for the accused. However, this rule does not apply where the wait for the appointed defense attorney's appearance exceeds four hours, and the accused requests the commencement of the interrogation.\r\nIf the retained defense attorney, as described in the preceding paragraph, does not appear in court without just cause, the presiding judge may appoint a public defender or attorney.\r\nThe provisions of Paragraphs 3 and 4 of the preceding Article apply mutatis mutandis to the conditions as described in Paragraph 1."
 		},
 		{
 			"number": 3200,
@@ -431,12 +443,20 @@
 			"content": "A defense attorney may examine the case file and exhibits and make copies or photographs thereof.\r\n\r\nNote: Articles 1 through 343 were amended lastly on February 6, 2003."
 		},
 		{
+			"number": 3301,
+			"content": "Unless stipulated otherwise, the defense attorney may inspect the case file and evidence, as well as copy, or film, during a detention hearing proceedings of an investigation.\r\nThe evidence or information as described in the preceding paragraph, that the defense attorney possesses or is aware of, shall not be made public, revealed or used for illegitimate purposes.\r\nFor an accused without the representation of an attorney during the detention hearing proceedings of an investigation, the court shall present the accused with the contents of the case file and evidence by using appropriate methods."
+		},
+		{
 			"number": 3400,
-			"content": "A defense attorney may interview and correspond with a suspect or an accused under detention, provided that if facts exist sufficient to justify an apprehension that such defense attorney may destroy, fabricate, or alter evidence or form a conspiracy with a co-offender or witness, such interviews or correspondence may be limited.\r\n\r\nNote: Articles 1 through 343 were amended lastly on February 6, 2003."
+			"content": "The defense attorney may interview, and have correspondence with, the accused in detention. Such rights may not be restricted, unless there is sufficient evidence to prove that the attorney may destroy, fabricate, or alter evidence, or may collude with accomplices or witnesses.\r\nThe interview and correspondence between a defense attorney and the accused, or suspect, who is arrested with or without a warrant during an investigation, shall not be restricted. However, the duration of the interview shall not exceed one hour, and the number of interviews is limited to one time only. The elapsed time of the interview shall be deemed as one of the conditions, which is to be excluded from the 24-hour calculation as provided for in Article 93-1. \r\nWhen it is in an urgent situation and the prosecutor has valid reasons, the interview as described in the preceding paragraph may be postponed, and the prosecutor may designate the time and place for an immediate interview. Such a designation shall not jeopardize the legitimate defense of the accused, or suspect, and the defense attorney's rights as described in the provisions of the first half of paragraph 2 of Article 245."
+		},
+		{
+			"number": 3401,
+			"content": "To restrict the interview or correspondence between the defense attorney and the accused in detention, a restriction order shall be issued.\r\nA restriction order shall be furnished with following information: \r\n1. The accused's name, gender, age, domicile or residence, and the defense attorney's name;\r\n2. Case summary.\r\n3. Specific reasons for the restriction, and the facts on which they are based.\r\n4. Specific methods for the restriction.\r\n5. Remedial actions may be taken if there is an objection to the restriction order.\r\nThe provisions of Article 71 paragraph 3 shall apply mutatis mutandis to the restriction order.\r\nThe restriction order, after it is signed by the judge, is sent to the prosecutor, the detention center, the defense attorney, and the accused.\r\nWhere it is deemed by the prosecutor as necessary to impose restrictions during the investigation, a written request, furnished with information as described in Paragraph 2, Subparagraphs 1 through 4, along with relevant documents, shall be submitted to the concerned court for such a restriction. However, in the case of an urgent situation, a restriction may be imposed first, and application for a restriction order shall be submitted to the concerned court within 24 hours. The concerned court shall respond with a decision within 48 hours of accepting the application. If the prosecutor does not submit the request within 24 hours, or if the request is rejected, the restriction shall be terminated.\r\nIf the request, as described in the preceding paragraph, is rejected, the decision shall not be challenged."
 		},
 		{
 			"number": 3500,
-			"content": "A spouse, lineal blood relative, collateral blood relative within the third degree of kinship, family head, or family member of an accused or private prosecutor or a statutory agent of an accused may, after initiation of prosecution, apply to the court in writing, or verbally on the trial date, for permission to act as the assistant of the accused or private prosecutor.\r\nThe assistant may take actions provided in this code, and may state his opinion in court not inconsistent with the expressed opinion of the accused or the private prosecutor.\r\nIn cases an accused or a suspect is unable to make a complete statement due to unsound mind, he shall be accompanied by one of the qualified assistant, under the first section of this article, or his authorized agent, or a social worker appointed by a governmental agency in charge thereof; provided that if, upon being properly served, the persons who shall accompany the accused or suspect fail to appear without good reason, the provision of this section shall not apply.\r\n\r\nNote: Articles 1 through 343 were amended lastly on February 6, 2003."
+			"content": "After the prosecution has been commenced, a spouse, lineal blood relative, collateral blood relative within the third degree of kinship, head of the household, family member, or statutory agent of the accused or private prosecutor may apply to the court in a written, or in an oral statement, on the trial date, for permission to act as the assistant of the accused, or private prosecutor.\r\nAn assistant may act upon the suit as described in this Act, and may make statements in the court. However, such statements may not be contrary to the clearly expressed opinion of the accused or private prosecutor. \r\nIf the accused or suspect is unable to make a complete statement due to mental disorder or other mental deficiencies, he/she shall be accompanied by an assistant, as described in the first paragraph of this article, or by an authorized agent, or a social worker, appointed by a governmental agency or a relevant social welfare organization, or accompanied by other professionals. However, this rule does not apply, where the said accompanying assistant, after a legal notification is served, fails to appear in court without just cause."
 		},
 		{
 			"number": 3600,
@@ -684,11 +704,11 @@
 		},
 		{
 			"number": 9300,
-			"content": "An accused or a suspect who is arrested with or without a warrant shall be examined immediately. \r\nAt the stage of investigation, the public prosecutor shall, if he deems a detention is necessary after examining the arrestee, apply for a detention order from the court, having jurisdiction over the case, within twenty-four hours from the time of making the arrest with or without a warrant.\r\nUnless a detention order has been applied for under the provision of the preceding section, the public prosecutor shall release the accused immediately.  If it is considered that application for detention is not necessary notwithstanding the existence of one of the circumstances listed in section I of Article 101 or section I of Article 101-1, the arrestee may be released on bail, to the custody of another, or with a limitation on his residence; if these requirements cannot be met, and if the circumstances justify such necessity, the public prosecutor may apply for detention order.\r\nThe provisions of sections one through three of this article shall apply, mutatis mutandis, to cases where the public prosecutor takes an accused transferred from a court in accordance with the Code of Juvenile Matter Arrangement, or from the court martial in accordance with Code of Martial Trial.\r\nA court, after receiving application for detention order in accordance with the preceding three sections, shall examine the arrestee immediately.\r\n\r\nNote: Articles 1 through 343 were amended lastly on February 6, 2003."
+			"content": "An accused or a suspect, arrested with or without a warrant, shall be interrogated immediately.\r\nDuring the investigation, if the prosecutor deems it necessary to detain the accused or suspect after interrogation, a petition that states the facts and details of the alleged criminal offenses, legal grounds, evidence and reasons for custody, along with prepared written copies, the case file and evidence, shall be submitted to the concerned court for a detention order, within 24 hours of making the arrest, with or without a warrant. However, documentation with supporting facts that actions, such as destroying, fabricating, and altering evidence, or colluding with accomplices or witnesses, that endanger the integrity of the investigation, or that endanger other people's lives, or bodies, should be submitted separately with clear reasoning, requesting that the court use appropriate approaches to restrict or prohibit the accused and the defense attorney from obtaining such case file and evidence.\r\nWhere there is not a petition to the court concerning the situation as described in the preceding paragraph, the prosecutor shall immediately release the accused. However, if any one of the situations, as described in Article 101 Paragraph 1, or any of the subparagraphs of Article 101-1 Paragraph 1 occurs, although it is deemed unnecessary to detain, then release on bail, release to other's custody, or house arrest may be ordered. But If release on bail, release to other's custody, or house arrest cannot be ordered, although deemed necessary, then a court order for detention is still required.\r\nThe provisions as described in the preceding three paragraphs apply mutatis mutandis to where the prosecutor is accepting the accused as forwarded by the court in accordance with the Juvenile Delinquency Act, or by the military court in accordance with the Code of Court Martial Procedure.\r\nWhen accepting the petition for detention, as described in the preceding three paragraphs, the court shall immediately begin the interrogation after giving the accused and the defense attorney a written copy of the petition. However, if the interrogation is not completed by late night, the accused, the defense attorney, or the person acting as the accused's assistant, may petition the court to continue interrogation during the daytime of the following day. Unless the court has proper justification, the court shall not refuse the request. If the petition is accepted late at night, the interrogation may begin during the daytime of the following day.\r\nThe term late night, as described in the proviso of the preceding paragraph, refers to the hours between 11 pm through 8 am the next day."
 		},
 		{
 			"number": 9301,
-			"content": "Time spent in one of the following circumstances shall not be counted against the twenty-four hour limitation in Article 91 and the second section of the preceding article, provided that there is no unnecessary delay:\r\n(1) Unavoidable delay caused by traffic obstruction or force majeure;\r\n(2) In the transfer of arrestee;\r\n(3) Interrogation cannot be made according to the first section of Article 100-3;\r\n(4) Examination cannot be made due to health emergency of the accused or suspect;\r\n(5) Examination is not made because of waiting for the presence of a defense attorney when the accused or suspect has made the presentation that a defense attorney has been retained.  The said waiting time allowed shall not exceed four hours.  The same rule applies to the case while waiting for the presence of the persons named in the third section of Article 35 if the accused or the suspect is unable to make a clear and complete statement due to unsound mind;\r\n(6) Examination is not made because of waiting for the presence of the interpreter if there is a need for having an interpreter for the accused or suspect, provided that the waiting time shall not exceed six hours;\r\n(7) If the public prosecutor orders the release of the arrestee on bail or to the custody of another, while waiting for bonds to be presented or for the acceptance of custody, provided that the waiting time allowed shall not exceed four hours;\r\n(8) The time when the suspect was examined by the court according to the Habeas Corpus Act.\r\nNo examination shall be made in the above period of time described in the preceding section.\r\nIf the accused cannot be sent to a court with jurisdiction within twenty-four hours due to the existence of one of the reasons specified in the first section of this article, the public prosecutor shall specify the reason in his application of detention order.\r\n\r\nNote: Articles 1 through 343 were amended lastly on February 6, 2003."
+			"content": "The 24 hours, as described in the provisions of Article 91 and paragraph 2 of the preceding Article, shall exclude the elapsed time as described in the following conditions. But, there must be no unnecessary delay:\r\n1. The delay caused by traffic problems, or by other force majeure.\r\n2. Time spent during escorted transfer.\r\n3. When no questioning is allowed pursuant to the provisions of Article 100-3 Paragraph 1. \r\n4. When, in fact, no interrogation is conducted due to sudden changes of health of the accused or suspect.\r\n5. Where the accused or suspect expressed the desire to retain an attorney, the time spent waiting for the arrival of a defense attorney instead of conducting interrogation, shall not exceed 4 hours. Where the accused's income level is low or middle-to-low, and has submitted a request for an appointment of a public defender or attorney pursuant to the provisions of Article 31 Paragraph 5; or where the accused or suspect, who is unable to make a complete statement due to mental disorder or other mental deficiencies and the notification is sent to appoint an accompanying assistant pursuant to the provisions of Article 35 Paragraph 3, the time spent waiting for the arrival of a defense attorney or accompanying assistant instead of conducting interrogation, shall not exceed 4 hours.\r\n6. Where the accused or suspect requires the assistance of an interpreter, the time spent waiting for an interpreter instead of conducting the interrogation, shall not exceed 6 hours. \r\n7. After the prosecutor has given the bail release, or the custody release order, the time spent waiting for the process of being released on bail or to the custody of another shall not exceed 4 hours.\r\n8. The duration when the criminal suspect is brought forward in front of a judge for arraignment.\r\nNo interrogation shall be conducted within the time as described in all preceding paragraphs.\r\nIf a case cannot be transferred to the concerned court within 24 hours, as the result of a traffic delay or by other force majeure as described in paragraph 1, then the prosecutor shall explain the causes when petitioning for detention."
 		},
 		{
 			"number": 9400,
@@ -696,7 +716,7 @@
 		},
 		{
 			"number": 9500,
-			"content": "In an examination, an accused shall be informed of the following:\r\n(1) That he is suspected of committing an offense and all of the offenses charged.  If the charge is changed after an accused has been informed of the offense charged, he shall be informed of such change;\r\n(2) That he may remain silent and does not have to make a statement against his own will;\r\n(3) That he may retain defense attorney;\r\n(4) That he may request the investigation of evidence favorable to him.\r\n\r\nNote: Articles 1 through 343 were amended lastly on February 6, 2003."
+			"content": "The accused shall be informed of the following items before an interrogation is conducted:\r\n1. The alleged crimes committed, and all the criminal charges. If it is deemed necessary to change the criminal charges after the information is given, the accused should be informed of such changes.\r\n2. The right to remain silent, and that no statements should be made against his/her own will.\r\n3. The right to retain an attorney. If the accused is qualified to request for legal aid, pursuant to the laws, due to his/her low-income, or middle-to-low-income, aborigine status, or other qualifications, he may request to retain an attorney.\r\n4. The right to request an investigation on evidence favorable to the defendant.\r\nWhen an accused, without a counsel present, indicates that he/she has retained a defense attorney, the interrogation shall be ceased immediately. However, this rule does not apply where the accused consents to continue with the interrogation."
 		},
 		{
 			"number": 9600,
@@ -732,7 +752,7 @@
 		},
 		{
 			"number": 10100,
-			"content": "An accused may be detained after he has been examined by a judge and is strongly suspected of having committed an offense, and due to the existence of one of the following circumstances it is apparent that there will be difficulties in prosecution, trial, or execution of sentence unless the detention of the accused is ordered:\r\n(1) He has absconded, or there are facts sufficient to justify an apprehension that he may abscond;\r\n(2) There are facts sufficient to justify an apprehension that he may destroy, forge, or alter evidence, or conspire with a co-offender or witness;\r\n(3) He has committed an offense punishable with the death penalty, life imprisonment, or a minimum punishment of imprisonment for no less than five years.\r\nAt the time a judge is making the examination in accordance with the provision of the preceding section, the public prosecutor may be present and state the reason for applying detention order and present necessary evidence.\r\nThe accused and his defense attorney shall be informed of the facts based to support the detention of an accused as specified in section I of this article.  The same shall be stated in the record.\r\n\r\nNote: Articles 1 through 343 were amended lastly on February 6, 2003."
+			"content": "If the suspicion of the accused committed a crime becomes significant after the interrogation by a judge, and one of the following conditions applies, and as a result, it will be very difficult to prosecute, or try the case, or execute a sentence without a retention order, the accused shall be detained:\r\n1. The accused has absconded, or if there are sufficient facts to support the concern of his/her absconding.\r\n2. There are sufficient facts to support the concern that evidence may be destroyed, fabricated, or altered, or that accomplices or witnesses may be colluded.\r\n3. The penalty for the crime committed is death, life imprisonment, or a minimum of five-year imprisonment, and there is sufficient reason to support the concern for absconding; destroying, fabricating or altering evidence; or colluding with accomplices or witnesses.\r\nWhen the judge is conducting the interrogation, as described in the preceding paragraph, the prosecutor must be present to state the reasons for requesting detention and to provide necessary evidence. However, in the case of the proviso as described in Article 93 paragraph 2, the prosecutor shall be present to state the reasons, and to specify the scope of the restriction or prohibition.\r\nThe facts, the specific content of each reason, and the relevant evidence on which the provisions of every subparagraph of the first paragraph are based shall be provided to the accused and the defense attorney, and shall be specified in the transcript. However, pursuant to the proviso as described in Article 93 paragraph 2, the case file and evidence, that the court has prohibited the accused and the defense attorney from knowing, shall not be used as the basis for the detention review.\r\nThe accused and defense attorney may petition the judge to provide the appropriate time for preparing the defense before proceeding with the interrogation, as described in the first paragraph."
 		},
 		{
 			"number": 10101,
@@ -828,7 +848,11 @@
 		},
 		{
 			"number": 11900,
-			"content": "The obligation under a bail bond shall be terminated, if the detention of an accused is canceled, or if he is again detained, or if the detention is nullified by a decision not to indict or a judgment or ruling.\r\nIf a third party who furnished a written or cash bail bond reports to the court, public prosecutor, or judicial police officer the circumstances of an attempt by an accused to abscond or to conceal himself so that such abscondence or concealment may be prevented, his application to withdraw the bond may be granted, unless the law provides otherwise.\r\nIf the obligation under a bail is terminated or a bail bond is withdrawn, the bond shall be canceled or the cash bail bond which has not been forfeited shall be returned.\r\nThe provisions of the preceding three sections shall apply mutatis mutandis to a person who has been given custody of an accused.\r\n\r\nNote: Articles 1 through 343 were amended lastly on February 6, 2003."
+			"content": "The obligation associated with a bail bond is terminated, if the detention is revoked, the detention is re-executed, the judgment of non-prosecution is delivered, a guilty ruling is delivered and prison sentence is enforced, or the validity of detention is eliminated as a result of a judgment.\r\nThe accused, and the third party who furnished a promissory note or paid the bail amount may request the release of the bail bond, and the court or the prosecutor shall grant such a release. However, if it is stipulated otherwise, such other provisions shall apply.\r\nIf the obligation associated with bail is terminated or a bail bond is released, the promissory note should be cancelled, or the non-forfeiture portion of the bond should be returned.\r\nThe provisions of the preceding three paragraphs apply mutatis mutandis to persons who are given the custody release order."
+		},
+		{
+			"number": 11901,
+			"content": "If the bail bond is paid in cash, the bond is subject to interest calculations; if the bond is returned pursuant to the provisions of paragraph 3 of the preceding Article, the accrued interest will also be returned. If the whereabouts of the person to whom the bond should be returned is unknown, or if the bond cannot be returned due to other reasons, the court or the prosecutor should make a public announcement. If after ten years from the date of announcement, no one claims the proceeds, the bond shall be turned over to the National Treasury.\r\nIf the bond is forfeited pursuant to the provisions of Article 118, the accrued interest is also forfeited.\r\nThe procedures for criminal-case related bond deposits, interest calculations and proceed returns shall be determined by the Judicial Yuan and the Executive Yuan."
 		},
 		{
 			"number": 12000,
@@ -900,7 +924,15 @@
 		},
 		{
 			"number": 13300,
-			"content": "A thing which can be used as evidence or is subject to confiscation may be seized.\r\nThe owner, possessor, or custodian of the property subject to seizure may be ordered to surrender or deliver it.\r\n\r\nNote: Articles 1 through 343 were amended lastly on February 6, 2003."
+			"content": "An item which can be used as evidence, or that is subject to confiscation, may be seized.\r\nTo ensure a forced collection, a certain portion of the property of the suspect, accused, or a third party, may be seized with discretion as required.\r\nThe owner, holder, or custodian of the items to be seized shall bring forward or deliver the items as ordered.\r\nThe competent authority should be notified and a registration method should be used when seizing real estate, ships, or aircraft.\r\nTo seize creditors' rights, a seizure order may be issued to prohibit a collection from debtors, or other sanctions, and to prohibit the action of paying off for the accused or a third party.\r\nThe seizure, as implemented under this Code, has the effect of prohibiting a disposition. It does not impede the seal or seizure of provisional attachment, provisional injunction of civil proceedings, or the enforcement of a final judgment."
+		},
+		{
+			"number": 13301,
+			"content": "A seizure that is not covered by a search warrant shall be adjudicated by a judge, except when the item is seized for evidence, or the obligee of the seizure target has given consent.\r\nIn the consent scenario, as described in the preceding paragraph, the enforcer shall present his/her credentials, and inform the obligee of the seizure target that he/she has the right to refuse the seizure, and that there is no requirement to give consent against his/her will, and then a record of his/her consent response is entered in the transcript.\r\nThe ruling, as referred to in the first paragraph, shall include the following information:\r\n1. Case summary.\r\n2. The identity of the person receiving the seizure ruling, and the seizure target description. However, this information may be omitted if the identity of the person receiving the seizure ruling is unknown.\r\n3. Enforcement validity and instructions for suspended enforcement when the validity expires. The judge may also state additional appropriate instructions to enforcers of this ruling.\r\nThe procedures for issuing the ruling, as referred to in the first paragraph, shall not be made public."
+		},
+		{
+			"number": 13302,
+			"content": "During an investigation, if the prosecutor deems it necessary to apply for a seizure ruling, a written request, including the information as described in Paragraph 3 Subparagraph 1 and Subparagraph 2 of the preceding Article, along with detailed reasons for the request, shall be submitted to the court concerned with making the ruling.\r\nIf a judicial police officer finds it necessary to make a seizure, he/she may submit a request to the concerned court for the issuance of a seizure ruling pursuant to the provisions of the preceding paragraph after obtaining the prosecutor's permission. \r\nIf, during an investigation, the prosecutor, prosecuting investigator, judicial police officer, or judicial police deems that there is sufficient cause and urgency for an immediate seizure, then such seizure may be enforced directly; the prosecutor may also command the prosecuting investigator, judicial police officer, or judicial police to enforce this seizure.\r\nThe seizure, as described in the preceding paragraph, shall be reported to the concerned court within three days of the execution if it is implemented by the prosecutor; and shall be reported to the prosecutor of the concerned prosecutors office and the court within three days of execution if it is implemented by the prosecuting investigator, judicial police officer, or judicial police. If the court deems that such action is not permitted, the seizure must be revoked within five days.\r\nIf the request, as referred to in paragraphs 1 and 2, is rejected, the decision shall not be challenged."
 		},
 		{
 			"number": 13400,
@@ -912,11 +944,11 @@
 		},
 		{
 			"number": 13600,
-			"content": "A seizure shall be executed by a public prosecuting affairs official, judicial police officer, or judicial policeman, unless it is personally executed by a judge or public prosecutor.\r\nIf a public prosecuting affairs official, judicial police officer or judicial policeman is ordered to execute a seizure, the matters concerned shall be entered on the search warrant given to him.\r\n\r\nNote: Articles 1 through 343 were amended lastly on February 6, 2003."
+			"content": "A seizure, in addition to being enforced by a judge or the prosecutor themselves, may be conducted by a prosecuting investigator, judicial police officer, or judicial police, as ordered by the judge or prosecutor.\r\nIf a prosecuting investigator, judicial police officer, or judicial police is ordered to conduct the seizure, a case summary should be stated in the given search warrant or seizure ruling."
 		},
 		{
 			"number": 13700,
-			"content": "Property which should be seized for the same case and which is discovered by a public prosecutor, public prosecuting affairs officer, judicial police officer or judicial policeman during the execution of a search or seizure may be seized notwithstanding that it is not listed in the search warrant.\r\nThe provision of section III of Article 131 shall apply mutatis mutandis to the circumstances under the preceding section.\r\n\r\nNote: Articles 1 through 343 were amended lastly on February 6, 2003."
+			"content": "When the prosecutor, prosecuting investigator, judicial police officer, or judicial police are conducting a search or seizure operation, if there are objects that should be seized in relation to the case but not listed in the search warrant or seizure ruling, such objects may be seized.\r\nThe provisions of Article 131 paragraph 3 shall apply mutatis mutandis to the case, as described in the preceding paragraph."
 		},
 		{
 			"number": 13800,
@@ -932,15 +964,19 @@
 		},
 		{
 			"number": 14100,
-			"content": "If it is apprehended that seized property which may be forfeited will be lost or damaged, or if it is inconvenient to preserve it, it may be sold at an auction and the proceeds retained.\r\n\r\nNote: Articles 1 through 343 were amended lastly on February 6, 2003."
+			"content": "If the seized property, as confiscated or forced collected, may be lost, damaged, lose value, difficult to keep, or too expensive to keep, it may be sold for its value and the proceeds of which shall be retained.\r\nThe sale, as referred to in the preceding paragraph, shall be conducted by the prosecutor, if such action occurs during an investigation; and it shall be conducted by the Civil Execution Department of a district court at the court's request, if such action occurs during a trial."
 		},
 		{
 			"number": 14200,
 			"content": "If it appears unnecessary to retain seized property until the conclusion of a case, it shall be returned by a ruling of the court or an order of the public prosecutor; if a third party does not claim the seized stolen property, it shall be returned to the victim.\r\nSeized property may temporarily be returned to the owner, possessor, or custodian if he asks for return of property and undertakes to preserve it.\r\n\r\nNote: Articles 1 through 343 were amended lastly on February 6, 2003."
 		},
 		{
+			"number": 14201,
+			"content": "If the court or the prosecutor deems it appropriate at the request of the owner or the obligee of the seized property, as confiscated or forced collected, the court or the prosecutor can rule to set, or order, a commensurate amount of guarantee money, and after such guarantee money is paid, revoke the seizure.\r\nThe provisions of Article 119-1 apply mutatis mutandis to the deposit, interest calculation, and return of guarantee money."
+		},
+		{
 			"number": 14300,
-			"content": "The provisions of the preceding four articles shall apply mutatis mutandis to property which has been left at the scene of the crime by an accused, suspect, or third person, or voluntarily surrendered or delivered over by its owner, possessor or custodian and which has been retained.\r\n\r\nNote: Articles 1 through 343 were amended lastly on February 6, 2003."
+			"content": "The provisions of the preceding five Articles shall apply mutatis mutandis to the object that the accused, suspect, or a third party left at the crime scene, or to the object voluntarily submitted or delivered by its owner, holder, or custodian, which has been retained."
 		},
 		{
 			"number": 14400,
@@ -948,7 +984,7 @@
 		},
 		{
 			"number": 14500,
-			"content": "In executing a search or seizure, the judge, public prosecutor, public prosecuting affairs officer, judicial police officer, or judicial policeman shall show the warrant to the person present as specified in Article 148, unless the search or seizure is the one that may be effected without a warrant as specified in other provisions.\r\n\r\nNote: Articles 1 through 343 were amended lastly on February 6, 2003."
+			"content": "When conducting a search, or a seizure, the judge, prosecutor, prosecuting investigator, judicial police officer, or judicial police shall present the search warrant or seizure ruling to the people present at such action, as described in Article 148, except in cases where a search warrant or seizure ruling is not required by law."
 		},
 		{
 			"number": 14600,
@@ -1568,7 +1604,7 @@
 		},
 		{
 			"number": 24500,
-			"content": "An investigation shall not be public.\r\nThe defense attorney of an accused or suspect may be present and state his opinion when a public prosecutor, public prosecuting affairs official, judicial police officer, judicial policeman examines the accused or suspect, provided that if facts exist sufficient to justify an apprehension that such presence may jeopardize national security or destroy, fabricate, alter evidence or form a conspiracy with a co-offender or witness, or may be detrimental to the reputation of others, or that the behavior of the defense attorney is so inappropriate that it would interfere with the order of the investigation, such presence may be limited or prohibited.\r\nThe public prosecutor, public prosecuting affairs official, judicial police officer, judicial policeman, defense attorney, agent of the complainant, or any other person performing his duty under law during the investigation shall not disclose whatsoever information acquired through the performance of the duty during the investigation, unless otherwise permitted by law, or it is necessary for the protection of public interest or legitimate interest.\r\nThe time, date, and place of the examination of an accused or suspect during the investigation shall be notified to the defense attorney unless urgent circumstances exist.\r\n\r\nNote: Articles 1 through 343 were amended lastly on February 6, 2003."
+			"content": "A prosecutorial investigation shall not be made public.\r\nThe defense attorney of an accused or suspect may present and state his opinions, when the prosecutor, prosecuting investigator, judicial police officer, or judicial police interrogates the accused or suspect. However, such presence may be restricted or prohibited, if there are sufficient facts to support the belief that the defense attorney's presence may jeopardize national security, or may destroy, fabricate, or alter evidence, or may collude with accomplices or witnesses, or may damage other people's reputation, or whose misconduct is sufficient to affect the order of the prosecutorial investigation.\r\nThe prosecutor, prosecuting investigator, judicial police officer, judicial police, defense attorney, agent ad litem, or other person performing his/her duty pursuant to the law during a prosecutorial investigation shall not disclose or reveal information acquired from the prosecutorial investigation to people beyond the necessary scope of performing statutory duties, except when it is necessary as required by law, or for the protection of the public interest, or for the protection of legitimate rights and interests of the interested parties.\r\nConcerning the interrogation of the accused or suspect during a prosecutorial investigation, the defense attorney shall be notified in advance of the interrogation dates, times and locations.\r\nHowever, these provisions do not apply when the situation is urgent.\r\nThe not-to-be-made public procedures, as referred to in the first paragraph, shall be determined by the Judicial Yuan and the Executive Yuan."
 		},
 		{
 			"number": 24600,
@@ -1604,7 +1640,7 @@
 		},
 		{
 			"number": 25300,
-			"content": "If a public prosecutor considers it appropriate not to prosecute a case specified in Article 376 after having taken into consideration the provisions of Article 57 of the Criminal Code, he may make a ruling not to prosecute.\r\n\r\nNote: Articles 1 through 343 were amended lastly on February 6, 2003."
+			"content": "If a prosecutor deems it appropriate not to prosecute a case, as described in provisions of any subparagraph of the first paragraph of Article 376, after taking into consideration the provisions of Article 57 of the Criminal Code, he may issue a disposition of dismissal."
 		},
 		{
 			"number": 25301,
@@ -1612,7 +1648,7 @@
 		},
 		{
 			"number": 25302,
-			"content": "A public prosecutor in of making a ruling on deferred prosecution, may require the defendant to comply with or perform the following items within a limited period of time:\r\n(1) Apologize to the victim;\r\n(2) Make a written statement of repentance;\r\n(3) Pay to the victim an appropriate sum as compensations for property or non-property damages;\r\n(4) Pay a certain sum to governmental account or a designated non-profit or local self-governing organization;\r\n(5) Perform forty to two hundred and forty hour community services to a designated non-profit, local self-governing organization, or community;\r\n(6) Complete drug addiction treatment, psychotherapy and counseling, or other appropriate treatments;\r\n(7) Comply with the necessary order for the protection of the victim's safety;\r\n(8) Comply with the necessary order for the prevention of recommitting the offense.\r\nBefore a public prosecutor can order the defendant to comply or perform the acts specified in the items three through six in the preceding section, the defendant's consent shall be obtained; items three and four may also constitute a ground for civil compulsory enforcement.\r\nThe matters specified in section I shall be noted in the written deferred prosecution.\r\nThe period of time specified in section I shall not exceed the period of time allowed for the deferred prosecution.\r\n\r\nNote: Articles 1 through 343 were amended lastly on February 6, 2003."
+			"content": "In cases where a disposition of deferred prosecution is issued, the accused may be ordered by the prosecutor to comply with or perform following actions within a certain period of time:\r\n1. Apologize to the victim.\r\n2. Write a penitence letter. \r\n3. Pay the victim an appropriate sum, as compensation for property or non- property damages.\r\n4. Pay a certain sum to the government treasury, a certain ratio of which shall be allocated, by the concerned prosecutors' office, pursuant to the law, to subsidize the relevant public welfare organizations or local self-governing bodies.\r\n5. Provide more than 40 hours and less than 240 hours of voluntary services to government agencies, government organizations, non-departmental public bodies, communities, or other institutions or groups that meet public interest objectives, as designated by the concerned prosecutors' office.\r\n6. Complete addiction treatment, psychotherapy, psychological counseling or other appropriate intervention measures.\r\n7. Comply with the orders as necessary for the protection of the victim's safety.\r\n8. Comply with the orders as necessary for the prevention of recidivism. \r\nThe accused must provide consent before a public prosecutor can execute the order for the accused to comply with or perform the actions, as described in subparagraph 3 through subparagraph 6 of the preceding paragraph. The provisions of subparagraph 3 and subparagraph 4 may also be complied in the name of civil compulsory execution.\r\nThe circumstances, as referred to in the first paragraph, shall be noted in the written disposition of deferred prosecution.\r\nThe time frame, as referred to in the first paragraph, shall not extend beyond the period allowed for deferred prosecution.\r\nThe ratio of the sum, expenditure allocation, and supervision management, as described in paragraph 1 subparagraph 4, shall be determined by the Executive Yuan and the Judicial Yuan."
 		},
 		{
 			"number": 25303,
@@ -1664,7 +1700,7 @@
 		},
 		{
 			"number": 25901,
-			"content": "If a ruling not to prosecute or a ruling of deferred prosecution is given by a public prosecutor in accordance with the provisions of Article 253 or 253-1, he may make separate application to the court for declaration of confiscation of the property used for committing the offense, for preparation of committing the offense, or acquired from the commission of the offense when the property was owned by the accused.\r\n\r\nNote: Articles 1 through 343 were amended lastly on February 6, 2003."
+			"content": "For cases that have been issued for a disposition of dismissal or deferred prosecution pursuant to the provisions of Article 253, or Article 253-1, the prosecutor may make a separate request to the court to confiscate objects as described in Article 38 Paragraph 2, and Paragraph 3 of the Criminal Code, and the criminal gains as described in Article 38-1 Paragraph 1 and Paragraph 2 of the same Code."
 		},
 		{
 			"number": 26000,
@@ -1780,7 +1816,7 @@
 		},
 		{
 			"number": 28401,
-			"content": "Trial for the first instance shall be conducted by a panel of judges, unless the case is one of that applies summary trial procedure or summary procedure.\r\n\r\nNote: Articles 1 through 343 were amended lastly on February 6, 2003."
+			"content": "Except for cases that require summary trial procedure, or summary procedure, or cases with offenses as described in Article 376 Paragraph 1 Subparagraph 1 and Subparagraph 2, the first instance trial shall be a collegial trial."
 		},
 		{
 			"number": 28500,
@@ -1900,15 +1936,19 @@
 		},
 		{
 			"number": 30900,
-			"content": "The syllabus of a written judgment of \"Guilty\" shall contain the offense committed, and depending upon the circumstances, include the following:\r\n(1) A pronouncement of the principal punishment, accessory punishment, or remission of punishment;\r\n(2) If a sentence of not more than six months imprisonment or detention is pronounced, and if commutation to a fine may be ordered, the rate of such commutation;\r\n(3) If a fine is pronounced and if commutation to labor may be ordered, the rate of such commutation;\r\n(4) If a sentence is commuted to a warning, its pronouncement;\r\n(5) If a suspension of sentence is pronounced, the period of suspension;\r\n(6) If a measure for rehabilitation is pronounced, the measure and its duration;\r\n\r\nNote: Articles 1 through 343 were amended lastly on February 6, 2003."
+			"content": "In a written guilty ruling, the crimes committed should be clearly stated in the main text, and the following items should be specified separately in accordance with the case scenario: \r\n1. The pronouncement of the principal criminal sanction, additional criminal sanction, exemption of criminal sanction, or confiscation. \r\n2. The pronouncement of a fixed-term imprisonment or short-term detention, and the conversion standards, if the imprisonment is convertible to a fine.\r\n3. The pronouncement of a fine, and the conversion standards, if the fine is convertible to a labor service.\r\n4. The pronouncement of penalty conversion to a reprimand, and its content.\r\n5. The pronouncement of a probation and its duration.\r\n6. The pronouncement of a rehabilitative measure, its measure and duration."
 		},
 		{
 			"number": 31000,
-			"content": "The reasons of a written judgment of \"Guilty\" shall, depending upon the circumstances, include the following:\r\n(1) The evidence on which the facts of the offense are based and the reasons therefor;\r\n(2) Where evidence favorable to the accused is not relied, the reasons therefor;\r\n(3) The circumstances specified in Article 57 or 58 of the Criminal Code which justify the exercise of discretion in imposing a sentence;\r\n(4) Reasons for increasing, reducing, or remitting a sentence;\r\n(5) Reasons for commuting a sentence to a warning or for suspension of sentence;\r\n(6) Reasons for pronouncing a measure for rehabilitation;\r\n(7) The applicable law.\r\n\r\nNote: Articles 1 through 343 were amended lastly on February 6, 2003."
+			"content": "In a written guilty ruling, the following items should be specified separately in the reason section in accordance with the case scenario: \r\n1. The evidence on which the facts of the crime are determined and the reasons for their determination.\r\n2. The evidence which is favorable to the defendant is not admitted into the trial, and the reason.\r\n3. When deciding on criminal sanctions, the consideration taken while weighing in the conditions stated in provisions of Article 57 or Article 58 of the Criminal Code.\r\n4. Reasons for aggravating, mitigating or exempting criminal sanctions.\r\n5. Reasons for converting the criminal sanction to a reprimand or probation.\r\n6. Reasons for pronouncing a confiscation penalty or rehabilitative measure.\r\n7. The applicable law."
 		},
 		{
 			"number": 31001,
 			"content": "In a case of a judgment of \"Guilty\" which is pronounced to be subject to a sentence of not more than six months imprisonment or detention commutable to a fine, a fine, or a remission of punishment, the written judgment may only contain the syllabus of the decision, the facts and evidence of the offense accompanied by reasons for such conclusion thereof, and articles of the law applicable.\r\nFor the judgment specified in the preceding section, the court may cite the facts of the offense set forth in the indictment if such facts are the same as those established by the court.\r\n\r\nNote: Articles 1 through 343 were amended lastly on February 6, 2003."
+		},
+		{
+			"number": 31003,
+			"content": "Except when confiscation is pronounced in a guilty ruling, a written judgment that contains a confiscation pronouncement should include the main text of the judgment and the facts and reasons that constitute the case for confiscation. The evidence on which the facts established in the fact-finding process are based, reasons for such determination, reasons why evidence favorable to the defendant is not admitted into the trial, and the applicable law shall be specified separately in the reason section, depending on the circumstances of the case."
 		},
 		{
 			"number": 31100,
@@ -2148,7 +2188,7 @@
 		},
 		{
 			"number": 37000,
-			"content": "(Principle of the Prohibiting Alteration for Interests (I))\r\nThe court of second instance may not pronounce a sentence heavier than the one in the original judgment for an appeal filed by a defendant or for interests of the defendant; provided that this rule does not apply if the judgment of the original court is set aside because of the law was wrongly applied."
+			"content": "The second instance court shall not pronounce a criminal sanction greater than the original judgment on a case appealed by the defendant or appealed on behalf of the defendant. However, the provisions do not apply to cases where original judgment is revoked due to erroneous application of the law.\r\nThe term criminal sanction, as mentioned in the preceding paragraph refers to the criminal sanction that should be executed, as set in a pronounced sentence, and a combined sentence for multiple offenses.\r\nThe provisions of paragraph 1 shall apply mutatis mutandis to cases where a separate judgment is ruled for a sentence that should be executed, due to a revocation of the judgment of a combined sentence for multiple offenses in the first instance or the second instance, after an appeal."
 		},
 		{
 			"number": 37100,
@@ -2172,7 +2212,7 @@
 		},
 		{
 			"number": 37600,
-			"content": "(Judgments not Appealable to the Third Instance)\r\nOnce judged by the court of second instance, cases involving the following offenses are not appealable to the court of third instance:\r\n1. Offenses with a maximum punishment of no more than three years imprisonment, detention, or a fine only;\r\n2. Offense of theft specified in Articles 320 and 321 of the Criminal Code;\r\n3. Offense of embezzlement specified in Article 335 and Paragraph 2 of Article 336 of the Criminal Code;\r\n4. Offense of False Pretense specified in Articles 339 and 341 of the Criminal Code;\r\n5. Offense of breach trust specified in Article 342 of the Criminal Code;\r\n6. Offense of extortion specified in Article 346 of the Criminal Code;\r\n7. Offense of swag specified in Paragraph 2 of Article 349 of the Criminal Code."
+			"content": "Criminal cases of following offenses shall not be appealed to the third instance court after the second instance judgment is issued. However, the defendant, or the person making an appeal on behalf of the defendant, may file for an appeal on cases where the judgment of the first instance court was not-guilty, exempt-from-prosecution, dismissal-from-prosecution, or jurisdictional error, and is revoked by the second instance court and a guilty ruling is pronounced:\r\n1. Offenses that carry a maximum criminal sanction of less-than-three-years imprisonment, detention, or fine only.\r\n2. Offenses of Larceny as described in Article 320, or Article 321 of the Criminal Code.\r\n3. Offenses of embezzlement as described in Article 335, or Article 336 Paragraph 2 of the Criminal Code.\r\n4. Offenses of fraud as described in Article 339, or Article 341 of the Criminal Code.\r\n5. Offenses of Breach of Trust as described in Article 342 of the Criminal Code.\r\n6. Offenses of extortion as described in Article 346 of the Criminal Code.\r\n7. Offenses of Receiving Stolen Property as described in Article 349 Paragraph 1 of the Criminal Code.\r\nA case which was appealed in accordance with the provisions of the provisos of the preceding paragraph, shall not be appealed to the third instance court after a revocation judgment is ruled by the third instance court and the case is remanded to the first instance court for further proceedings."
 		},
 		{
 			"number": 37700,
@@ -2284,7 +2324,7 @@
 		},
 		{
 			"number": 40400,
-			"content": "(Restriction and Exception to Interlocutory Appeal)\r\nOne may not file an interlocutory appeal against rulings regarding jurisdiction or litigation procedure, except for the following rulings:\r\n1. Where interlocutory appeals are allowed by laws;\r\n2. Rulings regarding detention, release on bail, custody of another, a limitation on residence, search, seizure, return of seized property, committing the defendant to a hospital or other places for expert examination, and rulings regarding prohibition or seizure pursuant to Paragraphs 3 and 4 of Article 105."
+			"content": "A ruling, issued in regards to jurisdiction or litigation procedures before a judgment is decided, is final and non-appealable. However, such provisions do not apply to the following rulings:\r\n1. Where there are specific provisions permitting such an appeal.\r\n2. A ruling regarding detention, release on bail, release to other's custody, residence restriction, search, seizure or the return of seized property, sale for value, guarantees, physical examination, communication surveillance, or sending the defendant to a hospital or other location for expert examination, and prohibition or seizure rulings issued in accordance with the provisions of Article 105 Paragraph 3, and Paragraph 4.\r\n3. A ruling to restrict the interview or correspondence between the defense attorney and the defendant; the person receiving the ruling, as described in the subparagraph 2 and subparagraph 3 of the preceding paragraph, may still appeal after the ruling has been implemented, and the court shall not reject the appeal on the grounds that there is no realistic benefit, as the implementation of the ruling has been completed."
 		},
 		{
 			"number": 40500,
@@ -2332,7 +2372,7 @@
 		},
 		{
 			"number": 41600,
-			"content": "(Scope, Period, and Ruling for Quasi Interlocutory Appeal)\r\nA subject of a ruling may file a motion to withdraw or change the following rulings to the court in charge if disagrees with the ruling made by the presiding judge, commissioned judge, requisitioned judge, or prosecutor.\r\n1. Rulings regarding detention, release on bail, committing to the custody of another, a limitation on residence, search, seizure, return of seized property, committing the defendant to a hospital or other places for expert examination, and rulings regarding prohibition or seizure pursuant to Paragraphs 3 and 4 of Article 105;\r\n2. Pecuniary penalty imposed on a witness, expert witness, or interpreter.\r\nThe court may exclude seized items from evidence if the search or seizure in preceding paragraph is withdrew.\r\nThe period for motion mentioned in Paragraph 1 is 5 days from the date of ruling or the day of service if it is served.\r\nArticles 409 to 414 shall apply mutatis mutandis to this Article.\r\nParagraph 1 of Article 21 shall apply mutatis mutandis to motions to reverse or amend a ruling by a requisitioned judge."
+			"content": "A subject of a disposition, who objects to the following disposition made by a presiding judge, commissioned judge, assigned judge, or prosecutor, may petition the concerned court to withdraw or change the disposition. The subject of a disposition may still make the petition after the disposition is implemented, and the court shall not reject it on the grounds that there is no realistic benefit as the implementation of the disposition has been completed:\r\n1. A disposition regarding a detention, release on bail, release to other's custody, residence restriction, search, seizure or the return of seized property, sale for value, guarantees, or sending the defendant to a hospital or other location for expert examination, or a disposition issued for physical examination, communication surveillance, or issued for prohibition or seizure in accordance with the provisions of Article 105 Paragraph 3, and Paragraph 4.\r\n2. A pecuniary disposition imposed on a witness, an expert witness, or an interpreter.\r\n3. A disposition imposed to restrict the interview or correspondence between the defense attorney and the defendant.\r\n4. A designed disposition described in the provisions of Article 34 Paragraph 3.\r\nIf the search or seizure, as described in the preceding paragraph is revoked, the court may declare that, the seized items shall not be used as evidence during the trial.\r\nThe time allowed for filing a petition, as described in the first paragraph, is five days from the day that the disposition is issued, if the disposition is delivered from the day of its arrival.\r\nThe provisions of Articles 409 through 414 apply mutatis mutandis to this Article.\r\nThe provisions of Article 21 Paragraph 1 shall apply mutatis mutandis to petitions for withdrawal of, or changes to a ruling made by an assigned judge."
 		},
 		{
 			"number": 41700,
@@ -2348,7 +2388,7 @@
 		},
 		{
 			"number": 42000,
-			"content": "(Motion for Retrial for Interests of the Convicted (I))\r\nAfter a guilty judgment has become final, a motion for retrial may be filed for interests of the convicted under the following circumstances:\r\n1. Where exhibits on which the original judgment is based have been proven fabricated, or altered;\r\n2. Where material testimony, expert opinion, or interpretation on which the original judgment is based has been proven false;\r\n3. Where the convicted has been proven maliciously accused.\r\n4. Where judgment by a common court or special court on which the original judgment is based on has been changed in a final judgment;\r\n5. If a judge participating in the original judgment, judgment before the trial or investigations before the judgment, or prosecutor participating in the investigation or the prosecution commits offenses in his/her post out of the case and the offenses have been proved; or he/she neglect the duties out of the case and has been “administrative punished” but the behaviors are sufficient to affect the original judgment.\r\n6. Where the discovery of new evidence is sufficient to show that the convicted shall be acquitted, exempt from prosecution, remitted the punishment, or sentenced an offense less serious than the one in the original judgment.\r\nUnder the manifestation of situations of Paragraphs 1 to 3 and Paragraph 5, after the judgment is final, a motion for retrial can be filed if insufficient evidence is not the reason for not able to begin the criminal procedure or continue the trial."
+			"content": "If any one of the following circumstances arises after a guilty ruling is finalized, a motion for retrial may be filed for the benefit of the person convicted:\r\n1. The evidence on which the original judgment was based has been proven to be falsified or fabricated.\r\n2. The testimony, appraisal or interpretation on which the original judgment was based, has been proven to be false.\r\n3. The person convicted of a guilty ruling was found to be falsely accused. \r\n4. The judgment made by a general court or a special court, on which the original judgment was based, has been changed and the changed judgment is final.\r\n5. The judge who participated in the original judgment, or prior judgment, or investigation before the judgment, or the prosecutor who participated in the investigation or the prosecution, or the prosecuting investigator, judicial police officer, or the judicial police who participated in the criminal investigation, has been found to have committed job-related offenses in relation to the case, or has been disciplined due to illegal malfeasance in regards to the case that was significant enough to affect the original judgment.\r\n6. Due to a discovery of new facts or new evidence that is sufficient, either by itself or when combined with previous evidence, it is determined that the convicted person should be acquitted, exempt-from-prosecution, remitted the criminal sanction, or sentenced in line with an offense less serious than the one of the original judgment.\r\nA motion for retrial can be filed for cases having new proof, as described in subparagraph 1 through subparagraph 3 and subparagraph 5 of the preceding paragraph, and the cases are limited to where the judgment is final and binding, or where criminal procedure cannot be commenced or continued not for lack of evidence.\r\nThe new facts or new evidence, as described in Paragraph 1 Subparagraph 6, refer to facts or evidence that existed, or were established, but were not investigated in time before the final judgment is decided, or facts and evidence that only come to light or become established after the final judgment is decided."
 		},
 		{
 			"number": 42100,
@@ -2464,7 +2504,7 @@
 		},
 		{
 			"number": 44900,
-			"content": "(Motion for a Summary Judgment)\r\nIf a defendant’s confession in the investigation process or other existing evidence is sufficient for the court of first instance to determine a defendant’s offense, a sentence may be pronounced through summary judgment without common trial procedure upon request by the prosecutor; provided that the defendant shall be questioned before sentencing if necessary.\r\nWhere a prosecutor prosecutes a case specified in the preceding paragraph with common procedure and a defendant has confessed to the offense, the court may pronounce a sentence through summary judgment without common trial procedure if appropriate.\r\nThe sentence specified in the preceding 2 paragraphs is limited to the suspension of sentence, sentence of limited imprisonment and detention which commutation to a fine may be ordered, or a fine."
+			"content": "The first instance court may decide on a sentence using summary procedures upon the prosecutor's request without going through regular proceedings, if the court finds that the defendant's confession, as provided during the investigation, or other existing evidence, is sufficient to determine the defendant's guilt. However, if necessary, the defendant should be examined prior to sentencing.\r\nAs in the case of preceding paragraph, if the prosecutor has begun the prosecution following regular proceedings, but the court then decides that summary procedures are appropriate for the sentencing phase of the trial after the defendant confesses the crime, summary procedures may then be adopted without implementing full trial proceedings.\r\nThe pronounced criminal sanction, as determined in accordance with the provisions of the preceding two paragraphs, is limited to probation, fixed-term imprisonment that is convertible to a fine or community service, detention, or a fine."
 		},
 		{
 			"number": 44901,
@@ -2504,7 +2544,7 @@
 		},
 		{
 			"number": 45502,
-			"content": "(Application for the Bargaining Process)\r\nExcept for those who have committed a offense which is punishable for sentence of capital punishment, life imprisonment, sentence more than three years, or is adjudicated by the court of appeal as the court of first instance, once a case has been prosecuted by a prosecutor or applied for a summary judgment, after consulting with the victim's opinion the prosecutor may, before the close of oral arguments in the court of first instance or before the summary judgment, act on his/her own discretion or upon requests by the defendant, his/her agent or attorney, which has been approved by the court, to negotiate the following items outside the trial procedure; once both parties involved reach an agreement and the defendant pleads guilty, the prosecutor may request the court to make judgment pursuant to the bargaining process.\r\n1. The defendant accepts the scope of sentence or accepts the sentence to be placed under probation.\r\n2. The defendant shall apologize to the victim.\r\n3. The defendant shall pay a certain amount of compensation.\r\n4. The defendant shall pay a certain amount to the government treasury, designated public interest organizations, or local autonomous organizations.\r\nThe prosecutor shall obtain the victim’s consent before negotiating with the defendant on items listed in Subparagraph 2 or 3 of the preceding paragraph.\r\nThe bargaining period mentioned in Paragraph 1 shall not exceed 30 days."
+			"content": "Except for cases that involve crimes, punishable by death, life imprisonment, or three-year minimum imprisonment, or for first-instance cases that are under the jurisdiction of the high court, once the prosecutor begins the public prosecution of a case or petitions for a summary judgment of the case, the prosecutor may, after consulting with the victim, or acting upon the prosecutor's own discretion, or upon the request of the defendant, or of the defendant's agent, or of the defense attorney, and with the court's consent,  negotiate on the following items outside of the trial proceedings, before the end of the closing argument in the first instance court or the issuance of a summary judgment. Once all parties involved agree on the details and the defendant pleads guilty, the prosecutor may petition the court to make a judgment in accordance with the bargaining procedure:\r\n1. The defendant agrees to the scope of criminal sanction and confiscation, or agrees to the pronouncement of probation. \r\n2. The defendant shall apologize to the victim.\r\n3. The defendant shall pay a commensurate amount of compensation.\r\n4. The defendant shall pay a certain sum to the government treasury, a certain ratio of which shall be allocated, by the concerned prosecutors' office, pursuant to the law, to subsidize the relevant public welfare organizations or local self-governing bodies.\r\nThe prosecutor shall obtain the victim's consent before negotiating with the defendant on items listed in subparagraph 2 or subparagraph 3 of the preceding paragraph.\r\nThe duration of such negotiations as mentioned in paragraph 1, shall not exceed thirty days.\r\nThe ratio of the sum, expenditure allocation, and supervision management, as described in paragraph 1 subparagraph 4, shall be determined by the Executive Yuan and the Judicial Yuan."
 		},
 		{
 			"number": 45503,
@@ -2541,6 +2581,110 @@
 		{
 			"number": 45511,
 			"content": "(Bargaining Judgment apply mutatis mutandis rules for Appeal)\r\nAn appeal for a bargaining judgment, except otherwise stipulated in this Part, shall apply mutatis mutandis Chapters I and II of Part III.\r\nParagraph 1 of Article 159 and Article 284-1 do not apply to the bargaining process."
+		},
+		{
+			"number": 45512,
+			"content": "A third person, whose property may be confiscated, can apply to the court to participate in the confiscation procedure, before the end of oral argument in the fact-finding trial of the case.\r\nThe application, as mentioned in the preceding paragraph, should include the following matters in writing:\r\n1. The case summary, and the defendant's name, gender, birth date, identity document number, or other relevant feathers sufficient to identify the defendant.\r\n2. Reasons for participating in the confiscation process.\r\n3. Indicating the intention of participating in the confiscation process.\r\nIf a third person does not apply to the court to participate in the confiscation procedure for the property that may be confiscated, the court should adjudicate ex officio such a third person to participate in the confiscation process where the court deems it necessary. However, these provisions do not apply if such a third person clearly states to the court or the prosecutor that he/she has no objection to the confiscation of his/her property.\r\nThe provisions of the preceding three paragraphs should apply mutatis mutandis to cases conducted in private prosecution procedure, summary procedure, or negotiation procedure."
+		},
+		{
+			"number": 45513,
+			"content": "If the prosecutor has sufficient reason to believe that a third person's property should be confiscated, the prosecutor should notify such a third person before initiating the public prosecution, giving such a person the opportunity to state his/her case.\r\nIf the prosecutor deems that a third person's property should be confiscated when initiating a public prosecution, such intention should be stated in the indictment, and such a third person should be notified immediately of the following matters:\r\n1. The case summary and its jurisdictional court. \r\n2. The defendant's name, gender, birth date, identity document number, or other relevant feathers sufficient to identify the defendant.\r\n3. The name, type, quantity, and other specification that should be noted concerning the property to be confiscated.\r\n4. The essential facts and evidence that constitute the grounds for confiscation.\r\n5. The purpose that the prosecution should petition the court of jurisdiction to notify the third person to participate in the confiscation procedure.\r\nIf the prosecutor deems that a third person's property should be confiscated during the trial, the prosecutor may submit such a request in verbal or written statement to the court."
+		},
+		{
+			"number": 45514,
+			"content": "Concerning participation in the confiscation procedure, the court should notify the applicant, the parties of the case, the party's agent, defense attorney, or assistant in advance, giving them the opportunity to state their case before the ruling."
+		},
+		{
+			"number": 45515,
+			"content": "The court may exempt cases, where the time and cost required for investigation of evidence do not commensurate with the request for confiscation value, after obtaining agreements from the prosecutor, or agent of the private prosecutor.\r\nThe prosecutor or agent of the private prosecutor may withdraw the agreement, as mentioned in the provisions of the preceding paragraph, before the end of oral argument in the fact-finding trial of the case."
+		},
+		{
+			"number": 45516,
+			"content": "The court may rule to reject the case if the request to participate in the confiscation procedure is not in accordance with legal formalities, or is not permitted by law, or is groundless. However, if the defect of the legal formalities can be corrected, the court should set a time limit and order such correction. \r\nThe court should rule to grant the request, if the court deems that the request to participate in the confiscation procedure is justified.\r\nThe ruling as described in the preceding paragraph is final and non-appealable."
+		},
+		{
+			"number": 45517,
+			"content": "The court ruling, concerning the third party's participation in the confiscation procedure, should have statements containing information on the progress of the litigation, reasons for the third party's participation, and the fact that confiscation can take place with or without the third party's appearancein court to give statements."
+		},
+		{
+			"number": 45518,
+			"content": "Once the court has ruled on the participation of a third party in the confiscation procedure, cases that have adopted summary procedure or negotiation procedure, may then apply regular procedure in the trial."
+		},
+		{
+			"number": 45519,
+			"content": "The rights of a defendant in a litigation should apply mutatis mutandis to participants on matters of their confiscated property, unless otherwise stipulated in this Chapter."
+		},
+		{
+			"number": 45520,
+			"content": "The court should notify the confiscation procedure participants of the trial dates and serve them written documents pertaining to confiscating their property."
+		},
+		{
+			"number": 45521,
+			"content": "Participants may appoint an agent to be present. However, the court may, when it deems necessary, order the participants to be present in person.\r\nThe provisions of Articles 28 through 30, Article 32, Article 33 Paragraph 1, and Article 35 Paragraph 2 should apply mutatis mutandis to the participant's agent.\r\nFor the situation as described in the first paragraph, if it is necessary to order the participant to appear in person, the court should issue a summons; if a legal summons is issued, and the participant is absent without a proper cause, an arrest with a warrant may be ordered.\r\nThe provisions of Article 71, Articles 72 through 74, Articles 77 through 83, and Articles 89 through 91 should apply mutatis mutandis to the summoning and the arrest with a warrant of the participant mentioned in the preceding paragraph."
+		},
+		{
+			"number": 45522,
+			"content": "The presiding judge should inform all participants present on the day of the trial of the following matters:\r\n1. The facts that constitute the grounds for confiscation.\r\n2. The progress of the litigation.\r\n3. The participants may appoint an agent to be present.\r\n4. The right to request an investigation on evidence favorable to the defendant.\r\n5. For matters concerning the confiscated property, the rights of a defendant in a litigation should apply mutatis mutandis to participants, unless otherwise stipulated in this Chapter."
+		},
+		{
+			"number": 45523,
+			"content": "Provisions of Article 166 Paragraphs 2 through 6, and Articles 166-1 through 166-6 do not apply to the investigation of evidence pertaining to the confiscation participation procedure."
+		},
+		{
+			"number": 45524,
+			"content": "The participant's oral argument concerning the confiscation of his/her property should be held after the completion of the proceedings of Article 289, and should be conducted following the same sequence.\r\nThe court may proceed to deliver a judgment without the participant's statement, if the participant fails to appear in court after being summoned, or notified in accordance with legal procedures; the same action applies to the situation where the participant exits the court without permission, or refuses to give a statement."
+		},
+		{
+			"number": 45525,
+			"content": "If the situation arises where the court deems that a third party should not participate in the confiscation process, after it has already delivered a ruling allowing such a third person to participate, the court should revoke the original ruling."
+		},
+		{
+			"number": 45526,
+			"content": "If the property of the participant is deemed to be confiscated, the participant should be informed of such a judgment; if it is deemed that the property is not to be confiscated, the participant should be informed of such a judgment.\r\nThe judgment, as described in the preceding paragraph, should include the main text of such a decision, and the facts and reasons that constitute the confiscation. The evidence on which the facts established in the fact-finding process are based, reasons for such a determination, reasons why evidence conducive to the participant is not adopted, and the applicable law should be recorded separately in the reason section, depending on the circumstances of the case.\r\nThe judgment for confiscation, as referred to in the first paragraph, should be delivered at the same time as the judgment of the case. However, if necessary, the judgment may be delivered separately."
+		},
+		{
+			"number": 45527,
+			"content": "If an appeal is filed against the judgment of the case, the effect of the appeal extends to confiscation judgment pertaining to the case; if an appeal is filed against the confiscation judgment, the effect of such an appeal does not extend to the judgment of the case.\r\nWhen the participant appeals to the second instance court, he/she may not dispute the determined facts of the criminal offense of the original trial, nor of the portion concerning property confiscation. However, such provisions do not apply to the following circumstances:\r\n1. Due to no fault of the participant, he/she did not provide a statement in the original trial on the portion concerning the facts of the crime and confiscation of property, or make a request for investigation of evidence.\r\n2. Persons other than the participant, who may dispute the facts of the crime and have the right to appeal, file a second instance appeal disputing the portion concerning the facts of the crime and the confiscation of the participant's property.\r\n3. The situation, as described in Article 420 Paragraph 1 Subparagraph1, Subparagraph 2, Subparagraph 4 or Subparagraph 5, existed in the original trial."
+		},
+		{
+			"number": 45528,
+			"content": "Unless stipulated otherwise in this Chapter, the provisions of Part 2 Chapter 1 Section 3, Part 3 and Part 4 apply mutatis mutandis to the trial, appeal, and interlocutory appeal of participation in the confiscation procedure."
+		},
+		{
+			"number": 45529,
+			"content": "A third party, whose property is adjudicated to be confiscated by the court, and who, due to no fault of his/her own, did not participate in the confiscation procedure, may file a revocation motion to the court that adjudicated the said judgment within 30 days from the date of his/her learning of the finalized confiscation judgment. However, if it has been more than five years since the final judgment was decided, filing for such a motion is not allowed.\r\nThe motion, as described in the preceding paragraph, should include the following information:\r\n1. Case summary.\r\n2. Reasons and evidence for filing the revocation motion of the confiscation judgment.\r\n3. The evidence which proves the observance of the peremptory period."
+		},
+		{
+			"number": 45530,
+			"content": "The judgment which grants a motion to revoke a finalized confiscation judgment, does not have the effect of a stay of execution. However, the prosecutor of the concerned court may order a stay of execution before the ruling of revoking the finalized judgment of property confiscation is delivered."
+		},
+		{
+			"number": 45531,
+			"content": "The court shall notify the applicant, the prosecutor, and the agent of private prosecution, and allow them the opportunity to state their cases on the motion to evoke a finalized judgment of property confiscation."
+		},
+		{
+			"number": 45532,
+			"content": "The court may rule to reject the motion if the request to revoke the finalized confiscation judgment is not in conformance with legal formalities, or if it should not be legally permitted, or if it is groundless. However, if the violation issue in the legal formalities can be rectified, the court shall set a time duration and order for such a rectification.\r\nIf the court deems that there is a reason to grant the motion to revoke the finalized confiscation judgment, the court shall adjudicate to revoke the portion of the case concerning finalized confiscation judgment.\r\nThe court rulings of interlocutory appeals, as described in the two preceding paragraphs, may be re-appealed.\r\nUnless stipulated otherwise in this Chapter, the provisions of Chapter 4 apply mutatis mutandis to the Interlocutory Appeal and re-appeal of the motion to revoke a finalized confiscation judgment."
+		},
+		{
+			"number": 45533,
+			"content": "After the ruling to revoke the finalized confiscation judgment becomes final, the court shall follow the procedure adopted before setting a case for trial."
+		},
+		{
+			"number": 45534,
+			"content": "For a separate pronouncement of confiscation, the prosecutor should request that the court that has jurisdiction over the district, where the law was violated, or property is located, or property owner's domicile/residence is located, to adjudicate."
+		},
+		{
+			"number": 45535,
+			"content": "The request, as mentioned in the preceding paragraph, should be made in written format by the prosecutor to the court of jurisdiction, and shall include the following items:\r\n1. The name, gender, birth date, domicile/residence, identification document number of the owner of the property to be confiscated, or other information, to adequately identify the case. However, this information may be omitted, if the identity of the property owner is unknown.\r\n2. The name, type, and quantity of the property to be confiscated, and other matters that are sufficient to specifically identify the objects to be confiscated, or the rights of property.\r\n3. The case infraction facts and evidence from which the property confiscation originates, and the articles of law that are involved.\r\n4. The essential facts and evidences that constitute the grounds for pronouncing separate confiscation."
+		},
+		{
+			"number": 45536,
+			"content": "The court may rule to reject the request if it deems that a separate pronouncement of confiscation is not in conformance with legal formalities, or if it should not be legally permitted, or if it is groundless. However, if the violation issue in the legal formalities can be rectified, the court shall set a time duration and order for such a rectification.\r\nThe court shall rule to grant the request, if it deems that a separate pronouncement of confiscation is justified.\r\nThe court rulings of interlocutory appeals, as described in the two preceding paragraphs, may be re-appealed."
+		},
+		{
+			"number": 45537,
+			"content": "The provisions concerning third party participation in the confiscation procedure stated in this Chapter apply mutatis mutandis to the procedure of separate pronouncement of confiscation."
 		},
 		{
 			"number": 45600,
@@ -2600,7 +2744,7 @@
 		},
 		{
 			"number": 47000,
-			"content": "(Execution of Punishment against Property)\r\nA ruling for fines, pecuniary penalty, confiscation, forfeit, payment pursue, and compensation shall be executed upon instruction by the prosecutor; provided that after pronouncing the ruling for fines or pecuniary penalty, if consented by the sentenced and the prosecutor is absent, the court may instruct the execution at the trial.\r\nThe instruction in the preceding paragraph has the same effect as the title for civil execution.\r\nThe legacy of the sentenced may be subject to the execution of fines, confiscation, forfeit, payment pursue, and compensation."
+			"content": "Fines, administrative fines, confiscation and administrative confiscation shall be executed in accordance with the orders of the Prosecutor. However, after the judgment of fines or administrative fines is pronounced, if the prosecutor is not present, and with the consent of the person receiving the judgment, the judge may proceed to enforce the penalty.\r\nThe order, as described in the preceding paragraph, has the same effect as a civil compulsory execution.\r\nFines and confiscations may be enforced on the legacy of a convicted person."
 		},
 		{
 			"number": 47100,
@@ -2612,7 +2756,7 @@
 		},
 		{
 			"number": 47300,
-			"content": "(Motion to Return Confiscation)\r\nWhere a right holder requests for return of confiscated object within3 months since the execution, the prosecutor shall return such items unless it is damaged or discarded; if such item is auctioned, the price of auction shall be returned to such person."
+			"content": "If the rights holders file a motion to have confiscated items or force-collected property returned, or if persons, who are allowed to exercise the right to a claim as a result of the defendant's crime, have obtained the civil compulsory execution and file a motion to be paid, within a year after the judgment is finalized, the prosecutor shall return such items/property or pay such claims, with the exceptions of: items/property that should be destroyed or abandoned; if the items/property are sold, the price of the sale shall be returned.\r\nIf an applicant has objections to the execution of return or payment, as described in the preceding paragraph, the provisions of Article 484 shall apply.\r\nIf necessary, the prosecutor may request that the branch offices of the Administrative Enforcement Agency of the Ministry of Justice enforce the sales, distributions and payments, as described in the first paragraph.\r\nThe scope, methods and procedures, of the claimant and of a motion for return or payment, the scope of return or payment that the prosecutor should enforce, as described in the first paragraph, and other enforcement measures that should be followed shall be determined by the Executive Yuan."
 		},
 		{
 			"number": 47400,
@@ -2620,7 +2764,7 @@
 		},
 		{
 			"number": 47500,
-			"content": "(Announcement and Effect of Seized Property Impossible to Return)\r\nWhere the location of the right holder of the seized property is unknown or where a return is not possible for other causes, a prosecutor shall make a public announcement; if no one requests for a return after 6 months since the announcement lapses, the seized property shall belong to the national treasury.\r\nDuring the preceding period, valueless property may be discarded; if inconvenient to preserve, such items may be sold at an auction and the proceeds retained."
+			"content": "If the whereabouts of the person to whom the confiscated objects should be returned is unknown, or if the confiscated objects cannot be returned for other reasons, the prosecutor should make a public announcement. If after two years from the date of announcement no one claims the return, the confiscated objects shall be turned over to the National Treasury.\r\nWorthless objects, despite being within the holding period as described in the preceding paragraph, may be discarded; objects that are difficult to be kept in custody will be sold by a court order, from which the proceeds shall be kept in custody."
 		},
 		{
 			"number": 47600,
@@ -2636,11 +2780,11 @@
 		},
 		{
 			"number": 47900,
-			"content": "(Commutation to Labor)\r\nA fine commutated to labor pursuant to Paragraph 1 of Article 42 shall be instructed by the prosecutor in charge of the execution."
+			"content": "Convicts, whose penalty is converted to community service or labor service, pursuant to Article 41, Article 42 and Article 42-1 of the Criminal Code, shall follow the order of the prosecutor in charge of the execution.\r\nFor converted community service, the prosecutor in charge of the execution shall give orders to provide such services to government agencies, government organizations, non-departmental public bodies, communities, or other Institutions or groups that meet public interest objectives, as designated by the concerned Prosecutors' Office, and shall set a time frame for service implementation."
 		},
 		{
 			"number": 48000,
-			"content": "(Execution and Law Application for Commutation to Labor Service)\r\nA person sentenced a fine commutated to labor service shall be separately executed from prisoners sentenced imprisonment or detention.\r\nArticle2 467 and 469 shall apply mutatis mutandis to commutation to labor service."
+			"content": "The implementation of labor service, converted from a fine, should be carried out separately from labor service carried out by those sentenced to imprisonment or those sentenced to criminal detention.\r\nThe provisions of Article 467 and Article 469 shall apply mutatis mutandis to cases of converted labor services.\r\nThe provisions of Article 467 shall apply mutatis mutandis to cases of converted community services."
 		},
 		{
 			"number": 48100,
