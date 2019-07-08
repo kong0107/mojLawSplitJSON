@@ -1,13 +1,14 @@
 {
 	"pcode": "J0080029",
 	"type": "命令",
-	"english": "Regulation on Businesses Electronically Processing the Accounting Data",
+	"english": "Regulations on Businesses Electronically Processing the Accounting Data",
 	"title": "商業使用電子方式處理會計資料辦法",
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=J0080029",
-	"englishUpdate": "20061129",
+	"englishUpdate": "20190613",
 	"history": [
 		"Promulgated on September 11, 1996",
-		"Amended on November 29, 2006"
+		"Amended on November 29, 2006",
+		"Amended on June 13, 2019"
 	],
 	"divisions": [],
 	"articles": [
@@ -17,7 +18,7 @@
 		},
 		{
 			"number": 200,
-			"content": "The following terms are used in this regulation with the meanings specified:\r\n1.Accounting data: Including accounting documents, account books, account items and financial statements, etc.\r\n2.Data storage medium: The disks, magnetic sheet, magnetic tape, and CDs used to store accounting data when processing accounting affairs electronically.\r\n3.Accounting software: The application programs used for processing accounting data."
+			"content": "The following terms are used in this regulation with the meanings specified:\r\n1.Accounting data: Including accounting documents, account books, account items and financial statements, etc.\r\n2.Data storage medium: The disks, magnetic tape, CDs, IC chips, computers, automatic machines or devices,or other medium used to store accounting data when processing accounting affairs electronically.\r\n3.Accounting software: The application programs used for processing accounting data."
 		},
 		{
 			"number": 300,
@@ -29,15 +30,15 @@
 		},
 		{
 			"number": 500,
-			"content": "The Business entities processing accounting data electronically, the authorization for input accounting data shall be in writing. The signed or stamped of the responsible person, manager, host and accounting staff in the bookkeeping voucher and account books can be replaced by control program that set by authorization password."
+			"content": "The Business Business entities processing accounting data electronically, the authorization for input accounting data shall be in writing or electronic form. The signed or stamped of the responsible person, manager, host and accounting staff in the bookkeeping voucher and account books can be replaced by control program that set by authorization password."
 		},
 		{
 			"number": 600,
-			"content": "When processing accounting data electronically, if errors are found, they should be corrected after review, and make a record for checking."
+			"content": "When processing accounting data electronically, if errors are found, they should be corrected after review, and make a record."
 		},
 		{
 			"number": 700,
-			"content": "The accounting documents, account books and financial statements of business entities, can be output electronically or store by data storage medium.\r\nBusiness entities shall number sequentially and bound into volumes when processing the account books electronically.\r\nThe business entities who use the data storage medium to store accounting data, shall provide the accounting software and data storage medium of processing accounting data, and print out the accounting data in the data storage medium for examine."
+			"content": "The accounting documents, account books and financial statements of business entities, can be output electronically or store by data storage medium."
 		},
 		{
 			"number": 800,
@@ -45,19 +46,19 @@
 		},
 		{
 			"number": 900,
-			"content": "All the accounting documents in the data storage medium, except those which should be permanently kept or which are related to unsettled accounting events, must be kept for at least five years after the completion of annual closing procedures.\r\nAll the account books and financial statements in the data storage medium must be kept for at least ten years after the completion of annual closing procedures; but those unsettled accounting matters are not limited to this."
+			"content": "All the accounting documents in the data storage medium, except those which should be permanently kept or which are related to unsettled accounting events, must be kept for at least five years after the completion of annual closing procedures.\r\nAll the account books and financial statements in the data storage medium must be kept for at least ten years after the completion of annual closing\r\nprocedures; but those unsettled accounting matters are not limited to this."
 		},
 		{
 			"number": 1000,
-			"content": "Business entities processing accounting data electronically, should prepare accounting data processing manual and update with changes in processing operations.\r\nThe accounting data processing manual must keep safely when the relevant manager or handling accountant dismissed or changing their duties, they should transfer it."
+			"content": "Business entities processing accounting data electronically, should prepare accounting data processing manual and update with changes in processing operations.\r\nThe accounting data processing manual must keep safely when the relevant manager or handling accountant dismissed or changing their duties, they\r\nshould transfer it."
 		},
 		{
 			"number": 1100,
-			"content": "The accounting data processing manual mentioned in the previous article should include the following items:\r\n1.The operation procedure for the processing of accounting data electronically.\r\n2.The format of input and output the data.\r\n3.The accounting data control methods, include the accounting data input, processing, output and storage.\r\n4.The code number and Chinese name comparison table of the chart of account.\r\n5.The operation procedure of wrong data.\r\n6.The procedure of data backup and recovery."
+			"content": "The accounting data processing manual mentioned in the previous article should include the following items:\r\n1.The operation procedure for the processing of accounting data electronically.\r\n2.The format of input and output the data.\r\n3.The accounting data control methods, include the accounting data input, processing, output and storage.\r\n4.The code number and Chinese name comparison table of the account items.\r\n5.The operation procedure of wrong data.\r\n6.The procedure of data backup and recovery."
 		},
 		{
 			"number": 1200,
-			"content": "The accounting software used by the business entities should include the following basic functions :\r\n1.Create the file of the chart of account.\r\n2.Log in the bookkeeping voucher.\r\n3.Inspect and control the accounting data.\r\n4.Posting the accounting journal.\r\n5.Display and print of various accounting books, forms and financial statements."
+			"content": "The accounting software used by the business entities should include the following basic functions :\r\n1.Create the file of the account items.\r\n2.Log in the bookkeeping voucher.\r\n3.Inspect and control the accounting data.\r\n4.Posting the accounting journal.\r\n5.Display and print of various accounting books, forms and financial statements."
 		},
 		{
 			"number": 1300,
