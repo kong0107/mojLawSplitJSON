@@ -4,7 +4,7 @@
 	"english": "Criminal Code of the Republic of China",
 	"title": "中華民國刑法",
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=C0000001",
-	"englishUpdate": "20180613",
+	"englishUpdate": "20190510",
 	"history": [
 		"387 clauses established and published on march 10, 1928 and promulgated on September 1, 1928.\r\n  357 clauses amended and published on January 1, 1935 and promulgated on July 1, 1935",
 		"Amendment to Article 5 promulgated on November 7, 1948",
@@ -41,7 +41,8 @@
 		"Amendment to Article 38-3 promulgated on June 22, 2016.",
 		"Amendment to Article 5 promulgated on November 30, 2016.",
 		"Amendment to Article 121, Article 122, Article 131, Article 143 promulgated on May 23, 2018.",
-		"Amendment to Article 190-1 promulgated on June 13, 2018."
+		"Amendment to Article 190-1 promulgated on June 13, 2018.",
+		"Amendment to Article113 and addition of Article115-1 promulgated on May 10, 2019"
 	],
 	"divisions": [
 		{
@@ -170,7 +171,7 @@
 					"number": 200,
 					"title": "Treason",
 					"start": 10300,
-					"end": 11500
+					"end": 11501
 				},
 				{
 					"type": "chapter",
@@ -915,7 +916,7 @@
 		},
 		{
 			"number": 11300,
-			"content": "Any person who without authority makes a secret agreement with a foreign government or its agent shall be sentenced to life imprisonment or imprisonment not less than seven years if the making of such an agreement on the matter requires Government authorization."
+			"content": "Any person who makes a secret agreement with a foreign government or its agents without authorization in respect of any matter that requires a government mandate shall be sentenced to imprisonment for not more than five years, short-term imprisonment; in lieu thereof, or in addition thereto, a fine not more than five hundred thousand dollars may be imposed; life imprisonment or imprisonment for not less than seven years may be imposed to such person, if such agreement should cause damage to the Republic of China."
 		},
 		{
 			"number": 11400,
@@ -924,6 +925,10 @@
 		{
 			"number": 11500,
 			"content": "Any person who forges, alters, destroys, or conceals a document, plan, or another thing which is evidence of a right of the Republic of China to a foreign state shall be sentenced to imprisonment not less than five years but not more than twelve years."
+		},
+		{
+			"number": 11501,
+			"content": "The offense set forth in this chapter shall also apply to offenses committed in Mainland China, Hong Kong, Macao, or any hostile foreign forces, or to the agents thereof. The offender who violates any provision of this chapter shall be punished in accordance with such provision."
 		},
 		{
 			"number": 11600,
@@ -1355,7 +1360,7 @@
 		},
 		{
 			"number": 21000,
-			"content": "A person who forges or alters a private document and causes injury to the public or to another shall be sentenced to imprisonment for not more than five years."
+			"content": "A person who forges or alters a private document and causes injury to the public or another shall be sentenced to imprisonment for not more than five years."
 		},
 		{
 			"number": 21100,
@@ -1375,11 +1380,11 @@
 		},
 		{
 			"number": 21500,
-			"content": "A person who makes in a document or certificate prepared in the course of his occupation an entry which he knows be to false and causes injury to the public or another shall be sentenced to imprisonment for not more than three years, short-term imprisonment or a fine of not more than five hundred yuan."
+			"content": "A person who makes in a document or certificate prepared in the course of his occupation an entry which he knows to be false and causes injury to the public or another shall be sentenced to imprisonment for not more than three years, short-term imprisonment or a fine of not more than five hundred yuan."
 		},
 		{
 			"number": 21600,
-			"content": "A person who puts into circulation a document specified in one of the articles, 210 through 215, shall be punished in accordance with the provisions relating to forging or altering documents, to making a false entry, or to causing a false entry to be make."
+			"content": "A person who puts into circulation a document specified in one of the articles, 210 through 215, shall be punished in accordance with the provisions relating to forging or altering documents, making a false entry,or causing a false entry to be made."
 		},
 		{
 			"number": 21700,
@@ -1395,7 +1400,7 @@
 		},
 		{
 			"number": 22000,
-			"content": "A writing, symbol, drawing, photograph on a piece of paper or an article which by custom or by special agreement is sufficient evidence of intention therein contained shall be considered a document within the meaning of this Chapter and other chapters.\r\nSo shall be an audio recording, a visual recording, or a electromagnetic recording and the voices, images or symbols that are shown through computer process and are sufficient evidence of intention."
+			"content": "A writing, symbol, drawing, photograph on a piece of paper or an article which by custom or by special agreement is sufficient evidence of intention therein contained shall be considered a document within the meaning of this Chapter and other chapters.\r\nSo shall be an audio recording, a visual recording, or an electromagnetic recording and the voices, images or symbols that are shown through computer process and are sufficient evidence of intention therein contained."
 		},
 		{
 			"number": 22100,
