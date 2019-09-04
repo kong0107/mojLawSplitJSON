@@ -1,480 +1,90 @@
 {
 	"法規性質": "命令",
 	"法規名稱": "證券發行人財務報告編製準則（採國際財務報導準則版本）",
-	"法規網址": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=G0400050",
+	"法規網址": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=G0400050",
 	"法規類別": "行政＞金融監督管理委員會＞證券暨期貨管理目",
 	"最新異動日期": "20190424",
 	"是否英譯註記": "Y",
 	"英文法規名稱": "Regulations Governing the Preparation of Financial Reports by Securities Issuers",
 	"附件": [
-		{
-			"name": "檔案名稱",
-			"children": [
-				"格式一  XXX公司資產負債表（年）.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"格式一之一  XXX公司資產負債表（期中）.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"格式二 XXX公司綜合損益表（年度）.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"格式二之一  XXX公司綜合損益表（期中）.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"格式三  權益變動表.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"格式四  現金流量表.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"格式五之一  資金貸與他人.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"格式五之二  財務報告附表（為他人背書保證）.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"格式五之三  期末持有有價證券情形（不包含投資子公司、關聯企業及合資權益部分）.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"格式五之四  財務報告附表（累積買進或賣出同一有價證券之金額達新臺幣三億元或實收資本額百分之二十以上）.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"格式五之五  財務報告附表（取得不動產之金額達新臺幣三億元或實收資本額百分之二十以上）.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"格式五之六  財務報告附表（處分不動產之金額達新臺幣三億元或實收資本額百分之二十以上）.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"格式五之七  財務報告附表（與關係人進、銷貨之金額達新臺幣一億元或實收資本額百分之二十以上）.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"格式五之八  應收關係人款項達新臺幣一億元或實收資本額百分之二十以上.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"格式五之九  財務報告附表（母子公司間業務關係及重要交易往來情形）.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"格式五之十  財務報告附表（被投資公司名稱、所在地區...等相關資訊－不包含大陸被投資公司）.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"格式五之十一  財務報告附表（大陸投資資訊）.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"格式六之一  現金及約當現金明細表.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"格式六之二  透過損益按公允價值衡量之金融資產－流動明細表.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"格式六之三  透過其他綜合損益按公允價值衡量之金融資產－流動明細表.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"格式六之四  避險之金融資產－流動明細表.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"格式六之五  刪除.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"格式六之六  按攤銷後成本衡量之金融資產－流動明細表.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"格式六之七  應收票據明細表.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"格式六之八  應收帳款明細表.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"格式六之九  其他應收款明細表.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"格式六之十  存貨明細表.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"格式六之十一  生物資產－流動明細表.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"格式六之十二  預付款項明細表.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"格式六之十三  待出售非流動資產明細表.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"格式六之十四  其他流動資產明細表.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"格式六之十五  透過損益按公允價值衡量之金融資產－非流動變動明細表.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"格式六之十六  透過其他綜合損益按公允價值衡量之金融資產－非流動變動明細表.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"格式六之十七  刪除.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"格式六之十八  避險之金融資產－非流動明細表.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"格式六之十九  刪除.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"格式六之二十  按攤銷後成本衡量之金融資產－非流動變動明細表.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"格式六之二十一  採用權益法之投資變動明細表.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"格式六之二十二  採用權益法之投資累計減損變動明細表.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"格式六之二十三  不動產、廠房及設備變動明細表.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"格式六之二十四  不動產、廠房及設備累計折舊變動明細表.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"格式六之二十五  不動產、廠房及設備累計減損變動明細表.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"格式六之二十六  使用權資產變動明細表.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"格式六之二十七  使用權資產累計折舊變動明細表.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"格式六之二十八  使用權資產累計減損變動明細表.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"格式六之二十九  投資性不動產變動明細表.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"格式六之三十  投資性不動產累計折舊變動明細表.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"格式六之三十一  投資性不動產累計減損變動明細表.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"格式六之三十二  無形資產變動明細表.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"格式六之三十三  遞延所得稅資產明細表.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"格式六之三十四  生物資產－非流動明細表.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"格式六之三十五  其他非流動資產明細表.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"格式七之一  短期借款明細表.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"格式七之二  應付短期票券明細表.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"格式七之三  透過損益按公允價值衡量之金融負債－流動明細表.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"格式七之四  避險之金融負債－流動明細表.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"格式七之五  刪除.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"格式七之六  應付票據明細表.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"格式七之七  應付帳款明細表.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"格式七之八  其他應付款明細表.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"格式七之九  負債準備－流動明細表.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"格式七之十  與待出售非流動資產直接相關之負債明細表.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"格式七之十一  其他流動負債明細表.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"格式七之十二  透過損益按公允價值衡量之金融負債－非流動變動明細表.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"格式七之十三  避險之金融負債－非流動明細表.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"格式七之十四  應付公司債明細表.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"格式七之十五  長期借款明細表.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"格式七之十六  租賃負債明細表.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"格式七之十七  負債準備－非流動明細表.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"格式七之十八  遞延所得稅負債明細表.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"格式七之十九  其他非流動負債明細表.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"格式八之一  營業收入明細表.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"格式八之二  營業成本明細表.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"格式八之三  推銷費用明細表.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"格式八之四  管理費用明細表.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"格式八之五  其他收益及費損淨額明細表.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"格式八之六  財務成本明細表.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"格式八之七  本期發生之員工福利、折舊、折耗及攤銷費用功能別彙總表.PDF"
-			]
-		}
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000148871",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000148872",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000148873",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000148874",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000148876",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000148877",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000148878",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000148879",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000148885",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000148886",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000148887",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000148888",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000148890",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000148891",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000148892",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000148899",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000148900",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000148911",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000148912",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000148913",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000148916",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000148917",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000148918",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000148919",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000148920",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000148921",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000148922",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000148924",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000148925",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000148929",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000148930",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000148931",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000148932",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000148933",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000148934",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000188980",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000188981",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000188982",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000188983",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000199836",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000199837",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000199838",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000199839",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000199840",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000199841",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000199842",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000199843",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000199844",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000199845",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000199846",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000199847",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000199848",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000199849",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000199850",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000199851",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000199852",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000199853",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000199854",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000199855",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000205011",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000222848",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000222849",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000222850",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000222851",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000222852",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000222853",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000222854",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000222855",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000222856",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000222857",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000222858",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000222859",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000222860",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000222861",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000222862",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000222863",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000222864",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000247302"
 	],
 	"沿革內容": "1.中華民國五十七年六月十一日經濟部證券管理委員會訂定發布\r\n2.中華民國五十八年一月三十日經濟部證券管理委員會（58）證管發字第\r\n  0100  號令修正發布\r\n3.中華民國五十八年三月二十八日經濟部證券管理委員會（58）證管發字\r\n  第 0306 號令修正發布\r\n4.中華民國七十一年三月十一日財政部證券管理委員會（71）證管一字第\r\n  0300  號令修正發布第 1、2、4、9 、33  條條文\r\n5.中華民國七十三年六月三十日財政部證券管理委員會（73）台財證（一\r\n  ）字第 1788 號令修正發布\r\n6.中華民國七十四年七月三十日財政部證券管理委員會（74）台財證（一\r\n  ）字第 1342-1 號令修正發布第 3  條條文\r\n7.中華民國八十年五月七日財政部證券管理委員會（80）台財證（一）字\r\n  第 00860  號令修正發布                                          \r\n8.中華民國八十四年十一月七日財政部證券管理委員會（84）台財證（六\r\n  ）字第 02576  號令修正發布\r\n9.中華民國八十八年三月三十一日財政部證券暨期貨管理委員會（88）台\r\n  財證（六）字第 01399  號令修正發布第 8、25  條條文；增訂第 26\r\n  、27  條條文\r\n10. 中華民國八十九年十一月一日財政部證券暨期貨管理委員會（89）台\r\n    財證（六）字第 04754  號令修正發布第 8、10、19  條條文；增訂\r\n    第 13-1、13-2、22-1、26-1、26-2 條條文；並自發布日起施行\r\n11. 中華民國九十一年十月三日財政部證券暨期貨管理委員會台財證六字\r\n    第 0910005124 號令修正發布第 2、5、6、8、10、11、12、17、18\r\n    、19 22、23、26-2 條條文\r\n12. 中華民國九十二年一月三十日財政部證券暨期貨管理委員會台財證六\r\n    字第 0920000443 號令修正發布第 6、8、9、10、11、13、14、21\r\n    條條文及第 14 條之附表（格式一、四、五–五）、第 11 條之附表\r\n    （格式二十四）及第 21 條之附表（格式十九、二十、二十五）\r\n13. 中華民國九十四年三月二十九日行政院金融監督管理委員會金管證六\r\n    字第 0940001315 號令修正發布第 4、5、8、11、13-1、14、23  條\r\n    條文；增訂第 24-1 條條文、第五章之一章名；刪除第 15～17 條條\r\n    文、第三章章名\r\n14. 中華民國九十四年九月二十七日行政院金融監督管理委員會金管證六\r\n    字第 0940004294 號令修正發布全文 24 條；並自九十五年一月一日\r\n    施行\r\n15. 中華民國九十六年三月九日行政院金融監督管理委員會金管證六字第\r\n    0960008823  號令修正發布第 6～10、17、24  條條文；除第 17 條\r\n    第 1  項第 5  款之格式六自中華民國九十七年一月一日施行外，餘\r\n    自九十六年一月一日施行\r\n16. 中華民國九十八年一月十日行政院金融監督管理委員會金管證六字第\r\n    0970070615  號令修正發布第 7、24  條條文；除第 7  條第 3  項\r\n    第 1  款第 11 目自九十八年一月一日施行外，餘自發布日施行\r\n17. 中華民國一百年七月七日行政院金融監督管理委員會金管證審字第 1\r\n    000032208 號令修正發布全文 29 條；並自一百零一年一月一日施行\r\n18. 中華民國一百年十二月二十二日行政院金融監督管理委員會金管證審\r\n    字第 1000062465 號令修正發布第 9～12、21、23  條條文及第 19 \r\n    條之附表；並增訂 26-1 條條文\r\n    中華民國一百零一年六月二十五日行政院院臺規字第 1010134960 號\r\n    公告第 2  條第 2  項第 8  款所列屬「行政院金融監督管理委員會\r\n    」之權責事項，自一百零一年七月一日起改由「金融監督管理委員會\r\n    」管轄\r\n19. 中華民國一百零二年十二月三十日金融監督管理委員會金管證審字第\r\n    1020052738  號令修正發布第 6、9、17、26、28、29 條條文及第 1\r\n    9 條條文之格式五之一至五之十一、第 23 條條文之格式六之二十六\r\n    至六之二十八；並自發布日施行\r\n20. 中華民國一百零三年四月二十四日金融監督管理委員會金管證審字第\r\n    1030013142  號令修正發布第 9  條條文\r\n21. 中華民國一百零三年八月十三日金融監督管理委員會金管證審字第 1\r\n    030029342 號令修正發布全文 31 條；除第 2、4、7、8～13、15、1\r\n    7、19～21、24、26、28 條自一百零四會計年度施行外，自發布日施\r\n    行\r\n22. 中華民國一百零五年十二月十九日金融監督管理委員會金管證審字第\r\n    1050050021  號令修正發布第 9、12、15、18、29、31  條條文及第\r\n    五章章名及第 19 條條文之格式一、一之一及第 23 條條文之格式六\r\n    之十一、六之二十三至六之二十五、六之三十一；增訂第 24-1、24-\r\n    2 條條文；刪除第 30 條條文；並自一百零六會計年度施行\r\n23. 中華民國一百零六年六月二十八日金融監督管理委員會金管證審字第\r\n    1060023231  號令修正發布第 9～12、15、23、31  條條文及第 19 \r\n    條條文之格式一、一之一、二、二之一、三、四、五之一、五之三及\r\n    五之八；並自一百零七會計年度施行\r\n24. 中華民國一百零七年七月十三日金融監督管理委員會金管證審字第 1\r\n    070324155 號令修正發布第 9、10、15、20、23、28、31  條條文；\r\n    刪除第 27 條條文；除第 9  條第 4  項第 3  款、第 4  款及第 6\r\n    項及第 10、15、23 條及第 19 條格式一、一之一自一百零八會計年\r\n    度施行外，自發布日施行\r\n25. 中華民國一百零八年四月二十四日金融監督管理委員會金管證審字第\r\n    1080310909  號令修正發布第 23 條條文之格式八之七",
 	"法規內容": [
