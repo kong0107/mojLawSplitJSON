@@ -2,7 +2,7 @@
 	"pcode": "N0070004",
 	"type": "命令",
 	"title": "勞動檢查法施行細則",
-	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0070004",
+	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0070004",
 	"category": [
 		"行政",
 		"勞動部",
@@ -12,30 +12,10 @@
 	"isTranslated": true,
 	"english": "Enforcement Rules of the Labor Inspection Act",
 	"attachments": [
-		{
-			"name": "檔案名稱",
-			"children": [
-				"附表一 製造、處置、使用危險物之名稱、數量.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"附表一 製造、處置、使用危險物之名稱、數量.DOC"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"附表二 製造、處置、使用有害物之名稱、數量.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"附表二 製造、處置、使用有害物之名稱、數量.DOC"
-			]
-		}
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000018556",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000018557",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000233317",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000233318"
 	],
 	"history": [
 		"中華民國八十二年八月二十五日行政院勞工委員會（82）台勞檢一字第 049039 號令訂定發布全文 41 條",

@@ -2,7 +2,7 @@
 	"pcode": "A0030243",
 	"type": "法律",
 	"title": "法官法",
-	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0030243",
+	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0030243",
 	"category": [
 		"司法",
 		"院本部",
@@ -14,18 +14,8 @@
 	"isTranslated": true,
 	"english": "Judges Act",
 	"attachments": [
-		{
-			"name": "檔案名稱",
-			"children": [
-				"法官俸表.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"法官俸表.DOC"
-			]
-		}
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000098061",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000235170"
 	],
 	"history": [
 		"中華民國一百年七月六日總統華總一義字第 10000141401 號令制定公布全文 103 條；除第五章法官評鑑自公布後半年施行 、 第 78 條自公布後三年六個月施行外，自公布後一年施行",

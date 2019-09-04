@@ -2,7 +2,7 @@
 	"pcode": "H0000169",
 	"type": "命令",
 	"title": "文化部編制表",
-	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0000169",
+	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0000169",
 	"category": [
 		"行政",
 		"文化部",
@@ -11,12 +11,7 @@
 	"lastUpdate": "20180418",
 	"isTranslated": false,
 	"attachments": [
-		{
-			"name": "檔案名稱",
-			"children": [
-				"文化部編制表.PDF"
-			]
-		}
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000215807"
 	],
 	"history": [
 		"中華民國一百年十月三十一日行政院文化建設委員會文人字第 10020278801 號令訂定發布；並自一百零一年五月二十日生效",
@@ -28,7 +23,7 @@
 	"articles": [
 		{
 			"number": 100,
-			"content": "法源資訊編：本編制表依據文化部組織法第 7  條訂定，內容請參閱相關\r\n            圖表附檔。"
+			"content": "備      註：本編制表依據文化部組織法第 7  條訂定，內容請參閱相關\r\n            圖表附檔。"
 		}
 	]
 }

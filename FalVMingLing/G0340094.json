@@ -2,7 +2,7 @@
 	"pcode": "G0340094",
 	"type": "命令",
 	"title": "印花稅彙總繳納辦法",
-	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=G0340094",
+	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=G0340094",
 	"category": [
 		"行政",
 		"財政部",
@@ -11,30 +11,10 @@
 	"lastUpdate": "19880812",
 	"isTranslated": false,
 	"attachments": [
-		{
-			"name": "檔案名稱",
-			"children": [
-				"附件一印花稅總繳（變更）申請書.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"附件一印花稅總繳（變更）申請書.DOC"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"附件二彙總繳納印花稅憑證加蓋戳記式樣.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"附件二彙總繳納印花稅憑證加蓋戳記式樣.DOC"
-			]
-		}
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000019443",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000019444",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000233503",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000233504"
 	],
 	"history": [
 		"中華民國三十七年十二月十一日財政部（37）餘參字第 6 號令訂定發布",

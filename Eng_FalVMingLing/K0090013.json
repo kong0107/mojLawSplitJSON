@@ -3,45 +3,15 @@
 	"type": "命令",
 	"english": "Medical Examination Standards of Airmen",
 	"title": "航空人員體格檢查標準",
-	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0090013",
+	"url": "http://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0090013",
 	"englishUpdate": "20160308",
 	"attachments": [
-		{
-			"name": "檔案名稱",
-			"children": [
-				"attachment 1.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"attachment 1.doc"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"attachment 2：Application Form for Medical Waiver (Company).PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"attachment 2：Application Form for Medical Waiver (Company).doc"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"attachment 2：Application Form for Medical Waiver (Personal).PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"attachment 2：Application Form for Medical Waiver (Personal).doc"
-			]
-		}
+		"http://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000002051",
+		"http://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000002052",
+		"http://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000002053",
+		"http://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004599",
+		"http://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004600",
+		"http://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004601"
 	],
 	"history": [
 		"Full text promulgated by the CAA decree on November 17, 1973",

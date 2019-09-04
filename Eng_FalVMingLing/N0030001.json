@@ -3,8 +3,8 @@
 	"type": "法律",
 	"english": "Labor Standards Act",
 	"title": "勞動基準法",
-	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=N0030001",
-	"englishUpdate": "20181121",
+	"url": "http://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=N0030001",
+	"englishUpdate": "20190619",
 	"history": [
 		"Enacted and promulgated a total eighty-six articles of the Act by the Presidential Order No.14069 on July 30, 1984",
 		"Amended and promulgated Article 3, added Articles 31-1, 84-1 and 84-2 of the Act by the Presidential Order No.8500298370 on December 27, 1996",
@@ -25,7 +25,9 @@
 		"Amended on December 21, 2016",
 		"Article 61 of the Labor Standards Act amended and promulgated by Presidential Decree No. 10600155871 on December 27, 2017",
 		"Amended and promulgated Article 24, 32, 34, 36 to 38 and 86, added Article 32-1 of the Act by the Presidential Decree No. 10700009781 on January 31, 2018, and shall effect from March 1, 2018",
-		"Article 54, 55 and 59 of the Labor Standards Act amended and promulgated by Presidential Decree No. 10700125351 on November 21, 2018"
+		"Article 54, 55 and 59 of the Labor Standards Act amended and promulgated by Presidential Decree No. 10700125351 on November 21, 2018",
+		"Amended and promulgated Article 2 and 9, added Article 22-1 of the Act by the Presidential Decree No. 10800049091 on May 15, 2019.",
+		"Amended and promulgated Article 63 and 78, added Article 17-1 and 63-1 of the Act by the Presidential Decree No. 10800060011 on June 19, 2019."
 	],
 	"divisions": [
 		{
@@ -75,7 +77,7 @@
 			"number": 700,
 			"title": "Compensation for Occupational Accidents",
 			"start": 5900,
-			"end": 6300
+			"end": 6301
 		},
 		{
 			"type": "chapter",
@@ -120,7 +122,7 @@
 		},
 		{
 			"number": 200,
-			"content": "The terms used in the Act shall be defined as follows:\r\n1. Worker means a person who is hired by an employer  to  work for wages.\r\n2. Employer means a business entity which hires workers, the responsible person of business operations, or the person who represents the business owner in handling labor matters.\r\n3. Wage means the remuneration which a worker receives for his/her services rendered, including wages, salaries and bonuses, allowances and any other regular payments regardless of the name which may be computed on an hourly, daily, monthly and piecework basis, whether payable in cash or in kind.\r\n4. Average wage means the figure reached by taking the total wages for the six months preceding the day on which an event requiring that a computation be made occurs, divided by the total number of days in that period. In the case of a period of service not exceeding six months, the term \"average wage\" means the figure reached by taking the total wages for the service period divided by the total number of days of that period. In the case of wages which are computed on a daily, hourly, or piecework basis, if the \"average wage\" figure reached according to the preceding formula is less than sixty percent of a figure determined by dividing the total wages for the particular service period by the actual number of work days, the \"average wage\" in this case shall be the sixty percent figure.\r\n5. Business entity means any entity engaged in any of the business (or industries) that are governed by the Act, which employs workers to do work.\r\n6. Labor  contract  means  an  agreement  that  establishes an employee-employer relationship."
+			"content": "The terms used in the Act shall be defined as follows:\r\n1. Worker means a person who is hired by an employer to work for wages.\r\n2. Employer means a business entity which hires workers, the responsible person of business operations, or the person who represents the business owner in handling labor matters.\r\n3. Wage means the remuneration which a worker receives for his/her services rendered, including wages, salaries and bonuses, allowances and any other regular payments regardless of the name which may be computed on an hourly, daily, monthly and piecework basis, whether payable in cash or in kind.\r\n4. Average wage means the figure reached by taking the total wages for the six months preceding the day on which an event requiring that a computation be made occurs, divided by the total number of days in that period. In the case of a period of service not exceeding six months, the term \"average wage\" means the figure reached by taking the total wages for the service period divided by the total number of days of that period. In the case of wages which are computed on a daily, hourly, or piecework basis, if the \"average wage\" figure reached according to the preceding formula is less than sixty percent of a figure determined by dividing the total wages for the particular service period by the actual number of work days, the \"average wage\" in this case shall be the sixty percent figure.\r\n5. Business entity means any entity engaged in any of the business (or industries) that are governed by the Act, which employs workers to do work.\r\n6. Labor contract means an agreement that establishes an employee-employer relationship with subordination to authority.\r\n7. A dispatching entity means an entity engaged in labor-dispatched business.\r\n8. Dispatch-requiring entity means an entity that is actually supervising and managing a dispatched worker doing his/her job in accordance with a dispatch-requiring contract.\r\n9. Dispatched worker means a worker who is employed by a dispatching entity but actually works for the dispatch-requiring entity.\r\n10. Dispatch-requiring contract means an agreement concerning labor-dispatched matters between a dispatch-requiring entity and a dispatching entity."
 		},
 		{
 			"number": 300,
@@ -148,7 +150,7 @@
 		},
 		{
 			"number": 900,
-			"content": "Labor contracts  may be divided into two categories: fixed term contracts and non-fixed term contracts. A contract in nature for temporary, short-term, seasonal or specific work may be made as a fixed term contract, but a contract for continuous work, should be a non-fixed term contract.\r\nIn any one of the following situations, a fixed term contract shall be deemed as to be a non-fixed term upon the expiration of the contract:\r\n1. Where an employer raises no immediate objection when a worker continues his/her work.\r\n2. Where, despite the execution of a new contract, the prior contract and the new one together cover a period of more than ninety days and the period of time between expiration of the prior contract and execution of the new one does not exceed thirty days.\r\nThe preceding paragraph shall not apply in the case of a fixed term contract for specific or seasonal work."
+			"content": "Labor contracts may be divided into two categories: fixed term contracts and non-fixed term contracts. A contract in nature for temporary, short-term, seasonal or specific work may be made as a fixed term contract, but a contract for continuous work, should be a non-fixed term contract. The labor contract between a dispatching entity and a dispatched worker shall be a non-fixed term contract.\r\nIn any one of the following situations, a fixed term contract shall be deemed as to be a non-fixed term upon the expiration of the contract:\r\n1. Where an employer raises no immediate objection when a worker continues his/her work.\r\n2. Where, despite the execution of a new contract, the prior contract and the new one together cover a period of more than ninety days and the period of time between expiration of the prior contract and execution of the new one does not exceed thirty days.\r\nThe preceding paragraph shall not apply in the case of a fixed term contract for specific or seasonal work."
 		},
 		{
 			"number": 901,
@@ -195,6 +197,10 @@
 			"content": "An employer terminating a labor contract pursuant to the preceding Article shall issue severance pay to the worker in accordance with the terms set forth below.\r\n1. If the worker continues to work for a business entity owned by the same employer, severance pay that is equal to one month’s average wage for each year of service; \r\n2. The severance pay for the months remaining after calculation in accordance with the preceding subparagraph, or for workers who have been employed for less than one year shall be calculated proportionally; any period of employment less than a month shall be calculated as one month. \r\nEmployers shall issue the severance pay of the preceding Paragraph within 30 days after the labor contract is terminated."
 		},
 		{
+			"number": 1701,
+			"content": "A dispatch-requiring entity shall not interview the dispatched worker or undertake any other conduct of appointing a specific dispatched worker before dispatching entity and a dispatched worker sign a labor contract.\r\nIf a dispatch-requiring entity violated the preceding paragraph and has received the service of the dispatched worker, the dispatched worker may, within 90 days since the first day that service was provided, express in writing his or her intention to establish a labor contract with the dispatch-requiring entity.\r\nThe dispatch-requiring entity shall negotiate with the dispatched worker about the establishment of labor contract within ten days since the first day of receiving the dispatched worker’s intention. If the negotiation has not taken place within ten days or the negotiation has failed, the labor contract shall be established between two parties since the day after the aforesaid ten days have expired. The contract shall contain labor conditions that were in effect during the period that dispatched worker actually worked for the dispatch-requiring entity.\r\nWhen a dispatched worker expresses his/her intention in accordance with the Paragraph 2, the dispatching entity and the dispatch-requiring entity shall not terminate, demote, reduce wages of; or harm the rights and benefits under the law, contract or norm; or take any unfavorable measure against the dispatched worker.\r\nIt shall be invalid if the dispatching entity and the dispatch-requiring entity carry out any of the conduct in the preceding paragraph.\r\nWhen a dispatched worker signs a labor contract with a dispatch-requiring entity according to Paragraphs 2 and 3, his/her labor contract with the dispatching entity is deemed to be terminated, and the dispatched worker is neither responsible for the minimum service period as required nor for refunding training expenses.\r\nThe dispatching entity in the preceding paragraph shall pay the dispatched worker retirement pension or severance pay in accordance with the payment criteria and duration set forth in the Act or the Labor Pension Act."
+		},
+		{
 			"number": 1800,
 			"content": "In any of the following situations, a worker shall not claim from the employer either additional wages for the advance notice period or severance pay:\r\n1. A labor contract is terminated pursuant to Article 12 or 15.\r\n2. The worker  leaves  his/her  service  upon expiration of a fixed term contract."
 		},
@@ -213,6 +219,10 @@
 		{
 			"number": 2200,
 			"content": "Wages shall be paid in the statutory, circulating currency; provided, however, that part of such wages may, by custom or business nature, be paid partly in kind in accordance with the labor contract. If part of the wages is paid in kind, the conversion price of such wages in kind shall be fair and reasonable to meet the needs of both the worker and his/her family members.\r\nWages shall be paid in full directly to the worker, unless otherwise prescribed by applicable statutes or administrative regulations or agreed to by both the employer and the worker."
+		},
+		{
+			"number": 2201,
+			"content": "If the dispatching entity is fined by the competent authority for owing the dispatched worker wages or ordered to pay by a deadline according to Article 27 but has failed to comply, the dispatched worker may request the dispatch-requiring entity to pay. The dispatch-requiring entity shall make the payment within 30 days since the day that request is made.\r\nWhen the dispatch-requiring entity has made the payment according to the preceding paragraph, it may ask the dispatching entity for reimbursement or deduct the amount that it should pay under the dispatch-requiring contract."
 		},
 		{
 			"number": 2300,
@@ -384,7 +394,11 @@
 		},
 		{
 			"number": 6300,
-			"content": "Where a contractor's or subcontractor's work site is located within the scope of work site of the original business entity or is provided for by the same, the said original business entity shall supervise the contractor or subcontractor to provide their hired workers with such labor conditions as prescribed in applicable statutes and administrative regulations.\r\nA business entity shall be jointly and severally liable with the contractor or subcontractor for the compensation of occupational accidents caused to workers hired by the contractor or subcontractor for having violated the provisions of the Labor Safety and Health Act pertaining to obligations which the contractor or subcontractor are required to perform."
+			"content": "Where a contractor's or subcontractor's work site is located within the scope of work site of the original business entity or is provided for by the same, the said original business entity shall supervise the contractor or subcontractor to provide their hired workers with such labor conditions as prescribed in applicable statutes and administrative regulations.\r\nA business entity shall be jointly and severally liable with the contractor or subcontractor for the compensation of occupational accidents caused to workers hired by the contractor or subcontractor for having violated the provisions of the Occupational Safety and Health Act pertaining to obligations which the contractor or subcontractor are required to perform."
+		},
+		{
+			"number": 6301,
+			"content": "When a dispatched worker working at dispatch-requiring entity incurs an occupational accident, the dispatch-requiring entity and the dispatching entity shall be jointly and severally liable for compensation that an employer shall bear in accordance with this Chapter.\r\nIf the dispatch-requiring entity or the dispatching entity has already paid for compensation in accordance with the provisions of the Labor Insurance Act or other applicable statutes and administrative regulations, it may claim deduction.\r\nIf the dispatch-requiring entity and the dispatching entity violating the provisions of the Act or the Occupational Safety and Health Act shall be jointly and severally liable for the compensation of occupational accidents caused to the dispatched worker.\r\nThe compensation paid by the dispatch-requiring entity or dispatching entity in accordance with the Act may be deducted from the payment of compensation for damages arising out of the same accident."
 		},
 		{
 			"number": 6400,
@@ -444,7 +458,7 @@
 		},
 		{
 			"number": 7800,
-			"content": "Employers failing to pay severance pay or pensions in accordance with the criteria or timelines set forth in Articles 17 and 55 shall be subject to fines between NT$300,000 and NT$1.5 million and shall be ordered to make the payment within a given period; failure to make payments shall be fined consecutively.\r\nEmployers violating Articles 13, 26, 50 and 51 or Paragraph 2 of Article 56 shall be subject to fines between NT$90,000 and NT$450,000."
+			"content": "Employers failing to pay severance pay or pensions in accordance with the criteria or timelines set forth in Article 17, Paragraph 7 of Article 17-1, and Article 55 shall be subject to fines between NT$300,000 and NT$1.5 million and shall be ordered to make the payment within a given period; failure to make payments shall be fined consecutively.\r\nEmployers violating Article 13, Paragraphs 1 and 4 of Article 17-1, Articles 26, 50 and 51 or Paragraph 2 of Article 56 shall be subject to fines between NT$90,000 and NT$450,000."
 		},
 		{
 			"number": 7900,

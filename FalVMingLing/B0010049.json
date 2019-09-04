@@ -2,7 +2,7 @@
 	"pcode": "B0010049",
 	"type": "命令",
 	"title": "家事事件書狀規則",
-	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=B0010049",
+	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=B0010049",
 	"category": [
 		"司法",
 		"院本部",
@@ -11,42 +11,12 @@
 	"lastUpdate": "20161123",
 	"isTranslated": false,
 	"attachments": [
-		{
-			"name": "檔案名稱",
-			"children": [
-				"格式一.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"格式一.DOC"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"格式二.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"格式二.DOC"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"範例.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"範例.DOC"
-			]
-		}
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000110067",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000110068",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000110069",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000235319",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000235320",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000235321"
 	],
 	"history": [
 		"中華民國一百零一年四月十七日司法院院台廳少家二字第 1010010803 號令訂定發布全文 6 條；並自一百零一年六月一日施行",

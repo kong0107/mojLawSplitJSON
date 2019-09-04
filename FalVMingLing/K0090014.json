@@ -2,7 +2,7 @@
 	"pcode": "K0090014",
 	"type": "命令",
 	"title": "飛航規則",
-	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=K0090014",
+	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=K0090014",
 	"category": [
 		"行政",
 		"交通部",
@@ -12,66 +12,16 @@
 	"isTranslated": true,
 	"english": "Rules of the Air",
 	"attachments": [
-		{
-			"name": "檔案名稱",
-			"children": [
-				"附錄一：無人氣球.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"附錄一：無人氣球.DOC"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"附錄二：信號.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"附錄二：信號.DOC"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"附錄三民用航空器之攔截.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"附錄三民用航空器之攔截.DOC"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"附表一目視飛航之最低飛航能見度及距雲距離.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"附表一目視飛航之最低飛航能見度及距雲距離.DOC"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"附表二：巡航空層表.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"附表二：巡航空層表.DOC"
-			]
-		}
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000045137",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000049593",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000083385",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000083386",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000155291",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000234086",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000234225",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000234773",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000234774",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000236141"
 	],
 	"history": [
 		"中華民國四十四年九月一日交通部（44）交發航字第 07368 號令訂定發布",

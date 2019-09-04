@@ -2,7 +2,7 @@
 	"pcode": "A0030167",
 	"type": "命令",
 	"title": "司法院大法官服制規則",
-	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0030167",
+	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0030167",
 	"category": [
 		"司法",
 		"院本部",
@@ -11,30 +11,10 @@
 	"lastUpdate": "19990325",
 	"isTranslated": false,
 	"attachments": [
-		{
-			"name": "檔案名稱",
-			"children": [
-				"附圖（一）長袍正面.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"附圖（二）長袍背面.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"附圖（三）披肩.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"附圖（四）方帽.PDF"
-			]
-		}
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000210833",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000210834",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000210835",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000210836"
 	],
 	"history": [
 		"中華民國八十二年十月十六日司法院（82）院台大一字第 19386 號令訂定發布全文 7 條",

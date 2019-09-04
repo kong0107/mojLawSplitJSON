@@ -2,7 +2,7 @@
 	"pcode": "R0020006",
 	"type": "命令",
 	"title": "監場規則",
-	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=R0020006",
+	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=R0020006",
 	"category": [
 		"考試",
 		"考選部",
@@ -11,42 +11,12 @@
 	"lastUpdate": "20150915",
 	"isTranslated": false,
 	"attachments": [
-		{
-			"name": "檔案名稱",
-			"children": [
-				"附表一  ○○○○○考試試區主任督導紀錄表.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"附表一  ○○○○○考試試區主任督導紀錄表.DOC"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"附表二  （考試名稱）巡場主任巡場紀錄表.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"附表二  （考試名稱）巡場主任巡場紀錄表.DOC"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"附表三  國家考試應考人違規處理表.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"附表三  國家考試應考人違規處理表.DOC"
-			]
-		}
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000166752",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000166753",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000166754",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000236231",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000236232",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000236233"
 	],
 	"history": [
 		"中華民國七十八年五月十七日考試院（78）考台秘議字第 1606 號令訂定發布全文 19 條",

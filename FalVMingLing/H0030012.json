@@ -2,7 +2,7 @@
 	"pcode": "H0030012",
 	"type": "命令",
 	"title": "大學暨獨立學院研究生獎助學金辦法",
-	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0030012",
+	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0030012",
 	"category": [
 		"廢止法規",
 		"教育部"
@@ -11,30 +11,10 @@
 	"isDiscarded": true,
 	"isTranslated": false,
 	"attachments": [
-		{
-			"name": "檔案名稱",
-			"children": [
-				"附件一 研究生獎助學金申請書.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"附件二 核定研究生獎助學金名額一覽表.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"附件三 研究生獎助學金印領清冊.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"附件四 研發研究生獎助學金名冊.PDF"
-			]
-		}
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000126508",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000126509",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000126510",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000126511"
 	],
 	"history": [
 		"中華民國六十一年十一月二十二日教育部（61）台參字第 28380 號令訂定發布全文 10 條",

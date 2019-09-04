@@ -2,7 +2,7 @@
 	"pcode": "M0030043",
 	"type": "命令",
 	"title": "肥料登記證申請及核發辦法",
-	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=M0030043",
+	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=M0030043",
 	"category": [
 		"行政",
 		"行政院農業委員會",
@@ -12,30 +12,10 @@
 	"isTranslated": true,
 	"english": "Fertilizer Registration Certificate-Regulation For Applications And Issuance",
 	"attachments": [
-		{
-			"name": "檔案名稱",
-			"children": [
-				"新領肥料登記證申請書.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"新領肥料登記證申請書.DOC"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"肥料登記證展延變更等申請書.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"肥料登記證展延變更等申請書.DOC"
-			]
-		}
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000020407",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000020408",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000233532",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000233533"
 	],
 	"history": [
 		"中華民國八十九年八月三十一日行政院農業委員會（89）農糧字第 890020810 號令訂定發布全文 18 條；並自發布日起施行",

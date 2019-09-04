@@ -2,7 +2,7 @@
 	"pcode": "J0160028",
 	"type": "命令",
 	"title": "輻射源豁免管制標準",
-	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0160028",
+	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0160028",
 	"category": [
 		"行政",
 		"行政院原子能委員會",
@@ -11,30 +11,10 @@
 	"lastUpdate": "20160620",
 	"isTranslated": false,
 	"attachments": [
-		{
-			"name": "檔案名稱",
-			"children": [
-				"附表一、放射性物質之豁免管制量.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"附表一、放射性物質之豁免管制量.DOC"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"附表二、處於永久平衡之核種.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"附表二、處於永久平衡之核種.DOC"
-			]
-		}
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000018410",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000018411",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000232645",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000232646"
 	],
 	"history": [
 		"中華民國九十二年一月二十九日行政院原子能委員會會輻字第 0920002030 號令訂定發布全文 4 條；並自游離輻射防護法施行之日施行",

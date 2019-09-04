@@ -2,7 +2,7 @@
 	"pcode": "O0040005",
 	"type": "命令",
 	"title": "地面水體分類及水質標準",
-	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=O0040005",
+	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=O0040005",
 	"category": [
 		"行政",
 		"行政院環境保護署",
@@ -12,18 +12,8 @@
 	"isTranslated": true,
 	"english": "Surface Water Classification and Water Quality Standards",
 	"attachments": [
-		{
-			"name": "檔案名稱",
-			"children": [
-				"附表一：保護生活環境相關環境基準.ODT"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"附表二：保護人體健康相關環境基準.ODT"
-			]
-		}
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000204620",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000204621"
 	],
 	"history": [
 		"中華民國七十四年九月二十五日行政院環境保護署（74）衛署環字第 547327 號令訂定發布",

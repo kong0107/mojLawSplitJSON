@@ -2,7 +2,7 @@
 	"pcode": "I0000006",
 	"type": "法律",
 	"title": "看守所組織通則",
-	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=I0000006",
+	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=I0000006",
 	"category": [
 		"廢止法規",
 		"法務部"
@@ -11,18 +11,8 @@
 	"isDiscarded": true,
 	"isTranslated": false,
 	"attachments": [
-		{
-			"name": "檔案名稱",
-			"children": [
-				"附表看守所員額對照表.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"附表看守所員額對照表.DOC"
-			]
-		}
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000004640",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000233094"
 	],
 	"history": [
 		"中華民國三十五年一月十九日國民政府制定公布全文 15 條",

@@ -2,7 +2,7 @@
 	"pcode": "G0340093",
 	"type": "命令",
 	"title": "印花稅檢查規則",
-	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=G0340093",
+	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=G0340093",
 	"category": [
 		"行政",
 		"財政部",
@@ -11,42 +11,12 @@
 	"lastUpdate": "19810811",
 	"isTranslated": false,
 	"attachments": [
-		{
-			"name": "檔案名稱",
-			"children": [
-				"附件一印花稅檢查訖章.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"附件一印花稅檢查訖章.DOC"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"附件二提取涉嫌違反印花稅法憑證收據.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"附件二提取涉嫌違反印花稅法憑證收據.DOC"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"附件三印花稅憑證保管證明書.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"附件三印花稅憑證保管證明書.DOC"
-			]
-		}
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000019445",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000019446",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000019447",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000233505",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000233506",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000233507"
 	],
 	"history": [
 		"中華民國三十六年八月六日財政部令訂定發布",

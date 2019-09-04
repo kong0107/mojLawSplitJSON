@@ -2,7 +2,7 @@
 	"pcode": "B0010035",
 	"type": "命令",
 	"title": "民事閱卷規則",
-	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=B0010035",
+	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=B0010035",
 	"category": [
 		"司法",
 		"院本部",
@@ -11,66 +11,16 @@
 	"lastUpdate": "20151030",
 	"isTranslated": false,
 	"attachments": [
-		{
-			"name": "檔案名稱",
-			"children": [
-				"附式一、○○○○法院閱卷聲請書.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"附式一、○○○○法院閱卷聲請書.DOC"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"附式二、○○○○法院閱卷通知書.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"附式二、○○○○法院閱卷通知書.DOC"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"附式三ＯＯＯＯ法院閱卷聲請登記簿.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"附式三ＯＯＯＯ法院閱卷聲請登記簿.DOC"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"附式四書記官交付卷宗登記簿.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"附式四書記官交付卷宗登記簿.DOC"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"附式五、閱卷登記簿（清單）.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"附式五、閱卷登記簿（清單）.DOC"
-			]
-		}
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000027376",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000027377",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000168493",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000168494",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000168495",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000233721",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000233722",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000236244",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000236245",
+		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000236246"
 	],
 	"history": [
 		"中華民國九十二年八月十三日司法院（九二）院台廳民一字第 20785 號令訂定發布全文 29 條；並自九十二年九月一日施行",
