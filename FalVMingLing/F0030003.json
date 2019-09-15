@@ -2,7 +2,7 @@
 	"pcode": "F0030003",
 	"type": "命令",
 	"title": "陸海空軍軍官士官任官條例施行細則",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=F0030003",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=F0030003",
 	"category": [
 		"行政",
 		"國防部",
@@ -11,9 +11,24 @@
 	"lastUpdate": "20141230",
 	"isTranslated": false,
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000030671",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000045812",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000045813"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一陸海空軍軍官士官官科表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二之一國軍軍官晉任上階換敘俸級對照表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二之二國軍士官晉任上階換敘俸級對照表.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國七十年八月十四日行政院（70）台政壹字第 18983 號令訂定發布",

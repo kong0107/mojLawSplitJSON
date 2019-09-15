@@ -2,7 +2,7 @@
 	"pcode": "F0000056",
 	"type": "命令",
 	"title": "憲兵學校組織規程",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=F0000056",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=F0000056",
 	"category": [
 		"廢止法規",
 		"國防部"
@@ -12,7 +12,12 @@
 	"isTranslated": true,
 	"english": "The Military Police School (MPS) Organization Regulations",
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000039869"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"憲兵學校編制表.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國九十年七月十八日國防部（90）鐸錮字第 000758 號令訂定發布全文 11 條；並自發布日施行",

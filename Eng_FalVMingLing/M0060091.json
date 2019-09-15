@@ -3,11 +3,21 @@
 	"type": "命令",
 	"english": "Regulations for Import Inspection of Feed and Additives",
 	"title": "飼料或飼料添加物輸入查驗辦法",
-	"url": "http://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=M0060091",
+	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=M0060091",
 	"englishUpdate": "20181224",
 	"attachments": [
-		"http://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000005120",
-		"http://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000005121"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Table：Test items and maximum allowablelimits for feed or feed additives under import inspection.pdf"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Table：Test items and maximum allowablelimits for feed or feed additives under import inspection.doc"
+			]
+		}
 	],
 	"history": [
 		"Promulgated on December 24, 2018"

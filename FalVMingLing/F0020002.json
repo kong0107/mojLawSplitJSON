@@ -2,7 +2,7 @@
 	"pcode": "F0020002",
 	"type": "命令",
 	"title": "軍中新聞紙雜誌發行管理辦法",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=F0020002",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=F0020002",
 	"category": [
 		"廢止法規",
 		"國防部"
@@ -11,9 +11,24 @@
 	"isDiscarded": true,
 	"isTranslated": false,
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000128614",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000128615",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000128616"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件一 軍瓣新聞紙及雜誌聲請登記表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件二 軍辦新聞紙及雜誌變更登記聲請書.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件三 新聞紙及雜誌註銷登記聲請書.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國五十一年五月二十一日國防部（51）詳誠字第 1170 號令訂定發布",

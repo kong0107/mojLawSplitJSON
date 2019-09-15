@@ -2,7 +2,7 @@
 	"pcode": "D0080065",
 	"type": "命令",
 	"title": "檢舉違反槍砲彈藥刀械管制條例案件給獎辦法",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0080065",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0080065",
 	"category": [
 		"行政",
 		"內政部",
@@ -11,8 +11,18 @@
 	"lastUpdate": "20140613",
 	"isTranslated": false,
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000021626",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000233615"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表因檢舉而破獲違反本條例案件之給獎標準表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表因檢舉而破獲違反本條例案件之給獎標準表.DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國八十年四月二十二日行政院（80）台內字第 12686 號令訂定發布全文 7 條",

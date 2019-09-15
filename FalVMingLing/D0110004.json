@@ -2,7 +2,7 @@
 	"pcode": "D0110004",
 	"type": "命令",
 	"title": "公職人員罷免辦事處及辦事人員之設置及徵求連署辦法",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0110004",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0110004",
 	"category": [
 		"行政",
 		"中央選舉委員會",
@@ -11,8 +11,18 @@
 	"lastUpdate": "20170630",
 	"isTranslated": false,
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000200078",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000200079"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附式一：○○罷免辦事處登記書.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附式二：○○罷免辦事人員名冊.PDF"
+			]
+		}
 	],
 	"history": [
 		"民國七十二年七月十九日發布施行全文十三條",

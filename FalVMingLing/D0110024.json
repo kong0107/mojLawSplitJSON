@@ -2,7 +2,7 @@
 	"pcode": "D0110024",
 	"type": "命令",
 	"title": "中央選舉委員會選舉專業獎章頒給辦法",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0110024",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0110024",
 	"category": [
 		"行政",
 		"中央選舉委員會",
@@ -11,12 +11,42 @@
 	"lastUpdate": "20130108",
 	"isTranslated": false,
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000123288",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000123289",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000123290",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000235450",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000235451",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000235452"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一：獎章式樣及圖說.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一：獎章式樣及圖說.DOC"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二：獎章證書.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二：獎章證書.DOC"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表三：請頒選舉專業獎章事實表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表三：請頒選舉專業獎章事實表.DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國一百零二年一月八日中央選舉委員會中選人字第 10100247751 號令訂定發布全文 9 條；並自發布日施行"

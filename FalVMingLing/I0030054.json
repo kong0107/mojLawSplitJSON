@@ -2,7 +2,7 @@
 	"pcode": "I0030054",
 	"type": "命令",
 	"title": "特定營業場所執行毒品防制措施辦法",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=I0030054",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=I0030054",
 	"category": [
 		"行政",
 		"法務部",
@@ -11,7 +11,12 @@
 	"lastUpdate": "20180612",
 	"isTranslated": false,
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000219936"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件  毒品防制資訊之格式及內容.ODT"
+			]
+		}
 	],
 	"history": [
 		"中華民國一百零七年六月十二日法務部法令字第 10704520280 號令訂定發布全文 14 條；並自發布後六個月施行"

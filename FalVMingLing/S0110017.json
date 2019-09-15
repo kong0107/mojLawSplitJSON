@@ -2,7 +2,7 @@
 	"pcode": "S0110017",
 	"type": "法律",
 	"title": "獎章條例",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=S0110017",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=S0110017",
 	"category": [
 		"行政",
 		"行政院人事行政總處",
@@ -12,7 +12,12 @@
 	"isTranslated": true,
 	"english": "Medal Award Act",
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000209883"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國七十三年一月二十日總統（73）華總（一）義字第 0342 號令制定公布全文 13 條；並自公布日施行中華民國七十三年一月十日立法院制定全文 13 條",

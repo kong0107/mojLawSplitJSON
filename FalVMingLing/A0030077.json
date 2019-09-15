@@ -2,7 +2,7 @@
 	"pcode": "A0030077",
 	"type": "命令",
 	"title": "機關委託技術服務廠商評選及計費辦法",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0030077",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0030077",
 	"category": [
 		"行政",
 		"行政院公共工程委員會",
@@ -12,12 +12,42 @@
 	"isTranslated": true,
 	"english": "Regulations for Selection and Fee Calculation of Technical Services Providers Entrusted by Entities",
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000122721",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000122722",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000194526",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000194527",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000235436",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000235437"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一  建築物工程技術服務建造費用百分比上限參考表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二  公共工程（不包括建築物工程）技術服務建造費用百分比上限參考表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二  公共工程（不包括建築物工程）技術服務建造費用百分比上限參考表.DOC"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表三  工程專案管理（不含監造）技術服務建造費用百分比上限參考表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表三  工程專案管理（不含監造）技術服務建造費用百分比上限參考表.DOC"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表四  工程專案管理（含監造）技術服務建造費用百分比上限參考表.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國八十八年五月十七日行政院公共工程委員會（88）工程企字第 8806741 號令訂定發布全文 32 條；並自八十八年五月二十七日起施行",

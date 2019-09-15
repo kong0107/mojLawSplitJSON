@@ -3,10 +3,15 @@
 	"type": "命令",
 	"english": "Regulations Governing the Declaration, Inspection, Duty and Release of Personal Luggage or Goods of Inward passengers",
 	"title": "入境旅客攜帶行李物品報驗稅放辦法",
-	"url": "http://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0350003",
+	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0350003",
 	"englishUpdate": "20180821",
 	"attachments": [
-		"http://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003931"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"attachment.pdf"
+			]
+		}
 	],
 	"history": [
 		" Promulgated on Feb. 11, 1969",

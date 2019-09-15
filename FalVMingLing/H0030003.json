@@ -2,7 +2,7 @@
 	"pcode": "H0030003",
 	"type": "命令",
 	"title": "大學及獨立學院學生學籍規則",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0030003",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0030003",
 	"category": [
 		"廢止法規",
 		"教育部"
@@ -11,14 +11,54 @@
 	"isDiscarded": true,
 	"isTranslated": false,
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000126500",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000126501",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000126502",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000126503",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000126504",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000126505",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000126506",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000126507"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件一 轉學或修業證明書.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件二 招收轉學生統計表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件三 研究生／新生／轉學生名冊.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件四 轉系生名冊.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件五 退學生名冊.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件六 畢業生更改姓名、年齡名冊.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件七 畢業生名冊.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件八 歷年成績表.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國六十二年二月二十八日教育部（62）台參字第 5273 號令修正發布（本規則乃專科以上學校學生學籍規則衍定為大學及獨立學院學生學籍規則及專科學校學生學籍規則）",

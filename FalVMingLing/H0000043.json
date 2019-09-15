@@ -2,7 +2,7 @@
 	"pcode": "H0000043",
 	"type": "命令",
 	"title": "國立科學工藝博物館暫行組織規程",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0000043",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0000043",
 	"category": [
 		"廢止法規",
 		"教育部"
@@ -11,8 +11,18 @@
 	"isDiscarded": true,
 	"isTranslated": false,
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000010363",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000232602"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"國立科學工藝博物館編制表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"國立科學工藝博物館編制表.DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國八十五年十二月三十日教育部（85）台參字第 85504426 號令訂定發布全文 17 條",

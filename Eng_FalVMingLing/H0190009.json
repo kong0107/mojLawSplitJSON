@@ -3,11 +3,21 @@
 	"type": "命令",
 	"english": "National Palace Museum Fee Standards for Viewing,Copying or Duplicating Library and Archival Materials",
 	"title": "國立故宮博物院資料閱覽抄錄複製收費標準",
-	"url": "http://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=H0190009",
+	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=H0190009",
 	"englishUpdate": "20080409",
 	"attachments": [
-		"http://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000001515",
-		"http://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004519"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment：Fee Standards.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment：Fee Standards.doc"
+			]
+		}
 	],
 	"history": [
 		"Promulgated on April 09, 2008"

@@ -2,7 +2,7 @@
 	"pcode": "J0030105",
 	"type": "命令",
 	"title": "未登記工廠補辦臨時工廠登記辦法",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0030105",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0030105",
 	"category": [
 		"行政",
 		"經濟部",
@@ -11,8 +11,18 @@
 	"lastUpdate": "20140318",
 	"isTranslated": false,
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000137958",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000235637"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件.DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國九十九年十月二十六日經濟部經中字第 09904606930 號令訂定發布全文 19 條；並自發布日施行",

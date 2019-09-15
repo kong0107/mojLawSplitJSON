@@ -2,7 +2,7 @@
 	"pcode": "P0050016",
 	"type": "命令",
 	"title": "電視節目分級處理辦法",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=P0050016",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=P0050016",
 	"category": [
 		"行政",
 		"國家通訊傳播委員會",
@@ -12,9 +12,24 @@
 	"isTranslated": true,
 	"english": "Television Programs Classification Handling Regulations",
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000188544",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000188545",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000188546"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一：電視節目分級播送時段表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二：電視節目特殊內容例示說明.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附圖：電視節目分級標識.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國八十八年十二月三十一日行政院新聞局（88）怡廣一字第 21416 號令訂定發布全文 14 條；並自八十九年一月一日起施行",

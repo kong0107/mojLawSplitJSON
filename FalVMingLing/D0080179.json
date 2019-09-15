@@ -2,7 +2,7 @@
 	"pcode": "D0080179",
 	"type": "命令",
 	"title": "警察人員獎懲標準",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0080179",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0080179",
 	"category": [
 		"行政",
 		"內政部",
@@ -11,7 +11,12 @@
 	"lastUpdate": "20190815",
 	"isTranslated": false,
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000200239"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表：警察機關人員違法犯紀考核監督責任懲處基準表.ODT"
+			]
+		}
 	],
 	"history": [
 		"中華民國九十八年五月五日內政部台內警字第 0980870708 號令訂定發布全文 16 條；並自發布日施行",

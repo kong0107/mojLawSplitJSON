@@ -2,7 +2,7 @@
 	"pcode": "J0100066",
 	"type": "命令",
 	"title": "定量包裝商品管理辦法",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0100066",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0100066",
 	"category": [
 		"行政",
 		"經濟部",
@@ -12,8 +12,18 @@
 	"isTranslated": true,
 	"english": "Regulations Governing Management of Prepackaged Products",
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000006766",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000233121"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一.DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國九十二年九月十日經濟部經標字第 09204611270 號令訂定發布全文 15 條；本辦法施行日期，由主管機關定之",

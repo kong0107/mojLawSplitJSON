@@ -2,7 +2,7 @@
 	"pcode": "D0080043",
 	"type": "命令",
 	"title": "各級警察機關學校武器彈藥統籌調配辦法",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0080043",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0080043",
 	"category": [
 		"行政",
 		"內政部",
@@ -11,8 +11,18 @@
 	"lastUpdate": "20190604",
 	"isTranslated": false,
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000163527",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000249580"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二：中央警察大學及臺灣警察專科學校警用武器彈藥配賦基準.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一：各級警察機關警用武器彈藥配賦基準.ODT"
+			]
+		}
 	],
 	"history": [
 		"中華民國五十年七月二十二日行政院（50）台內字第 4412 號令訂定發布",

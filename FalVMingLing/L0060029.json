@@ -2,7 +2,7 @@
 	"pcode": "L0060029",
 	"type": "命令",
 	"title": "全民健康保險保險憑證製發及存取資料管理辦法",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0060029",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0060029",
 	"category": [
 		"行政",
 		"衛生福利部",
@@ -12,9 +12,24 @@
 	"isTranslated": true,
 	"english": "Regulations Governing the Production and Issuance of the National Health Insurance IC Card and Data Storage",
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000119715",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000178834",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000235408"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一：健保卡得存取資料內容.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一：健保卡得存取資料內容.DOC"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二：保險醫事服務機構應上傳之就醫紀錄內容.ODT"
+			]
+		}
 	],
 	"history": [
 		"中華民國一百零一年十月三十日行政院衛生署衛署健保字第 1012660262 號令訂定發布全文 17 條；並自一百零二年一月一日施行",

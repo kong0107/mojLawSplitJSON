@@ -2,7 +2,7 @@
 	"pcode": "J0150010",
 	"type": "命令",
 	"title": "公平交易委員會提供政府資訊收費標準",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0150010",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0150010",
 	"category": [
 		"行政",
 		"公平交易委員會",
@@ -11,8 +11,18 @@
 	"lastUpdate": "20140219",
 	"isTranslated": false,
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000034506",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000233921"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表政府資訊重製或複製收費標準表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表政府資訊重製或複製收費標準表.DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國九十五年五月三日行政院公平交易委員會公法字第 0950003656 號令訂定發布全文 7 條；並自發布日施行中華民國一百零一年二月三日行政院院臺規字第 1010122318 號公告本標準之主管機關原為行政院公平交易委員會，自一百零一年二月六日起變更為公平交易委員會，各該規定所列主管機關掌理事項，改由公平交易委員會管轄",

@@ -3,11 +3,21 @@
 	"type": "命令",
 	"english": "Regulations Governing Management of Prepackaged Products",
 	"title": "定量包裝商品管理辦法",
-	"url": "http://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=J0100066",
+	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=J0100066",
 	"englishUpdate": "20110301",
 	"attachments": [
-		"http://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000001275",
-		"http://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004475"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Table 1.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Table 1.doc"
+			]
+		}
 	],
 	"history": [
 		" Enacted and promulgated by Ching-Piao-Tzu No.09204611270 of the Ministry of Economic Affairs on 10 September 2003",

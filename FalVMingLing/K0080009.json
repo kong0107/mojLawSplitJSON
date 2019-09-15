@@ -2,7 +2,7 @@
 	"pcode": "K0080009",
 	"type": "命令",
 	"title": "商港港務管理規則",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=K0080009",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=K0080009",
 	"category": [
 		"行政",
 		"交通部",
@@ -12,7 +12,12 @@
 	"isTranslated": true,
 	"english": "The Regulations on Port Services at Commercial Ports",
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000167563"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國七十年十一月五日交通部（70）交法字第 25300 號令訂定發布全文 76 條",

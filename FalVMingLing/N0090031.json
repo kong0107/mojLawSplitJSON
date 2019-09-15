@@ -2,7 +2,7 @@
 	"pcode": "N0090031",
 	"type": "命令",
 	"title": "外國人從事就業服務法第四十六條第一項第一款至第六款工作資格及審查標準",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0090031",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0090031",
 	"category": [
 		"行政",
 		"勞動部",
@@ -12,7 +12,12 @@
 	"isTranslated": true,
 	"english": "Qualifications and Criteria Standards for foreigners undertaking the jobs specified under Article 46.1.1 to 46.1.6 of the Employment Service Act",
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000147479"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國九十三年一月十三日行政院勞工委員會勞職規字第 0930201285 號令訂定發布全文 46 條；並自發布日施行",

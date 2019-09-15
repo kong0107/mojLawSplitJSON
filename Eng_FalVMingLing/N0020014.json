@@ -3,11 +3,21 @@
 	"type": "命令",
 	"english": "Financial Processing Standards for Labor Unions",
 	"title": "工會財務處理準則",
-	"url": "http://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=N0020014",
+	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=N0020014",
 	"englishUpdate": "20110429",
 	"attachments": [
-		"http://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000001269",
-		"http://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004474"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment   Table of accounts and explanatory notes.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment   Table of accounts and explanatory notes.doc"
+			]
+		}
 	],
 	"history": [
 		" Promulgated by the Order of Lao-Tzi (1) Zi No. 1000125583 on April 29, 2011."

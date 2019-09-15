@@ -2,7 +2,7 @@
 	"pcode": "G0440009",
 	"type": "命令",
 	"title": "金融機構處理偽造變造仿造新臺幣券幣辦法",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=G0440009",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=G0440009",
 	"category": [
 		"行政",
 		"中央銀行",
@@ -12,10 +12,30 @@
 	"isTranslated": true,
 	"english": "Regulations on the Handling of Counterfeit, Altered, and Imitation New Taiwan Dollar Notes and Coins by Financial Institutions",
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000199301",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000199302",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000199303",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000199304"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件一  偽造券作廢章.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件二  截留偽造變造仿造新台幣券幣通報單.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件三  截留之偽造新台幣券幣資料卡.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件四  中央銀行銷燬截留之偽造、變造、仿造新台幣券幣證明表.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國九十一年十月十五日中央銀行台央發字第 0910054039 號令訂定發布全文 8 條；並自發布日施行"

@@ -2,7 +2,7 @@
 	"pcode": "A0030192",
 	"type": "命令",
 	"title": "法院單一窗口聯合服務業務志願服務獎勵辦法",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0030192",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0030192",
 	"category": [
 		"司法",
 		"院本部",
@@ -12,10 +12,30 @@
 	"isTranslated": true,
 	"english": "Rules of the Awards for the Volunteers of Single-Counter Consolidated Services of the Court",
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000018720",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000018721",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000233328",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000233329"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件一單一窗口聯合服務業務志願服務申請獎勵事蹟表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件一單一窗口聯合服務業務志願服務申請獎勵事蹟表.DOC"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件二志願服務申請獎勵名冊.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件二志願服務申請獎勵名冊.DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國九十一年三月十一日司法院（91）院台廳司四字第 06485 號函訂定發布全文 6 條；並自發布日施行",

@@ -2,15 +2,45 @@
 	"pcode": "J0160086",
 	"type": "命令",
 	"title": "原子能業務財團法人會計處理及財務報告編製準則",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0160086",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0160086",
+	"category": [
+		"行政",
+		"行政院原子能委員會",
+		"原子能目"
+	],
 	"lastUpdate": "20190329",
 	"isTranslated": false,
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000245172",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000245173",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000245174",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000245175",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000245176"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"（格式一）財團法人XXX資產負債表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"（格式二）財團法人XXX收支營運表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"（格式三）財團法人XXX淨值變動表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"（格式四）財團法人XXX現金流量表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件一 原子能業務財團法人共通性會計科（項）目參考表.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國一百零八年三月二十九日行政院原子能委員會會計字第 10800035273 號令訂定發布全文 28 條；並自發布日施行"

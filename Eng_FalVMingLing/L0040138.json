@@ -3,12 +3,27 @@
 	"type": "命令",
 	"english": "Sanitation Standard for Contaminants and Toxins in Food",
 	"title": "食品中污染物質及毒素衛生標準",
-	"url": "http://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=L0040138",
+	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=L0040138",
 	"englishUpdate": "20180508",
 	"attachments": [
-		"http://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004164",
-		"http://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004165",
-		"http://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004166"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Appendix 1.pdf"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Appendix 2.pdf"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Appendix 3.pdf"
+			]
+		}
 	],
 	"history": [
 		"Full text including 6 articles promulgated per MOHW Food No. 1071300778 on May 8, 2018, which shall be implemented from January 1, 2019."

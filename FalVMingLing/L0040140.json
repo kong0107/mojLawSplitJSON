@@ -2,7 +2,7 @@
 	"pcode": "L0040140",
 	"type": "命令",
 	"title": "食品及相關產品標示宣傳廣告涉及不實誇張易生誤解或醫療效能認定準則",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0040140",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0040140",
 	"category": [
 		"行政",
 		"衛生福利部",
@@ -12,8 +12,18 @@
 	"isTranslated": true,
 	"english": "Regulations Governing of Criteria for the Label, Promotion and Advertisement of Foods and Food Products Identified as False, Exaggerated, Misleading or Having Medical Efficacy",
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000250007",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000250008"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件一.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件二.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國一百零八年六月十二日衛生福利部衛授食字第 1081201549 號令訂定發布全文 6 條；並自發布日施行"

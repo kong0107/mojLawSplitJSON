@@ -2,7 +2,7 @@
 	"pcode": "M0060031",
 	"type": "命令",
 	"title": "特定寵物業管理辦法",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=M0060031",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=M0060031",
 	"category": [
 		"行政",
 		"行政院農業委員會",
@@ -11,8 +11,18 @@
 	"lastUpdate": "20171016",
 	"isTranslated": false,
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000205917",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000205918"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一：繁殖場應具備之設施.ODT"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二：特定寵物買賣或寄養應具備之設施.ODT"
+			]
+		}
 	],
 	"history": [
 		"中華民國八十九年七月十九日行政院農業委員會（89）農牧字第 890040233 號令訂定發布全文 13 條；並自發布日起施行",

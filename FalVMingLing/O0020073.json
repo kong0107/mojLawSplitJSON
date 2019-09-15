@@ -2,7 +2,7 @@
 	"pcode": "O0020073",
 	"type": "命令",
 	"title": "光電材料及元件製造業空氣污染管制及排放標準",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=O0020073",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=O0020073",
 	"category": [
 		"行政",
 		"行政院環境保護署",
@@ -13,8 +13,18 @@
 	"isTranslated": true,
 	"english": "Optoelectronic Material and Element Manufacturing Industry Air Pollution Control and Emission Standards",
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000031089",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000233864"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表污染防制設備操作運轉記錄項目.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表污染防制設備操作運轉記錄項目.DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國九十五年一月五日行政院環境保護署環署空字第 0950000717 號令訂定發布全文 10 條；本標準除另定施行日期者外，自發布日施行"

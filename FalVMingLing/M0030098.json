@@ -2,7 +2,7 @@
 	"pcode": "M0030098",
 	"type": "命令",
 	"title": "有機農產品有機轉型期農產品標示及標章管理辦法",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=M0030098",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=M0030098",
 	"category": [
 		"行政",
 		"行政院農業委員會",
@@ -12,7 +12,12 @@
 	"isTranslated": true,
 	"english": "Regulations for Managing the Labeling and Marks of Organic Agricultural Products and In-conversion Agricultural Products",
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000248129"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件  有機農產品標章.ODT"
+			]
+		}
 	],
 	"history": [
 		"中華民國一百零八年五月九日行政院農業委員會農糧字第 1081069053A 號令訂定發布全文 12 條；並自一百零八年五月三十日施行"

@@ -2,7 +2,7 @@
 	"pcode": "K0070058",
 	"type": "命令",
 	"title": "船員體格健康檢查及醫療機構指定辦法",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=K0070058",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=K0070058",
 	"category": [
 		"行政",
 		"交通部",
@@ -12,7 +12,12 @@
 	"isTranslated": true,
 	"english": "The Regulation for Medical exam of the Seafarer and Medical Institutions",
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000207760"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表船員體格（健康）檢查證明書.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國九十二年六月六日交通部交航發字第 092B000031 號令 、 行政院勞工委員會勞安三字第 0920019332 號令 、 行政院衛生署署授國字第 0920007540 號令會銜訂定發布全文 9 條；並自發布日施行",

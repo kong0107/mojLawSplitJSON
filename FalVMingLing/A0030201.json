@@ -2,7 +2,7 @@
 	"pcode": "A0030201",
 	"type": "命令",
 	"title": "監察院收受人民書狀及處理辦法",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0030201",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0030201",
 	"category": [
 		"監察",
 		"院本部",
@@ -12,8 +12,18 @@
 	"isTranslated": true,
 	"english": "Regulations for Receiving and Handling People’s Written Complaints by the Control Yuan",
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000133635",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000235593"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表：人民書狀處理原則.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表：人民書狀處理原則.DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國三十七年七月二十日監察院第二十二次會議通過施行",

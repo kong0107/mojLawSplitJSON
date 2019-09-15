@@ -2,7 +2,7 @@
 	"pcode": "H0120022",
 	"type": "命令",
 	"title": "國光體育獎章及獎助學金頒發辦法",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0120022",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0120022",
 	"category": [
 		"行政",
 		"教育部",
@@ -11,7 +11,12 @@
 	"lastUpdate": "20180723",
 	"isTranslated": false,
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000223554"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表.ODT"
+			]
+		}
 	],
 	"history": [
 		"中華民國八十九年四月一日行政院體育委員會（89）台體委競字第 004684 號令訂定發布全文 12 條；並自發布日起施行",

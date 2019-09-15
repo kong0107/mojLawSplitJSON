@@ -2,7 +2,7 @@
 	"pcode": "M0090004",
 	"type": "命令",
 	"title": "農會財務處理辦法",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=M0090004",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=M0090004",
 	"category": [
 		"行政",
 		"行政院農業委員會",
@@ -11,26 +11,126 @@
 	"lastUpdate": "20141128",
 	"isTranslated": false,
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000009479",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000009480",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000009481",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000049538",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000049539",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000153638",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000153639",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000153640",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000153641",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000153642",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000233189",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000233190",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000233191",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000234223",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000234224",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000236090",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000236091",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000236092",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000236093",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000236094"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一 資產、負債、淨值之總分類帳會計科目.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一 資產、負債、淨值之總分類帳會計科目.DOC"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二經濟事業收入及支出之總分類帳會計科目.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二經濟事業收入及支出之總分類帳會計科目.DOC"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表三金融事業收入及支出之總分類帳會計科目.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表三金融事業收入及支出之總分類帳會計科目.DOC"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表四 保險事業所入及所出之總分類帳會計科目.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表四 保險事業所入及所出之總分類帳會計科目.DOC"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表五 農業推廣事業所入所出之總分類帳會計科目.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表五 農業推廣事業所入所出之總分類帳會計科目.DOC"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表六 事業損益類費用支出之明細分類帳會計子目.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表六 事業損益類費用支出之明細分類帳會計子目.DOC"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表七經費所入所出類所出之明細分類帳會計子目.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表七經費所入所出類所出之明細分類帳會計子目.DOC"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表八經費所入所出類所出之明細分類帳會計細目.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表八經費所入所出類所出之明細分類帳會計細目.DOC"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表九資產負債之明細分類帳會計子目、會計細目.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表九資產負債之明細分類帳會計子目、會計細目.DOC"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件 農會人員出國考察研習及拓展業務作業規定.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件 農會人員出國考察研習及拓展業務作業規定.DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國六十四年十一月十日內政部（64）台內社字第 657278 號令訂定發布",

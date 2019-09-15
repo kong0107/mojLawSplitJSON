@@ -2,7 +2,7 @@
 	"pcode": "K0090028",
 	"type": "命令",
 	"title": "航空站地勤業管理規則",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=K0090028",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=K0090028",
 	"category": [
 		"行政",
 		"交通部",
@@ -12,12 +12,42 @@
 	"isTranslated": true,
 	"english": "Regulations Governing Airport Ground Handling Services",
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000182690",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000182691",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000182692",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000236479",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000236480",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000236481"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件一航空站地勤業自辦航空站地勤業務申請書.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件一航空站地勤業自辦航空站地勤業務申請書.DOC"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件二航空站地勤業許可證（直式橫書）.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件二航空站地勤業許可證（直式橫書）.DOC"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件三自辦航空站地勤業許可證（直式橫書）.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件三自辦航空站地勤業許可證（直式橫書）.DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國七十四年十二月十五日交通部（74）交航發字第 7410 號令訂定發布全文 16 條",

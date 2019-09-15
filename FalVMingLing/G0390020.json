@@ -2,7 +2,7 @@
 	"pcode": "G0390020",
 	"type": "命令",
 	"title": "保險業辦理國外投資管理辦法",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=G0390020",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=G0390020",
 	"category": [
 		"行政",
 		"金融監督管理委員會",
@@ -12,10 +12,30 @@
 	"isTranslated": true,
 	"english": "Regulations Governing Foreign Investments by Insurance Companies",
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000151106",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000199056",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000234864",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000235990"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件保險業申請投資國外保險相關事業之應檢具文件.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件保險業申請投資國外保險相關事業之應檢具文件.DOC"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一：保險業投資國外保險相關事業申請表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二：保險業國外投資額度申請表.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國八十二年三月六日財政部（82）台財保字第 821176360 號函訂頒",

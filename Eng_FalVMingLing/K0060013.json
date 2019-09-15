@@ -3,14 +3,39 @@
 	"type": "命令",
 	"english": "Administrative Regulations on Radio Waves",
 	"title": "電波監理業務管理辦法",
-	"url": "http://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0060013",
+	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0060013",
 	"englishUpdate": "20180605",
 	"attachments": [
-		"http://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004223",
-		"http://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004224",
-		"http://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004225",
-		"http://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004226",
-		"http://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004227"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Appendix 1 Radio Frequency Assignment Application Form.pdf"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Appendix 2 Classification of emissions and necessary bandwidths.pdf"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Appendix 3 Table of Transmitter Frequency Tolerances.pdf"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Appendix 4 Table of Maximum Permitted Spurious Emissions Power Levels.pdf"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Appendix 5 Radio Frequency Interference Complaint Form.pdf"
+			]
+		}
 	],
 	"history": [
 		" 43 Articles promulgated in full by the Ministry of Transportation and Communications（MOTC） on Jan. 24, 1970. Ref ： Jiao-Yu 59 Tze No. 00886, and by Ministry of Nation Defense （MND）on Jan. 24, 1970. Ref ：59 Ge-Fei Tzu No. 0274",

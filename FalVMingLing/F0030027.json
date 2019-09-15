@@ -2,7 +2,7 @@
 	"pcode": "F0030027",
 	"type": "命令",
 	"title": "國軍聘任及雇用人員管理規則",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=F0030027",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=F0030027",
 	"category": [
 		"廢止法規",
 		"國防部"
@@ -11,8 +11,18 @@
 	"isDiscarded": true,
 	"isTranslated": false,
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000128256",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000128257"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一：一般聘僱人員等級區分表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二：國軍聘僱人員任用資格標準表.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國六十年五月二十七日國防部（60）藍本第 1688 號令訂定發布（原頒「國軍聘雇人員管理規則」同日廢止）中華民國六十年五月十四日行政院壹（60）人政貳字第 5022 號令核定",

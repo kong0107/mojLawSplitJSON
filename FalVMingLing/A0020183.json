@@ -2,7 +2,7 @@
 	"pcode": "A0020183",
 	"type": "命令",
 	"title": "中央研究院名譽院士選舉辦法",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0020183",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0020183",
 	"category": [
 		"總統",
 		"總統府",
@@ -11,8 +11,18 @@
 	"lastUpdate": "20141110",
 	"isTranslated": false,
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000117487",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000235379"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"全球性學術殊榮之參考項目.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"全球性學術殊榮之參考項目.DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國九十六年四月十四日中央研究院第 19 屆評議會第 4 次會議通過訂定全文 11 條",

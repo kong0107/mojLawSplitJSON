@@ -2,7 +2,7 @@
 	"pcode": "H0150048",
 	"type": "命令",
 	"title": "教師職前年資採計提敘辦法",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0150048",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0150048",
 	"category": [
 		"行政",
 		"教育部",
@@ -11,7 +11,12 @@
 	"lastUpdate": "20171106",
 	"isTranslated": false,
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000188535"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表  各類人員與教師等級相當年資採計提敘薪級對照表.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國一百零五年十二月十三日教育部臺教人（二）字第 1050164406B 號令訂定發布全文 8 條；並自一百零四年十二月二十七日施行",

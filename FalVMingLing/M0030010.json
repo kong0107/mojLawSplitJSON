@@ -2,7 +2,7 @@
 	"pcode": "M0030010",
 	"type": "命令",
 	"title": "農場登記規則",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=M0030010",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=M0030010",
 	"category": [
 		"行政",
 		"行政院農業委員會",
@@ -11,11 +11,36 @@
 	"lastUpdate": "19990629",
 	"isTranslated": false,
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000219142",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000219143",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000219144",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000219145",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000219146"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件一  農場登記申請書.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件二  經營計畫書.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件三  農場登記證.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件四  農場申請設立（變更）登記審查簽辦單.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件五  農場變更登記申請書.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國三十五年十月十五日農林部（35）農京經字第 8844 號令訂定發布",

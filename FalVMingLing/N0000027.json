@@ -2,7 +2,7 @@
 	"pcode": "N0000027",
 	"type": "命令",
 	"title": "行政院勞工委員會勞動檢查所組織準則",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0000027",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0000027",
 	"category": [
 		"廢止法規",
 		"行政院勞工委員會"
@@ -11,12 +11,42 @@
 	"isDiscarded": true,
 	"isTranslated": false,
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000071971",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000071972",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000071973",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000232768",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000232769",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000232770"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"行政院勞工委員會北區勞動檢查所編制表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"行政院勞工委員會北區勞動檢查所編制表.DOC"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"行政院勞工委員會中區勞動檢查所編制表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"行政院勞工委員會中區勞動檢查所編制表.DOC"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"行政院勞工委員會南區勞動檢查所編制表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"行政院勞工委員會南區勞動檢查所編制表.DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國九十八年十一月二十三日行政院勞工委員會勞人 1 字第 0980100980 號令訂定發布全文 5 條及行政院勞工委員會北 、 中 、 南區勞動檢查所編制表；並自發布日施行",

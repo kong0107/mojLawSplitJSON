@@ -2,7 +2,7 @@
 	"pcode": "S0080001",
 	"type": "法律",
 	"title": "公務人員退休法",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=S0080001",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=S0080001",
 	"category": [
 		"廢止法規",
 		"銓敘部"
@@ -11,10 +11,30 @@
 	"isDiscarded": true,
 	"isTranslated": false,
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000082492",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000170083",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000234767",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000236434"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一公務人員退休法第十一條第五項附表─自願退休人員年資與年齡合計法定指標數表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一公務人員退休法第十一條第五項附表─自願退休人員年資與年齡合計法定指標數表.DOC"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二公務人員退休法第十二條第三項附表－擔任危險或勞力等特殊性質職務自願退休人員年資與年齡合計法定指標數表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二公務人員退休法第十二條第三項附表－擔任危險或勞力等特殊性質職務自願退休人員年資與年齡合計法定指標數表.DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國三十二年十一月十六日國民政府制定公布全文 18 條",

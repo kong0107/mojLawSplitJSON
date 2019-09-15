@@ -2,7 +2,7 @@
 	"pcode": "K0070044",
 	"type": "命令",
 	"title": "小船檢查丈量規則",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=K0070044",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=K0070044",
 	"category": [
 		"行政",
 		"交通部",
@@ -11,11 +11,36 @@
 	"lastUpdate": "20160421",
 	"isTranslated": false,
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000099657",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000099658",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000177522",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000177523",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000235194"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件一.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件二小船設備基準表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件三 小船檢查丈量規費表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件三 小船檢查丈量規費表.DOC"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"第 25 條完整條文.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國八十三年五月十日交通部交航發字第 8310 號令訂定發布全文 42 條",

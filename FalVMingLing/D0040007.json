@@ -2,7 +2,7 @@
 	"pcode": "D0040007",
 	"type": "命令",
 	"title": "推行兵役事務獎懲辦法",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0040007",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0040007",
 	"category": [
 		"廢止法規",
 		"內政部"
@@ -11,14 +11,54 @@
 	"isDiscarded": true,
 	"isTranslated": false,
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000021682",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000021683",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000021684",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000021685",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000233624",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000233625",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000233626",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000233627"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件一軍事人員獎勵建議表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件一軍事人員獎勵建議表.DOC"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件二軍事人員懲罰建議表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件二軍事人員懲罰建議表.DOC"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件三役政人員請獎名冊.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件三役政人員請獎名冊.DOC"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件四役政人員請獎事實表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件四役政人員請獎事實表.DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國四十四年七月二十三日行政院（44）台防字第 4524 號令訂定發布",

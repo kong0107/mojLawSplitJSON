@@ -2,7 +2,7 @@
 	"pcode": "K0090036",
 	"type": "命令",
 	"title": "航空產品與其各項裝備及零組件檢定委託辦法",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=K0090036",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=K0090036",
 	"category": [
 		"行政",
 		"交通部",
@@ -12,12 +12,42 @@
 	"isTranslated": true,
 	"english": "Regulations for the Delegation of Certification of Aviation Products, Appliances and Parts",
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000054366",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000054367",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000054368",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000234352",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000234353",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000234354"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件一檢定機構證書.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件一檢定機構證書.DOC"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件二工程檢定代表證書.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件二工程檢定代表證書.DOC"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件三製造檢定代表證書.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件三製造檢定代表證書.DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國八十九年一月六日交通部（89）交航發字第 88118 號令訂定發布全文 12 條；並自發布日起施行",

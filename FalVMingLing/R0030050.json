@@ -2,7 +2,7 @@
 	"pcode": "R0030050",
 	"type": "命令",
 	"title": "特種考試政風人員考試規則",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=R0030050",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=R0030050",
 	"category": [
 		"廢止法規",
 		"考選部"
@@ -11,7 +11,12 @@
 	"isDiscarded": true,
 	"isTranslated": false,
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000129180"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表：特種考試政風人員考試應試科目表.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國八十二年十月六日考試院（82）考台秘議字第 3610 號令訂定發布全文 16 條",

@@ -2,7 +2,7 @@
 	"pcode": "K0030008",
 	"type": "命令",
 	"title": "鐵路路線測量規則",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=K0030008",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=K0030008",
 	"category": [
 		"行政",
 		"交通部",
@@ -11,7 +11,12 @@
 	"lastUpdate": "20061116",
 	"isTranslated": false,
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000216489"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一  鐵路路線測量規則中主要名詞中英文及縮寫對照表.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國五十四年七月七日交通部（54）交參字第 06047 號令訂定發布",

@@ -2,7 +2,7 @@
 	"pcode": "G0440005",
 	"type": "命令",
 	"title": "污損破損不適流通之紙幣及硬幣收兌標準",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=G0440005",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=G0440005",
 	"category": [
 		"行政",
 		"中央銀行",
@@ -12,7 +12,12 @@
 	"isTranslated": true,
 	"english": "Standards for Redemption of Soiled or Mutilated Currency Notes and Coins Unfit for Circulation",
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000046485"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件污損破損不適流通之紙幣及硬幣鑑定申請書.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國二十八年九月五日財政部核定",

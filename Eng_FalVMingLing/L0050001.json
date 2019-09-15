@@ -3,8 +3,8 @@
 	"type": "法律",
 	"english": "Communicable Disease Control Act",
 	"title": "傳染病防治法",
-	"url": "http://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=L0050001",
-	"englishUpdate": "20180613",
+	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=L0050001",
+	"englishUpdate": "20190619",
 	"history": [
 		"Formulated in 35 articles by the Nationalist Government and promulgated on December 6, 1944",
 		"Amended Articles 31 and 32 and promulgated by Presidential Decree on December 28, 1948",
@@ -20,7 +20,8 @@
 		"Amended and promulgated article 2, 23, 51 under Hua-Tsun-1-Yi No.10300085321 on June 4, 2014",
 		"Amended and promulgated article 38, 67, 70 under Hua-Tsun-1-Yi No.10400070781 on June 17th, 2015",
 		"Amended and promulgated article 32, 33, 67-69 under Hua-Tsun-1-Yi No.10400151501 on December 30, 2015",
-		"Amended and promulgated article 28, 30, 39 under Hua-Tsun-1-Yi No.10700062421 on June 13, 2018"
+		"Amended and promulgated article 28, 30, 39 under Hua-Tsun-1-Yi No.10700062421 on June 13, 2018",
+		"Amended and promulgated Articles 63, 64, 65, 66 and added Article 64-1 under Hua-Tsun-1-Yi-No. 10800060021 on June 19, 2019"
 	],
 	"divisions": [
 		{
@@ -324,19 +325,23 @@
 		},
 		{
 			"number": 6300,
-			"content": "Persons who spread rumors concerning epidemic conditions of communicable diseases or disseminate incorrect information regarding epidemic conditions, resulting in damages to the public or others, shall be fined up to NT$ 500,000."
+			"content": "Persons who disseminate rumors or incorrect information concerning epidemic conditions of communicable diseases, resulting in damages to the public or others, shall be fined up to NT$ 3,000,000."
 		},
 		{
 			"number": 6400,
-			"content": "Any person meeting one of the following conditions shall be fined NT$ 90,000 up to NT$ 450,000:\r\n1.physicians in violation of the regulations outlined in Article 9 or Article 39;\r\n2.forensic physicians in violation of the regulations outlined in Article 39;\r\n3.persons other than physicians in violation of the regulations outlined in Article 9 or Paragraph 1 of Article 40;\r\n4.medical personnel and persons who learns about relevant information of patients or suspected patients with communicable diseases through their practices and who are in violation of the regulations outlined in Article 10;\r\n5.when in violation of the regulations outlined in Paragraph 2 of Article 34."
+			"content": "Any person having one of the following conditions shall be fined NT$ 90,000 up to NT$ 450,000:\r\n1. physicians in violation of the regulations of Article 39;\r\n2. forensic physicians in violation of the regulations of Article 39;\r\n3. persons other than physicians in violation of the regulations of Paragraph 1 of Article 40;\r\n4. medical personnel and persons who learn about relevant information of patients with or suspected of having communicable diseases through their practices and are in violation of the regulations of Article 10;\r\n5. In violation of the regulations of Paragraph 2 of Article 34."
+		},
+		{
+			"number": 6401,
+			"content": "Any person in violation of the regulations of Article 9 shall be fined NT$ 100,000 up to NT$ 1,000,000."
 		},
 		{
 			"number": 6500,
-			"content": "Medical institutions meeting one of the following conditions shall be fined NT$ 300,000 up to NT$ 1.5 millions:\r\n1.when the subordinate physicians or the other personnel are penalized in accordance with the regulations outlined in one of the preceding Subparagraphs, the institutions shall also be penalized;\r\n2.when refusing, evading or obstructing the admission and care of patients with communicable diseases as ordered by competent authorities in accordance with the regulations outlined in Paragraph 1 of Article 14;\r\n3.when in violation of the regulations outlined in Paragraph 1 of Article 29, Paragraph 4 and Paragraph 5 of Article 39."
+			"content": "Medical institutions having one of the following conditions shall be fined NT$ 300,000 up to NT$ 2,000,000:\r\n1. when a physician or other personnel employed by a medical institution is penalized in accordance with the regulations provided under any subparagraph of Article 64 or under the preceding article, the institution shall also be penalized;\r\n2. when refusing, evading or obstructing the admission and care of patients with communicable diseases as ordered by competent authorities in accordance with the regulations of Paragraph 1 of Article 14;\r\n3. when in violation of the regulations of Paragraph 1 of Article 29, or Paragraph 4 or Paragraph 5 of Article 39."
 		},
 		{
 			"number": 6600,
-			"content": "When subordinate personnel at academic or research institutions are in violation of the regulations outlined in Article 9 and are penalized in accordance with the regulations outlined in Subparagraph 3 of Article 64, the institutions shall also be fined NT$ 300,000 up to NT% 1.5 millions."
+			"content": "When the personnel at an academic or research institution is penalized in accordance with the regulations of Article 64-1 for violation of the provisions of Article 9, the institution shall also be fined NT$ 300,000 up to NT$2,000,000."
 		},
 		{
 			"number": 6700,

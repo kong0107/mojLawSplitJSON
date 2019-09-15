@@ -2,7 +2,7 @@
 	"pcode": "H0150018",
 	"type": "命令",
 	"title": "教育人員任用條例施行細則",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0150018",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0150018",
 	"category": [
 		"行政",
 		"教育部",
@@ -12,7 +12,12 @@
 	"isTranslated": true,
 	"english": "Enforcement Rules of Act Governing the Appointment of Educators",
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000018402"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一 社教機構&教職人員等級比照表.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國七十六年七月三日教育部（76）台參字第 29829 號令訂定發布全文 36 條",

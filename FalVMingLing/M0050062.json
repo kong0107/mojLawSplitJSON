@@ -2,7 +2,7 @@
 	"pcode": "M0050062",
 	"type": "命令",
 	"title": "漁船赴北太平洋從事秋刀魚漁撈作業管理辦法",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=M0050062",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=M0050062",
 	"category": [
 		"行政",
 		"行政院農業委員會",
@@ -12,13 +12,48 @@
 	"isTranslated": true,
 	"english": "Regulations for Fishing Vessels Conducting Saury Fishery in North Pacific Ocean",
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000211666",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000248964",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000248965",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000248966",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000248967",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000248968",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000248969"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件一  北太平洋海域示意圖.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件二  赴北太平洋捕撈秋刀魚之漁船申請書.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件三  國際識別編號之標識字體高度與寬度及顏色規格.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件四  運搬船從事轉載應檢具資料.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件五  轉載漁獲申報表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件六  轉載漁獲物確認書.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件七  遠洋漁船漁獲物卸魚預報表／聲明書.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國一百零六年一月二十日行政院農業委員會農漁字第 1061332417A 號令訂定發布全文 48 條；並自一百零六年一月二十日施行",

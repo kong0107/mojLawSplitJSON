@@ -2,7 +2,7 @@
 	"pcode": "D0010010",
 	"type": "命令",
 	"title": "內政部專業獎章頒給辦法",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0010010",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0010010",
 	"category": [
 		"行政",
 		"內政部",
@@ -11,12 +11,42 @@
 	"lastUpdate": "20140129",
 	"isTranslated": false,
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000056929",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000056930",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000056931",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000234410",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000234411",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000234412"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一內政部專業獎章式樣及圖說.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一內政部專業獎章式樣及圖說.DOC"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二請頒內政部專業獎章事實表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二請頒內政部專業獎章事實表.DOC"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表三獎章證書.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表三獎章證書.DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國七十六年一月二十三日內政部（76）台內人字第 471192 號令訂定發布全文 15 條",

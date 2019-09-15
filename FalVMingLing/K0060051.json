@@ -2,7 +2,7 @@
 	"pcode": "K0060051",
 	"type": "命令",
 	"title": "電信事業處理有關機關（構）查詢電信使用者資料實施辦法",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=K0060051",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=K0060051",
 	"category": [
 		"行政",
 		"國家通訊傳播委員會",
@@ -11,7 +11,12 @@
 	"lastUpdate": "20170615",
 	"isTranslated": false,
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000199171"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件電信使用者資料查詢單.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國八十八年十月二十二日交通部電信總局（88）電信公字第 506797-0 號令訂定發布全文 12 條；並自發布日起施行",

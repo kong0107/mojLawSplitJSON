@@ -2,7 +2,7 @@
 	"pcode": "D0050149",
 	"type": "命令",
 	"title": "中低收入老人特別照顧津貼發給辦法",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0050149",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0050149",
 	"category": [
 		"行政",
 		"衛生福利部",
@@ -12,8 +12,18 @@
 	"isTranslated": true,
 	"english": "Regulations on Special Care Allowance For Middle or Low-income Senior Citizens",
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000045395",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000234093"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表特定身心障礙項目及申請標準表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表特定身心障礙項目及申請標準表.DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國九十六年七月九日內政部內授中社字第 0960714084 號令訂定發布全文 13 條；並自發布日施行中華民國一百零二年七月十九日行政院院臺規字第 1020141353 號公告第 12 條所列屬「內政部」之權責事項，自一百零二年七月二十三日起改由「衛生福利部」管轄"

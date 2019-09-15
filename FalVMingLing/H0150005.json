@@ -2,7 +2,7 @@
 	"pcode": "H0150005",
 	"type": "命令",
 	"title": "學校教職員退休條例施行細則",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0150005",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0150005",
 	"category": [
 		"行政",
 		"教育部",
@@ -12,9 +12,24 @@
 	"isTranslated": true,
 	"english": "Enforcement Rules for the Statute Governing the Retirement of School Faculty",
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000021979",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000021980",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000021981"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一學校教職員退休金支給標準表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二學校教職員退休條例第二十一條之一第五項及第六項加發補償金計算標準表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表三學校教職員在本條例修正施行前任職年資退休金支給標準表.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國五十二年七月二十六日行政院（52）人字第 5021 號令核准中華民國五十二年七月三十一日教育部（52）台參字第 9519 號令訂定發布",

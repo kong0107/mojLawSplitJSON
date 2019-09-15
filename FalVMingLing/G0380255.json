@@ -2,7 +2,7 @@
 	"pcode": "G0380255",
 	"type": "命令",
 	"title": "外國銀行在臺分行發行新臺幣金融債券辦法",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=G0380255",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=G0380255",
 	"category": [
 		"行政",
 		"金融監督管理委員會",
@@ -12,7 +12,12 @@
 	"isTranslated": true,
 	"english": "Regulations Governing Issuance of NTD Bank Debentures by Foreign Bank Branches",
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000215631"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件：外國銀行在臺分行發行新臺幣金融債券申請書.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國一百零七年四月十七日金融監督管理委員會金管銀外字第 10702710830 號令訂定發布全文 13 條；並自發布日施行"

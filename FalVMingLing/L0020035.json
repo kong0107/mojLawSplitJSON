@@ -2,7 +2,7 @@
 	"pcode": "L0020035",
 	"type": "命令",
 	"title": "護理機構分類設置標準",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0020035",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0020035",
 	"category": [
 		"行政",
 		"衛生福利部",
@@ -11,7 +11,12 @@
 	"lastUpdate": "20130809",
 	"isTranslated": false,
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000132956"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表：護理機構設置標準表.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國八十二年八月二十七日行政院衛生署（82）衛署醫字第 8247383 號令訂定發布全文 14 條",

@@ -2,7 +2,7 @@
 	"pcode": "J0010039",
 	"type": "命令",
 	"title": "經濟部水利署辦事細則",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0010039",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0010039",
 	"category": [
 		"行政",
 		"經濟部",
@@ -11,8 +11,18 @@
 	"lastUpdate": "20100329",
 	"isTranslated": false,
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000079237",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000234753"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件組織架構圖.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件組織架構圖.DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國九十二年四月二十三日經濟部經人字第 09200058700 號令訂定發布全文 23 條；並自發布日起施行",

@@ -2,7 +2,7 @@
 	"pcode": "D0070012",
 	"type": "命令",
 	"title": "都市計畫法臺灣省施行細則（89.12.29 訂定）",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070012",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070012",
 	"category": [
 		"行政",
 		"內政部",
@@ -11,7 +11,12 @@
 	"lastUpdate": "20190614",
 	"isTranslated": false,
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000177659"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"第18條完整條文.ODT"
+			]
+		}
 	],
 	"history": [
 		"中華民國八十九年十二月二十九日內政部（89）台內營字第 8985468 號令訂定發布全文 42 條；並自發布日起施行",

@@ -2,7 +2,7 @@
 	"pcode": "F0030022",
 	"type": "命令",
 	"title": "陸海空軍人員體位分類規則",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=F0030022",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=F0030022",
 	"category": [
 		"廢止法規",
 		"國防部"
@@ -11,14 +11,54 @@
 	"isDiscarded": true,
 	"isTranslated": false,
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000128203",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000128204",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000128205",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000128206",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000128207",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000128208",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000128209",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000128210"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件一：體位區分標準.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件二：體格檢查作業要領.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件三：體位分類體格檢查表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件五：體位重編號、疾病、缺點分類通報表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件六：寄醫出院人員病史摘要通知單.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件七：寄醫出院人員歸隊通知單.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件八：缺點矯治通知及回單.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件九：國軍官兵體檢作業及體檢資料列管運用作業流程表.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國五十一年十月十五日國防部（51）法特字第 3 號令訂定發布",

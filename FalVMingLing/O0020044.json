@@ -2,7 +2,7 @@
 	"pcode": "O0020044",
 	"type": "命令",
 	"title": "煉鋼業電弧爐戴奧辛管制及排放標準",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=O0020044",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=O0020044",
 	"category": [
 		"行政",
 		"行政院環境保護署",
@@ -13,8 +13,18 @@
 	"isTranslated": true,
 	"english": "Steelmaking Industry Electric Arc Furnace Dioxin Control and Emission Standards",
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000021594",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000233610"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表國際毒性當量因子.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表國際毒性當量因子.DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國九十年十二月十二日行政院環境保護署（90）環署空字第 0079204 號令訂定發布全文 11 條",

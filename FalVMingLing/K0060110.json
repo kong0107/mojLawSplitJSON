@@ -2,7 +2,7 @@
 	"pcode": "K0060110",
 	"type": "命令",
 	"title": "通訊傳播類財團法人會計處理及財務報告編製準則",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=K0060110",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=K0060110",
 	"category": [
 		"行政",
 		"國家通訊傳播委員會",
@@ -12,10 +12,30 @@
 	"isTranslated": true,
 	"english": "Standards Governing the Accounting and Preparation of Financial Reports of Communications Foundations",
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000240710",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000240711",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000240712",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000240713"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"格式一資產負債表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"格式二收支餘絀表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"格式三淨值變動表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"格式四現金流量決算表.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國一百零八年一月三十日國家通訊傳播委員會通傳綜規字第 10840000830 號令訂定發布全文 20 條；並自一百零八年二月一日施行"

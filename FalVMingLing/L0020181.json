@@ -2,7 +2,7 @@
 	"pcode": "L0020181",
 	"type": "命令",
 	"title": "醫事人員執業登記及繼續教育辦法",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0020181",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0020181",
 	"category": [
 		"行政",
 		"衛生福利部",
@@ -11,7 +11,12 @@
 	"lastUpdate": "20161007",
 	"isTranslated": false,
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000171636"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表：醫事人員繼續教育之實施方式及積分表.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國一百零二年七月一日行政院衛生署衛署醫字第 1020269815 號令訂定發布全文 23 條；並自發布日施行",

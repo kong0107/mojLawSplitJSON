@@ -3,11 +3,21 @@
 	"type": "命令",
 	"english": "Waste Incinerator Air Pollutant Emissions Standards",
 	"title": "廢棄物焚化爐空氣污染物排放標準",
-	"url": "http://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=O0020010",
+	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=O0020010",
 	"englishUpdate": "20061225",
 	"attachments": [
-		"http://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000001713",
-		"http://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000001714"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Table 1 Waste Incinerator Air Pollutant Emissions Standards.pdf"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Table 2 Waste Incinerator Heavy Metal Air Pollutant Emissions Standards.pdf"
+			]
+		}
 	],
 	"history": [
 		"Original 14 articles promulgated by Environmental Protection Administration order on November 30, 1992; ",

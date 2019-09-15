@@ -2,7 +2,7 @@
 	"pcode": "K0110007",
 	"type": "命令",
 	"title": "風景特定區管理規則",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=K0110007",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=K0110007",
 	"category": [
 		"行政",
 		"交通部",
@@ -12,12 +12,42 @@
 	"isTranslated": true,
 	"english": "Regulations Governing the Management of Designated Scenic Areas",
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000018750",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000018751",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000018752",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000233330",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000233331",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000233332"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一風景特定區評鑑基準.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一風景特定區評鑑基準.DOC"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二風景特定區計畫項目.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二風景特定區計畫項目.DOC"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表三風景特定區設施興建申請書.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表三風景特定區設施興建申請書.DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國六十八年十二月一日交通部（68）交路字第 26102 號令 、 內政部（68）台內營字第 50691 號令會銜訂定發布全文 35 條",

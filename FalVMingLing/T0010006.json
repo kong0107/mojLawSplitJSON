@@ -2,7 +2,7 @@
 	"pcode": "T0010006",
 	"type": "命令",
 	"title": "主計人員獎懲辦法",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=T0010006",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=T0010006",
 	"category": [
 		"行政",
 		"行政院主計總處",
@@ -11,8 +11,18 @@
 	"lastUpdate": "20130603",
 	"isTranslated": false,
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000018481",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000233308"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件主計人員獎懲月報表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件主計人員獎懲月報表.DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國七十四年二月八日行政院主計處台（74）義央字第 01162 號函訂定發布全文 15 條",

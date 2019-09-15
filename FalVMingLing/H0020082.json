@@ -2,7 +2,7 @@
 	"pcode": "H0020082",
 	"type": "命令",
 	"title": "國立臺灣圖書館陽明山中山樓參觀門票收費標準",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0020082",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0020082",
 	"category": [
 		"行政",
 		"教育部",
@@ -11,7 +11,12 @@
 	"lastUpdate": "20171027",
 	"isTranslated": false,
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000206424"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表  國立臺灣圖書館陽明山中山樓參觀門票收費基準表.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國一百零二年八月二十六日國立臺灣圖書館圖中字第 1020002452A 號令訂定發布全文 4 條；並自發布日施行",

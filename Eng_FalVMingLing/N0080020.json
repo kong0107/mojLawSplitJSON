@@ -3,10 +3,15 @@
 	"type": "命令",
 	"english": "Standard Charges for Technical Skills Certification",
 	"title": "技術士技能檢定規費收費標準",
-	"url": "http://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=N0080020",
+	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=N0080020",
 	"englishUpdate": "20181210",
 	"attachments": [
-		"http://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000005015"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"ANNEX  Fees for Field Tests.odt"
+			]
+		}
 	],
 	"history": [
 		"Issued according to Order Lao-Jhong-Yi-Tzu No. 0950100133 by the Council of Labor Affairs(CLA), Executive Yuan on March 30,2006",

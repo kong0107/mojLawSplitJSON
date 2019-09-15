@@ -2,7 +2,7 @@
 	"pcode": "O0040046",
 	"type": "命令",
 	"title": "事業水污染防治措施計畫申請審查辦法",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=O0040046",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=O0040046",
 	"category": [
 		"廢止法規",
 		"行政院環境保護署"
@@ -11,8 +11,18 @@
 	"isDiscarded": true,
 	"isTranslated": false,
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000006377",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000233118"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表海域環境監測頻率表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表海域環境監測頻率表.DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國九十二年七月三十日行政院環境保護署環署水字第 0920053843 號令訂定發布全文 25 條；並自發布日施行",

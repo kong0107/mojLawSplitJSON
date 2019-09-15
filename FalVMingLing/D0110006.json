@@ -2,7 +2,7 @@
 	"pcode": "D0110006",
 	"type": "命令",
 	"title": "公職人員選舉候選人競選經費查核準則",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0110006",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0110006",
 	"category": [
 		"廢止法規",
 		"中央選舉委員會"
@@ -11,8 +11,18 @@
 	"isDiscarded": true,
 	"isTranslated": false,
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000018593",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000018594"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附式一收支帳簿格式.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附式二申報表格式.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國七十二年十一月十一日中央選舉委員會（72）中選法字第 8741 號令訂定發布全文 10 條",

@@ -3,11 +3,21 @@
 	"type": "命令",
 	"english": "The Regulations on the Collection, Custody and Use of Commercial Port Dues",
 	"title": "商港服務費收取保管及運用辦法",
-	"url": "http://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0080012",
+	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0080012",
 	"englishUpdate": "20120301",
 	"attachments": [
-		"http://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000001532",
-		"http://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004530"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"CLASS RATE TARIFF FOR PORT DUES.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"CLASS RATE TARIFF FOR PORT DUES.doc"
+			]
+		}
 	],
 	"history": [
 		" Promulgated on January 1,2002",

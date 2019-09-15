@@ -2,7 +2,7 @@
 	"pcode": "D0070091",
 	"type": "命令",
 	"title": "國民住宅社區規劃及住宅設計規則",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070091",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070091",
 	"category": [
 		"廢止法規",
 		"內政部"
@@ -11,7 +11,12 @@
 	"isDiscarded": true,
 	"isTranslated": false,
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000126757"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國七十三年四月五日內政部（73）台內營字第 220141 號令訂定發布全文 80 條",

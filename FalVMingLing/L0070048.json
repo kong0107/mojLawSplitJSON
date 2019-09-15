@@ -2,7 +2,7 @@
 	"pcode": "L0070048",
 	"type": "命令",
 	"title": "長期照顧服務機構設立標準",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0070048",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0070048",
 	"category": [
 		"行政",
 		"衛生福利部",
@@ -11,9 +11,24 @@
 	"lastUpdate": "20170603",
 	"isTranslated": false,
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000198446",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000198447",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000198448"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件一：居家式長照機構設立標準表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件二：社區式長照機構設立標準表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件三：住宿式長照機構設立標準表.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國一百零六年六月三日衛生福利部衛授家字第 1060800629 號令訂定發布全文 20 條；並自一百零六年六月三日施行"

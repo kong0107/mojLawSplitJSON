@@ -2,7 +2,7 @@
 	"pcode": "H0160065",
 	"type": "命令",
 	"title": "科技部科技專業獎章頒給辦法",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0160065",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0160065",
 	"category": [
 		"行政",
 		"科技部",
@@ -12,10 +12,30 @@
 	"isTranslated": true,
 	"english": "Ministry of Science and Technology’s Regulations for the Awarding of Science and Technology Profession Medals",
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000223799",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000223800",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000223801",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000223802"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一 科技專業獎章式樣及圖說.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二 請頒科技專業獎章事實表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表三 獎章證書.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表四 英文證書.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國一百零七年七月二十六日科技部科部人字第 1070049342A 號令訂定發布全文 8 條；並自發布日施行"

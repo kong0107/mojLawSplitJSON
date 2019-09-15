@@ -2,7 +2,7 @@
 	"pcode": "D0070135",
 	"type": "命令",
 	"title": "建造執照預審辦法",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070135",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070135",
 	"category": [
 		"行政",
 		"內政部",
@@ -11,10 +11,30 @@
 	"lastUpdate": "19850626",
 	"isTranslated": false,
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000018801",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000018802",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000233344",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000233345"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一建造執照預審申請書.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一建造執照預審申請書.DOC"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二建造執照預審審定書.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二建造執照預審審定書.DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國七十三年一月十九日內政部（73）台內營字第 207266 號令訂定發布",

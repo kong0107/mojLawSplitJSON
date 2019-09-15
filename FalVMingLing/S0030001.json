@@ -2,7 +2,7 @@
 	"pcode": "S0030001",
 	"type": "法律",
 	"title": "公務人員俸給法",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=S0030001",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=S0030001",
 	"category": [
 		"考試",
 		"銓敘部",
@@ -11,8 +11,18 @@
 	"lastUpdate": "20080116",
 	"isTranslated": false,
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000002287",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000233074"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"公務人員俸表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"公務人員俸表.DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國三十八年一月一日總統令公布施行",

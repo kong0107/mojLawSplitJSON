@@ -2,7 +2,7 @@
 	"pcode": "A0020179",
 	"type": "命令",
 	"title": "國史館臺灣文獻館古文書閱覽複製辦法",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0020179",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0020179",
 	"category": [
 		"總統",
 		"總統府",
@@ -11,8 +11,18 @@
 	"lastUpdate": "20140224",
 	"isTranslated": false,
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000142539",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000235716"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表：國史館臺灣文獻館古文書閱覽複製申請書.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表：國史館臺灣文獻館古文書閱覽複製申請書.DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國一百零三年二月二十四日國史館臺灣文獻館臺採字第 1030000597 號令訂定發布全文 16 條；並自發布日施行"

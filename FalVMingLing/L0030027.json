@@ -2,7 +2,7 @@
 	"pcode": "L0030027",
 	"type": "命令",
 	"title": "藥品醫材儲備動員管制辦法",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0030027",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0030027",
 	"category": [
 		"行政",
 		"衛生福利部",
@@ -12,7 +12,12 @@
 	"isTranslated": true,
 	"english": "The Mobilisation of Reserve Medicines and Medical Devices Regulations",
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000033139"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表儲備藥品醫材品項數量表.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國九十一年九月二十六日行政院衛生署衛署醫字第 0910049422 號令 、 國防部（九一）鐸錮字第 001396 號令會銜訂定發布全文 10 條；並自發布日施行中華民國一百零二年七月十九日行政院院臺規字第 1020141353 號公告第 9 條所列屬「行政院衛生署管制藥品管理局」之權責事項，自一百零二年七月二十三日起改由「衛生福利部食品藥物管理署」管轄",

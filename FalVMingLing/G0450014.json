@@ -2,7 +2,7 @@
 	"pcode": "G0450014",
 	"type": "命令",
 	"title": "人民幣在臺灣地區管理及清算辦法",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=G0450014",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=G0450014",
 	"category": [
 		"廢止法規",
 		"中央銀行"
@@ -12,8 +12,18 @@
 	"isTranslated": true,
 	"english": "Regulations Governing the Administration and Settlement of Renminbi in the Taiwan Area",
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000081878",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000081879"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"（附表一）一般金融機構使用－臺灣地區金融機構辦理人民幣現鈔買賣業務日報表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"（附表二）臺灣銀行使用－臺灣銀行辦理人民幣現鈔買賣業務日報表.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國九十七年六月二十七日中央銀行台央外柒字第 0970028801 號令 、 行政院金融監督管理委員會金管銀（一）字第 09700246371 號令會銜訂定發布全文 21 條；並自發布日施行",

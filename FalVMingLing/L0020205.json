@@ -2,7 +2,7 @@
 	"pcode": "L0020205",
 	"type": "命令",
 	"title": "全國性衛生財團法人會計處理及財務報告編製準則",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0020205",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0020205",
 	"category": [
 		"行政",
 		"衛生福利部",
@@ -11,10 +11,30 @@
 	"lastUpdate": "20190201",
 	"isTranslated": false,
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000240857",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000240858",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000240859",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000240860"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一：資產負債表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二：營運活動表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表三：現金流量表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表四：功能別費用表.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國一百零八年二月一日衛生福利部衛部醫字第 1081660432 號令訂定發布全文 44 條；並自一百零八年二月一日施行"

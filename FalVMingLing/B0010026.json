@@ -2,7 +2,7 @@
 	"pcode": "B0010026",
 	"type": "命令",
 	"title": "民事訴訟文書使用電信傳真或其他科技設備作業辦法",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=B0010026",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=B0010026",
 	"category": [
 		"司法",
 		"院本部",
@@ -11,10 +11,30 @@
 	"lastUpdate": "20170930",
 	"isTranslated": false,
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000205469",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000205470",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000236500",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000236501"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件一：文書傳送之首頁格式.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件一：文書傳送之首頁格式.DOC"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件二：回傳格式.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件二：回傳格式.DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國八十八年二月九日司法院（88）院台廳民一字第 03462 號令訂定發布全文 7 條",

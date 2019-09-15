@@ -3,10 +3,15 @@
 	"type": "命令",
 	"english": "Fee-charging Standards for the Use of State-operated Airport, Navigation Aids and Related Facilities",
 	"title": "使用國營航空站助航設備及相關設施收費標準",
-	"url": "http://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0090019",
+	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0090019",
 	"englishUpdate": "20190401",
 	"attachments": [
-		"http://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000005223"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Table of the Rates of Fee-charging Standards for the Use of State-operated Airport, Navigation Aids and Related Facilities.pdf"
+			]
+		}
 	],
 	"history": [
 		"Promulgated on May 20,1983",

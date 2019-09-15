@@ -2,7 +2,7 @@
 	"pcode": "H0120047",
 	"type": "命令",
 	"title": "有功教練獎勵辦法",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0120047",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0120047",
 	"category": [
 		"行政",
 		"教育部",
@@ -11,7 +11,12 @@
 	"lastUpdate": "20180720",
 	"isTranslated": false,
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000223431"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件  有功教練獎金基準表（單位：新臺幣／萬元）.ODT"
+			]
+		}
 	],
 	"history": [
 		"中華民國九十五年十一月二十九日行政院體育委員會體委競字第 09500244313 號令訂定發布全文 8 條；並自發布日施行",

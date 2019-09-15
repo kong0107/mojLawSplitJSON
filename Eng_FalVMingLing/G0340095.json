@@ -3,16 +3,51 @@
 	"type": "法律",
 	"english": "Vehicle License Tax Act",
 	"title": "使用牌照稅法",
-	"url": "http://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0340095",
+	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0340095",
 	"englishUpdate": "20171206",
 	"attachments": [
-		"http://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003933",
-		"http://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003934",
-		"http://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003935",
-		"http://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003936",
-		"http://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003937",
-		"http://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003938",
-		"http://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004964"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Table 1 Vehicle License Tax Rates Chart for Small Passenger Vehicles.pdf"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Table 2 Vehicle License Tax Rates Chart for Large Passenger Vehicles and Trucks.pdf"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Table 3 Vehicle License Tax Rates Chart for motorcycles.pdf"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Table 4 of Article 6, Vehicle License Tax Act.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Table 4 of Article 6, Vehicle License Tax Act.doc"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Table 5 Vehicle License Tax Rates Chart for Completely Electric-operated Motorcycles.pdf"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Table 6 of Article 6, Vehicle License Tax Act.pdf"
+			]
+		}
 	],
 	"history": [
 		"Full text (13 articles) promulgated on 11 June 1945 by National Government.",

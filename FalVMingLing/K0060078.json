@@ -2,7 +2,7 @@
 	"pcode": "K0060078",
 	"type": "命令",
 	"title": "電信終端設備規費收費標準",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=K0060078",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=K0060078",
 	"category": [
 		"行政",
 		"國家通訊傳播委員會",
@@ -12,8 +12,18 @@
 	"isTranslated": true,
 	"english": "Standards for Telecommunications Terminal Equipment Statutory Fee",
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000043417",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000234081"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表電信終端設備規費收費基準表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表電信終端設備規費收費基準表.DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國九十五年一月十日交通部交郵字第 09500850031 號令訂定發布全文 7 條；並自發布日施行",

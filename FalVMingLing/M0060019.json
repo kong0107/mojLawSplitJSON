@@ -2,7 +2,7 @@
 	"pcode": "M0060019",
 	"type": "命令",
 	"title": "自製自用飼料許可管理辦法",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=M0060019",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=M0060019",
 	"category": [
 		"行政",
 		"行政院農業委員會",
@@ -11,7 +11,12 @@
 	"lastUpdate": "20160223",
 	"isTranslated": false,
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000174786"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件  自製自用飼料戶飼料添加物使用紀錄簿.ODT"
+			]
+		}
 	],
 	"history": [
 		"中華民國八十一年六月三十日行政院農業委員會（81）農牧字第 1050291A 號令訂定發布全文 11 條",

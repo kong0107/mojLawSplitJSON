@@ -3,10 +3,15 @@
 	"type": "命令",
 	"english": "Standards for Pesticide Residue Limits in Animal Products",
 	"title": "動物產品中農藥殘留容許量標準",
-	"url": "http://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=L0040078",
+	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=L0040078",
 	"englishUpdate": "20190128",
 	"attachments": [
-		"http://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000005167"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Article 3.pdf"
+			]
+		}
 	],
 	"history": [
 		"6 June 2008, Food No.0970400574",

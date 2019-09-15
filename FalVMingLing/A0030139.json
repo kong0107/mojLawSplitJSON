@@ -2,15 +2,25 @@
 	"pcode": "A0030139",
 	"type": "命令",
 	"title": "立法院會議錄影錄音管理規則",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0030139",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0030139",
 	"category": [
 		"立法"
 	],
 	"lastUpdate": "20160318",
 	"isTranslated": false,
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000178491",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000236474"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表.DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國七十六年十二月十七日立法院第七十五屆經費稽核委員會第二次會議通過",

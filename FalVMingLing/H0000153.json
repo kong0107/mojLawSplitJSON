@@ -2,7 +2,7 @@
 	"pcode": "H0000153",
 	"type": "命令",
 	"title": "國立自然科學博物館編制表",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0000153",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0000153",
 	"category": [
 		"行政",
 		"教育部",
@@ -11,7 +11,12 @@
 	"lastUpdate": "20131111",
 	"isTranslated": false,
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000136631"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"國立自然科學博物館編制表.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國一百零一年十二月三十日教育部臺秘企字第 1010252661C 號令訂定發布；並自一百零二年一月一日施行",
@@ -21,7 +26,7 @@
 	"articles": [
 		{
 			"number": 100,
-			"content": "備      註：本編制表依據國立自然科學博物館組織法第 5  條訂定，內\r\n            容請參閱相關圖表附檔。"
+			"content": "法源資訊編：本編制表依據國立自然科學博物館組織法第 5  條訂定，內\r\n            容請參閱相關圖表附檔。"
 		}
 	]
 }

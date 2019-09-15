@@ -3,11 +3,21 @@
 	"type": "命令",
 	"english": "Standards for the Tolerance of Atomic Dust and Radioactivity Contamination in Foods",
 	"title": "食品中原子塵或放射能污染容許量標準",
-	"url": "http://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=L0040079",
+	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=L0040079",
 	"englishUpdate": "20160118",
 	"attachments": [
-		"http://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003154",
-		"http://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004836"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Article 2.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Article 2.doc"
+			]
+		}
 	],
 	"history": [
 		"DOH Food No0970404024Announced, 2008.07.01",

@@ -3,16 +3,46 @@
 	"type": "命令",
 	"english": "Regulations Governing Cash Transaction Reports （CTR）and Suspicious Transaction Reports （STR） by Financial Institutions",
 	"title": "金融機構對達一定金額以上通貨交易及疑似洗錢交易申報辦法",
-	"url": "http://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0380206",
+	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0380206",
 	"englishUpdate": "20170626",
 	"isDiscarded": true,
 	"attachments": [
-		"http://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000000971",
-		"http://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000000972",
-		"http://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000000973",
-		"http://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004456",
-		"http://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004457",
-		"http://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004458"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment 1 Cash Transaction File Layout.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment 1 Cash Transaction File Layout.doc"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment 2 (Reporting Entity)  Cash Transaction Report.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment 2 (Reporting Entity)  Cash Transaction Report.doc"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment 3 (Reporting Entity)  Suspicious Transaction Report.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment 3 (Reporting Entity)  Suspicious Transaction Report.doc"
+			]
+		}
 	],
 	"history": [
 		"Issued per Order Jin-Guan-Yin-(1)-Zi-No.09710004460 dated December 18, 2008 and implemented on March 18, 2009",

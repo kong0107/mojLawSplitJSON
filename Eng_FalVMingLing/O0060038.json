@@ -3,17 +3,57 @@
 	"type": "命令",
 	"english": "Permit Registration and Approval Regulations for Toxic Chemical Substances",
 	"title": "毒性化學物質許可登記核可管理辦法",
-	"url": "http://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=O0060038",
+	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=O0060038",
 	"englishUpdate": "20101220",
 	"attachments": [
-		"http://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000002030",
-		"http://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000002031",
-		"http://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000002032",
-		"http://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000002033",
-		"http://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004592",
-		"http://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004593",
-		"http://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004594",
-		"http://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004595"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment 1.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment 1.doc"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment 2.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment 2.doc"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment 3.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment 3.doc"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment 4.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment 4.doc"
+			]
+		}
 	],
 	"history": [
 		"Promulgated on December 17th, 2007 per Environmental Protection Administration order Huan-Shu-Tu-Tzu No. 0960095333",

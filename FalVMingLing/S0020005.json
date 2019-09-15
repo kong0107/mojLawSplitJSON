@@ -2,7 +2,7 @@
 	"pcode": "S0020005",
 	"type": "法律",
 	"title": "警察人員人事條例",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=S0020005",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=S0020005",
 	"category": [
 		"行政",
 		"內政部",
@@ -12,10 +12,30 @@
 	"isTranslated": true,
 	"english": "Police Personnel Management Act",
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000045482",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000219156",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000219157",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000234095"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一警察人員俸表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一警察人員俸表.DOC"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二警察人員與一般行政人員及技術人員相互轉任官等官階（職等）及相當俸級之俸額俸點換敘對照表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二警察人員與一般行政人員及技術人員相互轉任官等官階（職等）及相當俸級之俸額俸點換敘對照表.DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國六十五年一月十七日總統（65）台統（一）義字第 0167 號令制定公布全文 42 條",

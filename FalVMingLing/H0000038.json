@@ -2,7 +2,7 @@
 	"pcode": "H0000038",
 	"type": "命令",
 	"title": "國立高雄餐旅管理專科學校籌備處組織規程",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0000038",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0000038",
 	"category": [
 		"廢止法規",
 		"教育部"
@@ -11,7 +11,12 @@
 	"isDiscarded": true,
 	"isTranslated": false,
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000126619"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"國立高雄餐旅管理專科學校籌備處編制表.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國八十一年八月二十九日教育部（81）台參字第 48128 號令訂定發布全文 11 條",

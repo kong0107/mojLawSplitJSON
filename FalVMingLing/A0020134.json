@@ -2,7 +2,7 @@
 	"pcode": "A0020134",
 	"type": "命令",
 	"title": "國家發展委員會提供政府資訊收費標準",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0020134",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0020134",
 	"category": [
 		"行政",
 		"國家發展委員會",
@@ -11,8 +11,18 @@
 	"lastUpdate": "20141007",
 	"isTranslated": false,
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000151104",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000235989"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表政府資訊重製或複製收費標準表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表政府資訊重製或複製收費標準表.DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國九十六年二月八日行政院經濟建設委員會總字第 0960000710 號令訂定發布全文 8 條；並自發布日施行",

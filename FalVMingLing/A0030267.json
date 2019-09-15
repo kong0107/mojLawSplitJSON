@@ -2,7 +2,7 @@
 	"pcode": "A0030267",
 	"type": "命令",
 	"title": "候補試署法官辦理事務及服務成績考核辦法",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0030267",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0030267",
 	"category": [
 		"司法",
 		"院本部",
@@ -11,8 +11,18 @@
 	"lastUpdate": "20180815",
 	"isTranslated": false,
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000133321",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000235586"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件 候補、試署法官書類審查標準.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件 候補、試署法官書類審查標準.DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國一百零一年七月五日司法院院台人三字第 1010019266 號令訂定發布全文 21 條；並自一百零一年七月六日施行",

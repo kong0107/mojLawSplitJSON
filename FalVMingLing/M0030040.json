@@ -2,7 +2,7 @@
 	"pcode": "M0030040",
 	"type": "命令",
 	"title": "公糧稻穀驗收標準",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=M0030040",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=M0030040",
 	"category": [
 		"行政",
 		"行政院農業委員會",
@@ -12,7 +12,12 @@
 	"isTranslated": true,
 	"english": "Standards for the Inspection of Public Stock Paddy",
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000177047"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"第 4 條完整條文.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國八十八年十月三十日行政院農業委員會（88）農糧字第 88020756 號令訂定發布全文 6 條；本標準自發布日施行",

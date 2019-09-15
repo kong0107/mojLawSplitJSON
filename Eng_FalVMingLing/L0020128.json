@@ -3,11 +3,21 @@
 	"type": "命令",
 	"english": "Fee Schedules for Hospital Accreditation and Accreditation of Teaching Hospitals",
 	"title": "醫院評鑑及教學醫院評鑑收費標準",
-	"url": "http://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=L0020128",
+	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=L0020128",
 	"englishUpdate": "20130802",
 	"attachments": [
-		"http://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000002058",
-		"http://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004604"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachments.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachments.doc"
+			]
+		}
 	],
 	"history": [
 		"Promulgated on June 20th,2007",

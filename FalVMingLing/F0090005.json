@@ -2,7 +2,7 @@
 	"pcode": "F0090005",
 	"type": "命令",
 	"title": "國軍裝備保養修護辦法",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=F0090005",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=F0090005",
 	"category": [
 		"廢止法規",
 		"國防部"
@@ -11,9 +11,24 @@
 	"isDiscarded": true,
 	"isTranslated": false,
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000128252",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000128253",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000128254"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表三.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國五十四年十月二十三日國防部（54）約法字第 0296 號令訂定發布全文 46 條；並自公布日施行",

@@ -2,7 +2,7 @@
 	"pcode": "P0050011",
 	"type": "命令",
 	"title": "有線廣播電視廣告製播標準",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=P0050011",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=P0050011",
 	"category": [
 		"行政",
 		"國家通訊傳播委員會",
@@ -12,8 +12,18 @@
 	"isTranslated": true,
 	"english": "The Production and Transmission Standards for Cable Radio and Television Advertisements",
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000018886",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000233353"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表.DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國八十三年三月九日行政院新聞局（83）強廣一字第 03761 號令訂定發布全文 8 條",

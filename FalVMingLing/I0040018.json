@@ -2,7 +2,7 @@
 	"pcode": "I0040018",
 	"type": "法律",
 	"title": "少年觀護所設置及實施通則",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=I0040018",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=I0040018",
 	"category": [
 		"行政",
 		"法務部",
@@ -12,8 +12,18 @@
 	"isTranslated": true,
 	"english": "Statute on the Establishment of Juvenile Detention Houses",
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000021679",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000233623"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表.DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國五十三年九月四日總統制定公布全文 34 條中華民國六十年九月十六日行政院令自六十年七月一日施行",

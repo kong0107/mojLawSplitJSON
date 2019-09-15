@@ -2,7 +2,7 @@
 	"pcode": "L0020158",
 	"type": "命令",
 	"title": "醫院緊急醫療能力分級標準",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0020158",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0020158",
 	"category": [
 		"行政",
 		"衛生福利部",
@@ -11,8 +11,18 @@
 	"lastUpdate": "20121030",
 	"isTranslated": false,
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000119671",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000235405"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表：醫院緊急醫療能力評級表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表：醫院緊急醫療能力評級表.DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國九十八年七月十三日行政院衛生署衛署醫字第 0980209066 號令訂定發布全文 5 條；並自發布日施行",

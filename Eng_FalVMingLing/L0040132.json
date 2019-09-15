@@ -3,11 +3,21 @@
 	"type": "命令",
 	"english": "Accreditation Of Certification Body And Sanitation And Safety Control Of Food Businesses Of Certification Regulations",
 	"title": "食品衛生安全管理系統驗證機構認證及驗證管理辦法",
-	"url": "http://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=L0040132",
+	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=L0040132",
 	"englishUpdate": "20190604",
 	"attachments": [
-		"http://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000005529",
-		"http://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000005530"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment.pdf"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment.doc"
+			]
+		}
 	],
 	"history": [
 		"Promulgated on March 11, 2016",

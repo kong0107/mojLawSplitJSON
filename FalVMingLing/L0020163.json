@@ -2,7 +2,7 @@
 	"pcode": "L0020163",
 	"type": "命令",
 	"title": "醫院設立或擴充許可辦法",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0020163",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0020163",
 	"category": [
 		"行政",
 		"衛生福利部",
@@ -11,7 +11,12 @@
 	"lastUpdate": "20181106",
 	"isTranslated": false,
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000232182"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表.ODT"
+			]
+		}
 	],
 	"history": [
 		"中華民國九十九年一月二十五日行政院衛生署衛署醫字第 0980264206 號令訂定發布全文 13 條；並自發布日施行",

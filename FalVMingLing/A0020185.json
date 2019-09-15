@@ -2,7 +2,7 @@
 	"pcode": "A0020185",
 	"type": "命令",
 	"title": "國家發展委員會檔案管理局電子檔案技術服務收費標準",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0020185",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0020185",
 	"category": [
 		"行政",
 		"國家發展委員會",
@@ -12,9 +12,24 @@
 	"isTranslated": true,
 	"english": "Fee Standards for Electronic Records Technical Service at the National Archives Administration, National Development Council",
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000168919",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000236412",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000244480"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一國家發展委員會檔案管理局電子檔案技術服務收費標準表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二國家發展委員會檔案管理局電子檔案技術服務加選項目收費標準表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二國家發展委員會檔案管理局電子檔案技術服務加選項目收費標準表.DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國一百零四年十一月十一日國家發展委員會檔案管理局檔資字第 10400046282 號令訂定發布全文 7 條；並自發布日施行",

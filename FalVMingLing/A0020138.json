@@ -2,7 +2,7 @@
 	"pcode": "A0020138",
 	"type": "命令",
 	"title": "國家安全局涉及國家安全人員申請出國許可辦法",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0020138",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0020138",
 	"category": [
 		"總統",
 		"國家安全會議",
@@ -11,9 +11,24 @@
 	"lastUpdate": "20081224",
 	"isTranslated": false,
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000061045",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000061046",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000061047"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件一國家安全局涉及國家安全人員非公務出國申請表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件二國家安全局涉及國家安全留職停薪人員出國申請表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件三國家安全局涉及國家安全人員出國返國歸詢表.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國九十七年十二月二十四日國家安全局（097）國雅字第 0027193 號令訂定發布全文 8 條；並自發布日施行"

@@ -2,7 +2,7 @@
 	"pcode": "J0160075",
 	"type": "命令",
 	"title": "天然放射性物質衍生廢棄物管理辦法",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0160075",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0160075",
 	"category": [
 		"行政",
 		"行政院原子能委員會",
@@ -12,8 +12,18 @@
 	"isTranslated": true,
 	"english": "Administrative Regulations for Waste Generated from Naturally Occurring Radioactive Materials",
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000040107",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000234036"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表衍生廢棄物活度濃度指數.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表衍生廢棄物活度濃度指數.DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國九十六年一月五日行政院原子能委員會會物字第 0960000145 號令訂定發布全文 14 條；並自發布日施行"

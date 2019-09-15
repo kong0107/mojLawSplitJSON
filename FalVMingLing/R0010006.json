@@ -2,7 +2,7 @@
 	"pcode": "R0010006",
 	"type": "命令",
 	"title": "考選部國家考場大樓地下停車場收費標準",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=R0010006",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=R0010006",
 	"category": [
 		"考試",
 		"考選部",
@@ -11,7 +11,12 @@
 	"lastUpdate": "20141231",
 	"isTranslated": false,
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000157263"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表  考選部國家考場大樓地下停車場使用規費收費基準表.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國九十六年二月六日考選部選總字第 0960000640 號函送立法院備查修正中華民國九十六年一月十六日考選部選總字第 0961700082 號函送財政部同意修正中華民國九十六年一月二十四日財政部台財庫字第 09600029940 號函同意",

@@ -2,7 +2,7 @@
 	"pcode": "D0020068",
 	"type": "命令",
 	"title": "遊說登記及財務收支報表簿冊閱覽實施及收費辦法",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020068",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0020068",
 	"category": [
 		"行政",
 		"內政部",
@@ -12,8 +12,18 @@
 	"isTranslated": true,
 	"english": "Regulations of Charge for Viewing of Lobbying Registration and Financial Statements",
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000053821",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000234340"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件閱覽、抄寫、複印或攝影遊說登記及財務收支報表簿冊申請書.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件閱覽、抄寫、複印或攝影遊說登記及財務收支報表簿冊申請書.DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國九十七年四月三十日內政部台內民字第 09700716009 號令訂定發布全文 12 條；並自九十七年八月八日施行"

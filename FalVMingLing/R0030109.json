@@ -2,7 +2,7 @@
 	"pcode": "R0030109",
 	"type": "命令",
 	"title": "高科技或稀少性工作類科標準",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=R0030109",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=R0030109",
 	"category": [
 		"考試",
 		"考選部",
@@ -11,7 +11,12 @@
 	"lastUpdate": "20160519",
 	"isTranslated": false,
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000164503"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表  新增高科技或稀少性工作類科申請表.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國九十二年九月十二日考試院考臺組壹一字第 09200073601 號令 、 行政院院授人力字第 0910055116 號令會同訂定發布全文 6 條；並自發布日施行",

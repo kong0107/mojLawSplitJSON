@@ -2,7 +2,7 @@
 	"pcode": "A0030214",
 	"type": "命令",
 	"title": "司法院及所屬機關提供政府資訊收費標準",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0030214",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0030214",
 	"category": [
 		"司法",
 		"院本部",
@@ -11,8 +11,18 @@
 	"lastUpdate": "20070129",
 	"isTranslated": false,
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000040831",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000234041"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表：政府資訊重製或複製收費標準表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表：政府資訊重製或複製收費標準表.DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國九十六年一月二十九日司法院院台廳民一字第 0960000769 號令訂定發布全文 9 條；並自發布日施行"

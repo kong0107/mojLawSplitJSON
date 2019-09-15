@@ -2,7 +2,7 @@
 	"pcode": "K0070019",
 	"type": "命令",
 	"title": "氣墊船管理規則",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=K0070019",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=K0070019",
 	"category": [
 		"行政",
 		"交通部",
@@ -11,8 +11,18 @@
 	"lastUpdate": "20120919",
 	"isTranslated": false,
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000117377",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000235378"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表.DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國六十七年七月十七日交通部（67）交航字第 12585 號令訂定發布",

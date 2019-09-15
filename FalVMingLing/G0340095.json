@@ -2,7 +2,7 @@
 	"pcode": "G0340095",
 	"type": "法律",
 	"title": "使用牌照稅法",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=G0340095",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=G0340095",
 	"category": [
 		"行政",
 		"財政部",
@@ -12,15 +12,60 @@
 	"isTranslated": true,
 	"english": "Vehicle License Tax Act",
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000046359",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000046360",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000105993",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000208188",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000208189",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000208190",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000234183",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000234184",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000235257"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一小客車使用牌照稅稅額表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一小客車使用牌照稅稅額表.DOC"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二大客車及貨車使用牌照稅稅額表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二大客車及貨車使用牌照稅稅額表.DOC"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表三機車使用牌照稅稅額表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表四完全以電能為動力之電動小客車使用牌照稅稅額表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表四完全以電能為動力之電動小客車使用牌照稅稅額表.DOC"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表五完全以電能為動力之電動機車使用牌照稅稅額表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表六完全以電能為動力之電動大客車及貨車使用牌照稅稅額表.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國三十四年六月十一日國民政府制定公布全文 13 條",

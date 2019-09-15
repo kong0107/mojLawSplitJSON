@@ -2,7 +2,7 @@
 	"pcode": "H0170088",
 	"type": "命令",
 	"title": "國立臺灣歷史博物館門票收費標準",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0170088",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0170088",
 	"category": [
 		"行政",
 		"文化部",
@@ -12,8 +12,18 @@
 	"isTranslated": true,
 	"english": "Charge Standards for Admissions of National Museum of Taiwan History",
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000159078",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000236167"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表  國立臺灣歷史博物館門票收費基準表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表  國立臺灣歷史博物館門票收費基準表.DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國一百年十月二十六日國立臺灣歷史博物館臺史博行字第 10020034191 號令訂定發布全文 3 條；並自一百年十月二十九日施行",

@@ -2,7 +2,7 @@
 	"pcode": "O0020119",
 	"type": "命令",
 	"title": "建物及工業維護塗料揮發性有機物成分標準",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=O0020119",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=O0020119",
 	"category": [
 		"行政",
 		"行政院環境保護署",
@@ -11,7 +11,12 @@
 	"lastUpdate": "20190813",
 	"isTranslated": false,
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000253006"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國一百零八年八月十三日行政院環境保護署環署空字第 1080058264 號令訂定發布全文 7 條；並自發布日施行"

@@ -3,11 +3,21 @@
 	"type": "命令",
 	"english": "Sanitation Standard for Processing Aids",
 	"title": "加工助劑衛生標準",
-	"url": "http://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=L0040131",
+	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=L0040131",
 	"englishUpdate": "20160217",
 	"attachments": [
-		"http://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003153",
-		"http://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004835"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Appendix 1：The Application Standard of Processing Aids.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Appendix 1：The Application Standard of Processing Aids.doc"
+			]
+		}
 	],
 	"history": [
 		"MOHW Food No. 1051300445Announced. 02/17/2016"

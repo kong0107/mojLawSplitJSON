@@ -2,7 +2,7 @@
 	"pcode": "K0060068",
 	"type": "命令",
 	"title": "電信終端設備驗證機構管理辦法",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=K0060068",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=K0060068",
 	"category": [
 		"行政",
 		"國家通訊傳播委員會",
@@ -12,10 +12,30 @@
 	"isTranslated": true,
 	"english": "Administration Regulations of Regulatory Certification Body for Telecommunications Terminal Equipment",
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000198663",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000198664",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000198665",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000198666"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一申請擔任電信終端設備驗證機構作業流程.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二申請繼續擔任電信終端設備驗證機構作業流程.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表三電信終端設備驗證機構認證證書.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表四電信終端設備驗證機構申請書.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國九十二年十一月十七日交通部電信總局電信工字第 09205098750 號令訂定發布全文 16 條；並自發布日施行",

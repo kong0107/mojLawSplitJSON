@@ -2,7 +2,7 @@
 	"pcode": "H0020012",
 	"type": "命令",
 	"title": "港澳學生來臺就學辦法",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0020012",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0020012",
 	"category": [
 		"廢止法規",
 		"教育部"
@@ -11,7 +11,12 @@
 	"isDiscarded": true,
 	"isTranslated": false,
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000021947"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"港澳來臺學生登記表.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國四十三年十月十五日教育部（43）台輔字第 11849 號令訂定發布",
@@ -76,7 +81,7 @@
 		},
 		{
 			"number": 1200,
-			"content": "本辦法自發布日施行。\r\n (備      註：附表請參閱中華民國現行法規彙編 83 年 5 月版 (一八)\r\n  第 11351 頁)"
+			"content": "本辦法自發布日施行。\r\n (法源資訊編：附表請參閱中華民國現行法規彙編 83 年 5 月版 (一八)\r\n  第 11351 頁)"
 		}
 	]
 }

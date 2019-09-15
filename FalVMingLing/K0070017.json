@@ -2,7 +2,7 @@
 	"pcode": "K0070017",
 	"type": "命令",
 	"title": "船舶危險品裝載規則",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=K0070017",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=K0070017",
 	"category": [
 		"行政",
 		"交通部",
@@ -11,13 +11,48 @@
 	"lastUpdate": "20150813",
 	"isTranslated": false,
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000021674",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000021675",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000165258",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000165259",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000165260",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000165261",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000165262"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一危險品分類表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二危險品託運書.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表三、危險品隔離表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表四、散裝危險品與包裝危險品隔離表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表五船舶危險品裝載檢查申請書.TIF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表六船舶危險品裝載檢查證.TIF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附圖一.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國六十六年五月九日交通部（66）交航字第 4069 號令訂定發布",

@@ -3,11 +3,21 @@
 	"type": "命令",
 	"english": "Regulations Governing Airport Terminal Preparation, Construction, and Operation",
 	"title": "航空站籌設興建及營運管理辦法",
-	"url": "http://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0090077",
+	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0090077",
 	"englishUpdate": "20160920",
 	"attachments": [
-		"http://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003401",
-		"http://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003402"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment 1：Application for Airport Terminal Preparation.pdf"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment 2：Airport Terminal Operation Certificate.pdf"
+			]
+		}
 	],
 	"history": [
 		"Full text promulgated by MOTC Order No. 1000006489 decree on July 12,2011.",

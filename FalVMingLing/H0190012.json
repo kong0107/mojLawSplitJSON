@@ -2,7 +2,7 @@
 	"pcode": "H0190012",
 	"type": "命令",
 	"title": "國立故宮博物院藏品圖像授權及出版授權利用辦法",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0190012",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0190012",
 	"category": [
 		"行政",
 		"國立故宮博物院",
@@ -12,8 +12,18 @@
 	"isTranslated": true,
 	"english": "Regulations Governing the Licensing of Images and Publications of the National Palace Museum",
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000145930",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000235753"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表  國立故宮博物院藏品圖像授權及出版授權權利金收費標準表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表  國立故宮博物院藏品圖像授權及出版授權權利金收費標準表.DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國一百零三年六月三日國立故宮博物院台博文字第 10300057621 號令訂定發布全文 13 條；並自發布日施行"

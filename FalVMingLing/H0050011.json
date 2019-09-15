@@ -2,7 +2,7 @@
 	"pcode": "H0050011",
 	"type": "命令",
 	"title": "持國外大學以上學歷申請認定修畢師資職前教育課程標準",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0050011",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0050011",
 	"category": [
 		"行政",
 		"教育部",
@@ -11,7 +11,12 @@
 	"lastUpdate": "20180608",
 	"isTranslated": false,
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000219705"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表  持國外大學以上學歷申請認定修畢師資職前教育課程應繳證明文件一覽表.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國九十二年七月三十一日教育部台參字第 0920115136 號令訂定發布全文 8 條；並自九十二年八月一日施行",

@@ -2,7 +2,7 @@
 	"pcode": "D0050104",
 	"type": "命令",
 	"title": "工業團體法施行細則",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0050104",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0050104",
 	"category": [
 		"行政",
 		"內政部",
@@ -12,8 +12,18 @@
 	"isTranslated": true,
 	"english": "Enforcement rules concerning the implementation of industrial group act.",
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000020466",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000233556"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件工業同業公會章程範例.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件工業同業公會章程範例.DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國六十四年二月二十六日內政部（64）台內社字第 622032 號令 、 經濟部（64）經工字第 04485 號令會同訂定發布",

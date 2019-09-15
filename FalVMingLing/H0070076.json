@@ -2,7 +2,7 @@
 	"pcode": "H0070076",
 	"type": "命令",
 	"title": "偏遠地區學校分級及認定標準",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0070076",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0070076",
 	"category": [
 		"行政",
 		"教育部",
@@ -11,7 +11,12 @@
 	"lastUpdate": "20180530",
 	"isTranslated": false,
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000218453"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表  偏遠地區學校計量模型（Probit Model）.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國一百零七年五月三十日教育部臺教授國部字第 1070048837B 號令訂定發布全文 12 條；並自發布日施行"

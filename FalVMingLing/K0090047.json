@@ -2,7 +2,7 @@
 	"pcode": "K0090047",
 	"type": "命令",
 	"title": "民用航空乘客與航空器運送人運送糾紛調處辦法",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=K0090047",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=K0090047",
 	"category": [
 		"行政",
 		"交通部",
@@ -12,10 +12,30 @@
 	"isTranslated": true,
 	"english": "Regulations Governing the Mediation of Disputes Arising from the Transportation between Civil Aviation Passengers and Aircraft Carriers",
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000017850",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000017851",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000233280",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000233281"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件一民用航空乘客離機協議見證表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件一民用航空乘客離機協議見證表.DOC"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件二個人乘客申訴書.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件二個人乘客申訴書.DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國九十一年四月四日交通部民用航空局（91）企法發字第 0010 號令訂定發布全文 10 條；並自發布日施行",

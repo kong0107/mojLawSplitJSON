@@ -2,7 +2,7 @@
 	"pcode": "S0080002",
 	"type": "命令",
 	"title": "公務人員退休法施行細則",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=S0080002",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=S0080002",
 	"category": [
 		"廢止法規",
 		"銓敘部"
@@ -11,10 +11,30 @@
 	"isDiscarded": true,
 	"isTranslated": false,
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000086370",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000086372",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000178668",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000236475"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一、公務人員退休金支給標準表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二  公務人員退休法第三十條第二項及第三項加發補償金計算標準表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二  公務人員退休法第三十條第二項及第三項加發補償金計算標準表.DOC"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表三、公務人員在退撫新制實施前任職年資退休金支給標準表.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國三十三年二月十日考試院（33）人審字第 1 號令訂定發布",

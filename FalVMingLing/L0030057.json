@@ -2,7 +2,7 @@
 	"pcode": "L0030057",
 	"type": "命令",
 	"title": "藥品查驗登記審查準則",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0030057",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0030057",
 	"category": [
 		"行政",
 		"衛生福利部",
@@ -12,19 +12,84 @@
 	"isTranslated": true,
 	"english": "Regulations for Registration of Medicinal Products",
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000022135",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000067169",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000086945",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000086948",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000086950",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000086951",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000141312",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000201940",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000208142",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000208144",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000208145",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000208146",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000241424"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件一  藥品製劑包裝限量表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件二新藥及新劑型、新使用劑量、新單位含量製劑查驗登記應檢附資料表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件三新藥及新劑型、新使用劑量、新單位含量製劑查驗登記應檢附之技術性資料表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件四學名藥查驗登記應檢附資料表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件五微脂粒（Liposome）及經皮吸收劑型學名藥查驗登記應檢附之技術性資料表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件六生物藥品查驗登記應檢附資料表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件七生物藥品查驗登記應檢附之技術性資料表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件八原料藥查驗登記應檢附資料表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件九原料藥查驗登記應檢附之技術性資料表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件十核醫放射性藥品查驗登記應檢附資料表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件十一核醫放射性藥品新藥、新劑型、新劑量查驗登記應檢附之技術性資料表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件十二原料藥技術性資料變更應檢附資料表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件十三：中藥製劑規格及檢驗方法必須記載之項目及內容表.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國九十四年一月七日行政院衛生署衛署藥字第 0930339211 號令訂定發布全文 110 條；並自發布日施行",

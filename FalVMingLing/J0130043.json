@@ -2,7 +2,7 @@
 	"pcode": "J0130043",
 	"type": "命令",
 	"title": "能源用戶自置或委託技師或合格能源管理人員設置登記辦法",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0130043",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0130043",
 	"category": [
 		"行政",
 		"經濟部",
@@ -11,7 +11,12 @@
 	"lastUpdate": "20160811",
 	"isTranslated": false,
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000182965"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件  技師或能源管理人員設置／異動登記表.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國九十九年六月十八日經濟部經能字第 09904603410 號令訂定發布全文 10 條；並自發布日施行",

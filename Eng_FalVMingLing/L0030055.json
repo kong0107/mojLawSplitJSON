@@ -3,11 +3,21 @@
 	"type": "命令",
 	"english": "Regulation for Registration of Medical Devices",
 	"title": "醫療器材查驗登記審查準則",
-	"url": "http://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=L0030055",
+	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=L0030055",
 	"englishUpdate": "20170330",
 	"attachments": [
-		"http://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000002522",
-		"http://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004677"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Appendix：Essential Principles (EP), and Summary of Technical Documentation.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Appendix：Essential Principles (EP), and Summary of Technical Documentation.doc"
+			]
+		}
 	],
 	"history": [
 		"Promulgated on December 30, 2004 ",

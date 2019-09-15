@@ -2,7 +2,7 @@
 	"pcode": "G0390018",
 	"type": "命令",
 	"title": "外國保險業設立許可及管理辦法",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=G0390018",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=G0390018",
 	"category": [
 		"行政",
 		"金融監督管理委員會",
@@ -12,8 +12,18 @@
 	"isTranslated": true,
 	"english": "Regulations for Establishment and Administration of Foreign Insurance Enterprises",
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000248132",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000248133"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件一：外國保險業許可申請書.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件二：外國保險業營業執照申請書.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國八十三年六月二十八日財政部（83）台財保字第 832054291 號令訂定發布全文 33 條",

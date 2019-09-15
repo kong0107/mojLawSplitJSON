@@ -2,7 +2,7 @@
 	"pcode": "H0190010",
 	"type": "命令",
 	"title": "國立故宮博物院場地設施規費收費標準",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0190010",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0190010",
 	"category": [
 		"行政",
 		"國立故宮博物院",
@@ -11,7 +11,12 @@
 	"lastUpdate": "20170508",
 	"isTranslated": false,
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000196936"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表.ODT"
+			]
+		}
 	],
 	"history": [
 		"中華民國九十七年七月三日國立故宮博物院台博秘字第 0970007374 號令訂定發布全文 4 條；並自發布日施行",

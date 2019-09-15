@@ -2,7 +2,7 @@
 	"pcode": "O0040060",
 	"type": "命令",
 	"title": "光電材料及元件製造業放流水標準",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=O0040060",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=O0040060",
 	"category": [
 		"廢止法規",
 		"行政院環境保護署"
@@ -12,8 +12,18 @@
 	"isTranslated": true,
 	"english": "Optoelectronic Materials and Component Manufacturing Industry Effluent Standards",
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000172043",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000172044"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一.ODT"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二.ODT"
+			]
+		}
 	],
 	"history": [
 		"中華民國一百零一年十月十二日行政院環境保護署環署水字第 1010090478 號令訂定發布全文 10 條；除另定施行日期者外，自發布日施行",

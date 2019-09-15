@@ -2,7 +2,7 @@
 	"pcode": "K0060086",
 	"type": "命令",
 	"title": "廣播電視業者設置電臺規費收費標準",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=K0060086",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=K0060086",
 	"category": [
 		"行政",
 		"國家通訊傳播委員會",
@@ -12,8 +12,18 @@
 	"isTranslated": true,
 	"english": "Fee Charge Standards for the Establishment of Radio and TV Stations",
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000077655",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000234741"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表廣播電視業者設置電臺規費項目.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表廣播電視業者設置電臺規費項目.DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國九十九年三月十五日國家通訊傳播委員會通傳技字第 09943005080 號令訂定發布全文 6 條；並自發布日施行"

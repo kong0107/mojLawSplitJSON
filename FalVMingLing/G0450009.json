@@ -2,7 +2,7 @@
 	"pcode": "G0450009",
 	"type": "命令",
 	"title": "外匯收支或交易申報辦法",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=G0450009",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=G0450009",
 	"category": [
 		"行政",
 		"中央銀行",
@@ -12,7 +12,12 @@
 	"isTranslated": true,
 	"english": "Regulations Governing the Declaration of Foreign Exchange Receipts and Disbursements or Transactions",
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000233012"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國八十四年八月三十日中央銀行（84）台央外字第（伍） 1639 號令訂定發布全文 10 條",

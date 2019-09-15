@@ -2,7 +2,7 @@
 	"pcode": "A0010093",
 	"type": "命令",
 	"title": "高雄市議會組織規程（99.10.08訂定）",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0010093",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0010093",
 	"category": [
 		"廢止法規",
 		"行政院"
@@ -11,8 +11,18 @@
 	"isDiscarded": true,
 	"isTranslated": false,
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000084744",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000232844"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"高雄市議會行政人員編制表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"高雄市議會行政人員編制表.DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國九十九年十月八日行政院院臺秘字第 0990104070 號令訂定發布全文 36 條暨行政人員編制表；並自九十九年十二月二十五日施行",

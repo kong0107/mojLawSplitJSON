@@ -2,7 +2,7 @@
 	"pcode": "D0140015",
 	"type": "命令",
 	"title": "客家委員會編制表",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0140015",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0140015",
 	"category": [
 		"行政",
 		"客家委員會",
@@ -11,7 +11,12 @@
 	"lastUpdate": "20161004",
 	"isTranslated": false,
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000185497"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"客家委員會編制表.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國一百年九月二十九日行政院客家委員會客會人字第 1000013873 號令訂定發布；並自一百零一年一月一日施行",
@@ -21,7 +26,7 @@
 	"articles": [
 		{
 			"number": 100,
-			"content": "備      註：本編制表依據客家委員會組織法第 6  條訂定，內容請參閱\r\n            相關圖表附檔。"
+			"content": "法源資訊編：本編制表依據客家委員會組織法第 6  條訂定，內容請參閱\r\n            相關圖表附檔。"
 		}
 	]
 }

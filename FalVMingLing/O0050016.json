@@ -2,7 +2,7 @@
 	"pcode": "O0050016",
 	"type": "命令",
 	"title": "事業廢棄物輸入輸出管理辦法",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=O0050016",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=O0050016",
 	"category": [
 		"行政",
 		"行政院環境保護署",
@@ -12,8 +12,18 @@
 	"isTranslated": true,
 	"english": "Management Regulations for the Import and Export of Industrial Waste",
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000134231",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000221679"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件一：申請事業廢棄物輸入輸出許可切結書.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件一：申請事業廢棄物輸入輸出許可切結書.DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國八十二年一月二十九日行政院環境保護署（82）環署廢字第 061240 號令訂定發布全文 20 條",

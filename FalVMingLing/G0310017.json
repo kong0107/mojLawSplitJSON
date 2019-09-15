@@ -2,7 +2,7 @@
 	"pcode": "G0310017",
 	"type": "命令",
 	"title": "財政部所屬公營事業移轉民營從業人員優惠優先認購股份辦法",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=G0310017",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=G0310017",
 	"category": [
 		"行政",
 		"財政部",
@@ -12,10 +12,30 @@
 	"isTranslated": true,
 	"english": "Regulations of Preferential and Preemptive Rights for Employees of Subordinate upon the Privatization Enterprises under the Ministry of Finance to Subscribe the Government-Owned Shares",
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000018123",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000018124",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000233296",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000233297"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"計算公式.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"計算公式.DOC"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"優惠增購比率.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"優惠增購比率.DOC"
+			]
+		}
 	],
 	"history": [
 		"中華民國八十一年九月二十三日財政部（81）台財保字第 810405821 號令訂定發布全文 12 條",

@@ -2,7 +2,7 @@
 	"pcode": "H0160070",
 	"type": "命令",
 	"title": "科技事務財團法人會計處理及財務報告編製準則",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0160070",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0160070",
 	"category": [
 		"行政",
 		"科技部",
@@ -11,10 +11,30 @@
 	"lastUpdate": "20190122",
 	"isTranslated": false,
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000240244",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000240245",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000240246",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000240247"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件一：（財團法人名稱）資產負債表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件二：（財團法人名稱）收支營運表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件三：（財團法人名稱）淨值變動表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件四：（財團法人名稱）現金流量表.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國一百零八年一月二十二日科技部科部計字第 1080005118A 號令訂定發布全文 22 條；並自一百零八年二月一日施行"

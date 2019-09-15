@@ -2,7 +2,7 @@
 	"pcode": "A0020141",
 	"type": "命令",
 	"title": "國家情報研析報告分發及管理辦法",
-	"url": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0020141",
+	"url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0020141",
 	"category": [
 		"總統",
 		"國家安全會議",
@@ -11,7 +11,12 @@
 	"lastUpdate": "20150814",
 	"isTranslated": false,
 	"attachments": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000061318"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件國家情報研析報告運用回覆單.PDF"
+			]
+		}
 	],
 	"history": [
 		"中華民國九十七年十二月三十日國家安全局（097）國雅字第 0027406 號令訂定發布全文 8 條；並自發布日施行",
