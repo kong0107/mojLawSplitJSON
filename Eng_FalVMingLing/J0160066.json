@@ -2,10 +2,15 @@
 	"法規性質": "命令",
 	"英文法規名稱": "Regulations on Clearance Level for Radioactive Waste Management",
 	"中文法規名稱": "一定活度或比活度以下放射性廢棄物管理辦法",
-	"法規網址": "http://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=J0160066",
+	"法規網址": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=J0160066",
 	"最新英文異動日期": "20041229",
 	"附件": [
-		"http://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000005136"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Appendix Clearance Level for Radioactive Waste.pdf"
+			]
+		}
 	],
 	"沿革內容": "1.Enforced by letter HWZ No.0930047668 on Dec 29, 2004",
 	"法規內容": [

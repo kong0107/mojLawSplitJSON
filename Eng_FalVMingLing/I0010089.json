@@ -2,10 +2,15 @@
 	"法規性質": "命令",
 	"英文法規名稱": "Organizational Rule for the Institute of Forensic Medicine, Ministry of Justice",
 	"中文法規名稱": "法務部法醫研究所處務規程",
-	"法規網址": "http://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=I0010089",
+	"法規網址": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=I0010089",
 	"最新英文異動日期": "20160831",
 	"附件": [
-		"http://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003841"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"attachment.PDF"
+			]
+		}
 	],
 	"沿革內容": "1.Issued on Oct. 05, 2011\r\n2.Date (Announced):October 5, 2011 Date (Amended):August 31, 2016",
 	"法規內容": [

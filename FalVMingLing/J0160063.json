@@ -1,27 +1,107 @@
 {
 	"法規性質": "命令",
 	"法規名稱": "輻射醫療曝露品質保證標準",
-	"法規網址": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0160063",
+	"法規網址": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0160063",
 	"法規類別": "行政＞行政院原子能委員會＞原子能目",
 	"最新異動日期": "20190530",
 	"是否英譯註記": "N",
 	"附件": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000055808",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000099332",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000099333",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000099334",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000099335",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000234389",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000235177",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000235178",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000235179",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000235180",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000249356",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000249357",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000249358",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000249359",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000249360",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000249361"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一 醫用直線加速器（Medical Linear Accelerator）應實施之校驗項目、頻次及結果或誤差容許值.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二 含鈷六十放射性物質之遠隔治療機（Co-60 Teletherapy）應實施之校驗項目、頻次及結果或誤差容許值.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表三 含放射性物質之遙控後荷式近接治療設備（Remote after-loadingbrachytherapy）應實施之校驗項目、頻次及結果或誤差容許值.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表四 電腦斷層治療機（Tomotherapy）應實施之校驗項目、頻次及結果或誤差容許值.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表五 電腦刀（CyberKnife）應實施之校驗項目、頻次及結果或誤差容許值.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表六 加馬刀（Gamma Knife）應實施之校驗項目、頻次及結果或誤差容許值.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表七 乳房X光攝影儀（Mammography X-ray equipment）應實施之校驗項目、頻次及結果或誤差容許值.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表七 乳房X光攝影儀（Mammography X-ray equipment）應實施之校驗項目、頻次及結果或誤差容許值.DOC"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表八  診斷用電腦斷層掃描儀(Computed tomography)應實施之校驗項目、頻次及結果或誤差容許值.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表八  診斷用電腦斷層掃描儀(Computed tomography)應實施之校驗項目、頻次及結果或誤差容許值.DOC"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表九  核醫用電腦斷層掃描儀(Computed tomography)應實施之校驗項目、頻次及結果或誤差容許值.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表九  核醫用電腦斷層掃描儀(Computed tomography)應實施之校驗項目、頻次及結果或誤差容許值.DOC"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表十  電腦斷層模擬定位掃描儀(Computed tomography simulator)應實施之校驗項目、頻次及結果或誤差容許值.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表十  電腦斷層模擬定位掃描儀(Computed tomography simulator)應實施之校驗項目、頻次及結果或誤差容許值.DOC"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表十一  Ｘ光模擬定位儀(X-ray simulator)應實施之校驗項目、頻次及結果或誤差容許值.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表十一  Ｘ光模擬定位儀(X-ray simulator)應實施之校驗項目、頻次及結果或誤差容許值.DOC"
+			]
+		}
 	],
 	"沿革內容": "1.中華民國九十三年十二月八日行政院原子能委員會會輻字第 093003675\r\n  3 號令、行政院衛生署衛署醫字第 0930213494 號令會銜訂定發布全文\r\n  10  條；並自九十四年七月一日施行\r\n2.中華民國九十六年十二月三十一日行政院原子能委員會會輻字第 09600\r\n  32968 號令、行政院衛生署衛署醫字第 0960067208 號令修正發布全文\r\n  13  條；並自發布日施行                                        \r\n3.中華民國九十七年七月一日行政院原子能委員會會輻字第 0970009751 \r\n  號令、行政院衛生署衛署醫字第 0970201632 號令會銜修正發布第 2、\r\n  10  條條文及第 8  條之附表五；並增訂第 9-1  條條文\r\n4.中華民國一百年七月二十九日行政院原子能委員會會輻字第 100001006\r\n  7 號令、行政院衛生署衛署醫字第 1000263544 號令會銜修正發布第 2\r\n  、10  條條文；增訂第 9-2～9-5 條條文\r\n5.中華民國一百零八年五月三十日行政院原子能委員會會輻字第 1080005\r\n  5011  號令、衛生福利部衛部醫字第 1080012672 號令會銜修正發布第\r\n  13  條條文及第 4  條條文之附表一至第 9  條條文之附表六；並自一\r\n  百零八年七月一日施行",
 	"法規內容": [

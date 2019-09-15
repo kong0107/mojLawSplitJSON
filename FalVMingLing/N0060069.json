@@ -1,24 +1,84 @@
 {
 	"法規性質": "命令",
 	"法規名稱": "新化學物質登記管理辦法",
-	"法規網址": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060069",
+	"法規網址": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0060069",
 	"法規類別": "行政＞勞動部＞職業安全衛生目",
 	"最新異動日期": "20150819",
 	"是否英譯註記": "Y",
 	"英文法規名稱": "Regulations on New Chemical Substances Registration",
 	"附件": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000155251",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000165589",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000165590",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000165591",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000165592",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000165593",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000236118",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000236221",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000236222",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000236223",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000236224",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000236225"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一  標準登記－化學物質安全評估報告資訊項目及內容.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一  標準登記－化學物質安全評估報告資訊項目及內容.DOC"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二  簡易登記－化學物質安全評估報告資訊項目及內容.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二  簡易登記－化學物質安全評估報告資訊項目及內容.DOC"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表三  少量登記－化學物質安全評估報告資訊項目及內容.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表三  少量登記－化學物質安全評估報告資訊項目及內容.DOC"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表四  年製造或輸入量與登記類型規定（一）.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表四  年製造或輸入量與登記類型規定（一）.DOC"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表五  年製造或輸入量與登記類型規定（二）.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表五  年製造或輸入量與登記類型規定（二）.DOC"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表六  本辦法施行前曾製造或輸入新化學物質安全評估報告資訊項目及內容.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表六  本辦法施行前曾製造或輸入新化學物質安全評估報告資訊項目及內容.DOC"
+			]
+		}
 	],
 	"沿革內容": "1.中華民國一百零三年十二月三十一日勞動部勞職授字第 10302023102\r\n  號令訂定發布全文 31 條；並自一百零四年一月一日施行\r\n2.中華民國一百零四年八月十九日勞動部勞職授字第 10402025891  號令\r\n  修正發布第 6、7、31 條條文；並自發布日施行",
 	"法規內容": [
@@ -58,7 +118,7 @@
 		},
 		{
 			"條號": "第 8 條",
-			"條文內容": "依前二條規定申請核准登記之新化學物質，符合簡易登記及少量登記類型\r\n者，經確認該新化學物質屬CMR物質第一級時，中央主管機關得要求申請人\r\n依標準登記之規定辦理。"
+			"條文內容": "依前二條規定申請核准登記之新化學物質，符合簡易登記及少量登記類型\r\n者，經確認該新化學物質屬 CMR  物質第一級時，中央主管機關得要求申\r\n請人依標準登記之規定辦理。"
 		},
 		{
 			"條號": "第 9 條",

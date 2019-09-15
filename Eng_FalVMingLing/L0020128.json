@@ -2,11 +2,21 @@
 	"法規性質": "命令",
 	"英文法規名稱": "Fee Schedules for Hospital Accreditation and Accreditation of Teaching Hospitals",
 	"中文法規名稱": "醫院評鑑及教學醫院評鑑收費標準",
-	"法規網址": "http://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=L0020128",
+	"法規網址": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=L0020128",
 	"最新英文異動日期": "20130802",
 	"附件": [
-		"http://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000002058",
-		"http://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004604"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachments.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachments.doc"
+			]
+		}
 	],
 	"沿革內容": "1.Promulgated on June 20th,2007\r\n2.Amended on June 9, 2011\r\n3.Amended on July 4, 2012\r\n4.Amended on August 2, 2013",
 	"法規內容": [

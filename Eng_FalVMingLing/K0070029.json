@@ -2,11 +2,21 @@
 	"法規性質": "命令",
 	"英文法規名稱": "Regulations for administrating pilots",
 	"中文法規名稱": "引水人管理規則",
-	"法規網址": "http://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0070029",
+	"法規網址": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0070029",
 	"最新英文異動日期": "20041202",
 	"附件": [
-		"http://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000000505",
-		"http://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004428"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Marine Pilot Certificate.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Marine Pilot Certificate.DOC"
+			]
+		}
 	],
 	"沿革內容": "1. Promulgated on October 2,1962\r\n2. Amendment on July 7,1992\r\n3. Amendment to Article 14&15 ,addition of Article12-1 promulgated on April 24,1995\r\n4. Amendment to Article 14,15,and 18 ,deletion of Article42 promulgated on August 31,1999\r\n5. Amendment to Article 13 promulgated on December 2,2004",
 	"法規內容": [

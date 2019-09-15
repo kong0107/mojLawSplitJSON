@@ -2,9 +2,9 @@
 	"法規性質": "法律",
 	"英文法規名稱": "Respiratory Therapists Act",
 	"中文法規名稱": "呼吸治療師法",
-	"法規網址": "http://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=L0020099",
-	"最新英文異動日期": "20161130",
-	"沿革內容": "1. The entire act, which consists of 43 articles, was enacted and promulgated as per the Presidential Order of (91)-Hua-Zong-Yi-Yi-Zi No. 09100003640 on January 16, 2002; it came into effect on the date of promulgation.\r\n2. Articles 14, 18, and 23 were amended and promulgated as per the Presidential Order of Hua-Zong-Yi-Yi-Zi No. 10000123001 on June 15, 2011; the name of Chapter 2-1 as well as Articles 16-1 ~ 16-14, 23-1, 23-2, 24-1, and 24-2 were added; Article 40 was deleted.\r\n3. Article 18 was amended and promulgated as per the Presidential Order of Hua-Zong-Yi-Yi-Zi No. 10500147051 on November 30, 2016.",
+	"法規網址": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=L0020099",
+	"最新英文異動日期": "20181219",
+	"沿革內容": "1. The entire act, which consists of 43 articles, was enacted and promulgated as per the Presidential Order of (91)-Hua-Zong-Yi-Yi-Zi No. 09100003640 on January 16, 2002; it came into effect on the date of promulgation.\r\n2. Articles 14, 18, and 23 were amended and promulgated as per the Presidential Order of Hua-Zong-Yi-Yi-Zi No. 10000123001 on June 15, 2011; the name of Chapter 2-1 as well as Articles 16-1 ~ 16-14, 23-1, 23-2, 24-1, and 24-2 were added; Article 40 was deleted.\r\n3. Article 18 was amended and promulgated as per the Presidential Order of Hua-Zong-Yi-Yi-Zi No. 10500147051 on November 30, 2016.\r\n4. Amended on December 19, 2018",
 	"法規內容": [
 		{
 			"編章節": "Chapter 1 General Provisions"
@@ -19,7 +19,7 @@
 		},
 		{
 			"條號": "Article 3",
-			"條文內容": "The term “competent authorities” herein shall refer to the Department of Health of the Executive Yuan at the central government level, municipal governments at the municipality level, and city/county governments at the city/county level."
+			"條文內容": "The term \"competent authorities\" as used in this Act means, at central government level, the Ministry of Health and Welfare; at the special municipality level, the city government; at county (city) level, the county (city) government."
 		},
 		{
 			"條號": "Article 4",
@@ -31,7 +31,7 @@
 		},
 		{
 			"條號": "Article 6",
-			"條文內容": "A person who used to be subject to rescission or revocation of his/her respiratory therapist certificate in accordance with the Act shall not work as a respiratory therapist; if the said person has worked as a respiratory therapist, his/her respiratory therapist certificate shall be rescinded or revoked."
+			"條文內容": "A person who used to be subject to revocation or annulment of his/her respiratory therapist certificate in accordance with the Act shall not work as a respiratory therapist; if the said person has worked as a respiratory therapist, his/her respiratory therapist certificate shall be revoked or annulled."
 		},
 		{
 			"編章節": "Chapter 2 Practice"
@@ -46,7 +46,7 @@
 		},
 		{
 			"條號": "Article 9",
-			"條文內容": "No practice license shall be issued to a person who falls under any of the following circumstances; the practice license obtained by the said person shall be revoked:\r\n1. Having his/her respiratory therapist certificate rescinded or revoked;\r\n2. Having had his/her respiratory therapist practice license revoked for less than a year;\r\n3. Suffering from mental illness or physical disorders and deemed by the competent authorities to be unable to practice.\r\nIn the event that the circumstances prescribed in Subparagraph 3 of the preceding paragraph no longer exist, a person may still apply for a practice license in accordance with the Act."
+			"條文內容": "In any of the following circumstances, the practice license shall not be issued; any license already issued shall be revoked or  annulled:\r\n1. A respiratory therapist certificate has been revoked or annulled.\r\n2. A respiratory therapist practice license was annulled within one year.\r\n3. The respiratory therapists has been determined by a team of specialist physicians, respiratory therapists and scholars/experts invited by the municipal or county (city) competent authority to be unable to practice due to objective facts.\r\nAfter the cause listed in subparagraph 3 of the preceding paragraph is eliminated, the respiratory therapists may still apply for practice license in accordance with this Act."
 		},
 		{
 			"條號": "Article 10",
@@ -93,11 +93,11 @@
 		},
 		{
 			"條號": "Article 16-4",
-			"條文內容": "Approval shall be obtained from the competent health authority prior to the use or change of the name of a home respiratory care unit.\r\nAny institution that is not a home respiratory care unit shall not use the name “home respiratory care unit” or similar names."
+			"條文內容": "Approval shall be obtained from the competent authority prior to the use or change of the name of a home respiratory care unit.\r\nA non-home respiratory care unit shall not use the name “home respiratory care unit” or similar names."
 		},
 		{
 			"條號": "Article 16-5",
-			"條文內容": "A home respiratory care unit shall not use the following names:\r\n1. The names registered and used by others for the home respiratory care units in the same municipality/city/county;\r\n2. The names of the home respiratory care units in the same municipality/city/county which have had their business licenses revoked for less than a year or are subject to suspension of operations, or similar names;\r\n3. Names that easily mislead people into believing that the home respiratory care unit is related to a government agency or charitable organization, or names that disrupt public order or violate good social customs."
+			"條文內容": "A home respiratory care unit shall not use the following names:\r\n1. The names registered and used by others for the home respiratory care units in the same municipality/city/county;\r\n2. The names of the home respiratory care units in the same municipality/city/county which have had their business licenses annulled for less than a year or are subject to suspension of operations, or similar names;\r\n3. Names that easily mislead people into believing that the home respiratory care unit is related to a government agency or charitable organization, or names that disrupt public order or violate good social customs."
 		},
 		{
 			"條號": "Article 16-6",
@@ -148,15 +148,15 @@
 		},
 		{
 			"條號": "Article 19",
-			"條文內容": "Any respiratory therapist who violates Paragraph 2 of Article 13 shall be subject to imprisonment for up to one year, or in addition thereto, a fine of not less than NT$30,000 and not more than NT$150,000.\r\nThose who commit the offense set forth in the preceding paragraph shall also be subject to suspension of practice for a period of not less than one month and not more than one year. In case of severe offenses, their practice licenses or respiratory therapist certificates may also be revoked."
+			"條文內容": "Any respiratory therapist who violates Paragraph 2 of Article 13 shall be subject to imprisonment for up to one year, or in addition thereto, a fine of not less than NT$30,000 and not more than NT$150,000.\r\nThose who commit the offense set forth in the preceding paragraph shall also be subject to suspension of practice for a period of not less than one month and not more than one year. In case of severe offenses, their practice licenses or respiratory therapist certificates may also be annulled"
 		},
 		{
 			"條號": "Article 20",
-			"條文內容": "In the event that respiratory therapists lend their certificates or licenses to others for use, their respiratory therapist certificates shall be revoked."
+			"條文內容": "In the event that respiratory therapists lend their certificates or licenses to others for use, their respiratory therapist certificates shall be annulled."
 		},
 		{
 			"條號": "Article 21",
-			"條文內容": "Respiratory therapists who fall under any of the following circumstances shall be subject to a fine of not less than NT$10,000 and not more than NT$50,000. In case of severe violations, they shall also be subject to suspension of practice for a period of not less than one month and not more than one year or revocation of their practice licenses:\r\n1. Violating Article 15;\r\n2. Committing illegal or unlawful acts in the course of practicing."
+			"條文內容": "Respiratory therapists who fall under any of the following circumstances shall be subject to a fine of not less than NT$10,000 and not more than NT$50,000. In case of severe violations, they shall also be subject to suspension of practice for a period of not less than one month and not more than one year or annulment of their practice licenses:\r\n1. Violating Article 15;\r\n2. Committing illegal or unlawful acts in the course of practicing."
 		},
 		{
 			"條號": "Article 22",
@@ -168,7 +168,7 @@
 		},
 		{
 			"條號": "Article 23-1",
-			"條文內容": "Any home respiratory care unit that falls under any of the following circumstances shall be subject to a fine of not less than NT$20,000 and not more than NT$100,000. In case of severe violations, its business license may also be revoked:\r\n1. Allowing people without the qualifications of respiratory therapists to practice respiratory therapy without permission;\r\n2. Failing to suspend its operations after being subject to suspension of operations."
+			"條文內容": "Any home respiratory care unit that falls under any of the following circumstances shall be subject to a fine of not less than NT$20,000 and not more than NT$100,000. In case of severe violations, its business license may also be annulled:\r\n1. Allowing people without the qualifications of respiratory therapists to practice respiratory therapy without permission;\r\n2. Failing to suspend its operations after being subject to suspension of operations."
 		},
 		{
 			"條號": "Article 23-2",
@@ -176,11 +176,11 @@
 		},
 		{
 			"條號": "Article 24",
-			"條文內容": "If respiratory therapists subject to suspension of practice continue to practice, their practice licenses shall be revoked. In the event that they continue to practice after their practice licenses are revoked, their respiratory therapist certificates shall be revoked."
+			"條文內容": "If respiratory therapists subject to suspension of practice continue to practice, their practice licenses shall be annulled. In the event that they continue to practice after their practice licenses are annulled, their respiratory therapist certificates shall be annulled."
 		},
 		{
 			"條號": "Article 24-1",
-			"條文內容": "In the event that the responsible respiratory therapist of a home respiratory care unit is subject to suspension of practice or revocation of his/her practice license, the home respiratory care unit shall also be subject to suspension of operations or revocation of its business license.\r\nIn the event that a home respiratory care unit is subject to suspension of operations or revocation of its business license, the responsible respiratory therapist thereof shall also be subject to suspension of practice or revocation of his/her business license."
+			"條文內容": "In the event that the responsible respiratory therapist of a home respiratory care unit is subject to suspension of practice or annulment of his/her practice license, the home respiratory care unit shall also be subject to suspension of operations or annulment of its business license.\r\nIn the event that a home respiratory care unit is subject to suspension of operations or annulment of its business license, the responsible respiratory therapist thereof shall also be subject to suspension of practice or annulment of his/her business license."
 		},
 		{
 			"條號": "Article 24-2",
@@ -188,7 +188,7 @@
 		},
 		{
 			"條號": "Article 25",
-			"條文內容": "Unless the Act provides otherwise, the competent authorities at the municipality/city/county level shall be the ones to impose fines, suspend practice or operations, or revoke practice licenses as stipulated herein. The central competent authority shall be the one to rescind or revoke respiratory therapist certificates."
+			"條文內容": "Unless the Act provides otherwise, the competent authorities at the municipality/city/county level shall be the ones to impose fines, suspend practice or operations, or annul practice licenses as stipulated herein. The central competent authority shall be the one to revoke or annul respiratory therapist certificates."
 		},
 		{
 			"條號": "Article 26",
@@ -239,7 +239,7 @@
 		},
 		{
 			"條號": "Article 37",
-			"條文內容": "Municipal and city/county respiratory therapist associations are obligated to comply with the articles of association and resolutions of the national union of respiratory therapist associations.\r\nIn the event that a respiratory therapist association violates the laws, regulations, or articles of associations, or the articles of association or resolutions of the national union, the authority in charge of civil associations may impose the following punishments:\r\n1. Warnings;\r\n2. Rescission of its resolutions;\r\n3. Discharge or dismissal of its directors and supervisors;\r\n4. Rectification within a specified period of time.\r\nThe punishments set forth in Subparagraphs 1 and 2 of the preceding paragraph may also be imposed by the competent authorities."
+			"條文內容": "Municipal and city/county respiratory therapist associations are obligated to comply with the articles of association and resolutions of the national union of respiratory therapist associations.\r\nIn the event that a respiratory therapist association violates the laws, regulations, or articles of associations, or the articles of association or resolutions of the national union, the authority in charge of civil associations may impose the following punishments:\r\n1. Warnings.\r\n2. Revocation of the resolution.\r\n3. Discharge or dismissal of its directors and supervisors.\r\n4. Rectification within a specified period of time.\r\nThe punishments set forth in Subparagraphs 1 and 2 of the preceding paragraph may also be imposed by the competent authorities."
 		},
 		{
 			"條號": "Article 38",
@@ -250,7 +250,7 @@
 		},
 		{
 			"條號": "Article 39",
-			"條文內容": "Foreigners and overseas Chinese may take a respiratory therapist examination in accordance with the laws and regulations of the Republic of China.\r\nForeigners and overseas Chinese who have passed the aforesaid examination and obtained respiratory therapist certificates shall obtain approval from the central competent authority before practicing respiratory therapy in the Republic of China, and shall comply with applicable laws and regulations of the Republic of China governing respiratory therapy and medical care, as well as the articles of association of respiratory therapist associations. Regulations governing the approval and management of their practice shall be established by the central competent authority.\r\nIn case of violation of the provisions of the preceding paragraph, punishments shall be imposed in accordance with law, and the central competent authority may revoke the approval granted."
+			"條文內容": "Foreigners and overseas Chinese may take a respiratory therapist examination in accordance with the laws and regulations of the Republic of China.\r\nForeigners and overseas Chinese who have passed the aforesaid examination and obtained respiratory therapist certificates shall obtain approval from the central competent authority before practicing respiratory therapy in the Republic of China, and shall comply with applicable laws and regulations of the Republic of China governing respiratory therapy and medical care, as well as the articles of association of respiratory therapist associations. Regulations governing the approval and management of their practice shall be established by the central competent authority.\r\nIn case of violation of the provisions of the preceding paragraph, punishments shall be imposed in accordance with law, and the central competent authority may annul the approval granted."
 		},
 		{
 			"條號": "Article 40",

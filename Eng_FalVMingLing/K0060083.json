@@ -2,15 +2,45 @@
 	"法規性質": "命令",
 	"英文法規名稱": "Regulations for the Management of Telecommunications Engineering Enterprises",
 	"中文法規名稱": "電信工程業管理規則",
-	"法規網址": "http://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0060083",
+	"法規網址": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0060083",
 	"最新英文異動日期": "20130802",
 	"附件": [
-		"http://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000002038",
-		"http://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000002039",
-		"http://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000002040",
-		"http://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004596",
-		"http://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004597",
-		"http://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004598"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Annex 1：Telecommunication Engineering Enterprise Registration License.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Annex 1：Telecommunication Engineering Enterprise Registration License.doc"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Annex 2：Consent of Employment.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Annex 2：Consent of Employment.doc"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Annex 3：Application form for telecommunication engineering enterprise registration license.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Annex 3：Application form for telecommunication engineering enterprise registration license.doc"
+			]
+		}
 	],
 	"沿革內容": "1. The whole 18 articles promulgated by National Communications Commission on Dec. 31 2008. Ref: Tong Chuan Zi Ji No. 09743031140\r\n2. The amendments of Article 3, Article9, and Article13 promulgated by National Communications Commission on Aug. 2 2013. Ref: Tong Chuan Zi Ji No. 10243028370",
 	"法規內容": [

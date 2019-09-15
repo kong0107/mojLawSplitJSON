@@ -1,17 +1,47 @@
 {
 	"法規性質": "命令",
 	"法規名稱": "航空站空側設施及作業認證辦法",
-	"法規網址": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=K0090063",
+	"法規網址": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=K0090063",
 	"法規類別": "行政＞交通部＞航空目",
 	"最新異動日期": "20170111",
 	"是否英譯註記": "N",
 	"附件": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000053393",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000053396",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000190282",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000190283",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000234328",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000234329"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件一航空站空側設施及作業認證申請表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件一航空站空側設施及作業認證申請表.DOC"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件二、航空站空側手冊格式及內容.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件三空側設施及作業認證檢查項目表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件四空側認證證書.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附件四空側認證證書.DOC"
+			]
+		}
 	],
 	"沿革內容": "1.中華民國九十七年四月十四日交通部交航字第 0970085024 號令訂定發\r\n  布全文 12 條；並自發布日施行\r\n2.中華民國一百零六年一月十一日交通部交航字第 10550178541  號令修\r\n  正發布第 2、6、9  條條文及第 3  條條文之附件三",
 	"法規內容": [

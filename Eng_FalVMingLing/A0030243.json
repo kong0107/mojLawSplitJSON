@@ -2,11 +2,21 @@
 	"法規性質": "法律",
 	"英文法規名稱": "Judges Act",
 	"中文法規名稱": "法官法",
-	"法規網址": "http://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=A0030243",
+	"法規網址": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=A0030243",
 	"最新英文異動日期": "20110706",
 	"附件": [
-		"http://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000001513",
-		"http://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004517"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Remuneration Chart for Judges.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Remuneration Chart for Judges.doc"
+			]
+		}
 	],
 	"沿革內容": "1.Promulgated by the Presidential Order No. Hwa-Zong-Yi-10000141401 on July 6, 2011\r\n  To be effective as of a year since being promulgated, except that Chapter 5 to be effective in half of a year and Article 78 to be effective in three years and six months since being promulgated.",
 	"法規內容": [

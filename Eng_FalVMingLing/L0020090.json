@@ -2,9 +2,9 @@
 	"法規性質": "法律",
 	"英文法規名稱": "Medical Technologists Act",
 	"中文法規名稱": "醫事檢驗師法",
-	"法規網址": "http://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=L0020090",
-	"最新英文異動日期": "20161130",
-	"沿革內容": "1. Formulated and promulgated in 63 articles under Presidential Decree (89) Hua Tsung (1) Yi Tzu No. 8900030400 on February 3rd, 2000\r\n2. Amended Articles10, 19, 37, 40, 41 and added Articles 20-1, 21-1, 52-1, 61-1 and promulgated under Presidential Decree (91) Hua Tsung (1) Yi Tzu No. 09100119190 on June 12th, 2002\r\n3. Amended Articles 6~8, 10, 21-1, 22, 33~39, 42, 43, 45, 48, 52, 56 and added Articles 56-1, 56-2, 60-1 and deleted Article 46, 61 and promulgated under Presidential Decree Hua Tsung (1) Yi Tzu No. 09600011011 on January 29th, 2007\r\n4. Amended on June 18, 2014\r\n5. Amended Article 33 promulgated under Presidential Decree Hua Tsung (1) Yi Tzu No.10500147071 on November 30th, 2016",
+	"法規網址": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=L0020090",
+	"最新英文異動日期": "20181219",
+	"沿革內容": "1. Formulated and promulgated in 63 articles under Presidential Decree (89) Hua Tsung (1) Yi Tzu No. 8900030400 on February 3rd, 2000\r\n2. Amended Articles10, 19, 37, 40, 41 and added Articles 20-1, 21-1, 52-1, 61-1 and promulgated under Presidential Decree (91) Hua Tsung (1) Yi Tzu No. 09100119190 on June 12th, 2002\r\n3. Amended Articles 6~8, 10, 21-1, 22, 33~39, 42, 43, 45, 48, 52, 56 and added Articles 56-1, 56-2, 60-1 and deleted Article 46, 61 and promulgated under Presidential Decree Hua Tsung (1) Yi Tzu No. 09600011011 on January 29th, 2007\r\n4. Amended on June 18, 2014\r\n5. Amended Article 33 promulgated under Presidential Decree Hua Tsung (1) Yi Tzu No.10500147071 on November 30th, 2016\r\n6. Amended on December 19, 2018",
 	"法規內容": [
 		{
 			"編章節": "Chapter 1 General Provisions"
@@ -19,11 +19,11 @@
 		},
 		{
 			"條號": "Article 3",
-			"條文內容": "The health competent authorities referred to in this Act are: the Ministry of Health and Welfare at the central government level; the municipal governments at the municipal level; and the county (or city) governments at the county (or city) level."
+			"條文內容": "The term \"competent authorities\" as used in this Act means, at central government level, the Ministry of Health and Welfare; at the special municipality level, the city government; at county (city) level, the county (city) government."
 		},
 		{
 			"條號": "Article 4",
-			"條文內容": "Application for the issuance of the Medical Technologist Certificate or Medical Technician Certificate shall be submitted to the central health competent authority with an application form and the qualification documents."
+			"條文內容": "Application for issuance of the medical technologist certificate or medical technician certificate shall be submitted to the central competent authority with an application form and the qualification documents."
 		},
 		{
 			"條號": "Article 5",
@@ -38,15 +38,15 @@
 		},
 		{
 			"條號": "Article 7",
-			"條文內容": "To practice as a medical technologist, one shall apply to the health competent authority at the local municipality or county (or city) for practice registration, and shall obtain a practice license before commencing practice.\r\nMedical technologists shall receive specified hours of continued education every six years to be eligible for renewal of the practice license.\r\nThe qualifications, conditions and documents required for the application for practice registration mentioned in Paragraph 1; the issuance, renewal, replacement and update of the practice license; the course content, credits, method of execution of the continued education mentioned in the preceding paragraph, and the accreditation of the completion of continued education; as well as regulations for other compliance matters shall be laid down by the central health competent authority."
+			"條文內容": "To practice as a medical technologist, an application shall be filed with the local municipal or county (city) competent authority for practice registration, a practice license shall be acquired before practice commences.\r\nMedical technologists shall receive certain hours of continued education every six years to be eligible for renewal of the practice license.\r\nRegulations governing the qualification and conditions for the application of the registration of practice under the first paragraph, the documents to be attached for such application, issuance, change, re-issuance and renewal of a practice license and the contents of the continued education courses of the preceding paragraph, credits obtained from the completion of such courses, methods of operation of these courses, recognition of the qualification received from these courses and other matters to be complied with shall be determined by the central competent authority."
 		},
 		{
 			"條號": "Article 8",
-			"條文內容": "Practice license shall not be issued and the license already issued shall be revoked or annulled in any one of the following conditions:\r\n1. The Medical Technologist Certificate is annulled.\r\n2. The medical technologist practice license is annulled for less than one year.\r\n3. The person has suffered from mental disease or in physical or mental disorder, and is confirmed by the health competent authority to be incapable of practicing.\r\nWhen the cause of the condition mentioned in Subparagraph 3 of the preceding paragraph no longer exists, the person may still apply for a practice license pursuant to this Act.\r\nFor confirmation of the condition mentioned in Subparagraph 3 of Paragraph 1, the health competent authority shall designate a relevant medical specialist for authentication."
+			"條文內容": "In any of the following circumstances, the practice license shall not be issued; any license already issued shall be revoked or annulled:\r\n1. A medical technologist certificate has been revoked or annulled.\r\n2. A medical technologist practice license was annulled within one year.\r\n3. The medical technologist has been determined by a team of specialist physicians, medical technologists and scholars/experts invited by the municipal or county (city) competent authority to be unable to practice due to objective facts.\r\nAfter the cause listed in subparagraph 3 of the preceding paragraph is eliminated, the medical technologist may still apply for practice license in accordance with this Act."
 		},
 		{
 			"條號": "Article 9",
-			"條文內容": "A medical technologist shall practice in one location only, and shall practice in a medical care institution or medical examination clinic approved by and registered with the local health competent authority, or other institutions recognized by the health competent authority and where medical technologists are employed. However, inter-institutional support or condition with prior approval is not subject to this restriction."
+			"條文內容": "A medical technologist shall be subject to only one place to practice and he/she shall practice in a medical care institution or medical examination clinic approved by and registered with the local competent authority, or other institution where the competent authority recognizes that it is necessary to employ a medical technologist to practice. However, inter-institutional support or condition with prior approval is not subject to this restriction."
 		},
 		{
 			"條號": "Article 10",
@@ -58,7 +58,7 @@
 		},
 		{
 			"條號": "Article 12",
-			"條文內容": "Businesses of medical technologists include:\r\n1. General clinical examination.\r\n2. Clinical biochemical examination.\r\n3. Clinical serological examination.\r\n4. Clinical immunology examination.\r\n5. Clinical blood test.\r\n6. Transfusion examination and blood bank operation.\r\n7. Clinical microbiological examination.\r\n8. Clinical physiological examination.\r\n9. Enquiries about medical examination business.\r\n10. Enquiries about clinical test reagents.\r\n11. Other medical examination tasks recognized by the central health competent authority.\r\nFor a medical technologist to carry out these businesses, an examination slip issued by a physician is required. However, this does not apply to items specified by the central health competent authority or self-paid examination items at medical examination clinics.\r\nThe proviso stated in the preceding paragraph shall be put on trial run for five years from the date this Act is promulgated and implemented. Review shall be made at the end of the trial run."
+			"條文內容": "Medical technologists perform the following medical functions:\r\n1. General Microscopy examination.\r\n2. Clinical Biochemistry examination.\r\n3. Clinical Serology examination.\r\n4. Clinical Immunology examination.\r\n5. Clinical Hematology examination .\r\n6. Transfusion examination and blood bank operation.\r\n7. Clinical Microbiology examination.\r\n8. Clinical Physiology examination.\r\n9. Enquiries about medical examination items and their bio-significance.\r\n10. Enquiries about clinical test reagents and their performance characteristic.\r\n11. Other medical examination functions recognized by the central competent authority.\r\nIn performing their medical functions, medical technologists shall follow an examination order issued by a physician, except for examinations designated by the central competent authority or self-paid customs at medical examination clinics.  \r\nThe provision of the preceding paragraph shall be put on trial for five years from the date of promulgation and implementation of this Act and shall be reviewed at the end of the trial period."
 		},
 		{
 			"條號": "Article 13",
@@ -78,7 +78,7 @@
 		},
 		{
 			"條號": "Article 17",
-			"條文內容": "Businesses of medical technicians include:\r\n1. General clinical examination.\r\n2. Clinical biochemical examination.\r\n3. Clinical serological examination.\r\n4. Clinical blood test.\r\n5. Transfusion examination.\r\n6. Clinical microbiological examination.\r\n7. Clinical physiological examination.\r\n8. Other medical examination tasks recognized by the central health competent authority\r\nFor a medical technician to carry out these businesses, an examination slip issued by a physician is required. However, this does not apply to items specified by the central health competent authority or self-paid examination items at medical examination clinics.\r\nThe proviso stated in the preceding paragraph shall be put on trial run for five years from the date this Act is promulgated and implemented. Review shall be made at the end of the trial run."
+			"條文內容": "Medical technicians perform the following medical functions:\r\n1.General Microscopy examination.\r\n2.Clinical Biochemistry examination.\r\n3.Clinical Serology examination.\r\n4.Clinical Hematology test.\r\n5.Transfusion examination.\r\n6.Clinical Microbiology examination.\r\n7.Clinical Physiology examination.\r\n8.Other medical examination functions recognized by the central competent authority.\r\nIn performing their medical functions, medical technicians shall follow an examination order issued by a physician, except for customs designated by the central competent authority or self-paid examinations at medical examination clinics.  \r\nThe provision of the preceding paragraph shall be put on trial for five years from the date of promulgation and implementation of this Act and shall be reviewed at the end of the trial period."
 		},
 		{
 			"條號": "Article 18",
@@ -89,7 +89,7 @@
 		},
 		{
 			"條號": "Article 19",
-			"條文內容": "Applicant for the establishment of a medical examination clinic shall be a medical technologist or medical technician, who shall submit the application to the local municipal or county (or city) health competent authority for approval and registration, after which an establishment license will be issued and the clinic may be established.\r\nThe aforementioned applicant shall have practiced for at least two years in medical care institutions or medical examination clinics if he/she is a medical technologist; and at least five years in medical care institutions or medical examination clinics if he/she is a medical technician.\r\nFor calculation of the abovementioned years of practice, only those who have obtained Medical Technologist Certificate or Medical Technician Certificate and who have registered their practice with health competent authority in municipality or county (city) are applicable. However, for those who have been practicing before the promulgation and implementation of this Act, the actual years of experience can be included.\r\nStandards for the establishment of a medical examination clinic shall be laid down by the central health competent authority."
+			"條文內容": "In establishing a medical examination clinic, a medical technologist or medical technician shall apply to the local municipal or county (city) competent authority for its approval of the registration of the clinic, after which an opening permit shall be issued before the clinic established.\r\nThe medical technologist of the preceding paragraph who applies to open a medical examination clinic shall have at least 2 years of experience in practicing medical examination in medical care institutions or medical examination clinic; the medical technician shall have at least 5 years of experience in practicing medical examination in medical care institutions or medical examination clinic.\r\nThe calculation of seniority for carrying out the practice of the preceding paragraph is limited to any person who has obtained a medical technologist certificate or medical technician certificate and handled the registration of practicing medical examination in municipal or county (city) competent authority in accordance with the law. As for any person who has carried out the practices prior to the coming into force of this Act, however, the actual years of experience can be included.\r\nThe establishment standards of a medical examination clinic shall be determined by the central competent authority."
 		},
 		{
 			"條號": "Article 20",
@@ -101,7 +101,7 @@
 		},
 		{
 			"條號": "Article 21",
-			"條文內容": "The use or alteration of the name of a medical examination clinic shall be approved by the health competent authority.\r\nNon-medical examination clinic shall not use the name of a medical examination clinic or any similar name."
+			"條文內容": "Approval shall be obtained from the competent authority prior to the use or change of the name of a medical examination clinic.\r\nA non-medical examination clinic shall not use the name “medical examination clinic” or similar names."
 		},
 		{
 			"條號": "Article 21-1",
@@ -121,7 +121,7 @@
 		},
 		{
 			"條號": "Article 25",
-			"條文內容": "A medical examination clinic shall establish proper medical examination quality control system.\r\nThe abovementioned quality control system shall be subject to the supervision and evaluation of the health competent authority."
+			"條文內容": "Medical examination clinics shall establish medical examination quality control systems.\r\nThe quality control systems under the preceding paragraph shall be subject to supervision and evaluation by the competent authorities."
 		},
 		{
 			"條號": "Article 26",
@@ -129,7 +129,7 @@
 		},
 		{
 			"條號": "Article 27",
-			"條文內容": "Standards of examination fees charged by medical examination clinics shall be laid down by the municipal or county (or city) health competent authority."
+			"條文內容": "Standards of examination fees charged by medical examination clinics shall be established by the municipal or county (city) competent authorities."
 		},
 		{
 			"條號": "Article 28",
@@ -137,7 +137,7 @@
 		},
 		{
 			"條號": "Article 29",
-			"條文內容": "Advertisements of a medical examination clinic shall include no more than the following content:\r\n1. Name, establishment license number, address, telephone number and traffic information of the medical examination clinic.\r\n2. Name and certificate number of its medical technologist or medical technician.\r\n3. Other items that are allowed to be published or publicized according to the announcements of the central health competent authority.\r\nNon-medical examination clinics shall not place medical examination advertisement."
+			"條文內容": "The content of a medical examination clinic’s advertisement is limited to the following items:\r\n1.Name, reference number of opening permit, address and telephone number of a medical examination clinic and directions to the clinic.\r\n2.Names of medical technologists or medical technicians and the reference numbers of their certificates.\r\n3.Other items whose publication and dissemination are approved under the announcement of the central competent authority.\r\nA non-medical examination clinic shall not produce advertisements on medical examination."
 		},
 		{
 			"條號": "Article 30",
@@ -145,7 +145,7 @@
 		},
 		{
 			"條號": "Article 31",
-			"條文內容": "Medical examination clinics shall submit reports in accordance with the laws and regulations or upon notifications of the health competent authority; they shall also accept the health competent authority’s inspection and information collection request on their staff, equipment, sanitation, safety, fees, operation, etc."
+			"條文內容": "A medical examination clinic shall submit reports in accordance with the laws and regulations or the notification of the competent authority, and shall accept the competent authority’s inspections on its staff, facilities, sanitation, safety, fees, operation procedures and the related information."
 		},
 		{
 			"條號": "Article 32",
@@ -204,7 +204,7 @@
 		},
 		{
 			"條號": "Article 45",
-			"條文內容": "Penalties including fines, suspension of practice, revocation or annulment of practice license or establishment license as provided in this Act shall be executed by the municipal or county (or city) health competent authority, unless otherwise stipulated in this Act; annulment of Medical Technologist Certificate or Medical Technician Certificate shall be executed by the central health competent authority."
+			"條文內容": "The administrative fine, suspension from practice, rescinding and revoking of practice license or opening permit prescribed in this Act shall be executed by municipal or county (city) competent authorities, unless this Act stipulates otherwise. In addition, revoking of a medical technologist certificate or medical technician certificate shall be executed by the central competent authority."
 		},
 		{
 			"條號": "Article 46",
@@ -215,7 +215,7 @@
 		},
 		{
 			"條號": "Article 47",
-			"條文內容": "The authority in charge of associations for medical technologists is the civil association competent authority, but the target business shall be subject to the guidance and supervision of the health competent authority."
+			"條文內容": "The administrative fine, suspension from practice, rescinding and revoking of practice license or opening permit prescribed in this Act shall be executed by municipal or county (city) competent authorities, unless this Act stipulates otherwise. In addition, revoking of a medical technologist certificate or medical technician certificate shall be executed by the central competent authority."
 		},
 		{
 			"條號": "Article 48",
@@ -251,7 +251,7 @@
 		},
 		{
 			"條號": "Article 55",
-			"條文內容": "An association for medical technologists shall lay down the Articles of Association, compile the list of members and the brief curriculum vitae of its appointed staff, which shall be sent to the local civil association competent authority for registration, and also to the central and local health competent authorities for reference."
+			"條文內容": "A medical technologist association shall formulate articles of association, prepare a list of members and curriculum vitae of its staff and submit them to the competent authority of civil associations for registration in the place where it is located and to the competent authorities at central and local levels respectively for records."
 		},
 		{
 			"條號": "Article 56",
@@ -259,7 +259,7 @@
 		},
 		{
 			"條號": "Article 56-1",
-			"條文內容": "In the event that an association for medical technologists violates the laws and regulations or the Articles of Association, the civil association competent authority may impose the following penalties:\r\n1. Warning.\r\n2. Revocation of its resolution.\r\n3. Dismissal of its director or supervisor.\r\n4. Request rectification by a deadline.\r\nThe penalties mentioned in Subparagraphs 1 and 2 of the preceding paragraph may also be given by the health competent authority."
+			"條文內容": "For violations of the laws and orders or the articles of association of a medical technologist association, the competent authorities of civil associations may impose the following sanctions:\r\n1.Warning.\r\n2.Revocation of the resolution.\r\n3.Discharge of the directors and supervisors.\r\n4.Rectification before a deadline.\r\nThe sanctions of subparagraphs 1 and 2 of the preceding paragraph may also be imposed by the competent authority."
 		},
 		{
 			"條號": "Article 56-2",
@@ -282,11 +282,11 @@
 		},
 		{
 			"條號": "Article 60",
-			"條文內容": "Those who have been engaged in the medical technician’s work as stated in Paragraph 1 of Article 17 in medical care institutions before July 1, 1967 and have been reviewed and approved by the central health competent authority may sit for the special examination for medical technicians.\r\nThe special examination mentioned in the preceding paragraph shall be held five times only within five years after the implementation of this Act.\r\nAccording to the provision in Paragraph 1, those who have been reviewed and approved to sit for the special examination for medical technicians may continue their medical technician practice within five years after the implementation of this Act before they obtain the medical technician qualification."
+			"條文內容": "Any person who has engaged in medical examination practice under first paragraph, Article 17 of this Act in medical care institutions prior to 1 July 1967 and has been reviewed and approved by the central competent authority shall be eligible to sit the Special Examination for Medical Technicians.\r\nThe special examinations under the preceding paragraph shall be held no more than five times within five years after the implementation of this Act.\r\nAny person who is reviewed and confirmed eligible to sit the Special Examination for Medical Technicians under the first paragraph may continue to practice the activities as a medical technician before acquiring the medical technician’s qualification for 5 years after the implementation of this Act."
 		},
 		{
 			"條號": "Article 60-1",
-			"條文內容": "Foreigners and overseas Chinese may sit for the medical technologist examination pursuant to the R.O.C. law.\r\nForeigners and overseas Chinese who have passed the abovementioned examination and obtained the Medical Technologist Certificate shall get the central health competent authority’s permission for practicing medical examination business in R.O.C., and shall observe the R.O.C. laws and regulations relating to medical examination and medicine as well as the Articles of Association of the association for medical technologists. The permission of their practice and the regulations on their management shall be laid down by the central health competent authority.\r\nViolation of the provision in the preceding paragraph will result in penalties according to the law, and the central health competent authority may also annul their permit."
+			"條文內容": "Aliens and overseas Chinese may apply for the medical technologist qualification examination in accordance with the laws and regulations of the Republic of China.\r\nAliens and overseas Chinese who pass the medical technologist qualification examination prescribed in the preceding paragraph and who acquire the medical technologist certificate and practice the functions of a medical technologist in the Republic of China shall have the permission of the central competent authority to practice medical examination and shall be subject to the domestic laws and orders related to medical examination and medical care of the Republic of China and the articles of association of the medical technologist associations. Regulations governing management and permission to practice medical examination shall be determined by the central competent authority.\r\nFor violations of the provisions of the preceding paragraph, in addition to punishment in accordance with the law, the central competent authority may also revoke the permission to practice medical examination."
 		},
 		{
 			"條號": "Article 61",
@@ -294,11 +294,11 @@
 		},
 		{
 			"條號": "Article 61-1",
-			"條文內容": "When issuing certificates or licenses in accordance with this Act, the central, municipal, or county (or city) health competent authorities may charge a certification fee or licensing fee; the amounts charged shall be laid down by the central health competent authority."
+			"條文內容": "In issuing certificates or licenses in accordance with this Act, the central, municipal or county (city) competent authorities may collect certificate fees or license fees; the amount of fees shall be decided by the central competent authority."
 		},
 		{
 			"條號": "Article 62",
-			"條文內容": "The enforcement rules of this Act shall be laid down by the central health competent authority."
+			"條文內容": "Enforcement rules of this Act shall be determined by the central competent authority."
 		},
 		{
 			"條號": "Article 63",

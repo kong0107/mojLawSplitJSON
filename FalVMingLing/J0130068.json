@@ -1,7 +1,7 @@
 {
 	"法規性質": "命令",
 	"法規名稱": "能源開發及使用評估準則",
-	"法規網址": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0130068",
+	"法規網址": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0130068",
 	"法規類別": "行政＞經濟部＞能源管理目",
 	"最新異動日期": "20151124",
 	"生效日期": "99991231",
@@ -9,14 +9,54 @@
 	"是否英譯註記": "Y",
 	"英文法規名稱": "Regulations Governing the Assessment of Energy Development and Utilization",
 	"附件": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000169752",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000169753",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000169754",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000169755",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000236427",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000236428",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000236429",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000236430"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一  公用設備技術項目應符合之最佳可行技術.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一  公用設備技術項目應符合之最佳可行技術.DOC"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二  電力類或汽電共生類製程技術項目應符合之最佳可行技術.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二  電力類或汽電共生類製程技術項目應符合之最佳可行技術.DOC"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表三  石油煉製類或能源使用類製程技術項目應符合之最佳可行技術.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表三  石油煉製類或能源使用類製程技術項目應符合之最佳可行技術.DOC"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表四  半導體或面板產業製程技術項目應符合之最佳可行技術.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表四  半導體或面板產業製程技術項目應符合之最佳可行技術.DOC"
+			]
+		}
 	],
 	"沿革內容": "1.中華民國一百零四年十一月二十四日經濟部經能字第 10404605350  號\r\n  令訂定發布全文 14 條；除第 4  條第 2  項第 1  款至第 3  款、第\r\n  5、6、8 條、第 12 條第 1  款及第 13 條第 3  款第 1  目及同條第\r\n  4 款第 1  目之施行日期，由中央主管機關另定外，餘自發布日施行",
 	"法規內容": [

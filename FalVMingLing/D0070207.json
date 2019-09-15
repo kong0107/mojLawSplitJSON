@@ -1,29 +1,119 @@
 {
 	"法規性質": "命令",
 	"法規名稱": "住宅性能評估實施辦法",
-	"法規網址": "http://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070207",
+	"法規網址": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0070207",
 	"法規類別": "行政＞內政部＞營建目",
 	"最新異動日期": "20180706",
 	"是否英譯註記": "N",
 	"附件": [
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000202730",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000202731",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000202732",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000202733",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000202734",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000202735",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000202736",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000202737",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000202738",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000202739",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000202740",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000202741",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000202742",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000202743",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000202744",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000202745",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000222272",
-		"http://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000222273"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一：新建住宅性能類別之評估項目及等級基準表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一之一：新建住宅結構安全性能之評估內容、權重、評估基準及評分表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一之二：新建住宅防火安全性能之評估內容、評估基準及評分表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一之三：新建住宅無障礙環境性能之評估內容、權重、評估基準及評分表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一之四：新建住宅空氣環境性能之評估內容、權重、評估基準及評分表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一之五：新建住宅光環境性能之評估內容、權重、評估基準及評分表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一之六：新建住宅音環境性能之評估內容、權重、評估基準及評分表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一之七：新建住宅節能省水性能之評估內容、權重、評估基準及評分表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表一之八：新建住宅住宅維護性能之評估內容、權重、評估基準及評分表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二：既有住宅性能類別之評估項目及等級基準表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二之一：既有住宅結構安全性能之評估內容、權重、評估基準及評分表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二之二：既有住宅防火安全性能之評估內容、權重、評估基準及評分表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二之三：既有住宅無障礙環境性能之評估內容、權重、評估基準及評分表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二之四：既有住宅空氣環境性能之評估內容、權重、評估基準及評分表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二之五：既有住宅光環境性能之評估內容、權重、評估基準及評分表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二之六：既有住宅音環境性能之評估內容、權重、評估基準及評分表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二之七：既有住宅節能省水性能之評估內容、權重、評估基準及評分表.PDF"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"附表二之八：既有住宅住宅維護性能之評估內容、權重、評估基準及評分表.PDF"
+			]
+		}
 	],
 	"沿革內容": "1.中華民國一百零一年十二月二十五日內政部台內營字第 1010811938 號\r\n  令訂定發布全文 26 條；並自住宅法施行之日施行\r\n2.中華民國一百零五年三月十一日內政部台內營字第 1050802492 號令修\r\n  正發布第 9、13、21～24、26  條條文及第 3  條附表四；並自發布日\r\n  施行\r\n3.中華民國一百零五年九月十九日內政部台內營字第 1050812222 號令修\r\n  正發布第 3  條附表四\r\n4.中華民國一百零六年八月十日內政部台內營字第 1060810377 號令修正\r\n  發布第 1、3、7、9、11、13、15～17、20、21  條條文\r\n5.中華民國一百零七年七月六日內政部台內營字第 1070810782 號令修正\r\n  發布第 4、9 條條文及第 3  條附表一、附表一之一",
 	"法規內容": [

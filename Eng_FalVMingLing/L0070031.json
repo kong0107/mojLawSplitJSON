@@ -2,20 +2,24 @@
 	"法規性質": "命令",
 	"英文法規名稱": "Regulations for the Testing of Yields of Nicotine and Tar Contained in Tobacco Products and the Labeling of Cigarette Containers",
 	"中文法規名稱": "菸品尼古丁焦油含量檢測及容器標示辦法",
-	"法規網址": "http://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=L0070031",
-	"最新英文異動日期": "20130820",
+	"法規網址": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=L0070031",
+	"最新英文異動日期": "20190614",
 	"附件": [
-		"http://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000002087",
-		"http://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004609"
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attachment.pdf"
+			]
+		}
 	],
-	"沿革內容": "1.Promulgated on March 27, 2008\r\n2.Amended on Novenber 6, 2011\r\n3.Amended on August 20, 2013",
+	"沿革內容": "1. The full text for the Regulations shall be promulgated on the date 27 March, 2008 by the Department of Health of the Executive Yuan (Order No. 0970700170), and shall be enforced on 1 November, 2009.\r\n2. Article 10 and Article 13 shall be amended, promulgated and enforced on 6 May, 2011, by the Department of Health of the Executive Yuan (Order No. 1000700543).\r\n3. Article 12, Article 13 and Article 2 (including the enclosed drawing) shall be amended and promulgated on 1 June, 2013, by the Health and Welfare Department (Order No. 1020710029), and shall be enforced on 1 June, 2014.\r\n4. Article 13 and Article 2 (including the enclosed drawing) shall be amended and promulgated on 14 June, 2019, by the Health and Welfare Department (Order No. 1080700420), and shall be enforced on 1 July, 2020.",
 	"法規內容": [
 		{
 			"編章節": "Chapter 1 General Provisions"
 		},
 		{
 			"條號": "Article 1",
-			"條文內容": "These Regulations are stipulated in accordance with Paragraph 3 of Article 6 and Paragraph 2 of Article 7 of the Tobacco Hazards Prevention and Control Act."
+			"條文內容": "These Regulations are stipulated in accordance with Paragraph 3 of Article 6 and Paragraph 2 of Article 7 of the Tobacco Hazards Prevention Act."
 		},
 		{
 			"編章節": "Chapter 2 Labeling of Health Warnings"
@@ -71,11 +75,11 @@
 		},
 		{
 			"條號": "Article 12",
-			"條文內容": "The tobacco products manufactured or imported prior to the implementation of these Regulations shall not be sold or displayed after these Regulations come into effective unless the labeling stipulated pursuant to these Regulations have been printed thereon or adhered by means of using printed labels in accordance with these Regulations. The same applies in amending the Regulations."
+			"條文內容": "The tobacco products manufactured or imported prior to the implementation of these Regulations shall not be sold or displayed after these Regulations come into effective unless the labeling stipulated pursuant to these Regulations have been printed thereon or adhered by means of using printed labels in accordance with these Regulations.The same applies in amending the Regulations."
 		},
 		{
 			"條號": "Article 13",
-			"條文內容": "These Regulations shall come into effect on 11 January 2009.\r\nThe amendment to these Regulations shall come into effect on the date of promulgation.The provisions amended on 20 August, 2013 shall come into force on 1 June 2014."
+			"條文內容": "These Regulations shall be enforced on 11 January 2009.\r\nThe amended Regulations shall be enforced from the date of promulgation, with the exceptions of the followings: Articles which were amended on 20 August, 2013 shall be enforced on 1 June,2014,and the attached graphs of Article 2 which were amended on 14 June, 2019 shall be enforced on 1 July,2020."
 		}
 	]
 }
