@@ -4,7 +4,7 @@
 	"english": "Civil Code",
 	"title": "民法",
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=B0000001",
-	"englishUpdate": "20190424",
+	"englishUpdate": "20190619",
 	"history": [
 		"PART Ⅰ General Principles",
 		"Promulgated on May 23, 1929",
@@ -12,6 +12,7 @@
 		"As Amended on January 4, 1982 and effective on January 1, 1983",
 		"Amended on May 23,2008",
 		"Amended on June 10, 2015",
+		"Amended on June 19,2019",
 		"",
 		"PART Ⅱ Obligations",
 		"Promulgated on November 22, 1929",
@@ -52,6 +53,7 @@
 		"Amended on January 29, 2014",
 		"Amended on January 14, 2015",
 		"Amended on April 24, 2019",
+		"Amended on June 19,2019",
 		"",
 		"PART Ⅴ Succession",
 		"Promulgated on December 26, 1930",
@@ -916,7 +918,7 @@
 					"number": 400,
 					"title": "Guardianship",
 					"start": 109100,
-					"end": 111301,
+					"end": 111310,
 					"children": [
 						{
 							"type": "section",
@@ -931,6 +933,13 @@
 							"title": "Guardianship and Assistantship over Adults",
 							"start": 111000,
 							"end": 111301
+						},
+						{
+							"type": "section",
+							"number": 300,
+							"title": "Adult Guardianship by agreement",
+							"start": 111302,
+							"end": 111310
 						}
 					]
 				},
@@ -1124,7 +1133,7 @@
 		},
 		{
 			"number": 1400,
-			"content": "With respect to any person who is not able to make declaration of intention, receive declaration of intention, or who lacks the ability to discern the outcome of the declaration of intention due to mental disability, the court may order the commencement of guardianship at the request of the person in question, his/her spouse, any relative within the fourth degree of kinship, a prosecutor, a competent authority or an organization of social welfare.\r\nWhen the cause of guardianship ceases to exist, the court must revoke the order of the commencement of guardianship at the request of the applicant set forth in previous paragraph.\r\nThe court may order the commencement of assistantship, based on paragraph 1 of Article 15-1, if application of commencement of guardianship does not meet the requirement enforced in paragraph 1 of this Article.\r\nIf the cause of guardianship ceases to exist, yet assistantship is necessary, the court, based on paragraph 1 of Article 15, may order the commencement of assistantship to replace the commencement of guardianship."
+			"content": "With respect to any person who is not able to make declaration of intention, receive declaration of intention, or who lacks the ability to discern the outcome of the declaration of intention due to mental disability, the court may order the commencement of guardianship at the request of the person in question, his/her spouse, any relative within the fourth degree of kinship, a prosecutor, a competent authority, an organization of social welfare, an assistant, an agent of adult guardianship by agreement or any other interested person.\r\nWhen the cause of guardianship ceases to exist, the court must revoke the order of the commencement of guardianship at the request of the applicant set forth in previous paragraph.\r\nThe court may order the commencement of assistantship, based on paragraph 1 of Article 15-1, if application of commencement of guardianship does not meet the requirement enforced in paragraph 1 of this Article.\r\nIf the cause of guardianship ceases to exist, yet assistantship is necessary, the court, based on paragraph 1 of Article 15, may order the commencement of assistantship to replace the commencement of guardianship.\r\nSection 3 Adult Guardianship by agreement"
 		},
 		{
 			"number": 1500,
@@ -6301,6 +6310,42 @@
 		{
 			"number": 111301,
 			"content": "An assistant shall be appointed to a person who has become subject to the order of commencement of assistance.\r\nAssistant and his/her related duties shall apply mutatis mutandis to Articles 1095, 1096, 1098(2), 1100, 1102, 1103(2), 1104, 1106, 1106-1, 1109, 1111, 1111-1, 1111-2, 1112-1, and 1112-2."
+		},
+		{
+			"number": 111302,
+			"content": "A guardianship over adults by agreement is an agreement whereby parties agree that one of them appoint the other party as his/her guardian when he/she has become subject to the order of commencement of guardianship, and the latter agrees to do so.\r\nThe parties, as specified in the preceding paragraph, may agree one or several agents; if there is more than one guardian, unless otherwise agreed upon by the parties, the guardianship shall be jointly managed by all the guardians."
+		},
+		{
+			"number": 111303,
+			"content": "The conclusion, modification of an adult guardianship agreement shall be made in the notarization made by the notary public. The notary public shall give a written notice to the court for the place of the domicile of the ward within seven days after the agreement notarized.\r\nThe notarization, as specified in the preceding paragraph, shall be performed by a notary public in the presence of both parties with their intentions.\r\nAn adult guardianship agreement becomes effective from the date of the declaration of commencement of guardianship."
+		},
+		{
+			"number": 111304,
+			"content": "Upon making a ruling pronouncing a declaration of commencement of guardianship, the court shall designate a guardian agreed in the guardianship agreement and simultaneously appoint a person who shall provide consultation and assistance to draw up an inventory of property together with the designated guardian; the court shall, if there is any, appoint a property consultant agreed in the guardianship agreement who shall provide consultation and assistance to draw up an inventory of the ward’s property; however, the court may change the consultation to other proper person by its authority If there is no property consultant agreed in the guardian agreement or the property consultant does not act for the interest of the ward.\r\nBefore the declaration of the preceding paragraph,\r\nIf there is enough fact which indicates that the guardian does not act for the interest of the ward, or other reasons indicate that the guardian should not be the guardian, the court may order guardianship to other proper person provided in paragraph 1 of Article 1111."
+		},
+		{
+			"number": 111305,
+			"content": "Before the declaration of the commencement of guardianship, both parties may at any time withdraw from the guardianship agreement.\r\nThe withdrawal of the guardianship agreement shall be made with a written notice by one party to the other; this withdrawal takes effect after the written notice notarized by the notary public. The notary public shall give a written notice to the court for the place of the domicile of the ward within seven days after the agreement notarized. To withdraw a part of the guardianship agreement is deemed to have been withdrawn as regards the whole agreement.\r\nAfter the declaration of the commencement of guardianship, if the ward has good causes, with the court’s permission, the ward may terminate the guardianship agreement; if the guardian has good causes, with the court’s permission, he/she may dismiss his/her duty.\r\nWhen the court approves the agreement termination under preceding paragraph, the court may order guardianship to other proper person provided in paragraph 1 of Article 1111."
+		},
+		{
+			"number": 111306,
+			"content": "After the declaration of the commencement of guardianship, where guardians manage their guardianship jointly, all of them in cases provided by paragraph 1 of Article 1106, or paragraph 1 of Article 1106-1, the court may order guardianship to other proper person provided in paragraph 1 of Article 1111 or change guardian at the request of the applicant provided in paragraph 1 of Article 14 or by its authority.\r\nAfter the declaration of the commencement of guardianship, where guardians by agreement manage their guardianship separately, if guardians who manage the same guardianship in cases by paragraph 1 of Article 1106 or paragraph 1 of  Article 1106-1, the court may order guardianship to other proper person under preceding paragraph or change all guardians in the same guardianship. However, the court shall first elect the one or change the guardianship to the one who manages other guardianship, if there is no other reasons indicate that the one should not be the guardian.\r\nAfter the declaration of the commencement of guardianship, one or several guardians set forth in preceding two paragraphs in cases provided by paragraph 1 of Article 1106, the guardianship shall be changed to other guardian.\r\nAfter the declaration of the commencement of guardianship, one or several guardians set forth in paragraph 1 and paragraph 2 in cases provided by paragraph 1 of Article 1106-1, the court may dismiss his/her guardianship at the request of the applicant provided in paragraph 1 of Article 14 or by its authority, the guardianship shall be changed to other guardian."
+		},
+		{
+			"number": 111307,
+			"content": "The ward shall pay or not pay the remuneration to guardian as agreed in the guardianship agreement; the court, in the absence of agreement, may determine the amount of his/her remuneration by the request of the guardian, taking into account the efforts paid into carrying out the guardianship and the assets of the ward."
+		},
+		{
+			"number": 111308,
+			"content": "If a guardianship agreement of an earlier date and a guardianship agreement of a later date conflict, the former is deemed to have been withdrawn in whole by the person in question."
+		},
+		{
+			"number": 111309,
+			"content": "The parties in the guardianship agreement may agree to eliminate the limitation to an agent in paragraph 2、3 of Article 1101."
+		},
+		{
+			"number": 111310,
+			"content": "Unless otherwise provided by the provisions of this Section, the provisions concerning guardianship over adults shall apply mutatis mutandis to adult guardianship by agreement."
 		},
 		{
 			"number": 111400,
