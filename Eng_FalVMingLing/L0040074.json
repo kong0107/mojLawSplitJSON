@@ -3,12 +3,12 @@
 	"英文法規名稱": "Sanitation Standard for General Foods",
 	"中文法規名稱": "一般食品衛生標準",
 	"法規網址": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=L0040074",
-	"最新英文異動日期": "20130820",
-	"沿革內容": "1.21 December 2007, Food No.0960408889\r\n2.Amended on August 20, 2013",
+	"最新英文異動日期": "20190815",
+	"沿革內容": "1.DOH Food No. 0960408889 Announced, 12/21/2007\r\n2.MOHW Food No. 1021350146 Amended, 08/20/2013\r\n3.MOHW Food No. 1071303671 Amended, 08/15/2019",
 	"法規內容": [
 		{
 			"條號": "Article 1",
-			"條文內容": "This standard is prescribed in accordance with the provisions of Article 17 of the Act Governing Food Sanitation."
+			"條文內容": "This Standard is prescribed in accordance with the provisions of Article 17 and the second paragraph of Article 15 of the Act Governing Food Safety and Sanitation (herein referred to as \"this Act\")."
 		},
 		{
 			"條號": "Article 2",
@@ -16,15 +16,31 @@
 		},
 		{
 			"條號": "Article 3",
-			"條文內容": "Products shall have their original pleasant flavor and color. No putridity, discoloration, off odor or flavor, contamination, moulds, foreign matter or parasite shall be found."
+			"條文內容": "Foods being sold shall have normal and reasonable acceptable traits, flavor and color. No discoloration, off odor or flavor, abnormal clot or precipitate, contamination, visible moldy, foreign matter, insects or parasite can be permitted, because of bad hygiene, poor quality or improper processing process control."
 		},
 		{
 			"條號": "Article 4",
-			"條文內容": "The maximum level of microorganism:\r\n┌─────────────┬────────┬───────┐\r\n│        ＼    Item        │MPN of Coliform │MPN of E. Coli│\r\n│Category  ＼              │bacteria per    │per gram      │\r\n│            ＼            │gram            │              │\r\n├─────────────┼────────┼───────┤\r\n│General foods served      │Not more than   │Negative      │\r\n│without preparing         │  3             │              │\r\n│treatments (including     │10              │              │\r\n│washing, peeling, heating,│                │              │\r\n│cooking, etc.)            │                │              │\r\n├─────────────┼────────┼───────┤\r\n│General foods to be served│                │              │\r\n│after preparing treatments│                │              │\r\n│(including washing,       │      －        │      －      │\r\n│peeling, heating, cooking,│                │              │\r\n│etc.)                     │                │              │\r\n└─────────────┴────────┴───────┘"
+			"條文內容": "The maximum levels of metals, mycotoxins, other contaminants  and toxins in foods, except as foods which have their own sanitation standards, shall meet the “Sanitation Standard for Contaminants and Toxins in Food”."
 		},
 		{
 			"條號": "Article 5",
-			"條文內容": "This Standard shall be implemented from the date of promulgation."
+			"條文內容": "The maximum level of microorganism for general foods:\r\n┌─────────────┬────────┬───────┐\r\n│        ＼                │MPN of Coliform │MPN of E. Coli│\r\n│Item      ＼              │bacteria per    │per gram      │\r\n│            ＼            │gram            │              │\r\n├─────────────┼────────┼───────┤\r\n│General foods served      │Not more than   │Negative      │\r\n│without preparing         │  3             │              │\r\n│treatments (including     │10              │              │\r\n│washing, peeling, heating,│                │              │\r\n│cooking, etc.)            │                │              │\r\n├─────────────┼────────┼───────┤\r\n│General foods to be served│                │              │\r\n│after preparing treatments│                │              │\r\n│(including washing,       │      －        │      －      │\r\n│peeling, heating, cooking,│                │              │\r\n│etc.)                     │                │              │\r\n└─────────────┴────────┴───────┘"
+		},
+		{
+			"條號": "Article 6",
+			"條文內容": "Water for food production:\r\n1. Water used in the production of food grade ice cubes, beverage, bottled and packaged drinking water shall meet the requirement of “Drinking Water Quality Standards” set by the competent environmental authorities.\r\n2. The maximum levels of bromate in bottled and packaged drinking water shall not be more than 0.01 mg/L."
+		},
+		{
+			"條號": "Article 7",
+			"條文內容": "The caffeine contents of packed beverages:\r\n1. Caffeine contents of tea and cocoa shall not exceed 500 mg/L.\r\n2. The beverages other than tea, coffee and cocoa, caffeine contents shall not exceed 320 mg/L."
+		},
+		{
+			"條號": "Article 8",
+			"條文內容": "Infant formula, follow-up infant formula, infant formula for special medical purposes and cereal based foods for infants not more than 12 months of age, residue pesticide shall not be more than 0.01 ppm. This limit will reference to pesticides minimum detectable level, when this level is greater or less than 0.01 ppm.\r\nThat violation of this  Article  shall  be  sanctioned in  accordance  with violation subparagraphs 5 of paragraph1 of Article 15 of this Act."
+		},
+		{
+			"條號": "Article 9",
+			"條文內容": "This Standard shall be implemented at release date."
 		}
 	]
 }
