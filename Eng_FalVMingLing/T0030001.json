@@ -4,15 +4,15 @@
 	"english": "Accounting Act",
 	"title": "會計法",
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=T0030001",
-	"englishUpdate": "20110518",
+	"englishUpdate": "20191120",
 	"history": [
 		"This Act, comprising of One Hundred and Twenty-Seven Articles was enacted and promulgated on August 14, 1935 by Government Orders; and come into force on July 1, 1936.",
-		"Article 21 was amended and promulgated on August 20, 1938 by Government Orders.",
+		"Article 21 was amended and promulgated on August 20, 1938 by Government Orders .",
 		"Articles 16, 22, 37, 90, 119, 123, 124 and 125 were amended and promulgated on May 27, 1948 by President Order.",
-		"Article 40 was amended and promulgated on June 10, 1950 by President Order.",
-		"The entire 122 Articles were amended and promulgated on April 15, 1972 by President Order.",
+		"Article 40 was amended and promulgated on June 10, 1950 by President Order. 5.The entire 122 Articles were amended and promulgated on April 15, 1972 by President Order.",
 		"Article 10 was amended and promulgated on May 15, 2002 by President Order.",
-		"Addition of Article 99-1 & Promulgated on May 18, 2011 by President Order No.Hua-Zong-Yi-Yi-Tzu-10000097601"
+		"Addition of Article 99-1 & Promulgated on May 18, 2011 by President Order No.Hua-Zong-Yi-Yi-Tzu-10000097601",
+		"Article 4, 7, 10, 16, 60, 65, 66, 93, 95, 121 were amended and promulgated on November 20, 2019 by President Order No. Hua-Zong-Yi-Yi-Tzu-10800126581;Article 29 was subsequently repealed/deleted."
 	],
 	"divisions": [
 		{
@@ -73,7 +73,7 @@
 		},
 		{
 			"number": 400,
-			"content": "(Types of Accounting Event)\r\nThe accounting activities of accounting events in the preceding Article shall be classified into the following five categories according to its nature:\r\n1. Ordinary Government Activities: General accounting activities of government authorities.\r\n2. Special Government Activities: Accounting activities of government authorities, dealt with by special government authorities, except for those referred to in the preceding subparagraph of government authorities.\r\n3. Publicly Owned Enterprise Activities: Accounting activities of publicly owned enterprise authorities.\r\n4. Publicly Owned Business Activities: Accounting activities of publicly owned business authorities.\r\n5. Extraordinary Activities: accounting activities of events of extraordinary nature and other material events that do not follow the beginning and end of a fiscal year, which is treated by authorities in charge or provisional entities.\r\nAny government authorities that specialize in supply of goods, services or other interests for which purpose is to gain profit or obtains equivalent consideration in return shall be Publicly Owned Business Authorities; those government authorities that do not operate for purpose to gain profit shall be Publicly Owned Enterprise Authorities."
+			"content": "(Types of Accounting Event)\r\nThe accounting activities of accounting events in the preceding Article shall be classified into the following four categories according to its nature:\r\n1. Ordinary Government Activities: General accounting activities of government authorities.\r\n2. Special Government Activities: Accounting activities of government authorities, dealt with by special government authorities, except for those referred to in the preceding subparagraph of government authorities.\r\n3. Government-owned Enterprise Activities: Accounting activities of government-owned enterprise authorities.\r\n4. Extraordinary Activities: accounting activities of events of extraordinary nature and other material events that do not follow the beginning and end of a fiscal year, which is treated by authorities in charge or provisional entities."
 		},
 		{
 			"number": 500,
@@ -85,7 +85,7 @@
 		},
 		{
 			"number": 700,
-			"content": "(Publicly Owned Business Activities)\r\nPublicly Owned Business activities shall be categorized into following four types:\r\n1. Accounting activities of annual business budget: The accounting activities relevant to the implementation of business budget, revenues and expenditures from implementation of budget, credits and debts accrued from treatment of revenues and expenditures and calculation of annual surplus or deficit and operating profit or loss.\r\n2. Accounting activities of business cost: The accounting activities relevant to the calculation of unit cost for goods and services.\r\n3. Accounting activities of business cashiering activities: The accounting activities relevant to the receipts and payments, custody and transfer of cash, notes and securities.\r\n4. Accounting activities of business properties: The accounting activities relevant to the loss and gain, custody and transfer of properties used and applied in business.\r\nThe foregoing paragraph shall apply to Publicly Owned Enterprise activities but not for calculation of profit and loss.\r\nThe foregoing two paragraphs shall apply separately in accordance with the nature to operative part of accounting activities in authorities having operating conduct.\r\nGovernment authorities that has a partial entity attached to it for the purpose of engaging in business or enterprise conducts, such partial entity shall be Operative Entity, Publicly Owned Business or Public Owned Enterprise Authorities that has a partial entity attached to it for the purpose of engaging in other business or enterprise conducts apart from its main business, that partial entity shall also be considered as Operative Entity."
+			"content": "(Government-owned Enterprise Activities)\r\nGovernment-owned Enterprise activities shall be categorized into following four types:\r\n1. Accounting activities of annual business budget: The accounting activities relevant to the implementation of business budget, revenues and expenditures from implementation of budget, credits and debts accrued from treatment of revenues and expenditures and calculation of annual surplus or deficit and operating profit or loss.\r\n2. Accounting activities of business cost: The accounting activities relevant to the calculation of unit cost for goods and services.\r\n3. Accounting activities of business cashiering activities: The accounting activities relevant to the receipts and payments, custody and transfer of cash, notes and securities.\r\n4. Accounting activities of business properties: The accounting activities relevant to the loss and gain, custody and transfer of properties used and applied in business."
 		},
 		{
 			"number": 800,
@@ -97,7 +97,7 @@
 		},
 		{
 			"number": 1000,
-			"content": "(General Accounting)\r\nAccounting of the central, municipal, county (municipality), township (town, municipality) local governments shall form one general accounting."
+			"content": "(General Accounting)\r\nAccounting of the central, municipal, county (municipality), township (town, municipality) ,mountain indigenous districts of special municipal local governments shall form one general accounting."
 		},
 		{
 			"number": 1100,
@@ -121,7 +121,7 @@
 		},
 		{
 			"number": 1600,
-			"content": "(Currency of accounting books)\r\nGovernment accounts shall use the national currency or currencies determined by the budget as basic monetary unit for book-keeping; those domestic or foreign currencies recorded in books that are inconsistent with basic monetary unit shall be converted into the basic monetary unit and recorded into major books of accounts. During bookkeeping, except for the purpose of arithmetic multiplication and division, the first figure below the decimal point shall be admitted, while the second figure shall be rounded off.\r\nWhere there are special circumstances applicable, regulations may be drafted regarding the provision of foregoing Paragraph and enforced once approved by each government BAS Authority."
+			"content": "(Currency of accounting books)\r\nGovernment accounts shall use the national currency or currencies determined by the budget as basic monetary unit for book-keeping; those domestic or foreign currencies recorded in books that are inconsistent with basic monetary unit shall be converted into the basic monetary unit and recorded into major books of accounts. During bookkeeping, except for the purpose of arithmetic multiplication and division, the unit of account shall be the dollar and decimals shall be rounded up.\r\nWhere there are special circumstances applicable, regulations may be drafted regarding the provision of foregoing Paragraph and enforced once approved by each government BAS Authority."
 		},
 		{
 			"number": 1700,
@@ -129,7 +129,7 @@
 		},
 		{
 			"number": 1800,
-			"content": "(Procedures for set-up, approval of Accounting system)\r\nThe design and approval of general accounting system of the central government shall be undertaken by Central BAS Authority. The general accounting systems and uniform accounting provision of local governments shall be designed by local BAS Authority and approved and promulgated by superior BAS Authority in control.\r\nThe accounting system of each Authority shall be designed by accounting department. After being reported to and signed by its Chief officer, it shall be approved and promulgated by the BAS Authority of the local governments.\r\nDesign of accounting system in the foregoing paragraph shall be discussed and approved by affiliated authority and controlling Audit office; similarly in the event of amendments, explanatory notes and precedents of accounting systems and uniform provisions dealing with accounting activities shall be approved by the Authority in charge of promulgation."
+			"content": "(Procedures for set-up, approval of Accounting system)\r\nThe design and approval of general accounting system of the central government shall be undertaken by Central BAS Authority.\r\nThe general accounting systems and uniform accounting provision of local governments shall be designed by local BAS Authority and approved and promulgated by superior BAS Authority in control.\r\nThe accounting system of each Authority shall be designed by accounting department. After being reported to and signed by its Chief officer, it shall be approved and promulgated by the BAS Authority of the local governments.\r\nDesign of accounting system in the foregoing paragraph shall be discussed and approved by affiliated authority and controlling Audit office; similarly in the event of amendments.\r\nExplanatory notes and precedents of accounting systems and uniform provisions dealing with accounting activities shall be approved by the Authority in charge of promulgation."
 		},
 		{
 			"number": 1900,
@@ -173,7 +173,7 @@
 		},
 		{
 			"number": 2900,
-			"content": "(Properties and Fixed Liability)\r\nGovernment properties and fixed liabilities, except for property incorporated into annual revenue and fixed liability to make-up the deficit in budget, shall prepare a separate statement or content catalogue for each and be excluded from balance sheets. However, business fund, enterprise fund and property and fixed liability of other special fund that form part of fund itself shall be incorporated into the balance sheet."
+			"content": "(deleted)\r\ndeleted"
 		},
 		{
 			"number": 3000,
@@ -297,7 +297,7 @@
 		},
 		{
 			"number": 6000,
-			"content": "(Calculation of depreciation rate in publicly owned businesses)\r\nDepreciation of permanent properties and inventory consumption of non-permanent properties of publicly owned businesses shall be calculated with reference to costs; costs which cannot be tracked back in time shall be calculated with reference to initial quotation recorded into the account."
+			"content": "(Calculation of depreciation rate in government-owned enterprises)\r\nDepreciation of permanent properties and inventory consumption of non-permanent properties of government-owned enterprises shall be calculated with reference to costs; costs which cannot be tracked back in time shall be calculated with reference to initial quotation recorded into the account."
 		},
 		{
 			"number": 6100,
@@ -317,11 +317,11 @@
 		},
 		{
 			"number": 6500,
-			"content": "(Maintenance and recording of accounts)\r\nAll deferred revenue, deferred charge, matured debt payable, matured credit receivable in any accounts of ledger book and other rights and liabilities which have accrued but have not yet been recorded into books, shall be maintained and entered before the settlement of each account.\r\nAccounting activities of publicly owned business, excluding accounts maintained in preceding paragraph, relating to bad debts, depreciation, consumption, amortization, inventory-check of materials, supplies and products, and offset of internal profit and loss, or other activities which are required to be maintained shall be maintained and recorded.\r\nEach departmental accounting authority or subordinate departmental accounting with affiliated sub-accounting authorities shall maintain and record accounts upon the receipt of closing statements from the sub-accounting authorities. If the closing statements of sub-accounting authorities are delayed due to extraordinary circumstances, each departmental accounting authority or subordinate departmental accounting authority may proceed to settlement in advance with remark added, and supplement records and perform summary upon receipt of sub-accounting report later. ."
+			"content": "(Maintenance and recording of accounts)\r\nAll deferred revenue, deferred charge, matured debt payable, matured credit receivable in any accounts of ledger book and other rights and liabilities which have accrued but have not yet been recorded into books, shall be maintained and entered before the settlement of each account.\r\nAccounting activities of government-owned enterprise, excluding accounts maintained in preceding paragraph, relating to bad debts, depreciation, consumption, amortization, inventory-check of materials, supplies and products, and offset of internal profit and loss, or other activities which are required to be maintained shall be maintained and recorded.\r\nEach departmental accounting authority or subordinate departmental accounting with affiliated sub-accounting authorities shall maintain and record accounts upon the receipt of closing statements from the sub-accounting authorities. If the closing statements of sub-accounting authorities are delayed due to extraordinary circumstances, each departmental accounting authority or subordinate departmental accounting authority may proceed to settlement in advance with remark added, and supplement records and perform summary upon receipt of sub-accounting report later. ."
 		},
 		{
 			"number": 6600,
-			"content": "(Treatment of the balance of credit and debit sides)\r\nOnce the accounts have been prepared, the balance of credit and debit sides shall be dealt with pursuant to the following:\r\n1. All balances of receipt and payment accounts of government accounting activities and publicly owned enterprises shall be summarized into all accounts of annual budget revenue and various accounts of budget allocation for the purpose of calculating the surplus and deficit of annual revenue and budget allocation.\r\n2. All balances of profit and loss accounts of publicly owned businesses shall be summarized into all accounts of total profit and loss for the purpose of calculating profit and loss.\r\n3. All balances of accounts of accounting activities in preceding two subparagraphs relating to asset or liability nature shall be summarized into accounts for next fiscal year or period."
+			"content": "(Treatment of the balance of credit and debit sides)\r\nOnce the accounts have been prepared, the balance of credit and debit sides shall be dealt with pursuant to the following:\r\n1. All balances of receipt and payment accounts of government accounting activities shall be summarized into all accounts of annual budget revenue and various accounts of budget allocation for the purpose of calculating the surplus and deficit of annual revenue and budget allocation.\r\n2. All balances of profit and loss accounts of government-owned enterprises shall be summarized into all accounts of total profit and loss for the purpose of calculating profit and loss.\r\n3. All balances of accounts of accounting activities in preceding two subparagraphs relating to asset or liability nature shall be summarized into accounts for next fiscal year or period."
 		},
 		{
 			"number": 6700,
@@ -429,7 +429,7 @@
 		},
 		{
 			"number": 9300,
-			"content": "(Circumstances in which authorities are in charge of more than one type of activities or conduct on behalf of others)\r\nGovernment authorities in charge of more than one type of special government activities shall prepare account for more than one type of special government activities; those also handling publicly owned business and other publicly owned enterprise shall prepare account for activities of publicly owned business or publicly owned enterprises.\r\nNon-government affiliated authorities acting as agent in handling government activities shall prepare account for activities handled according to provisions of this Act."
+			"content": "(Circumstances in which authorities are in charge of more than one type of activities or conduct on behalf of others)\r\nGovernment authorities in charge of more than one type of special government activities shall prepare account for more than one type of special government activities; those also handling government-owned enterprise shall prepare account for activities of government-owned enterprise.\r\nNon-government affiliated authorities acting as agent in handling government activities shall prepare account for activities handled according to provisions of this Act."
 		},
 		{
 			"number": 9400,
@@ -437,7 +437,7 @@
 		},
 		{
 			"number": 9500,
-			"content": "(Type of internal audit and executive officer)\r\nInternal audit implemented by each authority shall be executed by accounting officer.\r\nInternal audit is categorized into following two types:\r\n1. Pre-audit: The audit of events prior to entry into accounts with emphasis on control of payment and receipts.\r\n2. Post-audit: The audit of events after entry into accounts with emphasis on review of document, account books and efficacy of work performance."
+			"content": "(Type of internal audit and executive officer)\r\nInternal audit implemented by each authority shall be executed by accounting officer. However, the activities involving non-accounting professional provisions and substantive or technical matters shall be acted by the unit-in-charge of business.\r\nInternal audit is categorized into following two types:\r\n1. Pre-audit: The audit of events prior to entry into accounts with emphasis on control of payment and receipts.\r\n2. Post-audit: The audit of events after entry into accounts with emphasis on review of document, account books and efficacy of work performance."
 		},
 		{
 			"number": 9600,
@@ -545,7 +545,7 @@
 		},
 		{
 			"number": 12100,
-			"content": "(Circumstances in which this Act is applied mutatis mutandis)\r\nThis Act shall govern the accounting system and procedures for compilation of financial report of state-funded non-governmental organization and joint state-private enterprise; the scope of applicability shall be determined by Central BAS authority."
+			"content": "(Circumstances in which this Act is applied mutatis mutandis)\r\nThis Act shall govern the accounting system and procedures for compilation of financial report of government-subsidized private groups and joint government-private enterprises; the scope of applicability shall be determined by Central BAS authority."
 		},
 		{
 			"number": 12200,

@@ -4,16 +4,17 @@
 	"english": "Sanitation Standard for General Foods",
 	"title": "一般食品衛生標準",
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=L0040074",
-	"englishUpdate": "20130820",
+	"englishUpdate": "20190815",
 	"history": [
-		"21 December 2007, Food No.0960408889",
-		"Amended on August 20, 2013"
+		"DOH Food No. 0960408889 Announced, 12/21/2007",
+		"MOHW Food No. 1021350146 Amended, 08/20/2013",
+		"MOHW Food No. 1071303671 Amended, 08/15/2019"
 	],
 	"divisions": [],
 	"articles": [
 		{
 			"number": 100,
-			"content": "This standard is prescribed in accordance with the provisions of Article 17 of the Act Governing Food Sanitation."
+			"content": "This Standard is prescribed in accordance with the provisions of Article 17 and the second paragraph of Article 15 of the Act Governing Food Safety and Sanitation (herein referred to as \"this Act\")."
 		},
 		{
 			"number": 200,
@@ -21,15 +22,31 @@
 		},
 		{
 			"number": 300,
-			"content": "Products shall have their original pleasant flavor and color. No putridity, discoloration, off odor or flavor, contamination, moulds, foreign matter or parasite shall be found."
+			"content": "Foods being sold shall have normal and reasonable acceptable traits, flavor and color. No discoloration, off odor or flavor, abnormal clot or precipitate, contamination, visible moldy, foreign matter, insects or parasite can be permitted, because of bad hygiene, poor quality or improper processing process control."
 		},
 		{
 			"number": 400,
-			"content": "The maximum level of microorganism:\r\n┌─────────────┬────────┬───────┐\r\n│        ＼    Item        │MPN of Coliform │MPN of E. Coli│\r\n│Category  ＼              │bacteria per    │per gram      │\r\n│            ＼            │gram            │              │\r\n├─────────────┼────────┼───────┤\r\n│General foods served      │Not more than   │Negative      │\r\n│without preparing         │  3             │              │\r\n│treatments (including     │10              │              │\r\n│washing, peeling, heating,│                │              │\r\n│cooking, etc.)            │                │              │\r\n├─────────────┼────────┼───────┤\r\n│General foods to be served│                │              │\r\n│after preparing treatments│                │              │\r\n│(including washing,       │      －        │      －      │\r\n│peeling, heating, cooking,│                │              │\r\n│etc.)                     │                │              │\r\n└─────────────┴────────┴───────┘"
+			"content": "The maximum levels of metals, mycotoxins, other contaminants  and toxins in foods, except as foods which have their own sanitation standards, shall meet the “Sanitation Standard for Contaminants and Toxins in Food”."
 		},
 		{
 			"number": 500,
-			"content": "This Standard shall be implemented from the date of promulgation."
+			"content": "The maximum level of microorganism for general foods:\r\n┌─────────────┬────────┬───────┐\r\n│        ＼                │MPN of Coliform │MPN of E. Coli│\r\n│Item      ＼              │bacteria per    │per gram      │\r\n│            ＼            │gram            │              │\r\n├─────────────┼────────┼───────┤\r\n│General foods served      │Not more than   │Negative      │\r\n│without preparing         │  3             │              │\r\n│treatments (including     │10              │              │\r\n│washing, peeling, heating,│                │              │\r\n│cooking, etc.)            │                │              │\r\n├─────────────┼────────┼───────┤\r\n│General foods to be served│                │              │\r\n│after preparing treatments│                │              │\r\n│(including washing,       │      －        │      －      │\r\n│peeling, heating, cooking,│                │              │\r\n│etc.)                     │                │              │\r\n└─────────────┴────────┴───────┘"
+		},
+		{
+			"number": 600,
+			"content": "Water for food production:\r\n1. Water used in the production of food grade ice cubes, beverage, bottled and packaged drinking water shall meet the requirement of “Drinking Water Quality Standards” set by the competent environmental authorities.\r\n2. The maximum levels of bromate in bottled and packaged drinking water shall not be more than 0.01 mg/L."
+		},
+		{
+			"number": 700,
+			"content": "The caffeine contents of packed beverages:\r\n1. Caffeine contents of tea and cocoa shall not exceed 500 mg/L.\r\n2. The beverages other than tea, coffee and cocoa, caffeine contents shall not exceed 320 mg/L."
+		},
+		{
+			"number": 800,
+			"content": "Infant formula, follow-up infant formula, infant formula for special medical purposes and cereal based foods for infants not more than 12 months of age, residue pesticide shall not be more than 0.01 ppm. This limit will reference to pesticides minimum detectable level, when this level is greater or less than 0.01 ppm.\r\nThat violation of this  Article  shall  be  sanctioned in  accordance  with violation subparagraphs 5 of paragraph1 of Article 15 of this Act."
+		},
+		{
+			"number": 900,
+			"content": "This Standard shall be implemented at release date."
 		}
 	]
 }

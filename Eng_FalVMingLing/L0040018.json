@@ -1,45 +1,34 @@
 {
 	"pcode": "L0040018",
 	"type": "命令",
-	"english": "Sanitation Standard for Bottled and Packaged Drinking Water",
+	"english": "Sanitation Standard for the Microorganism in Bottled and Packaged Drinking Water",
 	"title": "包裝飲用水及盛裝飲用水微生物衛生標準",
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=L0040018",
-	"englishUpdate": "20130820",
+	"englishUpdate": "20190815",
 	"history": [
 		"Promulgated on November 11, 2003",
 		"Amended on September 14, 2005",
 		"Amended on September 17, 2009",
-		"Amended on August 20, 2013"
+		"Amended on August 20, 2013",
+		"Amended on August 15, 2019"
 	],
 	"divisions": [],
 	"articles": [
 		{
 			"number": 100,
-			"content": "This Standard is prescribed in accordance with the provisions of Article 17 of the Act Governing Food Sanitation."
+			"content": "This Standard is prescribed in accordance with the provisions of Article 17 of the Act Governing Food Safety and Sanitation."
 		},
 		{
 			"number": 200,
-			"content": "This standard applies to bottled and packaged drinking water which is suitable for consumption."
+			"content": "This standard applies to bottled and packaged drinking water which is suitable for human consumption."
 		},
 		{
 			"number": 300,
-			"content": "The quality of the source water used in the production of packaged drinking water shall meet the requirement of「Quality Standard of Source Water for Drinking Water」."
+			"content": "The maximum level of microorganism (Only applied to bottled and packaged drinking water which is suitable for direct consumption):\r\n┌────────────┬──────────┐\r\n│Microorganism           │Limit               │\r\n├────────────┼──────────┤\r\n│Coliform bacteria       │Negative            │\r\n├────────────┼──────────┤\r\n│Fecal Streptococci      │Negative            │\r\n├────────────┼──────────┤\r\n│Pseudomonas aeruginosa  │Negative            │\r\n└────────────┴──────────┘"
 		},
 		{
 			"number": 400,
-			"content": "Maximum tolerance of heavy metals:\r\n┌──────┬───────────┐\r\n│Heavy metal │Maximum tolerance     │\r\n├──────┼───────────┤\r\n│As          │0.01 ppm              │\r\n├──────┼───────────┤    \r\n│Pb          │0.05 ppm              │\r\n├──────┼───────────┤\r\n│Zn          │ 5.0 ppm              │\r\n├──────┼───────────┤\r\n│Cu          │ 1.0 ppm              │\r\n├──────┼───────────┤\r\n│Hg          │0.001 ppm             │\r\n├──────┼───────────┤\r\n│Cd          │0.005 ppm             │\r\n└──────┴───────────┘"
-		},
-		{
-			"number": 500,
-			"content": "Microbiological criteria (Only applied to bottled and packaged drinking water which is suitable for direct consumption):\r\n┌────────────┬──────────┐\r\n│Microorganism           │Limit               │\r\n├────────────┼──────────┤\r\n│Coliform bacteria       │Negative            │\r\n├────────────┼──────────┤\r\n│Fecal Streptococci      │Negative            │\r\n├────────────┼──────────┤\r\n│Pseudomonas aeruginosa  │Negative            │\r\n└────────────┴──────────┘"
-		},
-		{
-			"number": 600,
-			"content": "Maximum tolerance of bromate: 0.01ppm."
-		},
-		{
-			"number": 700,
-			"content": "This Standard shall be implemented from the date of promulgation."
+			"content": "This Standard shall be implemented at release date."
 		}
 	]
 }

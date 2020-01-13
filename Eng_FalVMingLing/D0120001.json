@@ -4,7 +4,7 @@
 	"english": "Fire Services Act",
 	"title": "消防法",
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0120001",
-	"englishUpdate": "20190107",
+	"englishUpdate": "20191113",
 	"history": [
 		"32 Articles published under Presidential Order Hua-Tsung-(I)-Yi-Tzu No. 6014, Nov. 29, 1985",
 		"47Articles, as amended, published under Presidential Order Hua-Tsung-(I)-Yi-Tzu No. 5956, Aug. 11, 1995",
@@ -16,7 +16,8 @@
 		"Addition of Articles 14-1 and 41-1, Articles 14 and 41 amended, published under Presidential Order Hua-Tsung-I-Yi-Tzu No.10000085311, May 4, 2011.",
 		"Article 12 amended, published under Presidential Order Hua-Tsung-I-Yi-Tzu No.10000283821, Dec 21, 2012.",
 		"Amended on January 18, 2017",
-		"Article 5, 30, 32, 36 and 40 amended, published under Presidential Order Hua-Tsung-I-Yi-Tzu No. 10800002091, Jan 7, 2019."
+		"Article 5, 30, 32, 36 and 40 amended, published under Presidential Order Hua-Tsung-I-Yi-Tzu No. 10800002091, Jan 7, 2019.",
+		" Addition of Articles 15-3, 15-4,20-1, 21-1, 27-1, 42-2, and 43-1 , Articles 15,19, 27 and Chapter Four amended, published under Presidential Order Hua-Tsung-I-Yi-Tzu No.10800123541, Nov.13, 2019."
 	],
 	"divisions": [
 		{
@@ -31,7 +32,7 @@
 			"number": 200,
 			"title": "Fire Prevention",
 			"start": 500,
-			"end": 1502
+			"end": 1504
 		},
 		{
 			"type": "chapter",
@@ -43,9 +44,9 @@
 		{
 			"type": "chapter",
 			"number": 400,
-			"title": "Fire Investigation & Determination",
+			"title": "Disaster & Fire Cause Determination",
 			"start": 2600,
-			"end": 2700
+			"end": 2701
 		},
 		{
 			"type": "chapter",
@@ -132,7 +133,7 @@
 		},
 		{
 			"number": 1500,
-			"content": "(Storage and Control of Public Hazardous Substances & Flammable Pressurized Gases)\r\nPublic hazardous substances and flammable pressurized gases shall be safely handled depending on their containers, loading and handling methods, and shall be stored or disposed with safe methods at where they are manufactured, stored or disposed once they have reached the specified quantity for control.\r\nScope and classification; establishment standards governing the location, construction and equipment of the place used for the manufacturing, storage or process; and safety control procedures for the storage, process and handling of those public hazardous substances and flammable pressurized gases described in the preceding paragraph herein shall be set forth by the central regulating authorities jointly with the regulating authorities of the public sector: Provided however, that whenever the public sector regulating authorities has already separately set forth safety control regulations for the manufacturing, storage, process or handling of the public hazardous substances and flammable pressurized gases, those regulations shall govern."
+			"content": "The person whose position is related to the place specified in paragraph 1, or the person who operates the domestic LPG retailer (hereinafter referred to as the retailer), the user and his / her employees can state the facts or provide evidence data to the competent authority of the municipality or county (city) directly under the central government, and report the acts in violation of the preceding two paragraphs.\r\nThe competent authority of a municipality or county (city) directly under the central government shall keep confidential the identity of the prosecutor referred to in the preceding paragraph.\r\nThe director and employer of the third paragraph of the promoter shall not be dismissed, transferred or otherwise disadvantaged because of the issuance of the unit.\r\nThe third paragraph that has been verified and verified is punishable by a fine, and the prosecutor is awarded to a certain percentage of the total amount of penalty income."
 		},
 		{
 			"number": 1501,
@@ -141,6 +142,14 @@
 		{
 			"number": 1502,
 			"content": "LPG vendors shall keep the following documents and report to the district fire department for reference.\r\n1. Management documents of LPG Storage place.\r\n2. Cylinder management data.\r\n3. Customer information.\r\n4. LPG repackaging industry filling certification.\r\n5. Management documents of Safety technicians.\r\n6. Customer safety inspection documents.\r\n7. Policy of public liability insurance.\r\n8. All of the specific measures announced by the central competent authority.\r\nLPG vendors shall keep the documents mentioned in the preceding paragraph at least 2 years for verification."
+		},
+		{
+			"number": 1503,
+			"content": "(Approval of LPG containers)\r\nThe manufacturer or importer of a liquefied petroleum gas container (hereinafter referred to as a container) shall apply to the central competent authority for type approval and issue a type approval certificate, and may apply for individual approval.\r\nThe container shall be sold after it has been individually qualified according to the preceding paragraph and attached with a qualified mark.\r\nThe central competent authority shall determine the qualifications, procedures,documents,issue the approval, validated,changed,revoked,abolished, extended, and qualified to stop the issuance and sale of the target data ,the methods for establishment, preservation and declaration of the container specified in the first paragraph and other matters to be complied with.\r\nThe specifications, construction, materials, welding regulations, marks, coating, service life, approved test items, batch identification, sampling quantity, test result determination, specifications and additional methods of qualified marks, handling of nonconformities and other relevant standards of the containers specified in paragraph 1 shall be announced by the central competent authority.\r\nThe approval, individual approval, type approval certificate as prescribed in paragraph 1, the issuance of qualification mark as prescribed in paragraph 2, the issuance (replacement) of qualification mark as prescribed in paragraph 3, the suspension, cancellation, annulment and extension of qualification mark may be entrusted to a professional institution registered with the central competent authority.\r\nThe fees required for the approval, individual accreditation, issuance of qualified signs, issuance, alteration and extension of the certificate of accreditation of the professional institution signed in the preceding paragraph shall be borne by the applicant, and the amount of the fee items and fees shall be submitted by the institution to the central competent authority for approval.\r\nThe qualifications, equipment and personnel, procedures, documents to be prepared, period of validity of the registration certificate, issuance (exchange), revocation, revocation, alteration, extension, construction of data, preservation and declaration, suspension of business and other matters to be complied with shall be determined by the central competent authority."
+		},
+		{
+			"number": 1504,
+			"content": "(Periodic inspection of LPG containers)\r\nThe container shall be inspected regularly. Before the expiration of the inspection period, the retailer shall send the container to the container inspection institution registered by the central competent authority for inspection. After passing the inspection and attaching the qualification mark, the container can continue to be used. After the expiration of the service life, the container shall be replaced. The period, item, method, result judgment, items and additional methods of the qualification mark shall be included and inconsistent The standards for the destruction of containers, valves and other related matters shall be announced by the central competent authority.\r\nThe cost of the container inspection agency as determined in the preceding paragraph shall be borne by the retailer, and the items and fees charged by the retailer shall be submitted by the institution for approval by the central competent authority.\r\nThe central competent authority shall prescribe the measures for the qualification, instruments, equipment and personnel, procedures, documents to be prepared, validity period of registration certificate, issuance (replacement), cancellation, annulment, change, extension, data establishment, storage and application, stop issuance of qualification marks, business suspension, and other matters to be followed by the container inspection institution specified in the first paragraph."
 		},
 		{
 			"number": 1600,
@@ -156,15 +165,23 @@
 		},
 		{
 			"number": 1900,
-			"content": "If it is deemed as absolutely necessary to use or destroy, or restrict the use of any land, building, vehicle and/or any other located in or to the site where a fire breaks out and/or its peripheral, the firemen may use, damage or restrict such use for fire fighting and rescue purposes.\r\nThe municipal, and county/city government may as applicable provide reasonable reimbursement for the loss resulted from such use of, damage from or restriction use of the land or building as set forth in the preceding paragraph herein: Provided, however, that no reimbursement will be made to any one who shall be liable for setting the fire.\r\nIf it is deemed as absolutely necessary to use or destroy, or restrict the use of any land, building, vehicle and/or any other things located in or to the site where a fire breaks out and/or its peripheral, the firemen may use, damage or restrict such use for fire fighting and rescue purposes.\r\nAny civilian sustaining property loss of a particular sacrifice as a result of using or destroying, or restricting the use of any land, building, vehicle and/or any other things pursuant to the preceding paragraph, may claim for loss compensation. However, if such loss is attributed to the civilian, the loss compensation claimed will not be accepted.\r\nThe loss compensation pursuant to the preceding paragraph, shall be paid in money and at a sum not greater than the loss as incurred.\r\nThe compensation for the loss shall be applied within two years after the party concerned becomes aware of the losses. When five years have passed since the occurrence of the loss, no claims may be made."
+			"content": "Firefighters may enter, use, damage, or damage the people’s land, buildings, vehicles, and other objects without entering, using, damaging, or restricting such use, and cannot reach the purpose of emergency and rescue.\r\nAny civilian sustaining property loss of a particular sacrifice as a result of using or destroying, or restricting the use of any land, building, vehicle and/or any other things pursuant to the preceding paragraph, may claim for loss compensation. However, if such loss is attributed to the civilian, the loss compensation claimed will not be accepted."
 		},
 		{
 			"number": 2000,
 			"content": "(Fire Line)\r\nThe commander of firemen may specify a fire line to the peripheral of the fire site to limit entry of any person and vehicle; and may evacuate or have a mandatory evacuation of any and all persons and vehicles within the area defined by the fire line."
 		},
 		{
+			"number": 2001,
+			"content": "(Right to withdraw from dangerous relief rescue)\r\nRescue teams on the site should take appropriate rescue after pondering over the rescue goal and risk under the consideration of disaster relief safety; If there is no danger of human life at the site, dangerous relief rescue may not be performed."
+		},
+		{
 			"number": 2100,
 			"content": "(Use of Water Supply Source)\r\nFor the purpose of fire control, the commander of firemen may use any kind of water supply sources available nearby and notify the water supply company to concentrate on supplying water to the fire site."
+		},
+		{
+			"number": 2101,
+			"content": "(When the factory fires, the administrators of the factory shall provide necessary rescue information and assign specially assigned person to the site to assist the fire commander)\r\nWhen a fire commander size up in factory fire site, the administrators of the factory shall provide help in accordance with the following regulations\r\n1.Providing necessary rescue information and chemical layout including types, quantities of the factory.\r\n2.Assigning specially assigned person to the site to assist the fire commander."
 		},
 		{
 			"number": 2200,
@@ -188,7 +205,11 @@
 		},
 		{
 			"number": 2700,
-			"content": "(Creation of Fire Investigation Committee)\r\nMunicipal, county/city governments may invite representatives from agencies concerned and experts to organize an investigation committee to examine and determine cause of fire; the incorporation procedure for such a committee shall be specified by the municipal, county/city governments."
+			"content": "Municipal, county/city governments may invite representatives from agencies concerned and experts to organize an investigation committee to examine and determine cause of fire; the incorporation procedure for such a committee shall be specified by the municipal, county/city governments."
+		},
+		{
+			"number": 2701,
+			"content": "(Composition of disaster accident investigation committee)\r\nThe central authority should invite representatives from agencies and group concerned , experts and firefighters to organize an disaster accident investigation committee (hereinafter referred to as investigation committee) to investigate the causes of duty and volunteer firefighters death or serious injuries caused by disaster rescue.\r\nInvestigation committee should make an investigation report on the cause of the accident, raise rescue improvement suggestions and track the implementation of improvement suggestions.\r\nInvestigation committee could request that agencies and group concerned, juristic person, group or natural person to provide information or document owing to investigation. When the information or document is occupied by judiciary or the Control Yuan, agencies and group concerned, juristic person, group or natural personshould explain clearly and provide the duplicate. If it makes sense that agencies and group concerned, juristic person, group or natural person are unable to provide the duplicate, thetestimony that the information or document is occupied should be provided.\r\nThe composition, committee member qualifications, invitation mode, procedure and others should be followed of the investigation committee specified in the preceding paragraph shall be specified by the central regulating authorities."
 		},
 		{
 			"number": 2800,
@@ -259,8 +280,16 @@
 			"content": "In case of violation of Article 15-1 as bellow, the administrator or the mounter carrying on business shall be subject to a penal sum not less than NT$10,000 and not greater than NT$50,000, and the authority are entitled to force the firm to improve within given time, any absence of correction, the administrator or the mounter shall be continuously punished and may be subject to an mandatory suspension of his or her business.\r\n1. To install gas-burning water heater and it’s piping without employing the mounter who has a license after February 1, 2006;\r\n2. Anyone installing gas-burning water heater and it’s piping offense against Para.3, Article 15-1;or\r\n3. Any mounter installing gas-burning water heater and it’s piping offense against the empower range of the license in Para.2, Article 15-1."
 		},
 		{
+			"number": 4202,
+			"content": "(Penal Clause)\r\nRetailers, professional institutions, container manufacturers, importers or container inspection institutions who have one of the following circumstances shall be sentenced to a price of not less than NT$20,000 but not more than NT$100,000, and notice the time limit improvement, the period has not improved, the penalty may be imposed on each time:\r\n1.The container manufacturer or importer violates the provisions of Article 15-3, paragraph 2, the container without individual approval or without a qualified label to sell.\r\n2.The container manufacturer or importer violates the provisions of Article 15-3, paragraph 3,concerning the establishment, storage and declaration of the sales target data.\r\n3.Professional institutions violate the provisions of Article 15-3, paragraph 7, concerning the establishment, storage and declaration of instruments, equipment, personnel and data.\r\n4.In violation of Article 15-4, paragraph 1, the retailer fails to deliver the container to the inspection institution for regular inspection before the expiration of the inspection period, or the container is still in use after the expiration of its service life.\r\n5.The container inspection institution violates the provisions of article 15-4, paragraph 3, concerning the establishment, storage and declaration of instruments, equipment, personnel and data.\r\nIf there is a violation of the first paragraph of the preceding paragraph, their containers and have to be confiscated and destroyed."
+		},
+		{
 			"number": 4300,
 			"content": "(Penal Clause)\r\nAny one refuses to comply with the survey, inquiry, collection, perseverance or compromises the integrity of the fire site under Article 26 shall be subject to a penal sum not less than NT$3,000 and not greater than NT$15,000."
+		},
+		{
+			"number": 4301,
+			"content": "(Penal Clause)\r\nIn case of violation of Subsection1 1, Article 21-1: the administrators of the factory didn’t provide necessary rescue information and chemical layout including types, quantities of the factory or provide false rescue information, the administrator shall be subject to a penal sum not less than NT$30,000 and not greater than NT$600,000.\r\nIn case of violation of Subsection1 2, Article 21-1: the administrators of the factory didn’t assign specially assigned person to the site to assist the fire commander, the administrator shall be subject to a penal sum not less than NT$500,000 and not greater than NT$1,500,000."
 		},
 		{
 			"number": 4400,
