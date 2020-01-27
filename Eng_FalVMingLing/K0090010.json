@@ -4,90 +4,48 @@
 	"english": "Regulations of Airworthiness and Maintenance Management for Aviation Products, Appliances and Parts",
 	"title": "航空產品與其各項裝備及零組件適航維修管理規則",
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0090010",
-	"englishUpdate": "20151202",
+	"englishUpdate": "20191016",
 	"attachments": [
 		{
 			"name": "檔案名稱",
 			"children": [
-				"Attachment 1.PDF"
+				"Attachment 1.odt"
 			]
 		},
 		{
 			"name": "檔案名稱",
 			"children": [
-				"Attachment 1.doc"
+				"Attachment 2.odt"
 			]
 		},
 		{
 			"name": "檔案名稱",
 			"children": [
-				"Attachment 2.PDF"
+				"Attachment 3.odt"
 			]
 		},
 		{
 			"name": "檔案名稱",
 			"children": [
-				"Attachment 2.doc"
+				"Attachment 4.odt"
 			]
 		},
 		{
 			"name": "檔案名稱",
 			"children": [
-				"Attachment 3.PDF"
+				"Attachment 5.odt"
 			]
 		},
 		{
 			"name": "檔案名稱",
 			"children": [
-				"Attachment 3.doc"
+				"Attachment 6.odt"
 			]
 		},
 		{
 			"name": "檔案名稱",
 			"children": [
-				"Attachment 4.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"Attachment 4.doc"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"Attachment 5.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"Attachment 5.doc"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"Attachment 6.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"Attachment 6.doc"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"Attachment 7.PDF"
-			]
-		},
-		{
-			"name": "檔案名稱",
-			"children": [
-				"Attachment 7.doc"
+				"Attachment 7.odt"
 			]
 		}
 	],
@@ -103,7 +61,8 @@
 		"Addition of Article 8-1 promulgated on March 16, 2006.",
 		"Amendment to Articles 29-1 promulgated on August 28, 2007.",
 		"Re-edited all articles and promulgated on August 14 2008",
-		"Amendment Articles 1, 14, 26 and Attachment 1, Attachment 3 on December 2 2015. (Original name: Regulations for Aircraft Airworthiness Certification and Maintenance Management)"
+		"Amendment Articles 1, 14, 26 and Attachment 1, Attachment 3 on December 2 2015. (Original name: Regulations for Aircraft Airworthiness Certification and Maintenance Management)",
+		"Amendment to Articles 3, 6, 8, 9, 10, 11, 20, 22 and 28, deletion of Article 29 promulgated on October 16, 2019."
 	],
 	"divisions": [
 		{
@@ -123,7 +82,7 @@
 				{
 					"type": "section",
 					"number": 100,
-					"title": "Provisions to perform, record, and signature during maintenance, preventive maintenance or rebuilding",
+					"title": "Rules concerning certification and recording for maintenance, preventive maintenance, rebuilding or alteration",
 					"start": 300,
 					"end": 1200
 				},
@@ -153,7 +112,7 @@
 		{
 			"type": "chapter",
 			"number": 300,
-			"title": "Supplementary  Provisions",
+			"title": "Supplementary Provisions",
 			"start": 2900,
 			"end": 3000
 		}
@@ -169,7 +128,7 @@
 		},
 		{
 			"number": 300,
-			"content": "Persons authorized to perform or approval for return to service after maintenance, preventive maintenance, rebuilding, and alterations shall comply with provisions in Attachment 1.\r\nThose items, the performance of which is a major alteration, a major repair, or preventive maintenance, as listed in Attachment 2."
+			"content": "Persons authorized to perform or approval for return to service after maintenance, preventive maintenance, rebuilding, or alteration shall comply with provisions in Attachment 1.\r\nThose items, the performance of which is a major alteration, a major repair, or preventive maintenance, as listed in Attachment 2."
 		},
 		{
 			"number": 400,
@@ -181,7 +140,7 @@
 		},
 		{
 			"number": 600,
-			"content": "Each person who maintains, performs preventive maintenance, rebuilding, or alters an aircraft, its powerplant, propeller, component or part shall make an entry in the maintenance record of that equipment containing the following information:\r\n1.A description of work performed and reference to data acceptable to CAA.\r\n2.The date of completion of the work performed.\r\n3.The name of the person performing the work.\r\n4.If the work performed satisfactorily, the signature, certificate number, and kind of certificate held by the person approving the work.\r\nUpon completing major repair or major alteration, signature of authorized person shall be entered on a form（as Attachment 3）, and the form disposed of, in the manner prescribed in Attachment 4.\r\nEach holder of Civil Air Transport Enterprise and General Aviation that is required by its approved operations specifications and maintenance program shall make a record of the maintenance, preventive maintenance, rebuilding, on aircraft, its powerplant, propeller, component or part which it operates in accordance with the applicable provisions of Aircraft Flight Operation Regulations, as appropriate."
+			"content": "Each person who performs maintenance, preventive maintenance, rebuilding, or alteration of an aircraft, its powerplant, propeller, component or part shall make an entry in the maintenance record of that equipment containing the following information:\r\n1. A description of work performed and reference to data acceptable to CAA.\r\n2. The date of completion of the work performed.\r\n3. The name of the person performing the work.\r\n4. If the work performed satisfactorily, the signature, certificate number, and kind of certificate held by the person approving the work.\r\nUpon completing major repair or major alteration, signature of authorized person shall be entered on a form（as Attachment 3）, and the form disposed of, in the manner prescribed in Attachment 4.\r\nEach holder of Civil Air Transport Enterprise and General Aviation that is required by its approved operations specifications and maintenance program shall make a record of the maintenance, preventive maintenance, rebuilding, or alteration on aircraft, its powerplant, propeller, component or part which it operates in accordance with the applicable provisions of Aircraft Flight Operation Regulations, as appropriate."
 		},
 		{
 			"number": 700,
@@ -189,19 +148,19 @@
 		},
 		{
 			"number": 800,
-			"content": "No person may approve for return to service of any aircraft, its powerplant, propeller, component or part that has undergone maintenance, preventive maintenance rebuilding unless:\r\n1.The maintenance record entry required by Article 6 and 7, as appropriate, has been made;\r\n2.The major repair or major alteration form furnished by CAA has been executed in a manner prescribed by the CAA;\r\n3.If a repair or an alteration results in any change in the aircraft operating limitations or flight data contained in the aircraft flight manual, those operating limitations or flight data are appropriately revised and approved or accepted by CAA.\r\nWhen the Powerplant, propeller, component or part has undergone maintenance, preventive maintenance or rebuilding, an Authorized Release Certificate or a form accepted by CAA shall be filed out by authorized person as an evidence of airworthiness approval for return to service."
+			"content": "No person may approve for return to service of any aircraft, its powerplant, propeller, component or part that has undergone maintenance, preventive maintenance, rebuilding or alteration unless:\r\n1. The maintenance record entry required by Article 6 and 7, as appropriate, has been made;\r\n2. The major repair or major alteration form furnished by CAA has been executed in a manner prescribed by the CAA;\r\n3. If a repair or an alteration results in any change in the aircraft operating limitations or flight data contained in the aircraft flight manual, those operating limitations or flight data are appropriately revised and approved or accepted by CAA.\r\nWhen the Powerplant, propeller, component or part has undergone maintenance, preventive maintenance, rebuilding, or alteration, an Authorized Release Certificate or a form accepted by CAA shall be filed out by authorized person as an evidence of airworthiness approval for return to service."
 		},
 		{
 			"number": 900,
-			"content": "Aircraft owner or operator may not by his own will or intentionally by his employee or contracted person, group or repair station make any fraudulent or intentionally false entry in any record when performing maintenance, inspection, repair, fabrication, alteration or other related maintenance works.\r\nIf an error was found in Maintenance record, authorized personnel shall make a correction in accordance with procedure accepted by CAA.\r\nAircraft owner or operator may establish managing procedures, upon being granted by CAA, to use electronic recording/signature system for signing and recording the maintenance record required by Article 6 to 8."
+			"content": "No person shall, either by his own will or intentionally by his employee or contracted person, group or repair station make any fraudulent or intentionally false entry in any record when performing maintenance, preventive maintenance, rebuilding or alteration work.\r\nIf an error was found in Maintenance record, authorized personnel shall make a correction in accordance with procedure accepted by CAA.\r\nAircraft owner or operator may establish managing procedures, upon being granted by CAA, to use electronic recording/signature system for signing and recording the maintenance record required by Article 6 to 8."
 		},
 		{
 			"number": 1000,
-			"content": "Each person performing maintenance, preventive maintenance or rebuilding on an aircraft, its powerplant, propeller, component or part shall use the methods, techniques, and practices prescribed in the current manufacturer's maintenance manual or Instructions for Continued Airworthiness prepared by its manufacturer, or other methods, techniques, and practices acceptable to the CAA.\r\nEach person shall use the tools, equipment, and test apparatus necessary to assure completion of the work in accordance with accepted industry practices. If special equipment or test apparatus is recommended by the manufacturer involved, he must use that equipment or apparatus or its equivalent acceptable to the CAA."
+			"content": "Each person performing maintenance, preventive maintenance, rebuilding or alteration on an aircraft, its powerplant, propeller, component or part shall use the methods, techniques, and practices prescribed in the current manufacturer's maintenance manual or Instructions for Continued Airworthiness prepared by its manufacturer, or other methods, techniques, and practices acceptable to the CAA.\r\nEach person shall use the tools, equipment, and test apparatus necessary to assure completion of the work in accordance with accepted industry practices. If special equipment or test apparatus is recommended by the manufacturer involved, he must use that equipment or apparatus or its equivalent acceptable to the CAA."
 		},
 		{
 			"number": 1100,
-			"content": "Each person maintaining, performing preventive maintenance, or rebuilding shall do that work in such a manner and use materials of such a quality, that the condition of the aircraft, its powerplant, propeller, component or part worked on will be at least equal to its original or properly altered condition.\r\nThe aforementioned ‘equal to its original or properly altered condition ‘means with regard to aerodynamic function, structural strength, resistance to vibration and deterioration, and other qualities affecting airworthiness."
+			"content": "Each person performing maintenance, preventive maintenance, rebuilding or alteration shall do that work in such a manner and use materials of such a quality, that the condition of the aircraft, its powerplant, propeller, component or part worked on will be at least equal to its original or properly altered condition.\r\nThe aforementioned ‘equal to its original or properly altered condition ‘means with regard to aerodynamic function, structural strength, resistance to vibration and deterioration, and other qualities affecting airworthiness."
 		},
 		{
 			"number": 1200,
@@ -237,7 +196,7 @@
 		},
 		{
 			"number": 2000,
-			"content": "It is required that aircraft must be weighed for basic weight and balance once every two year. Because of special circumstance when approved by the CAA, the weighing schedule may be extended but in no circumstance to exceed 4 years.\r\nUpon changes to the accumulation of basic operating weight of the aeroplane more than 0.5 percent of maximum landing weight or shifting of center of gravity more than 0.5 percent of mean aerodynamic chord, the aircraft shall be weighted.\r\nIf found center of gravity or weight of the aircraft is changed after weighing,  its weight and balance sheet and manual shall be revised and submit to CAA for approval."
+			"content": "It is required that aircraft must be weighed for basic weight and balance once every three years. Because of special circumstance when approved by the CAA, the weighing schedule may be extended but in no circumstance to exceed 4 years.\r\nUpon changes to the accumulation of basic operating weight of the aeroplane more than 0.5 percent of maximum landing weight or shifting of center of gravity more than 0.5 percent of mean aerodynamic chord, the aircraft shall be weighted.\r\nIf found center of gravity or weight of the aircraft is changed after weighing, its weight and balance sheet and manual shall be revised and submit to CAA for approval."
 		},
 		{
 			"number": 2100,
@@ -245,7 +204,7 @@
 		},
 		{
 			"number": 2200,
-			"content": "When performing maintenance, preventive maintenance, rebuilding or fabrication to aircraft, its powerplant, propeller, component or part, Aircraft owner or operator shall not use the part which might not properly maintained, un-repairable or bogus part announced by manufacturer or the aviation authorities."
+			"content": "When performing maintenance, preventive maintenance, rebuilding, alteration or configuration to aircraft, its powerplant, propeller, component or part, Aircraft owner or operator shall not use the part which might not properly maintained, un-repairable or bogus part announced by manufacturer or the aviation authorities."
 		},
 		{
 			"number": 2300,
@@ -269,11 +228,11 @@
 		},
 		{
 			"number": 2800,
-			"content": "The own or operator shall comply the instructions of Airworthiness Directives issued by CAA or authority of State of Design and take any necessary action.\r\nThe own or operator may use an alternate mean to comply with requirements of Airworthiness Directives when it is approved by CAA."
+			"content": "The aircraft owner or operator shall comply with Airworthiness Directives issued by the CAA or   the aeronautics authority of the State of design of the aviation products, appliances and parts, and take all necessary action thereto.\r\nThe aircraft owner or operator may use an alternate mean to comply with requirements of Airworthiness Directives when it is approved by CAA."
 		},
 		{
 			"number": 2900,
-			"content": "Provisions for aircraft airworthiness ratings and their limitations are as provided in 06-07A Article 2 and Article 39 paragraph 2.\r\nProvisions for Application, certification, issuing, and period of validity of Certificate of Airworthiness are as provided in 06-07A Article 39, Article 41 paragraph 1 and 2, Article 42 paragraph 1 and 2, Article 43, Article 46, Article 47,and Article 48.\r\nProvisions for nullification, renewal or replacement for the lost of Certificate of Airworthiness are as provided in 06-07A Article 40 paragraph 4 and 5, Article 42 paragraph 3, Article 72 paragraph 2.\r\nProvisions for issuance fee of Certificate of Airworthiness are as provided in 06-07A Article 73.\r\nAircraft owner or operator use false record or fraudulent method to acquire a Certificate of Airworthiness, CAA shall nullify his/her Certificate."
+			"content": "(Deleted)"
 		},
 		{
 			"number": 3000,
