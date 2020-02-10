@@ -11,7 +11,36 @@
 		"Amended on March 21, 2017",
 		"Amended on Octorber 9, 2019"
 	],
-	"divisions": [],
+	"divisions": [
+		{
+			"type": "chapter",
+			"number": 100,
+			"title": "General Principles",
+			"start": 100,
+			"end": 200
+		},
+		{
+			"type": "chapter",
+			"number": 200,
+			"title": "Taxation Measures in accordance with Paragraph 1 of Article 29 of The Act",
+			"start": 300,
+			"end": 1000
+		},
+		{
+			"type": "chapter",
+			"number": 300,
+			"title": "Taxation Measures in accordance with Paragraph 2 of Article 29 of The Act",
+			"start": 1100,
+			"end": 1600
+		},
+		{
+			"type": "chapter",
+			"number": 400,
+			"title": "Supplementary Provisions",
+			"start": 1700,
+			"end": 2100
+		}
+	],
 	"articles": [
 		{
 			"number": 100,
