@@ -3,16 +3,34 @@
 	"英文法規名稱": "Regulations Governing the Consolidated Capital Adequacy of Financial Holding Companies",
 	"中文法規名稱": "金融控股公司合併資本適足性管理辦法",
 	"法規網址": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0380115",
-	"最新英文異動日期": "20150609",
+	"最新英文異動日期": "20210128",
 	"附件": [
 		{
 			"name": "檔案名稱",
 			"children": [
-				"Appendix Calculation Example.PDF"
+				"Table_1.pdf"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Table_2.pdf"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Table_3.pdf"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Appendix Calculation Example.pdf"
 			]
 		}
 	],
-	"沿革內容": "1. The full text of 7 articles promulgated by the Ministry of Finance Order Tai-Tsai-Rong (1) Zi-0901000176 on October 31, 2001.\r\n2. The full amended text of 8 articles promulgated by the Ministry of Finance on November 25, 2003 per Order Ref. No. (2001) Tai-Tsai- Rong-(1)-Zi-0921000743, which took effect on the date of promulgation.\r\n3. Article 2, 3 and 6 amended and promulgated by Financial Supervisory Commission, Executive Yuan Order Jin-Kuan-Yin-(I)-09480115200 on December 26, 2005.\r\n4. The full text of 8 articles amended and promulgated by Financial Supervisory Commission, Executive Yuan Order Jin-Kuan-Yin-(I)-09810000011 on December 31, 2008.\r\n5. The full text of 8 articles amended and promulgated by Financial Supervisory Commission Order Jin-Kuan-Yin-(I)-10100412680 on December 28, 2012.\r\n6. Article 3, 4 and 8 amended and promulgated by Financial Supervisory Commission Order Ref. No. Jin-Guan-Yin-(Fa)-10410003000 on June 9, 2015；These regulations shall take effect on the date of promulgation.",
+	"沿革內容": "1. The full text of 7 articles promulgated by the Ministry of Finance Order Tai-Tsai-Rong (1) Zi-0901000176 on October 31, 2001.\r\n2. The full amended text of 8 articles promulgated by the Ministry of Finance on November 25, 2003 per Order Ref. No. (2001) Tai-Tsai- Rong-(1)-Zi-0921000743, which took effect on the date of promulgation.\r\n3. Article 2, 3 and 6 amended and promulgated by Financial Supervisory Commission, Executive Yuan Order Jin-Kuan-Yin-(I)-09480115200 on December 26, 2005.\r\n4. The full text of 8 articles amended and promulgated by Financial Supervisory Commission, Executive Yuan Order Jin-Kuan-Yin-(I)-09810000011 on December 31, 2008.\r\n5. The full text of 8 articles amended and promulgated by Financial Supervisory Commission Order Jin-Kuan-Yin-(I)-10100412680 on December 28, 2012.\r\n6. Article 3, 4 and 8 amended and promulgated by Financial Supervisory Commission Order Ref. No. Jin-Guan-Yin-(Fa)-10410003000 on June 9, 2015；These regulations shall take effect on the date of promulgation.\r\n7. Article 8, and table 3 of article 5 are amended and promulgated, and article 4-1 are added by Financial Supervisory Commission Order Ref. No. Jin-Guan-Yin-(FA) 1090740521 on January 28, 2021, which shall take effect on the date of promulgation.",
 	"法規內容": [
 		{
 			"條號": "Article 1",
@@ -31,8 +49,12 @@
 			"條文內容": "The group's net eligible capital is the balance of the group's total eligible capital after subtracting the following amounts:\r\n1.The book amount of a financial holding company's investment in its subsidiaries' equity and other eligible capital that may be added to its capital after subtracting the decreased amount;\r\n2.The capital surplus of those subsidiaries whose eligible capital and statutory capital requirement are calculated in the same manner as that for trust enterprises, futures enterprises, venture capitals and financial leasing companies;\r\n3.One half of the capital surplus from subordinated debts (excluding debts that meet the criteria for Additional Tier 1 Capital set forth in Article 8 of Regulations Governing the Capital Adequacy and Capital Category of Banks and do not exceed the statutory limit) of those subsidiaries whose eligible capital is calculated in the same manner as that for banks or bills finance companies after making up for other capital deficits of the bank or bills finance company; and\r\n4.One half of the capital surplus from debt capital (excluding debts that meet the criteria for Additional Tier 1 Capital set forth in Article 8 of Regulations Governing the Capital Adequacy and Capital Category of Banks) of those subsidiaries whose equity capital is calculated in the same manner as that for insurance companies after making up for other capital deficits of the insurance company.\r\nThe book amount of investment depicted in the preceding paragraph that is already subtracted from the group's total eligible capital shall not be added to the group's statutory capital requirement."
 		},
 		{
+			"條號": "Article 4-1",
+			"條文內容": "The common stocks, preferred stocks, and subordinated debts issued by a financial holding company shall be deemed not issuing when calculating the eligible capital of the financial holding company if the following circumstances occur:\r\n1. The financial holding company has significant  influence to whom owns such capital instruments.\r\n2. The subsidiaries of the financial holding company own such capital instruments.\r\nExcept for the circumstances described in the preceding paragraph, common stocks, preferred stocks, and subordinated debts issued by a financial holding company whose  actual effect as eligible capital of the financial holding company is impaired shall be presumed to be a non-eligible capital when calculating the eligible capital of the financial holding company."
+		},
+		{
 			"條號": "Article 5",
-			"條文內容": "A financial holding company shall prepare a capital adequacy report using the calculation methods and forms promulgated by the competent authority and file the same with the competent authority in accordance with the following provisions:\r\n1.In three (3) months after the end of each fiscal year, file the group's accountant-examined capital adequacy report and attach relevant documents.\r\n2.In two (2) months after the end of each half fiscal year, file the group's accountant-examined capital adequacy report and attach relevant documents.\r\n3.In two (2) months after the end of each half and each fiscal year, file the group's capital adequacy related information in accordance with the requirements set forth by the competent authority for online filing by financial holding companies.\r\nIf deemed necessary, the competent authority may order a financial holding company to submit a report on its group capital adequacy ratio along with relevant information at any time."
+			"條文內容": "A financial holding company shall prepare a capital adequacy report using the calculation methods and forms promulgated by the competent authority and file the same with the competent authority in accordance with the following provisions:\r\n1. In three (3) months after the end of each fiscal year, file the group's accountant-examined capital adequacy report and attach relevant documents.\r\n2. In two (2) months after the end of each half fiscal year, file the group's accountant-examined capital adequacy report and attach relevant documents.\r\n3. In two (2) months after the end of each half and each fiscal year, file the group's capital adequacy related information in accordance with the requirements set forth by the competent authority for online filing by financial holding companies.\r\nIf deemed necessary, the competent authority may order a financial holding company to submit a report on its group capital adequacy ratio along with relevant information at any time."
 		},
 		{
 			"條號": "Article 6",
@@ -44,7 +66,7 @@
 		},
 		{
 			"條號": "Article 8",
-			"條文內容": "These Regulations shall become effective from January 1, 2013.\r\nThese Regulations amended and promulgated on June 9, 2015 shall take effect on the date of promulgation."
+			"條文內容": "These Regulations shall become effective from January 1, 2013.\r\nThese Regulations amended and promulgated on June 9, 2015 and January 28, 2021 shall take effect on the date of promulgation."
 		}
 	]
 }

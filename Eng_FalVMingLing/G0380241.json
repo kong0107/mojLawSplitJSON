@@ -3,8 +3,8 @@
 	"英文法規名稱": "Regulations Governing the Dedicated Deposit Account of Electronic Payment Institutions",
 	"中文法規名稱": "電子支付機構專用存款帳戶管理辦法",
 	"法規網址": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0380241",
-	"最新英文異動日期": "20150427",
-	"沿革內容": "1.Promulgated on April 27, 2015",
+	"最新英文異動日期": "20200224",
+	"沿革內容": "1.Promulgated on April 27, 2015\r\n2.Articles 6, 11, 14, 16, 18, 19, 24, 27, 33, and 34 amended and issued on February 24, 2020",
 	"法規內容": [
 		{
 			"編章節": "Chapter 1 General Provisions"
@@ -34,7 +34,7 @@
 		},
 		{
 			"條號": "Article 6",
-			"條文內容": "An electronic payment institution or trustee bank shall open a dedicated deposit account with a bank organized and registered in accordance with the Banking Act. However a cooperative account may be opened with Chunghwa Post Co., Ltd.."
+			"條文內容": "An electronic payment institution or trustee bank shall open a dedicated deposit account with a bank organized and registered in accordance with the Banking Act.However, a cooperative account may be opened with Chunghwa Post Co., Ltd., a credit cooperative, or the Agricultural Bank of Taiwan."
 		},
 		{
 			"條號": "Article 7",
@@ -54,7 +54,7 @@
 		},
 		{
 			"條號": "Article 11",
-			"條文內容": "An electronic payment institution or trustee bank shall prepare the following documents when applying to a managing bank to open a managed account:\r\n1. Business license issued to the electronic payment institution by the competent authority; and\r\n2. Other necessary documents required by the managing bank for opening an account.\r\nAn electronic payment institution or trustee bank shall prepare the following documents when applying to a cooperative bank to open a cooperative account:\r\n1. Business license issued to the electronic payment institution by the competent authority;\r\n2. A document evidencing the signing of agreement between the electronic payment institution and a managing bank; and\r\n3. Other necessary documents required by the cooperative bank for opening an account.\r\nThe document referred to Subparagraph 2 of the preceding paragraph shall be issued by the managing bank, which shall contain a clause on situations constituting a material breach."
+			"條文內容": "An electronic payment institution or trustee bank shall prepare the following documents when applying to a managing bank to open a managed account:\r\n1. Business license or permit issued to the electronic payment institution by the competent authority; and\r\n2. Other necessary documents required by the managing bank for opening an account.\r\nAn electronic payment institution or trustee bank shall prepare the following documents when applying to a cooperative bank to open a cooperative account:\r\n1. Business license or permit issued to the electronic payment institution by the competent authority;\r\n2. A document evidencing the signing of agreement between the electronic payment institution and a managing bank; and\r\n3. Other necessary documents required by the cooperative bank for opening an account.\r\nThe document referred to Subparagraph 2 of the preceding paragraph shall be issued by the managing bank, which shall contain a clause on situations constituting a material breach."
 		},
 		{
 			"條號": "Article 12",
@@ -62,22 +62,22 @@
 		},
 		{
 			"條號": "Article 13",
-			"條文內容": "The name of a dedicated deposit account should contain the wording \"dedicated deposit managed account\", \"dedicated deposit cooperative account\", \"trust property dedicated deposit managed account\" or \"trust property dedicated deposit cooperative account\", and includes the name of the electronic payment  institution."
+			"條文內容": "The name of a dedicated deposit account should contain the wording \"dedicated deposit managed account\", \"dedicated deposit cooperative account\", \"trust property dedicated deposit managed account\" or \"trust property dedicated deposit cooperative account\", and includes the name of the electronic payment institution."
 		},
 		{
 			"條號": "Article 14",
-			"條文內容": "An electronic payment institution shall, within 5 business days after opening a managed account, income set-aside account or own fund account, submit information on the managing bank and account type, name and number to the competent authority for reference; the preceding provision applies when an electronic payment institution adds, closes or changes an account mentioned above.\r\nAn electronic payment institution shall, within 5 business days after opening a cooperative account, submit information on the cooperative bank and account type, name and number to the competent authority for reference with a copy of same sent to the managing bank; the preceding provision applies when an electronic payment institution adds, closes or changes an account mentioned above."
+			"條文內容": "An electronic payment institution shall, within 5 business days after opening a managed account, income set-aside account or own fund account, submit information on the managing bank and account type, name and number through the online reporting system to the competent authority for reference; the preceding provision applies when an electronic payment institution adds, closes or changes an account mentioned above.\r\nAn electronic payment institution shall, within 5 business days after opening a cooperative account, submit information on the cooperative bank and account type, name and number through the online reporting system to the competent authority for reference with a copy of same sent to the managing bank; the preceding provision applies when an electronic payment institution adds, closes or changes an account mentioned above."
 		},
 		{
 			"條號": "Article 15",
-			"條文內容": "When an electronic payment institution or trustee bank has any of the following situations, it should close its dedicated deposit account:\r\n1. Ordered, approved or designated by the competent authority to transfer its business or have its business assumed by another electronic payment institution pursuant to Article 37 of the Act.\r\n2. The electronic payment institution replaces its dedicated deposit account bank or its contractual relationship with its dedicated deposit account bank ceases to exist.\r\nWhen an electronic payment institution or trustee bank closes a dedicated deposit account pursuant to Subparagraph 1 of the preceding paragraph, it shall present the written order, approval or designation of the competent authority.\r\nWhen an electronic payment institution or trustee bank closes a managed account, it shall closes its income set-aside account simultaneously."
+			"條文內容": "When an electronic payment institution or trustee bank has any of the following situations, it should close its dedicated deposit account:\r\n1. Ordered, approved or designated by the competent authority to transfer its business or have its business assumed by another electronic payment institution pursuant to Article 37 of the Act.\r\n2. The electronic payment institution replaces its dedicated deposit account bank or its contractual relationship with its dedicated deposit account bank ceases to exist.\r\nWhen an electronic payment institution or trustee bank closes a dedicated deposit account pursuant to Subparagraph 1 of the preceding paragraph, it shall present the written order, approval or designation of the competent authority.\r\nWhen an electronic payment institution or trustee bank closes a managed account, it shall close its income set-aside account simultaneously."
 		},
 		{
 			"編章節": "Chapter 3 Management and Operation of Dedicated Deposit Account"
 		},
 		{
 			"條號": "Article 16",
-			"條文內容": "When an electronic payment institution receives funds from a user, it shall accurately record the amount in the user's e-payment account and deposit the funds into its dedicated deposit account of the same currency opened with a dedicated deposit account bank by distinguishing between funds received as an agent and stored value funds.\r\nAn electronic payment institution shall separate the deposits and management of funds received from users from its own funds and income set-aside funds."
+			"條文內容": "When an electronic payment institution receives funds from a user, it shall accurately record the amount in the user's e-payment account and deposit the funds into its dedicated deposit account of the same currency opened with a dedicated deposit account bank.\r\nAn electronic payment institution shall separate the deposits and management of funds received from users from its own funds and income set-aside funds."
 		},
 		{
 			"條號": "Article 17",
@@ -85,11 +85,11 @@
 		},
 		{
 			"條號": "Article 18",
-			"條文內容": "Electronic payment institutions shall deposit funds collected as an agent that are recorded daily in users' e-payment accounts into the dedicated deposit account no later than the next banking day.\r\nThe daily balance of funds collected by an electronic payment institution as an agent and deposited with a managing bank shall not be less than 50% of the total balance of funds collected as an agent in all dedicated deposit accounts in the previous banking day; if there is any shortfall, the electronic payment institution shall make up the shortfall on the same day."
+			"條文內容": "Electronic payment institutions shall deposit funds received/paid as an agent that are recorded daily in users' e-payment accounts into the dedicated deposit account no later than the next banking day.\r\nThe daily balance of funds received/paid by an electronic payment institution as an agent and deposited with a managing bank shall not be less than 50% of the total balance of funds received/paid as an agent in all dedicated deposit accounts in the previous banking day; if there is any shortfall, the electronic payment institution shall make up the shortfall on the same day.\r\nWhere the electronic payment institutions place the funds received from users in a trust according to Paragraph 1, Article 20 of the Act, and enter an agreement with the managing bank regarding the proportion of the funds received/paid on behalf of the electronic payment institutions to be deposited into the managed account and cooperative account, the preceding paragraph should not be applicable."
 		},
 		{
 			"條號": "Article 19",
-			"條文內容": "Electronic payment institutions shall deposit all stored value funds that are recorded daily in users' e-payment accounts into the managed account on the next banking day."
+			"條文內容": "Electronic payment institutions shall deposit all stored value funds that are recorded daily in users' e-payment accounts into the managed account on the next banking day.\r\nWhere the electronic payment institutions place the funds received from users in a trust according to Paragraph 1, Article 20 of the Act, and enter an agreement with the managing bank regarding the proportion of the stored value funds to be deposited into the managed account and cooperative account, the preceding paragraph should not be applicable."
 		},
 		{
 			"條號": "Article 20",
@@ -97,7 +97,7 @@
 		},
 		{
 			"條號": "Article 21",
-			"條文內容": "Funds made up by an electronic payment institution in accordance with Paragraph 7, Article 21 of the Act shall be deposited into the managed account.\r\nWhen an electronic payment institution settles the stored funds utilized for investment in accordance with the subparagraphs of Paragraph 3, Article 21 of the Act, the institution should deposit the balance of originally invested storedfunds less the make-up amount provided in the preceding paragraph into the managed account."
+			"條文內容": "Funds made up by an electronic payment institution in accordance with Paragraph 7, Article 21 of the Act shall be deposited into the managed account.\r\nWhen an electronic payment institution settles the stored funds utilized for investment in accordance with the subparagraphs of Paragraph 3, Article 21 of the Act, the institution should deposit the balance of originally invested stored funds less the make-up amount provided in the preceding paragraph into the managed account."
 		},
 		{
 			"條號": "Article 22",
@@ -109,7 +109,7 @@
 		},
 		{
 			"條號": "Article 24",
-			"條文內容": "An electronic payment institution may instruct its managing bank to make payment via intrabank or interbank account transfer through the managed account, or by transferring funds from the managed account into a cooperative account.\r\nAn electronic payment institution may instruct its cooperative bank to make payment via intrabank account transfer through the cooperative account, or by transferring funds from the cooperative account into the managed account."
+			"條文內容": "An electronic payment institution may instruct its managing bank to make payment via intrabank or interbank account transfer through the managed account, or by transferring funds from the managed account into a cooperative account.\r\nAn electronic payment institution may instruct its cooperative bank to make payment via intrabank account transfer through the cooperative account, or by transferring funds from the cooperative account into the managed account. Electronic payment institutions that place the funds received from users in a trust according to Paragraph 1, Article 20 of the Act must also meet the following regulations :\r\n1. The managing bank shall enter an agreement with the cooperative banks to agree on the rights, obligations and responsibilities of the parties.\r\n2. The managing bank may inquire the operations of the business with the electronic payment institution at any time.\r\n3. The electronic payment institution must provide related information or statements to the managing bank for account reconciliation for the funds received from users."
 		},
 		{
 			"條號": "Article 25",
@@ -121,7 +121,7 @@
 		},
 		{
 			"條號": "Article 27",
-			"條文內容": "Electronic payment institutions should establish an account reconciliation mechanism with their managing bank via online inquiry or system linkup, and check the balance of funds received from users, balance in each cooperative account, and balance of payments in transit with the managing bank every banking day by distinguishing funds received/paid as an agent and stored value funds, and retain the reconciliation records for at least 5 years.\r\nThe time of the balances provided in the preceding paragraph shall be at 23:59:59 every day.\r\nElectronic payment institution shall compile the balance of each dedicated deposit account and data required of reporting by the competent authority every month, and report same to the managing bank within the first 5 banking days of the following month.\r\nWhere an electronic payment institution is unable to provide reasonable explanation or show proof for the results of reconciliation conducted by the managing bank according to Paragraph 1 hereof, the electronic payment institution shall, within the next banking day following the receipt of a notice from the managing bank, make up the shortfall as requested by the managing bank."
+			"條文內容": "Electronic payment institutions should establish an account reconciliation mechanism with their managing bank via online inquiry or system linkup, and check the balance of funds received from users, balance in each cooperative account, and balance of payments in transit with the managing bank every banking day by distinguishing funds received/paid as an agent and stored value funds, and retain the reconciliation records for at least 5 years.\r\nThe time of the balances provided in the preceding paragraph shall be at 23:59:59 every day.\r\nThe account reconciliation mechanism for the funds received from users specified in Paragraph 1 shall be completed by the electronic payment institution which shall open inquiry functions in the information system for the managing bank to conduct account reconciliation at any time. The scope of the account reconciliation shall at least include the following items:\r\n1. Funds received/paid as an agent.\r\n2. Stored value funds.\r\n3. Payments in transit.\r\n4. Funds withdrawn.\r\nElectronic payment institution shall compile the balance of each dedicated deposit account and data required of reporting by the competent authority every month, and report same to the managing bank within the first 5 banking days of the following month.\r\nWhere an electronic payment institution is unable to provide reasonable explanation or show proof for the results of reconciliation conducted by the managing bank according to Paragraph 1 hereof, the electronic payment institution shall, within the next banking day following the receipt of a notice from the managing bank, make up the shortfall as requested by the managing bank."
 		},
 		{
 			"條號": "Article 28",
@@ -132,7 +132,7 @@
 		},
 		{
 			"條號": "Article 29",
-			"條文內容": "A managing bank shall manage the deposit, transfer, drawing and utilization of funds received from users according to the following provisions:\r\n1. On every banking day, check the consistency and reasonableness of balance of all dedicated deposit accounts and total balance of funds received from users and retain the checking records; if any abnormality is found, conduct necessary investigation and take necessary actions;\r\n2. On every banking day, check to see whether the balance of funds collected/paid as an agent and that of stored value funds comply with the provisions of Article 18 and Article 19 herein;\r\n3. Check the document presented by the electronic payment institution that it has declared trust funds received from users in full or obtained full performance guarantee therefor from a bank in accordance with Paragraph 1, Article 20 of the Act;\r\n4. Check to see whether the electronic payment institution utilizes the stored funds in accordance with Paragraph 3, Article 21 of the Act and by the percentages stipulated by the competent authority;\r\n5. Check to see whether the electronic payment institution has made up the shortfall in accordance with Article 21 herein;\r\n6. Check to see whether the deposit of interest or other income earned from the utilization of funds received from users into the income set-aside account by the electronic payment institution complies with Article 22 herein; and\r\n7. Compile and check the balance and relevant data of all dedicated deposit accounts every quarter, and submit a report thereon to the competent authority for reference within 15 days after the end of every quarter."
+			"條文內容": "A managing bank shall manage the deposit, transfer, drawing and utilization of funds received from users according to the following provisions:\r\n1. On every banking day, check the consistency and reasonableness of balance of all dedicated deposit accounts and total balance of funds received from users and retain the checking records; if any abnormality is found, conduct necessary investigation and take necessary actions;\r\n2. On every banking day, check to see whether the balance of funds received/paid as an agent and that of stored value funds comply with the provisions of Article 18 and Article 19 herein;\r\n3. Check the document presented by the electronic payment institution that it has declared trust funds received from users in full or obtained full performance guarantee therefor from a bank in accordance with Paragraph 1, Article 20 of the Act;\r\n4. Check to see whether the electronic payment institution utilizes the stored funds in accordance with Paragraph 3, Article 21 of the Act and by the percentages stipulated by the competent authority;\r\n5. Check to see whether the electronic payment institution has made up the shortfall in accordance with Article 21 herein;\r\n6. Check to see whether the deposit of interest or other income earned from the utilization of funds received from users into the income set-aside account by the electronic payment institution complies with Article 22 herein; and\r\n7. Compile and check the balance and relevant data of all dedicated deposit accounts every quarter, and submit a report thereon to the competent authority for reference within 15 days after the end of every quarter."
 		},
 		{
 			"條號": "Article 30",
@@ -151,11 +151,11 @@
 		},
 		{
 			"條號": "Article 33",
-			"條文內容": "These Regulations shall apply mutatis mutandis to the restrictions on opening of dedicated deposit account, management and operations, and other matter of compliance for specialized electronic payment institutions as well as electronic stored value card issuers and data processing service providers engaging concurrently in electronic payment business that have been approved by the competent authority to cooperate with or assist foreign institutions to engage in activities associated with electronic payment business within the territory of the ROC in accordance with the regulations set forth pursuant to Paragraph 3, Article 14 of the Act.\r\nDedicated deposit accounts opened by a specialized electronic payment institution or an electronic stored value card issuer engaging concurrently in electronic payment business for purposes according to the preceding paragraph shall be separated and independent from its dedicated deposit accounts opened for other electronic payment businesses it engages in."
+			"條文內容": "These Regulations shall apply mutatis mutandis to the restrictions on opening of dedicated deposit account, management and operations, and other matter of compliance for specialized electronic payment institutions as well as electronic stored value card issuers and data processing service providers engaging concurrently in electronic payment business that have been approved by the competent authority to cooperate with or assist foreign institutions to engage in activities associated with electronic payment business within the territory of the ROC in accordance with the regulations set forth pursuant to Paragraph 3, Article 14 of the Act.\r\nDedicated deposit accounts opened by a specialized electronic paymentinstitution or an electronic stored value card issuer engaging concurrently in electronic payment business for purposes according to the preceding paragraph maybe separated and independent from its dedicated deposit accounts opened for other electronic payment businesses it engages in."
 		},
 		{
 			"條號": "Article 34",
-			"條文內容": "These Regulations shall be in force on May 3, 2015."
+			"條文內容": "These Regulations shall be in force on May 3, 2015.\r\nThe amendment of the Regulations is effective from the date of promulgation."
 		}
 	]
 }

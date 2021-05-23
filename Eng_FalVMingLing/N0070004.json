@@ -3,8 +3,8 @@
 	"英文法規名稱": "Enforcement Rules of the Labor Inspection Act",
 	"中文法規名稱": "勞動檢查法施行細則",
 	"法規網址": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=N0070004",
-	"最新英文異動日期": "20140626",
-	"沿革內容": "1. Promulgated by the Order of Council Of Labor Affairs Executive Yuan No. 049039 on August 25, 1993\r\n2. Amended and Promulgated Articles 26,27,28 and 29 of the Enforcement rules by the Order of Council Of Labor Affairs, Executive Yuan.No. 014429 on April 16,1997\r\n3. Amended and Promulgated Articles 40 of the Enforcement rules by the Order of Council Of Labor Affairs, Executive Yuan. No. 0001554 on January 11, 2001\r\n4. Amended and Promulgated Articles 26, 28 , 29 and 27-1 of the Enforcement rules by the Order of Council Of Labor Affairs, Executive Yuan No. 0910011571 on March 20, 2002\r\n5. Amended and Promulgated Articles 32 of the Enforcement rules by the Order of the Council of Labor Affairs, Executive Yuan No. 0910068913 on December 31, 2002\r\n6.Fifth amendment promulgated by Ministry of Labor, Lao-zhi shou-tzu No. 10302006761 on June 26, 2014.",
+	"最新英文異動日期": "20200926",
+	"沿革內容": "1. Promulgated by the Order of Council Of Labor Affairs Executive Yuan No. 049039 on August 25, 1993\r\n2. Amended and Promulgated Articles 26,27,28 and 29 of the Enforcement rules by the Order of Council Of Labor Affairs, Executive Yuan.No. 014429 on April 16,1997\r\n3. Amended and Promulgated Articles 40 of the Enforcement rules by the Order of Council Of Labor Affairs, Executive Yuan. No. 0001554 on January 11, 2001\r\n4. Amended and Promulgated Articles 26, 28 , 29 and 27-1 of the Enforcement rules by the Order of Council Of Labor Affairs, Executive Yuan No. 0910011571 on March 20, 2002\r\n5. Amended and Promulgated Articles 32 of the Enforcement rules by the Order of the Council of Labor Affairs, Executive Yuan No. 0910068913 on December 31, 2002\r\n6. Fifth amendment promulgated by Ministry of Labor, Lao-zhi shou-tzu No. 10302006761 on June 26, 2014.\r\n7. Amended and Promulgated Articles 4, 7, 18, 24, 34, 39,and 29 table2 of the Enforcement rules by Ministry of Labor, Lao-zhi shou-tzu No. 1090203938 on Septemper 26, 2020.",
 	"法規內容": [
 		{
 			"編章節": "Chapter 1 General Provisions"
@@ -26,7 +26,7 @@
 		},
 		{
 			"條號": "Article 4",
-			"條文內容": "Related agencies referred to in Article 5 Paragraph 1 of the Act mean the Export Processing Zone Administration of the Ministry of Economic Affairs, Science Park Bureaus of the Ministry of Science and Technology, and other agencies authorized by the central competent authority to handle labor inspection."
+			"條文內容": "Related agencies referred to in Article 5 Paragraph 1 of the Act mean the Export Processing Zone Administration of the Ministry of Economic Affairs, Science Park Bureaus of the Ministry of Science and Technology, and other agencies authorized by the central competent authority to handle labor inspections."
 		},
 		{
 			"條號": "Article 5",
@@ -38,7 +38,7 @@
 		},
 		{
 			"條號": "Article 7",
-			"條文內容": "Labor inspection agencies may, in accordance with Article 7 of the Act, request organizations in concern to supply labor inspection information, including names of the business entity, names of the employer, addresses, telephone numbers, number of workers and other related information."
+			"條文內容": "Labor inspection agencies may, in accordance with Article 7 Paragraph 1 of the Act, request concerned organizations to supply labor inspection information, including names of the business entity, names of the employer, addresses, telephone numbers, number of workers and other related information.\r\nThe central competent authority in accordance with Article 7 Paragraph 3 of the Act shall publish the annual statistical report of labor inspection of the previous year in the third quarter of each year."
 		},
 		{
 			"編章節": "Chapter 3 Labor Inspectors"
@@ -88,7 +88,7 @@
 		},
 		{
 			"條號": "Article 18",
-			"條文內容": "Authorized inspection agencies designated in accordance with Article 17 of the Act that are administrative agencies or public agencies are limited to the inspection scope of dangerous machinery and equipment owned by their subsidiaries."
+			"條文內容": "Authorized inspection agencies designated in accordance with Article 17 of the Act that are administrative agencies are limited to the inspection scope of dangerous machinery and equipment owned by their subsidiaries."
 		},
 		{
 			"編章節": "Chapter 5 Inspection Procedures"
@@ -115,7 +115,7 @@
 		},
 		{
 			"條號": "Article 24",
-			"條文內容": "Workplaces referred to in Article 26 of the Act mean for the duration of the labor contract when laborers carry out work services to fulfill the terms of the contract, places where the person who accepts the employer or the interim employer’s direction to handle related laborer affairs can direct and manage."
+			"條文內容": "Workplaces referred to in Article 26 to 28 of the Act mean for the duration of the labor contract when laborers carry out work services to fulfill the terms of the contract, places where the person who accepts the employer or the interim employer’s direction to handle related laborer affairs can direct and manage."
 		},
 		{
 			"條號": "Article 25",
@@ -159,7 +159,7 @@
 		},
 		{
 			"條號": "Article 34",
-			"條文內容": "The written shutdown notification specified in Articles 27 to 29 of the Act shall include the following information:\r\n1. The business entity who received the shutdown disposition, name of employer, and address;\r\n2. Legal basis for the shutdown;\r\n3. Reasons for the shutdown;\r\n4. The starting and ending dates of the shutdown;\r\n5. The scope of the shutdown;\r\n6. The conditions and procedures to apply for resumption of work;\r\n7. The agency enforcing the shutdown;\r\nWhen necessary, the scope of the shutdown in subparagraph 5 of the preceding Paragraph may be explained in images or photographs."
+			"條文內容": "The written shutdown notification specified in Articles 27 to 29 of the Act shall include the following information:\r\n1. The business entity which received the shutdown disposition, name of employer, and address;\r\n2. Legal basis for the shutdown;\r\n3. Reasons for the shutdown;\r\n4. The date of the shutdown;\r\n5. The scope of the shutdown;\r\n6. The conditions and procedures to apply for resumption of work;\r\n7. The agency enforcing the shutdown;\r\nWhen necessary, the scope of the shutdown in subparagraph 5 of the preceding Paragraph may be explained in images or photographs."
 		},
 		{
 			"條號": "Article 35",
@@ -179,7 +179,7 @@
 		},
 		{
 			"條號": "Article 39",
-			"條文內容": "Noticeable and visible place(s) referred to in Article 32 of the Act means the place(s) stipulated in Article 23 subparagraph 1.\r\nBusiness entities placing the public notices specified in Article 32 of the Act at places in the preceding Paragraph shall be in accordance with the following provisions:\r\n1. The size of the text, the height of the posted notice(s) and their positions shall observe the principle of appropriate for clear reading by the workers;\r\n2. Notices shall be in place permanently and shall be replaced should they become tarnished."
+			"條文內容": "Noticeable and visible place(s) referred to in Article 32 of the Act means the place(s) stipulated in Article 23 subparagraph 1.\r\nBusiness entities placing the public notices specified in Article 32 of the Act at places in the preceding Paragraph shall be in accordance with the following provisions:\r\n1. The size of the text, the height of the posted notice(s) and their positions shall observe the principle of appropriateness for clear reading by the workers;\r\n2. Notices shall be in place permanently and shall be replaced should they become tarnished."
 		},
 		{
 			"編章節": "Chapter 6 (Deleted)"

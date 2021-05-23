@@ -3,8 +3,8 @@
 	"英文法規名稱": "Labor Inspection Act",
 	"中文法規名稱": "勞動檢查法",
 	"法規網址": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=N0070001",
-	"最新英文異動日期": "20150204",
-	"沿革內容": "1. Enacted and promulgated a total twenty Articles of the Act by the Nationalist Government on February 10, 1931 and implemented on October 1, 1931\r\n2. Amended and promulgated Article 3、5、15 of the Act by the Nationalist Government on April 16, 1935\r\n3. Amended and promulgated a total forty Articles of the Act by the Presidential (82) Order No. 0451 on February 3, 1993(Original name: Factory Inspection Act )\r\n4. Amended and promulgated Article 2、3、5、25 of the Act by the Presidential (89) Order No.8900177650 on July 19, 2000\r\n5. Amended and promulgated Article 28 of the Act by the Presidential (91) Order No.09100108390 on May 29, 2002\r\n6. Amended and promulgated Article 2、24、33 of the Act by the Presidential Order No.10400012451 on February 4,2015",
+	"最新英文異動日期": "20200610",
+	"沿革內容": "1. Enacted and promulgated a total twenty Articles of the Act by the Nationalist Government on February 10, 1931 and implemented on October 1, 1931\r\n2. Amended and promulgated Article 3、5、15 of the Act by the Nationalist Government on April 16, 1935\r\n3. Amended and promulgated a total forty Articles of the Act by the Presidential (82) Order No. 0451 on February 3, 1993(Original name: Factory Inspection Act )\r\n4. Amended and promulgated Article 2、3、5、25 of the Act by the Presidential (89) Order No.8900177650 on July 19, 2000\r\n5. Amended and promulgated Article 28 of the Act by the Presidential (91) Order No.09100108390 on May 29, 2002\r\n6. Amended and promulgated Article 2、24、33 of the Act by the Presidential Order No.10400012451 on February 4,2015\r\n7. Amended Articles 3、4、7、33、35 of the Act by the Presidential Order No.10900063571 on June 10,2020.",
 	"法規內容": [
 		{
 			"編章節": "Chapter Ⅰ  General Provisions"
@@ -19,11 +19,11 @@
 		},
 		{
 			"條號": "Article 3",
-			"條文內容": "The terms used in the Act shall be defined as follows:\r\n1.“Labor Inspection Agency” means a governmental inspection agency established by the Central Competent Authority or municipal competent authority or relevant competent authority for the purpose of labor inspection.\r\n2.“Designated Inspection Agency ” means an administrative unit, academic institute, public institute, or non-profit organization designated by the Central Competent Authority to inspect dangerous machinery or equipment.\r\n3.“Labor Inspector” means a person who holds a legal labor inspection identification card and is authorized to enforce the labor inspection.\r\n4.“Designated Labor Inspector” means a person who holds an designated labor inspection identification card and is authorized to enforce the designated inspection.."
+			"條文內容": "The terms used in the Act shall be defined as follows:\r\n1.“Labor Inspection Agency” means a governmental inspection agency established by the Central Competent Authority or municipal competent authority or relevant competent authority for the purpose of labor inspection.\r\n2.“Designated Inspection Agency ” means an administrative unit, academic institute, or non-profit organization designated by the Central Competent Authority to inspect dangerous machinery or equipment.\r\n3.“Labor Inspector” means a person who holds a legal labor inspection identification card and is authorized to enforce the labor inspection.\r\n4.“Designated Labor Inspector” means a person who holds an designated labor inspection identification card and is authorized to enforce the designated inspection."
 		},
 		{
 			"條號": "Article 4",
-			"條文內容": "The scope of labor inspection includes the enforcement of:\r\n1.The Act.\r\n2.The Labor Standards Act.\r\n3.The Labor Safety and Health Act.\r\n4.Other Labor Acts."
+			"條文內容": "The scope of labor inspection includes the enforcement of:\r\n1.The Act.\r\n2.The Labor Standards Act.\r\n3.The Occupational Safety and Health Act.\r\n4.Other Labor Acts."
 		},
 		{
 			"編章節": "Chapter Ⅱ  Labor Inspection Agency"
@@ -38,7 +38,7 @@
 		},
 		{
 			"條號": "Article 7",
-			"條文內容": "The labor inspection agency shall compile relevant information on the labor inspections of inspected business entities and, when necessary, may request related authorities or organizations to provide the required information.\r\nRelated authorities or organizations shall comply with the above request unless those prescribed are exempted in other regulations."
+			"條文內容": "The labor inspection agency shall compile relevant information on the labor inspections of inspected business entities and, when necessary, may request related authorities or organizations to provide the required information.\r\nRelated authorities or organizations shall comply with the above request unless those prescribed are exempted in other regulations.\r\nThe central competent authority shall regularly publish the annual report of labor inspection."
 		},
 		{
 			"編章節": "Chapter Ⅲ  Labor Inspectors"
@@ -151,7 +151,7 @@
 		},
 		{
 			"條號": "Article 33",
-			"條文內容": "Upon accepting a complaint from worker(s), the labor inspection agency shall initiate, according to the nature of the complaint, an inspection by labor inspector(s) as soon as possible, and shall notify the complainant(s) the results of the inspection within fourteen days.\r\nUpon receiving a complaint from worker(s) the labor union shall review and verify the worker’s complaint and, shall suggest improvement to the complainant’s employer and send a copy to the labor inspection agency and the complainant(s).\r\nWhen the business entity rejects the suggestions prescribed above, the union may apply to the labor inspection agency for requesting an inspection.\r\nBusiness entities shall not terminate the labor contract of the worker who filed a complaint, or impose any actions that are against the rights of the workers.\r\nThe labor inspection agency shall be confidential in their management of a worker’s complaint, and shall not disclose the identity of said worker."
+			"條文內容": "Upon accepting a complaint from worker(s), the labor inspection agency shall initiate, according to the nature of the complaint, an inspection by labor inspector(s) as soon as possible, and shall notify the complainant(s) the results of the inspection within fourteen days.\r\nUpon receiving a complaint from worker(s) the labor union shall review and verify the worker’s complaint and, shall suggest improvement to the complainant’s employer and send a copy to the labor inspection agency and the complainant(s).\r\nWhen the business entity rejects the suggestions prescribed above, the union may apply to the labor inspection agency for requesting an inspection.\r\nBusiness entities shall not terminate the labor contract of the worker who filed a complaint, or impose any punishment that is against the rights of the workers.\r\nThe labor inspection agency shall be confidential in their management of a worker’s complaint, and shall not disclose the identity of said worker."
 		},
 		{
 			"編章節": "Chapter Ⅵ  Penal Provisions"
@@ -162,7 +162,7 @@
 		},
 		{
 			"條號": "Article 35",
-			"條文內容": "In any of the following violations, the business entity or the contravener shall be a fine no less than N.T.＄30,000 and not exceeding N.T.＄150,000:\r\n1.Violation of Paragraph 1, Article 14 of the Act.\r\n2.Violation of Paragraph 2, Article 15 of the Act."
+			"條文內容": "In any of the following violations, the business entity or the contravener shall be a fine no less than N.T.＄30,000 and not exceeding N.T.＄150,000 and may be fined per violation:\r\n1.Violation of Paragraph 1, Article 14 of the Act.\r\n2.Violation of Paragraph 2, Article 15 of the Act."
 		},
 		{
 			"條號": "Article 36",

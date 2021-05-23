@@ -1,0 +1,107 @@
+{
+	"法規性質": "命令",
+	"英文法規名稱": "Regulations for Examination of Public Telecommunications Networks",
+	"中文法規名稱": "公眾電信網路審驗辦法",
+	"法規網址": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0060121",
+	"最新英文異動日期": "20200702",
+	"附件": [
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Annex Table of Network Performance Review or Items for Testing.pdf"
+			]
+		}
+	],
+	"沿革內容": "1.17 Articles in full enacted and promulgated by National Communications Commission（NCC）on July 2, 2020. Ref：Tung-Chuan-Ji-Chu Tze No. 10963014940",
+	"法規內容": [
+		{
+			"編章節": "Chapter Ⅰ General Provisions"
+		},
+		{
+			"條號": "Article 1",
+			"條文內容": "These Regulations are enacted in accordance with the provisions of Paragraph 5, Article 39 of the Telecommunications Management Act (hereinafter referred to as the Act)."
+		},
+		{
+			"條號": "Article 2",
+			"條文內容": "The terms used in these Regulations are defined as follows:\r\n1. Fixed telecommunications network: refers to a telecommunications network composed of one or more fixed telecommunications systems and their telecommunications equipment.\r\n2. Mobile telecommunications network: refers to a telecommunications network composed of one or more mobile telecommunications systems and their telecommunications equipment.\r\n3. Satellite telecommunications network: refers to a telecommunications network composed of one or more satellite telecommunications systems and their telecommunications equipment.\r\n4. Voice telecommunications services: refers to the two-way or multi-way voice services provided to users through public telecommunications networks by dialing telecommunications numbers.\r\n5. Data telecommunications services: refers to the telecommunications services that use public telecommunication networks to provide users with non-voice telecommunications services such as the transmission, exchange, access and processing of data.\r\n6. Multimedia content transporting platform services: refers to the multimedia content services on a platform constructed by the audio-visual media interactive interface and audio-visual content storage equipment of the public telecommunications network, in an unopened environment where the telecommunications enterprise can control, for subscribers to access multimedia content offered by content providers on the platform through broadband access circuits and the subscriber’s set-top box.\r\n7. Value-added telecommunications services: refers to profit-seeking telecommunications services that use the public telecommunications network and additional related application systems and equipment provided by the telecommunications enterprise, to provide users with services such as information storage, retrieval, processing, storage, transfer, and utilization."
+		},
+		{
+			"條號": "Article 3",
+			"條文內容": "The types of public telecommunication networks include fixed telecommunications networks, mobile telecommunications networks and satellite telecommunications networks. Applicants may set up or combine different types of public telecommunication networks."
+		},
+		{
+			"編章節": "Chapter Ⅱ Examination Procedures"
+		},
+		{
+			"條號": "Article 4",
+			"條文內容": "After completing the establishment in accordance with the network establishment plan, the applicant shall submit the following documents and apply to the competent authority for examination:\r\n1. Public telecommunications network examination application form (hereinafter referred to as the application form)\r\n2. Network configuration and description\r\n3. Public telecommunications network examination self-assessment report (hereinafter referred to as the self-assessment report)\r\n4. Other documents as required by the Technical Specifications for Examination of Public Telecommunications Network (hereinafter referred to as the technical specifications)\r\n5. Those that are required to undertake the network performance examination of the value-added telecommunications services in accordance with the provisions of Paragraph 4, Article 6, shall provide a value-added performance test proposal, which includes the review or test items, test methods and compliance standards.\r\n6. Those that combine self-built and other telecommunications networks may submit the examination compliance certificate of the network of others.\r\nThose that submit the examination compliance certificates of others’ networks prescribed in Subparagraph 6 of the preceding paragraph may be exempted from the examination of the said other network.\r\nAfter the competent authority has received the application, it shall notify the applicant to pay the examination fee, which shall be remitted within the prescribed time limit and then submit the payment invoice to the competent authority.\r\nIf the submitted documents are deemed incomplete, the competent authority shall notify the applicant to undertake corrective action within a prescribed time period; for those that fail to undertake corrective action or whose corrective action is deemed incomplete within the prescribed time, the application for examination shall not be accepted, and the examination fees paid and the interest shall not be refunded."
+		},
+		{
+			"條號": "Article 5",
+			"條文內容": "After the applicant has submitted all required documents, the competent authority shall notify the applicant of the examination date, and the applicant shall cooperate with the competent authority to conduct the examination according to the examination date.\r\nThe applicant shall assign an engineering supervisor to participate in the examination prescribed in the preceding paragraph and assign more than one personnel to assist in the examination."
+		},
+		{
+			"條號": "Article 6",
+			"條文內容": "The examination methods of public telecommunications networks include general examination and network performance examination.\r\nThe test methods and compliance standards for general examination and network performance examination shall meet the technical specifications.\r\nThose that set up a public telecommunications network to provide value-added telecommunications services may conduct their own tests, and submit the network performance self-assessment report of value-added telecommunications services to the competent authority for reference.\r\nWhen the competent authority determines that there is a likelihood that the value-added telecommunications services provided by the public telecommunications network establisher may affect the public interest or the rights of consumers, it may order the establisher to conduct tests on its own and submit the self-assessment report on the network performance of the value-added telecommunications services to the competent authority for reference. The competent authority may conduct examination when necessary."
+		},
+		{
+			"條號": "Article 7",
+			"條文內容": "After the competent authority completes the examination in accordance with Paragraph 2 of the preceding article, if the examination result meets the technical specifications for general examination and network performance examination, an examination compliance certificate shall be issued; if the examination result meets the items and content of the self-defined value-added telecommunications services network performance examination, it may be announced on the website or other public platforms.\r\nWhen the competent authority conducts the examination, if the examination result shows non-compliance, the applicant may submit the re-testing of the item to the competent authority on the spot, conditioned on that the improvement of the non-compliant review or test item can be completed within two hours, and the re-testing is limited to once only.\r\nIf the examination results are not in compliance, the applicant shall be notified, and the examination results and the non-compliant items shall be stated."
+		},
+		{
+			"編章節": "Chapter Ⅲ Examination Methods"
+		},
+		{
+			"編章節": "Section 1 General examination"
+		},
+		{
+			"條號": "Article 8",
+			"條文內容": "The general examination includes examination of network management and control capabilities, network maintenance management and network physical security, and all examinations shall be performed in accordance with the technical specifications."
+		},
+		{
+			"條號": "Article 9",
+			"條文內容": "For those telecommunications operators combining self-built and other telecommunications networks, the review or test items for their network management and control capabilities shall be as follows:\r\n1. Obtaining authorization to use the telecommunications networks built by others.\r\n2. The management and control capabilities (including fault management, configuration management, performance management, account management, security management, etc.) for various resources used (including hardware, software, network functions and systems) not being affected by partners."
+		},
+		{
+			"條號": "Article 10",
+			"條文內容": "The review or test items for network maintenance management shall be as follows:\r\n1. Network status monitoring\r\n2. Telecommunications records\r\n3. Account processing\r\n4. Subscriber data storage\r\n5. Construction and maintenance log\r\n6. Network incidents reporting"
+		},
+		{
+			"條號": "Article 11",
+			"條文內容": "The review or test items of network physical security and info-communications security shall be as follows:\r\n1. Telecommunications facilities power backup\r\n2. Circuit backup\r\n3. Grounding setting\r\n4. Telecommunications facilities security\r\n5. Submarine cable landing station\r\n6. National security considerations for network telecommunications equipment\r\n7. Info-communications security detection and protection functions\r\n8. Negotiating with the communication surveillance enforcement agency to determine the establishment of a communication interception system or equipment\r\n9. Demarcation point of responsibility\r\nIf the network does not use telecommunications resources, it may be exempted from examining its provision of the detection function to ensure the info-communications security prescribed in Subparagraph 7 of the preceding paragraph."
+		},
+		{
+			"編章節": "Section 2 Network performance examination"
+		},
+		{
+			"條號": "Article 12",
+			"條文內容": "The network performance examination shall be divided into the examination of voice telecommunications services, data telecommunications services, multimedia content transporting platform services and value-added telecommunications services, and the sampling quantity shall be in accordance with the technical specifications.\r\nThe network used by each telecommunications services mentioned in the preceding paragraph may be a combination of fixed telecommunications network, mobile telecommunications network or satellite telecommunications network. The review or test items of network performance examination are as listed in the \"Table of Network Performance Review or Items for Testing.\""
+		},
+		{
+			"條號": "Article 13",
+			"條文內容": "Those that are required to conduct the performance examination of the value-added telecommunications services network in accordance with the provisions of Paragraph 4, Article 6 shall self-define the review or test items, test methods and compliance standards of the value-added performance proposal and provide them to the competent authority for examination.\r\nThe competent authority may take reference from international standards or practical requirements to revise the review items, test items, test methods or compliance standards of its examination when conducting network performance examination prescribed in the preceding paragraph."
+		},
+		{
+			"編章節": "Chapter Ⅳ Public Telecommunications Network Management and Restriction"
+		},
+		{
+			"條號": "Article 14",
+			"條文內容": "For the public telecommunications network with the examination compliance certificate issued by the competent authority, re-examination shall be applied for to the competent authority in any one of the following circumstances:\r\n1. The addition or the change of the public telecommunications network affects its original examination-compliant network performance.\r\n2. Part of the allocated frequencies are to be provided to other telecommunications enterprises for use by the agreement in accordance with Article 58 of the Act, and it is approved by the competent authority.\r\n3. All or part of the allocated frequencies are to be transferred to other telecommunications enterprises for use by the agreement in accordance with Article 59 of the Act, and it is approved by the competent authority.\r\n4. Other matters announced by the competent authority\r\nIf the addition or the change prescribed in Subparagraph 1 of the preceding paragraph does not affect the original examination-compliant network performance, the applicant may only apply for examination for the added or changed part."
+		},
+		{
+			"條號": "Article 15",
+			"條文內容": "If the examination compliance certificate is lost, damaged or changed in content, an application form for replacement (re-issue) may be submitted to the competent authority for replacement (re-issue).\r\nFor the public telecommunications network with the examination compliance certificate issued by the competent authority, the competent authority may abolish the examination compliance in any one of the following circumstances:\r\n1. Failure to pass the inspection conducted by the competent authority in accordance with the provisions of Paragraph 1, Article 43 of the Act, and the improvement is not completed or the improvement could not be completed after the deadline as ordered by the competent authority.\r\n2. Other violations of the Act or these Regulations found by the competent authority with severe circumstances"
+		},
+		{
+			"編章節": "Chapter Ⅴ Supplementary Provisions"
+		},
+		{
+			"條號": "Article 16",
+			"條文內容": "The relevant forms and tables stipulated in these Regulations shall be separately announced by the competent authority."
+		},
+		{
+			"條號": "Article 17",
+			"條文內容": "These Regulations shall be implemented from the date of promulgation of the Act."
+		}
+	]
+}

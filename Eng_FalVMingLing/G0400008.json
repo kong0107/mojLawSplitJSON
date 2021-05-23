@@ -3,8 +3,8 @@
 	"英文法規名稱": "Regulations Governing Information to be Published in Order Tickets, Trade Reports, and Reconciliation Statements Prepared by Securities Brokers Upon Receiving Orders to Buy or Sell Securities",
 	"中文法規名稱": "證券經紀商受託買賣有價證券製作委託書買賣報告書及對帳單應行記載事項準則",
 	"法規網址": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0400008",
-	"最新英文異動日期": "20090211",
-	"沿革內容": "6. Article 3 amended and issued 3 July 2003 per Order No. Taiwan-Finance-Securities-II-0920002759 of the Securities and Futures Commission, Ministry of Finance\r\n7. Article 6 amended and issued per 17 December 2007 Order No. Financial-Supervisory-Securities-II-0960069106 of the Financial Supervisory Commission, Executive Yuan\r\n8. Article 3 amended and issued per 11 February 2009 Order No. Financial-Supervisory-Securities-II-0980004251 of the Financial Supervisory Commission, Executive Yuan",
+	"最新英文異動日期": "20200302",
+	"沿革內容": "6. Article 3 amended and issued 3 July 2003 per Order No. Taiwan-Finance-Securities-II-0920002759 of the Securities and Futures Commission, Ministry of Finance\r\n7. Article 6 amended and issued per 17 December 2007 Order No. Financial-Supervisory-Securities-II-0960069106 of the Financial Supervisory Commission, Executive Yuan\r\n8. Article 3 amended and issued per 11 February 2009 Order No. Financial-Supervisory-Securities-II-0980004251 of the Financial Supervisory Commission, Executive Yuan\r\n9. Articles 2, 4, 12, and 13 amended and issued per 2 March 2020 Order No. Financial-Supervisory-Securities-Firms-1090360577 of the Financial Supervisory Commission, Executive Yuan;\r\n   for enforcement from the date of issuance, with the exceptions of amended Article 4 and Article 12, paragraph 2, which shall be enforced from 23 March 2020",
 	"法規內容": [
 		{
 			"條號": "Article 1",
@@ -12,7 +12,7 @@
 		},
 		{
 			"條號": "Article 2",
-			"條文內容": "The Financial Supervisory Commission, Executive Yuan, is the competent authority for the purposes of these Regulations."
+			"條文內容": "The Financial Supervisory Commission is the competent authority for the purposes of these Regulations."
 		},
 		{
 			"條號": "Article 3",
@@ -20,7 +20,7 @@
 		},
 		{
 			"條號": "Article 4",
-			"條文內容": "An order ticket shall include the principal's name, account number, date and time of the order, type of securities, number or par value of shares, limit price, expiration time, account executive signature, signature of the principal, and manner in which the order is placed (by telephone, telegram, letter, or face-to-face). Notes shall also be added thereto with respect to the matters in the following subparagraphs:\r\n1. (deleted)\r\n2. If no expiration time is specified, the order is deemed to be valid on the current day only.\r\n3. The manner in which the order is placed shall be specified.\r\n4. For orders submitted in writing or by telegram, the written message or telegram shall be affixed.\r\n5. Securities purchased shall, without exception, be placed in central custody; to withdraw them, an Application for Withdrawal of Deposited Securities shall be completed separately."
+			"條文內容": "An order ticket shall include the principal's name, account number, date and time of the order, type of securities, number or par value of shares, price (limit price or market price), expiration time, time in force (rest-of-day, immediate-or-cancel, fill-or-kill), account executive signature, signature of the principal, and manner in which the order is placed (by telephone, telegram, letter, or face-to-face). Notes shall also be added thereto with respect to the matters in the following subparagraphs:\r\n1. The manner in which the order is placed shall be specified.\r\n2. For orders submitted in writing or by telegram, the written message or telegram shall be affixed.\r\n3. Securities purchased shall, without exception, be placed in central custody; to withdraw them, an Application for Withdrawal of Deposited Securities shall be completed separately."
 		},
 		{
 			"條號": "Article 5",
@@ -52,11 +52,11 @@
 		},
 		{
 			"條號": "Article 12",
-			"條文內容": "Where a trading order is submitted through electronic media (such as IC cards or the Internet), the securities firm is not required to prepare and fill out an order ticket on the principal's behalf, provided that it shall, on a timely basis, prepare and preserve relevant written records for verification purposes, and preserve the same for a period of at least two months following signature and/or seal by a relevant executive on a daily basis.\r\nThe \"relevant written records\" under the preceding paragraph shall include the account number of the principal, order date and time, type of securities, number of shares or par value, limit price, expiration time, account executive code, and manner in which the order is placed, and shall be prepared in chronological order."
+			"條文內容": "Where a trading order is submitted through electronic media (such as a voice message system, the Internet, private line, or closed private network), the securities firm is not required to prepare, and not required to fill, out an order ticket on the principal's behalf, provided that it shall, on a timely basis, prepare and preserve relevant written records for verification purposes, and preserve the same for a period of at least two months following signature and/or seal by a relevant executive on a daily basis.\r\nThe \"relevant written records\" under the preceding paragraph shall include the account number of the principal, order date and time, type of securities, number of shares or par value, price (limit price or market price), expiration time, time in force (rest-of-day, immediate-or-cancel, fill-or-kill), account executive code, and manner in which the order is placed, and shall be prepared in chronological order."
 		},
 		{
 			"條號": "Article 13",
-			"條文內容": "These Regulations shall enter into force from the date of issuance."
+			"條文內容": "These Regulations shall enter into force from the date of issuance, with the exceptions of Article 4 and Article 12, paragraph 2 as amended and issued on 2 March 2020, which shall enter into force from 23 March 2020."
 		}
 	]
 }

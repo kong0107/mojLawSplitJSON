@@ -1,0 +1,196 @@
+{
+	"法規性質": "命令",
+	"英文法規名稱": "Regulations Governing the Establishment and Use of Dedicated Telecommunications Networks",
+	"中文法規名稱": "專用電信網路設置使用管理辦法",
+	"法規網址": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0060143",
+	"最新英文異動日期": "20200709",
+	"沿革內容": "1.39 Articles enacted and promulgated in full on July 9, 2020, by the order of the National Communications Commissions, Ref. Tong-Chuan-Tzu-Yuan-Zih No.10943015410",
+	"法規內容": [
+		{
+			"編章節": "Chapter 1　General Provisions"
+		},
+		{
+			"條號": "Article 1",
+			"條文內容": "These Regulations are promulgated pursuant to Paragraph 7, Article 50 of the Telecommunications Management Act（hereinafter referred to as the “Act”）."
+		},
+		{
+			"條號": "Article 2",
+			"條文內容": "The terms of these Regulations are defined as follows:\r\n1. Dedicated telecommunications network: a telecommunications network established for private use on the radio frequency distributed by the competent authority with the network architecture consisting of radio stations.\r\n2. Maritime Mobile Service Identity（MMSI）number: per the definition in the Administrative Regulations on the Establishment and Operation of Radio Stations on Ships.\r\nThe private use mentioned in the preceding paragraph refers to the establishment on one’s name for one’s own business purposes."
+		},
+		{
+			"條號": "Article 3",
+			"條文內容": "These Regulations shall apply to the applications for establishment of dedicated telecommunications network, unless otherwise specified.\r\nFor the applications for establishment of telecommunication network dedicated to ships, aircrafts, taxis and for research and development purposes, the following respective regulations shall apply:\r\n1. For the dedicated telecommunications network for ships, the Regulations Governing the Installation and Use of Ship Radio Stations shall apply.\r\n2. For the dedicated telecommunications network for aircrafts, the Regulations Governing Aircraft Radio Stations shall apply.\r\n3. For the dedicated telecommunications network for taxis, the Administrative Regulations on the Establishment and Operation of the Dedicated Taxi Telecommunications Network shall apply.\r\n4. For the dedicated telecommunications network for research and development purposes, the Regulations Governing the Installation and Use of Telecommunications Networks for Experimental Research and Development Purposes shall apply."
+		},
+		{
+			"條號": "Article 4",
+			"條文內容": "A dedicated telecommunications network shall fall into one of the following categories by the purpose of its establishment:\r\n1. Public service network: a network established for emergency assistance, public use or other public services, such as police, firefighting, disaster prevention, medical rescue, coastal patrol, emergency rescue, railroad, highways, rapid transit systems, airline ground support, fishery, water resource, weather, academics and education, justice, correctional facilities, diplomacy, harbor, forestry, customs service, immigration, electric power, water, gas, petroleum and others.\r\n2. Private network: a dedicated network that is other than those mentioned above and established for private use.\r\nThe applicant for private network shall be a company, legal person or organization."
+		},
+		{
+			"條號": "Article 5",
+			"條文內容": "The connection or use of a dedicated telecommunications network shall be terminated and the competent authority informed for reference when it is connected to a public telecommunications network or the purpose other than the one for which it is established ceases to exit."
+		},
+		{
+			"編章節": "Chapter 2　Establishment of Dedicated Telecommunications Network"
+		},
+		{
+			"編章節": "Section 1　Application for Establishment of Public Service Network"
+		},
+		{
+			"條號": "Article 6",
+			"條文內容": "Those who apply for establishment of public service network（referred to as the public service network establisher hereinafter）shall prepare and submit the following documents to the competent authority for approval:\r\n1. Application form;\r\n2. Network establishment proposal;\r\n3. Document proving the payment of review fees;\r\n4. Letter indicating the confirmation of competent authority of target business for compliance with public service purposes; this letter is not required for government agencies, public schools, government-owned enterprises and non-departmental public bodies;\r\n5. Other document（s）required by the competent authority.\r\nThe network establishment proposal in the preceding paragraph shall include the following:\r\n1. Areas of establishment;\r\n2. Purpose of and configuration for use of radio frequency, including radio frequencies, frequency bandwidths and transmission power used in each of the areas and radio wave coverage. The radio wave coverage shall be provided with a topographic or electronic map that contains longitudes and latitudes.\r\n3. Necessary configuration against interference;\r\n4. Network structure;\r\n5. Use of telecommunications equipment of consideration of national security;\r\n6. Network configuration for cyber security detection and protection;\r\n7. Radio station establishment proposal, including type, frequency, frequency bandwidth, power output, quantity and technical specifications of stations."
+		},
+		{
+			"條號": "Article 7",
+			"條文內容": "The following examination criteria shall apply to the applications for establishment of public service network:\r\n1. Whether the purpose of establishment and areas of establishment are met;\r\n2. Whether there is possible harmful interference from the assigned frequency;\r\n3. Whether telecommunications equipment of consideration of national security is used;\r\n4. Whether enough equipment and functions are provided to ensure cyber security."
+		},
+		{
+			"編章節": "Section 2　Application for Establishment of Private Network"
+		},
+		{
+			"條號": "Article 8",
+			"條文內容": "Those who apply for establishment of private network（referred to as the private network establisher hereinafter）shall prepare and submit the following documents to the competent authority for approval:\r\n1. Application form;\r\n2. Network establishment proposal;\r\n3. Document proving the payment of review fees;\r\n4. Other document（s）required by the competent authority.\r\nThe network establishment proposal in the preceding paragraph shall include the following:\r\n1. Explanation that telecommunications enterprises do not provide the service needed or the service provided does not fulfill the need of private network establisher;\r\n2. Explanation that the telecommunications network established by using a frequency that does not need distribution does not fulfill the need of private network establisher;\r\n3. Explanation that fixed telecommunications network does not fulfill the need of private network establisher;\r\n4. Areas of establishment;\r\n5. Purpose and configuration of use of radio frequency, including radio frequencies, frequency bandwidths and transmission power used in each of the areas and radio wave coverage. The radio wave coverage shall be provided with a topographic or electronic map that contains longitudes and latitudes.\r\n6. Necessary configuration against interference;\r\n7. Network structure;\r\n8. Use of telecommunications equipment of consideration of national security;\r\n9. Network configuration for cyber security detection and protection;\r\n10. Radio station establishment proposal, including type, frequency, frequency bandwidth, power output, quantity and technical specifications of stations.\r\nThe private network establishers using MMSI numbers shall submit the documents specified in Paragraph 1, which are then forwarded to the competent authority by the competent authority of navigation."
+		},
+		{
+			"條號": "Article 9",
+			"條文內容": "The following examination criteria shall apply to the applications for establishment of private network:\r\n1. Whether telecommunications enterprises do not provide the service needed or the service provided does not fulfill the need of private network establisher;\r\n2. Whether the telecommunications network established by using a frequency that does not need distribution does not fulfill the need of private network establisher;\r\n3. Whether fixed telecommunications network does not fulfill the need of private network establisher;\r\n4. Whether the purpose of establishment and areas of establishment are met;\r\n5. Whether there is possible harmful interference from the assigned frequency;\r\n6. Whether telecommunications equipment of consideration of national security is used;\r\n7. Whether enough equipment and functions are provided to ensure cyber security."
+		},
+		{
+			"條號": "Article 10",
+			"條文內容": "For the examination of applications for establishment of private network, the competent authority may assemble an examination panel for consultation."
+		},
+		{
+			"編章節": "Section 3　Radio Frequency Distribution for Dedicated Telecommunications Network"
+		},
+		{
+			"條號": "Article 11",
+			"條文內容": "For the network establishment proposals that are proposed by public service network establishers and private network establishers（referred to collectively as the establishers hereinafter）and approved by the competent authority, the competent authority shall issue the letter of network establishment approval and frequency use certificate.\r\nThe frequency use certificate mentioned in the preceding paragraph is valid for:\r\n1. Ten（10）years for the establishment of public service network;\r\n2. Five（5）years for the establishment of private network.\r\nThe establishers who still intend to operate the dedicated telecommunications network after expiration of the frequency use certificate shall apply to the competent authority for renewal of frequency use certificate in two（2）months starting from three（3）months prior to the expiration; the renewed certificate becomes valid from the next day that the original certificate expires."
+		},
+		{
+			"條號": "Article 12",
+			"條文內容": "The establishers who intend to add or change the configuration of radiofrequency use, areas of establishment or configuration of radio station establishment shall apply for the change of network establishment proposal pursuant to Article 25."
+		},
+		{
+			"編章節": "Chapter 3　Establishment Procedure for Dedicated Telecommunications Network and Examination"
+		},
+		{
+			"編章節": "Section 1　Application for Establishment of Public Service Network Radio Station and Examination"
+		},
+		{
+			"條號": "Article 13",
+			"條文內容": "A public service network establisher who intends to apply for the establishment of radio station shall prepare and submit the following documents according to the approved network establishment proposal to the competent authority for approval of radio station establishment; a letter of radio station establishment approval shall be issued by the competent authority upon approval:\r\n1. Application form for radio station establishment containing type of station, place of establishment, frequency, bandwidth, transmission power, quantity, brand, model and technical specifications;\r\n2. Photocopy of frequency use certificate;\r\n3. Approved network establishment proposal;\r\n4. Other document（s）required by the competent authority.\r\nFor those who file an application mentioned in the preceding paragraph for the establishment of intelligent metering system for dedicated frequencies used for utility services, the document proving that the radio transmission or transceiver equipment proposed has been issued a type certificate or approval by the competent authority.\r\nThe station establishment approval mentioned in Paragraph 1 is valid for six（6）months; and its period of validity shall not exceed that of the frequency use certificate."
+		},
+		{
+			"條號": "Article 14",
+			"條文內容": "For failure of establishment before the station establishment approval expires, the public service network establisher may state the reason and submit the application to the competent authority for extension in one（1）month prior to the expiration. The extension is valid for six（6）months at most and only one（1）extension shall be granted; the period of validity of frequency use certificate shall not be exceeded."
+		},
+		{
+			"條號": "Article 15",
+			"條文內容": "Upon the establishment of radio station, the public service network establisher shall prepare and submit the following documents to the competent authority for inspection; the radio station license shall be issued after passing the inspection:\r\n1. Inspection application form and list（electronic file）;\r\n2. Letter of radio station establishment approval;\r\n3. Inspection item record and self-evaluation report.\r\nFor dedicated telecommunications networks where an MMSI number is used, the photocopy of MMSI approval certificate shall be provided in addition to the documents to be provided as mentioned in the preceding paragraph.\r\nFor failure of inspection, the public service network establisher shall improve and apply for a second inspection in one（1）month from the day that the notification from the competent authority is received; for failure to improve by the deadline or failure to pass the second inspection, the application shall be rejected. The public service network establisher may reapply for inspection provided that the radio station establishment approval is still valid."
+		},
+		{
+			"條號": "Article 16",
+			"條文內容": "The inspection on the radio station of the public service network establisher conducted by the competent authority is performed in principle in the form of document review; samples may be taken if necessary."
+		},
+		{
+			"條號": "Article 17",
+			"條文內容": "For the application for inspection to the competent authority pursuant to Article 15, the public service network establisher shall provide the test equipment and necessary assistance needed for the inspection as required by the competent authority."
+		},
+		{
+			"編章節": "Section 2　Application for Establishment of Private Network Radio Station and Examination"
+		},
+		{
+			"條號": "Article 18",
+			"條文內容": "A private network establisher who intends to apply for the establishment of radio station shall prepare and submit the following documents to the competent authority for approval of radio station establishment; a letter of radio station establishment approval shall be issued by the competent authority upon approval:\r\n1. Application form for radio station establishment containing type of station, place of establishment, frequency, bandwidth, transmission power, quantity, brand, model and technical specifications;\r\n2. Photocopy of frequency use certificate;\r\n3. Approved network establishment proposal;\r\n4. Other document（s）required by the competent authority.\r\nThe station establishment approval mentioned in preceding paragraph is valid for six（6）months; and its period of validity shall not exceed that of the frequency use certificate."
+		},
+		{
+			"條號": "Article 19",
+			"條文內容": "For failure of establishment before the station establishment approval expires, the private network establisher may state the reason and submit the application to the competent authority for extension in one（1）month prior to the expiration. The extension is valid for six（6）months at most and only one（1）extension shall be granted; the period of validity of frequency use certificate shall not be exceeded."
+		},
+		{
+			"條號": "Article 20",
+			"條文內容": "Upon the establishment of radio station, the private network establisher shall prepare and submit the following documents to the competent authority for inspection; the radio station license shall be issued after passing the inspection:\r\n1. Inspection application form and list（electronic file）;\r\n2. Letter of radio station establishment approval;\r\n3. Inspection item record and self-evaluation report\r\n4. Proof of origin for telecommunications equipment used.\r\nFor dedicated telecommunications networks where an MMSI number is used, the photocopy of MMSI approval certificate shall be provided in addition to the documents to be provided as mentioned in the preceding paragraph.\r\nFor failure of inspection, the private network establisher shall improve and apply for a second inspection in one（1）month from the day that the notification from the competent authority is received; for failure to improve by the deadline or failure to pass the second inspection, the application shall be rejected. The private network establisher may reapply for inspection provided that the radio station establishment approval is still valid."
+		},
+		{
+			"條號": "Article 21",
+			"條文內容": "The inspection on the radio station of the private network establisher conducted by the competent authority may be performed in principle in the form of sampling."
+		},
+		{
+			"條號": "Article 22",
+			"條文內容": "For the application for inspection to the competent authority pursuant to Article 20, the private network establisher shall provide the test equipment and necessary assistance needed for the inspection as required by the competent authority."
+		},
+		{
+			"編章節": "Chapter 4　Qualification of Use, Management and Limitations"
+		},
+		{
+			"條號": "Article 23",
+			"條文內容": "For a radio station that is established by establisher according to the approved network establishment proposal and issued a radio station license, the network test self-evaluation report shall be completed and submitted to the competent authority for approval; the station shall not be operated until it is approved by the competent authority and the network inspection approval certificate issued."
+		},
+		{
+			"條號": "Article 24",
+			"條文內容": "An application for replacement with the reason（s）specified shall be submitted to the competent authority for lost or damaged radio station license; an application for renewal shall be submitted for changes of information provided in the license.\r\nThe expiration date of the replaced or renewed radio station license and certificate in the preceding paragraph shall be the same as that of the previous approval or license.\r\nThe radio station license shall not be leased, loaned, transferred or designated with guarantee burden to any individual."
+		},
+		{
+			"條號": "Article 25",
+			"條文內容": "For the change of any following in the network establishment proposal, the reason shall be stated and the cross-reference and description of contents of change, and the revised network establishment proposal shall be submitted to the competent authority for approval:\r\n1. Configuration of radio frequency use;\r\n2. Areas of establishment;\r\n3. Configuration of radio station establishment.\r\nThe application for change of network establishment proposal may be exempted provided that the change mentioned in Subparagraph 3 of the preceding paragraph does not exceed the areas of establishment in the originally approved network establishment proposal, or no new brand or model of radio station transmitter is added and the frequency, bandwidth and power output do not exceed the ranges approved in the frequency use certificate.\r\nFor the network structure of a revised network establishment proposal, the reason shall be stated and the cross-reference and description of contents of change, and the revised network establishment proposal shall be submitted to the competent authority for reference."
+		},
+		{
+			"條號": "Article 26",
+			"條文內容": "For the change of radio frequency use configuration or areas of establishment in the network establishment proposal, the frequency us certificate shall be replaced with the approval of the competent authority; the period of validity is the same as that of the replaced certificate.\r\nAn application for approval and inspection of radio station establishment shall be submitted to the competent authority pursuant to Articles 13 through 17 or Articles 18 through 23 after the frequency use certificate is issued as mentioned in the preceding paragraph; the radio station license and network inspection approval certificate shall be renewed upon the approval of inspection; the period of validity is the same as that of the renewed ones and shall not exceed that of frequency use certificate.\r\nFor the change of frequency, bandwidth, transmission power, place of establishment or brand or model or transmitter in the radio station which does not exceed the contents in the originally approved network establishment proposal, the establisher shall apply for the radio station establishment approval; the station shall not be operated until it is approved in the inspection and the network inspection approval certificate and radio station license are renewed; the period of validity is the same as that of the renewed license and shall not exceed that of frequency use certificate."
+		},
+		{
+			"條號": "Article 27",
+			"條文內容": "The period of validity of a dedicated radio station license is five（5）years at most and shall not exceed that of the frequency use certificate.\r\nThe establishers who still intend to operate the radio station after expiration of the radio station license shall apply to the competent authority for renewal of radio station license in one（1）months starting from two（2）months prior to the expiration; the renewed license becomes valid from the next day that the original license expires.\r\nFor the application for license renewal mentioned in the preceding paragraph, the competent authority may request an inspection as appropriate; the radio station license shall be renewed by the competent authority upon passing the inspection."
+		},
+		{
+			"條號": "Article 28",
+			"條文內容": "The establisher shall store or supervise the destruction of radio station equipment pursuant to the Administrative Regulations Governing the Manufacture, Import, and Application of Controlled Telecommunications Radio-Frequency Devices in one of the following circumstances:\r\n1. An application has been submitted for return of radio frequency before the frequency use certificate expires, and the competent authority revokes the frequency use certificate and network establishment proposal and withdraws the radio station license;\r\n2. The frequency use certificate or radio station license has expired;\r\n3. The operation of radio station has been terminated and the competent authority withdraws the radio station license;\r\n4. The radio station license is not acquired before the approved period of validity reaches the end for radio station establishment."
+		},
+		{
+			"條號": "Article 29",
+			"條文內容": "The emission of radio frequency by radio station shall be accurate and stable. The bandwidth and allowable tolerance shall comply with the applicable requirements set forth in the Regulations Governing the Use of Radio Frequencies and spurious emission and harmonic interference shall be avoided."
+		},
+		{
+			"條號": "Article 30",
+			"條文內容": "The emission of radio frequency by radio station shall not cause harmful interference to radio navigation guide/aid or any other frequency used for legal communications."
+		},
+		{
+			"條號": "Article 31",
+			"條文內容": "For the transmission of MMSI number by a radio station established outside of a ship and used for navigation aid, an application for distribution shall be submitted to the competent authority.\r\nThe following documents shall be provided for the application mentioned in the preceding paragraph:\r\n1. Application form;\r\n2. Radio station establishment approval or radio station license.\r\nThe name, address, telephone number of the applicant and the location of radio station establishment shall be stated in the application form mentioned in the preceding paragraph.\r\nFor the terminated use of MMSI number or withdrawal of radio station license, the MMSI number originally distributed shall not be used.\r\nFor the MMSI number distributed by the competent authority, an application for change shall be submitted to the competent authority for change of applicant, address or location of radio station in the original application form.\r\nFor the application for distribution of MMSI number for academic research, technical research and development or experiment（testing）, an application for project approval may be submitted to the competent authority and the approval is valid for five（5）years. When necessary, an application for extension may be submitted with reason stated in a written form in one（1）month starting from two（2）months before the expiration and the extension is valid for five（5）years at most.\r\nThe competent authority may delegate the distribution of MMSI numbers to the competent authority of navigation."
+		},
+		{
+			"編章節": "Chapter 5　Supplementary Provisions"
+		},
+		{
+			"條號": "Article 32",
+			"條文內容": "For missing documents that should have been provided by applicant or establisher or missing contents that should have been provided, the competent authority may require correction by a given deadline; failure to correct or incomplete correction will result in rejection of application."
+		},
+		{
+			"條號": "Article 33",
+			"條文內容": "The frequency use certificate shall not be transferred, leased, ledged, mortgaged or otherwise sanctioned. In the event of loss, damage or alteration of recorded items, relevant certification documents shall be provided to the competent authority to apply for reissuance, replacement or correction.\r\nThe frequency use certificate or radio station license shall become invalid upon expiration."
+		},
+		{
+			"條號": "Article 34",
+			"條文內容": "The standards, recommendations, regulations or procedures regarding telecommunications in the International Telecommunications Convention, International Radio Regulations, International Telegram Regulations, International Telephone Regulations and International Convention for Safety of Life at Sea and their associated addenda may apply to matters not specified by the competent authority for the technologies, equipment and operation standards for dedicated telecommunications network."
+		},
+		{
+			"條號": "Article 35",
+			"條文內容": "For the forms and certificates stipulated in these Regulations, the items to be included in their contents and their formats shall be separately announced by the competent authority, unless otherwise specified in these Regulations."
+		},
+		{
+			"條號": "Article 36",
+			"條文內容": "For the distributed dedicated radio frequencies issued pursuant to the Administrative Regulations for Academic Experimental Radio Stations or Administrative Regulations on the Establishment and Operation of Dedicated Telecommunications, and the Connection of Dedicated Telecommunications to Public Communication System prior to the promulgation of the Act, the network establishment proposal shall be submitted to the competent authority for the application for the issuance of frequency use certificate and replacement of radio station license in two（2）months starting from three（3）months before the radio station license expires.\r\nFor the application for replacement of radio station license proposed by those who have been issued the frequency use certificate mentioned in the preceding paragraph, it is not necessary to reapply for the frequency use certificate.\r\nThe MMSI numbers issued pursuant to Paragraph 1, Article 48 of the Telecommunications Act to the promulgation of the Act may remain in use."
+		},
+		{
+			"條號": "Article 37",
+			"條文內容": "In case that the public service network establisher is a government agency（institution）, the competent authority may delegate the management to the central agency that supervises its businesses; the same shall apply to other dedicated telecommunications networks that are in need of management delegation."
+		},
+		{
+			"條號": "Article 38",
+			"條文內容": "In case that the organization of a public service network establisher is changed or its businesses are transferred, but radio frequency, bandwidth, power output and place of establishment in the radio station license remain unchanged, the network establishment proposal shall be submitted to the competent authority for application for replacement of frequency use certificate, network inspection approval certificate and radio station license, and the competent authority may approve the replacement directly."
+		},
+		{
+			"條號": "Article 39",
+			"條文內容": "These Regulations shall be effective on the first day of July, 2020."
+		}
+	]
+}

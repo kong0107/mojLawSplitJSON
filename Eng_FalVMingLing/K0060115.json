@@ -1,0 +1,94 @@
+{
+	"法規性質": "命令",
+	"英文法規名稱": "Regulations for Inspection of Public Telecommunications Networks",
+	"中文法規名稱": "公眾電信網路檢驗辦法",
+	"法規網址": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0060115",
+	"最新英文異動日期": "20200630",
+	"沿革內容": "1.18 Articles in full enacted and promulgated by National Communications Commission（NCC）on June 30, 2020. Ref：Tung-Chuan-Ji-Chu Tze No. 10963014960",
+	"法規內容": [
+		{
+			"編章節": "Chapter Ⅰ General Provisions"
+		},
+		{
+			"條號": "Article 1",
+			"條文內容": "These Regulations are enacted in accordance with the provisions of Paragraph 3, Article 43 of the Telecommunications Management Act（hereinafter referred to as the Act）."
+		},
+		{
+			"條號": "Article 2",
+			"條文內容": "Public telecommunications network inspection is divided into network performance inspection and info-communications security inspection."
+		},
+		{
+			"條號": "Article 3",
+			"條文內容": "The network performance and info-communications security inspection object shall refer to the public telecommunications network establisher（hereinafter referred to as the establisher）."
+		},
+		{
+			"編章節": "Chapter Ⅱ Network Performance Inspection"
+		},
+		{
+			"條號": "Article 4",
+			"條文內容": "The competent authority shall select more than six examination-compliant establishers each year to conduct network performance inspections.\r\nThe competent authority shall consider the criticality, scale, number of subscribers, type of telecommunications service, frequency and extent of major telecommunications equipment or line incidents, frequency and results of the inspection, and other factors related to network performance when conducting the periodic inspections prescribed in the preceding paragraph.\r\nWhen the competent authority conducts network performance inspection, it shall act in accordance with the principle of not obstructing telecommunications services."
+		},
+		{
+			"條號": "Article 5",
+			"條文內容": "When the competent authority conducts the periodic inspection mentioned in the preceding article, it shall notify the inspected establisher（hereinafter referred to as the inspected entity）of the inspection date, inspection items, sampling quantity of inspection, compliance standards, self-assessment document format, and payment notice in writing two months in advance. The inspected entity shall complete the payment within the time limit specified in the notice sent by the competent authority.\r\nIf the inspected entity in the preceding paragraph fails to cooperate with the inspection at the time designated by the competent authority due to business factors or other legitimate reasons, it may apply to the competent authority to change the inspection date with a written statement of reasons within five days from the next day after receiving the notice prescribed in the preceding paragraph.\r\nThe application in the preceding paragraph shall be limited to one change only, except for reasons of force majeure."
+		},
+		{
+			"條號": "Article 6",
+			"條文內容": "After receiving the notice in the preceding article, the inspected entity shall submit self-assessment and supporting materials within the time limit stated in the notice.\r\nIf the self-assessment and supporting materials mentioned in the preceding paragraph are deemed incomplete, the competent authority may notify the inspected entity to undertake corrective action within a prescribed period of time or determine it to be non-compliance.\r\nThe inspected entity shall assign an engineering supervisor to participate in the inspection throughout the entire process, and assign more than one staff member to assist in the inspection."
+		},
+		{
+			"條號": "Article 7",
+			"條文內容": "If the establisher falls under any one of the following circumstances, the competent authority may conduct irregular network performance inspections of the establisher, and the inspection items shall be related to major telecommunications equipment or line incidents in principle：\r\n1. Major telecommunications equipment or line incidents occurred in public telecommunications networks\r\n2. Other circumstances announced by the competent authority"
+		},
+		{
+			"條號": "Article 8",
+			"條文內容": "The inspection items, test methods and compliance standards of the network performance inspection shall be managed in accordance with the examination regulations of the Technical Specifications for Examination of Public Telecommunications Network, Technical Specifications for Microwave Radio Station, Technical Specifications for Satellite Earth Radio Station, Technical Specifications for Radio Broadcast Stations, and Technical Specifications for TV Broadcast Stations.\r\nSampling quantity of inspection and compliance standards shall be in accordance with the technical specifications listed in the preceding paragraph, and shall be one-tenth of the normal sampling quantity in principle, unless the competent authority is conducting irregular  network performance inspections in accordance with Article 7."
+		},
+		{
+			"條號": "Article 9",
+			"條文內容": "The competent authority shall notify the inspected entity of the inspection results within one month after the completion of the network performance inspection.\r\nIf the inspection results in the preceding paragraph show deficiencies or improvement is needed, the inspected entity shall submit an improvement report to the competent authority within one month after receiving the inspection results.\r\nAfter the inspected entity submits an improvement report prescribed in the preceding paragraph, within the time specified by the competent authority, according to the nature and extent of the deficiencies or items needing improvement, the implementation of the improvement report shall be submitted in writing; if deemed necessary by the competent authority, the competent authority may request the inspected entity to explain or undertake improvements."
+		},
+		{
+			"編章節": "Chapter Ⅲ Info-communications Security Inspection"
+		},
+		{
+			"條號": "Article 10",
+			"條文內容": "The competent authority shall select more than six examination-compliant establishers each year to conduct information security inspections.\r\nThe competent authority shall consider the criticality, scale, number of subscribers, type of telecommunications service, level of info-communications security responsibility, frequency and extent of info-communications security incidents, frequency and results of the inspection, and other factors related to information security when conducting periodic inspections prescribed in the preceding paragraph.\r\nWhen the competent authority conducts network performance inspection, it shall act in accordance with the principle of not obstructing telecommunications services."
+		},
+		{
+			"條號": "Article 11",
+			"條文內容": "When the competent authority conducts periodic inspections mentioned in the preceding article, it shall notify the inspected entity of the inspection date, inspection items, compliance standards, and payment notice in writing two months in advance. The inspected entity shall complete the payment within the time limit specified in the notice sent by the competent authority.\r\nIf the inspected entity in the preceding paragraph fails to cooperate with the inspection at the time designated by the competent authority due to business factors or other legitimate reasons, it may apply to the competent authority to change the inspection date with a written statement of reasons within five days from receiving the notice prescribed in the preceding paragraph.\r\nThe application in the preceding paragraph shall be limited to one change only, except for reasons of force majeure."
+		},
+		{
+			"條號": "Article 12",
+			"條文內容": "If the establisher falls under any one of the following circumstances, the competent authority may conduct irregular info-communications security inspections to it：\r\n1. The info-communications security incident occurred on the public telecommunications networks and reached a level-3 cyber security incident or higher as stipulated in the Regulations on the Notification and Response of Cyber Security Incident.\r\n2. There is a likelihood that the public telecommunications network may endanger national security or info-communications security, and it is notified by relevant authorities."
+		},
+		{
+			"條號": "Article 13",
+			"條文內容": "The content of the info-communications security inspection conducted by the competent authority shall be as follows：\r\n1. For the inspected entity having the information security maintenance plan formulated, the implementation of its information security maintenance plan shall be inspected.\r\n2. For the inspected entity having not formulated the information security maintenance plan, the implementation of its network information security protection planning shall be inspected.\r\nWhen a part or all of the public telecommunications network of the inspected entity in the preceding paragraph is critical telecommunications infrastructure, the competent authority may require the inspected entity to provide supporting materials that comply with the Technical Specifications for Info-communications Security Testing of Info-communication Equipment of the Critical Telecommunications Infrastructure whose formulation is authorized by Paragraph 8, Article 42 of the Act.\r\nIf the supporting materials mentioned in the preceding paragraph cannot be provided, the competent authority may request the inspected entity to provide a valid test report issued by a test body recognized by the competent authority to perform the technical specifications prescribed in the preceding paragraph, within the specified period.\r\nThe period prescribed in the preceding paragraph shall be limited to two months."
+		},
+		{
+			"條號": "Article 14",
+			"條文內容": "The items and compliance standards of the info-communications security inspection shall be handled in accordance with the info-communications security inspection form announced by the competent authority."
+		},
+		{
+			"條號": "Article 15",
+			"條文內容": "The competent authority shall notify the inspected entity of the inspection results within one month after the completion of the info-communications security inspection.\r\nIf the inspection results in the preceding paragraph show deficiencies or improvement needed, the inspected entity shall submit an improvement report to the competent authority within one month after receiving the inspection results.\r\nAfter the inspected entity submits an improvement report prescribed in the preceding paragraph, within the time specified by the competent authority, according to the nature and extent of the deficiencies or items needing improvement, the implementation of the improvement report shall be submitted in writing; if deemed necessary by the competent authority, the competent authority may request the inspected entity to explain or undertake improvements."
+		},
+		{
+			"編章節": "Chapter Ⅳ Supplementary Provisions"
+		},
+		{
+			"條號": "Article 16",
+			"條文內容": "The second-level central agency commissioned by the competent authority for the execution in accordance with the provisions of Paragraph 2, Article 43 of the Act may conduct info-communications security inspections and network performance inspections in accordance with these Regulations."
+		},
+		{
+			"條號": "Article 17",
+			"條文內容": "The relevant forms and tables stipulated in these Regulations shall be separately announced by the competent authority."
+		},
+		{
+			"條號": "Article 18",
+			"條文內容": "These Regulations shall be implemented from the date of promulgation of the Act."
+		}
+	]
+}

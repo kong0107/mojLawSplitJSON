@@ -3,8 +3,8 @@
 	"英文法規名稱": "The Administrative Court Organization Act",
 	"中文法規名稱": "行政法院組織法",
 	"法規網址": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=A0010055",
-	"最新英文異動日期": "20111123",
-	"沿革內容": "1. Promulgated on November 11, 1932\r\n2. Amended on November 6, 1936\r\n3. Amended on July 25, 1942\r\n4. Amended on April 16, 1945\r\n5. Amended on October 30, 1945\r\n6. Amended on March 24, 1948\r\n7. Amended on December 12, 1975\r\n8. Amended on November 11, 1994\r\n9. Amended on February 3, 1999\r\n10. Amended on May 23, 2001\r\n11. Amended on November 23, 2011",
+	"最新英文異動日期": "20190104",
+	"沿革內容": "1. Promulgated on November 11, 1932\r\n2. Amended on November 6, 1936\r\n3. Amended on July 25, 1942\r\n4. Amended on April 16, 1945\r\n5. Amended on October 30, 1945\r\n6. Amended on March 24, 1948\r\n7. Amended on December 12, 1975\r\n8. Amended on November 11, 1994\r\n9. Amended on February 3, 1999\r\n10. Amended on May 23, 2001\r\n11. Amended on November 23, 2011\r\n12. By Presidential Order Hua-Tsung (I)-Yi-Tzu No 10800001281 on January 4, 2019, the provision of Article 3 is amended and promulgated; Articles 15-1 to 15-11, and 16-1 are added; and the provision of Article 16 is deleted; the enactment date shall be prescribed by the Judicial Yuan.\r\n    Promulgated by order of the Judicial Yuan Yuan-Tai-Ting-Si-Yi (I)-Tzu No. 1080000418 on January 14, 2019, and to be enacted on July 4, 2019.",
 	"法規內容": [
 		{
 			"編章節": "Chapter 1 General Provisions"
@@ -19,7 +19,7 @@
 		},
 		{
 			"條號": "Article 3",
-			"條文內容": "A trial in the High Administrative Court shall be adjudicated by a panel of three Judges.\r\nA trial in the Supreme Administrative Court shall be adjudicated by a panel of five Judges."
+			"條文內容": "Trials in a High Administrative Court are conducted by a collegial panel of three judges.\r\nTrials in the Supreme Administrative Court, unless otherwise prescribed by law, are conducted by a collegial panel of five judges."
 		},
 		{
 			"條號": "Article 4",
@@ -84,8 +84,56 @@
 			"條文內容": "Each division of the Supreme Administrative Court shall have five judges, each with a selection rank of 13th to 14th grade. \r\nTo cope with the work load, the Judicial Yuan may transfer judges, judges-in-probation, judges-in-training from High Administrative Courts, or High Courts, or every levels of lower courts thereof to the Supreme Administrative Court, with one to five judges for each division court, to assist the presiding judge with trial proceedings, substantive analysis, information collection and analysis, and drafting of judgments. \r\nWhen necessary, the Supreme Administrative Court may have judicial assistants to assist with the management of trial proceedings, procedural analysis, information collection and analysis. The position of a judicial assistant is to be filled with professional personnel in accordance with relevant applicable laws of contract-based employment, or by transferring personnel from other courts, or administrative courts or other judicial personnel, or by temporarily transferring personnel from other appropriate agencies. \r\nThe years that a judge, a judge-in-probation or a judge-in-training has served on the Supreme Administrative Court shall be counted towards his seniority of a judge, a judge-in-probation, or a judge-in-training.\r\nFor those who have a professional qualification, their service years as a Judicial Assistant shall be counted towards the seniority of their professional practices.\r\nThe regulations governing personnel selections of a Judicial Assistant shall be prescribed by the Judicial Yuan."
 		},
 		{
+			"條號": "Article 15-1",
+			"條文內容": "The Supreme Administrative Court shall establish a Grand Chamber to adjudicate legal disputes."
+		},
+		{
+			"條號": "Article 15-2",
+			"條文內容": "When any of the supreme administrative courts reviews a trial case, if the judgment-based legal opinion is deemed, after a review, different from the antecedent legal opinion for the judgment, reasons should be stated in a ruling, and the case should be submitted to the Grand Chamber for adjudication.\r\nBefore making a ruling for a case as mentioned in the preceding paragraph, the said supreme administrative court should confer with the opinions of other courts with letters of consultation. The consulting court shall reply in writing within 30 days; if no reply is received within 30 days, it is deemed to maintain the antecedent legal opinion for the judgment. Only after one of the consulting courts asserts a stand to maintain the antecedent legal opinion, can the court then make a ruling for the case, as mentioned in the preceding paragraph."
+		},
+		{
+			"條號": "Article 15-3",
+			"條文內容": "When any of the supreme administrative courts reviews a trial case, if the judgment-based legal opinion is deemed, after a review, significant in general principle, reasons should be stated in a ruling, and the case should be submitted to the Grand Chamber for adjudication."
+		},
+		{
+			"條號": "Article 15-4",
+			"條文內容": "During a trial in a supreme administrative court, if there are legal opinions in which the parties consider significant enough to sway the judgment, are dissenting with the antecedent judgment opinions, or are significant in general principle, the parties may indicate the following information in a written statement, and file a motion with the court that accepted the case to submit said case with a ruling to the Grand Chamber for judgment.\r\n1. Legal provisions involved; \r\n2. The judgment that derives from dissenting opinions, or the specific contents of the legal opinion that are significant in general principle;\r\n3. The impact of the said dissenting opinions, or the opinions of general significance, on the outcome of the judgment;\r\n4. The legal opinions and reasons held by the movant.\r\nThe parties should retain an agent ad litem to file a motion, as mentioned in the preceding paragraph, and the provisions of Article 241-1 of the Administrative Litigation Procedure Act shall apply.\r\nAny one of the supreme administrative courts may rule to reject the motion if it deems that the motion is not in compliance with legal procedures, or if it should not be legally permitted."
+		},
+		{
+			"條號": "Article 15-5",
+			"條文內容": "The court submitting the case may state reasons in a ruling and withdraw the submitted case prior to the conclusion of oral arguments in the Grand Chamber, if and when the status of the said legal dispute has rendered it unnecessary."
+		},
+		{
+			"條號": "Article 15-6",
+			"條文內容": "The adjudicating of legal disputes in a Grand Chamber shall be conducted by a collegial panel of nine judges, and the president of the Supreme Administrative Court shall assume the position of the presiding judge.\r\nThe panel of judges of the Grand Chamber is composed of one judge as assigned by the court submitting the case, and seven judges elected by ballot.\r\nEach court should have at least one judge as an elected judge of the Grand Chamber, as mentioned in the preceding paragraph, and those who serve concurrently as division chief judges shall not exceed one half of the total number of judges."
+		},
+		{
+			"條號": "Article 15-7",
+			"條文內容": "The term of office for elected judges, as mentioned in the second paragraph of the preceding Article, is two years. The candidates for elected judges and substitutes are selected by a secret ballot, in a judge meeting, from the entire board of judges, with priority given to the number of votes from high to low, and in compliance with the method as described in the provisions of the third paragraph of the preceding Article. The term of office for the substitute judges expires along with the original term.\r\nIf the president is absent, or is not available to serve as the presiding judge for any reason, the vacancy shall be filled by a substitute judge, as mentioned in the preceding paragraph, and the most senior member, based on experience, of the division chief judges of the Grand Chamber shall serve as the presiding judge; if no division chief judge is available, the most senior court judge, based on experience, shall fill the vacancy; if more than one judge has the same seniority based on experience, then the judge with the most seniority, based on age, shall serve the position. If an elected judge of the Grand Chamber is absent or not available to serve as the judge for the Grand Chamber, the vacancy shall be filled by a substitute judge, as mentioned in the preceding paragraph.\r\nIf the judge assigned by the court submitting the case, as mentioned in the second paragraph of the preceding Article, is absent or is not available to serve as a judge of the Grand Chamber, the court submitting the case shall assign another court judge to serve in the position.\r\nWhen there is a change of judges due to a reelection in the Grand Chamber, the legal dispute under review by the Grand Chamber shall remain with the same Grand Chamber until the review has reached its conclusion. If a judge of the said Grand Chamber is absent or is not available to serve as the judge, the position shall be filled by a substitute judge, who was selected at the time when the legal dispute was submitted to the Grand Chamber."
+		},
+		{
+			"條號": "Article 15-8",
+			"條文內容": "When adjudicating legal disputes, the Grand Chamber should conduct oral arguments.\r\nThe parties should retain an agent ad litem to perform the oral arguments, as mentioned in the preceding paragraph, and the provisions of Article 241-1 of the Administrative Litigation Procedure Act shall apply.\r\nOn the date of oral arguments, as referred to in the first paragraph, if one of the parties has not retained an agent ad litem, or if the agent ad litem is not present, adjudication shall be decided after the agent ad litem who is present makes his/her statement. If agents ad litem of both parties are not present, the oral arguments will not be conducted.\r\nWhen the Grand Chamber deems it necessary, the Court may ex officio, or on a motion by the parties, their agents, or defense attorneys, select experts or scholars of specific professional legal issues to present their legal opinions in writing, or make statements during oral arguments.\r\nThe persons, who present statements as described in the preceding paragraph, shall disclose the following information, and the provisions concerning expert witnesses in the Administrative Litigation Procedure Act shall apply:\r\n1. Whether or not, during the preparation or submission of relevant professional opinions or information, they have a delegation or cooperation relationship with the parties, interested parties, or their agents.\r\n2. Whether or not, during the preparation or submission of relevant professional opinions or information, they have received monetary remuneration, or financial assistance, or its equivalent price or value, from the parties, interested parties, or their agents.\r\n3. The identities of other people who provided monetary remuneration, or assistance, or its equivalent price or value."
+		},
+		{
+			"條號": "Article 15-9",
+			"條文內容": "When adjudicating a legal dispute, the Grand Chamber should document the main text of and reasons for the ruling, and the said ruling should be pronounced within 30 days of the conclusion of arguments.\r\nJudges’ minority opinions, which are different from the majority opinions formed during the review period, after being recorded in the review book and submitted as a written record of the different opinions (minority report) prior to the pronouncement of a ruling, should be promulgated along with the ruling."
+		},
+		{
+			"條號": "Article 15-10",
+			"條文內容": "The ruling of a Grand Chamber is legally binding on cases submitted by the submitting courts."
+		},
+		{
+			"條號": "Article 15-11",
+			"條文內容": "Unless otherwise prescribed by this Act, the provisions of Administrative Litigation Procedure Act, and/or other relevant regulations that are not contradictory to the normative nature of Grand Chambers, shall also apply."
+		},
+		{
 			"條號": "Article 16",
-			"條文內容": "Concerning judgments of the Supreme Administrative Court, if the legal opinions on which they are based are such that it is considered necessary for them to be compiled as precedents, then a meeting must be convened with the participation of the President, the Division-Chief Judge, and Judges to decide on the resolution, which is subsequently submitted to the Judicial Yuan for recordation.\r\nThe provision of the preceding Paragraph is applicable to the trial cases, adjudicated by the Supreme Administrative Court, of which a legal opinion is considered necessary to alter their precedents.\r\nIf the interpretations from each division court are different on the legal opinions of a judgment adjudicated by the Supreme Administrative Court, a joint conference with the attendance of the President, the Division-Chief Judge, and Judges should be held prior to the compilation of the precedent, as prescribed in the 1st paragraph, so as to have a resolution on a uniform interpretation of the law."
+			"條文內容": "(deleted)"
+		},
+		{
+			"條號": "Article 16-1",
+			"條文內容": "The applicability of precedent cases compiled by the Supreme Administrative Court prior to the enactment of the amendment of this Act, on December 7, 2018, should be suspended, if the full text of the judgment is not available for reference.\r\nThe precedents, in which the applicability has not been suspended prior to the stipulation of the preceding paragraph, have the same effect as the Supreme Administrative Court judgments that have not been selected as precedents.\r\nWithin three years after the implementation of the amended Act on December 7, 2018, if there is doubt, that the precedents, or resolutions, on which the final and binding judgment of the people's case is based, are contradictory to the Constitution, the people may file a motion for Constitutional interpretations pursuant to the provisions of Article 5 Paragraph 1 Subparagraph 2 of the Judicial Yuan Justices Reviewing Cases Act."
 		},
 		{
 			"編章節": "Chapter 4 Qualifications and Benefits of a Judge"
