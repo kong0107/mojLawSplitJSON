@@ -1,14 +1,15 @@
 {
 	"pcode": "L0040074",
 	"type": "命令",
-	"english": "Sanitation Standard for General Foods",
+	"english": "Sanitation Standards for General Foods",
 	"title": "一般食品衛生標準",
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=L0040074",
-	"englishUpdate": "20190815",
+	"englishUpdate": "20201210",
 	"history": [
-		"DOH Food No. 0960408889 Announced, 12/21/2007",
-		"MOHW Food No. 1021350146 Amended, 08/20/2013",
-		"MOHW Food No. 1071303671 Amended, 08/15/2019"
+		"DOH Food No. 0960408889 Announced, 21 December 2007",
+		"MOHW Food No. 1021350146 Amended, 20 August 2013",
+		"MOHW Food No. 1071303671 Amended, 15 August 2019",
+		"MOHW Food No. 1091303587 Amended, 10 December 2020"
 	],
 	"divisions": [],
 	"articles": [
@@ -22,15 +23,15 @@
 		},
 		{
 			"number": 300,
-			"content": "Foods being sold shall have normal and reasonable acceptable traits, flavor and color. No discoloration, off odor or flavor, abnormal clot or precipitate, contamination, visible moldy, foreign matter, insects or parasite can be permitted, because of bad hygiene, poor quality or improper processing process control."
+			"content": "Foods being sold shall have normal and reasonable acceptable traits, flavor and color. No discoloration, off odor or flavor, abnormal clot or precipitate, contamination, visible moldy, foreign matter, insects or parasite can be permitted; because of bad hygiene, poor quality or improper processing process control."
 		},
 		{
 			"number": 400,
-			"content": "The maximum levels of metals, mycotoxins, other contaminants  and toxins in foods, except as foods which have their own sanitation standards, shall meet the “Sanitation Standard for Contaminants and Toxins in Food”."
+			"content": "The maximum levels of metals, mycotoxins, other contaminants and toxins in foods, except as foods which have their own sanitation standards, shall meet the “Sanitation Standard for Contaminants and Toxins in Food”."
 		},
 		{
 			"number": 500,
-			"content": "The maximum level of microorganism for general foods:\r\n┌─────────────┬────────┬───────┐\r\n│        ＼                │MPN of Coliform │MPN of E. Coli│\r\n│Item      ＼              │bacteria per    │per gram      │\r\n│            ＼            │gram            │              │\r\n├─────────────┼────────┼───────┤\r\n│General foods served      │Not more than   │Negative      │\r\n│without preparing         │  3             │              │\r\n│treatments (including     │10              │              │\r\n│washing, peeling, heating,│                │              │\r\n│cooking, etc.)            │                │              │\r\n├─────────────┼────────┼───────┤\r\n│General foods to be served│                │              │\r\n│after preparing treatments│                │              │\r\n│(including washing,       │      －        │      －      │\r\n│peeling, heating, cooking,│                │              │\r\n│etc.)                     │                │              │\r\n└─────────────┴────────┴───────┘"
+			"content": "(Delete)"
 		},
 		{
 			"number": 600,
@@ -42,11 +43,11 @@
 		},
 		{
 			"number": 800,
-			"content": "Infant formula, follow-up infant formula, infant formula for special medical purposes and cereal based foods for infants not more than 12 months of age, residue pesticide shall not be more than 0.01 ppm. This limit will reference to pesticides minimum detectable level, when this level is greater or less than 0.01 ppm.\r\nThat violation of this  Article  shall  be  sanctioned in  accordance  with violation subparagraphs 5 of paragraph1 of Article 15 of this Act."
+			"content": "Infant formula, follow-up infant formula, infant formula for special medical purposes and cereal based foods for infants not more than 12 months of age, residue pesticide shall not be more than 0.01 ppm. This limit will reference to pesticides minimum detectable level, when this level is greater or less than 0.01 ppm.\r\nThat violation of this Article shall be sanctioned in accordance with violation subparagraphs 5 of paragraph 1 of Article 15 of this Act."
 		},
 		{
 			"number": 900,
-			"content": "This Standard shall be implemented at release date."
+			"content": "This Standard shall be implemented at release date.\r\nThe amended articles shall apply form 1 July 2021."
 		}
 	]
 }

@@ -4,7 +4,7 @@
 	"english": "Road Traffic Management and Penalty Act",
 	"title": "道路交通管理處罰條例",
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0040012",
-	"englishUpdate": "20190619",
+	"englishUpdate": "20200610",
 	"history": [
 		" Promulgated on February 5, 1968. (77 Articles)",
 		" Amendment to Articles 14, 75 and addition of Articles 76~78 and the original Articles 76, 77 are change to 79,80 on January 27, 1969.",
@@ -42,7 +42,8 @@
 		" Amendment to Articles 61、63 promulgated on June 13, 2018",
 		" Amended to Articles 35、37、45、67、73、85-2、87 and addition of Articles 35-1、35-2 promulgated on April 17, 2019",
 		" Amendment to Articles 44,48,74,82 promulgated on May 22, 2019",
-		" Addition of Articles 69,72,73,76 and addition of Articles 72-1 promulgated on June 19, 2019."
+		" Addition of Articles 69,72,73,76 and addition of Articles 72-1 promulgated on June 19, 2019.",
+		" Amendment to Articles 30,55,90 promulgated on JUNE 10, 2020"
 	],
 	"divisions": [
 		{
@@ -251,7 +252,7 @@
 		},
 		{
 			"number": 3000,
-			"content": "In the event of any of the following conditions concerning the loading of goods, car drivers shall be fined from NT$3,000 to NT$9,000; be required to make corrections; or be prohibited from driving:\r\n1. Carrying goods that exceed the weight, length, width, or height limits without special admission; or fail to follow regulations regarding designated routes and times.\r\n2. Carrying goods that leaking, scattering, or spraying foul odor.\r\n3. Carrying more workers than as permitted by the regulations, or failing to follow the regulations regarding passenger seating.\r\n4. Exceeding the approved number of passengers. This does not apply to public buses carrying passengers with a gross weight that meets the approved limits during rush hour.\r\n5. Exceeding the approved number of passengers in the front seat of a small passenger car or driver’s cabin of a truck.\r\n6. Carrying passengers outside the vehicle cabin.\r\n7. Failing to properly secure passengers and goods and apparently cause safety concern.\r\n8. Failing to bring any of the followings: special permission for in carrying hazardous goods; proof of inspection for a tank on a tank truck; operation training certificate; or failing to follow the regulations regarding designated routes and time.\r\nShould a car owner be held responsible for any of the offenses above, he/she shall be fined and charged with 1 traffic violation; the car driver shall also be charged with 2 traffic violation points under Subparagraph 2, Paragraph 1, Article 63.\r\nShould the offenses detailed in Paragraph 1 or 2 result in injury, the driver license shall be suspended for 1 year. Should said offenses result in serious injury or death, the driver license shall be revoked."
+			"content": "In the event of any of the following conditions concerning the loading of goods, car drivers shall be fined from NT$3,000 to NT$9,000; be required to make corrections; or be prohibited from driving:\r\n1. Carrying goods that exceed the weight, length, width, or height limits without special admission; or fail to follow regulations regarding designated routes and times.\r\n2. Carrying goods that leak, scatter, fall off, drop or give off unpleasant odor.\r\n3. Carrying more workers than as permitted by the regulations, or failing to follow the regulations regarding passenger seating.\r\n4. Exceeding the approved number of passengers. This does not apply to public buses carrying passengers with a gross weight that meets the approved limits during rush hour.\r\n5. Exceeding the approved number of passengers in the front seat of a small passenger car or driver’s cabin of a truck.\r\n6. Carrying passengers outside the vehicle cabin.\r\n7. Failing to properly secure passengers and goods and apparently cause safety concern.\r\n8. Failing to present any of the followings: special permission for carrying hazardous goods; proof of inspection for a tank on a tank truck; operation training certificate; or failing to follow the regulations by driving at designated lane(s), route(s) and time slots.\r\nShould a car owner be held responsible for any of the offenses above, he/she shall be fined and charged with 1 traffic violation; the car driver shall also be charged with 2 traffic violation points under Subparagraph 2, Paragraph 1, Article 63.\r\nShould the offenses detailed in Paragraph 1 or 2 result in injury, the driver license shall be suspended for 1 year. Should said offenses result in serious injury or death, the driver license shall be revoked."
 		},
 		{
 			"number": 3100,
@@ -375,7 +376,7 @@
 		},
 		{
 			"number": 5500,
-			"content": "In the event of any of the followings to make a stop, car drivers shall be fined from NT$300 to NT$600:\r\n1. Stopping on bridges, in tunnels, at circles, in front of obstacles, on sidewalks, on pedestrian crossings, or in fast moving traffic lanes.\r\n2. Stopping at intersections, within the range of 10 meters near a bus stop, or within the range of 5 meters near the exits or entrances for fire trucks.\r\n3. Stopping in places with signs or markings indicating no stop allowed.\r\n4. Stopping without conforming the traffic direction, without keeping to the right of roadways, without keeping close to the edges of one-way streets, or parallel parking.\r\n5. Stopping in front of traffic signs and block the signs.\r\nDrivers are exempt from the restriction of stopping for less than 3 minutes if they are parking to allow people with disability to access vehicles."
+			"content": "In the event of any of the followings to make a stop, car drivers shall be fined from NT$300 to NT$600:\r\n1. Stopping on bridges, in tunnels, at circles, in front of obstacles, on sidewalks, on pedestrian crossings, or in fast moving traffic lanes.\r\n2. Stopping at intersections, within the range of 10 meters near a bus stop, or within the range of 5 meters near the exits or entrances for fire trucks.\r\n3. Stopping in places with signs or markings indicating no stop allowed.\r\n4. Stopping without conforming the traffic direction, without keeping to the right of roadways, without keeping close to the edges of one-way streets, or parallel parking.\r\n5. Stopping in front of traffic signs and block the signs.\r\nDrivers are exempt from the 3-minute temporary parking rule when transporting children under 7 years old or people with disabilities to access vehicles."
 		},
 		{
 			"number": 5600,
@@ -563,7 +564,7 @@
 		},
 		{
 			"number": 9000,
-			"content": "Behaviors in violation of this Act shall not be subjected to be accused if it is more than 3 months after the violating behavior has occurred, or it is a continuous behavior in violation of this Act shall not be subject to be reported if it is more than 3 months after the violating behavior has ended. However, in the event of an accident involving injuries or deaths for which the responsibilities cannot be determined and for which investigations have begun, the calculation for the aforementioned 3 month period shall begin from the day on which the investigations have been closed."
+			"content": "Behaviors in violation of this Act shall not be subject to reporting if more than 2 months have passed since the violation. If the behavior violating the Act reoccurs or is continuous in nature, it shall not be subject to reporting if more than 2 months have passed since the violation ended. However, in the event of an accident involving injuries or deaths for which the responsibilities cannot be determined and for which investigations have begun, the calculation for the aforementioned 2 month period shall begin from the day on which the investigations have been closed. If the above-mentioned accident does not go through investigation yet requires analysis and examination, behaviors in violation of the Act shall not be subject to reporting after 3 months of its occurrence."
 		},
 		{
 			"number": 9001,

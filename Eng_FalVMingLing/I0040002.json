@@ -1,10 +1,10 @@
 {
 	"pcode": "I0040002",
 	"type": "命令",
-	"english": "Enforcement Rules of the Prison serving Act",
+	"english": "The Enforcement Rules of the Prison Act",
 	"title": "監獄行刑法施行細則",
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=I0040002",
-	"englishUpdate": "20180510",
+	"englishUpdate": "20200715",
 	"history": [
 		"Promulgated on March 05, 1975",
 		"Amended on April 01, 1981",
@@ -15,514 +15,352 @@
 		"Amended on June 06, 2003",
 		"Amended on Novenber 16, 2004",
 		"Amended on September 23, 2005",
-		"Amended on May 10, 2018 Enforcement Rules of the Prison serving Act, Article 26"
+		"Amended on May 10, 2018 Enforcement Rules of the Prison serving Act, Article 26",
+		"Amended on July 15, 2020"
 	],
 	"divisions": [
 		{
 			"type": "chapter",
 			"number": 100,
-			"title": "General provisions",
+			"title": "General",
 			"start": 100,
-			"end": 900
+			"end": 800
 		},
 		{
 			"type": "chapter",
 			"number": 200,
-			"title": "Acceptances to The Prisons",
-			"start": 1000,
-			"end": 1800
+			"title": "Prison Admission",
+			"start": 900,
+			"end": 1300
 		},
 		{
 			"type": "chapter",
 			"number": 300,
 			"title": "Imprisonment",
-			"start": 1900,
-			"end": 2700
+			"start": 1400,
+			"end": 1700
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Custody and Security",
-			"start": 2800,
-			"end": 3500
+			"start": 1800,
+			"end": 2300
 		},
 		{
 			"type": "chapter",
 			"number": 500,
-			"title": "Labor",
-			"start": 3600,
-			"end": 4200
+			"title": "Work",
+			"start": 2400,
+			"end": 2800
 		},
 		{
 			"type": "chapter",
 			"number": 600,
-			"title": "Education and Instruction",
-			"start": 4300,
-			"end": 6200
+			"title": "Edification, Culture and Entertainment",
+			"start": 2900,
+			"end": 3600
 		},
 		{
 			"type": "chapter",
 			"number": 700,
-			"title": "Supply",
-			"start": 6300,
-			"end": 6700
+			"title": "Provisions and Supplies",
+			"start": 3700,
+			"end": 4000
 		},
 		{
 			"type": "chapter",
 			"number": 800,
-			"title": "Sanitary and Medical Treatment",
-			"start": 6800,
-			"end": 7800
+			"title": "Sanitation and Health Care",
+			"start": 4100,
+			"end": 4600
 		},
 		{
 			"type": "chapter",
 			"number": 900,
-			"title": "Visit and Correspondence",
-			"start": 7900,
-			"end": 8201
+			"title": "Visits and Correspondence",
+			"start": 4700,
+			"end": 4700
 		},
 		{
 			"type": "chapter",
 			"number": 1000,
-			"title": "Safekeeping",
-			"start": 8300,
-			"end": 8500
+			"title": "Rewards, Punishments and Indemnification",
+			"start": 4800,
+			"end": 4800
 		},
 		{
 			"type": "chapter",
 			"number": 1100,
-			"title": "Rewards, Punishment and Compensation",
-			"start": 8600,
-			"end": 8700
+			"title": "Petition and Complaint",
+			"start": 4900,
+			"end": 5000
 		},
 		{
 			"type": "chapter",
 			"number": 1200,
 			"title": "Parole",
-			"start": 8800,
-			"end": 9000
+			"start": 5100,
+			"end": 5400
 		},
 		{
 			"type": "chapter",
 			"number": 1300,
-			"title": "Release and Aftercare",
-			"start": 9100,
-			"end": 9200
+			"title": "Release and Protection",
+			"start": 5500,
+			"end": 5600
 		},
 		{
 			"type": "chapter",
 			"number": 1400,
 			"title": "Death",
-			"start": 9300,
-			"end": 9400
+			"start": 5700,
+			"end": 5700
 		},
 		{
 			"type": "chapter",
 			"number": 1500,
-			"title": "The Execution of Capital Sentence",
-			"start": 9500,
-			"end": 9600
-		},
-		{
-			"type": "chapter",
-			"number": 1600,
-			"title": "Supplementary Provisions",
-			"start": 9700,
-			"end": 9700
+			"title": "Miscellaneous",
+			"start": 5800,
+			"end": 5900
 		}
 	],
 	"articles": [
 		{
 			"number": 100,
-			"content": "This Enforcement Rules is stipulated in accordance with the provisions of Article 93-1 of Prison Serving Act (hereinafter referred to as the \"Act\")."
+			"content": "These Enforcement Rules are established in accordance with Article 155 of the Prison Act (hereinafter “the Act”)."
 		},
 		{
 			"number": 200,
-			"content": "Prisoner's interests shall be taken into consideration when prison officials perform their duties."
+			"content": "In the execution of the Act, the competent authority and supervisory authority of the Act and the Prisons shall exercise care to the situations to the favor and disfavor of the prisoners."
 		},
 		{
 			"number": 300,
-			"content": "Convicted criminal who chooses to serve terms of commuted labor in lieu of the payment of fines shall be confined separately from those sentenced to imprisonment or those sentenced to criminal detention.\r\nIn cases where the convicted criminal is a person with foreign nationality or without nationality, he/she shall be moved to designated prison if deemed necessary."
+			"content": "The terms used in the Act and in these Enforcement Rules are defined as follows:\r\n1. Prison: Referring to any prison under the Agency of Corrections, Ministry of Justice, including any branch or female unit set up by the prison.\r\n2. Prison Official: Referring to the head of a Prison under the preceding subparagraph and the person authorized thereby.\r\n3. Prison Officer: Referring to the relevant staff that processes activities of a Prison under Subparagraph 1.\r\n4. Family members: Referring to persons who cohabit with a prisoner for the purpose of living together on a permanent basis in accordance with Articles 1122 and 1123 of the Civil Code.\r\n5. Nearest relatives: Referring to the prisoner’s spouse, lineal family, non-lineal family within 3 degrees of kinship, marital family within 2 degrees of kinship."
 		},
 		{
 			"number": 400,
-			"content": "The terms \"strict demarcation\", \"separate imprisonment\", \"demarcated imprisonment\" , and \"demarcated custody\" contained hereinafter in the Act are defined as follows:\r\n1. Strict demarcation: to isolate and demarcate convicted criminal with concrete walls inside the prison as a boundary.\r\n2. Separate imprisonment: to isolate convicted crimillal in different quarters,workshop, or assigned prison.\r\n3. Demarcated imprisonment: to confine convicted criminal in strictly demarcated quarters and workshop. \r\n4. Demarcated custody: to detain convicted criminal in custody in demarcated quarters for ills with defined boundaries inside the prison."
+			"content": "Paragraph 2, Article 3 of the Act is not applicable to prisoners who continue to face detentions or are subjected to labor services commuted from a fine, during incarceration, after completion of the sentence or after parole."
 		},
 		{
 			"number": 500,
-			"content": "Appeals made by a prisoner who contends the prison's punishment shall be processed ursuant to the regulations stipulated below:\r\n1. Prisoner contending prison's penalty shall submit th appeal in person within 10 days of the effective date by verbal communication or written document. In cases where appeals are made by verbal communication,prison official shall record every detail fact in the appeal logbook; in cases where appeals are made by written document, name, offence committed, service duration, detail facts of the penalty and dates, and reasons contending the penalty shall be included, and then sigh, seal or fingerprint the document, as well as date the appeal.\r\n2. Anonymous appeal will not be subject to processing.\r\n3. The prison governor issuing the penalty shall, if the appeal is deemed reasonable, withdraw the penalty and indicate other appropriate management procedures. If the appeal is deemed unreasonalbe, the subject matter shall to be reported th the governing authority immediately.\r\n4. Governing authority shall, if the appeal is deemed reasonable, order a termination, withdraw, or amendment to the penalty.\r\n5. Inspector shall, when processing appeals, conduct every necessary investigation and report the investigation results to the governing authority for review. During investigation, unless the inspector deem relevant to the subject matter, no prison officials shall be permitted to present at the scene.\r\n6. A prison shall not discriminate against or issue a punishment with irrelevant excuses to the prisoner who files the appeal.\r\n7. Governing authority has the authority to issue a final ruling to the appeal.\r\nThose who contend the ruling issued by other institution shall be redirected to related institution for further review.\r\nAll related news or rules regarding appeal procedure shall be posted in areas where prisoner is imprisoned and explained to the prisoner when he/she first enters the prison."
+			"content": "The terms “strict demarcation” and “separate imprisonment” in the Act are defined as follows:\r\n1. Strict Demarcation: Referring to the isolation and demarcation of prisoners by buildings, different floors in the same building or walls inside Prison.\r\n2. Separate Imprisonment: Referring to the isolation of prisoners in different quarters, workshops or assigned areas."
 		},
 		{
 			"number": 600,
-			"content": "In situations where a request for visitation of a prison in the purpose of academic research or in motivation deemed reasonable is permitted, male visitors shall be allowed to visit only the prisons for male and female visitors shall be allow to visit only the prisons for female. Special request under the permission of the prison governor is not subject to this limitation.\r\nDuring visitation, the prison shall dispatch an instructor to guide and explain, as well as make a note of visitors' or ' groups' names, occupations, home addresses, visiting date, and purposes.\r\nVisitors shall dress accordingly and remain silent. Without the prison governor's prior permission, photography is strictly prohibited. Conversation or exchange of goods with the prisoners is also subjected to strict prohibition.\r\nMinors, drunken persons, or ills are prohibited from visitation. Visitation request by a foreigner or person without nationality requires prior consent from the governing authority."
+			"content": "In accordance with Paragraph 3, Article 6 of the Act, the supervisory authority shall gradually establish reasonable adjustment guidelines in response to factors such as the conditions of the premises of each Prison."
 		},
 		{
 			"number": 700,
-			"content": "Prison staffs shall Mandarin during works. Unless deemed necessary, they shall not speak dialects or foreign languages."
+			"content": "Any request for visit by any person or media in accordance with Article 8 of the Act shall be filed in writing.\r\nThe written format under the preceding paragraph shall be established by the supervisory authority.\r\nPrisons shall plan the visitors’ routes carefully in advance to avoid infringement upon prisoners’ privacy or other interests.\r\nPrisons shall give below notice before any person’s or media’s visit and shall ask the visitors to comply with the following:\r\n1. Provide identification documents and cooperate with inspections performed in accordance with Article 21 of the Act.\r\n2. Wear proper cloths and follow order, without agitation or loud voices.\r\n3. Do not bring or use communications, video-recording, photographing or audio-recording equipment without the Prison’s approval.\r\n4. Follow the visitor’s routes without unauthorized action or loiter.\r\n5. It is prohibited to converse with or pass any object to and from any prisoner.\r\n6. Do not breach any relevant control measure or disposition of the Prison.\r\n7. No other act that jeopardizes the order or security of the Prison or the interests of the prisoners is allowed.\r\nThe Prison may stop the visit by any visitor who breaches the preceding paragraph.\r\nAny visitor below the age of 18 shall be accompanied by a legal representative, a guardian, a teacher or other appropriate adult."
 		},
 		{
 			"number": 800,
-			"content": "In circumstances where a prisoner is seriously ill, deceased, or is in any other serious conditions, the prison shall notify the said person's souse or relatives for visitation of the person. In circumstances where a prisoner is relocated to another prison, the prison shall also notify the said person's spouse or relatives."
+			"content": "Any media seeking interview in accordance with Article 8 of the Act shall file a written application and the interview shall be subjected to the Prison’s approval. The written format shall be established by the supervisory authority.\r\nWhen the interview is requested by an overseas media or if the interview will be published overseas, the Prison shall seek the approval of the supervisory authority.\r\nIf the media interviews involve any Prison Official or individual prisoner, the Prison shall acquire the interviewee’s consent.\r\nDuring interview by media, the Prison may adopt proper measures to maintain the integrity and interests of the prisoners and relevant staff.\r\nIf the target or detail of the media interview involves youth or juvenile, sexual offense, domestic violence, illness or other matters about which media coverage is restricted or prohibited by law, the regulations shall be complied with.\r\nMedia interview may be stopped if it creates an impact on the security or order of the Prison.\r\nAfter a media interview is made and before it is published, prior notice shall be given to the Prison or the prisoners. If the coverage is inconsistent with the interview details or facts, the Prison or prisoners may ask the media to make corrections or to make clarifications in a proper manner."
 		},
 		{
 			"number": 900,
-			"content": "Prison governor shall patrol the whole prison at least once each day. In order to comprehend the effect of the sentence on the prisoners, the rison governor shall meet prisoners regularly and make a note of relevant information in a logbook. Prison governor shall not, unless it is deemed irrelevant, decline prisoner's request for an appointment."
+			"content": "Admission of a prisoner without execution writ shall be rejected; if the judgment or other required document is missing, a notice for supplemental submission may be given."
 		},
 		{
 			"number": 1000,
-			"content": "Convicted criminal's acceptance procedures are listed as below:\r\n1. Count the number of incoming convicted criminals.\r\n2. Verify that all the essential documents have been prepared.\r\n3. Perform physical check-up on convicted criminals.\r\n4. Inspect convicted criminal's body, clothing, and personal belongings; money or valuable goods shall be taken into separate custody.\r\n5. Establish a record of convicted criminal's photographs and fingerprints.\r\n6. Run a seminar regarding prison service in an effort to educate the procedures and rules obligated to be obeyed, as well as the start and release date of the sentence.\r\n7.Gukde convicted criminal to shower, change of cloth, and haircut. Distribute daily supplies and arrange living quarters for convicted criminals.\r\nPhotographs taken pursuant to subparagraph 5 shall not be distributed to the public."
+			"content": "“New admission” provided in Paragraph 1, Article 11 of the Act refers to the admission of a prisoner by a Prison in accordance with Article 10 of the Act and excludes the transfer of any prisoner from another prison in accordance with Article 17 of the Act."
 		},
 		{
 			"number": 1100,
-			"content": "The term \"essential documents\" contained in paragraph 1 of Article 7 of the Act refers to the form with a personal picture, identification sheet and behavior assessment report, or approved transfer documents by the governing authority.\r\nAt the time of prison admission, the acceptance of the convicted criminal shall be denied if execution writs are absent. In the absence of the relevant verdicts and other essential documents, the convicted criminal shall be notified to deliver these documents within 3 days. Those who are being transferred from another prison without personal identification papers shall be denied for admission 0r notified of delivery of absent documents immediately."
+			"content": "The individual treatment plans for prisoners under Paragraph 3, Article 11 of the Act shall be drafted by the investigation team set up by the Prison after prisoners are admitted, submitted to the investigation review meetings for review and executed by relevant unit staff; the plans shall also be provided to the prisoners. The same shall be applicable in the case of amendment to any individual treatment plan."
 		},
 		{
 			"number": 1200,
-			"content": "The prisoner of a particular prison is under the sole discretion of the prosecutor of the competent Court's prosecutors' office. Transferees under the discretion of prosecutors from other district prosecutor's office shall be accepted for admission with the consent from the Ministry of Justice or unless other legal rulings otherwise stipulate.\r\nApproval documents of the acceptance shall be issued to the prisoner upon admission to the prison."
+			"content": "When admission is rejected in accordance with Paragraph 1, Article 13 of the Act, the Prison shall specify the reason and handle the situation in accordance with Paragraph 6 of the same Article."
 		},
 		{
 			"number": 1300,
-			"content": "Children accompanied by or were born in prison shall be taken into custody in the nursery room located in the prison for female convicted criminal.\r\nThe birth certificate of the child shall not have any records on the paper relating to the prison.\r\nWhen prisoner's children under the custody of the prison reaches the age of 3, in circumstances where no appropriate adoption candidate presents, shall be turned over to the care of a publicly- or privately- run relieve institution or other social welfare groups."
+			"content": "Prisoners shall be numbered following admission.  A prisoner identity book shall be established with information of their names and places of origin.\r\nThe identity book and the information of names and places of origin under the preceding paragraph may be prepared in writing, in the electronic version or in other proper manners."
 		},
 		{
 			"number": 1400,
-			"content": "A prisoner's physical examination at the admission shall be administered by the prison's physicians. In circumstances where a physical examination cannot be supervised due to inadequate equipments, the prisoner shall be escorted to a local public hospital for the completion of the examination. Pursuant to paragraph 1 of Article 11 of the Act in which the prisoner is denied for admission, the prison shall make a note of the justification for the denial."
+			"content": "When a Prison assigns living quarters in accordance with Paragraph 2, Article 16 of the Act as required for its management, due care shall be exercised to the provisions under Paragraph 2, Article 6 of the Act to avoid bullying."
 		},
 		{
 			"number": 1500,
-			"content": "The term \"dementia\" contained in paragraph 1-1 of Article 11 of the Act refers to the conditions where ,there is a malfunctioning in the said person's mental state and to the person without self-conscientiousness, who is completely deficient in the capability of senses, comprehension, and judgment."
+			"content": "Prisons shall divide the prisoners’ prison areas into correction areas, workshops, living quarters or other specific areas based the nature of the activities.\r\nPrisons shall assign areas based on the facilities inside Prisons to manage edification of prisoners by area; edification, processing, security and relevant staff inside Prisons shall be assigned to form guidance groups by area to execute matters related to the management, edification and other treatments of the prisoners.\r\nThe guidance groups under the preceding paragraph shall meet at least once every month to study reasonable and fair treatment methods for the management, edification, counseling and other important affairs of the respective areas and to execute accordingly.\r\nPrisons shall invite members of the guidance groups by area to organize whole-prison general meetings of guidance groups every quarter to process the affairs under the preceding paragraph."
 		},
 		{
 			"number": 1600,
-			"content": "Each prisoner shall be given an identification number in lieu of his/her name for administration purpose.\r\nThe record of the prisoner's name and personal identification shall be completed in 3 days from the day of admission and after the day of release. The record shall be maintained in earnest effort.\r\nThe aforesaid name record shall include a numbered booklet, admission booklet, prison serving booklet, release date calendar, and booklet of prison discharge.\r\nPersonal identification record shall include an execution writs, verdict of the sentence, investigation and classification form, assignment sheet, rewards form, penalty form, letter form, visitors form, name book of grade, scores paper, picture ID form, fingerprint form, identification from, behavior assessment report, and legal address information."
+			"content": "Prisons shall arrange prisoners’ work, edification, entertainment, food, medical care, sports and other living routines.\r\nThe schedules for the routines under the preceding paragraph shall be published by Prisons in proper manners for prisoners’ information."
 		},
 		{
 			"number": 1700,
-			"content": "Left thumb shall be used when a prisoner is required to seal fingerprint for signature purpose. In circumstances where the use of left thumb is unfeasible, then right thumb shall be used in lieu. In circumstances where the use of both thumbs is unfeasible, the sequence of finger to be used follows the order of index, middle, ring, and little finger (left-hand fingers shall always precede righthand fingers). Administrator shall note down the name of finger used in the footnote. Ink or oil ink shall be used, and the fingerprint shall be positioned immediately adjacent to the name written."
+			"content": "When mild measures are granted in accordance with each subparagraph of Paragraph 1, Article 19 of the Act, reference shall be made to diagnosis certificate, proof of physical or mental disability, health examination report or relevant medical prescription documents; the physical and mental status of the prisoner shall be evaluated by a physician before determination of mild measures. If required, the Prison may seek assistance with the evaluation by other professionals.\r\nIn the event under the preceding paragraph, the Prison shall submit relevant information and lists to the supervisory authority for approval.  If the supervisory authority sees incompatibility, normal measures shall be reinstated.\r\nDocuments under Paragraph 1 shall be issued less than 3 months ago, unless a clear validity period is stated."
 		},
 		{
 			"number": 1800,
-			"content": "At the time of prison admission, a prisoner shall be informed to obey the regulations contained hereinafter:\r\n1. Determine to strive; there shall not be any deeds that endanger national interests or infringe organizational honors.\r\n2. Obedient to official's instructions; there shall not be any deeds related to the violation of official's orders or damage of stability.\r\n3. Cohabit in peace; there shall not be any deeds related to the formation of a gang or intimidation to newcomers.\r\n4. Behave appropriately; there shall not be any deeds related to quarrels, brawls, escape, or violence.\r\n5. Take good care of public property; there shall not be any deeds related to the damaging of public property or littering.\r\n6. Live with good habits; there shall not be any deeds related to alcohol drinking, gambling, or body tattoos.\r\n7. Accept official's inspection; there shall not be any deeds related to the withholding of prohibited goods or exchange of letters in private.\r\n8. Be tidy and clean; there shall not be any deeds related to the pollution of environment or graffiti.\r\n9. Any other justifiable behaviors that shall be followed.\r\nThose who violate any of the aforesaid procedures shall be subject to the supervision pursuant to Article 76 ofthe Act."
+			"content": "To achieve the purpose of strict custody and security under Paragraph 1, Article 21 of the Act, Prisons shall make proper arrangements based on the nature of guarding, sentinel, patrolling, management and inspection functions.\r\nAccess to guarded areas shall be subjected to inspection. However, inspection may be waived in emergency situations or due to special events with the Prison Official’s approval.\r\nObjects brought by Prison Officers or persons granted access to guarded areas by Prisons shall be placed in the locations designated by the Prisons, except objects that are allowed to be brought in by law or permission, or objects that are needed for the purposes of accessing guarded areas.\r\nIf any person under the preceding paragraph has any of the following events, the Prison may prevent the person from entering the guarded area or order the person to leave:\r\n1. Refusal or evasion of inspection.\r\n2. Bringing or using communications, photographing, video-recording or audio-recording equipment without authorization.\r\n3. Drunkenness, suspected drunkenness or anomaly in physical or mental status.\r\n4. Evasion, interference with or refusal of anti-epidemic measures adopted by the Prison in accordance with epidemic prevention legislations.\r\n5. Other acts that jeopardize the order or security of the Prison."
 		},
 		{
 			"number": 1900,
-			"content": "Solitary confinement or prohibition of outside activities shall be conducted in a way that does not induce negative effects to the personer's mental and physical health. Prison governor, security section chief, and physicians shall pay frequent visits to the confinement area.\r\nThe confinement shall be a place full of fresh air and sufficient sunlight.\r\nPrisoners shall take turn to clean up the place, extinguish hazardous insects, and maintain a clean ancl sanitized living area."
+			"content": "“Contraband” referred to under Paragraphs 1 and 3, Article 14, Paragraph 2, Article 72 and Paragraph 1, Article 74 of the Act, refers to any object that is prohibited or restricted from use in Prison. The supervisory authority may establish the types of contraband and the control rules in consideration of order, security and management factors.\r\nPrisons shall publish the contrabands and the control rules under the preceding paragraph in proper manners for the knowledge of prisoners, Prison Officers and other persons granted access to guarded areas."
 		},
 		{
 			"number": 2000,
-			"content": "In accordance with the results of investigation and classification, prisoners shall be classified for correctional purpose pursuant to the following circumstances:\r\n1. Serious offence committed; the prisoner, who is an obvious negative influence to others or who requires reinforced education and instruction, shall be imprisoned in segregated prison.\r\n2. Recidivist, repeated offender, or habitual offender shall be imprisoned in the recidivious prison.\r\n3. Prisoner with 10-year-sentence or more shall be imprisoned in the felonious prison."
+			"content": "To maintain the order and security of Prisons, prisons may require that prisoners wear certain outfits to facilitate identification."
 		},
 		{
 			"number": 2100,
-			"content": "Aprison shall be divided into sections pursuant to the locations of equipments, in order to administered sectional correctional management, and to appoint a control team of educational, labour, and safeguard personnel to administer correctional activities and the treatment of the prisoner in each section."
+			"content": "When the use of a guard instrument is approved under Paragraph 1, Article 24 of the Act, the dates, start and end time for the use of guard instrument on the prisoner, the reason for the use and the type and quantity of guard instrument used shall be recorded in the guard instrument record form, which shall be submitted to the Prison Official for approval.\r\nPrison Officers shall observe the behavior of the prisoners at all times and shall stop the use of guard instruments when they are not necessary."
 		},
 		{
 			"number": 2200,
-			"content": "In accordance with its characteristic, prison shall customize its enforcement guidelines of corrections and prisoner's daily timetable subsequent to the review by the governing authority."
+			"content": "“Riot” referred to under Paragraph 3, Article 23 of the Act means one of the following collective acts by 3 or more prisoners through means of violence or threat and resulting in the loss of security and management control in a Prison or rendering normal operation impossible:\r\n1. Occupation of important facilities.\r\n2. Control over Prison controlled keys, communications or other important security equipment.\r\n3. Seize the aggressive equipment or other important equipment.\r\n4. Hold prisoners, Prison Officers or other staff under duress.\r\n5. Causing death or major injury to staff.\r\n6. Other act that seriously jeopardizes the order or security of the Prison.\r\n“Commotion” referred to under Paragraph 3, Article 23 and Subparagraph 3, Paragraph 1, Article 25 of the Act, refers to any act or omission by 3 or more prisoners that jeopardizes the order or security of a Prison, which scale has exceeded general act of violence or disturbance of order and which act has not stopped despite an order, but not yet reaching the situation of a riot.\r\nWhether or not a situation under the preceding two paragraphs has reached a level where guard instruments should continue to be used in accordance with Paragraph 3, Article 23 of the Act shall be decided by the Prison in consideration of each situation; such use shall not exceed the necessary extent."
 		},
 		{
 			"number": 2300,
-			"content": "Confinement-a record shall be prepared to record the location of confinement cell and work area; the prisoner shall be assigned a sleeping bed appropriately.\r\nWork area shall be assigned in accordance with job assigned.\r\nOn the right side of the confinement cell, a panel shall be hung, inscribing the capacity, current number of prisoners, and prisoners' name cards with identification number on the front and offences committed, the duration of the sentence, date of entry and departure, and work area on the back. Prisoners' name cards shall be prepared inside the workshop.\r\nThe cell and workshop shall be equipped with lockers to store the daily clothes of the prisoners, which shall be setup in a way allowing a convenient method of inspection for officials."
+			"content": "Prisons shall follow Paragraph 1, Article 26 of the Act and maintain contact with the police authority or other relevant authorities. If required, Prisons may establish contact, support or assistance related programs or measures to facilitate actual operation."
 		},
 		{
 			"number": 2400,
-			"content": "Whenever judges of a court or prosecutors of a prosecutors' office summon or notify a convicted criminal, a citation or a notice shall be used in addition to advising the prison in charge.\r\nIn aforementioned circumstance, where the court or the prosecutors' office is located in the same district as that of the prison in charge, it is preferable that interrogation be held within the compound of the prison. In circumstances where both institutions do not situate in the same district, it is preferable that the interrogation be administered by local district's court or prosecutors' office.\r\nIn situations where the prisoner must be brought before the court for testimony, the prisoner must be returned to the prison in charge as soon as the testimony is over. In situations where it is unfeasible to return the convicted criminal back to the prison on the same day, the convicted criminal shall be held in the custody of a local district's prison temporarily.In cases where the local district's prison cannot accept the prisoner due to supervision concerns, the prisoner shall be moved and held in the custody of local district's detention center.\r\nThe period of the summoning pursuant to paragraph 2 and paragraph 3 shall be included in the execution period of the sentence as well."
+			"content": "In organizing work or occupational training under Article 31 of the Act, Prisons may procure prisoners with special knowledge or skills to assist with relevant work or occupational training affairs."
 		},
 		{
 			"number": 2500,
-			"content": "Whenever other institutions, excluding court or prosecutors' office, must summon or interrogate a prisoner, the supervision is pursuant to the regulations contained hereinafter:\r\n1. For trials in which military's jurisdictional system has the judicial authority, a citation, with remarks on the number of days the prisoner shall appear before the court and the place where the prisoner is to be detained, shall be used in order to file a summoning request to the serving prison.\r\n2. Institutions without any judicial power shall file a notice with explanations to the serving prison. With the prison's prior consent, the institution shall then proceed with the interrogation inside the compound of the prison."
+			"content": "Prisons may contract public or private authorities (institutions), organizations or individuals for labor services or production of finished products in accordance with Article 34 of the Act and applicable legislations."
 		},
 		{
 			"number": 2600,
-			"content": "Pursuant to paragraph 3 of Article 20 of the Act, persons permitted for mitigative treatment are limited to the below mentioned prisoners only:\r\n1. Person who endures an illness diagnosed by a doctor that requires long term treatment.\r\n2. Person who is diagnosed with mental disorder, mental illness, or serious retardation in intelligence.\r\n3. Person who issenescence, disability, having difficulty in action, or inability to live on his/her own.\r\n4. Person who is pregnant or someone who just gave birth not yet exceeding 2 months.\r\n5. Person who, in accordance with the results of investigation and classification, is deemed necessary for mitigative treatment.\r\nAforementioned prisoners, who receive the mitigative treatment, shall be reported to the Ministry of Justice for review."
+			"content": "In undertaking processing work commissioned to Prisons under Article 34 of the Act, public solicitations for commissioned processing suppliers shall be organized regularly.  Due care shall be exercised to the supplier’s finances, contract performance capabilities and the market prices of the processed products in order to acquire reasonable prices for commissioned processing.\r\nBefore contracting commissioned processing work, trials may be conducted first to test the suitability of the work and the efficiency of the workforce."
 		},
 		{
 			"number": 2700,
-			"content": "Aforesaid mitigative treatment shall be supervised pursuant to the procedures listed below:\r\n1. Education and instruction: to be supervised in individual institution and methods deemed beneficial to the physical and mental condition of the prisoner.\r\n2. Labor assignment: to assign them insubstantial work that match their interests. The person's physical and mental state shall be taken into consideration as well during the assignment. A prisoner is permitted to use his/her monthly allowance received from the work at his/her own will. The approval from the prison's sanitary department is required in order to discontinue the institution labor of the person who is deemed incapable of the work.\r\n3. Confinement: to be supervised in accordance with each varying circumstance.The person's mental and physical health shall not be endangered, in addition to segregated confinement from other prisoners.\r\n4. Visits and correspondences: to be supervised pursuant to the saving clause of Article 62, paragraph 2 of Article 63 of the Act, and the saving clause of Article 79 of the Enforcement Rules.\r\n5. Supply: to be supervised pursuant to paragraph 1 of Article 64 and paragraph 2 of Article 65 of the Enforcement Rules. If deemed relevant, essential clothes shall be provided.\r\n6. Grades: at the time the convicted criminal is disciplined and able to control his/her own behavior, the prisoner shall be classified pursuant to the Statutes of Prison Serving Progressive Treatment.The responsibility score, after the grade classification, shall be 80% of the standard set by Article 19 ofthe Statues. Person, who is incapable to work,whose labor scores shall be 50% of the highest achievable scores pursuant to Article 20 of the Statutes."
+			"content": "In implementing self-operation, commissioned processing work, contracting work, designated external work or other work, Prisons may set up price evaluation meetings for finished products of self-operation and contracted work to evaluate relevant prices, which shall be submitted to the Prison Officials for approval before implementation.\r\nIn the event of the preceding paragraph, Prisons may first send staff to verify prices to provide reference for price evaluation by the price evaluation meetings under the preceding paragraph."
 		},
 		{
 			"number": 2800,
-			"content": "Prison shall organize the work of security in accordance with the work nature of guarding, sentinel, patrolling, management, and inspection. In addition, staffs shall be carefully selected to fulfill their duties, in order to prevent riots, escape, suicide, or fighting.When an officer performs his/her duties, precautionary steps shall be taken pursuant to the regulations contained hereinafter:\r\n1. Correctional officer shall sympathize and be compassionate during the process, as well as respect prisoner's dignity and comprehend the subject matter in order to lecture the convict accordingly.\r\n2. Custody of the prisoners shall take control of every situation happened in the prison and count the number of prisoners regularly, as well as focus on the safety equipments of prison.\r\n3. Sentinel duties, appearance and manner shall be appropriate, respond to people with kindness, as well as be precautious to the entry and exit of the delivery of goods and passengers.\r\n4. Cell duties, except for situations where a disaster occurs, the access door shall not be opened unless an officer is present or his/her approval is obtained.\r\n5. Workshop duties, the doors of the workshop shall be closed at all times in order to prohibit the entry and exit of the prisoners. The uses and management of labour equiprnents shall be carefully supervised.\r\n6. The doors, as well as entry and exits, of the prison shall be closed on a regular basis. Goods that jeopardize the security of the prison shall be stored and locked in a specified location. In circumstances where the need for opening the lock or using the goods arises, a guard shall be dispatched to secure and safeguard the location.\r\n7. Equipments, such as constraining devices and weapons, keys, water & electric equipments, and hydrant equipments, and stoves and steam machines, shall be cautiously supervised and are subject to regular inspections.\r\n8. At the time of discharging a prisoner, the person's physical state and reputation shall be minded, in addition to adhere to the ruling of discharge procedures."
+			"content": "Before the implementation of the amended Article 23 of the Open Prison Act, Article 37 of the Act applies mutatis mutandis to the distribution of work income for prisoners in the open prison.\r\nBefore the implementation of the amended Article 57-1 of the Rehabilitative Disposition Execution Act, Article 37 of the Act applies mutatis mutandis to the distribution of work income for sanctioned parties under compulsory labor."
 		},
 		{
 			"number": 2900,
-			"content": "Prison shall not utilize any constraining devices as a means of punishment on prisoners. In circumstances where the utilization of constraining devices is necessary due to some legal reasons, precautionary procedures shall be taken pursuant to the regulations contained hereinafter:\r\n1. The behavior and performance of the convicted criminal shall be evaluated frequently when a constraining devices is utilized for correctional purpose. As soon as the utilization of the constraining devices is deemed no longer relevant, the practice shall be abolished immediately.\r\n2. Once the period of the utilization of constraining devices reaches one week, for circumstances where the continuation of the utilization is deemed relevant, the request with a list of facts and details of the circumstance, shall be reported to the prison governor for approval. The provision thereof is also applicable at the end of the extension of the utilization, if further extension is deemed necessary.\r\n3. The utilization of constraining devices shall be monitored and exercised by chief of subsection or the higher staffs. For prisoners deemed inappropriate by physician, the exercise of constraining devices shall be discontinued.\r\n4. Two or more types of constraining devices shall not be exercised against a single prisoner at the same time without special approval from the higher administrative officials.\r\n5. The physical condition of a prisoner shall be minded cautiously during the process of the utilization of constraining devices. No handcuffing with both arms on the back or joined handcuffing of arms and legs shall be permitted.\r\n6. The weight of feet shackles and chains shall be limited to a maximum of 2 kilograms. If necessary, the weight can be increased to 3 kilograms. The weight of handcuff shall not exceed one half of a kilogram."
+			"content": "Collective, group or individual counseling referred to under Paragraph 3, Article 40 of the Act shall be organized in the following manners:\r\n1. Collective counseling: Counseling by community through lectures, speeches, audio-visual materials or in other proper manners.\r\n2. Group counseling: Counseling provided by category based on common treatment requirements through group lectures, teamwork, group discussions or in other proper manners.\r\n3. Individual counseling: Provided by counselors targeting prisoners’ individual situations through sessions or in other proper manners.\r\nCounseling in the preceding paragraph shall be provided in proper locations and records shall be made."
 		},
 		{
 			"number": 3000,
-			"content": "Sedation facility shall be built in a solitary space format. The surfaces of wall, ceiling, doors, and floors shall be made of materials that can prevent injuries when a person smashes at them, as well as the emphasis shall be centered on the security of the prison."
+			"content": "Prisons may provide edification programs that are helpful to prisoners’ social lives and personality development, either on their own or by inviting external organizations or individuals.\r\nPrisons may ask prisoners with special knowledge to assist with the participation, implementation or guidance of relevant edification affairs."
 		},
 		{
 			"number": 3100,
-			"content": "The phrase \"violates another's body or poses threat to violate another's body\" contained in item 1 of Article 24 of the Act refers to the situation in which a prisoner aggressively attack (not restricted to the use of arms only and cause harms to others,or the attack does not yet occur but the threat of forces is obvious that the situation cannot be prevented unless truncheon or arms is utilized.\r\nThe phrase \"refuse to obey order to abandon such object\" contained in item 2 of Article 24 of the Act refers to the situation in which a prisoner possesses objects, no matter if it is a liquid, gas, solid, or other chemicals, that endanger the well-being of others is commanded to abandon the object but still refuses to comply with the order."
+			"content": "Prisons shall organize various activities either on their own or together with external partners and shall exercise care to the protection of the privacy of prisoners and Family."
 		},
 		{
 			"number": 3200,
-			"content": "Prison's supervising staffs using truncheon or arms are subject to the precautionary procedures contained hereinafter:\r\n1. Warning shall be issued prior to the use of truncheon or arms. However, in urgent situations this rule shall not be applicable. When the reason for the use of truncheon or arms ceases to exist, the action shall be discontinued immediately.\r\n2. Officer shall be careful not to harm the surrounding innocents when truncheon or arms is being used. A report detailing the process and situation shall be conveyed to the superiors after the event is over, in addition to deliver a copy of the documents to the Ministry of Justice."
+			"content": "Prisons shall respect prisoners’ religious freedom and shall not force prisoners to participate in religious activities or engage in religion-related acts.\r\nPrisons shall allow prisoners to worship in reasonable manners in accordance with their religious beliefs and maintain the prisoners’ needs for religious beliefs."
 		},
 		{
 			"number": 3300,
-			"content": "The following types of security work in a prison for female prisoners, including guards, security & custody, inspection, management, labour, education and instructions, and appraisal, shall appoint female employees to assume the responsibility. Security & custody unit shall dispatch staffs to assume the responsibility of sentinel, patrol, and policing in the surrounding area of the prison.\r\nQuarters for female prisoners within a prison shall be prohibited from the entry of male staffs except for the prison governor and medic personnel. In circumstances where the responsibilities of a duty require a male staff to enter the quarter, the male staff must be accompanied by a female staff."
+			"content": "The supervisory authority shall establish a plan in accordance with Article 42 of the Act for the promotion of mediation and repair to facilitate execution by Prisons."
 		},
 		{
 			"number": 3400,
-			"content": "Prison shall implement a contingency plan for security events, in addition to establishing a channel of communication with local district's police and justice agencies. In events of natural disasters, where escape , slaughter, death, riots, or violence occurs, proper counter measures and procedures must be in place, in addition to filing a documentation report with the details of the scenario to the goveming authorities. In urgent matters, telephone calls shall be used in advance for reporting."
+			"content": "Prisons shall provide proper information equipment in accordance with Paragraph 4, Article 44 of the Act, including relevant photocopying equipment, for prisoners’ use through applications and at their own cost."
 		},
 		{
 			"number": 3500,
-			"content": "The term \" major events\" contained in paragraph 2 of Article 26-1 of the Act refers to one of the below mentioned conditions:\r\n1. The grandparents, parents, spouse, or children of the prinoner is in a lifethreaten state.\r\n2. The family of the prisoner suffers from serious disasters.\r\n3. Before prison release, the prisoner at tends examinations for school and occupational purpose.\r\n4. Circumstances in which the subject matter cannot be resolved without the personal attendance of the prisoner."
+			"content": "In providing radio, television facilities, information equipment or audio-visual equipment to implement edification in accordance with Paragraph 1, Article 45 of the Act, Prisons shall perform careful review to the materials or contents, and shall follow intellectual property protection and applicable legislations."
 		},
 		{
 			"number": 3600,
-			"content": "Institution labour at prison shall be designed with a purpose of training prisoners to learn skills in order to make a living, to  attain a diligent working habit, and to enlighten one's won spirtual mind.\r\nThe labor shall be administered mainly by a public enterprise as a top priority, with second priority goes to consignment or contracting.\r\nAside from complying with the purposes of labor, the work content of the labor shall be determined in considerration of local economic environment and the condition of supply & demand of goods, as well as trend in future development.\r\nThe courses of work shall be determined according to the length of work and the average workload of an ordinary person.Course materials shall be revised according to work content classification, in addition to specify the learning schedule and assessment standard."
+			"content": "Prisons shall follow Paragraph 3, Article 45 of the Act and adopt proper and necessary measures in relation to special needs, such as visual and audio needs, of prisoners with physical or mental disabilities.\r\nPrisons may provide proper assistance to the prisoners who have difficulty understanding relevant affairs of Prisons due to lack of understanding of Mandarin or other reasons."
 		},
 		{
 			"number": 3700,
-			"content": "When assigning labor work to prisoners, the assignment shall be arranged in accordance with the prisoner's sentence duration, health condition, education level, results of investigation and dassification, skills, safety requirement, and future career goal.\r\nUnless other governing legal rules otherwise stipulates or the prisoner is ill, or for safety or other correctional purposes, prisoners shall all participate in the process of institution labor. After the assignment of work has been arranged, it is prohibited to change from one job post to another except for correctional purposes or safety concerns."
+			"content": "Food nutrition for prisoners shall be sufficient to meet their health requirements and the quality shall meet health standards; meals shall be prepared and supplied at proper times, and sufficient drinking water shall be provided.\r\nFood for ill or old-aged prisoners may be adjusted based on health or medical requirements. The same shall be applicable to food brought into the Prison by the prisoners who are unable to prepare their own food, or food for children born inside Prison.\r\nIn preparing the food under the preceding two paragraphs, Prisons may refer to the food guidelines and suggestions published by the Health Promotion Administration, Ministry of Health and Welfare; also nutritionists may be consulted as required."
 		},
 		{
 			"number": 3800,
-			"content": "The operation of work shall adopt the mechanism of labor division, and prisoners shall be relocated to different lessons of skills regularly according to the dassification of work and learning schedule, in order for everyone to acquire a complete set of skills.\r\nScores shall be specified in the assessment of prisoner's operational skills acquired. Prisoner, whose score is higher than 60% of highest point achievable, shall move on to the next level. Persons who achieve the highest mark shall receive rewards in compliance with the laws. Persons who come up with new inventions or suggest an improvement to the current practice which is considered valuable and being adopted shall be given rewards as well."
+			"content": "In providing clothes, bedding, objects and other tools in accordance with Paragraph 1, Article 46 of the Act, Prisons shall not breach applicable health, environmental protection legislations or other legislations."
 		},
 		{
 			"number": 3900,
-			"content": "Labor instructors shall be responsible for the instruction of labol training. In circumstances where an expert or industry's specialist is hired for assistance, the process shall be administered pursuant to Artide 20 of the Statutes Governing Prison Formation. \r\nThe convicted criminal who is equipped with professional knowledge or skills and whose in-prison behavior is excellent shall be commanded to assist in the process of labor training."
+			"content": "The supervisory authority shall determine the colors and styles of the outfits that prisoners are obliged to wear in accordance with Article 20; and the outfits shall meet sanitary and health requirements by using materials that satisfy cooling, ventilation or warmth requirements.\r\nIf required due to temperature or health, with Prisons’ approvals, prisoners may use their own clothes, hats, socks, beddings and proper warmth-keeping objects or those sent to them."
 		},
 		{
 			"number": 4000,
-			"content": "Work products shall comply with social demands, and prisons shall take any precautionary steps on the supervision of the marketing.\r\nPrisons are permitted to solely or jointly establish locations for product marketing."
+			"content": "Prisoners who lack daily necessities due to financial difficulties may ask Prisons to provide them; the supervisory authority shall establish the standards for determination of financial difficulties and the items and quantities to be provided.\r\nPrisoners with urgent needs for daily necessities may ask Prisons to provide them and Prisons may ask prisoners to return the same objects, pay prices or return the objects in other manners when the causes of urgency cease to exist.\r\nIf non-disposable daily necessities are provided to multiple prisoners for use, Prisons shall exercise care to maintain hygiene and sanitation."
 		},
 		{
 			"number": 4100,
-			"content": "Prison, in accordance with legal rules, are permitted to tender for the contracting of publidy-or privately-run construction. \r\nThe contract of aforesaid labor shall be consented with the prison governor's signature, in addition to the signatures of both labor sponsor's and accounting personnel."
+			"content": "Prisons shall exercise care to environmental health. Each Prison shall determine the period of regular environment health inspection in accordance with Article 51 of the Act based on the local situations.  Such inspection shall be performed at least twice every year.\r\nPrisons may ask local health, environmental protection authorities (agencies) or relevant authorities (agencies) to assist with the environmental health inspection under the preceding paragraph and may undertake required and feasible improvement measures immediately or gradually based on the requirements of health, environmental protection or other relevant equipment (facilities).\r\nPrisoners shall cooperate with environmental cleaning work in Prisons to maintain public and personal hygiene."
 		},
 		{
 			"number": 4200,
-			"content": "Prison labour shall have an overall well-conducted administration scheme with an implementation of corporate management, in addition to carefully supervising the efficient utilization of assets and human resources."
+			"content": "In requiring prisoners to take showers, shave and cut hairs in accordance with Article 53 of the Act, Prisons shall follow the principle of maintaining public hygiene and personal health."
 		},
 		{
 			"number": 4300,
-			"content": "ln the reformation process of the convicted criminal, officer shall, with kindness and a compassionate heart, attempt to understand each individuars condition and demands in order to provide appropriate correction and counseling."
+			"content": "To promote self-management of prisoners’ health in accordance with Paragraph 1, Article 55 of the Act, Prisons shall implement health education and may ask local health competent authorities or medical institutions to provide assistance.\r\nAside from the controlled pharmaceutical products, prescriptions or the results of observations by Prisons Officers, where due care shall be exercised to the safekeeping and use of pharmaceutical products by specific prisoners, Prisons may promote regulations for self-management of health in accordance with Paragraph 1, Article 55 of the Act and allow prisoners to manage and use their pharmaceutical products.\r\nWhen a prisoner asks to purchase any low-risk medical equipment or health product or for such equipment or product to be sent into Prison at the prisoner’s own cost in accordance with Paragraph 5, Article 55 of the Act, none of such equipment or product shall be provided for others’ use."
 		},
 		{
 			"number": 4400,
-			"content": "Group instructions shall be held on national holidays in lieu, memorial days, or other appropriate dates. Category instructions shall be dassified and be held on suitable dates. Individual instructions shall be held anytime deemed suitable.\r\nMinutes of aforementioned lectures shall be made after each session."
+			"content": "When a prisoner or the nearest relatives or family members thereof seeks health examination inside Prison in accordance with Paragraph 3, Article 55 of the Act, the following shall be complied with:\r\n1. A written statement shall be made to provide the reason of application, the medical staff that the prisoner wishes to engage, and it shall attach with documents showing a physician’s evaluation that the examination is required.\r\n2. Following review and approval by the Prison, the prisoner or the nearest relatives or family members thereof may engage the medical staff to perform health examination inside Prison at the prisoner’s own cost.\r\n3. In accessing the Prison to provide medical services, the medical staff engaged at the prisoner’s cost shall present practice license and supporting document showing approval to practice outside his/her practice site to the Prison; if required, the Prison may make verification with the practice site.\r\n4. The medical staff engaged at the prisoner’s cost shall prepare and maintain records in accordance with the Medical Care Act and applicable medical staff regulations and the inspection records shall be delivered to the Prison for safekeeping. Any inspection report issued shall be consistent with medical professionalism and shall record the results of the examination.\r\n5. The medical institution that employs the medical staff shall issue a receipt for the cost required for the implementation of health examination provided at the prisoner’s cost for payment by the prisoner’s nearest relatives or family members in principle; if required, the Prison may pay such cost out of the prisoner’s money under safekeeping or labor wage.\r\n6. The Prison shall determine the time, location and manner of health examination to be performed in Prison by medical staff engaged at the prisoner’s cost based on the nature and actual situation."
 		},
 		{
 			"number": 4500,
-			"content": "lndividual instructions shall be held on 3 types of occasions: admission, in-prison, and release.\r\n1. Admission: to be held at the time when the prisoner is admitted to the prison.\r\n2. In-prison: to be held during the sentence, or at the times of receiving rewards, punishment, promotion, illness, death of family members, or at the times when the convicted criminars family suffer from an unexpected event.\r\n3. Release: to be held at the times of release, parole, bail, or transfer of prison, or at the times when the convicted criminars sentence is due."
+			"content": "When a prisoner is sent to the hospital, the symptoms shall be provided truthfully; the prisoner shall follow the treatment instructed and shall not ask the physician to add any text that is irrelevant to the illness.  If the prisoner seeks any disposition or special treatment that is not required for the treatment, the physician shall refuse such request."
 		},
 		{
 			"number": 4600,
-			"content": "The administration of individual instructions is subject to the regulations contained hereinafter:\r\n1. The instruction shall be held independently in appropriate location with each disciplinary area as a unit. \r\n2. Prior knowleage of the convicted criminars family background, social background, the process ofthe offense committed, and physical and mental condition shall be obtained in order to provide different method of instructions for each convicted criminal.\r\n3. Encourage the convicted criminal to make soul-searching, in addition to seizing the right moment to present correctional lessons corresponding to each convicted criminars background. \r\n4. Do not restrict the format of conversation. Methods such as chatting, problem discussion, or narration will do. If the prisoner has any problem, the officer shall offer to be of assistance with his/her best effort. For problems that cannot be solved, the officer shall explain the reason to the prisoner. \r\n5. The speaker shall be kind and sincere. Whenever a prisoner has a false viewpoint, the officer shall set straight the subject matter for the prisoner in a soft tone.\r\n6. During the conversation, officer shall pay attention to prisoner's wording in an effort to determine the accuracy of his/her statements and observe prisoner's facial expression to determine the truthfulness of his/her statements. \r\n7. Officer shall adopt various conversation techniques and educate prisoners with patience.\r\n8. With prisoner's personal circumstances and the conditions of his/her surrounding environment taken into consideration, officer shall determine the possibility of prisoner being able to make.a living in the society on his/her own after release.\r\n9. Recidivist or ill-disciplined individuals shall be increased in frequency of instructions , in order to transform violent behavior into peaceful mind. \r\n10. The content of the conversation shall be recorded in details in the individual instruction log with a footnote and delivered to the related section for references on the treatment of the prisoner."
+			"content": "“Relevant information” referred to in Article 64 of the Act includes medical requirements and the care program and schedule.\r\nWhen a Prison is unable to release the prisoner on bail, to another person’s custody or with limitation on residence in accordance with Article 63 of the Act, it shall give notice to the municipal or county (city) social welfare competent authority in accordance with Article 64 of the Act for placement by referral or other necessary dispositions. If no reply is received after a certain period, the Prison shall send a reminder.\r\nThe Prison shall submit documents and information about the placement under the preceding paragraph based on the reply from the municipal or county (city) social welfare competent authority to the prosecutor for the release of the prisoner; notice shall also be given to the social welfare competent authority with jurisdiction to the prisoner to be escorted to the specific placement location to complete takeover.  If required, the Prison may send staff to escort the prisoner."
 		},
 		{
 			"number": 4700,
-			"content": "Instructions at the time of the admission shall be administered immediately upon completion ofthe dassification of investigation. The content of the instruction follows:\r\n1. Thoughts and opinions of the prisoner at the time of admission.\r\n2. The overall condition of the prison and rules to be followed during the sentence. \r\n3. Review the past and determine to strive in the future.\r\n4. Keen to corrections and determined not to repeat the misconducts.\r\n5. Make efficient use of time and expand one's knowledge."
+			"content": "Prisoners with visual, hearing or speech disabilities may use sign language, braille or other proper assisting methods during visits and correspondence.\r\nPrisoners who are illiterate or who cannot write letters due to any reason may seek the consent of and ask other prisoners or proper persons to write letters on their behalves; such letters shall be sent in accordance with the regulations after the confirmation and affixation of signatures or fingerprints by the prisoners."
 		},
 		{
 			"number": 4800,
-			"content": "In-prison instructions shall be held at least once each month for each prisoner. In situations where emergencies take place, the structions shall be administered accordingly. The content of the conducted shall be clear to tho instructions beforehand, in addition to recognizing the main points, clarifying tho significance of life to the prisoner, as well as bring out the humanity in  the heart of the prisoner."
+			"content": "Prisons may implement necessary segregations of relevant prisoners in accordance with Paragraph 4, Article 87 of the Act in order to investigate breaches of rules by prisoners, however, the segregation periods shall not exceed the extent required. During the segregation period, the edification, supplies, sanitation and medical care, visits and correspondence and other treatments for relevant prisoners shall remain compliant with applicable provisions of the Act."
 		},
 		{
 			"number": 4900,
-			"content": "In-prison instructions are categorized into two types: regular instruction and special instruction.\r\nThe content of regular instruction is as follows:\r\n1. Inquire prisoner's state of living after the admission.\r\n2. Inquire personal thoughts and sentiment after receiving the sentence.\r\n3. Inquire the frequency of prisoner's communication with relatives and friends.\r\n4. Inquire prisoner's attitude towards life.\r\n5. Inquire prisoner's opinion on the improvement of prison's supervision and treatment.\r\nThe content of special instruction is as follows:\r\n1. Rewards: Encourage prisoner to work hard and strive to succeed.\r\n2. Penalty: Analyze the circumstances and explain the rights and wrongs to the prisoner in all effort to encourage him/ her to reform.\r\n3. Death of relatives or family suffers from all unexpected event: Provide suitable consolation.\r\n4. Illness: Wish prisoner to recover before long and help remove mental stress.\r\n5. Promotion: darify the meaning of the promotion in order to encourage the prisoner to continue to improve."
+			"content": "When a Prison reaches a decision or execution in accordance with Paragraph 3, Article 93 of the Act, it shall give notice to the complaint review committee."
 		},
 		{
 			"number": 5000,
-			"content": "The content of instruction at release is as follows:\r\n1. Explain in details the honorary of national laws.\r\n2. Inquire future plan and means to making a living. Persons who require the aftercare from the organization of protecting the safety of discharged prisoners shall be provided with appropriate arrangement.\r\n3. Encourage the prisoner to start a new life and not to repeat the misconducts.\r\n4. Advise the prisoner to be friendly to neighbors and others, in order to encourage him to regard the importance of interpersonal relationship.\r\n5. Persons on parole shall be advised of the implication of parole and rules to be obeyed. \r\n6. Persons bailed for medical treatment shall be advised that the medication period is not considered as a part of the sentence, and that the person shall return to the prison as soon as the illness is recovered.\r\n7. Persons on transfer shall be advised of the overall state of the new prison and rules to be obeyed and be encouraged to acquire a peaceful mind and accommodate to the new environment."
+			"content": "In case of complaint in accordance with Article 110 of the Act between any prisoner and the supervisory authority, aside from the relevant provisions referred to in such Article that shall apply mutatis mutandis,  the complaint review information shall not include any information that is not related to the complaint, such as the offense, prison term, times of offense or prior breach records; the complaint review committee of the supervisory authority shall investigate evidence based on its authority and shall not be bound by the claims of the complainant."
 		},
 		{
 			"number": 5100,
-			"content": "dassified instructions shall be administered not only by results of dassification and investigation but shall also be administered according to the offences committed by the prisoner."
+			"content": "During maintenance or cancellation of any prisoner’s parole, if the Prison discovers that the parole should be or may be cancelled in accordance with Article 78 of the Criminal Code or Article 74-3 of the Rehabilitative Disposition Execution Act, the Prison shall only cancel the parole and shall not engage in further handling."
 		},
 		{
 			"number": 5200,
-			"content": "The administration of dassified or' group instructions is subject to the regulations contained  hereinafter:\r\n1. Maintain an orderd environment of instructions\r\n2. Dramatize the content of instructions with informal language, in order to generate an interest in the subject matter among the listeners.\r\n3. Provocative or offensive languages are prohibited.\r\n4. The duration of the instruction shall not be too long, with one hour at maximum.\r\n5. The number of attendance shall be regulated with regards to the location and safety condition.\r\n6. Make prisoners feel respected. Mockery or coarse languages are prohibited.\r\n7. The lecturer shall be well-prepared in advance of the instruction. In situations where supporting written papers are needed, pamphlet with a table of content shall be printed and distributed."
+			"content": "When a Prison receives an execution writ related to the change of prison sentence for any prisoner who has been released under parole in accordance with Paragraph 1, Article 120 of the Act, the parole should be re-calculated, if parole is not available for the newly-included prison term in accordance with Paragraph 2, Article 115 of the Act, a report shall be made to the Ministry of Justice to cancel the original parole."
 		},
 		{
 			"number": 5300,
-			"content": "dassified or group instruction shall adopt the following teaching materials:\r\n1. Teaching philosophy of Sun Yat-Sen & Presidential quotes.\r\n2. Must-know knowledge of daily life for civilian.\r\n3. Anecdotes of historical figures.\r\n4. Quotes & stories of remarkable people around the world.\r\n5. Common knowledge of laws.\r\n6. Current international state and important national policies.\r\n7. Correctional teaching materials and correctional texts published by the Ministry of Justice.\r\n8. Other beneficial texts that help prisoners improve in person."
+			"content": "If a prisoner’s parole is cancelled in accordance with Paragraph 1, Article 120 of the Act and if subsequent parole is granted for any remaining period of the parole in accordance with the second part of Paragraph 3, Article 120 of the Act, the Prison shall give notice to the probation execution authority by providing documents related to the probation period already executed under previous parole specified in the original execution writ for setoff against the parole and probation period."
 		},
 		{
 			"number": 5400,
-			"content": "Primary's class for prisoners shall be taught with the lessons of elementary school and junior high school, in order to educate them with basic educations. Advanced dass for prisoners shall be taught with lessons equivalent to the level of high school courses. Tutorial class shall be taught with advanced courses with level higher than that of high school lessons, in order to prepare them with knowledge and skills necessary to adapt a living in the society. Education for prisoners shall be approved by the governing educational agencies and supervised in accordance with the system of ordinary continuation school."
+			"content": "“Before release from Prison” provided in Paragraph 4, Article 120 of the Act refers to the situation in which the prisoner has not left the Prison, including when a prisoner is having subsequent execution of detention inside the Prison or performing labor services commuted from a fine and therefore has not left the Prison; “a material breach of rule” provided in the provision refers to when a prisoner has any act that jeopardizes the order or security of the Prison under Paragraph 1, Article 86 of the Act and is subjected to transfer to a housing area for rule breakers in accordance with Subparagraph 4, Paragraph 1 of the same Article."
 		},
 		{
 			"number": 5500,
-			"content": "The teaching at each dass shall be first categorized and then administered according to the educational level of prisoners and the date of the admission. Important provisions are as follows:\r\n1. Primary's dass: to teach the pronunciation marks of Chinese characters and frequently used daily vocabularies, in addition to the administration of lessons equivalent to the courses taught in national junior high school and elementary school.\r\n2. Advanced dass: to teach lessons taught in high school.\r\n3. Tutorial dass: to specify correctional purposed publications or other beneficial readings for them to self study, or to permit the enrollment of university level lessons in order for prisoner to continue his/her education. \r\nExcept for juvenile convicted criminals, convicted criminals whose sentence duration is less than 6 months, or who does not participate in the institutional labor activity or is permitted for mitigative treatment shall be exduded from thc enrollment of educational lessons. However, regular instmctions shall still be administered for those convicted criminals."
+			"content": "The parole certificate under Paragraph 3, Article 138 of the Act shall specify the prisoner’s name, identification document number, date and number of parole approval, start and end date of parole period and other designated details.\r\nWhen a Prison releases a prisoner in accordance with Paragraph 3, Article 138 of the Act, the probation execution authority shall be notified on the date of release. The Prison Officer shall also provide the prisoner released on parole matters of compliance during the parole period, make a record and procure signature by the prisoner."
 		},
 		{
 			"number": 5600,
-			"content": "Each term is made up of six months for each class. Teaching schedule shall first be prepared, in addition to following the below mentioned list of regulations in the assessment of the prisoner's academic performance:\r\n1. Primary's dass: a test shall be held once for each subject every month, in addition to evaluate the results of test performance. For instance, person with an examination grade higher than 60 points shall advance to the advanced dass at the end of the lessons of national junior high school and elementary school. \r\n2. Advanced dass: one subject of lessons shall be randomly selected for testing every two months. \r\n3. Tutorial class: reading summary or assignment with 100 words or more shall be handed in each week. \r\nAforementioned rules are not applicable for classes administered under the system of continuation school.\r\nAcademic grades shall be served as an indication to the progressive treatment. For instance, person with grades higher than 80 points shall be perceived as a well-behaved performer, and he/she shall be entitled to rewards."
+			"content": "When a prisoner is released, his/her name, place of origin, photograph, fingerprint and other physical features shall be verified."
 		},
 		{
 			"number": 5700,
-			"content": "Prisoners who are interested in subjects other than listed in the aforementioned article shall be assisted with advanced studies in the subject. Persons who possess expertise knowledge shall be encouraged to continue his/her studying. Persons, who excel both academically and behaviorally suffice to serve as a model for others, shall be ordered to assist in the administration of educational process."
+			"content": "Prisons shall seek from local government authorities, the facilities and locations for the placement of ashes following cremation of deceased prisoners in accordance with Article 144 of the Act."
 		},
 		{
 			"number": 5800,
-			"content": "Prison is permitted to employ two or more individuals with outstanding reputation and professional knowledge from society as an counseling volunteer, in an effort to contribute in the education and instruction works.\r\nThe employment request of aforementioned counseling volunteer shall be filed by each prison to the Ministry of Justice for approving."
+			"content": "These Enforcement Rules may apply mutatis mutandis to the sentence-execution relating to juvenile prisoners, people subjected to reformatory education, people subjected to compulsory labor and people under drug rehabilitation treatment carried out by the juvenile correction schools, juvenile reform schools, technical training centers and drug rehabilitation centers."
 		},
 		{
 			"number": 5900,
-			"content": "Prisons shall take the circumstances of the prison into consideration, in order to administer privately or in cooperation with local district's schools and industrial & business organizations the job education or work techniques training for prisoners.\r\nAforementioned educational plan shall be reported to and requires the approval of the governing authority prior to the implementation."
-		},
-		{
-			"number": 6000,
-			"content": "Prisons shall, in accordance with the religious beliefs of prisoners, invite individuals from each religious group to darify the doctrines that serve as a correctional purpose for prisoners or conduct religious rituals. \r\nReligious group volunteered to engage in the aforementioned activity shall be permitted to do so.\r\nReligious individual or group engaged in the two aforementioned activities are permitted to provide readings, movies, slides, and tapes for correctional purposes."
-		},
-		{
-			"number": 6100,
-			"content": "Prison is permitted to and shall use electric equipments such as sound recorder, television, movies, filmstrips projector, and broadcaster to administer correctional activities. All teaching materials are subject to thorough reviews."
-		},
-		{
-			"number": 6200,
-			"content": "Prison is permitted to and shall organize activities such as essay writing competition, speech contest, singing contest, wallpaper drawing contest, calligraphy contest, painting contest, sports events, or skills competition, in addition to organizing recreational activities beneficial to the physical and mental condition of the prisoners."
-		},
-		{
-			"number": 6300,
-			"content": "The nutrition of main & sub meals for convicted criminals shall be sufficient to fulfill his/her health needs. The quality of food shall meet the hygiene standard, be freshly prepared, and be provided regularly. Waters for drinking and other uses shall also be prepared for prisoners. \r\nPrison shall have agricultural facilities in order to fulfill the needs for sub meals for prisoners."
-		},
-		{
-			"number": 6400,
-			"content": "Prison shall, in accordance with prisoner's nationality or religious beliefs, change the menu of prisoner's main and sub meals to appropriate foods. Foods for prisoners with illness and for prisoners' children are subject to different standards in accordance with needs, in addition to the change and distribution of more appropriate foods."
-		},
-		{
-			"number": 6500,
-			"content": "Clothes, mattresses, shoes, and socks for prisoners shall be domestically produced, in addition to coping with various protection needs in different seasons. The style and colors of prisoners' clothes shall all be decided by the governing authority. In circumstances where it is deemed relevant, prisoners are permitted to use self prepared clothes and mattress with prison's approval.\r\nPrisoners' clothes and mattress shall be cleaned and exposed to the sunlight regularly."
-		},
-		{
-			"number": 6600,
-			"content": "The supply of other living essential devices referred to in paragraph 1 of Article 45 of the Act refers to the below mentioned gears: \r\n1. Gears for dining purposes.\r\n2. Gears for body cleaning and laundry purposes.\r\n3. Gears for facial cleaning purposes.\r\n4. Cabinet for the storage of daily clothes and tools for altering and fixing clothes and mattresses. \r\n5. Cleaning equipments for sanitary purposes."
-		},
-		{
-			"number": 6700,
-			"content": "The term \"other living essentials\" contained in Article 46 of the Act refers to toys, gears, instruments, readings, and goods that are beneficial to the development of youths needed by prisoners' accompanied children."
-		},
-		{
-			"number": 6800,
-			"content": "Prison's sanitary facilities shall be built with a purpose to maintain the healthiness of prisoners' physical and mental state. Educational lessons on sanitary shall also be conducted frequently, in an effort to educate prisoners with the notion of the importance of public and individual sanitation and of developing a sanitary living habit."
-		},
-		{
-			"number": 6900,
-			"content": "Prison shall have sanitary facilities (including toilets and showering facilities) that fulfill prisoners' needs in daily life, in addition to providing hot water and cold water depending on the season.\r\nPrisoners shall take shower once per day during summer times, once per two days during spring and fall, and once per three days with hot water during winter times. \r\nMale convicts shall have haircut twice every month, who are permitted to keep brush cut with hair length not exceeding 3 cm and shave beards once every three days. Due to religious or daily habitual concerns, persons with long hair and beard that do not commence sanitary concerns are permitted to do so. Female convicts are permitted to have long hair with the length of the hair just covering up the ears."
-		},
-		{
-			"number": 7000,
-			"content": "Prisoners' health examinations shall be subject to the regulations contained hereinafter: \r\n1. In-prison health examination is to be held once each season. Random examination shall also be administered according to prisoner's physical and mental conditions.\r\n2. Health examination shall be conducted at the times of admission, release, or transfer.\r\n3. Health examination shall be administered by prison's physicians. In circumstances where there is a lack of working equipments, the prisoner is permitted to be escorted to a local medical center for examination.\r\n4. Examination results shall be recorded in details. Person with illness shall be diagnosed and treatcd or be entitled to receive appropriate therapies. \r\nAforementioned rule is also applicable to prisoners' accompanied children."
-		},
-		{
-			"number": 7100,
-			"content": "Prison shall have an implementation of precautious and preventive measures for epidemic or other acute contagious diseases. In times deemed necessary, physical examination shall be conducted for prisoners in addition to providing proper medical treatments. \r\nIn situations where prisoners or prisoners' accompanied children are ill, prison's physicians shall provide sincere diagnosis and treatment for them without any delay, in addition to making a diagnosis record for future references. In times where there is an insufficiency of available doctors, the prison shall negotiate and appoint doctors from outside hospitals to assist in the situation."
-		},
-		{
-			"number": 7200,
-			"content": "Prisoner, who is diagnosed by a doctor for one of the below mentioned conditions, shall be nursed in the quarter for ill prisoners inside the prison in addition to reporting to the prison governor: \r\n1. Person who has acute diseases or whose diseases require immediate treatment.\r\n2. Person who has serious physical wounds or who requires emergency operations.\r\n3. Person who is required for segregated treatment or to stay in the sick ward for medical treatment."
-		},
-		{
-			"number": 7300,
-			"content": "A prison's supervision procedure for bailing for outside medical treatment shall be carried out in accordance with the following rules:\r\n1. In situations where prisoner is approved for bailing for medical treatment outside the prison pursuant to Artide 58 of the Act, a detail description of the following items shall be recorded: a description of the case, reasons of bailing for outside treatment, offences committed, sentence duration, and the duration of remaining sentence. \r\n2. The filing for approval of bailing for outside medical treatment or extension of period for outside medical treatment shall be attached with most recent diagnosis documents consented by a local public hospital. In circumstances where there is no public hospital in the proximity, diagnosis documents consented by a private hospital shall be affixed in lieu. \r\n3. Petition for outside medical treatment prior to obtaining the bail approval shall not be permitted except for situations where the illness is extremely severe and/or for emergency situations. For prisoner whose remaining sentence period exceeds 5 years, the prison shall make a telephone call to the Ministry of Justice in advance for approval. \r\n4. For prisoner whose sentence period is more than 10 years, guarantee paper issued by a trustworthy business entity is required, or the prison shall require the prisoner to pay an equivalent amount of guarantee money. If deemed relevant, the prison has the authority to designate a hospital where the convicted criminal shall be hospitalized and treated. \r\n5. Guarantee paper shall be printed with the following precautious measures that guarantor shall follow: \r\ni) The guarantee shall be bound to maintain good behavior during the period of outside medical treatment.Any actions that violate the laws or break the code of orders shall be prohibited. \r\nii) At times when the guarantee is cured or the approved period of bail is due, the guarantee shall be moved back to the prison immediately. \r\niii) In circumstances where the guarantee is absent from the designated hospital, relocates to another hospital, or leaves his/her residence without permission, the prison shall be notified of the situations immediately. \r\niv) In circumstances where the guarantee schemes to escape but the fact is not reported at the time where preventive measures still can be taken, the prison shall not permit the retirement of the bail at the midway of the bail period.\r\n6. During the times of outside medical treatment, airport customs and related governing authority shall be notified for the monitoring and administration. When reasons for bailed outside medical treatment cease to exist and the prisoner is being transferred back to the prison, a notice shall be issued to the authority immediately. \r\n7. The prison governor shall frequently send prison personnel to visit bailed prisoner who has been hospitalized and treated at the designated hospital, in addition to maintaining solid contacts with the hospital or local police institutions. For prisoner who has not been designated with a hospital, the prison governor shall also order prison's physicians to visit the prisoner at least once every month, in addition to negotiating and appointing local district's police forces to visit regularly. \r\n8. Prison shall bring together a monthly summary of bailed prisoner's medication activities in every month and file it to the Ministry of Justice for further revlew. \r\n9. The supervising and administering authority shall be informed of the date of bail, period of medication, and the date of returning to the prison."
-		},
-		{
-			"number": 7400,
-			"content": "The term \"granting outside medical treatment on bail\" contained in paragraph 4 of Article 58 of the Act is applicable pursuant to the ruling articles on bailing in the Code of Criminal Procedure, which includes ruling articles such as the presentation of guarantee documents, the specification of the sum of guarantee money, the withdraw of responsibilities, approval for retirement of bail, and confiscated guarantee money pursuant Article 118, Article 119, and 121. \r\nConfiscated guarantee money contained thereof shall first be reported with documentations by the prison and then supervised under the orders of prosecutor's office's prosecutor."
-		},
-		{
-			"number": 7500,
-			"content": "Sanitary equipments, apparatuses, and medicines shall be subject to uses, maintenance, and protection with careful discretion. \r\nMedicines claimed by the prisoner to be brought in by the prisoner himself/ herself or given bya visiting relative require prior consent from prison's physicians before being permitted for purchases or carrying in. In addition, the medicines shall be distributed only after prison's physicians examine and certify the usage of the medicine. \r\nAforementioned item of medicines shall be recorded with manes and in-take dosage in a logbook."
-		},
-		{
-			"number": 7600,
-			"content": "The in-take of substitutes of alcohols and narcotic drugs is strongly prohibited."
-		},
-		{
-			"number": 7700,
-			"content": "If prison's physicians deem the treatment of prisoners unsuitable to prisoner's physical and mental health condition, recommendations shall be filed to the supervising section or the prison governor."
-		},
-		{
-			"number": 7800,
-			"content": "Under the principles of not interfering with the safety and security of the prison, prison shall plant flowers and trees to a large extent and create a beautiful environment that is full of educational purposes, in addition to establishing sufficient sports facilities and equipments for prisoners."
-		},
-		{
-			"number": 7900,
-			"content": "Visit of prisoners shall be conducted in the visitation room. However, for circumstances of illness or for correctional purposes, the visit is also permitted to be conducted in other proper locations."
-		},
-		{
-			"number": 8000,
-			"content": "The term \"direct relatives and family\" contained in Article 62 of the Act Refers to and includes spouses, lineal relatives, collateral relative within 2 degree of kinship, and relatives by marriage within 3 degree of kinship. The term \"family members\" are defined pursuant to Artical 1123 of the Civil Code. The term \"special reasons\" is defined and limited to persons wht have the relevancy for visit and correspondence which do not interfere with the principles of the prison.\r\nIn order to testify aforementioned relationship of relatives and/or family members, sufficient documentations or information results of investigation shall be presented for certification.\r\nPrisoners with foreign nationality or without any nationality are permitted to meed and communicate with letters with the ambassadors or chancellors who belongs to the coun try of the prisoner or who represents the country of the prisoner, or people from international institutions or religious groups."
-		},
-		{
-			"number": 8100,
-			"content": "Visit and writing correspondence shall be effected in traditional chinese language and words. The uses of symbols and cryptograph are prohibited. However, prisoner who is a mute or blind is permitted to use hand language or Braille. Prisoner whth foreign nationality or without any nationality is permitted to use his/her own language or internationally recognized words and languages.\r\nIn circumstances where the prisner is illiterate or cannot write on his own, prison's staff shall write in lieu of the prisoner and the prisoner shall sign or stamp the writing with personal seal. In circumstances where the prisoner cannot sign his/her name, other persons shall sign for the prisoner and the prisoner shall stamp the writing with personal seal or fingerprints. The person who signs in lieu of the prisoner shall affix the reason and sign the paper with his/her own name.\r\nEssays written by prisoner, whose subject is appropriate and does not offend the discipline and reputation of the prison, shall be permitted to be published in newspapers or magazines."
-		},
-		{
-			"number": 8200,
-			"content": "The term \"risks of disrupting prison discipline\" contained in Article 66 of the Act rtfers to the circumstances where the content of a writing correspondence contains one of the following situations:\r\n1.Circumstances where improper state ments ard found, which is obviously untrue and dishonest and attempting to lie, and which insults or threats, caus ing others to be cheated and create con cerns for psychological distress or uneasiness.\r\n2.Circumstances where there are concems for the interference of proper administration of prisoners' correctional treatments.\r\n3.Circumstances where symbols, cryptograph, or other means are being used making the inspectors unable to comprehend the content of the letters, creating concerns for the loss of control over the prisoners.\r\n4.Circumstances in which there are concerns for escaping or destroying, forging, modifying evidences or collaborating with other accomplices or witnesses.\r\n5.Statements mentioning the condition of armed forces in the Correctional facilities, quartes, and locations of workshop that creates the concerns for the safety and security of the prison.\r\n6.Statements that request the depository of cash or goods by relatives, which obviously exceed the prisoner's financial needs for daily life that contradicts the doctrine of helping prisoners develop a habit of prudedce.\r\n7.Statements that contradict the rules pursuant to item 1 to 4, 6, 7, and 9 of paragraph 1 of Article 18, of the provisions of the rules required to obeyed at the admission to prison."
-		},
-		{
-			"number": 8201,
-			"content": "Documents couriered by courts, prosecutors' \r\noffice, or administration offices to prisoners or documents couriered by prisoners to courts, prosecutors' office, or administration office shall be registered and recorded, and shall be redistributed or mailed at once."
-		},
-		{
-			"number": 8300,
-			"content": "Foods and necessities given to prisoners shall be inspected. Types and quantities are subject to the following rules and limitations:\r\n1.Foods: Restricted to canned foods, candy and cookies, dishes and fruits, which shall not exceed 2 kilograms each time. Items that endanger the health of prisoners, are concealed with prohibited items, or offend the discipline of the prison shall not be permitted to get in. \r\n2.Necessities: the quantity of sheets, mattresses, pillows, shoes and socks, towels, and pens shall be limited to one for each item each time. Only at times when the items are damaged and unusable new items shall be permitted to be given to prisoners. The quantity of soaps, toothpaste, toothbrush, and inks shall be limited to three for each item each time. 50 envelops, 100 sheets of letter, two packages of toliet paper are permitted each time. Three books or magazines during each visit and one newspaper each day. However, items that are concealed with prohibited items or offend the discipline of the prison are not permitted to be given to prisoners. In circumstances where the content of the books and magazines, as well as the newspaper, interferes with the correctional progress of prisoners, the readings shall not be given to the prisoners."
-		},
-		{
-			"number": 8400,
-			"content": "Safekeeping regulations for prisoners' money and goods shall be stipulated by the Ministry of Justice.\r\nThe safekeeping of prisoners' goods shall be kept away from humidity and be exposed to the sunlight regularly, in addition to disinfection in times deemed necessary."
-		},
-		{
-			"number": 8500,
-			"content": "Foods and goods which are permitted to be given to prisoners and confiscated or abandoned valuables pursuant to the Act shall be registered in a logbook."
-		},
-		{
-			"number": 8600,
-			"content": "A prison is not permitted to punish or reward prisoners unless it is in accordance with the legallaws. For the same event, repetitive punishments or rewards are not permitted.\r\nWhen a penalty of forced labor service or a ban to outside activities is levied upon a prisoner, and if it is deemed there are concerns to the interference with the physical and mental health of the prisoner, the penalty shall be conducted only after physician's inspection.\r\nThe supervision and conduction of penalty shall not be performed by any prisoner."
-		},
-		{
-			"number": 8700,
-			"content": "Punishment against prisoner shall not be conducted without prior approval from the prison governor, except in circumstances where a final resolution from the Committee for Prison Affairs is required in accordance with laws.\r\nMethods on how to reward a prisoner shalI be decided and finalized by the Committee for Prison Affairs, in addition to publicy promulgate the deeds and results of the reqard."
-		},
-		{
-			"number": 8800,
-			"content": "In the administration of parole, rules regarding parole in the Criminal Code, the Juvenile Incidents Supervision Act, Acts of Governing Prison Serving Progressive Treatments, and other related acts shall be taken into consideration."
-		},
-		{
-			"number": 8900,
-			"content": "After the approval for parole petition is obtained, a parole ceremony shall be held by prison's officials before the prisoner leaves the prison, during which a certificate of parole is bestowed upon the prisoner. In addition, a copy of documents dictation that the prosecutors of the local district court prosecutors' office are in charge of supervision and protection of the prisoner is given to the prisoner, and the prisoner shall be informed of reporting to the prosecutors of that ditrict count's prosecutors' office within 24 hours of release. The certificated of parole, besides denoting prisoner's name, age, home address, offences committed, sentence duration, the date on which documentation sequence is given, remaining period of sentence, agency issuing the certificate, and dates, shall indicate procedures that must be followed during the parole period on the back of the certificate. \r\nAfter the prisoner has filed a request for prole, and at the times prior to the release the prisoner commits a serious offence of behavioral regulations, the prison shall report to the Ministry of Justice to withdraw the approval for parole after the Parole Review Committee has reached a resolution."
-		},
-		{
-			"number": 9000,
-			"content": "Prison shall be in cloce contact with the probation officers in charge of the supervision and protection during the period of parole."
-		},
-		{
-			"number": 9100,
-			"content": "Individual instructions shall be held at the times of discharge, in addition to checking the name of the prisoner and verify the identification pricture and fingerprint."
-		},
-		{
-			"number": 9200,
-			"content": "At the times of discharge, types of aftercare the prisoner requires shall be distinguished, in addition to negotiating with local aftercare organization for assistance."
-		},
-		{
-			"number": 9300,
-			"content": "In circumstances where the prisoner dies in prison or hospital transferred, the preservation of the corpse shall be carefully supervised.\r\nAftre prisoner dies, his/her death certificate shall be filed to the governing authority."
-		},
-		{
-			"number": 9400,
-			"content": "Prison shall negotiate with local authorities to allocate a part of public graveyard for the burial of deceased prisoner.\r\nFor deceased prisoner who is buried by the prison, a tombstone encrypted with his/her name and the date of death shall be put up before his/her grave, in addition to the registration of the death record in a logbook."
-		},
-		{
-			"number": 9500,
-			"content": "At the time prior to the execution of death penalty, prisoner's relatives shall be notified."
-		},
-		{
-			"number": 9600,
-			"content": "Prison shall compose a record with name and identification for the prisoner who is about to receive the death pranlty."
-		},
-		{
-			"number": 9700,
-			"content": "This Enforcement Rules is effective upon promulgation."
+			"content": "These Enforcement Rules shall take effect as of July 15, 2020."
 		}
 	]
 }

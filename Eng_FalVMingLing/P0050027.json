@@ -4,10 +4,11 @@
 	"english": "Regulations Governing the Accounting Systems and Standard Formulas of the Cable Radio and Television System Operators",
 	"title": "有線廣播電視系統經營者會計制度及其標準程式準則",
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=P0050027",
-	"englishUpdate": "20160130",
+	"englishUpdate": "20200729",
 	"history": [
 		"29 Articles promulgated in full by the Government Information Office(GIO) on July 12,2001. Ref：(90) Tzen- Guang-V Tze No. 09184. The implementation date of the Regulation shall designated by GIO. (The Regulation was set to be effective since January 1,2002 by GIO Order on December 13,2001.Ref：(90) Tzen- Guang-V Tze No. 16379.)",
-		"The amended Article 1,3,4,9,10,15,25,29 were promulgated by the NCC on January 30,2016, Ref：Tong-Chuan Ping No. 10541002370."
+		"The amended Article 1,3,4,9,10,15,25,29 were promulgated by the NCC on January 30,2016, Ref：Tong-Chuan Ping No. 10541002370.",
+		"The amended Article 9,12,13,25 were promulgated by the NCC on July 29,2020, Ref：Tong-Chuan Ping No. 10941021460."
 	],
 	"divisions": [
 		{
@@ -57,7 +58,7 @@
 		},
 		{
 			"number": 300,
-			"content": "The system operator shall draft the accounting system according to these regulations, report that system to the central governing authority for future reference, and simultaneously inform the special municipal or county/city government.\r\nWhen there is any amendment to the accounting system of the system operator, the system operator shall report to the central governing authority within thirty (30) days after the amendment, and simultaneously inform the special municipal or county/city government."
+			"content": "The system operator shall draft the accounting system according to these regulations, report that system to the central governing authority for future reference, and simultaneously inform the special municipal or county/city government.\r\nWhen there is any amendment to the accounting system of the system operator, the system operator shall report to the central governing authority within thirty（30）days after the amendment, and simultaneously inform the special municipal or county/city government."
 		},
 		{
 			"number": 400,
@@ -77,11 +78,11 @@
 		},
 		{
 			"number": 800,
-			"content": "The journals and ledgers of the system operator’s accounting system shall summarize the original documents, accounting documents, journal book, general ledger, subsidiary ledger, necessary auxiliary book, and all types of the various accounting reports (including detail tables), and explain their interrelationships.\r\nThe journals and ledgers system in the previous paragraph shall be explained by the journals and ledgers chart."
+			"content": "The journals and ledgers of the system operator’s accounting system shall summarize the original documents, accounting documents, journal book, general ledger, subsidiary ledger, necessary auxiliary book, and all types of the various accounting reports（including detail tables）, and explain their interrelationships.\r\nThe journals and ledgers system in the previous paragraph shall be explained by the journals and ledgers chart."
 		},
 		{
 			"number": 900,
-			"content": "The accounting items of the system operator’s accounting system shall explain the contents, installation, classification, and numbering principles.\r\nThe rules governing the installation of the accounting items in the system operator’s accounting system shall be promulgated by the central governing authority."
+			"content": "The accounting items of the system operator’s accounting system shall explain the contents, installation, classification, and numbering principles.\r\nThe rules governing the installation of the accounting items in the system operator’s accounting system shall be publicized by the central governing authority."
 		},
 		{
 			"number": 1000,
@@ -93,11 +94,11 @@
 		},
 		{
 			"number": 1200,
-			"content": "The accounting reports in the system operator’s accounting system shall contain the balance sheet, income statement, statement of change in shareholder equity, cash flow statement, and any remarks or attachments, and it shall be handled according to “the Regulations Governing the Preparation of Financial Reports by Securities Issuers.”"
+			"content": "The accounting reports in the system operator's accounting system shall contain the balance sheet, income statement, statement of change in shareholder equity, cash flow statement, and any remarks or attachments, and it shall be handled according to \"Regulations Governingthe Preparation of Financial Reports by Securities Issuers\" by Financial Supervisory Commision."
 		},
 		{
 			"number": 1300,
-			"content": "If the system operator uses the computer to handle the procedure in its accounting information, it shall be handled according to “the Rules Governing the Handling of Accounting Information in Electric Method in Business.”"
+			"content": "If the system operator uses the computer to handle the procedure in its accounting information, it shall be handled according to \"Regulations on Businesses Electronically Processing the Accounting Data\" by Ministry of Economic Affairs."
 		},
 		{
 			"number": 1400,
@@ -133,7 +134,7 @@
 		},
 		{
 			"number": 2200,
-			"content": "The allocation of indirect cost shall consider the following bases:\r\n1. The evaluation based on the inputted (activity) volume.\r\n2. The evaluation based on the outputted volume.\r\nIf the inputted (activity) or outputted volume could not be physically evaluated, or the specific causal relationship or benefit level cannot be evaluated, the following reasonable alternative allocation bases shall be used:\r\n1. The basis related to the materials.\r\n2. The basis related to the human labors.\r\n3. The basis related to the plant or equipment.\r\n4. Other cost may use the business income and production amount or other similar bases.\r\nThe cost in paragraph 1 shall be allocated to all benefit business events, such as the subscriber’s subscription, lease-circuit business, lease-channel business, advertisements, etc."
+			"content": "The allocation of indirect cost shall consider the following bases:\r\n1. The evaluation based on the inputted（activity）volume.\r\n2. The evaluation based on the outputted volume.\r\nIf the inputted（activity）or outputted volume could not be physically evaluated, or the specific causal relationship or benefit level cannot be evaluated, the following reasonable alternative allocation bases shall be used:\r\n1. The basis related to the materials.\r\n2. The basis related to the human labors.\r\n3. The basis related to the plant or equipment.\r\n4. Other cost may use the business income and production amount or other similar bases.\r\nThe cost in paragraph 1 shall be allocated to all benefit business events, such as the subscriber’s subscription, lease-circuit business, lease-channel business, advertisements, etc."
 		},
 		{
 			"number": 2300,
@@ -145,7 +146,7 @@
 		},
 		{
 			"number": 2500,
-			"content": "The financial reports of system operators shall refer to the financial statements, important detailed accounting items, attached table of standard forms, and other disclosure of events and explanation which is helpful to the decision of the user.\r\nThe system operator shall commission the certificated accountant to review the attached tables of standard form. When the certificated accountant is commissioned to review such attached tables, he/she shall conduct the review according to the Essentials of the Review to the Attached Tables of the Standard Form of the System Operators.\r\nThe Attached Tables of Standard Form and the Directions for Review for system operators shall be further promulgated by the central governing authority."
+			"content": "The financial reports of system operators shall refer to the financial statements, important detailed accounting items, attached table of standard forms, and other disclosure of events and explanation which is helpful to the decision of the user.\r\nThe system operator shall commission the certificated accountant to review the attached tables of standard form. When the certificated accountant is commissioned to review such attached tables, he/she shall conduct the review according to the Essentials of the Review to the Attached Tables of the Standard Form of the System Operators.\r\nThe Attached Tables of Standard Form and the Directions for Review for system operators shall be further publicized by the central governing authority."
 		},
 		{
 			"number": 2600,

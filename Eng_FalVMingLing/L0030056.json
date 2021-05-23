@@ -2,13 +2,14 @@
 	"pcode": "L0030056",
 	"type": "命令",
 	"english": "Regulations for Good Clinical Practice",
-	"title": "藥品優良臨床試驗準則",
+	"title": "藥品優良臨床試驗作業準則",
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=L0030056",
-	"englishUpdate": "20141023",
+	"englishUpdate": "20200828",
 	"history": [
 		"Promulgated on January 6, 2005 ",
 		"Amendment to Articles 106 dated July 19, 2010",
-		"Amendment to Articles 2 dated October 23, 2014"
+		"Amendment to Articles 2 dated October 23, 2014",
+		"Amended on Aug 28, 2020. Revised the name of regulation and Article 5.10.20.21.23.30.37.54.55.73"
 	],
 	"divisions": [
 		{
@@ -168,7 +169,7 @@
 		},
 		{
 			"number": 500,
-			"content": "The investigator should obtain the informed consent form freely given by the subjects prior to the beginning of the trial.\r\nThe investigator, or a person designated by the investigator, should fully inform the subject of all pertinent aspects of the trial, including the contents of the informed consent form and the documentations approved by the Ethics Committee. The investigator, or designated person, should ensure the content of inform consent form and other trial-related documentations are well understood, signed and dated by the subject.\r\nFor the consent mentioned in the preceding two paragraphs, where the subject is incompetent, the consent should be performed by his or her legal representative; where the subject is of limited legal capacity, consent should be obtained from his or her legal representative; where the  subject who is neither incompetent nor of limited legal capacity, yet is unable to give consent due to insanity or the absence of discernment, the consent could be given by the person legally acceptable for making decisions on behalf of the subject.\r\nThe person legally acceptable for making decisions on behalf of the subject refers to the subject’s spouse and cohabiting families."
+			"content": "The investigator should obtain the informed consent form freely given by the subjects prior to the beginning of the trial.\r\nThe investigator, or a person designated by the investigator, should fully inform the subject of all pertinent aspects of the trial, including the contents of the informed consent form and the documentations approved by the Ethics Committee. The investigator, or designated person, should ensure the content of inform consent form and other trial-related documentations are well understood, signed and dated by the subject.\r\nFor the consent mentioned in the preceding two paragraphs, where the subject is incompetent, the consent should be performed by his or her legal representative; where the subject is of limited legal capacity, consent should be obtained from his or her legal representative; where the subject who is neither incompetent nor of limited legal capacity, yet is unable to give consent due to insanity or the absence of discernment, the consent could be given by the subject's legally acceptable representative.\r\nThe subject's legally acceptable representative refers to the subject’s spouse and cohabiting families."
 		},
 		{
 			"number": 600,
@@ -188,7 +189,7 @@
 		},
 		{
 			"number": 1000,
-			"content": "In the aspect of amount and method of payment to subjects, the sponsor should not impose coercion or undue influences on the trial subjects.\r\nPayments to a subject should be prorated and not wholly contingent on completion of the trial by the subject, except when the payment is a small amount.\r\nInformation regarding payment to subjects, including the methods, amounts, and schedule of payment to trial subjects, should be clearly stated in the written informed consent form and any other written information to be provided to subjects. The way payment will be prorated should be specified."
+			"content": "In the aspect of amount and method of payment to subjects, the sponsor should not impose coercion or undue influences on the trial subjects.\r\nThe payment to a subject should be prorated and subject to the progress of the trial, instead of payment in full only after completion of the trial.\r\nInformation regarding payment to subjects, including the methods, amounts, and schedule of payment to trial subjects, should be clearly stated in the written informed consent form and any other written information to be provided to subjects. The way that the payment will be prorated should be specified."
 		},
 		{
 			"number": 1100,
@@ -228,11 +229,11 @@
 		},
 		{
 			"number": 2000,
-			"content": "Prior to a subject’s participation in the trial, the informed consent form shall be signed and personally dated by the subject or by the subject's legally acceptable representative.\r\nBefore informed consent may be obtained, the investigator, or a person designated by the investigator, should provide the subject or the subject's legally acceptable representative ample time and opportunity to inquire about details of the trial and to decide whether or not to participate in the trial.\r\nAll questions about the trial should be answered to the satisfaction of the subject or the subject's legally acceptable representative.\r\nInformed consent forms shall be signed by all parties mentioned in paragraph 2.\r\nIn clinical trials of emergency cases, prior consent of the subject or the subject’s legally representatives could be waived only when the emergency procedures are well described in the protocol. While consent of the subject or the subject's legally acceptable representative is possible, the consent shall be obtained immediately."
+			"content": "Prior to a subject’s participation in the trial, the informed consent form shall be signed and personally dated by the subject or by the subject's legal representative and the legally acceptable representative.\r\nBefore informed consent may be obtained, the investigator, or a person designated by the investigator, should provide the subject or the subject's legally acceptable representative ample time and opportunity to inquire about details of the trial.\r\nAll questions about the trial should be answered to the satisfaction of the subject or the subject's legal representative and the legally acceptable representative.\r\nInformed consent forms shall be signed by all parties mentioned in paragraph 2.\r\nIn clinical trials of emergency cases, prior consent of the subject or the subject’s legally representatives could be waived only when the emergency procedures are well described in the protocol. When consent of the subject or the subject's legal representative and the legally acceptable representative is possible, the consent shall be obtained immediately."
 		},
 		{
 			"number": 2100,
-			"content": "If the subject or the subject's legally acceptable representative is unable to read, an impartial witness shall be present during the entire informed consent discussion.\r\nThe impartial witness should read the informed consent form and any other written information to be provided to subjects and attests that the information were accurately explained by the investigator or designated person, and were fully understood by the subject or the subject's legally acceptable representative.\r\nUnder the circumstances referred to in paragraph 1, the subject or the subject’s legally acceptable representative shall still sign and date the informed consent form. Finger print is an acceptable substitute for signature.\r\nAfter finishing the work described in paragraph 2, the impartial witness attests that informed consent was freely given by the subject or the subject’s legally acceptable representative by signing and dating the informed consent form.\r\nTrial staff shall not acts as the impartial witness."
+			"content": "If the subject or the subject's legal representative and legally acceptable representative. is unable to read, an impartial witness shall be present during the entire informed consent discussion.\r\nThe impartial witness should read the informed consent form and any other written information to be provided to subjects and attests that the information were accurately explained by the investigator or designated person, and were fully understood by the subject or by the subject's legal representative and the legally acceptable representative.\r\nUnder the circumstances referred to in paragraph 1, the subject or the subject's legal representative and legally acceptable representative. shall still sign and date the informed consent form. Finger print is an acceptable substitute for signature.\r\nAfter finishing the work described in paragraph 2, the impartial witness attests that informed consent was freely given by the subject or the subject's legal representative and legally acceptable representative. by signing and dating the informed consent form.\r\nTrial staff shall not acts as the impartial witness."
 		},
 		{
 			"number": 2200,
@@ -240,7 +241,7 @@
 		},
 		{
 			"number": 2300,
-			"content": "Prior to participation in the trial, the subject or the subject's legally acceptable representative shall receive a copy of the signed and dated informed consent form and any other written information provided to the subjects. The clinical trials intended for treating emergency cases when prior consent is not possible are exceptional.\r\nDuring a subject’s participation in the trial, the subject or the subject’s legally acceptable representative shall receive a copy of the signed and dated consent form updates and a copy of any amendments to the written information provided to subjects."
+			"content": "Prior to participation in the trial, the subject or the subject's legal representative and the legally acceptable representative shall receive a copy of the signed and dated informed consent form and any other written information provided to the subjects. The clinical trials intended for treating emergency cases when prior consent is not possible are exceptional.\r\nDuring a subject’s participation in the trial, the subject or the subject's legal representative and the legally acceptable representative. shall receive a copy of the signed and dated consent form updates and a copy of any amendments to the written information provided to subjects."
 		},
 		{
 			"number": 2400,
@@ -268,7 +269,7 @@
 		},
 		{
 			"number": 3000,
-			"content": "The investigator(s) shall meet all the qualifications and abilities specified by the Competent Authority, and shall have experiences for the proper conduct of the trial."
+			"content": "The investigator(s) shall meet all the qualifications and abilities specified by the Competent Authority, and shall have experiences and resources for the proper conduct of the trial."
 		},
 		{
 			"number": 3100,
@@ -296,7 +297,7 @@
 		},
 		{
 			"number": 3700,
-			"content": "The investigator should have available an adequate number of qualified staff and adequate facilities to conduct the trial properly and safely."
+			"content": "The investigator should have available an adequate number of qualified staff and adequate facilities to conduct the trial properly and safely.\r\nThe investigator shall supervise the individual and party delegated by him/her to perform duties related to the trial."
 		},
 		{
 			"number": 3800,
@@ -364,11 +365,11 @@
 		},
 		{
 			"number": 5400,
-			"content": "The sponsor should utilize appropriately qualified individuals to be responsible for the following work:\r\n1.to supervise the overall conduct of the trial,\r\n2.to handle the data and to verify the data,\r\n3.to conduct the statistical analyses, and to prepare the trial reports."
+			"content": "The sponsor should utilize appropriately qualified individuals to be responsible for the following work:\r\n1.to supervise the overall conduct of the trial,\r\n2.to handle the data and to verify the data,\r\n3.to conduct the statistical analyses, and to prepare the trial reports.\r\n4.to perform operations related to conducting the trial."
 		},
 		{
 			"number": 5500,
-			"content": "When using electronic trial data handling or remote electronic trial data systems, the sponsor should:\r\n1.Ensure and document that the electronic data processing system(s) conforms to the sponsor’s established requirements for completeness, accuracy, reliability, and consistent intended performance (i.e. validation).\r\n2.Follow and maintain SOPs for using these systems.\r\n3.Ensure that the systems are designed to permit data changes in such a way that the data changes are documented and that there is no deletion of entered data (i.e. maintain an audit trail, data trail, edit trail).\r\n4.Maintain a security system that prevents unauthorized access to the data.\r\n5.Maintain a list of the individuals who are authorized to make data changes.\r\n6.Maintain adequate backup of the data.\r\n7.Safeguard the blinding."
+			"content": "When using electronic trial data handling or remote electronic trial data systems, the sponsor should:\r\n1. Based on the risk assessment, ensure that the electronic data processing system(s) conforms to the sponsor’s established requirements for completeness, accuracy, reliability, and consistent intended performance (i.e. validation).\r\n2.Follow and maintain SOPs for using these systems.\r\n3.Ensure that the systems are designed to permit data changes in such a way that the data changes are documented and that there is no deletion of entered data; the system shall maintain an audit trail, data trail, edit trail separately.\r\n4.Maintain a security system that prevents unauthorized access to the system or data.\r\n5.Maintain a list of the individuals who are authorized to make data changes.\r\n6.Maintain adequate backup of the data.\r\n7.Safeguard the blinding.\r\n8.Ensure the data integrity in the case of any change in the computer system."
 		},
 		{
 			"number": 5600,
@@ -440,7 +441,7 @@
 		},
 		{
 			"number": 7300,
-			"content": "The sponsor should ensure the trial is conducted under appropriate monitoring."
+			"content": "The sponsor shall take into account the risk over subjects’ protection and data integrity when establishing a monitoring plan, in order to ensure that the trial is conducted under appropriate monitoring.\r\nThe sponsor may choose on-site monitoring, system remote monitoring, or both.\r\nWhere the system remote monitoring referred to in the preceding paragraph is adopted, the same shall be implemented only upon a reasonable assessment to verify the adequacy thereof.\r\nThe contents of the plan referred to in Paragraph 1 cover the monitoring strategies, the monitoring responsibilities, the monitoring methods and reasons for adoption of the plan, as well as key data and processes to be monitored."
 		},
 		{
 			"number": 7400,

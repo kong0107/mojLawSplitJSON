@@ -1,15 +1,16 @@
 {
 	"pcode": "J0080049",
 	"type": "命令",
-	"english": "Regulations Governing the Implementation and Report of Anti-Money Laundering and Countering the Financing of Terrorism for Jewelry Businesses",
-	"title": "銀樓業防制洗錢與打擊資恐施行及申報辦法",
+	"english": "Regulations Governing Anti-Money Laundering and Countering the Financing of Terrorism for Jewelry Businesses",
+	"title": "銀樓業防制洗錢與打擊資恐辦法",
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=J0080049",
-	"englishUpdate": "20181109",
+	"englishUpdate": "20210426",
 	"history": [
 		" Promulgated on January 27, 2011.",
 		" Amended on July 3, 2017.",
 		" Amended on March 23, 2018.",
-		" Amended on November 9, 2018."
+		" Amended on November 9, 2018.",
+		" Amended on April 26 ,2021"
 	],
 	"divisions": [],
 	"articles": [
@@ -27,11 +28,15 @@
 		},
 		{
 			"number": 400,
-			"content": "When engaging in any cash transaction with a customer, the jewelry businesses shall comply with the following provisions to verify the identity of customer, keep information obtained through the customer due diligence measures and transaction records:\r\n1. Obtain the customer’s identification documents; record the customer’s name, identity number, phone number, transaction date, item, unit price, quantity and the total transaction value amounts.\r\n2. If the transaction is conducted by an agent, the jewelry businesses shall obtain the agent’s identification documents and record the agent’s name, identity number, and phone number.\r\nFor the transactions under NTD 500,000 (or its equivalent in foreign currencies), the jewelry businesses may be exempted from the provisions mentioned in the preceding paragraph and Article 5.\r\nThe information of customer’s identities and transaction records mentioned in paragraph 1 shall be maintained in their original forms for at least five years following completion of the transaction."
+			"content": "Jewelry businesses shall undertake customer due diligence (CDD) measures in any of the following situations:\r\n1.Carrying out a cash transaction greater or equal to NTD 500,000 (or its equivalent in foreign currencies) amount; or\r\n2.There is a suspicion of money laundering or terrorist financing; or\r\n3.Jewelry businesses have doubts about the veracity or adequacy of previously obtained customer identification data.\r\nJewelry businesses shall use reliable, independent source documents for CDD measures, and take the following approach:\r\n1.Jewelry businesses shall examine the customer’s national identification card, national health insurance card, passport, or other similar official identification documents to identify the customer's identity, and shall retain copies of the customer's identity documents or record the relevant information thereon.\r\n2.Jewelry businesses shall know that any person purporting to act on behalf of the customer is so authorized, and identify the identity of that person. In addition, jewelry businesses shall retain copies of the person's identity documents or record the relevant information thereon.\r\n3.If the customer is a legal person or an organization, jewelry businesses shall understand the business nature of the customer and record customer’s name, taxpayer identification number, responsible person, the address of its principal place of business and other information.\r\nThe information of customer’s identities and transaction records, such as name, business name, identity number, responsible person, address of its principal place of business, phone number, transaction date, item, unit price, quantity and the total transaction amounts mentioned in preceding paragraph, shall be maintained in their original forms for at least five years following completion of the transaction.\r\nIf there exists any of the following situations in the CDD process, jewelry businesses shall consider declining to carry out any transaction with the customer:\r\n1.The customer is suspected of opening an anonymous account or using a fake name, a nominee, a shell firm, or a shell corporation or entity to conduct a transaction;\r\n2.The customer refuses to provide the required documents for identifying and verifying its identity;\r\n3.The customer uses forged or altered identification documents;\r\n4.Other unusual circumstances exist in the process of conducting transactions and the customer fails to provide reasonable explanations."
+		},
+		{
+			"number": 401,
+			"content": "Jewelry businesses shall conduct ongoing due diligence for a customer who has been continuously trading transactions based on the following provisions:\r\n1.They shall scrutinize the transactions and ensure that the transactions are consistent with the nature of customers’ business and their ML/TF risk profile, including, where necessary, the source of funds.\r\n2.They shall periodically review the existing records to ensure that documents, data or information of the customer collected under the CDD process are kept up-to-date. If the customer is at higher risk and shall be reviewed at least once every year.\r\n3.They shall apply CDD requirements to existing customers on the basis of materiality and risk. This provision shall also apply when they learn about any material change in customers’ identity and background information.\r\n4.The process of identifying and verifying the customer’s identity does not need to repeatedly every time a customer engages in a transaction. If they have doubts about the veracity of customers’ information, suspect that customers are involved in money laundering or terrorist financing, they shall verify the identity of customers again in accordance with preceding article."
 		},
 		{
 			"number": 500,
-			"content": "In addition to the provision mentioned in the preceding Article, the jewelry businesses shall request a customer or beneficial owner, who is a politically exposed person, as well as his or her family members and close associates mentioned in paragraph 3 of Article 7 of the Money Laundering Control Act, to explain the source of funds and purpose of the purchase in order to conduct enhanced customer due diligence measures."
+			"content": "Jewelry businesses shall determine the extent of applying CDD and ongoing due diligence measures under paragraph 2 of Article 4 and the preceding article based on the risk degree. For higher risk circumstances, jewelry businesses shall perform enhanced CDD by adopting additionally at least the following enhanced measures:\r\n1.Obtaining the approval of the responsible person or senior manager before engaging in a new transaction;\r\n2.Taking reasonable measures to understand the source of funds of the customer;\r\n3.Conducting enhanced ongoing monitoring.\r\nIf there exists any of the following situations, jewelry businesses shall treat the customer directly as a high-risk customer, and adopt enhanced CDD measures under the preceding paragraph herein.\r\n1.For customers from high risk countries or regions or customers on the sanction list published by the Ministry of Justice pursuant to the Counter-Terrorism Financing Act.\r\n2.Where a customer is a politically exposed person, as well as his or her family members and close associates."
 		},
 		{
 			"number": 600,
@@ -55,7 +60,11 @@
 		},
 		{
 			"number": 1100,
-			"content": "Jewelry businesses shall conduct risk assessments of money laundering and financing of terrorism every two years and make the risk assessment reports available."
+			"content": "Jewelry businesses shall assess their money laundering/terrorist financing (ML/TF) risks, and in accordance with the following provisions:\r\n1.Prepare risk assessment reports, including at least the customers, countries or geographic areas, products and services, transactions or delivery channels.\r\n2.Make the risk assessment reports available and update them every two years.\r\n3.Provide risk assessment reports when requested by the Ministry of Economic Affairs (MOEA).\r\nJewelry businesses shall assess the ML/TF risks before using new technology to develop business, and take appropriate measures to manage and mitigate those risks."
+		},
+		{
+			"number": 1101,
+			"content": "Jewelry businesses shall undertake the CDD process by themselves, and do not entrust a third party to perform."
 		},
 		{
 			"number": 1200,

@@ -4,7 +4,7 @@
 	"english": "Fee-charging Standards for Measuring Instruments",
 	"title": "度量衡規費收費標準",
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=J0100057",
-	"englishUpdate": "20191121",
+	"englishUpdate": "20201117",
 	"attachments": [
 		{
 			"name": "檔案名稱",
@@ -103,7 +103,8 @@
 		"Articles 16, 19 and Table 6, 7 referred to in Article 14, Table 9 referred to in Article 28, Table 12 referred to in Article 32-4 amended and promulgated, and Articles 18-1, 26-1 added by Ministerial Order on 15 February 2016.",
 		"Articles 4 and Table 9 referred to in Article 28, Table 12 referred to in Article 32-4 amended and promulgated by Ministerial Order on 28 April 2017.",
 		"Table 3 referred to in Article 9, Table 5 referred to in Article 11 and Table 9 referred to in Article 28 amended and promulgated by Ministerial Order on 22 June 2018.",
-		"Table 4,Table 9 and Table 12 amended and promulgated by Ministerial Order on 21 November 2019"
+		"Table 4,Table 9 and Table 12 amended and promulgated by Ministerial Order on 21 November 2019",
+		"Articles 22-3 amended and promulgated by Ministerial Order on 17 November 2020."
 	],
 	"divisions": [
 		{
@@ -118,7 +119,7 @@
 			"number": 200,
 			"title": "Verification Fee",
 			"start": 400,
-			"end": 2202
+			"end": 2203
 		},
 		{
 			"type": "chapter",
@@ -156,11 +157,11 @@
 		},
 		{
 			"number": 200,
-			"content": "The verification body as referred to in these Regulations shall mean the dedicated weights and measures authority, its braches, or any other government agencies (institutions) or organizations commissioned by the dedicated weights and measures authority."
+			"content": "The verification agency (institution) mentioned in these Standards shall mean the dedicated weights and measures authority, its branches, or any other government agencies or institutions commissioned by the dedicated weights and measures authority."
 		},
 		{
 			"number": 300,
-			"content": "The fees for weights and measuring instruments as referred to in these Regulations shall mean the following:\r\n1. Verification fee;\r\n2. Appraisal fee;\r\n3. Type approval fee;\r\n4. Assessment fee;\r\n5. Calibration fee;\r\n6. Certificate and License fee;\r\n7. Permit fee;\r\n8. Registration fee; and\r\n9. Calibration fee for weights.\r\n10. Certification Fee\r\nFees shall be collected in New Taiwan Dollars. The total sum shall be rounded-up to the closest dollar value."
+			"content": "The fees for weights and measuring instruments as referred to in these Standards shall mean the following:\r\n1. Verification fee;\r\n2. Appraisal fee;\r\n3. Type approval fee;\r\n4. Assessment fee;\r\n5. Calibration fee;\r\n6. Certificate and License fee;\r\n7. Permit fee;\r\n8. Registration fee; and\r\n9. Calibration fee for weights.\r\n10. Certification Fee\r\nFees shall be collected in New Taiwan Dollars. The total sum shall be rounded-up to the closest dollar value."
 		},
 		{
 			"number": 400,
@@ -251,6 +252,10 @@
 			"content": "The verification fee for inductive loop speedometers is described as follows:\r\n1. The verification fee for the controller cabinet of inductive loop speedometers is NTD 4,200 per set for new speedometers, or NTD 3,200 per set for speedometers in-use.\r\n2. The base verification fee for the inductive loop of inductive loop speedometers is NTD 6,700; one lane at each site. For each additional lane at the same place of verification, additional NTD 500 shall be charged."
 		},
 		{
+			"number": 2203,
+			"content": "The verification fee for average speed control devices is described as follows:\r\nIn case of a single road section is NTD 50,000 per set.\r\nIn case of a two-way road section application at the same time, the two sets are NTD 80,000 in total."
+		},
+		{
 			"number": 2300,
 			"content": "The appraisal fees for water meters are shown in Annex 8."
 		},
@@ -264,7 +269,7 @@
 		},
 		{
 			"number": 2600,
-			"content": "The type approval fee for measuring instruments is NTD 5,000 per set. The series type approval fee for measuring instruments is NTD 3,000 per set."
+			"content": "The type approval fee for measuring instruments is NTD 5,000 per set.\r\nThe series type approval fee for measuring instruments is NTD 3,000 per set."
 		},
 		{
 			"number": 2601,
@@ -292,15 +297,15 @@
 		},
 		{
 			"number": 3100,
-			"content": "A permit fee of NTD 2,000 shall be charged to an organization that is allowed to carry out self- verification."
+			"content": "A permit fee of NTD 2,000 shall be charged to an organization that is allowed to carry out self-verification."
 		},
 		{
 			"number": 3200,
-			"content": "The permit fees for weights and measures organizations is described as follows:\r\n1. NTD 2,200 for manufacturing or repairing industry. The same rate shall apply to alteration of the scope specified in the licenses.\r\n2. NTD 400 for importers.\r\n3. NTD 400 for an extension of licenses.\r\nThe above rates shall apply to licenses issued to branches of the organization."
+			"content": "The permit fees for a weights and measures business license is described as follows:\r\n1. NTD 2,200 for manufacturing or repairing business. The same rate shall apply to alteration of the scope specified in the license.\r\n2. NTD 400 for importers.\r\n3. NTD 400 for an extension of the license.\r\nThe above rates shall apply to licenses issued to branches of the organization."
 		},
 		{
 			"number": 3201,
-			"content": "The registration fee for metrological technical personnel is NTD 1,200 per person."
+			"content": "The registration fee for metrology technical personnel is NTD 1,200 per person."
 		},
 		{
 			"number": 3202,
@@ -316,7 +321,7 @@
 		},
 		{
 			"number": 3300,
-			"content": "These Regulations shall come into force from the date of promulgation except for articles whose enforcement date has been set separately."
+			"content": "These Standards shall come into force from the date of promulgation except for articles whose enforcement date has been set separately."
 		}
 	]
 }

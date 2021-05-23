@@ -1,0 +1,205 @@
+{
+	"pcode": "K0060122",
+	"type": "命令",
+	"english": "Administrative Regulations for Number Portability Services of Telecommunications Enterprises",
+	"title": "電信事業號碼可攜服務管理辦法",
+	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0060122",
+	"englishUpdate": "20200702",
+	"history": [
+		"Promulgated on July 2, 2020"
+	],
+	"divisions": [
+		{
+			"type": "chapter",
+			"number": 100,
+			"title": "General Principles",
+			"start": 100,
+			"end": 200
+		},
+		{
+			"type": "chapter",
+			"number": 200,
+			"title": "Scope and Implementation Schedule of Number Portability",
+			"start": 300,
+			"end": 300
+		},
+		{
+			"type": "chapter",
+			"number": 300,
+			"title": "Provision of Number Portability",
+			"start": 400,
+			"end": 600,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Porting Process of Subscribers",
+					"start": 400,
+					"end": 500
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Providing Telecommunications Services for Subscribers Receiving the Telecommunication",
+					"start": 600,
+					"end": 600
+				}
+			]
+		},
+		{
+			"type": "chapter",
+			"number": 400,
+			"title": "The Establishment and Management of the Databases",
+			"start": 700,
+			"end": 2000,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Concentrated Databases",
+					"start": 700,
+					"end": 1700
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Ported Subscriber Databases",
+					"start": 1800,
+					"end": 2000
+				}
+			]
+		},
+		{
+			"type": "chapter",
+			"number": 500,
+			"title": "Reporting of the Performance of the Porting Process and Relevant Fees for Number Portability",
+			"start": 2100,
+			"end": 2500
+		},
+		{
+			"type": "chapter",
+			"number": 600,
+			"title": "Supplementary Provisions",
+			"start": 2600,
+			"end": 2900
+		}
+	],
+	"articles": [
+		{
+			"number": 100,
+			"content": "These Regulations are established in accordance with the stipulations of Paragraph 5, Article 16 of the Telecommunications Management Act（hereafter referred as the Act）."
+		},
+		{
+			"number": 200,
+			"content": "For the purposes of the Regulations:\r\n1. “Operators”: it refers to the Telecommunications enterprises who can provide Number Portability in accordance with these Regulations.\r\n2. “Ported Subscribers”: it refers to the subscribers who switched their telecommunication enterprises through Number Portability.\r\n3. “Recipient Operator”: it refers to the Telecommunications enterprises who have gained the Ported Subscriber in the provision of Number Portability.\r\n4. “Donor Operator”: it refers to the Telecommunications enterprises who have lost the Ported Subscriber in the provision of Number Portability.\r\n5. “Concentrated Databases”: it refers to the Databases administrated by the Concentrated Databases Administrator as referred to in section 1 of Chapter IV, databases of necessary information for operators and telecommunication enterprises to exchange and use Number Portability.\r\n6. “Ported Subscriber Databases”: it refers to the databases that are constructed by the Operators and other telecommunication enterprises for exchanging and storing the routing information of Ported Subscribers."
+		},
+		{
+			"number": 300,
+			"content": "Operators shall provide Number Portability from the date when they start using subscribers’ numbers for business.\r\nNumber Portability is limited to portability between numbers of the same classification.\r\nThe classification available for portability in the preceding paragraph is as follows:\r\n1. Local phone numbers.\r\n2. Mobile phone numbers.\r\n3. 080 free phone number.\r\nNumber Portability for local phone numbers in Subparagraph 1 of the preceding paragraph shall be installed in the same location in principle. Except otherwise stipulated in the service agreement."
+		},
+		{
+			"number": 400,
+			"content": "The service agreement between a Operator and its Subscribers shall, in a distinct way, expressly state the following items:\r\n1. Subscriber may request for the provision of Number Portability.\r\n2. In order to provide Number Portability, Operators may offer a Subscriber's data necessary for the provision of Number Portability to other telecommunication enterprises and the Administrator of Concentrated Databases.\r\n3. Operators may charge fees for the porting process of Number Portability.\r\nOperator using mobile phone numbers shall provide appropriate ways for its subscribers to make queries on whether the mobile phone numbers are related to services provided by the originating operator."
+		},
+		{
+			"number": 500,
+			"content": "Operators shall perform the porting process of Ported Subscribers in accordance with the following requirements:\r\n1. Recipient Operator shall provide Number Portability in accordance\r\nwith the application filed by the Ported Subscribers. The application shall be a part of the agreement and shall be deemed as the application to Donor Operator to terminate the service agreement.\r\n2. The Recipient Operator shall co-ordinate with the Ported Subscriber to arrange for the date and time of the proposed cutover.\r\n3. Recipient Operator shall report to the Concentrated Databases Administrator at least 4 working days before the scheduled cutover date and provide the application information in Subparagraph 1 to the Donor Operator.\r\n4. The Donor Operator shall confirm the date and time of the cutover with the Recipient Operator after receiving the information in the preceding paragraph and report to the Concentrated Databases Administrator and the Executing Authority of Communications Supervision. The Recipient Operator may co-ordinate with the Subscriber and the Donor Operator to change the cutover date and time if necessary, and inform the Concentrated Databases Administrator. The Donor Operator shall inform to the Executing Authority of Communications Supervision after confirming the changes in the scheduled cutover date and time.\r\n5. The Recipient Operator shall co-ordinate with the Donor Operator to carry out testing for the local loop and relevant equipment prior to the confirmed cutover date and time.\r\n6. After successful completion of cutover process, the Recipient Operator shall report to the Concentrated Databases Administrator and the Executing Authority of Communications Supervision.\r\n7. The Donor Operator may refuse to provide Number Portability for the Subscribers whose communications services have been terminated due to arrears of service fees, violations of laws and regulations or violations of the service agreement. The Donor operator may provide Number Portability for the Subscribers, after\r\nthe Subscribers performed their obligations related to the agreed payment for early termination and terminate of the agreement.\r\n8. The Donor Operator shall not engage in win-back activities during the period of porting process.\r\nThe Recipient Operator may transmit the data required in Subparagraph 4 of preceding paragraph by electronic means to shorten the time of the porting process. However, the electronic transmission adopted by the Recipient Operator may not be operated without the admission of the Committee referred to in Article 7.\r\nThe Recipient Operator transmitting the data required in Subparagraph 4, Paragraph 1 of preceding paragraph by electronic means shall guarantee the content transmitted to be correct, and shall be responsible for all liabilities resulting from incorrect contents. Where the Recipient Operator and the Donor Operator have reached other agreements regarding the application information in Subparagraph 4 of Paragraph 1, such agreements shall prevail.\r\nIf any difficulty is encountered in the porting process as set forth in Paragraph 1, the Recipient Operator shall co-ordinate with the Donor Operator to resolve the problems and notify the Subscriber applying for porting. Before the porting process has been successfully completed, the Recipient Operator shall maintain original telecommunications services for Subscribers thereof until the porting process has been completed.\r\nThe notifications to the Concentrated Databases Administrator and the Executing Authority of Communications Supervision as referred to in Paragraph 1 shall be in accordance with the following requirements:\r\n1. Notifications to the Concentrated Databases Administrator:\r\n（1）Recipient Operator: the telephone number of Ported Subscribers, the name of the Donor Operator and the Recipient Operator, the proposed and completed cutover date and time.\r\n（2）Donor Operator: the telephone number of Ported Subscribers,\r\nthe name of the Donor Operator and the Recipient Operator, and the agreed cutover date and time.\r\n2. Notifications to the Executing Authority of Communications Supervision:\r\n（1）Donor Operator: the telephone number of Ported Subscribers, the name of the Donor Operator and the Recipient Operator, and the agreed cutover date and time.\r\n（2）Recipient Operator: the telephone number of Ported Subscribers, the name of the Donor Operator and the Recipient Operator, and the completed cutover date and time."
+		},
+		{
+			"number": 600,
+			"content": "The originating Operator shall provide communications services for subscribers receiving the telecommunication by accessing routing information through database queries.\r\nThe ways of database queries in the preceding paragraph include:\r\n1. The Originating Operator shall access routing information from the Ported Subscriber Database before the communications links are set up.\r\n2. The Originating Operator shall access routing information from the Ported Subscriber Database through connection with other telecommunication enterprises.\r\nThe Databases prescribed in the preceding two paragraphs shall not be the Concentrated Databases, except as otherwise in other laws and regulations or in emergency situation that has been granted by the competent authority.\r\nThe Originating Network as referred to in the Paragraph 1 means that the Operator of the originating Ported Subscriber. However, when operator’s subscribers conduct the following communications, obligations under\r\nParagraph 1 shall be determined in accordance with the provisions of the subparagraphs:\r\n1. Long-distance telecommunication: Telecommunication enterprises providing long-distance telecommunication services.\r\n2. International Voice-based Telecommunications Universal Service: Telecommunication enterprises providing international voice-based telecommunications universal services.\r\nThe Originating Operator may commission other Operator to implement the proceedings as referred to in Paragraph 1, the commissioned Operator may charge for relevant fees from the Originating Operator.\r\nWhen telecommunication enterprises that does not provide international telecommunication service obtain routing information for international non-voice-based telecommunications universal service, the provision and fee for routing information in Paragraph 1 shall be negotiated between the Recipient Operator and other Operators or third parties."
+		},
+		{
+			"number": 700,
+			"content": "Operators shall collectively supervise the establishment, maintenance and management of Concentrated Databases in accordance with the following requirements:\r\n1. Collectively establish the Management Committee of Concentrated Databases（hereinafter referred to as the Committee）, and set the regulations for the organization and the operation of the Committee.\r\n2. Formulate the coordination and testing method for the porting process of the Ported Subscribers between the Concentrated Databases Administrator（hereinafter referred to as the Administrator）and the Operators.\r\n3. Formulate the means of notification between the Administrator and the Operators.\r\n4. Formulated the time limit for updating the Concentrated Databases and the Ported Subscriber Databases of each Operator.\r\n5. Formulate the process for reviewing and updating the information in the Ported Subscriber Databases.\r\n6. Formulate the interface specifications, format and procedure for exchanging Ported Subscriber information, and the testing method for exchanging Ported Subscriber information between the Ported Subscriber Databases of each Operator.\r\n7. Formulate the service items of the Administrator and the service quality standards.\r\n8. Formulate relevant items such as the selection criteria and procedure for the Administrator.\r\n9. Elect a single Administrator according to the judging standard and the judging procedure.\r\n10. Negotiate the contract of commissioned management.\r\n11. Formulate the system for superintendence of the Administrator.\r\n12. Formulate the matters concerning the handover between the former Administrator and its successor and the supervision mechanism.\r\n13. Formulate the contingency plan during the absence of an Administrator.\r\n14. Formulate compliance items for other telecommunication enterprises participating in the committee or while using the Concentrated Databases.\r\n15. Formulate other provisions related to the establishment and management of the Concentrated Databases.\r\nFor items that shall be performed set forth in each subparagraph of preceding paragraph, except for Subparagraph 9, the Operators shall collectively report to the competent authority for reference before implementation; the competent authority may order revision if necessary.\r\nOperator shall collectively establish the Committee set forth in\r\nSubparagraph 1 of Paragraph 1 upon provision of Number Portability, and the Committee is commissioned to handle items stipulated under each subparagraph of Paragraph 1.\r\nThose that have collectively established or joined the Committee for Centralized Databases founded in accordance with the Regulations Governing Number Portability as authorized by Paragraph 4, Article 20 of the Telecommunications Act before the enforcement of these Regulations shall be deemed to comply with the provisions of Paragraph 1 and the preceding paragraph."
+		},
+		{
+			"number": 800,
+			"content": "Where the subscribers’ numbers of the operator are leased or borrowed, the operator that obtained the allocated subscribers’ numbers may be commissioned to handle items specified in the preceding article."
+		},
+		{
+			"number": 900,
+			"content": "Operators shall collectively enter into the agreement of commissioned management with the Administrator.\r\nWhen the Operators or other telecommunication enterprises are using the service of the Centralized Databases, the Administrator shall enter into service agreements with them respectively. The service agreement shall be made on the basis of the contract of commissioned management, and shall not contradict the contract of commissioned management."
+		},
+		{
+			"number": 1000,
+			"content": "The Administrator commissioned by the Operators shall be the registered incorporated foundation or company, whose chairman of the board shall be the national of Republic of China. If the Administrator is a company, it shall meet the following requirements:\r\n1. Paragraph 5 of Article 36 of these Regulations shall apply mutatis mutandis to the total shareholding by foreigners.\r\n2. Any Operator shall not hold above 10 % of shares with voting rights or 10% of the sum of capital.\r\n3. It shall not have the same board chairman or over 10% of the same directors as any Operators.\r\n4. It shall not have the same shareholders or investors who hold over\r\n50% of the issued shares with voting rights or over 50% of the sum of capital as any Operators.\r\n5. Any shareholder, director or employee holding over 10% of the shares of the Administrator shall not also hold over 10% of the shares of any Operator at the same time.\r\n6. The employees of the Administrator shall not be employees of any Operator at the same time.\r\nWith the consent of over 75% of the Operators, the Administrator may be exempted from the restrictions set forth in Subparagraph 2 to Subparagraph 6 of the preceding paragraph.\r\nThe employees as referred in Subparagraph 5 and 6 of Paragraph 1 shall mean the persons who are hired by the Administrator and obtain the salary or other recompense either full-time or part-time."
+		},
+		{
+			"number": 1100,
+			"content": "The contract of commissioned management as referred to in Subparagraph 10, Paragraph 1 of Article 7, except as otherwise prescribed in these Regulations, shall include the following items:\r\n1. The items as referred to in Subparagraph 7 and Subparagraph 11 to Subparagraph 15 of Paragraph 1 of Article 7.\r\n2. Dissolution of contract before expiration as the Administrator does not meet the requirement as prescribed in the preceding article.\r\n3. The tariff rates or the tariff charging mechanism for Administrator’s service.\r\n4. The Administrator shall not refuse the application of any Operator or other Telecommunications Enterprises, and shall treat them on the principle of impartiality and reasonableness.\r\n5. The Administrator shall cooperate with the supervision of the competent authority.\r\n6. The effects of violation of the commissioned management contract."
+		},
+		{
+			"number": 1200,
+			"content": "Operators shall perform the daily operation of the Administrator and the superintendence of the hand-over of the Administrator in accordance with the\r\nprovisions set forth in Article 7."
+		},
+		{
+			"number": 1300,
+			"content": "The term of commissioned management of the Administrator is five years at most, and the term of office may be renewed; the Operators shall complete the contract renewal or reelection of the Administrator within six months one year before the Administrator’s expiration of the term of office."
+		},
+		{
+			"number": 1400,
+			"content": "Operators shall inform the new elected Administrator to amend any violations of Article 10 within a specified time limit. Where the Administrator failed to make such amendments within the time limit, the Operators shall remove the Administrator from office and reelect a new Administrator."
+		},
+		{
+			"number": 1500,
+			"content": "If the Administrator could not be reelected successfully, the Operators shall perform the contingency plan in accordance with the provisions set forth in Subparagraph 13, Paragraph 1of Article 7."
+		},
+		{
+			"number": 1600,
+			"content": "Operators shall bear joint liability for their joint actions in accordance with the provisions set forth in these Regulations."
+		},
+		{
+			"number": 1700,
+			"content": "The service quality of the Centralized Databases shall meet the following requirements:\r\n1. Maintain normal operation at least 99.9% of the time all the year, and in normal condition, the service shall not be suspended over two hours each month.\r\n2. Maintain at least 99.5% accuracy of the information.\r\n3. It shall be equipped the preparatory rescue system, and the time for cutting over shall not be over ten minutes.\r\n4. When the material obstacle of system occurs, the time for revert function in part shall not exceed 24 hours, and the time for revert function totally shall not exceed 48 hours.\r\nRevert function in part as referred to Subparagraph 4 of the preceding Paragraph means that the Concentrated Databases recover the function of receiving, managing and informing information for Number Portability. Revert function totally means that the Concentrated Databases recover all the function as it provides in normal condition."
+		},
+		{
+			"number": 1800,
+			"content": "Operators shall state in the contract of commissioned management that the Centralized Databases Administrator shall perform the following items:\r\n1. Perform the required notifications in accordance with Subparagraph 3, Paragraph 1of Article 7.\r\n2. Maintain the accuracy of Ported Subscriber information in accordance with Subparagraph 4, Paragraph 1 of Article 7.\r\n3. Perform the exchange of Ported Subscribers’ data between Concentrated Databases and Ported Subscriber Databases of Operators according to the interface specifications, format and procedure for exchanging Ported Subscriber information, and the testing method for exchanging Ported Subscriber information set forth in Subparagraph 6, Paragraph 1 of Article 7."
+		},
+		{
+			"number": 1900,
+			"content": "Operators shall manage their Ported Subscriber Databases in accordance with the following requirements:\r\n1. Ensure and periodically check data accuracy, security and normal operational function of the Ported Subscriber Database.\r\n2. Ensure and periodically check the normal operation of function and equipment required for the exchange of Ported Subscriber information.\r\n3. Establish complete data backup and preparatory rescue measures.\r\n4. Establish and preserve for at least six months historical records of data updates.\r\n5. Perform the testing for data exchange of the Ported Subscriber Database upon the request of other telecommunication enterprises who have set up Ported Subscriber Databases."
+		},
+		{
+			"number": 2000,
+			"content": "Except otherwise stipulated in Subparagraph 2, Paragraph 2 of Article 6, Operators shall deploy two sets of Ported Subscriber Database equipment and any other equipment necessary for exchanging Ported Subscriber information."
+		},
+		{
+			"number": 2100,
+			"content": "Before the end of January and the end of July each year, each Operator shall compile and submit information such as the number of Subscribers ported to/from its networks, the failure rate of porting process, average duration of porting process, and so on, for the previous six months to the competent authority. The report formats shall be announced by the competent authority."
+		},
+		{
+			"number": 2200,
+			"content": "The Donor Operator shall not collect the costs incurred by the number porting process from the Recipient Operator."
+		},
+		{
+			"number": 2300,
+			"content": "The Donor Operator may charge fees for the number porting process from Ported Subscribers.\r\nThe fees as referred to in the preceding paragraph shall not be higher than the sum announced by the competent authority, and the Donor Operator shall set the fees in accordance with Subparagraph 1, Paragraph 1 of Article 8 of these Regulations."
+		},
+		{
+			"number": 2400,
+			"content": "Operators shall bear the establishment and maintenance cost necessary for providing Number Portability."
+		},
+		{
+			"number": 2500,
+			"content": "The Originating Operator shall bear its own additional communication costs or Ported Subscriber Database query costs incurred in the provision of communications services for the subscribers receiving the telecommunication."
+		},
+		{
+			"number": 2600,
+			"content": "Where the Operators did not participate in the committee or did not establish Ported Subscriber Databases in violation of the relevant provisions of these Regulations shall not be exempted from liability attributable to the intention or negligence of their mandataries."
+		},
+		{
+			"number": 2700,
+			"content": "When Ported Subscribers terminate use of their original numbers, Recipient Operator shall, within 7 days from the termination of the subscribers, return the subscribers’ numbers to the original operator allocated\r\nwith the number and report to the Centralized Databases Administrator. However, of the original operator assigned that subscriber’s number has stopped its business operation or that subscriber’s number is no longer allocated to any operator, that subscriber’s number shall be returned to the competent authority.\r\nSituation of terminate use as referred to in the preceding paragraph does not include the conditions that an inheritor continues to use a telephone number through inheritance, or a surviving or new company continues to use its forerunner's telephone number after consolidation or merger, or number Ported Subscribers under service agreement to the Recipient Operator apply for the third party continue to use the original telephone number.\r\nUnless a Ported Subscriber ceases to use his/her existing subscriber’s number, the Donor Operator shall not reassign that subscriber’s number to another Subscriber."
+		},
+		{
+			"number": 2800,
+			"content": "When an operator leases or lends subscribers’ numbers for other operators to provide telecommunication services, it shall not restrict other selection service providers from providing Number Portability, and shall negotiate with other operators on items specified in Articles 5, Article 7, and Article 27."
+		},
+		{
+			"number": 2900,
+			"content": "These Regulations take effect from the date of implementation."
+		}
+	]
+}

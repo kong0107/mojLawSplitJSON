@@ -4,86 +4,30 @@
 	"english": "Regulations on Disposal of the Financial Affairs of Social Associations",
 	"title": "社會團體財務處理辦法",
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=D0050097",
-	"englishUpdate": "20110923",
+	"englishUpdate": "20201229",
+	"attachments": [
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Annex：Formats and Descriptions of Accounting Reports.pdf"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Annex：Formats and Descriptions of Accounting Reports.odt"
+			]
+		}
+	],
 	"history": [
 		" The whole enacted text of 36 articles promulgated by Order Tai-Nei-She-Tzu No.709666 of the Ministry of the Interior on June 30, 1989",
 		" Article 1 and Article 3 amended by Order (81) Tai-Nei-She-Tzu No.8185396 of the Ministry of the Interior on July 30, 1992",
 		" Articles 6~9, 12, 13, 16~18, 20, 22, 23 and 26 amended by Order (86) Tai Nei-She-Tzu No.8687479 of the Ministry of the Interior on July 30, 1997",
 		" Articles 6～12,16,20,23 and 26amended by Order Tai Nei-She-Tzu No. 0940063327 of the Ministry of the Interior on December 08, 2005",
-		" Articles 4, 18 and Aricle 6 in Annex 1 amended by Order Tai Nei-She-Tzu No. 1000182201 of the Ministry of the Interior on September 23, 2011"
+		" Articles 4, 18 and Aricle 6 in Annex 1 amended by Order Tai Nei-She-Tzu No. 1000182201 of the Ministry of the Interior on September 23, 2011",
+		"The whole enacted text of 23 articles amended by Order Tai-Nei-Tuan-Tzu No. 1090282711 of the Ministry of the Interior on December 29, 2020"
 	],
-	"divisions": [
-		{
-			"type": "chapter",
-			"number": 100,
-			"title": "General Principles",
-			"start": 100,
-			"end": 500
-		},
-		{
-			"type": "chapter",
-			"number": 200,
-			"title": "Accounting Reports and Accounting Items",
-			"start": 600,
-			"end": 700
-		},
-		{
-			"type": "chapter",
-			"number": 300,
-			"title": "Accounting Books",
-			"start": 800,
-			"end": 800
-		},
-		{
-			"type": "chapter",
-			"number": 400,
-			"title": "Accounting Vouchers",
-			"start": 900,
-			"end": 1100
-		},
-		{
-			"type": "chapter",
-			"number": 500,
-			"title": "Compiling and Auditing Budgets and Final Accounts",
-			"start": 1200,
-			"end": 1300
-		},
-		{
-			"type": "chapter",
-			"number": 600,
-			"title": "Property Management",
-			"start": 1400,
-			"end": 1600
-		},
-		{
-			"type": "chapter",
-			"number": 700,
-			"title": "Disposal of Finance and Accounting",
-			"start": 1700,
-			"end": 2900
-		},
-		{
-			"type": "chapter",
-			"number": 800,
-			"title": "Financial Personnel",
-			"start": 3000,
-			"end": 3200
-		},
-		{
-			"type": "chapter",
-			"number": 900,
-			"title": "Financial Auditing",
-			"start": 3300,
-			"end": 3400
-		},
-		{
-			"type": "chapter",
-			"number": 1000,
-			"title": "Supplementary Provisions",
-			"start": 3500,
-			"end": 3600
-		}
-	],
+	"divisions": [],
 	"articles": [
 		{
 			"number": 100,
@@ -91,142 +35,90 @@
 		},
 		{
 			"number": 200,
-			"content": "The financial affairs of social associations shall be disposed of in accordance with the provisions of these Regulations unless otherwise prescribed by law. Administrative orders that do not conflict with these Regulations shall apply all the same."
+			"content": "The financial affairs of social associations shall be disposed of in accordance with the provisions of these Regulations unless otherwise strictly provided by authorities in charge of relevant business.\r\nThe financial affairs referred to in the preceding paragraph are accounting, budgets, final accounts, real estate and other financial management affairs."
 		},
 		{
 			"number": 300,
-			"content": "A social association as called in these Regulations refers to a social association established under the Civil Associations Act."
+			"content": "Accrual accounting must be used as an accounting basis; if cash basis is used ordinarily, adjustment using the accrual basis at final accounting must be made."
 		},
 		{
 			"number": 400,
-			"content": "The accounting year of a social association shall be determined by the calendar year, and shall commence from the first (1st) day of January and terminate on the thirty-first (31st) day of December each year. However, if otherwise provided by international social association articles that it should be reported to regulating authority for approval, these articles shall be implemented."
+			"content": "Social associations shall keep account books, and those with property shall keep property registers. Other account books may be kept as needed.\r\nWhere the amount of the annual budget is more than NT$3,000,000 a social association shall prepare a general ledger and detailed ledgers separately."
 		},
 		{
 			"number": 500,
-			"content": "The accounting basis of a social association shall employ cash basis at ordinary times and accrual basis for settlement upon the end of the accounting year."
+			"content": "Social organizations shall register accounting items in account books based on accounting documents.\r\nAccounting items referred to in the preceding paragraph include assets, liabilities, funds and balance, incomes and expenditures, and differences thereof."
 		},
 		{
 			"number": 600,
-			"content": "Accounting reports are as prescribed below:\r\n1. Final accounting form of incomes and expenditures.\r\n2. Statement of incomes and expenditures in cash.\r\n3. Statement of assets and liabilities.\r\n4. Inventory of properties.\r\n5. Statement of incomes and expenditures in funds.\r\nEach association may compile internal accounting reports by themselves according to actual requirements.\r\nThe formats of the report forms listed in the first paragraph and instructions for tabulation are shown in Annex 1."
-		},
-		{
-			"number": 700,
-			"content": "Accounting items include assets, liabilities, funds and surplus/deficit, incomes, and expenditures.\r\nThe titles and instructions of the accounting items referred to in the above paragraph are shown in Annex 2."
-		},
-		{
-			"number": 800,
-			"content": "Accounting books are divided into the following categories:\r\n1. Daybook.\r\n2. General ledger.\r\n3. Property registers.\r\n4. Detailed ledger.\r\n5. Other books.\r\nWhere the amount of the annual budget is not more than NT$3,000,000, it is allowable that only daybooks are established, and property registers may be prepared where properties are purchased or disposed.\r\nThe formats of the accounting books listed in the first paragraph are shown in Annex 3."
-		},
-		{
-			"number": 900,
-			"content": "Accounting vouchers are divided into the following two classes:\r\n1. Original vouchers: an original voucher refers to a voucher that proves the process of an accounting matter and is used as a reference for producing accounting vouchers.\r\n2. Accounting vouchers: an accounting voucher refers to a voucher that proves the liability of the accountant and is used as evidence for keeping accounts.\r\nWhere the amount of the annual budget is not more than NT$3,000,000, original vouchers may be used as evidence for keeping accounts."
-		},
-		{
-			"number": 1000,
-			"content": "Original vouchers include the following:\r\n1. Bill of receipt, payment, transfer of cash, check, and securities.\r\n2. Book of receipts.\r\n3. Bill of salary payment.\r\n4. Report form of business trip allowance.\r\n5. Bill of deposit and withdrawal.\r\n6. Invoice, receipt, contract, and order form.\r\n7. Statement of damaged and discarded properties.\r\n8. Budget sheet for revenues and expenditures.\r\n9. Evidential bills of expenditures.\r\n10. Decrees, resolutions, and related bills proving the process of accounting affairs.\r\n11. Other forms, vouchers, and bills.\r\nFor the original vouchers listed in the subparagraphs above, if a format has been prescribed, such format shall apply; otherwise, the format shall be designed by each association itself according to actual requirements."
-		},
-		{
-			"number": 1100,
-			"content": "Accounting vouchers include the following:\r\n1. Receiving slip.\r\n2. Disbursement slip.\r\n3. Transfer slip.\r\nThe formats of the accounting vouchers listed in the above paragraph are as shown in Annex 4."
-		},
-		{
-			"number": 1200,
-			"content": "The board of directors of a social association shall, two (2) months before an accounting year begins, compile an annual work plan and a budget sheet for revenues and expenditures, submit them to the member's (member representative's) congress for approval, and before the accounting year begins report them to the regulating authority for reference. Where the member's (member representative's) congress is not held as scheduled, the plan and the form may be adopted first by a joint meeting of the board of supervisors and the board of supervisors of the association, and reported to the regulating authority, and then be submitted to the member's (member representative's) congress for adoption after the event, and reported to the regulating authority again for reference.\r\nThe format of the budget sheet for revenues and expenditures referred to in the above paragraph is as shown in Annex 5."
-		},
-		{
-			"number": 1300,
-			"content": "The board of directors of a social association shall, within two (2) months after an accounting year terminates, compile a work report and a form of final accounts of that year, and submit them together with a statement of incomes and expenditures in cash, a statement of assets and liabilities, an inventory of properties, and a statement of incomes and expenditures in funds to the board of supervisors for auditing. The board of supervisors shall produce a position paper of auditing and return the aforementioned documents with the paper to the board of directors. Then, after the documents are adopted in the member's (member representative's) congress, they shall be reported to the regulating authority for reference before the end of March. Where the member's (member representative's) congress is not called as scheduled, a joint meeting of directors and supervisors may be held to adopt the documents and report them to the regulating authority, and after they are adopted in the congress, report them to the regulating authority again for examination and reference.\r\nWhere the amount of final accounts referred to in the above paragraph is more than NT$15,000,000, accountants may be employed to provide attestation."
-		},
-		{
-			"number": 1400,
-			"content": "Properties as called in these Regulations are limited to the fixed assets listed in Annex 2."
-		},
-		{
-			"number": 1500,
-			"content": "Property management as called in these Regulations refers to matters regarding the procedure of property processing such as registration, increase, decrease, disposal, safekeeping, and use of properties."
-		},
-		{
-			"number": 1600,
-			"content": "To purchase, sell, transfer, or set the rights to mortgage real properties, a social association shall submit the proposal to the member's (member representative's) congress for adoption, and report to the regulating authority for approval. However, in special cases and with the authorization of the member's (member representative's) congress, purchasing of real properties may be adopted by a joint meeting of directors and supervisors, reported to the regulating authority for approval and processing, and then reported to the congress to subsequently admit the purchase. In this case, a photocopy of the ownership certificate must be submitted to the regulating authority for reference."
-		},
-		{
-			"number": 1700,
-			"content": "The standard and payment method of the admission fee and perennial membership fee of a social association shall be prescribed in its constitution, adopted by the member's (member representative's) congress, and then reported to the regulating authority for approval and implementation."
-		},
-		{
-			"number": 1800,
-			"content": "The board of directors shall, according to the annual budget, compile a payroll of the workers, and submit it to the member's (member representative's) congress for adoption."
-		},
-		{
-			"number": 1900,
-			"content": "Upon disaffiliation, the members of a social association may not request a refund of the fees already paid by them."
-		},
-		{
-			"number": 2000,
-			"content": "Social associations shall allocate a proper sum into the provident fund each year, and the sum shall be not more than twenty percent (20%) of the total amount of the budget. However, such a sum cannot be allocated in case of a deficit budget occurring in the social association.\r\nThe fund referred to in the above paragraph and its interest incomes shall be deposited in a special account according to its purpose, and may not be used without the consent of the board of directors."
-		},
-		{
-			"number": 2100,
-			"content": "In a social association, the surplus in the final accounts may be used as financial sources for expenditures of the next year."
-		},
-		{
-			"number": 2200,
 			"content": "The financial accounts of social associations shall be calculated in the unit of new Taiwan dollars (NT$), and foreign currencies shall be converted into new Taiwan dollars for the purpose of keeping accounts."
 		},
 		{
-			"number": 2300,
-			"content": "The financial incomes of a social association, except the revolving fund, shall be deposited in a bank or the post affiliated to Chunghwa Post Co., Ltd , and may not be deposited in other public or private enterprises or with individuals; in principle, any incomes shall be deposited immediately upon receipt.\r\nThe involving fund referred to in the above paragraph may not exceed NT$100,000, and shall be kept by the financial personnel with the consent of the board of directors.\r\nA sum of current expenses not more than NT$10,000 may be paid in cash under the item of the involving fund. A sum of more than NT$10,000 shall be directly paid to the receiver by means of a crossed order check, and may not be paid in cash."
+			"number": 700,
+			"content": "Accounting documents are categorized as follows:\r\n1. Original vouchers : an original vouchers  refers to a voucher that proves the process of an accounting matter and is used as a reference for producing accounting vouchers .\r\n2. Accounting vouchers: a  accounting voucher refers to a voucher that proves the liability of the accountant and is used as evidence for keeping accounts.\r\nWhere the amount of the annual budget is not more than NT$3,000,000 original vouchers  may be used as evidence for keeping accounts."
 		},
 		{
-			"number": 2400,
-			"content": "In a social association, formal receipts shall be produced for all the incomes, and counterfoils shall be reserved for future examination. Upon withdrawal of deposits, the principal, secretary-general, or director-general and the financial personnel shall jointly stamp their seals on the vouchers."
+			"number": 800,
+			"content": "Original vouchers  are categorized as follows:\r\n1. External vouchers : ones obtained from parties other than the group.\r\n2. Outgoing vouchers : ones given to parties other than the group.\r\n3. Internal vouchers : ones prepared and retained by the group."
 		},
 		{
-			"number": 2500,
-			"content": "The incomes and expenditures of the standing offices, commissions, groups, and other internal operational organizations of a civil association shall be received and paid by the association, and no other annual budgets or final accounts of incomes and expenditures may be compiled."
+			"number": 900,
+			"content": "Accounting Vouchers are categorized as follows:\r\n1. Receipt slip .\r\n2. Payment slip\r\n3. Transfer slip ."
 		},
 		{
-			"number": 2600,
-			"content": "For the meetings held by a social association, the attendees of the association may not receive any pay. However, a reasonable pay for attendance or a transportation allowance may be offered for the directors to attend meetings of the board of directors, the supervisors to attend meetings of the board of supervisors, and the non-voting attendees who perform their duties in accordance with Article 9 of the Regulations on Implementation of Supervision of Civil Associations according to the financial status of the association and with reference to the standard set forth by the government or according to the transport tickets."
+			"number": 1000,
+			"content": "The accounting year of a social association shall be determined by the calendar year, and shall commence from the first (1st) day of January and terminate on the thirty-first (31st) day of December each year. However, if otherwise provided byinternational social association articles that it should be reported to regulating authority for approval, these articles shall be implemented."
 		},
 		{
-			"number": 2700,
+			"number": 1100,
+			"content": "The board of directors of a social association shall, before an accounting year begins, compile an annual work plan and a budget sheet for revenues and expenditures, and within three (3) months after an accounting year terminates, compile a workreport and accounting reports of the previous year, submit them altogether to the member's (member representative's) congress for approval, and then report them to the regulating authority for reference. Where the member's (member representative's) congressis not held as scheduled, the plan and the form may be adopted first by the respective meetings of the board of directors and the board of supervisors or a joint meeting of the board of directors and supervisors of the association, and then submitted to themember's (member representative's) congress to subsequently admit, and reported to the regulating authority again for reference.\r\nWhere the amount of final accounts referred to in the preceding paragraph is not less than NT$15,000,000, accountants may be employed to provide attestation."
+		},
+		{
+			"number": 1200,
+			"content": "Accounting reports referred to in the first paragraph of the preceding article shall include the following:\r\n1. Final accounting form of incomes and expenditures .\r\n2. The Statement of Financial Position.\r\n3. Inventory of properties.\r\n4. Statement of incomes and expenditures in funds.\r\nThe formats of the accounting reports referred to in the preceding paragraph are shown in Annex ."
+		},
+		{
+			"number": 1300,
+			"content": "To purchase, sell, transfer, or set the rights to mortgage real properties, a social association shall submit the proposal to the member's (member representative's) congress for adoption. However, in special cases and with the authorization ofthe member's (member representative's) congress, such disposal of real properties may be adopted first by the respective meetings of the board of directors and the board of supervisors or a joint meeting of directors and supervisors, and then submitted tothe congress to subsequently admit."
+		},
+		{
+			"number": 1400,
+			"content": "The standard and payment method of the admission fee and perennial membership fee of a social association shall be prescribed in its constitution. If there is a need to refund fees, the board of directors shall draw up a refund standard and submitit to the member's (member representative's) congress for adoption and implementation."
+		},
+		{
+			"number": 1500,
+			"content": "Social associations may allocate a proper sum into the provident fund each year, and the sum shall be not more than twenty percent (20%) of the total amount of the budget.\r\nThe fund referred to in the preceding paragraph and its interest incomes shall be deposited in a special account according to its purpose, and may not be used without the consent of the board of directors."
+		},
+		{
+			"number": 1600,
+			"content": "The financial incomes of a social association shall be deposited in a bank, farmers’ association, fishermen’s association, credit cooperative or the post affiliated to Chunghwa Post Co., Ltd , and may not be deposited in other public or privateenterprises or with individuals; in principle, any incomes shall be deposited immediately upon receipt and may not be offset by any expenditures."
+		},
+		{
+			"number": 1700,
+			"content": "In a social association, formal receipts shall be produced for all the incomes, and counterfoils shall be reserved for future examination. Upon withdrawal of deposits, the principal, secretary-general, or director-general and the financial personnelshall jointly stamp their seals on the documents.\r\nFinancial personnel referred to in the preceding paragraph are the personnel who deal with the affairs concerning accounting, cashing, and property management. The financial personnel shall be assumed on a full-time basis. However, if the personnel quota ofa social association is insufficient, the financial personnel may be assumed by other workers on a part-time basis."
+		},
+		{
+			"number": 1800,
+			"content": "The financial affairs of the standing offices, commissions, groups, and other internal operational organizations of a civil association shall be consolidated in the accounting reports by the association at the end of an accounting year."
+		},
+		{
+			"number": 1900,
+			"content": "The directors and supervisors of a social association shall not receive any pay. However, a reasonable pay for attendance or a transportation allowance may be offered to the directors or supervisors for performing their duties with reference tothe standard set forth by the government or according to the transport tickets."
+		},
+		{
+			"number": 2000,
 			"content": "In a social association, it is not allowable that a sum of financial income or expenditure is not reported or is reported falsely, and public financial announcements shall be issued periodically."
 		},
 		{
-			"number": 2800,
-			"content": "In a social association, balance shall be kept between the incomes and the expenditures, and the relative incomes and expenditures shall be confirmed within the range of the incomes and funds already realized."
+			"number": 2100,
+			"content": "All the account books, accounting documents, and accounting reports of a social organization, except those which shall be permanently kept or which are related to unsettled accounting events, shall be kept for at least ten (10) years after thecompletion of annual closing procedures.\r\nUpon expiration of the specified term of storage, the financial archives listed in the preceding paragraph may be destroyed after being verified by the board of supervisors. In special occasions, the term of storage may be prolonged with the consent given inthe respective meetings of the board of directors and the board of supervisors or a joint meeting of directors and supervisors."
 		},
 		{
-			"number": 2900,
-			"content": "The vouchers, accounting books, report forms, and other archives of social associations shall be stored in accordance with the following provisions:\r\n1. To be stored permanently:\r\n(1) Annual budget and final accounts.\r\n(2) Collection, storage, and withdrawal of various funds.\r\n(3) Inventory of properties, property registers, and statement of damaged and discarded properties.\r\n(4) Various property contracts and certificates.\r\n(5) Construction and repair of real properties.\r\n(6) Increase and decrease of properties and alteration of property rights.\r\n(7) Statement of assets and liabilities.\r\n(8) Other financial archives that need to be stored permanently for inspection.\r\n2. To be stored for ten (10) years:\r\n(1) Accounting books, slips, checks, and registers.\r\n(2) General ledger and detailed ledger.\r\n(3) Other financial archives that should be stored for inspection for ten (10) years.\r\n3. To be stored for five (5) years:\r\n(1) Various temporary vouchers.\r\n(2) Short-term loan cases.\r\n(3) Other financial archives that should be stored for inspection for five (5) years.\r\n4. To be stored for three (3) years: various daily and monthly report forms and their originals.\r\nUpon expiration of the specified term of storage, the financial archives listed in the subparagraphs above may be destroyed after being verified by the board of directors. In special occasions, the term of storage may be prolonged with the consent of the board of directors and the board of supervisors, and shall be reported to the regulating authority for reference."
+			"number": 2200,
+			"content": "Financial auditing of a social association shall be performed by the board of supervisors. The board of supervisors shall perform periodical auditing when holding periodical meetings of supervisors according to its authorities, and if necessary,may hold temporary meetings to execute temporary auditing.\r\nThe regulating authority may execute selective examinations of a social organization’s financial affairs according to actual requirements."
 		},
 		{
-			"number": 3000,
-			"content": "Financial personnel as called in these Regulations refer to the personnel who deal with the affairs concerning accounting, cashing, and property management.\r\nThe financial personnel referred to in the above paragraph shall be assumed on a full-time basis. However, if the personnel quota of a social association is insufficient, the financial personnel may be assumed by other workers on a part-time basis."
-		},
-		{
-			"number": 3100,
-			"content": "The financial personnel of a social association shall provide guarantee upon accession, and the procedure shall be prescribed by the board of directors of the association."
-		},
-		{
-			"number": 3200,
-			"content": "The financial personnel of social associations shall handle financial affairs in accordance with the provisions of these Regulations, and compile the related report forms in specified time limits."
-		},
-		{
-			"number": 3300,
-			"content": "Financial auditing of a social association includes periodical and temporary auditing, and both shall be performed by the board of supervisors. The regulating authority may execute selective examinations according to actual requirements."
-		},
-		{
-			"number": 3400,
-			"content": "The board of supervisors shall perform periodical auditing when holding periodical meetings of supervisors according to its authorities, and when necessary, may hold temporary meetings to execute temporary auditing with the approval of the regulating authority."
-		},
-		{
-			"number": 3500,
-			"content": "The incomes of a social association and its subordinate operational organizations may be exempted from income tax and such exemption shall be handled according to the provisions set forth by the Ministry of Finance."
-		},
-		{
-			"number": 3600,
+			"number": 2300,
 			"content": "These Regulations shall become effective as of the date of promulgation."
 		}
 	]

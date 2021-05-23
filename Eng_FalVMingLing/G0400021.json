@@ -4,12 +4,24 @@
 	"english": "Standards Governing the Establishment of Securities Firms",
 	"title": "證券商設置標準",
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0400021",
-	"englishUpdate": "20150428",
+	"englishUpdate": "20200115",
 	"attachments": [
 		{
 			"name": "檔案名稱",
 			"children": [
+				"Application by Foreign Securities Firm for Permission to Establish Branch Unit.pdf"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
 				"Application by Foreign Securities Firm for Permission to Establish Branch Unit.doc"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Application by Branch Unit of Foreign Securities Firm for Business Permit.pdf"
 			]
 		},
 		{
@@ -20,17 +32,23 @@
 		}
 	],
 	"history": [
-		"17. Articles 11, 26, 26-1, and 41-1 and the name of Chapter IV, Section I amended and promulgated and articles 25-1 to 25-3 and 26-2 and the name of Chapter IV, Section I-1 added 31 December 2003 per Order No. Taiwan-Finance-Securities-II-0920005385 of the Securities and Futures Commission, Ministry of Finance",
+		"17. Articles 11, 26, 26-1, and 41-1 and the name of Chapter IV, Section I amended and promulgated and articles 25-1 to 25-3 and 26-2 and the name of Chapter IV, Section I-1 added 31 December 2003 per Order No. Taiwan-Finance-Securities-II-0920005385 of",
+		"\r\n",
+		"the Securities and Futures Commission, Ministry of Finance",
 		"\r\n",
 		"18. Articles 2, 14, 17, and 33 amended and issued and Articles 16-1 and 16-2 added 2 October 2007 per Order No. Financial-Supervisory-Securities-II-0960050708 of the Financial Supervisory Commission, Executive Yuan",
 		"\r\n",
-		"19. Articles 4, 20, 25-2, 38, and 43 amended and issued per 16 June 2009 Order No. Financial-Supervisory-Securities-0980029452 of the Financial Supervisory Commission, Executive Yuan; Article 4, paragraph 1, subparagraph 6 for implementation from 23 November 2009, and the remaining Articles for implementation from the date of issuance",
+		"19. Articles 4, 20, 25-2, 38, and 43 amended and issued per 16 June 2009 Order No. Financial-Supervisory-Securities-Firms-0980029452 of the Financial Supervisory Commission, Executive Yuan; Article 4, paragraph 1, subparagraph 6 for implementation from 23 November",
 		"\r\n",
-		"20. Articles 2, 11, 14, 25-2, 29, 31, and 33 amended and Articles 10-1, 18-2, and 32-1 added per 12 November 2013 Order No. Financial-Supervisory-Securities-1020042260 of the Financial Supervisory Commission",
+		"2009, and the remaining Articles for implementation from the date of issuance",
+		"\r\n",
+		"20. Articles 2, 11, 14, 25-2, 29, 31, and 33 amended and Articles 10-1, 18-2, and 32-1 added per 12 November 2013 Order No. Financial-Supervisory-Securities-Firms-1020042260 of the Financial Supervisory Commission",
 		"\r\n",
 		"21. Articles 14 and 25-2 amended per 22 December 2014 Order No. Financial-Supervisory-Securities-Firms-1030049348 of the Financial Supervisory Commission",
 		"\r\n",
-		"22. Articles 3, 7, 11, and 21 amended and issued per 28 April 2015 Order No. Financial-Supervisory-Securities-Firms-1040014014 of the Financial Supervisory Commission"
+		"22. Articles 3, 7, 11, and 21 amended and issued per 28 April 2015 Order No. Financial-Supervisory-Securities-Firms-1040014014 of the Financial Supervisory Commission",
+		"\r\n",
+		"23. Articles 3 and 11 amended and issued per 15 January 2020 Order No. Financial-Supervisory-Securities-Firms-1080362060 of the Financial Supervisory Commission"
 	],
 	"divisions": [
 		{
@@ -117,7 +135,7 @@
 		},
 		{
 			"number": 300,
-			"content": "A securities firm shall be established as a company limited by shares. The minimum paid-in capital for a securities firm, according to the type of business which it operates, shall be as follows:\r\n1.A securities underwriter: NT$400 million.\r\n2.A securities dealer: NT$400 million.\r\n3.A securities broker: NT$200 million; if the securities broker operates only equity crowdfunding business, the minimum paid-in capital shall be NT$50 million.\r\nThe minimum paid-in capital required in the preceding paragraph shall be fully collected by the promoters at the time of incorporation."
+			"content": "A securities firm shall be established as a company limited by shares. The minimum paid-in capital for a securities firm, according to the type of business which it operates, shall be as follows:\r\n1. A securities underwriter: NT$400 million.\r\n2. A securities dealer: NT$400 million; if the securities dealer operates only the business of proprietary trading of security tokens (virtual currencies that have the nature of securities), the minimum paid-in capital shall be NT$100 million.\r\n3. A securities broker: NT$200 million; if the securities broker operates only equity crowdfunding business, the minimum paid-in capital shall be NT$50 million.\r\nThe minimum paid-in capital required in the preceding paragraph shall be fully collected by the promoters at the time of incorporation."
 		},
 		{
 			"number": 400,
@@ -153,7 +171,7 @@
 		},
 		{
 			"number": 1100,
-			"content": "Securities firms shall establish a system of internal control referred to in Article 10, paragraph 1, subparagraph 4 in accordance with the Regulations Governing Establishment of Internal Control Systems by Service Enterprises in Securities and Futures Markets and the regulations for establishing internal control systems by securities firms jointly prescribed by the TWSE and other related institutions.\r\nSecurities firms operating equity crowdfunding business shall handle their internal control system in accordance with applicable rules adopted by the TPEx; a securities firm that operates only equity crowdfunding business is not subject to the provisions of the preceding paragraph."
+			"content": "Securities firms shall establish a system of internal control referred to in Article 10, paragraph 1, subparagraph 4 in accordance with the Regulations Governing Establishment of Internal Control Systems by Service Enterprises in Securities and Futures Markets and the regulations for establishing internal control systems by securities firms jointly prescribed by the TWSE and other related institutions.\r\nSecurities firms operating security token proprietary trading business or equity crowdfunding business shall handle their internal control system in accordance with applicable rules adopted by the TPEx. A securities firm that operates only security token proprietary trading business or equity crowdfunding business is not subject to the provisions of the preceding paragraph."
 		},
 		{
 			"number": 1200,

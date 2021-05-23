@@ -4,7 +4,7 @@
 	"english": "Insurance Act",
 	"title": "保險法",
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0390002",
-	"englishUpdate": "20190116",
+	"englishUpdate": "20200610",
 	"history": [
 		"Promulgated by National Government in total of 82 articles on 1929.12.30 (listed in National Government Bulletin 263)",
 		"Promulgated by National Government in total of 92 articles on 1937.1.11 (listed in National Government Bulletin 2250)",
@@ -35,7 +35,8 @@
 		"Amended on 23 May 2018 per Presidential Order No. Hua-Zong-Yi-Zi-10700055501",
 		"Amendment to Article 166、167-1、167-4～168-1、169、169-2、170-1～171-1、172 and 172-2 promulgated per Presidential Order No. Hua-Zong-Yi-Yi-Zi-10700060041 dated June 6, 2018",
 		"Amendment to Article 107、125、128、131、133、135、138-2、146-5, addition of Article 107-1 promulgated per Presidential Order No. Hua-Zong-Yi-Yi-Zi-10700062351 dated June 13, 2018",
-		"Amendment to Article 165 promulgated per Presidential Order No. Hua-Zong-Yi-Yi-Zi-10800002751 dated Jan 16, 2019."
+		"Amendment to Article 165 promulgated per Presidential Order No. Hua-Zong-Yi-Yi-Zi-10800002751 dated Jan 16, 2019.",
+		"Amendment to Article 107、138-2 promulgated per Presidential Order No. Hua-Zong-Yi-Jing-Zi-10900064801 dated June 10, 2020."
 	],
 	"divisions": [
 		{
@@ -721,7 +722,7 @@
 		},
 		{
 			"number": 10700,
-			"content": "(Death Benefits Effect for a Minor Insured under Fifteen Years of Age)\r\nIf, at the time a life insurance contract is entered into, the insured is a minor under fifteen years of age, the death benefits shall take effect on the date the insured reaches fifteen years of age. If the insured dies before reaching fifteen years of age, the insurer shall refund all premiums paid with or without interest, or refund the account value of the insured in a separate account set up for investment-linked insurance.\r\nThe calculation of interest mentioned in the preceding paragraph will be set forth by the competent authority.\r\nIf the provisions in paragraph 1 to paragraph 2 are otherwise provided in other laws, such other laws shall prevail."
+			"content": "(Death Benefits Effect for a Minor Insured under Fifteen Years of Age)\r\nIf, at the time a life insurance contract is entered into, the insured is a minor under fifteen years of age, all death benefits other than funeral expense benefits shall take effect on the date the insured reaches fifteen years of age.\r\nThe insured amount for the funeral expenses referred to in the preceding paragraph may not exceed one half of the funeral expense deduction allowed for estate tax under Article 17 of the Estate and Gift Tax Act.\r\nIf the provisions in paragraph 1 to paragraph 2 are otherwise provided in other laws, such other laws shall prevail."
 		},
 		{
 			"number": 10701,
@@ -729,7 +730,7 @@
 		},
 		{
 			"number": 10800,
-			"content": "(Specification of Life Insurance Contract)\r\nA life insurance contract, besides specifying the particulars provided in Article 55, shall also specify the following particulars:\r\n1. Name, sex, age, and domicile of the insured.\r\n2. Names of beneficiaries and their relation to the insured, or a means of identifying the beneficiaries.\r\n3. The insured perils for which the insured amount may be claimed, and the period for making the claim.\r\n4. The conditions, if any, for reduction of the insured amount in accordance with the provisions of Article 118."
+			"content": "(Specification of Life Insurance Contract)\r\nA life insurance contract, besides specifying the particulars provided in Article 55, shall also specify the following particulars:\r\n1. Name, sex/gender, age, and domicile of the insured.\r\n2. Names of beneficiaries and their relation to the insured, or a means of identifying the beneficiaries.\r\n3. The insured perils for which the insured amount may be claimed, and the period for making the claim.\r\n4. The conditions, if any, for reduction of the insured amount in accordance with the provisions of Article 118."
 		},
 		{
 			"number": 10900,
@@ -845,7 +846,7 @@
 		},
 		{
 			"number": 13502,
-			"content": "(Specification of an Annuity Insurance Contract)\r\nAn annuity insurance contract, in addition to specifying the particulars provided in Article 55, shall also specify the following particulars:\r\n1. Insured's name, sex, age, and domicile.\r\n2. Amount of annuity or method for determining the amount of annuity.\r\n3. Names of beneficiaries, and their relationship to the insured.\r\n4. Term of annuity, dates and method of payment of annuity.\r\n5. Conditions attaching to any reduction in the annuity amount carried out in accordance with Article 118."
+			"content": "(Specification of an Annuity Insurance Contract)\r\nAn annuity insurance contract, in addition to specifying the particulars provided in Article 55, shall also specify the following particulars:\r\n1. Insured's name, sex/gender, age, and domicile.\r\n2. Amount of annuity or method for determining the amount of annuity.\r\n3. Names of beneficiaries, and their relationship to the insured.\r\n4. Term of annuity, dates and method of payment of annuity.\r\n5. Conditions attaching to any reduction in the annuity amount carried out in accordance with Article 118."
 		},
 		{
 			"number": 13503,
@@ -881,7 +882,7 @@
 		},
 		{
 			"number": 13802,
-			"content": "(Insurance Trust)\r\nAn insurance enterprise engaging in insurance of the person may stipulate an insurance contract that policy proceeds be paid either in a lump sum or in installments.\r\nWith respect to the portion of policy proceeds in a contract for insurance of the person that are for death or disablement, the proposer may, prior to occurrence of an insured peril, negotiate a trust contract whereunder the insurance enterprise acts as trustee of the insurance trust. Such an arrangement may only be made where a single person is both proposer and insured, where the beneficiaries of the trust contract are also the beneficiaries of the insurance contract, and where the arrangement is for the benefit of an insured, a person who is a minor, or a person whose declaration of guardianship has not yet been revoked.\r\nWith respect to trust benefits paid out pursuant to the preceding paragraph, that part which constitutes trust principal shall be deemed insurance benefits.\r\nAn insurance enterprise providing insurance trust services shall set up segregated trust accounts named as trust asset accounts.\r\nWhere the trust assets of the preceding paragraph are subject to a registration requirement, registration of trust shall be carried out in accordance with the applicable provisions.\r\nWhere the trust assets of paragraph 4 are securities, when the insurance enterprise sets up a segregated trust account named as a trust asset account and engages in a transaction involving the trust assets, the trust shall be effective against third parties, and Article 4, paragraph 2 of the Trust Act does not apply.\r\nThe scope of funds allocations of an insurance enterprise operating insurance trusts shall be limited to the following:\r\n1. Cash or bank deposits.\r\n2. Government bonds or financial bonds.\r\n3. Short-term bills.\r\n4. Other methods of funds allocation as approved by the competent authority."
+			"content": "(Insurance Trust)\r\n  An insurance enterprise engaging in insurance of the person may stipulate an insurance contract that policy proceeds be paid either in a lump sum or in installments.\r\n  With respect to the portion of policy proceeds in a contract for insurance of the person that are for death or disablement, the proposer may, prior to occurrence of an insured peril, negotiate a trust contract whereunder the insurance enterprise acts as trustee of the insurance trust. Such an arrangement may only be made where a single person is both proposer and insured, where the beneficiaries of the trust contract are also the beneficiaries of the insurance contract, and where the arrangement is for the benefit of an insured, a person who is a minor, or a person whose declaration of guardianship has not yet been revoked.\r\n  With respect to trust benefits paid out pursuant to the preceding paragraph, that part which constitutes trust principal shall be deemed insurance benefits. The same shall apply to a trust contract where under the trust enterprise pursuant to the Trust Enterprise Act  acts as trustee of insurance trust.Such an arrangement may only be made where a single person is beneficiary for both trust contract and insurance contract,and where the arrangement is for the benefit of an insured,a person who is a minor ,or a person whose declaration of guardianship has not yet been revoked.\r\n  An insurance enterprise providing insurance trust services shall set up segregated trust accounts named as trust asset accounts.\r\n  Where the trust assets of the preceding paragraph are subject to a registration requirement, registration of trust shall be carried out in accordance with the applicable provisions.\r\n  Where the trust assets of paragraph 4 are securities, when the insurance enterprise sets up a segregated trust account named as a trust asset account and engages in a transaction involving the trust assets, the trust shall be effective against third parties, and Article 4, paragraph 2 of the Trust Act does not apply.\r\n  The scope of funds allocations of an insurance enterprise operating insurance trusts shall be limited to the following:\r\n1. Cash or bank deposits.\r\n2.Government bonds or financial bonds.\r\n3. Short-term bills.\r\n4. Other methods of funds allocation as approved by the competent authority."
 		},
 		{
 			"number": 13803,
