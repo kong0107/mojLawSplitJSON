@@ -4,7 +4,7 @@
 	"english": "Regulations of Drone",
 	"title": "遙控無人機管理規則",
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0090083",
-	"englishUpdate": "20190723",
+	"englishUpdate": "20210714",
 	"attachments": [
 		{
 			"name": "檔案名稱",
@@ -69,19 +69,19 @@
 		{
 			"name": "檔案名稱",
 			"children": [
-				"Attachment11：Application Formfor Remote Pilot Licence.pdf"
+				"Attachment11：ApplicationFormforRemotePilotLicence.PDF"
 			]
 		},
 		{
 			"name": "檔案名稱",
 			"children": [
-				"Attachment12：Specifications of Drone Used in Practical Test.pdf"
+				"Attachment 12  Specifications of Drone Used in Practical Test.odt"
 			]
 		},
 		{
 			"name": "檔案名稱",
 			"children": [
-				"Attachment13：Operation Manual of Government Agencies (Institutions), Schools or Legal Persons.pdf"
+				"Attachment 13  Operation Manual of Government Agencies (Institutions), Schools or Legal Persons.odt"
 			]
 		},
 		{
@@ -110,7 +110,8 @@
 		}
 	],
 	"history": [
-		"Promulgated on July 23, 2019, and date of enforcement to be March 31, 2020"
+		"Promulgated on July 23, 2019, and date of enforcement to be March 31, 2020",
+		"Amendment to Articles 2, 3, 17, 20, 31, 32, attachment 9 ~ 13, addition of Article 32-1, promulgated on July 19, 2021."
 	],
 	"divisions": [
 		{
@@ -186,11 +187,11 @@
 		},
 		{
 			"number": 200,
-			"content": "The terms used in the Regulations are defined as follows:\r\n1. Remote control equipment: means the equipment used for controlling the Dronebeing part of the Dronesystem.\r\n2. Communication and command/control links: mean the data interfacebetween the Droneand the remote control system used for the purpose of controlling Droneflight.\r\n3. Maximum takeoff weight: means the designed weight of Dronecomprising of the frame, fuel, battery,load equipment and payload.\r\n4. Remotepilot : means the person who actually controls the Droneor commands its flight activities during Droneflight activities.\r\n5. Flight in extended visual range: means the operation method where the visual observer keeps direct visual contact with the Dronewithin 300-meter radius and provides necessary flight information to Remote pilotwho is outside of the visual range of the Drone.  The maximum range of the extended visual range is that within 900-meter radius of the Remote pilotand within 400 feet above ground levelor sea level.\r\n6. Visual observer: means the person with RemotePilot Licence(hereinafterthe“Licence”)who provides remotePilot with necessary flight information in the course of Droneoperation."
+			"content": "The terms used in the Regulations are defined as follows:\r\n1. Remote control equipment: means the equipment used for controlling the Drone being part of the Drone system.\r\n2. Communication and command/control links: mean the data interface between the Drone and the remote control system used for the purpose of controlling Drone flight.\r\n3. Maximum take off weight: means the designed weight of Drone comprising of the frame, fuel, battery, load equipment and payload.\r\n4. Remote pilot : means the person who actually controls the Drone or commands its flight activities during Drone flight activities.\r\n5. Flight in extended visual range: means the operation method where the visual observer keeps direct visual contact with the Drone within 300-meter radius and provides necessary flight information to Remote pilot who is outside of the visual range of the Drone.  The maximum range of the extended visual range is that within 900-meter radius of the Remote pilot and within 400 feet above ground level or sea level.\r\n6. Visual observer: means the person with Remote Pilot Licence (hereinafter the “Licence”) who provides remote Pilot with necessary flight information in the course of Drone operation.\r\n7. E-commerce: means advertising, marketing, supply, order and other matters on commercial transactions relating to products or services through the internet."
 		},
 		{
 			"number": 300,
-			"content": "Drones are classified into the following types in accordance with its structure: \r\n1. Unmanned aeroplane; \r\n2. Unmanned helicopter; \r\n3. Unmanned multi rotor; \r\n4. Other types as announced by CAA."
+			"content": "Drones are classified into the following types in accordance with its structure:\r\n1. Unmanned aeroplane;\r\n2. Unmanned helicopter;\r\n3. Unmanned multi rotor;\r\n4. Other types as announced by the Civil Aviation Administration (hereinafter the “CAA”) of the MOTC."
 		},
 		{
 			"number": 400,
@@ -246,7 +247,7 @@
 		},
 		{
 			"number": 1700,
-			"content": "Before the sale or importation of the Drone, the manufacturer or the importer, as the case may be, shall apply to CAA for the registration of the product information.  The maximum takeoff weight, registration procedures, typeinspection tag or certification tag, inspection remarks,description of operatinglimitations, administration and penalty for violations shall be marked on the product or the packaging.\r\nThe Owner of the Drone which is self-made or for self-use shall register the information of the product in accordance with the precedingparagraph."
+			"content": "Before the sale or importation of the Drone, the manufacturer or the importer, as the case may be, shall apply to CAA for the registration of the product information.  The maximum take off weight, registration procedures, type inspection tag or certification tag, inspection remarks, description of operating limitations, administration and penalty for violations shall be marked on the product or the packaging.\r\nWhen selling the Drone on e-commerce platform, the manufacturer or the importer of the Drone shall mark the following text together on a conspicuous place of e-commerce platform. The same shall apply to the Drone sold by an agent, distributor or other third parties\r\n1. Application for registration shall be submitted for the Drone with maximum takeoff weight exceeding 250g.\r\n2. Before Drone flight activities, area of activities shall be noted and the Drone flight activities shall be carried out in compliance with operation rules.\r\n3. Please see the website of CAA for related information of area of activities and operation rules.\r\nThe Owner of the Drone which is self-made or for self-use shall register the information of the product in accordance with the paragraph 1 above."
 		},
 		{
 			"number": 1800,
@@ -258,7 +259,7 @@
 		},
 		{
 			"number": 2000,
-			"content": "The classification of remote pilot licences, age of applicantsand other rules pertaining toDrones are set out below:\r\n1. Studentremote pilot licence:Applicants shall be at least 16 years of age, and shall be issued studentremote pilot licenceby CAA after application.\r\n2. General remote pilot licence:Applicants shall be at least 18years of age, and shall be issued generalremote pilot licenceby CAA after passing the written test.\r\n3. Professional remote pilot licence:Applicants shall be at least 18years of ageand meet the relevant experience requirements, and shall be issued professional remote pilot licenceby CAA after passing the physical check, written testand practical test.\r\nThe permitted scope of operationforeach of the remote pilot licences in the preceding paragraphisset out below:\r\n1. Student remote pilot licence: The holder of thestudent remote pilot licence may learn operatingthe Drone with maximum takeoff weight below 15 kg under the supervision of theholder of thegeneral remote pilot licence or professional remote pilot licencein accordance with the structure and classification contained therein.\r\n2. General remote pilot licence:The holder of thegeneral remote pilot licence may operate the Drone owned by the natural person with maximum takeoff weight above 2 kg and below 15 kgand navigation system.\r\n3. Professional remote pilot licence:The holder of theprofessional remote pilot licence may operate the Drone owned by government agencies (institutions), schools or legal person,or the Drone owned by the natural person with maximum takeoff weight above 15 kg.\r\nThe eligibilityfor application, test items,rules governing registration for test, the standard of physical check, permitted scope of operationand instructor’s qualificationsfor the remote pilot licences in paragraph 1 hereinare set out in Attachment9; application form for written and practicaltests and application form for remote pilot licenceare set out in Attachment10and Attachment11respectively.\r\nThe structure, weight, operatinglimitations and instructor’squalificationsof the Droneshall be specified in the remote pilot licence."
+			"content": "The classification of remote pilot licences, age of applicants and other rules pertaining to Drones are set out below:\r\n1. Student remote pilot licence: Applicants shall be at least 16 years of age, and shall be issued student remote pilot licence by CAA after application.\r\n2. General remote pilot licence: Applicants shall be at least 18 years of age, and shall be issued general remote pilot licence by CAA after passing the written test.\r\n3. Professional remote pilot licence: Applicants shall be at least 18 years of age and meet the relevant experience requirements, and shall be issued professional remote pilot licence by CAA after passing the physical check, written test and practical test.\r\nThe permitted scope of operation for each of the remote pilot licences in the preceding paragraph is set out below:\r\n1. Student remote pilot licence: The holder of the student remote pilot licence may learn operating the Drone with maximum take off weight below 15 kg under the supervision of the holder of the general remote pilot licence or professional remote pilot licence in accordance with the structure and classification contained therein.\r\n2. General remote pilot licence: The holder of the general remote pilot licence may operate the Drone owned by the natural person with maximum take off weight above 2 kg and below 15 kg and navigation system.\r\n3. Professional remote pilot licence: The holder of the professional remote pilot licence may operate the Drone owned by government agencies (institutions), schools or legal person, or the Drone owned by the natural person with maximum take off weight above 15 kg.\r\nThe eligibility for application, test items, rules governing registration for test, the certificates of physical check, permitted scope of operation and instructor’s qualifications for the remote pilot licences in paragraph 1 herein are set out in Attachment 9; application form for written and practical tests and application form for remote pilot licence are set out in Attachment 10 and Attachment 11 respectively.\r\nThe structure, weight, operating limitations and instructor’s qualifications of the Drone shall be specified in the remote pilot licence."
 		},
 		{
 			"number": 2100,
@@ -302,11 +303,15 @@
 		},
 		{
 			"number": 3100,
-			"content": "Government agencies (institutions), schools or legal personswhich engage in Droneflight activity in the prohibited area,restricted area, and the range of thedistance from the boundary of an airport or airfieldshall submitactivity plan (Attachment14)15 days prior to the date of the activityforthe consent by CAA in consultationwith relevant supervisory authority.  Provided, however, that where the prohibited area, restricted areaor theairport or airfieldinvolves any area administered by the military authorities (agencies), the application shall be filed 30 days prior to the date of the activity.\r\nGovernment agencies (institutions), schools or legal personswhich engage in Droneflight activity in the prohibited area orrestricted areanotifiedbythe Municipalityand County (City) government shall submit activity plan (Attachment14)15 days prior to the date of the activityto the Municipalityand County (City) government, which shall consult the central government authorityfor approval.  In the event of cross-county/city activity, application shall be filed to the Municipalityand County (City) government of the takeoff locationforthe consent by the Municipalityand County (City) government of the takeoff location and of the location which the flight route crosses.\r\nBefore and after each activity in the paragraphs 1 and 2 herein that has been approved by CAA or the Municipalityand County (City) government, flight information shall be registered in the information system designated by CAA within the designated time limit.\r\nThe consent document in paragraphs 1 and 2 herein shall be valid for a maximum of three months; provided, however, that where the activity is carried out by government agencies (institutions)in the course of performing duties, the term of this paragraph may be extended to one year.\r\nForthe Drone flight activity which is carried out within the area set out in Article 99-13, Paragraph 2 of the Act, paragraph 2 herein shall not applyif the relevant Municipalityand County (City) governmenthas enacted regulations regarding the application for such activity."
+			"content": "Government agencies (institutions), schools or legal persons which engage in Drone flight activity in the prohibited area, restricted area, and the range of the distance from the boundary of an airport or airfield shall submit activity plan (Attachment 14) 15 days prior to the date of the activity for the consent by CAA in consultation with relevant supervisory authority.  Provided, however, that where the prohibited area, restricted area or the airport or airfield involves any area administered by the military authorities (agencies), the application shall be filed 30 days prior to the date of the activity.\r\nGovernment agencies (institutions), schools or legal persons which engage in Drone flight activity in the prohibited area or restricted area notified by the Municipality and County (City) government shall submit activity plan (Attachment 14) 15 days prior to the date of the activity to the Municipality and County (City) government, which shall consult the central government authority for approval.  In the event of cross-county/city activity, application shall be filed to the Municipality and County (City) government of the take off location for the consent by the Municipality and County (City) government of the take off location and of the location which the flight route crosses.\r\nBefore and after each activity in the preceding two paragraphs that has been approved by CAA or the Municipality and County (City) government, flight information shall be registered in the information system designated by CAA within the designated time limit.\r\nThe consent document in paragraphs 1 and 2 herein shall be valid for a maximum of three months; provided, however, that where the activity is carried out by legal persons registered and certified by agricultural administration as set out in Article 99-14, Paragraph 1, Subparagraphs 2, 3 and 6 of the Act, the term of this paragraph shall be valid for a maximum of six months; and where the activity is carried out by government agencies (institutions)in the course of performing duties, the term of this paragraph shall be valid for a maximum of one year.\r\nFor the Drone flight activity which is carried out within the area set out in Article 99-13, Paragraph 2 of the Act, paragraph 2 herein shall not apply if the relevant Municipality and County (City) government has enacted regulations regarding the application for such activity."
 		},
 		{
 			"number": 3200,
-			"content": "Government agencies (institutions), schools orlegal persons which engage in the flight activity with operatinglimitations as set out in Article 99-14, Paragraph 1, Subparagraphs 1~8 of the Act shall submit the activity plan (Attachment14) to CAA for approval 15 days prior to the date of the activity; where the activity shall take place in the space above the crowd or outdoor assembly and parade, the consent document from the Municipality and County (City) government as well as relevant central government agency shall also be submitted.\r\nBefore and after each activity in the preceding paragraph that has been approved by CAA, flight information shall be registered in the information system designated by CAA within the designated time limit.\r\nThe consent document in paragraph 1 herein shall be valid fora maximum of three months; provided, however, that where the activity is carried out by government agencies (institutions)in the course of performing duties, the term of this paragraph may be extended to one year."
+			"content": "Government agencies (institutions), schools or legal persons which engage in the flight activity with operating limitations as set out in Article 99-14, Paragraph 1, Subparagraphs 1~8 of the Act shall submit the activity plan (Attachment 14) to CAA for approval 15 days prior to the date of the activity; where the activity shall take place in the space above the crowd or outdoor assembly and parade, the consent document from the Municipality and County (City) government as well as relevant central government agency shall also be submitted.\r\nBefore and after each activity in the preceding paragraph that has been approved by CAA, flight information shall be registered in the information system designated by CAA within the designated time limit.\r\nThe consent document in paragraph 1 herein shall be valid for a maximum of three months; provided, however, that where the activity is carried out by legal persons registered and certified by agricultural administration as set out in Article 99-14, Paragraph 1, Subparagraphs 2, 3 and 6 of the Act, the term of this paragraph shall be valid for a maximum of six months; and where the activity is carried out by government agencies (institutions)in the course of performing duties, the term of this paragraph shall be valid for a maximum of one year."
+		},
+		{
+			"number": 3201,
+			"content": "Obtaining consent stipulated in Article 31, Paragraph 2 or Article 32, Paragraph 1, relevant central government agency may commission the government agency (institute) or group to perform.\r\nWhen the relevant central government agency commission in accordance with the preceding paragraph, the target and matter commissioned and the legal basis for such commission shall be publicly announced and published in a government gazette."
 		},
 		{
 			"number": 3300,

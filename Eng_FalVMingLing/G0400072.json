@@ -4,7 +4,7 @@
 	"english": "Regulations Governing Securities Firms",
 	"title": "證券商管理規則",
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0400072",
-	"englishUpdate": "20201029",
+	"englishUpdate": "20210506",
 	"history": [
 		"21. Articles 2, 3, 4, 6, 17, 18, 20 to 31, 34, and 36 to 69 were amended by Securities & Futures Commission, Ministry of Finance on 5 October 2000 per Order Ref. No. (89) Taiwan-Finance-Securities-(2)-04351",
 		"\r\n",
@@ -82,7 +82,9 @@
 		"\r\n",
 		"58. Articles 19 and 31-3 amended and issued per 3 February 2020 Order No. Financial-Supervisory-Securities-Firms-1090360209 of the Financial Supervisory Commission",
 		"\r\n",
-		"59. Articles 21 and 32-1 amended and Articles 14-6, 35-2, and 68-1 added per 29 October 2020 Order No. Financial-Supervisory-Securities-Firms-1090364783 of the Financial Supervisory Commission"
+		"59. Articles 21 and 32-1 amended and Articles 14-6, 35-2, and 68-1 added per 29 October 2020 Order No. Financial-Supervisory-Securities-Firms-1090364783 of the Financial Supervisory Commission",
+		"\r\n",
+		"60. Articles 9, 32-1, and 45-1 amended and issued and Article 38-1 added per 6 May 2021 Order No. Financial-Supervisory-Securities-Firms-1100361767 of the Financial Supervisory Commission"
 	],
 	"divisions": [
 		{
@@ -207,7 +209,7 @@
 		},
 		{
 			"number": 900,
-			"content": "After completion of corporate registration, a securities firm shall lodge an operation bond with a bank designated by the FSC as follows:\r\n1. A securities underwriter: NT$40 million.\r\n2. A securities dealer: NT$10 million.\r\n3. A securities broker: NT$50 million; if the securities broker operates only equity crowdfunding business, the bond shall be NT$10 million.\r\n4. Operators of two or more types of securities business: aggregate of the amounts as referred to in the preceding three subparagraphs according to the types of business being engaged in.\r\n5. Branch office: additional NT$5 million for each branch.\r\nThe operation bond referred to in the preceding paragraph shall be paid in cash, government bond, or financial bond."
+			"content": "After completion of corporate registration, a securities firm shall lodge an operation bond with a bank designated by the FSC as follows:\r\n1. A securities underwriter: NT$40 million.\r\n2. A securities dealer: NT$10 million.\r\n3. A securities broker: NT$50 million. However, if the securities broker operates only the following business, the bond shall be NT$10 million:\r\nA. Operates only equity crowdfunding business.\r\nB. Operates only brokerage business for trading and exchanging beneficial certificates of funds.\r\n4. Operators of two or more types of securities business: aggregate of the amounts as referred to in the preceding three subparagraphs according to the types of business being engaged in.\r\n5. Branch office: additional NT$5 million for each branch.\r\nThe operation bond referred to in the preceding paragraph shall be paid in cash, government bond, or financial bond."
 		},
 		{
 			"number": 1000,
@@ -383,7 +385,7 @@
 		},
 		{
 			"number": 3201,
-			"content": "As needed for hedging in the issuance of call (put) warrants and exchange traded notes and in the operation at its place of business of structured instruments and equity derivatives, a securities firm may borrow and sell, or sell short, the underlying securities, exempt from the restriction that the selling price of the securities borrowed or sold short may not be lower than the closing price of the previous business day.\r\nA securities firm selling securities by borrowing them as referred to in the preceding paragraph shall enter into a loan contract with the lender of the securities. The following particulars shall be specified in the loan contract:\r\n1. Name, volume, period, and rate of the loaned securities.\r\n2. Means of exercise of shareholders' rights of the loaned underlying securities.\r\n3. The means of reimbursement by the securities firm of the rights/dividend value to the lender for ex-rights/ex-dividend dates of the loaned securities (including the means of calculation, whether reimbursement is to be made in cash or securities, and the reimbursement date).\r\n4. Means stipulated between the parties for return of the securities upon expiry of the contract (including whether or not the securities may be refunded as cash).\r\n5. Means stipulated between the parties for handling of breach and related matters of damages."
+			"content": "As needed for hedging in the issuance of call (put) warrants and exchange traded notes and in the operation at its place of business of structured instruments and equity derivatives, a securities firm may borrow and sell, or sell short, the underlying securities, exempt from the restriction that the selling price of the securities borrowed or sold short may not be lower than the closing price of the previous business day.\r\nA securities firm, for purposes of providing bid and ask quotes or meeting hedging needs in its capacity as a market maker, may borrow and sell the underlying securities, exempt from the restriction that the selling price of the securities borrowed may not be lower than the closing price of the previous business day.\r\nA securities firm selling securities by borrowing them as referred to in the preceding two paragraphs shall enter into a loan contract with the lender of the securities. The following particulars shall be specified in the loan contract:\r\n1. Name, volume, period, and rate of the loaned securities.\r\n2. Means of exercise of shareholders' rights of the loaned underlying securities.\r\n3. The means of reimbursement by the securities firm of the rights/dividend value to the lender for ex-rights/ex-dividend dates of the loaned securities (including the means of calculation, whether reimbursement is to be made in cash or securities, and the reimbursement date).\r\n4. Means stipulated between the parties for return of the securities upon expiry of the contract (including whether or not the securities may be refunded as cash).\r\n5. Means stipulated between the parties for handling of breach and related matters of damages."
 		},
 		{
 			"number": 3300,
@@ -430,6 +432,10 @@
 			"content": "A securities firm accepting orders to trade securities shall establish a separate deposit account with a bank for paying and receiving settlement funds of the customer. The funds in the said account shall not be used for other purposes.\r\nA securities firm may, with the consent of the customer, retain the customer's settlement funds in the securities firm's settlement account. The securities firm shall set up a separate account ledger for each customer in the settlement account, and record therein on a daily basis the itemized receipts and payments of funds, and shall retain the record. The securities firm may not utilize such funds except for making payments of funds payable on behalf of the customer."
 		},
 		{
+			"number": 3801,
+			"content": "A securities firm that operates brokerage business for trading and exchanging beneficial certificates of funds shall set up a separate account with a bank for paying and receiving funds of the customer. The funds in the account shall be kept separate and independent from the securities firm's own assets, and may not be used for other purposes.\r\nA securities firm that operates only brokerage business for trading and exchanging beneficial certificates of funds shall sign a trust agreement with the financial institution with which the separate deposit account is opened, designate the separate deposit account as the trust account, and engage the financial institution to manage, utilize, and dispose of the funds in the account in accordance with the trust agreement.\r\nA securities firm that operates only brokerage business for trading and exchanging beneficial certificates of funds, if it fails to do as set out in the preceding paragraph, may not accept funds from customers."
+		},
+		{
 			"number": 3900,
 			"content": "A securities firm accepting orders to trade securities shall clear and settle transactions in the manner provided in the Operating Rules of the TWSE or the Taipei Exchange Rules Governing Securities Trading on the TPEx."
 		},
@@ -459,7 +465,7 @@
 		},
 		{
 			"number": 4501,
-			"content": "Securities firms operating the business of proprietary trading of security tokens (virtual currencies that have the nature of securities) or equity crowdfunding business shall do so in accordance with applicable rules adopted by the TPEx.\r\nA securities firm that operates only security token proprietary trading business or equity crowdfunding business is not subject to the provisions of Article 2, Article 5, Article 6, Article 13, Article 14, Article 18, Article 18-1, Article 21, Chapter V, and Chapter VI."
+			"content": "Securities firms operating the business of proprietary trading of security tokens (virtual currencies that have the nature of securities), equity crowdfunding business, or brokerage business for trading and exchanging beneficial certificates of funds shall do so in accordance with applicable rules adopted by the TPEx.\r\nA securities firm that operates only security token proprietary trading business, equity crowdfunding business, or brokerage business for trading and exchanging beneficial certificates of funds is not subject to the provisions of Article 2, Article 5, Article 6, Article 13, Article 14, Article 18, Article 18-1, Article 21, Chapter V, and Chapter VI."
 		},
 		{
 			"number": 4600,
@@ -479,7 +485,7 @@
 		},
 		{
 			"number": 4901,
-			"content": "Securities firms or their subsidiaries investing in securities or futures institutions in the Mainland China area shall comply with the provisions of the Regulations Governing Approval and Management of Securities and Futures Transactions and Investment Between the Taiwan Area and the Mainland Area.\r\nSecurities firms or their subsidiaries investing in non-securities/non-futures institutions in the Mainland China area shall apply to the FSC for permission."
+			"content": "Securities firms or their subsidiaries investing in securities or futures institutions in the Mainland China area shall comply with the provisions of the Regulations Governing Permission and Administration of Securities and Futures Business Dealings and Investment Between the Taiwan Area and the Mainland Area.\r\nSecurities firms or their subsidiaries investing in non-securities/non-futures institutions in the Mainland China area shall apply to the FSC for permission."
 		},
 		{
 			"number": 5000,

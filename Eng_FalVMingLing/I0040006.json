@@ -4,13 +4,14 @@
 	"english": "Enforcement Rules of the Detention Act",
 	"title": "羈押法施行細則",
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=I0040006",
-	"englishUpdate": "20050923",
+	"englishUpdate": "20201231",
 	"history": [
 		"Promulgated on November 27, 1976",
 		"Amended on May 13, 1977",
 		"Amended on October 11, 1995",
 		"Amended on April 2, 1997.",
-		"Amended on September 23, 2005"
+		"Amended on September 23, 2005",
+		"Amended on December 31, 2020"
 	],
 	"divisions": [
 		{
@@ -18,469 +19,293 @@
 			"number": 100,
 			"title": "General Provisions",
 			"start": 100,
-			"end": 600
+			"end": 700
 		},
 		{
 			"type": "chapter",
 			"number": 200,
-			"title": "Admissions",
-			"start": 700,
-			"end": 1700
+			"title": "Admission",
+			"start": 800,
+			"end": 1000
 		},
 		{
 			"type": "chapter",
 			"number": 300,
-			"title": "Custody and Security",
-			"start": 1800,
-			"end": 2800
+			"title": "Confinement and Security",
+			"start": 1100,
+			"end": 2000
 		},
 		{
 			"type": "chapter",
 			"number": 400,
-			"title": "Labor",
-			"start": 2900,
-			"end": 3600
+			"title": "Work",
+			"start": 2100,
+			"end": 2300
 		},
 		{
 			"type": "chapter",
 			"number": 500,
-			"title": "Life Consultation",
-			"start": 3700,
-			"end": 4700
+			"title": "Guidance, Counseling and Activities",
+			"start": 2400,
+			"end": 3100
 		},
 		{
 			"type": "chapter",
 			"number": 600,
-			"title": "Behavior Review",
-			"start": 4800,
-			"end": 5600
+			"title": "Provisions and Supplies",
+			"start": 3200,
+			"end": 3600
 		},
 		{
 			"type": "chapter",
 			"number": 700,
-			"title": "Supply",
-			"start": 5700,
-			"end": 6200
+			"title": "Sanitation and Healthcare",
+			"start": 3700,
+			"end": 4000
 		},
 		{
 			"type": "chapter",
 			"number": 800,
-			"title": "Sanitary",
-			"start": 6300,
-			"end": 7100
+			"title": "Visits and Correspondence",
+			"start": 4100,
+			"end": 4300
 		},
 		{
 			"type": "chapter",
 			"number": 900,
-			"title": "Visit",
-			"start": 7200,
-			"end": 8400
+			"title": "Rewards, Punishments and Indemnifications",
+			"start": 4400,
+			"end": 4400
 		},
 		{
 			"type": "chapter",
 			"number": 1000,
-			"title": "Safekeeping",
-			"start": 8500,
-			"end": 8700
+			"title": "Petition and Complaint",
+			"start": 4500,
+			"end": 4500
 		},
 		{
 			"type": "chapter",
 			"number": 1100,
-			"title": "Discharge and Protection",
-			"start": 8800,
-			"end": 8900
+			"title": "Release and Protection",
+			"start": 4600,
+			"end": 4700
 		},
 		{
 			"type": "chapter",
 			"number": 1200,
 			"title": "Death",
-			"start": 9000,
-			"end": 9100
+			"start": 4800,
+			"end": 4800
 		},
 		{
 			"type": "chapter",
 			"number": 1300,
 			"title": "Supplementary Provisions",
-			"start": 9200,
-			"end": 9400
+			"start": 4900,
+			"end": 5000
 		}
 	],
 	"articles": [
 		{
 			"number": 100,
-			"content": "This Enforcement Rules is stipulated in accordance with the provisions of Article 38-1 of the Detention Act（hereinafter referred to as the \"Act\"）."
+			"content": "These Enforcement Rules are enacted pursuant to Article 116 of the Detention Act (hereinafter referred to as the \"Act\")."
 		},
 		{
 			"number": 200,
-			"content": "The personnel of detention center shall pay attention to the perpetuation of evidence as well as the interest of defendants, so as to facilitate investigation and trial."
+			"content": "The competent authority, supervisory authority and detention centers under the Act shall give equal attention to circumstances both favorable and unfavorable to a defendant in the execution of the Act."
 		},
 		{
 			"number": 300,
-			"content": "The terms \"strict demarcation,\" \"separate detention, \" contained hereinafter in the Act are defined as follows:\r\n1.Strict demarcation: to isolate and demarcate defendant with concrete walls inside the detention center as a boundary.\r\n2.Separate detention: to isolate defendant in different quarters, workshop."
+			"content": "The terms used in the Act and these Enforcement Rules shall be defined as follows:\r\n1. “Detention center” refers to detention centers under the Agency of Corrections, Ministry of Justice and their branches and women’s detention houses.\r\n2. “Senior detention center official” refers to the head of a detention center under the preceding subparagraph and persons authorized thereby.\r\n3. “Detention center personnel” refers to personnel who undertake relevant affairs of a detention center under Subparagraph 1.\r\n4. “Family member” refers to persons who live in the same household as the defendant with the purpose of maintaining common living permanently pursuant to Article 1122 and Article 1123 of the Civil Code.\r\n5. “Nearest relative” refers to the spouse, lineal relatives, blood relatives within third degree of kinship, and relatives-in-law within second degree of kinship of a defendant."
 		},
 		{
 			"number": 400,
-			"content": "Officers of detention center shall inspect, under Article 15 of the Act, every part of the detention center at least once a day and randomly in the night time.\r\nThe particulars in connection with the in spection and random inspection referred to in the preceding paragraph shall be entered intoa an inspection logbook."
+			"content": "The term “strict demarcation” referred to in Paragraph 3, Article 3 of the Act shall mean separate confinement of defendants by buildings, different floors in the same buildings or walls of detention center."
 		},
 		{
 			"number": 500,
-			"content": "Officers of detention center are entitled to meet defendants from time to time. Where a defendant applies to meet with the officers, his/her name and serial number shall be entered into logbook, and an approval to such meeting shall not be unreasonably withheld."
+			"content": "Pursuant to Paragraph 3, Article 4 of the Act, the supervisory authority should establish step-by-step guidelines for reasonable accommodation in detention centers in accordance with relevant rules and regulations and in consideration of the conditions of the premises of each detention center."
 		},
 		{
 			"number": 600,
-			"content": "In situations where a request for visitation of a detention center in the purpose of academic research or in motivation deemed reasonable is permitted, male visitors shall be allowed to visit only the detention center for male and female visitors shall be allow to visit only the detention center for famale. Special request under the permission of the superintendent of the detention center not subject to this limitation.\r\nDuring visitation, the detention center shall dispatch an instructor to guide and explain, as well as make a note of visitors ' or groups' names, occupations, home addresses, visiting date, and purposes. \r\nVisitors shall dress accordingly and remain silent. Without the detention center superintendent's prior permission, photography is strictly prohibited. Conversation or exchange of goods with the defendants is also subjected to strict prohibition. \r\nMinors, drunken persons, or ills are prohibited from visitation."
+			"content": "Any request for a visit by any person or media in accordance with Article 6 of the Act shall be made in writing.\r\nThe written format under the preceding paragraph shall be prescribed by the supervisory authority.\r\nDetention centers should carefully plan in advance the visitors’ tour routes that should exclude passage through the accommodation space of defendants who are held incommunicado and should avoid infringement on defendants’ privacy or other interests.\r\nDetention centers should inform and ask the general public or media visitors to comply with the following before the tour starts:\r\n1. Provide identification paper and cooperate with inspections performed in accordance with Article 16 of the Act.\r\n2. Wear proper cloths and follow order without clamoring or making loud noises.\r\n3. Do not bring or use communications, video-recording, photographing or audio-recording equipment without the permission of the detention center.\r\n4. Follow the tour routes without action or hanging around at own discretion.\r\n5. It is prohibited to converse with or pass or accept any item to or from any defendant.\r\n6. Do not violate any relevant control measure or disposition of the detention center.\r\n7. Do not act in any other manner that disrupts the order or security of detention center or infringes on the interests of defendants.\r\nThe detention center may stop the tour of any visitor who has breached the provisions of the preceding paragraph.\r\nAny visitor below the age of 18 shall be accompanied by a legal representative, a guardian, a teacher or other appropriate adult."
 		},
 		{
 			"number": 700,
-			"content": "The procedures for admitting a defendant to detention center shall be as follows:\r\n1.Verify that all the essential documents have been prepared.\r\n2.Perform health check-up on the defendant.\r\n3.Inspect defendant's body, clothing, and personal belongings; for money or valuables, the detention center shall designate a personnel to keep such money or valuables.\r\n4.Establish a record of the defendants' photographs and fingerprints.\r\n5.Inform the defendant of the rules that he/she must comply with.\r\n6.Guide the defendant to shower, change of cloth, distribute daily supplies and arrange living quarters for defendant.\r\nPhotographs taken pursuant to subparagraph 4 shall not be distributed to the public."
+			"content": "Any request for an interview by a media in accordance with Article 6 of the Act shall be made in writing and the interview may be conducted after the consent of the detention center. The written format shall be prescribed by the supervisory authority.\r\nWhen an interview is requested by an overseas media or if the interview report will be published overseas, the detention center shall obtain the approval of the supervisory authority before granting the interview.\r\nDefendants who are held incommunicado by ruling of the court and juvenile defendants may not be interviewed.\r\nIf a media interview involves detention center personnel or individual defendant, the detention center must obtain the interviewee’s consent before granting the interview.\r\nDuring a media interview, the detention center may adopt proper measures to uphold the dignity and interests of the defendant or relevant personnel.\r\nIf the target or detail of the media interview involves children or juvenile, sexual offense, domestic violence, disease or other matters about which media coverage is restricted or prohibited by law, relevant regulations shall be complied with.\r\nA detention center may stop an ongoing media interview if the interview adversely affects the security or order of the detention center.\r\nAfter a media interview, the media should inform the detention center or the defendant before publishing a report. If the report is inconsistent with the interview details or facts, the detention center or the defendant may ask the media to make corrections or clarifications in an appropriate manner."
 		},
 		{
 			"number": 800,
-			"content": "When admitting a defendant, detention center shall verify the signatures and seals of the judge or prosecutor as shown in the writ of detention, as well as identification of the defendant. If any of the above is illegible, the seals are unclear, or the identity is inconsistent, the detention center is entitled to reject the admission or return the writ of detention for correction pursuant to Article 7 of the Act. However, if the defendant is admitted, the date on which the defendant is admitted shall be specified in the acknowl detention, and the superintendent of the detention center shall affix his/her signaturt or seal to the writ of detention."
+			"content": "If the writ of detention states that the defendant is not allowed visitation, correspondence or to receive any article, the detention center should heed such instructions and act accordingly. Where the instructions on the writ are not clear, the detention center should make inquiry to confirm.\r\nIf required documents other than the writ of detention are missing when a defendant is admitted, the detention center may give notice to request the submission of supplementary documents."
 		},
 		{
 			"number": 900,
-			"content": "After a defendant is admitted to a detention center, he/she shall be given a serial number under Article 12 of the Act thereof in place of his/her name; in addition, personal data booklet and identification booklet of the defendant shall be prepared. Personal data booklet and identification booklet shall be prepared within two days after he/she is admitted to or discharged from the detention center and be well kept."
+			"content": "The production of name and identification record pursuant to Article 8 of the Act may be made in writing, electronically or by other appropriate means."
 		},
 		{
 			"number": 1000,
-			"content": "Personal data booklet of a defendant shall include serial number booklet, detention booklet, defendant's list, and discharge registration booklet.\r\nIdentification booklet of a defendant shall include original writ of detention, summon, writ of detention, writ of discharge, photo chart, identity slip, fingerprint card, labor registration, merit and award record, punishment record, correspondence record, behavior reviwe consolidated table, and household registration data."
+			"content": "When detention center personnel learns in the performance of duties or is notified by court or prosecutors office that an admitted inmate is a co-defendant or involved in a same case as other defendants, the detention center should assign co-defendants or defendants in the same case to different housing areas pursuant to Paragraph 3, Article 15 of the Act."
 		},
 		{
 			"number": 1100,
-			"content": "A health check-up on a defendant shall be performed by a physician of a detention center; however, if no health check-up is available in the detention center, the defendant may be escorted to a local public hospital for such health check-up.\r\nWhere a defendant is in any of the cases re Where a defendant is in any of the cases referred to in Article 7-1 of the Act, it shall be recorded."
+			"content": "Detention centers shall divide the confinement areas of defendants into correction areas, workshops, living quarters or other specific blocks based the nature of activities.\r\nDetention centers shall assign areas based on the facilities inside the center to carry out guidance and counseling of defendants by area; guidance, work, security and relevant personnel at the center shall be assigned to form guidance groups by area to handle matters relating to the management, guidance and other treatments of defendants.\r\nThe guidance groups under the preceding paragraph shall meet at least once every month to discuss reasonable and fair correctional approaches for the management, guidance, counseling and other important matters within their respective area and carry out those matters accordingly.\r\nA detention center should invite members of the area guidance groups to hold center-wide joint meeting every quarter for the handling of matters under the preceding paragraph."
 		},
 		{
 			"number": 1200,
-			"content": "When a defendant is admitted to a detention center pursuant to Acticle 10 of the Act, he/she shall be informed of the matters that he/she shall comply with:\r\n1.He/she shall behave discreetly, and shall not make any behavior which may damage national interest or reputation of the group may be made.\r\n2.He/she shall comply with the rules, and shall not violate any laws and regulations or commit any offence against order of the detention center.\r\n3.He/she shall deal with other defendants harmoniously, and shall not have any behavior in connection with gang organization or the bully or humiliate other defendants.\r\n4.He/she shall abide by the policies of the detention center, and shall not forge or alter any evidence, or conspire with others for making false testimony, or make any noise, undertake battery, escape, or violent behavior.\r\n5.He/she shall take care of public supplies, and shall not ruin, damage, or waste such supplies in any wanton or reckless manner.\r\n6.He/she shall behave properly, and shall not consume alcoholic beverage, undertake gambling activities, make any tattoos on his/her body, consume stinulant or undertake any indecent acts.\r\n7.He/she shall receive inspection, and shall not conceal any banned goods or undertake any unauthorized correspondence;\r\n8.He/she shall keep the environment neat and tidy, and shall not ruin the environment or make any graffiti or contamination.\r\n9.He/she shall also comply with all other rules of the detention center.\r\nIf a defendant is in violation of any of the foregoing provisions, he/she shall be punished, subject to culpability of the violation, under Article 76 ofthe Prison Serving Act."
+			"content": "To maintain order and security, a detention center may require defendants to wear specific outer clothing to facilitate identification."
 		},
 		{
 			"number": 1300,
-			"content": "After a defendant is admitted to a detention center, he/she shall be allowed to inform his/her family immediately; provided, however, that if he/she is prohibited from doing so by court or prosecutor, the detention center shall inform his/her family on his/her behalf."
+			"content": "When a defendant needs to appear in court by summon or request of the court or prosecutors office, the detention center may allow the defendant to wear proper self-prepared clothing, shoes and socks."
 		},
 		{
 			"number": 1400,
-			"content": "Appeals made by a defendant who contends the detention center's punishment shall be processed pursuant to the regulations stipulated below:\r\n1.Defendant contending detention center's penalty shall submit the appeal in person within 10 days of the effective date by verbal communication or written document. In cases where appeals are made by verbal communication, detention center official shall record every detail fact in the appeal logbook. \r\n  In cases where appeals are made by written document, name, offence committed, service duration, detail facts of the penalty and dates, and reasons contending the penalty shall be included, and then sign, seal or fingerprint the document, as well as date the appeal.\r\n2.Anonymous appeals will not be subject to processing.\r\n3.The superintendent of the detention center issuing the penalty shall, if the appeal is deemed reasonable, withdraw the penalty and indicate other appropriate management procedures. If the appeal is deemed unreasonable, the subject matter shall be reported to the goveming authority immediately.\r\n4.Goveming authority shall, if the appeal is deemed reasonable, order a termination, withdraw, or amendment to the penalty.\r\n5.Inspector shall, when processing appeals, conduct every necessary investigation and report the investigation results to the governing authority for review. During investigation, unless the inspector deem relevant to the subject matter, no detention center officials shall be permitted to present at the scene.\r\n6.A detention center shall not discriminate against or issue a punishment with irrelevant excuses to the defendant who files the appeal.\r\n7.Governing authority has the authority to issue a final ruling to the appeal.\r\nThose who contend the ruling issued by other institution shall be redirected to related institution for further review.\r\nThe rules in connection with complaints filed by a defendant shall be posted on the detention center, and a defendant shall be informed of the same when he is admitted to the detention center."
+			"content": "When a detention center assigns housing area based on its management needs in accordance with Paragraph 2, Article 15 of the Act, it should heed the provisions of Paragraph 2, Article 4 of the Act and prevent bullying."
 		},
 		{
 			"number": 1500,
-			"content": "The children brought by a female defendant to or born by a female defendant in a detention center shall be accommodated in the nursery and care center. \r\nFor the child born by a defendant in a detention center, his/her birth certificate shall not contain any entries in conn ection with the detention."
+			"content": "To achieve strict security as required under Paragraph 1, Article 16 of the Act, detention centers shall make proper arrangements based on the nature of guarding, security, patrolling, management and inspection.\r\nAccess to guarded areas shall be subject to inspection. However, inspection may be exempted in case of an emergency situation or under special circumstances with the approval of senior detention center official.\r\nArticles brought by detention center personnel or persons granted access to guarded areas by the detention center shall be placed at a location designated by the detention center, except for articles that are allowed to be brought in according to law or with permission, or articles that are needed for the purpose of entering the guarded area.\r\nIf any person under the preceding paragraph has any of the following situations, the detention center may prevent the person from entering the guarded area or order the person to leave:\r\n1. Refuse or evade inspection.\r\n2. Bring or use communications, photographing, video-recording or audio-recording equipment without permission.\r\n3. Inebriated or appear inebriated or anomalous in physical or mental status.\r\n4. Evade, interfere with or refuse to comply with communicable disease prevention and control measures adopted by detention center in accordance with communicable disease control regulations.\r\n5. Engage in other acts that disrupt the order or security of detention center."
 		},
 		{
 			"number": 1600,
-			"content": "The following defendants shall be detained separately:\r\n1.Adult defendants ancl juvenile defendants.\r\n2.A defendant who commits the first offense and who is a reciclivist.\r\n3.The offense committed by the defendant is of significant gravity or there is a likelihood that other defendants may be affected by his/her detention."
+			"content": "“Contraband” referred in Paragraphs 1 and 3 of Article 12, Paragraph 2 of Article 65 and Paragraph 1 of Article 66 of the Act means any article whose use is prohibited or restricted in detention centers. The supervisory authority may establish the types of contraband and related control rules in consideration of order, security and management.\r\nDetention centers shall publish contrabands and related control rules under the preceding paragraph in an appropriate manner for the information of defendants, detention center personnel and other persons granted access to guarded areas."
 		},
 		{
 			"number": 1700,
-			"content": "Where the need detaining a sick defendant in a ward is established by a physician, the detention shall be S0 enforced."
+			"content": "Detention centers should arrange voluntary work, guidance, activities, food, medical care, exercise and other daily routines for defendants.\r\nDetention centers shall make public in an appropriate manner the schedules for routines under the preceding paragraph for the information of defendants."
 		},
 		{
 			"number": 1800,
-			"content": "Detention center shall organize the work of security in accordance with the work nature of guarding , sentinel, patrolling, management, and inspection. In addition, staffs shall be carefully selected to fulfill their duties, in order to prevent riots, escape, suicide, or fighting.\r\nWhen an officer performs his/her duties, precautionary steps shall be taken pursuant to the regulations contained hereinafter: \r\n1.Detention center officer shall sympathize and be compassionate during the process, as well as respect prisoner's dignity and comprehend the subject matter in order to lecture the convict accordingly.\r\n2.Custody of the defendants shall take control of every situation happened in ber detention center and count the number of defendants regularly, as well as focus on the safety equipments of detention center. \r\n3.Sentinel duties, appearance and manner shall be appropriate, respond to people with kindness, as well as be precautious to the entry and exit of the delivery of goods and passengers.\r\n4.Cell duties, except for situations where a disaster occurs, the access door shall not be opened unless an officer is present or his/her approval is obtained.\r\n5.Workshop duties, the doors of the workshop shall be closed at all times in order to prohibit the entry and exit of the defendants. The uses and management of labour equipments shall be carefully supervised.\r\n6.The doors, as well as entry and exits, of the detention center shall be closed on a regular basis. Goods that jeopardize the security of the detention center shall be stored and locked in a specified location. In circumstances where the need for opening the lock or using the goods arises, a guard shall be dispatched to secure and safeguard the location.\r\n7.Equipments, such as constraining devices and weapons, keys, water & electric equipments, and hydrant equipments and stoves and steam machines, shall be cautiously supervised and are subject to regular inspections.\r\n8.At the time of discharging a defendant, the defendant's physical state and reputation shall be minded, in addition to adhere to the ruling of discharge procedures."
+			"content": "When a detention center has approved the use of guard instruments on a defendant in accordance with Paragraph 1, Article 19 of the Act, the dates, start and end time for the use of guard instrument, the reason for using and the type and quantity of guard instruments used shall be documented in the guard instrument record chart, which shall be submitted to the senior detention center official for approval.\r\nDetention center personnel shall constantly observe the behaviors of the defendant and stop the use of guard instruments instantly when they are no longer deemed necessary."
 		},
 		{
 			"number": 1900,
-			"content": "Detention center shall not utilize any constraining devices as a means of punishment on defendants. In circumstances where the utilization of constraining devices is necessary due to some legal reasons, precautionary procedures shall be taken pursuant to the regulations contained hereinafter: \r\n1.The behavior and performance of the defendants shall be evaluated frequently when a constraining devices is utilized for detentional purpose. As soon as the utilization of the constraining devices is deemed no longer relevant, the practice shall be abolished immediately. \r\n2.Once the period of the utilization of constraining devices reaches one week, for circumstances where the continuation of the utilization is deemed relevant, the request with a list of facts and details of the circumstance, shall be reported to the detention center officer for approval. The provision thereof is also applicable at the end of the extension of the utilization, if further extension is deemed necessary. \r\n3.The utilization of constraining devices shall be monitored and exercised by chief of subsection or the higher staffs. For defendants deemed inappropriate by physician, the exercise of constraining devices shall be discontinued.\r\n4.Two or more types of constraining devices shall not be exercised against a single defendant at the same time without special approval from the superintendent of detention center.\r\n5.The physical condition of a defendant shall be minded cautiously during the process of the utilization of constraining devices. No handcuffing with both arms on the back or joined handcuffing of arms and legs shall be permitted.\r\n6.The weight of feet shackles and chains shall be limited to a maximum of 2 kilograms. If necessary, the weight can be increased to 3 kilograms. The weight of handcuff shall not exceed one half of a kilogram."
+			"content": "“Riot” referred to in Paragraph 5, Article 18 of the Act means three or more defendants collectively having one of the following acts by means of violence or coercion and causing the detention center to lose security and management control or the inability to operate normally:\r\n1. Seize important facilities.\r\n2. Take control of the controlled keys, communications or other important security equipment of detention center.\r\n3. Seize offensive devices or other important equipment.\r\n4. Hold defendants, detention center personnel or other people hostage.\r\n5. Cause death or major injury of people.\r\n6. Engage in other acts that seriously disrupt the order or security of detention center.\r\n“Commotion” referred to in Paragraph 5 of Article 18 and Subparagraph 3, Paragraph 1 of Article 20 of the Act means the gathering of three or more defendants that disrupts the order or security of a detention center through action or inaction, which has exceeded general act of violence or disturbance of order and fails to stop when ordered, but not yet reaching the status of riot.\r\nWhether or not a situation under any of the preceding two paragraphs has reached the extent where the use of guard instruments should continue in accordance with Paragraph 5, Article 18 of the Act shall be decided by the detention center in consideration of the overall situation; however such use should not exceed the necessary extent."
 		},
 		{
 			"number": 2000,
-			"content": "Sedation facility shall be built in a solitary space format. The surfaces of wall, ceilillg, doors, and floors shall be made of materials that can prevent injuries when a person smashes at them, as well as the emphasis shall be centered on the security of the detention center."
+			"content": "Detention centers shall maintain contact with the police authority or other relevant agencies in accordance with Paragraph 1, Article 21 of the Act. Where necessary, detention centers may establish contact, support or assistance related plans or measures to facilitate actual operation."
 		},
 		{
 			"number": 2100,
-			"content": "Detention center's supervising staffs using truncheon or arms subject to the precautionary procedures contained hereinafter: \r\n1.Warning shall be issued prior to the use of truncheon or arms. However, in urgent situations this rule shall not be applicable.\r\n  When the reason for the use of truncheon or arms ceases to exist, the action shall be discontinued immediately.\r\n2.0fficer shall be careful not to harm the surrounding innocents when truncheon or arms is being used. A report detailing the process and situation shall be conveyed to the officer of detention center after the event is over, in addition to deliver a copy of the documents to the supervisory authority."
+			"content": "Detention centers may be contracted to perform labor or production services for public or private agencies (institutions), legal entities, organizations, or individuals in accordance with Article 27 of the Act and applicable regulations."
 		},
 		{
 			"number": 2200,
-			"content": "The following types of security work in a detention center for female defendants, including guard, security & custody,\r\ninspection, management, labour, education and instruction, and appraisal, shall appoint female employees to assume the responsibility. Security & custody unit shall dispatch staffs to assume the responsibility of sentinel, patrol, and policing in the surrounding area of the detention center.\r\nQuarters for female defendants within a detention center shall be prohibited from the entry of male staffs except for the superintendent of detention center and medic personnel. In circumstances where the responsibilities of a duty require a male staff to enter the quarter, the male staff must be accompanied by a female staff."
+			"content": "For undertaking processing work commissioned by others in accordance with Article 27 of the Act, a detention center should openly and regularly solicit vendors for the processing work and pay attention to vendor’s finances, contract performance capabilities and market prices of the processed products in order to obtain reasonable prices for the commissioned work.\r\nBefore undertaking commissioned processing work, trials may be conducted first to test the suitability of the work and productivity."
 		},
 		{
 			"number": 2300,
-			"content": "Detention center shall implement a contingency plan for security events, in addition to establishing a channel of communication with local district's police and justice agencies. In events of natural disasters, where escape , slaughter, death, riots, or violence occurs, proper counter measures and procedures must be in place, in addition to filing a documentation report with the details of the scenario to the goveming authorities. In urgent matters, telephone calls must be used in advance for reporting."
+			"content": "For self-run work, processing work commissioned by others, contract work or other works, a detention center may organize an evaluation meeting to evaluate the prices of finished products of self-run work and contract work, which will be implemented after the approval of senior detention center official.\r\nIn the event of the preceding paragraph, a detention center may first send staff to make inquiries about prices to provide reference for the price evaluation meeting under the preceding paragraph."
 		},
 		{
 			"number": 2400,
-			"content": "Special attention shall be made in the place designated as a cell or workshop by a detention center to prevent any conspiracy with other detainees and to keep the security. \r\nThe foregoing cell and workshop shall be designated by the superintendent of the detention center; provided, however, other personnel may be authorized make such designation, subject to final approval of the superintendent."
+			"content": "A detention center should assign personnel to understand the conditions and needs of individual defendants and provide defendants with guidance and counseling.\r\nFor defendants with needs for legal aid or counseling, a detention center shall assist in making arrangement or referral."
 		},
 		{
 			"number": 2500,
-			"content": "The supervisor of the workshop and cell shall inspect the workshop and check the number of the defendants from time to time. When transferring their duties, they shall provide particulars in connection with the cell and workshop, so that a proper prevention may be made."
+			"content": "When a defendant who has filed an appeal with a court of second instance is transferred to another detention center at where the court of second instance is located, the detention center that currently holds the defendant should also transfer the defendant’s counseling record, reward and punishment record and relevant data for the reference of the new detention center."
 		},
 		{
 			"number": 2600,
-			"content": "The patrol and security personnel of a detention center shall inspect the windows, doors, locks, and railings to ensure their safety.\r\nThe department of guard and security and the department of general affairs shall assign their personnel to inspect the equipment referred to in the preceding paragraph on a frequent basis. Should any damage to such equipment is found in the course of inspection, a report shall be made immediately."
+			"content": "A detention center should provide suitable information equipment in accordance with Paragraph 2, Article 34 of the Act, including copy machine. Defendants may apply for the use of information equipment at their own cost."
 		},
 		{
 			"number": 2700,
-			"content": "The establishment of lookouts within and without a detention center shall be made to constitute a watching net and to monitor the movement of the defendants; in addition, scheduled and random patrol shall be performed."
+			"content": "Detention centers should organize various activities either on their own or together with outside parties and exercise due care to protect the privacy of defendants and their families."
 		},
 		{
 			"number": 2800,
-			"content": "The lookouts at the central entrance and main entrance shall be performed by chief aclministrators or experienced and capable senior administrators."
+			"content": "The supervisory authority should draw up a restorative justice publicity plan and promote mediation and restoration to facilitate implementation by detention centers."
 		},
 		{
 			"number": 2900,
-			"content": "The labor shall be administered mainly by a public enterprise as a top priority, with second priority goes to consignment or contracting.\r\nAside from complying with the purposes of labour, the work content of the labor shall be determined in consideration of local economic environment and the condition of supply & demand of goods, as well as trend in future development."
+			"content": "Detention centers shall respect the religious freedom of defendants and shall not force defendants to participate in religious activities or engage in religion-related acts.\r\nDetention centers should allow defendants to worship in a reasonable manner in accordance with their religious beliefs and accommodate the religious needs of defendants."
 		},
 		{
 			"number": 3000,
-			"content": "Attention shall be paid by a detention center to develop defendants' diligence and to improve their physical and mental health. The labor shall be attended by qualified personnel assigned by the department of safeguard and security."
+			"content": "When a detention center provides radio, television, information equipment or audio/video equipment for guidance and counseling in accordance with Paragraph 1, Article 38 of the Act, the detention center should carefully review related teaching materials or contents and follow intellectual property related laws and regulations."
 		},
 		{
 			"number": 3100,
-			"content": "The compensation criteria for labor shall be made once a year by surveying the prevailing price for the similar products or prevailing rate for the similar labor."
+			"content": "Detention centers should adopt proper and necessary measures to accommodate the special needs of disabled defendants with respect to viewing, listening, and speaking activities in accordance with Paragraph 3, Article 38 of the Act.\r\nDetention centers may provide proper assistance to defendants who have difficulty understanding relevant affairs of the detention center due to lack of understanding of languages of the Republic of China or other reasons."
 		},
 		{
 			"number": 3200,
-			"content": "Detention center shall retain local technicians and experts to form a Labor Consulting Committee to provide assistance required for the labor."
+			"content": "Food nutrition for defendants should be sufficient to meet their health needs and food quality should meet sanitation standards; meals should be prepared and supplied timely, and adequate drinking water should be made available.\r\nFood for ill and elderly defendants may be adjusted based on their health or medical needs. The same shall apply to the food of children brought into or born in the detention center by defendants who are unable to prepare their own food for the children.\r\nIn preparing food under the preceding two paragraphs, a detention center may refer to the food guidelines and suggestions published by the Health Promotion Administration, Ministry of Health and Welfare, and may consult dietitians if necessary."
 		},
 		{
 			"number": 3300,
-			"content": "Attention shall be paid to the training of the defendants' skills, and technical guidance shall be provided by the instructors or technical consultant of the processing plant."
+			"content": "In providing clothes, bedding, goods and other utensils in accordance with Paragraph 1, Article 41 of the Act, a detention center shall not violate applicable sanitation, environmental protection or other regulations."
 		},
 		{
 			"number": 3400,
-			"content": "Work products shall comply with social demands, and detention center shall take any precautionary steps on the supervision of the marketing. \r\nDetention centers are permitted to solely or jointly establish locations for product marketing."
+			"content": "The outer clothing defendants must wear in accordance with Article 12 herein should meet sanitary and health requirements and use fabrics that are cool and breathable or meet health care needs. The supervisory authority will determine the colors and styles of the outer clothing.\r\nIf required by temperature or health, defendants may, with approval of the detention center, use their own clothing, hats, socks, beddings and proper warmth-keeping objects or those sent to them."
 		},
 		{
 			"number": 3500,
-			"content": "Detention center labour shall have an overall well-conducted administration scheme with an implementation of corporate management, in addition to carefully supervising the efficient utilization of assets and human resources."
+			"content": "Defendants who lack daily necessities other than those mentioned in Paragraph 1, Article 41 of the Act due to financial difficulties may ask the detention center to provide them; the supervisory authority will set out the standards for determination of financial difficulties and the items and quantities to be provided.\r\nDefendants with urgent needs for daily necessities other than those mentioned in Paragraph 1, Article 41 of the Act may request detention center to provide them; when the causes of urgency cease to exist, the detention center may designate the return of same items, request a payment or return by other means by the defendant.\r\nIf daily necessities provided under the preceding two paragraphs are reusable, detention centers should heed the maintenance of hygiene and sanitation when they are provided to different defendants."
 		},
 		{
 			"number": 3600,
-			"content": "The Regulations for Incentives for Labor Reward Performed by Prisoners and the Regulations for lncentives Labor Reward to Officers of Prisoners shall be applied mutatis mutandis to the incentive plan referred to in paragraph 3, Article 17 ofthe Act."
+			"content": "Detention centers shall heed the nutrition and physical and mental development needs of juvenile defendants in the provision of food and rehabilitative measures, and pay attention to the medical treatment they receive and interests and rights protection."
 		},
 		{
 			"number": 3700,
-			"content": "The life consultation shall be provided by qualified personnel assigned by the department of safeguard and security on a part time basis. Where a detention center is capable of accommodating 500 detainees or more may assign an administrator to provide life consultation."
+			"content": "Detention centers shall pay attention to environmental hygiene. Each detention center will determine the frequency of regular environment hygiene inspection conducted in accordance with Article 45 of the Act based on the local situations, which however shall be performed at least twice every year.\r\nDetention centers may ask local health, environmental protection agencies (units) or relevant agencies (units) to assist in the environmental hygiene inspection under the preceding paragraph and may undertake necessary and feasible improvement measures immediately or gradually based on the needs for sanitation, environmental protection or other relevant equipment (facilities).\r\nDefendants shall cooperate with the detention center in environmental cleaning work and maintain public and personal hygiene."
 		},
 		{
 			"number": 3800,
-			"content": "The life consultation shall be provided to foster virtue development and intellectual development as its primary objectives."
+			"content": "To promote self-health management of defendants in accordance with Paragraph 1, Article 49 of the Act, detention centers shall implement health education and may ask local health authorities or medical institutions to provide assistance.\r\nExcept for controlled drugs, based on doctor’s orders, or the results of observations by detention center personnel where due care shall be exercised with regard to the safekeeping and use of medicines by specific defendants, detention centers may implement self-health management rules in accordance with Paragraph 1, Article 49 of the Act and allow defendants to manage and take medicines on their own.\r\nWhen a defendant asks to purchase any low-risk medical device or health product or for such equipment or product to be sent into the detention center at the defendant’s own cost in accordance with Paragraph 5, Article 49 of the Act, none of such devices or products shall be provided for use by others."
 		},
 		{
 			"number": 3900,
-			"content": "When providing life consultation service, a consultation data packet shall be established for each defendant. The consultation data packet for a defendant who has appealed to the court of appeal shall be transferred to the detention center governed by such court of appeal for its reference in one week."
+			"content": "When a defendant or a defendant’s nearest relative or family member requests health examination of the defendant inside detention center in accordance with Paragraph 3, Article 49 of the Act, the following rules shall be complied with:\r\n1. A written statement shall be made to provide the reason for such a request and medical practitioner that the defendant wishes to engage at own cost, and a document showing a physician’s evaluation that such examination is necessary.\r\n2. Following review and approval by the detention center, the defendant or the defendant’s nearest relative or family member may engage medical practitioner to perform health examination for the defendant inside detention center. When the defendant receiving examination is held incommunicado by ruling of the court, the detention center shall prepare relevant data to inform the court or the public prosecutor that made the ruling or detention request.\r\n3. When medical practitioner engaged by a defendant at own cost enters the detention center, he or she shall present his or her practice license and supporting document showing approval to practice outside his/her practice site; if necessary, the detention center may make verification with the practice site.\r\n4. The medical practitioner engaged by the defendant at own cost shall produce and maintain records in accordance with the Medical Care Act and applicable medical professional regulations and deliver the inspection records to the detention center for safekeeping. Any inspection report issued by the medical practitioner shall be consistent with medical professionalism and document the examination result.\r\n5. The medical institution that employs the medical practitioner shall issue a receipt for the expense incurred for health examination and the expense should be paid by defendant’s nearest relative or family member in principle; if necessary, the detention center may deduct and pay the expense from defendant’s money under safekeeping or labor compensation.\r\n6. The detention center shall determine the time, location and manner of health examination to be performed in detention center by medical practitioner engaged by a defendant at own cost based on the nature of examination and actual situation."
 		},
 		{
 			"number": 4000,
-			"content": "Where a detention is capable of accommodating 500 detainees may establish a consultation office, under which consultation groups may be organized to provide consultation."
+			"content": "When a defendant sees a doctor, the defendant shall describe truthfully his or her symptoms and receive treatment as instructed and shall not ask the doctor to add notation that is irrelevant to the defendant’s health condition. If the defendant seeks any regimen or requests special treatment that is not necessary, the doctor shall refuse such request."
 		},
 		{
 			"number": 4100,
-			"content": "Virtue consultation shall be conducted through one-on-one discussions, group discussions, and religious teachings."
+			"content": "Defendants with visual, hearing or speech disabilities may use sign language, braille or other proper means for assistance during visits and correspondence.\r\nDefendants who are illiterate or cannot write letters for any reason may seek the consent of another defendant or a suitable person to write letters on their behalves; such letters will be sent according to rules after the confirmation and signatures or fingerprints of the defendant."
 		},
 		{
 			"number": 4200,
-			"content": "When religious teaching is provided, consultation personnel or security personnel shall be present to maintain order and to ensure the propriety of the content of teaching and materials distributed. Should the content be found improper or irregular, such consultation personnel or security personnel shall make the correction and report the same to the officers of the detention center."
+			"content": "Aside from defense attorneys appointed in accordance with the Code of Criminal Procedure, when other lawyers designated, appointed, or retained according to law or lawyers not retained by defendants under Paragraph 5, Article 65 of the Act request to visit a detained defendant held incommunicado by ruling of the court, the detention center shall, pursuant to Paragraph 3 and Paragraph 4, Article 105 of the Code of Criminal Procedure prepare and submit relevant data to the public prosecutor in the stage of investigation or to the court in the stage of trial for consent before permitting the visit."
 		},
 		{
 			"number": 4300,
-			"content": "Consultation for intellectual development shall be conductecl through self education, and no classes will be organized. The intellectual consultation shall be provicled by the personnel in charge of life consultation and the supervisors of each workshop and cell."
+			"content": "When a detained defendant held incommunicado by ruling of the court sends a document other than letters in accordance with Paragraph 6, Article 66 of the Act, the detention center shall, pursuant to Paragraph 3 and Paragraph 4, Article 105 of the Code of Criminal Procedure, prepare and submit relevant data to the public prosecutor in the stage of investigation or to the court in the stage of trial for consent before permitting the document to be sent."
 		},
 		{
 			"number": 4400,
-			"content": "Class consultation may be provided to juvenile defendants, and each defendant shall submit his/her reflection report once every three months. Gifts or certificate of merits may be given to those who excel in their performance. Literacy education shall be reinforced to illiterate detainees."
+			"content": "Detention centers may implement necessary segregations of defendants in accordance with Paragraph 4, Article 79 of the Act in order to investigate breaches of rules by defendants; however, the segregation period shall not exceed the necessary extent. During the segregation period, the guidance, supplies, medical care, visits and correspondence and other treatments for relevant defendants shall remain compliant with applicable provisions of the Act."
 		},
 		{
 			"number": 4500,
-			"content": "Detention center shall establish broadcasting equipment and broadcasting center to broadcast music and educational novels, stories, or drama so as to achieve educational purposes. The broadcasting work shall be performed by professional personnel."
+			"content": "When a detention center reaches a decision or suspends the execution of disposition or management measure in accordance with Paragraph 3, Article 85 of the Act, it shall notify the complaint review panel."
 		},
 		{
 			"number": 4600,
-			"content": "Detention center shall establish a library, and the list of books shall be placed in the workshop and cell for defendants' preview. The defendants intending to check out books shall complete the check-out process, and the books shall be properly managed."
+			"content": "When a defendant is released, the detention center shall carefully check the signature or seal of court or public prosecutor who issues the release notice, and send the notice back for rectification if the signature or seal is illegible."
 		},
 		{
 			"number": 4700,
-			"content": "Subject to its actual need, a detention center shall make and enforce the work schedule for the defendants."
+			"content": "If a released defendant requests after-care support and assistance, the detention center should find out the support the defendant needs and notify the local after-care organization to provide assistance."
 		},
 		{
 			"number": 4800,
-			"content": "The chief of the department of general affairs, department of safeguard and security, and consultants shall be responsible for reviewing behaviors of defendants."
+			"content": "Detention centers should request local government agencies to provide facilities for the placement of ashes following cremation of deceased defendants in accordance with Article 112 of the Act."
 		},
 		{
 			"number": 4900,
-			"content": "In order to meet the needs of investigation and trial, the personnel responsible for behavior review shall make the review diligently and in good faith, and shall make the following the records:\r\n1.Behavior review form.\r\n2.Labor score form.\r\n3.Personality review form.\r\n4.Behavior review consolidated table."
+			"content": "For juvenile defendants held at juvenile detention houses or detention centers, the provisions of the Act and these Enforcement Rules shall apply, provided the application does not run counter to the nature of juvenile protection."
 		},
 		{
 			"number": 5000,
-			"content": "Behavior review shall be made once a month, and the score arising from such review shall account for 30% of average score. The scope of review shall include thinking, language, characteristics, attitude, and merits and punishment. The initial review on this item shall be conducted by the attending administrator and the secondary review shall be conducted by the chief of the department of guard and security."
-		},
-		{
-			"number": 5100,
-			"content": "Personality review shall be made once a month, and the score arising from such review shall account for 30% of the average score. The scope of review shall include loyalty, fidelity, obedience, law-abiding, and cooperation. The initial review on this item shall be conductecl by the attending administrator, and the secondary review shall be conducted by the chief of the department of safeguard and security."
-		},
-		{
-			"number": 5200,
-			"content": "Labor review shall be made once a month, and the score arising form such review shall account for 40% of the average score. The initial review on this item shall be conducted by the labor instructor, and the secondary review shall be conducted by the chief of the department of safeguard and security."
-		},
-		{
-			"number": 5300,
-			"content": "The total score arising from the review made under the preceding three articles shall be entered into behavior review consolidated table and be made on the end of each month, The total score shall be submitted by the chief of the department of safeguard and security to the Detention Affair Committee for a discreet review and grading."
-		},
-		{
-			"number": 5400,
-			"content": "The grading shall be classified into 4 levels: A, B, C, and D. Those whose score is under 60 shall be classified as level D; those whose score is 60 or more but under 70 shall be classified as level C; those whose score is 70 or more but under 85 shall be classified as level B; those whose score is 85 or more but under 100 shall be classified as level A."
-		},
-		{
-			"number": 5500,
-			"content": "Article 75 of the Prison Act shall apply to those who are classified as level A for three months consecutively, and award shall be given subject to resolution adopted in the Detention Affair Committee. \r\nIf the defendant to whom an award is given is found to have violated the rules of the detention center and is classified as level D in the course of award enforcement, the award may be suspended or revoked by a resolution adopted in the Detention Affair Committee."
-		},
-		{
-			"number": 5600,
-			"content": "Where defendant is transferred to a prison after a decision is final and irrevocable, the detention center shall forward a copy of the photo chart, identity slip, and behavior review consolidated table to the prison under Article 36 of the Act for its reference, and their originals shall be attached to the identification booklet of the defendant."
-		},
-		{
-			"number": 5700,
-			"content": "The nutrition of main & sub meals for defendants shall be sufficient to fulfill his/her health needs. The quality of food shall meet the hygiene standard, be freshly prepared, and be provided regularly. Waters for drinking and other uses shall also be prepared for defendants."
-		},
-		{
-			"number": 5800,
-			"content": "Detention center shall, in accordance with defendant's nationality or religious beliefs, change tho menu of defendant's main and sub meals to appropriate foods. Foods for defendants with illness and for defendants' children are subject to different standards in accordance with needs, in addition to the change and distribution of more appropriate foods."
-		},
-		{
-			"number": 5900,
-			"content": "Clothes ,mattresses, shoes, and socks for defendants shall be domestically produced, in addition to coping with various protection needs in different seasons. The style and colors of defendants' clothes shall all be decided by the governing authority. \r\nDefendants' clothes and mattress shall be cleaned and exposed to the sunlight regularlly."
-		},
-		{
-			"number": 6000,
-			"content": "The food, clothes, comforters, books, and supplies as prepared by a defendant shall be subject to inspection."
-		},
-		{
-			"number": 6100,
-			"content": "The clothes and bedding furnishings prepared by a defendant shall be entered into a registry made by the detention center and may be carried out when he/she is discharged after a verification is made.\r\nThe clothes, bedding furnishings, and daily supplies shall be entered into a registry, and attention shall be paid to their use."
-		},
-		{
-			"number": 6200,
-			"content": "The rules governing the primary and supplementary food and treatment as adopted by a juvenile detention center shall be applied to those of a juvenile defendant."
-		},
-		{
-			"number": 6300,
-			"content": "Detention center's sanitary facilities shall be built with a purpose to maintain the healthiness of defendants' physical and mental state. Educational lessons on sanitary shall also be conducted frequently, in an effort to educate defendants with the notion of the importance of public and individual sanitation and of developing a sanitary living habit."
-		},
-		{
-			"number": 6400,
-			"content": "The cells, workshop, kitchen, stadium, and surrounding environment of detention center shall be neat and clean,"
-		},
-		{
-			"number": 6500,
-			"content": "Detention center shall have sanitary facilities (including toilets and showering facilities) that fulfill defendants' needs in daily life, in addition to providing hot water and cold water depending on the season. \r\nDefendants shall take shower once per day during summer times, once per two days during spring and fall, and once per three days with hot water during winter times."
-		},
-		{
-			"number": 6600,
-			"content": "Detention center shall have an implementation of precautious and preventive measures for epidemic or other acute contagious diseases. In times deemed necessary, physical examination shall be conducted for defendants in addition to providing proper medical treatments. \r\nIn situations where defendants or defendants' accompanied children are ill, detention center's physicians shall provide sincere diagnosis and treatment for them without any delay, in addition to making a diagnosis record for future references. In times where there is an insufficiency of available doctors, the detention center shall negotiate and appoint doctors from outside hospitals to assist in the situation."
-		},
-		{
-			"number": 6700,
-			"content": "A defendant who suffers from a serious illness and is hospitalizecl under Article 22 of the Act shall be deemed detained, and a notice shall be given to his/her family for providing care. \r\nWhere the defendant is in critical condition, a notice shall be given to his/her family, relatives, or friends as soon as possible."
-		},
-		{
-			"number": 6800,
-			"content": "Where a defendant suffers from a serious illness, is deceased, or is in any other necessary conditions, a notice shall be given to his/her spouse or family as soon as possible."
-		},
-		{
-			"number": 6900,
-			"content": "Sanitary equipments, apparatuses, and medicines shall be subject to uses, maintenance, and protection with careful discretion. \r\nMedicines claimed by the defendant to be brought in by the defendant himself/herself or given by a visiting relative require prior consent from detention center's physicians before being permitted for purchases or carrying in.\r\nAforementioned item of medicines shall be recorded with names and in-take dosage in a logbook.\r\nConsumption of alcoholic substitute, narcotics or hallucinogenic by any defendant is strictly prohibited."
-		},
-		{
-			"number": 7000,
-			"content": "If detention center's physicians deem the treatment of defendant unsuitable to defendant's physical and mental health condition, recommendations shall be filed to the supervising section or superintendent of the detention center."
-		},
-		{
-			"number": 7100,
-			"content": "Under the principles of not interfering with the safety and security ofthe detention center, detention center shall plant flowers and trees to a large extent and create a beautiful environment that is full of educational purposes, in addition to establishing sufficient sports facilities and equipments for defendants."
-		},
-		{
-			"number": 7200,
-			"content": "Visiting a defendant shall be made at the reception room; provided, however, if a defendant suffers from illness or due to specials circumstances, visiting may be conducted at other suitable places. \r\nVisiting a defendant shall be conducted in the presence of and strictly monitored by an administrator. The visiting shall be limited to once a day, and each visiting is limited to 30 minutes, unless otherwise there exists factor beyond reasonable control and a special approval is given by the officers of the detention center.\r\nTo achieve the objectives for detention, proper restrictions may be imposed by the officers of the detention center on the times of visiting."
-		},
-		{
-			"number": 7300,
-			"content": "He/She who requests to visit a defendant shall provide the reception room with the causes for his/her visiting. The supervisor shall enter the name, occupation, age, and address of the visitor, as well as causes of the visiting and the name of the defendant, and the relationship between the visitor and the defendant into the registry, and the submit the same to the superintendent for his approval."
-		},
-		{
-			"number": 7400,
-			"content": "The language used in the course of the visiting shall be traditional chinese language, and no secret language may be used. Where a defendant is a foreigner or with no nationality, the language spoken in his country or the language commonly used in the world may be used in the course the visiting."
-		},
-		{
-			"number": 7500,
-			"content": "He/She who requests to visit a defendant may bring the defendant's children aged under 5."
-		},
-		{
-			"number": 7600,
-			"content": "If a visitor is in any of the following cases, the requested visiting may be denied:\r\n1. The visitor fails to bring his identification.\r\n2. The behavior of the visitor is suspicious.\r\n3. Three or more visitors visiting one defendant at the same time.\r\n4. The visitor is drunken or insane.\r\nThe visitor who has not completed the visiting registration shall not substitute the registered visitor or visit the defendant together with the registered visitor."
-		},
-		{
-			"number": 7700,
-			"content": "A defendant shall not request to visit another defendant, unless otherwise there are due causes for the requested visiting and the requested visiting is approved by the officers of the detention center."
-		},
-		{
-			"number": 7800,
-			"content": "A visitor shall not bring any weapons, arms, and contrabands."
-		},
-		{
-			"number": 7900,
-			"content": "The Rules of Safekeeping Procedure for Prisoner's Money and Goods shall be applied to the money or goods given by a visitor to a defendant."
-		},
-		{
-			"number": 8000,
-			"content": "An attorney who requests to visit a defendant shall be limited to the one appointed by the court or selected by the defendant. \r\nThe attorney referred to in tho preceding paragraph shall produce the documents evidcncing such appointment or selection."
-		},
-		{
-			"number": 8100,
-			"content": "Visiting a defendant by an attorney shall be conducted in the time frame set forth in Article 26 of the Act, unless there exist special reasons and the special request is approved by the officers of the detention center."
-		},
-		{
-			"number": 8200,
-			"content": "Visiting a defendant by an attorney shall be conducted in the place designated by the detention center."
-		},
-		{
-			"number": 8300,
-			"content": "The conversation between an attorney and the visited defendant shall be limited to the matters in connection with the proceeding, and no inappropriate conversation or conducts is allowed."
-		},
-		{
-			"number": 8400,
-			"content": "Any giving or receiving of money or goods between an attorney and the visited defendant shall be subject to approval of the officers of the detention center."
-		},
-		{
-			"number": 8500,
-			"content": "Foods and necessities given to defendants shall be inspected. Types and quantities are subject to the following rules and limitations: \r\n1. Foods: Restricted to canned foods, candy and cookies, dishes and fruits, which shall not exceed 2 kilograms each time. Items that endanger the health of defendants are concealed with prohibited items, or offend the discipline of the detention center shall not be permitted toget in.\r\n2. Necessities: the quantity of sheets, mattresses, pillows, shoes and socks, towels, and pens shall be limited to one for each item each time. Only at times when the items are damaged and unusable new items shall be permitted to be given to defendants. The quantity of soaps, toothpaste, toothbrush, and inks shall be limited to three for each item each time. 50 envelops, 100 sheets of letter, two packages of toilet paper are permitted each time. Three books or magazines during each visit and one newspaper each day. However, items that are concealed with prohibited items or offend the discipline of the detention center are not permitted to be given to defendants. In circumstances where the content of the books and magazines, as well as the newspaper, interferes with the defendants of detention progress, the readings shall not be given to the defendants."
-		},
-		{
-			"number": 8600,
-			"content": "The Rules of Safekeeping Procedure for Prisoner's Money and Goods shall be applied mutatis mutandis to the custody of defendant's money and goods. \r\nThe safekeeping of defendants' goods shall be kept away from humidity and be exposed to the sunlight regularly, in addition to disinfection in times deemed necessary."
-		},
-		{
-			"number": 8700,
-			"content": "Foods aud goods which are permitted to be given to defendants and confiscated or abandoned valuables pursuant to Acts shall be registered in a logbook."
-		},
-		{
-			"number": 8800,
-			"content": "When a detention center discharges a defendant, it shall verify the seals of judge or prosecutor as affixed to the discharge notice. If the seals are illegible, the notice may be returned for rectification."
-		},
-		{
-			"number": 8900,
-			"content": "Where a discharged defendant requests rehabilitation protection, a detention center shall verify his/her need for protection and notify the local rehabilitation protection authority to attend to such request."
-		},
-		{
-			"number": 9000,
-			"content": "When a defendant is deceased, a notice shall be immediately given to a prosecutor for inspection, and the certificate of death shall be sent to the goveming authority.lf the deceased defendant is detained in the course of trial proceeding, a notice shall be given to the court.\r\nIf the corpse referred to in the preceding paragraph is not accepted by any family, it shall be disposed of by the detention center under relevant laws and regulations."
-		},
-		{
-			"number": 9100,
-			"content": "In circumstances where the defendant dies in detention center or hospital transferred, the preservation of the corpse shall be carefully supervised."
-		},
-		{
-			"number": 9200,
-			"content": "If the detention center for civil matters is established within a detention center, segregation between the former and latter shall be strictly enforced, and the rules of civil detention center shall be applied."
-		},
-		{
-			"number": 9300,
-			"content": "Where there are no specific provisions stipulated in the Act for Juvenile Detention Center which may be applied to detention of a juvenile defendant, the Act and these Enforcement Rules shall be applied."
-		},
-		{
-			"number": 9400,
-			"content": "This Enforcement Rules is effective upon promulgation."
+			"content": "These Enforcement Rules shall take effect on July 15, 2020."
 		}
 	]
 }
