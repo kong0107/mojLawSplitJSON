@@ -4,9 +4,18 @@
 	"english": "Regulations Governing Personal Information File Security Maintenance Plan and Processing Method for the Human Resources Recruitment Industry",
 	"title": "人力仲介業個人資料檔案安全維護計畫及處理辦法",
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=N0090045",
-	"englishUpdate": "20130501",
+	"englishUpdate": "20210927",
+	"attachments": [
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attached Form：Human ResourcesRecruitment Industry Notification Record Form.pdf"
+			]
+		}
+	],
 	"history": [
-		"Full text including 25 articles promulgated on 1 May 2013 by order Lao-Chi-Guan-Zhi No. 1020500788"
+		"Full text including 25 articles promulgated on 1 May 2013 by order Lao-Chi-Guan-Zhi No. 1020500788 ",
+		"Amended on September 27, 2021"
 	],
 	"divisions": [
 		{
@@ -90,7 +99,7 @@
 		},
 		{
 			"number": 800,
-			"content": "The human resources recruitment industry shall establish the following mechanisms in response to any event of theft, alteration, damage, loss or disclosure of personal information:\r\n1.Adopt proper response measures to control the damage to the owners of the information created by the event and inform relevant authorities.\r\n2.Verity the situation of the event, inform the owner in a proper manner, including corresponding measures that have been adopted.\r\n3.Review the prevention mechanism to prevent reoccurrence of a similar event."
+			"content": "The human resources recruitment industry shall establish the following mechanisms in response to any event of theft, alteration, damage, loss or disclosure of personal information:\r\n1. Adopt proper response measures to control the damage to the owners of the information created by the event.\r\n2. Verity the situation of the event, inform the owner in a proper manner, including corresponding measures that have been adopted.\r\n3. Review the prevention mechanism to prevent reoccurrence of a similar event.\r\nWhen the incidents under the preceding paragraph occur, the human resources recruitment industry shall fill up the Notification Record sheet (as attached), and notify the municipal city government(s), or the county/city government(s) where the incident occurred and notify the Central Competent Authority. After the Central Competent Authority or the municipal city government(s), or the county/city government(s) received the notifications, with the power granted in Article 22 to Article 25 of this regulation, the mentioned authority is entitled to take appropriate supervisory and management measures."
 		},
 		{
 			"number": 900,
@@ -134,7 +143,7 @@
 		},
 		{
 			"number": 1900,
-			"content": "The human resources recruitment industry shall adopt the following measures with regard to information security administration in the collection, processing or use of personal information:\r\n1.Establish procedure guidelines.\r\n2.In using computerized equipment, establish regulations regarding the use of mobile devices or storage media.\r\n3.If personal information is maintained and must be encrypted, adopt proper encryption mechanism.\r\n4.In transmitting personal information, if encryption is required under different transmission methods, adopt a proper encryption mechanism and ensure the correctness of the recipient of information.\r\n5.Evaluate the necessity of backup based on the importance of information maintained and create backups and encryption thereon in the same manner as the originals. Maintain the media in which backup information is stored in a proper manner and regularly perform reverse testing to confirm effectiveness.\r\n6.When the media in which personal information is stored is to be disposed of or used for another purpose, duly destroy or delete the information stored in the media in a physical or other manner.\r\n7.Properly maintain the passcodes used in the administration mechanism and encryption mechanism."
+			"content": "The human resources recruitment industry shall adopt the following measures with regard to information security administration in the collection, processing or use of personal information:\r\n1. Establish procedure guidelines.\r\n2. In using computerized equipment, establish regulations regarding the use of mobile devices or storage media.\r\n3. If personal information is maintained and must be encrypted or shielding, adopt proper encryption or shielding mechanism.\r\n4. In transmitting personal information, if encryption is required under different transmission methods, adopt a proper encryption mechanism and ensure the correctness of the recipient of information.\r\n5. Evaluate the necessity of backup based on the importance of information maintained and create backups and encryption thereon in the same manner as the originals. Maintain the media in which backup information is stored in a proper manner and regularly perform reverse testing to confirm effectiveness.\r\n6. When the media in which personal information is stored is to be disposed of or used for another purpose, duly destroy or delete the information stored in the media in a physical or other manner.\r\n7. Properly maintain the passcodes used in the administration mechanism and encryption mechanism."
 		},
 		{
 			"number": 2000,
