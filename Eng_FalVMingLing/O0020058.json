@@ -4,89 +4,126 @@
 	"english": "Management Regulations for Construction Project Air Pollution Control Facilities",
 	"title": "營建工程空氣污染防制設施管理辦法",
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=O0020058",
-	"englishUpdate": "20131224",
+	"englishUpdate": "20211018",
+	"attachments": [
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Schedule 1. Construction Scale of Class 1 Construction Projects.pdf"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Schedule 2. Requirements for Height of Barrier Fences.pdf"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Schedule 3. Scope and Specifications of Automatic Carwash Equipment.pdf"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Schedule 4. Monitoring Instruments, Items, Frequency and Other Requirements for Air Pollution Control Installations.pdf"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Schedule 5. Video Surveillance System Functional Specifications.pdf"
+			]
+		}
+	],
 	"history": [
-		"Eightteen articles determined and announced by Environmental Protection Administration Order Huan Shu Kung Tzu No. 0920036945 on May 28, 2003.",
-		"Revisions to Articles 2 and 19 and addition of Article 13-1 announced by Environmental Protection Administration Order Huan Shu Kung Tzu No. 0960079904 on October 24, 2007.",
-		"Revisions to Articles 2, 4, 13-1, and 18 announced by Environmental Protection Administration Order Huan Shu Kung Tzu No. 1020111983 on December 24, 2013."
+		"All 18 articles were amended and promulgated pursuant to the order of the Environmental Protection Administration, Executive Yuan under Huan-Shu-Kong-Zi No. 0920036945 dated May 28, 2003, and enforced as of July 1, 2004.",
+		"Article 2 and Article 18 were amended and promulgated, and Article 13-1 was added, pursuant to the order of the Environmental Protection Administration, Executive Yuan under Huan-Shu-Kong-Zi No. 0960079904 dated October 24, 2007, and enforced as of date of promulgation.",
+		"Article 2, Article 4, Article 13-1 and Article 18 were amended and promulgated pursuant to the order of the Environmental Protection Administration, Executive Yuan under Huan-Shu-Kong-Zi No. 1020111983 dated December 24, 2013, and enforced as of January 1,2014.",
+		"All 20 articles were amended and promulgated pursuant to the order of the Environmental Protection Administration, Executive Yuan under Huan-Shu-Kong-Zi No. 1101141194 dated October 18, 2021, and enforced as of November 1, 2022."
 	],
 	"divisions": [],
 	"articles": [
 		{
 			"number": 100,
-			"content": "These Regulations are determined pursuant to Article 23, Paragraph 2 of the Air Pollution Control Act (herein referred to as this Act)."
+			"content": "These Regulations are determined pursuant to Article 23, paragraph 2 of the Air Pollution Control Act (hereinafter referred to as the “Act”)."
 		},
 		{
 			"number": 200,
-			"content": "Terms used in these Regulations are defined as follows:\r\nI.      \"Construction site\" means the site, work areas or areas for piling materials of a construction project.\r\nII.     \"Full-height sight-blocking barrier fence\" means fencing that entirely uses materials without openings.\r\nIII.    \"Half-height sight-blocking barrier fence\" means fencing that uses mesh or materials with openings above a height of 80 cm, and materials without openings for the rest.\r\nIV.     \"Simple fence\" means physical barrier equipment made of metal, concrete, or plastic materials that uses solid barricades or Jersey barriers as a base.\r\nV.      \"Overflow protection base\" means facilities installed at the base of the construction site fence to prevent the overflow of wastewater.\r\nVI.     \"Dust-control fabric\" means facilities made of cloth, canvas, or plastic fabric for preventing fugitive escape of dust.\r\nVII.    \"Dust-control mesh\" means facilities made of mesh material that prevent fugitive escape of dust.\r\nVIII.   \"Coarse grade aggregate\" means aggregate that can be spread on the ground to prevent the fugitive escape of dust.\r\nIX.     \"Granular materials\" means gravel, crushed stone or other particulate matter that can prevent the fugitive escape of dust."
+			"content": "Terms used in these Regulations are defined as follows:\r\nI.      “Construction site” (hereinafter referred to as the “Construction Site”) means the construction engineering base, working zone or areas for stacked materials.\r\nII.     “Full-height construction fence” means fencing that entirely uses materials without openings.\r\nIII.    “Half-height construction fence” means fencing that uses mesh or materials with openings above a height of 80 cm, and materials without openings for the rest.\r\nIV.     “Simple construction fence” means fencing made of metal, concrete, or plastic materials which should be built within 80 cm above the ground by using non-hollow materials to make barricades, Jersey barriers or other physical isolation installations.\r\nV.      “Overflow protection base” means installations placed either beneath a construction fence or the surroundings of car washing equipment to prevent the overflow of wastewater.\r\nVI.     “Dust shield” means installations made of cloth, canvas, or plastic fabric for preventing fugitive escape of dust.\r\nVII.    “Dust screen” means installations made of reticular material(s) to prevent fugitive escape of dust.\r\nVIII.   “Coarse-grade aggregate” means the aggregate that can be spread on the ground by laying out surfaces with fugitive dust prevention materials.\r\nIX.     “Granular materials” means gravel, crushed stone or other particulate matter that prevent the escape of fugitive dust.\r\nX.      “Road color difference” means a difference in the color of a road surface compared with a clean road caused by the adhesion of particulate pollutants such as sand and soil."
 		},
 		{
 			"number": 300,
-			"content": "These Regulations apply to the construction projects of project owners that pay air pollution control fees according to Article 16, Paragraph 1, Subparagraph 1 of this Act. The following construction projects shall not be subject to this restriction, however:\r\nI.      Those that must report payment of air pollution control fees that are less than NT$2,000.\r\nII.     Those that are exempt from paying fees in accordance with Air Pollution Control Fee Collection Regulations.\r\nIII.    Other circumstances designated and officially announced by the central competent authority.\r\nThe proviso in the foregoing paragraph stipulates that after these Regulations have taken effect, the special municipality, county or city competent authorities, based on the local need for air quality maintenance or improvement, designate construction project categories within the entire or partial area of the announcement's jurisdiction that are subject to these Regulations, within a specific time period from the designated date of announcement."
+			"content": "These Regulations apply to construction projects of project owners that shall pay air pollution control fees according to Article 16, paragraph 1, subparagraph 1 of this Act. However, the following construction projects shall not be subject to this restriction:\r\nI.       Those that shall report payment of air pollution control fees that are less than NT$2,000, construction areas less than 10,000 square meters and construction periods less than one year\r\nII.      Those exempt from paying air pollution control fees in accordance with Air Pollution Control Fee Collection Regulations\r\nIII.     Other circumstances designated and officially announced by the central competent authority\r\nThe trial balance of the fees referred to in subparagraph 1 of the preceding paragraph shall be based on the Type 3 rate for the construction project air pollution control fee."
 		},
 		{
 			"number": 400,
-			"content": "The construction projects referred to in these Regulations are Type 1 and Type 2 construction projects.\r\nThose that meet one of the following circumstances shall be categorized as Type 1 construction projects:\r\nI.      Building construction projects measuring 4,600 (square meters multiplied by number of months) or greater.\r\nII.     Road and tunnel projects measuring 227,000 (square meters multiplied by number of months) or greater.\r\nIII.    Pipeline projects measuring 8,600 (square meters multiplied by number of months) or greater.\r\nIV.     Bridge projects measuring 618,000 (square meters multiplied by number of months) or greater.\r\nV.      Regional development projects measuring 7.5 million (square meters multiplied by number of months) or greater.\r\nVI.     Dredging projects involving removed soil volume (loose volume) exceeding 10,000 cubic meters.\r\nVII.    Other construction projects with a contract price of at least NT$1,800,000.\r\nProject size as referred to in the foregoing subparagraphs is the product of the area (square meters) under construction and the construction period (number of months). The construction period is calculated on the basis of a 30-day month.\r\nConstruction projects, aside from those listed in Paragraph 2, shall be categorized as Type 2 construction projects."
+			"content": "The construction projects referred to in these Regulations are Type 1 and Type 2 construction projects, subject to the construction scale.\r\nFor the categories and construction scale of Type 1 construction projects, please refer to Schedule 1. Any construction projects other than Type 1 construction projects shall be categorized as Type 2 construction projects."
 		},
 		{
 			"number": 500,
-			"content": "Signs indicating the construction project owner and the construction project period shall be installed at the construction site.\r\nThe content of the signs in the foregoing paragraph shall explicitly state the construction project air pollution control fee collection control serial number, the name and telephone number of the statutory responsible person at the construction site as well as the local environmental agency's telephone number for reporting public nuisances."
+			"content": "Signs shall be installed at construction sites by the construction project owners during the construction project period.\r\nThe content of the signs in the foregoing paragraph shall explicitly state the construction project air pollution control fee collection control serial number, the name and telephone number of the statutory responsible person at the construction site, as well as the local environmental agency's telephone number for reporting public nuisances."
 		},
 		{
 			"number": 600,
-			"content": "During the construction project period, the construction project owner shall install and fix to the ground a full-height sight-blocking barrier fence and an overflow protection base around the perimeter of the construction site. Fences for Type 1 construction projects shall not be less than 2.4 meters high. Fences for Type 2 construction projects shall not be less than 1.8 meters high. When the fence is located within 10 meters of a street corner or curve, however, a half-height sight-blocking fence may be installed.\r\nWhen the construction project in the foregoing paragraph is a road, tunnel, pipeline or bridge project carried out next to roads that are less than 8 meters in width or for a construction period of less than three months, a continuous simple fence must be installed.\r\nWhen the perimeter of the construction site in the two foregoing paragraphs is located near natural barriers such as mountain slopes, rivers, lakes or other features that can serve as a natural fence, fence installation is not required."
+			"content": "During construction project periods, construction project owners shall install and fix to the ground a full-height sight-blocking barrier fence and an overflow protection base around the perimeter of the construction site. For barrier fence height requirements, please refer to Schedule 2. Within 10 meters of a street corner or curve, a half-height construction fence should be installed.\r\nIf the project refers to a road, tunnel, pipeline or bridge project carried out next to roads that are less than 8 meters in width or for a construction period of less than three months, a continuous simple fence shall be installed.\r\nWhen the perimeter of the construction site in the two foregoing paragraphs is located near natural barriers such as mountain slopes, rivers, lakes or other features that can serve as a natural fence, a fence installation is not required upon approval of the competent authority of the municipality (city) or county."
 		},
 		{
 			"number": 700,
-			"content": "During the construction project period, construction project owners shall use one of the following control facilities to effectively suppress dust when using construction materials, sand, soils or waste generating fugitive dust emissions that are piled at the construction site:\r\nI.      Covering with dust-control fabric.\r\nII.     Covering with dust-control mesh.\r\nIII.    Carrying out regular spraying with chemical stabilizers."
+			"content": "During construction project periods, construction project owners shall use one of the following control measures to effectively suppress dust when handling construction materials, sand, soils or waste piled at the construction site that can generate fugitive dust emissions:\r\nI.       Covering with dust shield\r\nII.      Covering with dust screen\r\nIII.     Carrying out regular spraying with chemical stabilizers"
 		},
 		{
 			"number": 800,
-			"content": "During the construction project period, construction project owners shall use one of the following control facilities to effectively suppress dust on vehicle routes within the construction site:\r\nI.      Paving with steel plates.\r\nII.     Paving with concrete.\r\nIII.    Paving with asphalt concrete.\r\nIV.     Paving with coarse grade mixture or other granular materials with equivalent functions.\r\nThe control facilities in the foregoing paragraph need to cover more than 50 percent of the vehicle route surface area. For Type 1 construction projects, control facilities must cover 80% or more of the vehicle route surface area.\r\nVehicle routes from carwash facilities to major roads shall comply with the regulations of Paragraph 1."
+			"content": "During construction project periods, construction project owners should cover vehicle routes with one of the following control installations to effectively suppress dust raised by vehicles within the construction site:\r\nI.       Steel plates\r\nII.      Concrete\r\nIII.     Asphalt concrete\r\nIV.      Coarse grade mixture or granular materials\r\nThe control installations in the foregoing paragraph shall cover more than 70 percent of the vehicle route surface area. For Type 1 construction projects, control installations shall cover 90 percent or more of the vehicle route surface area.\r\nVehicle routes from carwash facilities to major roads shall comply with the regulations of paragraph 1."
 		},
 		{
 			"number": 900,
-			"content": "During the construction project period, construction project owners shall use one of the following control facilities to effectively suppress dust on exposed areas within the construction site:\r\nI.      Covering with dust-control fabric or a dust-control mesh.\r\nII.     Paving with steel plates, concrete, asphalt concrete, coarse grade mixture or other granular materials with equivalent functions.\r\nIII.    Planting of vegetation.\r\nIV.     Surface compaction in combination with water spraying measures.\r\nV.      Carrying out regular spraying with chemical stabilizers.\r\nVI.     Carrying out regular water spraying.\r\nThe control facilities in the foregoing paragraph must cover more than 50 percent of the exposed surface area. For Type 1 construction projects, control facilities must cover 80% or more of the exposed surface area."
+			"content": "During construction project periods, construction project owners shall use one of the following control measures to effectively suppress dust from exposed areas within the construction site:\r\nI.       Covering with dust shield, a dust-control screen or straw\r\nII.      Paving with steel plates, concrete or asphalt concrete\r\nIII.     Paving with coarse grade mixture or granular materials\r\nIV.      Vegetation greening\r\nV.       Compacting the ground surface, and watering the surface at least twice per day, covering the exposed areas, and recording the water consumption for future reference\r\nVI.      Carrying out regular spraying with chemical stabilizers\r\nVII.     Installing automatic sprinkler equipment dedicated to watering the range covering exposed areas\r\nThe control measures in the foregoing paragraph shall cover more than 70 percent of the exposed surface area. For Type 1 construction projects, control measures shall cover 90 percent or more of the exposed surface area.\r\nThe remaining portions of the exposed areas excluding the control measures referred to in the foregoing paragraph shall be watered periodically, at least twice per day.\r\nThe requirements about periodic watering referred to in the foregoing paragraph shall not apply to construction projects within the areas where the stage-3 and stage-4 policies to stop and restrict water supply are implemented upon authorization of the Ministry of Economic Affairs."
 		},
 		{
 			"number": 1000,
-			"content": "During the construction project period, construction project owners shall install carwash platforms at the entrances and exits for vehicles that transport fugitive dust emission generating construction materials, sand, soils or waste at the construction site. These shall comply with the following regulations:\r\nI.      On all four sides of the carwash platforms, overflow protection bases or other control facilities shall be installed to prevent carwash wastewater from spilling from the construction site.\r\nII.     Installing wastewater collection pits.\r\nIII.    Installing grit chambers for effective grit removal.\r\nWhen the construction projects in the foregoing paragraph have not installed carwash platforms, they may use pressure washer equipment to clean vehicles, while properly treating carwash wastewater.\r\nWhen vehicles leave the construction site carwash facilities outlined in Paragraph 1, the vehicle body and tires shall be effectively washed so that no sludge sticks to their surface."
+			"content": "During construction project periods, construction project owners shall install carwash platforms at the entrances and exits for vehicles that transport potential fugitive dust emission sources, such as construction materials, sand, soils or waste from construction sites. These shall comply with the following regulations:\r\nI.       On all four sides of the carwash platforms, overflow protection bases or other control installations shall be installed to prevent carwash wastewater from spilling from the construction site.\r\nII.      Installing wastewater collection pits\r\nIII.     Installing grit chambers for effective grit removal\r\nWhen the construction projects in the foregoing paragraph do not have carwash platforms installed, they may use pressure washer equipment to clean vehicles, while properly treating carwash wastewater.\r\nWhen vehicles leave the construction site carwash facilities outlined in paragraph 1, the vehicle body and tires shall be effectively washed so that no sludge sticks to their surface and no road color difference is caused to the entry/exit of the construction site and roads extending therefrom.\r\nIn the case of regional development projects or dredging projects, it is necessary to clean frontage roads and install automatic carwash equipment. For the scope and specifications thereof, please refer to Schedule 3."
 		},
 		{
 			"number": 1100,
-			"content": "During the construction project period, construction project owners shall install on the outer side of scaffolding at the construction site dust-control mesh or dust-control fabric that can effectively suppress dust."
+			"content": "During construction project periods, construction project owners shall install on the outer side of scaffolding of structures or on structures at the construction site any of the following control measures that can effectively suppress dust:\r\nI.       Dust screens\r\nII.      Dust shields\r\nIII.     Automatic sprinkler equipment dedicated to watering the space where the structures are located."
 		},
 		{
 			"number": 1200,
-			"content": "During the construction project period, construction project owners shall use one of the following methods to suppress fugitive escape of dust when construction materials, sand, soils or waste that generate fugitive dust emissions are moved from higher floors to the ground floor or underground floors at the construction site:\r\nI.      Elevator shaft\r\nII.     Conveyor lines inside the building\r\nIII.    Concealed line transportation\r\nIV.     Manual conveyance\r\nAt the outlets of the conveyance lines, fences or water spraying equipment that can suppress fugitive escape of dust shall be installed."
+			"content": "During construction project periods, construction project owners shall use one of the following methods to suppress escape of fugitive dust when construction materials, sand, soils or waste that generate fugitive dust emissions are moved from higher floors to the ground floor or underground floors at the construction site:\r\nI.       Moved via the elevator shaft\r\nII.      Moved via conveyor lines inside the building\r\nIII.     Moved via concealed line transportation\r\nIV.      Moved via manual conveyance\r\nAt the outlets of the conveyor lines (shafts) referred to in the subparagraphs 1~3 of the preceding paragraph, fences or water spraying equipment that suppress escape of fugitive dust shall be installed to water the outlets."
 		},
 		{
 			"number": 1300,
-			"content": "During the construction project period, construction project owners shall use one of the following control facilities to effectively suppress fugitive escape of dust when transport vehicles and machinery that transport construction materials, sand, soils or waste that generate fugitive dust emissions enter or exit the construction site:\r\nI.      Employing closed box transport machinery.\r\nII.     Using control facilities that tightly cover the transported materials with dustproof fabric or other non-breathable covers that prevent them from falling to the ground.\r\nThe dustproof fabric or other non-breathable covers in Subparagraph 2 of the foregoing paragraph shall be fastened securely, and their edges shall extend at least 15 centimeters beyond the upper edges of the truck bed."
-		},
-		{
-			"number": 1301,
-			"content": "While a construction project is underway, construction project owners shall ensure that the gasoline and diesel fuel used by the engines of equipment and machinery complies with the Standards for the Composition of Automobile Gasoline and Diesel Fuels."
+			"content": "Vehicles used by construction project owners to transport construction materials, sand, soil or waste that generate fugitive dust emissions during the construction project period shall use closed vehicle compartments, or cover the vehicle compartments with tightly fastened dust-control fabric or dust-control nets, the edges of which shall extend at least 15 cm over the top of the compartments. The vehicle compartments shall be equipped with functions or installations that prevent escape of contaminated water or sludge from the transported materials."
 		},
 		{
 			"number": 1400,
-			"content": "During demolition work for a construction project, construction project owners shall use one of the following control facilities to effectively suppress fugitive dust emissions:\r\nI.      Installing pressurized water spraying facilities.\r\nII.     Draping dust-control fabric around building structures.\r\nIII.    Installing wind screens.\r\nThe construction projects in the foregoing paragraph that are Type 1 projects shall concurrently employ at least the control facilities in Subparagraphs 1 and 2."
+			"content": "During demolition work for construction projects, construction project owners shall use one of the following control measures to effectively suppress fugitive dust emissions:\r\nI.       Installing pressurized water spraying facilities and keeping them spraying water during the demolition work\r\nII.      Draping dust-control fabric around building structures\r\nIII.     Installing blocking facilities at the height of 2.4 meters around the structures\r\nConstruction projects in the foregoing paragraph that are Type 1 projects shall concurrently employ at least the control measures in subparagraphs 1 and 2."
 		},
 		{
 			"number": 1500,
-			"content": "During the construction project period, the construction project owners shall install cyclone separators, bag type dust collectors or other effective dust collection equipment at exhaust shafts or exhaust outlets that emit particulate pollutants."
+			"content": "During construction project periods, construction project owners shall install cyclone separators, bag type dust collectors or other effective dust collection equipment at exhaust shafts or exhaust outlets that emit particulate pollutants."
 		},
 		{
 			"number": 1600,
-			"content": "When a construction project owner is not able to employ air pollution control facilities at the construction site, an alternative control facility may be proposed and used after it has been reported to and approved by the special municipality, county, or city competent authority."
+			"content": "During construction project periods, construction project owners shall keep sprinkling with water to maintain moisture when engaging in any excavation, reclamation, transportation loading/unloading, compaction or screening work that generates fugitive dust emissions, or any operation that may easily cause fugitive dust emissions.\r\nThe requirements referred to in the foregoing paragraph shall not apply to construction projects within areas where stage-3 and stage-4 policies to stop and restrict water supply are implemented, upon authorization of the Ministry of Economic Affairs."
 		},
 		{
 			"number": 1700,
-			"content": "Those that violate Articles 5 to 15 shall be punished pursuant to Article 56 of this Act."
+			"content": "During construction project periods, construction project owners shall install or use one of the following control installations to effectively collect or suppress fugitive dust emissions when engaging in fracturing (crushing), grinding, cutting and scratching work or any other operations that may easily cause fugitive dust emissions:\r\nI.       Installing sectional gas collection systems to collect and process particulate pollutants, and then emit them\r\nII.      Installing pressurized water spraying facilities and keeping them spraying water during any operation"
 		},
 		{
 			"number": 1800,
-			"content": "These Regulations shall take effect on July 1, 2004.\r\nThe revised articles of these Regulations shall, except when taking effect on January 1, 2014, take effect on the date of promulgation."
+			"content": "For construction projects in which the construction scale satisfies any of the following conditions, the construction project owners shall install the monitoring instruments and video surveillance system (to be equipped with at least two camera lenses) for the air pollution control installations according to Schedule 4 and Schedule 5, and record the items according to the frequency referred to in the schedules. The recorded videos and data shall be retained for one month for future reference:\r\nI.       Construction site occupying an area of 10,000 square meters, with a construction period of at least one year.\r\nII.      Removed soil volume (loose volume) exceeding 10,000 cubic meters."
+		},
+		{
+			"number": 1900,
+			"content": "When a construction project owner fails to install or use the air pollution control installations and monitoring installations pursuant to the Regulations, an alternative control installation with equivalent control effects or functions may be proposed and used after it has been reported to and approved by the competent authority of the municipality, county or city."
+		},
+		{
+			"number": 2000,
+			"content": "These Regulations shall take effect on November 1, 2022."
 		}
 	]
 }
