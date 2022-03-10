@@ -3,8 +3,16 @@
 	"英文法規名稱": "Regulations Governing the Clearinghouse’s Plan of Security Measures for Personal Information files",
 	"中文法規名稱": "票據交換所個人資料檔案安全維護計畫標準辦法",
 	"法規網址": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0430010",
-	"最新英文異動日期": "20150626",
-	"沿革內容": "1.Promulgated on November 30, 2012\r\n2.Article 9 amended on June 26, 2015 (effective from June 28,2015)",
+	"最新英文異動日期": "20211223",
+	"附件": [
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Form.pdf"
+			]
+		}
+	],
+	"沿革內容": "1.Promulgated on November 30, 2012\r\n2.Article 9 amended on June 26, 2015 (effective from June 28,2015)\r\n3.Amended on December 23, 2021",
 	"法規內容": [
 		{
 			"編章節": "Chapter I General Provisions"
@@ -19,11 +27,11 @@
 		},
 		{
 			"條號": "Article 3",
-			"條文內容": "The terms used herein denote the following meanings:\r\n1.Personal information management representative: an administrator served by the chairman of the clearinghouse or directly authorized by the chairman, who takes charge of supervising the design, formulation, execution, and revision of the Plan and its relevant decision making.\r\n2.Personal information internal assessor: a supervisor authorized by the chairman of the clearinghouse to take charge of evaluating the performance of the Plan.\r\n3.Relevant staff: employees of the clearinghouse who have to access personal information in the process of business execution, including the fixed-term and non-fixed-term contract employees and dispatched workers of the clearinghouse."
+			"條文內容": "The terms used in the Regulations shall be defined as follows:\r\n1.\"Personal information management representative\" shall mean the president of the clearinghouse or an officer directly authorized by the president, who takes charge of supervising the design, formulation, execution, and revision of the Plan and its relevant decision making.\r\n2.\"Personal information internal assessor representative\" shall mean an officer authorized by the president of the clearinghouse to take charge of supervising internal assessors evaluating the performance of the Plan.\r\n3.\"Relevant staff\" shall mean employees of the clearinghouse who have to access personal information in the process of business execution, including the fixed-term and non-fixed-term contract employees and dispatched workers of the clearinghouse."
 		},
 		{
 			"條號": "Article 4",
-			"條文內容": "The clearinghouse shall organize a task force for security maintenance of personal information files and allocate appropriate resources so as to be responsible for the design, formulation, execution and revision of relevant procedures under the Plan.\r\nThe staffing of the task force for security maintenance of personal information files includes the personal information management representative and internal assessor.\r\nWhen the personal information management representative is served by a person other than the chairman, this representative shall submit a written report about the task execution of the task force mentioned above to the chairman regularly."
+			"條文內容": "The clearinghouse shall organize a task force for security maintenance of personal information files and allocate appropriate resources so as to be responsible for the design, formulation, execution, and revision of relevant procedures under the Plan.\r\nThe staffing of the task force for security maintenance of personal information files includes the personal information management representative and the internal assessor.\r\nWhen the personal information management representative is served by an officer other than the president, this representative shall submit a written report about the task execution of the task force mentioned above to the president regularly."
 		},
 		{
 			"編章節": "Chapter II. General Procedures"
@@ -46,7 +54,7 @@
 		},
 		{
 			"條號": "Article 9",
-			"條文內容": "The clearinghouse shall, in coping with personal information under its possession stolen, altered, damaged, destroyed, leaked, or other incidents, establish relevant procedures for the following actions:\r\n1.Adopting proper contingency plans to reduce or control damages to the Parties caused by the incidents.\r\n2.Investigating the incident clearly and notify the Parties in a timely manner, where the notice shall contain facts of the personal information breached, response measures taken and customer service hotline.\r\n3.Avoiding recurrence of such a similar incident.\r\nWhen the clearinghouse has an incident described in the preceding paragraph, the clearinghouse shall, regardless whether it is during business or non-business hours, notify personnel of the Central Bank of the Republic of China (Taiwan) (referred to as the \"Bank\" hereunder) in charge of accepting reporting by phone, and in addition, report to the Bank in writing the facts of the incident, whether the breached personal information has been illegally utilized, how the interests of the principal have been damaged, and response measures taken."
+			"條文內容": "The clearinghouse shall, in coping with personal information under its possession stolen, tampered, damaged, destroyed, leaked, or other incidents, establish relevant procedures for the following actions:\r\n1. Adopting proper contingency plans to reduce or control damages to the Parties caused by the incidents.\r\n2. Investigating the incident clearly and notifying the Parties in a timely manner. Content of the notification shall include the facts about incidents, measures to resolve incidents, and contact information for the consulting service.\r\n3. Avoiding recurrence of such a similar incident.\r\nWhen the clearinghouse has an incident described in the preceding paragraph, the clearinghouse shall immediately notify personnel of the Central Bank of the Republic of China (Taiwan) (hereafter referred to as \"the Bank\") in charge of accepting reporting by phone, and within 72 hours, send a form to the Bank via electronic mail according to the format of the attached form; in addition, within 7 business days starting from the next day following the day of notification, the clearinghouse shall report to the Bank in writing the facts of the incident, whether the breached personal information has been illegally utilized, how the interests of the principal have been damaged, and response measures taken.\r\nAfter receiving the notification of the clearinghouse, the Bank may, by the authority vested under Articles 22 ~ 25 of the Act, take appropriate supervisory and administrative measures."
 		},
 		{
 			"編章節": "Chapter III. Regulatory Compliance Procedures"
@@ -73,7 +81,7 @@
 		},
 		{
 			"條號": "Article 15",
-			"條文內容": "Prior to carrying out international transmission of personal information, the clearinghouse shall check whether such transmission is restricted by Central Bank of the Republic of China (Taiwan) and comply with the relevant rules."
+			"條文內容": "Prior to carrying out international transmission of personal information, the clearinghouse shall check whether such transmission is restricted by the Bank and comply with the relevant rules."
 		},
 		{
 			"條號": "Article 16",
