@@ -4,7 +4,7 @@
 	"english": "Vehicle License Tax Act",
 	"title": "使用牌照稅法",
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0340095",
-	"englishUpdate": "20171206",
+	"englishUpdate": "20211230",
 	"attachments": [
 		{
 			"name": "檔案名稱",
@@ -71,7 +71,8 @@
 		"Amendment to Article 5 and Tables 4 and 5 of Article 6 promulgated on 4 January 2012 by Presidential Decree No.10000300181.",
 		"Amendment to Article 4,7,28 and 38 promulgated on 18 June 2014 by Presidential Decree No. 10300092701.",
 		"Amendment to Article 5 promulgated on 4 February 2015 by Presidential Decree No. 10400012511.",
-		"Amendments to Article 5 to 7, 9, 11, and 38 promulgated on 6 December 2017 by Presidential Decree No. 10600145141."
+		"Amendments to Article 5 to 7, 9, 11, and 38 promulgated on 6 December 2017 by Presidential Decree No. 10600145141.",
+		"Amendments to Article 5 and 25 promulgated on 30 December 2021 by Presidential Decree No. 11000117711."
 	],
 	"divisions": [
 		{
@@ -114,13 +115,13 @@
 			"number": 600,
 			"title": "Penalty",
 			"start": 2500,
-			"end": 3700
+			"end": 3600
 		},
 		{
 			"type": "chapter",
 			"number": 700,
 			"title": "Supplemental Provisions",
-			"start": 3800,
+			"start": 3700,
 			"end": 3800
 		}
 	],
@@ -143,7 +144,7 @@
 		},
 		{
 			"number": 500,
-			"content": "Vehicle license tax shall be levied based on the type of transportation equipment. Except for motor vehicles which are taxed by their category and grade classified by total cylinder displacement volume or other power-operated vehicles and vessels which are taxed by their tonnage in accordance with Article 6 herein, the tax rates for other transportation equipment shall be set forth by the municipal or county (city) government, approved by the municipal or county (city) council, and reported to the Ministry of Finance for record.\r\nThe municipal or county (city) government is authorized to exempt completely electric-operated vehicles from the vehicle license tax for the following periods of time, and report them to the Ministry of Finance for record.\r\n(1) Completely electric-operated vehicles: from January 6, 2012 to December 31, 2021.\r\n(2) Completely electric-operated motorcycles: from January 1, 2018 to December 31, 2021."
+			"content": "Vehicle license tax shall be levied based on the type of transportation equipment. Except for motor vehicles which are taxed by their category and grade classified by total cylinder displacement volume or other power-operated vehicles and vessels which are taxed by their tonnage in accordance with Article 6 herein, the tax rates for other transportation equipment shall be set forth by the municipal or county (city) government, approved by the municipal or county (city) council, and reported to the Ministry of Finance for record. The municipal or county (city) government is authorized to exempt completely electric-operated vehicles from the vehicle license tax for the following periods of time, and report them to the Ministry of Finance for record. (1) Completely electric-operated vehicles: from January 6, 2012 to December 31, 2025. (2) Completely electric-operated motorcycles: from January 1, 2018 to December 31, 2025."
 		},
 		{
 			"number": 600,
@@ -223,7 +224,7 @@
 		},
 		{
 			"number": 2500,
-			"content": "If the owner or user of a licensed vehicle fails to pay off vehicle license tax before the deadline prescribed in the payment notice, a surcharge of one percent of the amount of tax owed for every two days of default will be imposed. Vehicles with tax payment thirty (30) days or more in arrears will be referred to the court for compulsory enforcement."
+			"content": "A delay penalty shall be imposed on the owner or user of a vehicle who fails to pay their vehicle license tax before the deadline as stated in the payment notice."
 		},
 		{
 			"number": 2600,
