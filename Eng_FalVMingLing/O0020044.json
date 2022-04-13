@@ -1,0 +1,60 @@
+{
+	"pcode": "O0020044",
+	"type": "命令",
+	"english": "Steelmaking Industry Electric Arc Furnace Dioxin Control and Emission Standards",
+	"title": "煉鋼業電弧爐戴奧辛管制及排放標準",
+	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=O0020044",
+	"englishUpdate": "20201223",
+	"attachments": [
+		{
+			"name": "檔案名稱",
+			"children": [
+				"I-TEF (International Toxicity Equivalency Factor).pdf"
+			]
+		}
+	],
+	"history": [
+		"Full text originally promulgated by Environmental Protection Administration order on December 12, 2001",
+		"Article 1 revised and promulgated by Environmental Protection Administration order on October 16, 2002.",
+		"Revisions promulgated by Environmental Protection Administration order on December 23, 2020."
+	],
+	"divisions": [],
+	"articles": [
+		{
+			"number": 100,
+			"content": "These Standards are established pursuant to Article 20, paragraph 2; Article 22, paragraphs 2 and 3; and Article 23, paragraph 2 of the Air Pollution Control Act."
+		},
+		{
+			"number": 200,
+			"content": "Terms and symbols used in these Standards are defined as follows:\r\n1.“Electric Arc Furnace” means an industrial furnace that uses heat produced by an electric arc to melt ore and metal.\r\n2.“Dioxin” means polychlorinated dibenzo-p-dioxins and polychlorinated dibenzofurans.\r\n3.“ng” means nanogram, equivalent to 10-9 grams.\r\n4.“Nm3” means a cubic meter of air at a temperature of 273°K and an atmospheric pressure of 1 bar.\r\n5.“I-TEF” means the International Toxicity Equivalency Factor.\r\n6.“I-TEQ” means International Toxicity Equivalency Quantity of 2,3,7,8-tetrachlorinated dibenzo-p-dioxin."
+		},
+		{
+			"number": 300,
+			"content": "These Standards shall apply to electric arc furnaces used by the steelmaking industry."
+		},
+		{
+			"number": 400,
+			"content": "The limit of dioxin emissions in electric arc furnaces shall be 0.5 ng I-TEQ/Nm3."
+		},
+		{
+			"number": 500,
+			"content": "If the arithmetic mean, based on three samples of dioxin emissions of an electric arc furnace, exceeds the limit stated in the previous article, the dioxin emissions of that electric arc furnace shall be determined to be incompliant with these Standards.\r\nThe interval between the first and third samples described in the previous paragraph shall not exceed one month. Each sample shall cover at least two operating cycles of the electric arc furnace."
+		},
+		{
+			"number": 600,
+			"content": "The intensity of dioxin pollutants emitted from an electric arc furnace shall be calculated based on the volume of dry emissions at a temperature of 273°K and an atmospheric pressure of 1 bar. The measured intensity shall be calculated as the sum of all dioxin pollutants listed in the Table below, after incorporating the relevant I-TEFs, and expressed in I-TEQ."
+		},
+		{
+			"number": 700,
+			"content": "Electric arc furnace smelting processes shall operate according to the following regulations:\r\n1.The exhaust temperature at the inlet of the dust collector of the electric arc furnace shall be maintained below 200°C. The inlet of the dust collector of the electric arc furnace shall be equipped with monitoring devices that can display the real-time temperature at the inlet.\r\n2.When injecting activated carbon to reduce dioxin emissions, the volume of activated carbon injected shall be recorded on an hourly basis. The volume of activated carbon injected during the normal operation of an electric arc furnace shall not be lower than the average hourly injection volume of activated carbon of the same specifications used during the most recent sampling and analysis results meeting the limit of dioxin emissions stated in Article 4. If during operation, the specifications of activated carbon are changed, or injection volume is reduced, another dioxin sampling and analysis shall be performed to determine the lower limit of the injection volume of activated carbon."
+		},
+		{
+			"number": 800,
+			"content": "The intensity of dioxins emitted from the electric arc furnaces used in the steelmaking industry shall be measured pursuant to the following regulations:\r\n1.Regular sampling and analysis pursuant to Article 5 shall be performed at least once a year.\r\n2.A sampling and analysis plan shall be submitted to the competent authorities of municipalities, counties (cities) seven days before a regular sampling and analysis. Suppose the intensity of dioxin emissions is below the limit stated in Article 4 in two consecutive regular sampling and analysis. In that case, steelmaking businesses may apply for a sampling and analysis frequency adjustment, by taking related supporting documents to the competent authorities of the relevant municipalities, counties (cities). The adjusted frequency shall not be lower than once every two years. However, if the intensity of dioxin emissions is found to exceed the said limit specified in Article 4 in any audit done by the competent authorities of municipalities, counties (cities), or by any regular sampling and analysis, the sampling and analysis frequency stated in the foregoing subparagraph shall be resumed.\r\n3.The results of each sampling and analysis shall be submitted to the competent authorities of municipalities, counties (cities) in a sampling and analysis report within 60 days after the sampling and analysis."
+		},
+		{
+			"number": 900,
+			"content": "These Standards shall be implemented as of the date of promulgation."
+		}
+	]
+}

@@ -1,0 +1,91 @@
+{
+	"pcode": "O0020010",
+	"type": "命令",
+	"english": "Waste Incinerator Air Pollutant Emissions Standards",
+	"title": "廢棄物焚化爐空氣污染物排放標準",
+	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=O0020010",
+	"englishUpdate": "20061225",
+	"attachments": [
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Table 1 Waste Incinerator Air Pollutant Emissions Standards.pdf"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Table 2 Waste Incinerator Heavy Metal Air Pollutant Emissions Standards.pdf"
+			]
+		}
+	],
+	"history": [
+		"Original 14 articles promulgated by Environmental Protection Administration order on November 30, 1992; ",
+		"revisions to Article 3",
+		"promulgated on August 6, 1997; revisions to Articles 1, 11, and 13 promulgated on April 7, 1999",
+		"Revisions to Article 8, Tables 1 and 2, Article 10, the deletion of Article 9, and the addition of Artilce 12-1 promulgated on December 25, 2006."
+	],
+	"divisions": [],
+	"articles": [
+		{
+			"number": 100,
+			"content": "These Standards are determined pursuant to Article 20, Paragraph 2 of the Air Pollution Control Act."
+		},
+		{
+			"number": 200,
+			"content": "Terms and Symbols used in these Standards are defined as follows\r\nI. “mg” means 1 milligram, equal to 0.001 grams.\r\nII. “Nm3” means a cubic meter at a temperature of 273 K and a pressure of 1 atmosphere.\r\nIII. “ppm” means parts per million.\r\nIV. “C” means pollutant concentration corrected to Standard Oxygen Basis, measured in ng-TEQ/Nm3 ppm or mg/Nm3.\r\nV. “Q” means emission quantity corrected to Basic Oxygen Standard, measured in Nm3/min.\r\nVI. “Cs” means the measured pollutant concentration based on test method, not corrected to Standard Oxygen Basis, measured in ng-TEQ/Nm3 ppm or mg/Nm3.\r\nVII. “Os” means the actual measured oxygen concentration in emissions.\r\nVIII. “E” means the actual oxygen concentration of oxygen-enriched gases imported into incinerator.\r\nIX. “Variable one-hour average” means the average of continuously fluctuating values during a single hour."
+		},
+		{
+			"number": 300,
+			"content": "For matters not provided in these Standards, the regulations of other relevant standards shall apply; however, Waste Incinerator Dioxin Control and Emission Standards shall be determined separately."
+		},
+		{
+			"number": 400,
+			"content": "These Standards shall apply to stack emissions from general waste and industrial waste incinerators."
+		},
+		{
+			"number": 500,
+			"content": "Should there be particular other emission regulations for air pollutants from industrial waste incinerators such as in the Methods and Facilities Standards for the Storage, Clearance and Disposal of Industrial Waste, the more stringent regulations shall apply."
+		},
+		{
+			"number": 600,
+			"content": "In these Standards, the definitions of “general waste” and “industrial waste” are based on relevant regulations of the Waste Disposal Act. Pollutants produced by industrial units may be controlled in accordance with the General Waste Incinerator Emission Standards if the competent authority has authorized their disposal in a general waste incinerator."
+		},
+		{
+			"number": 700,
+			"content": "“Handling capacity”, as refrerred to in these Standards, means the maximum weight of waste fed into the said incinerator per hour (regardless of whether wet or dry)."
+		},
+		{
+			"number": 800,
+			"content": "For values determined by these Standards view Table 1 and Table 2"
+		},
+		{
+			"number": 900,
+			"content": "(deleted)"
+		},
+		{
+			"number": 1000,
+			"content": "The concentrations of all types of pollutants in stack emissions shall be calculated based on non-diluted dry emission volumes at a temperature of 273K and a pressure of 1 atmosphere. A 11% oxygen concentration shall serve as the reference standard. The correction formula is as follows:\r\n    21-11\r\nC = ───* Cs\r\n    21- Os\r\n\r\nWhen the oxygen concentration of air introduced into an oxygen-enriched combustion system exceeds 21%, an oxygen concentration of 11% shall serve as the reference standard for emissions gases.\r\nThe correction formula is as follows:\r\n    E-11\r\nC = ───* Cs\r\n    E- Os\r\n\r\nIf the values in the foregoing two paragraphs (21-Os) or (E-Os) are less than 1, they shall be calculated as 1."
+		},
+		{
+			"number": 1100,
+			"content": "In these Standards, “existing incinerator” means:\r\nI. Construction was completed before December 2, 1992; and documentary proof thereof can be provided.\r\nII. Construction has been under way, project tender procedures were completed, or if no tenders were invited, project contracts were issued and signed before December 2, 1992. Moreover, such documentary proof was already submitted to the competent authority before March 1, 1993 in applying for verification and approval.\r\nIncinerators not meeting the conditions of two foregoing paragraphs shall be considered newly installed incinerators."
+		},
+		{
+			"number": 1200,
+			"content": "The local competent authority may, based on the particular needs of the local area, separately determine more stringent emission standards and submit such to the central competent authority for approval and official announcement."
+		},
+		{
+			"number": 1201,
+			"content": "A stationary pollution source that uses regular or industrial waste as fuel or auxiliary fuel shall use such fuel in accordance with the usage quantities permitted by the local competent authority and the regulations in Article 8, Table 2 shall apply."
+		},
+		{
+			"number": 1300,
+			"content": "Deleted"
+		},
+		{
+			"number": 1400,
+			"content": "These Standards shall take effect on the date of enforcement except for articles whose enforcement date has been set separately."
+		}
+	]
+}

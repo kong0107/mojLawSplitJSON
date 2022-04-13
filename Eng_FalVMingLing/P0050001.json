@@ -1,0 +1,353 @@
+{
+	"pcode": "P0050001",
+	"type": "法律",
+	"english": "Radio and Television Act",
+	"title": "廣播電視法",
+	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=P0050001",
+	"englishUpdate": "20180613",
+	"history": [
+		" 51 Articles promulgated in full by the President Order on Jan. 8, 1976.",
+		" The amendment of Articles 2 to 4, 33 and 42 to 44 ,and addition of Articles 14-1,29-1,45-1and 45-2 promulgated by the Presidential Order on June 7, 1982. Ref：(71) Tai-Tong- (1)-Yi Tze No. 3311",
+		" The annulment of Article 20 promulgated by the Presidential Order on Aug. 2, 1993. Ref：Hua-Zong-(1)-Yi No.3757",
+		" The amendment of Article 44 promulgated by the Presidential Order on April 21, 1999. Ref：Hua-Zong-(1)-Yi No. 8800084080",
+		" The amendment of Articles 10, 12, 32, 42 and 43, and addition of Articles 10-1, 10-2, 12-1, 12-2, 26-1, 44-1 and 50-1 promulgated by the Presidential Order on Jan. 22, 2003. Ref：Hua-Zong-(1)-Yi No. 09200007600",
+		" The amendment of Articles1,3to6, 8 to 11, 13,14,17 to 19, 25 to 29, 29-1,30,31,33,37,40,41,44 and 50, and addition of Articles 5-1 and 5-2 promulgated by the Presidential Order on Dec.24, 2003. Ref：Hua-Zong-(1)-Yi No. 09200239031",
+		" The amendment of Article 12 promulgated by the Presidential Order on June 14, 2006. Ref：Hua-Zong-(1)-Yi No. 09500087071",
+		" Article 10, 10-1, 12 and 50-1 were modified, Article 45-3 was added and Article 10-2 was deleted on 29 June 2011 by Order Hua-Zong-1-Yi No.10000135301. For the authority and responsibility of competent authority of radio and television program supply business under Government Information Office, Executive Yuan in the Paragraph 2, Article 3 and Paragraph 1, Article 50 of Executive Yuan Announcement Yuan-Tai-Gui-Zi-Di No. 1010131134 on 15 May 2012, they shall be governed by Ministry of Culture since 20 May 2012. For the authority and responsibility under Government Information Office, Executive Yuan in the Paragraph 2, Article 45, they shall be governed by National Communications Commission after established on 22 February 2006.",
+		" Article 1 to 3, 5, 5-1, 13, 16, 19, 21, 33, 34, 36, 43, 44, 45, 45-1, 45-3, and 50 were modified, Article 34-1 to 34-3 and 44-2 were added and Article 5-2, 6, 29-1, 45-2 and 49 were deleted on 6 January 2016 by Order Hua-Zong-1-Yi No.10400154541.",
+		"The amendment of Article 50-2 promulgated by the Presidential Order on June 13, 20018. Ref：Hua-Zong-(1)-Yi No. 10700062341"
+	],
+	"divisions": [
+		{
+			"type": "chapter",
+			"number": 100,
+			"title": "General Provisions",
+			"start": 100,
+			"end": 700
+		},
+		{
+			"type": "chapter",
+			"number": 200,
+			"title": "Station Establishment",
+			"start": 800,
+			"end": 1500
+		},
+		{
+			"type": "chapter",
+			"number": 300,
+			"title": "Program Regulation",
+			"start": 1600,
+			"end": 2901
+		},
+		{
+			"type": "chapter",
+			"number": 400,
+			"title": "Advertising Regulation",
+			"start": 3000,
+			"end": 3500
+		},
+		{
+			"type": "chapter",
+			"number": 500,
+			"title": "Rewards and Guidance",
+			"start": 3600,
+			"end": 4000
+		},
+		{
+			"type": "chapter",
+			"number": 600,
+			"title": "Penal Provisions",
+			"start": 4100,
+			"end": 4900
+		},
+		{
+			"type": "chapter",
+			"number": 700,
+			"title": "Supplementary Provisions",
+			"start": 5000,
+			"end": 5100
+		}
+	],
+	"articles": [
+		{
+			"number": 100,
+			"content": "This Act is enacted to promote the healthy development of radio/television businesses; ensure media professionalism and independence; protect the audiovisual rights and interests of the public; enhance public benefits, interests, and welfare; and maintain the audiovisual diversity."
+		},
+		{
+			"number": 200,
+			"content": "The terms used in this Act shall be defined as follows:\r\n1. Radio: Refers to the wireless transmission of sound for direct listening by the public.\r\n2. Television: Refers to the wireless transmission of video for direct listening or viewing by the public.\r\n3. Radio/television stations: Refer to legally approved and established radio/television stations (hereinafter referred to as stations).\r\n4. Radio/television businesses: Refer to businesses that operate radio/television stations.\r\n5. Frequencies: Refer to frequencies used for wireless electric wave transmissions by wireless radio/television stations.\r\n6. Programs: Refer to the content of a scheduled independent unit composed by a series of images, sounds and relevant words.\r\n7. Advertisements: Refer to images, sounds and relevant words broadcasted by an enterprise, agency (institution) group or person for the purpose of marketing or propagating product, concept, service or image.\r\n8. Sponsorships: Refer to monetary or non-monetary payment offered by an enterprise, agency (institution) group or person for the purpose of promoting specific name, brand, image, activity or product under the circumstances of not affecting the content or independency of editing or producing the program.\r\n9. Placement marketing: Refers to the behavior of presenting specific concept, product, brand, service or relevant information and characteristics in a program based on the compensable or quid pro quo relation with an enterprise, agency (institution), group or person for the purpose of marketing or propagation."
+		},
+		{
+			"number": 300,
+			"content": "The regulatory agency of this Act is National Communications Commission."
+		},
+		{
+			"number": 400,
+			"content": "The frequencies used by radio/television businesses are owned by the state and their allocation shall be planned by the MOTC in conjunction with the regulatory agency.\r\nThe frequencies mentioned in the preceding paragraph may not be leased, loaned, or transferred."
+		},
+		{
+			"number": 500,
+			"content": "Those established for specific purposes by the government in the name of the government are publicly operated radio/television businesses, whereas those established by companies limited by shares or by foundations, which are formed by ROC citizens, are privately operated radio/television businesses.\r\nThe minimum paid-in capital and total endowment assets of a radio/television business shall be prescribed by the regulatory agency.\r\nThose without ROC nationality may not be promoters, shareholders, directors, or supervisors of a radio/television business."
+		},
+		{
+			"number": 501,
+			"content": "The government and political parties, as well as foundations established with endowments provided by them, and those commissioned by them, may not directly or indirectly invest in privately operated radio/television businesses.\r\nUnless otherwise provided by law, the government and political parties may not provide endowments for the establishment of a privately operated radio/television business.\r\nExisting situations for the government, political parties, and foundations established with their endowments, and those commissioned by them, that do not meet the provisions of the preceding two paragraphs prior to the implementation of the revision of this Act, shall be corrected within two years of the implementation of the revision of this Act.\r\nPolitical party workers, political appointees, and elected public officials may not invest in radio/television businesses. Total shareholdings by their spouses, relatives by blood within the second degree of relationship, and lineal relatives by marriage, may not hold more than 1 percent of the issued shares of a radio/television business.\r\nRadio/television businesses that have existing situations that do not meet the provisions of the preceding paragraph prior to the implementation of the revision of this Act shall have them corrected within two years of the implementation of the revision of this Act.\r\nThe government, political parties, political party workers, and elected public officials may not be promoters, directors, supervisors, or managers of a radio/ television business.\r\nRadio/television businesses that have existing situations that do not meet the provisions of the preceding paragraph prior to the implementation of the revision of this Act shall have the related personnel discharged of their duties within six months of the implementation of the revision of this Act.\r\nThe scope of political party workers, political appointees, and elected public officials mentioned in the preceding article shall be defined in the Enforcement Rules of this Act."
+		},
+		{
+			"number": 502,
+			"content": "(Delete)"
+		},
+		{
+			"number": 600,
+			"content": "(Delete)"
+		},
+		{
+			"number": 700,
+			"content": "In the event of a natural disaster or emergency, the regulatory agency may notify stations to suspend transmissions, broadcast specific programs, or take other necessary measures to safeguard public security and well-being."
+		},
+		{
+			"number": 800,
+			"content": "The distribution of stations shall be made in accordance with frequency allocation and shall be as balanced and widespread as possible. The number and location of stations shall be prescribed by the regulatory agency in conjunction with the MOTC."
+		},
+		{
+			"number": 900,
+			"content": "Appropriate frequencies shall be reserved to publicize national policies, meet educational needs, raise the cultural standard, broadcast terrestrial educational programs, and conduct international broadcast. Such frequencies shall be prescribed by the regulatory agency and the MOTC in conjunction with other pertinent agencies."
+		},
+		{
+			"number": 1000,
+			"content": "For operation, a radio/television business shall file an application for approval; if approved, a station operating license shall be issued by the regulatory agency.\r\nConcerning the approval of a radio/television business, the regulatory agency may adopt an assessment system, an auction system, an open bidding system, or other appropriate methods in consideration of the purpose of establishment, opening targets, market conditions, consumer rights, and other public interests.\r\nThe service area, number of licenses, licensing means, and other related matters concerning the radio/television business opening shall be announced by the regulatory agency.\r\nTo operate a radio/television business, an applicant shall complete and submit an application form, along with an operating plan and the required documents, to the regulatory agency. An approved business or the winning bidder shall be issued with an establishment permit by the regulatory agency.\r\nThe operating plan in the preceding Paragraph shall explicitly include the following items:\r\n1. The overall plan;\r\n2. The personnel structure and administrative organization;\r\n3. The business plan and operating schedule planning;\r\n4. Program planning, internal process control, and advertising fees and charges;\r\n5. Financial structure;\r\n6. The charges basis and its calculation method under charges;\r\n7. Plan for personnel education and training;\r\n8. Profile of equipment and plan for construction;\r\n9. Other items specified by the regulatory agency.\r\nShould an applicant’s documents or their contents be deemed incomplete, the regulatory agency shall notify the applicant to submit the necessary corrections or supplements within a prescribed period of time. If it fails to do so by the given time, the application shall be rejected.\r\nThe regulatory agency shall require the applicant to pay a performance bond. If the applicant fails to set up or finish the establishment according to the approved operating plan, the regulatory agency shall not refund all or some of the performance bond, and may revoke the granted establishment permit.\r\nThe qualifications and procedures, the application and the details of operating plan, the procuring of establishment permit and license, the paying method and refund condition of performance bond and other matters required, concerning the approval of a radio/television business, shall be prescribed by the regulatory agency."
+		},
+		{
+			"number": 1001,
+			"content": "An applicant that has acquired an establishment permit shall apply to the regulatory agency for station installation within six months of acquiring the permit, in accordance with Article 46 of the Telecommunication Act. After completion of the installation, the applicant shall apply for a station license for each installed station and, within six months of acquiring the station license, shall apply for a radio/television station operating license.\r\nShould the radio/television business wish to alter the approved operating plan, an application shall be submitted to the regulatory agency for approval.\r\nShould there be a sub-station installation in the approved service area, a radio/television business shall file an application for changing the operating plan to the regulatory agency."
+		},
+		{
+			"number": 1002,
+			"content": "（Repealed）"
+		},
+		{
+			"number": 1100,
+			"content": "Regulations governing the installation of boosters, converters, and community antennas shall be prescribed by the regulatory agency in conjunction with the MOTC."
+		},
+		{
+			"number": 1200,
+			"content": "A radio/television station operating license shall be valid for nine years.\r\nBefore expiration of the license in the preceding Paragraph, an application shall be filed for license renewal in accordance with the notice of the regulatory agency. The qualifications, procedures and complying matters concerning the renewal shall be prescribed by the regulatory agency.\r\nThe application according to the preceding Paragraph, shall be filed within one year before the expiration.\r\nShould the documents submitted with the application for radio/television station operating license renewal be found by the regulatory agency during its review to be incomplete, the radio/television business shall be notified in writing to submit the necessary corrections or supplements within a prescribed period of time. If it fails to do so by the given time, the application shall be rejected.\r\nThe application forms and accompanying documents for the radio/television station operating license renewal shall be prescribed by the regulatory agency.\r\nOnce every three years, the regulatory agency shall assess the execution report of the operation plan submitted by the radio/television business.\r\nShould the assessment results mentioned in the preceding Paragraph reveal that a radio/television business has failed to live up to the operating plan and therefore needs to be corrected, the regulatory agency shall notify the said business to make corrections within a specified period of time. In the event that required corrections are not made, the regulatory agency shall revoke the permit and cancel the radio/television station operating license."
+		},
+		{
+			"number": 1201,
+			"content": "When reviewing applications for the renewal of a radio/television station operating license, the regulatory agency shall consider the following items:\r\nThe implementation of the operating plan, the frequency utilization evaluation report, and future operating plan;\r\nFinancial status;\r\nWhether the location of the transmitters and antennas conform with the prescribed approval;\r\nWhether operations meet the needs of selected ethnic group(s) or serve the needs of the people in the serviced area; and\r\nRecord of rewards and punishments received under this Act and items that could influence the station’s operations.\r\nShould the regulatory agency find, in its review, unsound business operations that require improvements, it shall notify the station in writing to complete the improvements within a prescribed period of time. If improvements are not made by the prescribed deadline or are ineffective, the application shall be rejected.\r\nDuring the period of improvement under the preceding paragraph, the regulatory agency may issue a three-month temporary operating license only once."
+		},
+		{
+			"number": 1202,
+			"content": "When a radio/television station operating license is damaged or its contents are altered, an application shall be filed with the regulatory agency for a replacement operating license within 15 days of the damage or alteration. In the event of loss, a notice declaring the license void shall be placed in a newspaper and an application for a replacement license shall be filed within 15 days.\r\nThe period of validity for a replacement or modified radio/television station operating license issued in accordance with the preceding paragraph shall be the same as that of the original operating license."
+		},
+		{
+			"number": 1300,
+			"content": "The organization of a radio/television business, and the qualifications of the responsible person shall meet the requirements of the regulatory agency."
+		},
+		{
+			"number": 1400,
+			"content": "The radio/television businesses shall have permission from the regulatory agency for broadcast suspension, stock transfer, and change of names or responsible persons.\r\nExcept if caused by force majeure, the broadcast suspensions mentioned in the preceding paragraph shall not exceed three months; otherwise, the allocated frequencies shall be withdrawn by the MOTC."
+		},
+		{
+			"number": 1401,
+			"content": "Radio/television businesses shall allocate a portion of their profits to a fund for raising the standards of radio/television businesses and developing a public television station. The mode and criteria of collection, as well as the management and use of the fund, shall be prescribed by law."
+		},
+		{
+			"number": 1500,
+			"content": "The facility standards of stations and the qualifications of the engineering personnel of radio/television businesses shall meet the requirements of the MOTC."
+		},
+		{
+			"number": 1600,
+			"content": "Radio/television programs are classified into the following four categories:\r\n1. News and publicity of government policies and orders\r\n2. Education and culture\r\n3. Public service\r\n4. Entertainment"
+		},
+		{
+			"number": 1700,
+			"content": "Programming under Subparagraphs 1 through 3 of the preceding article may account for no less than 45 percent of the total weekly broadcasting time of radio stations, or 50 percent of the total weekly broadcasting time of television stations.\r\nEntertainment programs shall make the dissemination of Chinese culture and the promotion of ethics, democracy, science, and education as their standard.\r\nThe standards of the contents and airtime allocation for these programs shall be prescribed by the regulatory agency."
+		},
+		{
+			"number": 1800,
+			"content": "The allocation of programming for stations with special missions or of a specialized nature shall be prescribed by the regulatory agency in conjunction with other relevant agencies."
+		},
+		{
+			"number": 1900,
+			"content": "Locally produced programs shall not be less than 70 percent of the total radio/television programs; among them, locally produced drama programs that are broadcasted in the main time slot shall not be less than 50 percent of the programs with the same category.\r\nForeign-language programs shall carry Chinese subtitles or broadcast with Mandarin narration. If necessary, the regulatory agency may instruct that the programs be dubbed in Chinese\r\nThe identification, category and main time slot of locally produced program as well as other relevant and to-be-followed details shall be regulated by the regulatory agency."
+		},
+		{
+			"number": 2000,
+			"content": "(Deleted)"
+		},
+		{
+			"number": 2100,
+			"content": "The contents of radio/television programs shall not:\r\n1. Violate compulsory or prohibitive regulations under the law;\r\n2. Impair the physical or mental health of children or juveniles; or\r\n3. Disrupt public order or adversely affect good social customs."
+		},
+		{
+			"number": 2200,
+			"content": "Radio/television programs shall not comment on legal cases under investigation or trial, judicial personnel handling the cases, or the parties involved; nor shall they carry the debate of lawsuits that are prohibited from being open to the public."
+		},
+		{
+			"number": 2300,
+			"content": "If an involved party considers a station’s report to be erroneous, the said party may request a correction within 15 days of its broadcast. The station shall make the correction in the same program or in another program in the same time slot within seven days of receiving the request. If the station considers that there is no error in the report, it shall make a written response to the said party.\r\nIf the erroneous report of the preceding paragraph causes actual impairment to the rights and interests of the involved party, the station, its responsible person, and related personnel shall be liable to civil or criminal charges."
+		},
+		{
+			"number": 2400,
+			"content": "If radio/television commentaries involve other people or agencies or organizations to the extent of impairing their rights and interests, the stations concerned shall not reject requests by the involved parties for an equal opportunity for defense."
+		},
+		{
+			"number": 2500,
+			"content": "All programming other than news programs broadcast by stations may be subjected to screening by the regulatory agency. The screening regulations shall be prescribed by the regulatory agency."
+		},
+		{
+			"number": 2600,
+			"content": "The regulatory agency may designate publicly and privately operated stations to make joint or separate broadcast of news programs as well as programs for publicizing government policies and orders."
+		},
+		{
+			"number": 2601,
+			"content": "The regulatory agency shall classify television programs according to their contents and impose age restrictions and conditions for program viewing. The classification regulations shall be prescribed by the regulatory agency. Television businesses shall broadcast programs according to the said regulations.\r\nThe regulatory agency may designate time slots for the broadcast of specific programs."
+		},
+		{
+			"number": 2700,
+			"content": "Stations shall submit their program schedules to the regulatory agency for advanced approval. This shall also apply to alterations in the program schedules."
+		},
+		{
+			"number": 2800,
+			"content": "Any kind of programs for use by stations shall be imported or exported with permission from the regulatory agency."
+		},
+		{
+			"number": 2900,
+			"content": "Before a station uses international communications relay facilities to broadcast a foreign program or to broadcast a domestic program abroad, it shall obtain approval from the regulatory agency."
+		},
+		{
+			"number": 2901,
+			"content": "(Delete)"
+		},
+		{
+			"number": 3000,
+			"content": "Privately operated commercial stations may broadcast advertising. No other station may make similar broadcasts without the permission of the regulatory agency."
+		},
+		{
+			"number": 3100,
+			"content": "The advertisement broadcast by a station shall not exceed 15 percent of its total broadcast time.\r\nThe forms and contents of news programs and programs for publicizing government policies and orders to be broadcast shall not be provided by businesses contracted to broadcast advertisements.\r\nAdvertisements shall be broadcast before or after a program, and shall not be inserted in a program. However, advertisements may be inserted once or twice in programs that are over 30 minutes long.\r\nThe method of advertisement broadcasting and the number of advertisements allotted for each time slot shall be prescribed by the regulatory agency."
+		},
+		{
+			"number": 3200,
+			"content": "Article 21 and Paragraph 2 of Article 26-1 shall apply mutatis mutandis to advertisements."
+		},
+		{
+			"number": 3300,
+			"content": "Programs broadcasted by the station shall be readily recognized and be distinguished with inserted advertisement. However, this shall not apply to what is provided for in this Act."
+		},
+		{
+			"number": 3400,
+			"content": "Radio/television businesses shall acquire certificates issued by the central industry competent authorities prior to the broadcast of advertisements approved by the central industry competent authorities."
+		},
+		{
+			"number": 3401,
+			"content": "Radio/television businesses may not broadcast programs, short films, or advertisements funded or produced by the government in which election candidates participate. The same applies to programs, short films, and advertisements with election candidates as the theme and which are funded or produced by the government."
+		},
+		{
+			"number": 3402,
+			"content": "Upon acceptance of sponsorship, stations shall reveal the sponsor information before and after the broadcast of the program. The sponsor information can also appear in programs of sporting events or cultural/artistic activities under the premise of not affecting the benefits and rights of the viewers."
+		},
+		{
+			"number": 3403,
+			"content": "The duration of placement marketing and displaying the sponsor information shall not be counted in the duration of advertisements.\r\nThe category of placement marketing programs; identification of news/report, children, sporting event and cultural/artistic activity programs; readily recognition and distinction of programs and inserted advertisements; methods of the placement marketing and sponsor information being applied or revealed; and restrictions and other to-be-followed details shall all be regulated by the regulatory agency."
+		},
+		{
+			"number": 3500,
+			"content": "The responsible persons or other staff members of stations shall not entrust all or part of the stations’ facilities to advertisers for direct use."
+		},
+		{
+			"number": 3600,
+			"content": "Radio/television businesses shall be rewarded for any one of the following:\r\n1. Outstanding achievements in publicizing national policies or disseminating Chinese culture\r\n2. Achievements in safeguarding national or social security\r\n3. Significant contributions to cultural exchange through international communications\r\n4. Outstanding achievements in promoting social education or public service\r\n5. Winning trophies or honors in national or international contests\r\n6. Outstanding achievements in operating radio/television businesses in remote, poor, or special areas\r\n7. Significant contributions to the radio/television sciences or innovations in radio/television technology\r\nThe provisions on rewards in the preceding paragraph shall apply mutatis mutandis to responsible persons and staff members of radio/television businesses."
+		},
+		{
+			"number": 3700,
+			"content": "Unless provided for by other laws and handled according to their provisions, the rewards of the preceding article shall be approved and given by the regulatory agency in the form of medals, citations, or prize money."
+		},
+		{
+			"number": 3800,
+			"content": "The agencies concerned shall give convenience to stations in the gathering of news or information related to their operations."
+		},
+		{
+			"number": 3900,
+			"content": "When stations commission or use state-run communications businesses or agencies to transmit news or electric signals, their requests may be prioritized according to needs."
+		},
+		{
+			"number": 4000,
+			"content": "To serve the national interest, the regulatory agency may send written requests to local construction regulatory agencies to restrict, in conjunction with the Ministry of the Interior and the MOTC and after receiving approval from the Executive Yuan, construction in areas around stations’ transmitter antenna."
+		},
+		{
+			"number": 4100,
+			"content": "For radio/television businesses that violate the provisions of this Act, the regulatory agency may give the following penalties according to the seriousness of their violations:\r\nWarning\r\nFine\r\nBroadcast suspension\r\nLicense revocation"
+		},
+		{
+			"number": 4200,
+			"content": "A warning shall be issued to radio/television businesses in the event of one of the following:\r\nViolation of Paragraph 2 of Article 10-1, Paragraph 1 of Article 12-2, Articles 13 through 15, Article 17, Article 19, Article 20, or Article 31\r\nViolation of Paragraph 1 of Article 23, Article 24, Article 25, or Paragraph 1 of Article 33\r\nViolation of the classification regulations prescribed according to Paragraph 1 of Article 26-1"
+		},
+		{
+			"number": 4300,
+			"content": "Television businesses shall be fined from NT$200,000 up to NT$2,000,000, and radio businesses shall be fined from NT$9,000 up to NT$90,000 in the event of one of the following:\r\n1. Failure to make corrections after receiving a warning, or repeated violation of the preceding article within one year;\r\n2. The broadcast of a program or advertisement that violates any one of the Subparagraph 2, 3 of Article 21, or Article 32 where Subparagraph 2, 3 of Article 21 apply;\r\n3. Violation of Article 22, Articles 27 through 29, or Article 34 or Article 34-2;\r\n4. Serious violation of Article 33;\r\n5. Violation of readily recognition and distinction of programs and inserted advertisements; methods of the placement marketing and sponsor information being applied / revealed; and restrictions and other to-be-followed details as stated in Paragraph 2 of Article 34-3.\r\n6. Failure to broadcast programs or advertisements in time slots designated according to Paragraph 2 of Article 26-1 or Article 32 where Paragraph 2 of Article 26-1 applies\r\nRadio/television businesses that are penalized for broadcasting programs or advertisements in violation of the preceding paragraph may be subjected to broadcast suspension of the said programs or advertisements."
+		},
+		{
+			"number": 4400,
+			"content": "Television businesses shall be fined from NT$400,000 up to NT$2,000,000, radio businesses shall be fined from NT$90,000 up to NT$1,200,000, and the said businesses may be subjected to broadcast suspension from three days up to three months in the event of one of the following:\r\n1. Violation of Article 42 or Article 43 after being penalized twice within one year\r\n2. Broadcast of programs or advertisements that violate Subparagraph 1 of Article 21\r\n3. Broadcast of programs or advertisements that violate Subparagraph 2 or 3 of Article 21\r\n4. Unauthorized broadcast of advertisements in violation of Article 30\r\n5. Violation of Article 35\r\nRadio/television businesses shall be fined from NT$400,000 up to NT$2,000,000 and notified to make corrections by a prescribed deadline for violation of Paragraph 3 of Article 5 or Article 5-1. The fine may be imposed consecutively for failure to make corrections by the prescribed deadline."
+		},
+		{
+			"number": 4401,
+			"content": "Those that have received permission to establish radio/television businesses may have the said permits annulled by the regulatory agency in the event of one of the following:\r\nSerious violation of Paragraph 2 of Article 10-1\r\nFailure to apply for a station installation permit within six months of obtaining the establishment permit, obtain a station license within the period of validity of the station installation permit, or apply for a radio/television operating license within six months of obtaining the station license\r\nRejection of the application for a radio/television operating license by the regulatory agency\r\nChange in the share subscriptions by promoters aggregating over 50 percent of the paid-in capital specified in the application for establishment\r\nTotal assets donations received or paid-in capital is lower than specified in the application for radio/television station establishment"
+		},
+		{
+			"number": 4402,
+			"content": "Privately operated radio/television businesses shall be fined from NT$200,000 up to NT$2,000,000 and notified to make corrections by prescribed deadline in the event of one of the following. The fine may be imposed consecutively for failure to make corrections by the prescribed deadline:\r\n1. Violation of the minimum paid-in capital and total endowment assets prescribed by the regulatory agency as stated in Paragraph 2 of Article 5.\r\n2. Violation of Paragraph 1 through 3 of Article 5-1\r\nRadio/television businesses shall be fined from NT$200,000 up to NT$2,000,000 and notified to make corrections by a prescribed deadline for violation of Paragraph 6 or 7 of Article 5-1. The fine may be imposed consecutively for failure to make corrections by the prescribed deadline."
+		},
+		{
+			"number": 4500,
+			"content": "Radio/television businesses shall have their radio/television operating licenses revoked in the event of one of the following:\r\n1. Receiving a guilty verdict for broadcasting programs or advertisements that commit or incite others to commit the offense of sedition or treason\r\n2. Broadcast of programs or advertisements that seriously violates Paragraph 1 of Article 21\r\n3. Violation of Paragraph 2 of Article 4\r\n4. Violation of regulations prescribed by the regulatory agency in accordance with Article 7 or Article 26\r\n5. Unauthorized broadcast of programs or advertisements during the period of broadcast suspension\r\n6. Violation of this Act within one year of having been subject to broadcast suspension twice\r\nRegarding the event stated in Subparagraph 1 of preceding paragraph, the regulatory agency may suspend broadcast operations before the final judgment."
+		},
+		{
+			"number": 4501,
+			"content": "Those that illegally install stations, relay stations, or other broadcast systems shall be fined from NT$1,000,000 up to NT$10,000,000, and the equipment shall be confiscated.\r\nThe equipment of illegally installed boosters, converters, and community common antennas shall be confiscated.\r\nThe local police agency may be requested to assist in enforcing the confiscation penalties under the preceding two paragraphs."
+		},
+		{
+			"number": 4502,
+			"content": "(Delete)"
+		},
+		{
+			"number": 4503,
+			"content": "Any radio/television business with an establishment permit shall be fined a minimum amount of NT$300,000 up to a maximum of NT$3,000,000 in the event of operating without legally obtaining a station operating license. And the regulatory agency shall notify the said business to stop operation immediately. A business that fails to stop operations may be fined consecutively for each additional violation or it shall have its establishment permit revoked.\r\nAny radio/television business which violates Paragraph 3 of Article 10-1 by illegally setting up a sub-station shall be fined a minimum amount of NT$90,000 up to a maximum of NT$900,000. And the regulatory agency shall notify the business to stop operation immediately. A business that fails to stop operation may be fined consecutively for each additional violation or it shall have its establishment permit revoked."
+		},
+		{
+			"number": 4600,
+			"content": "Those that have their radio/television operating licenses revoked under this Act, shall have their station licenses revoked by the MOTC."
+		},
+		{
+			"number": 4700,
+			"content": "In case of default in paying a fine given under this Act, the case may be referred to the court for compulsory execution."
+		},
+		{
+			"number": 4800,
+			"content": "In case of refusal to accept the penalties of broadcast suspension or license revocation given under this Act, the local police agency may be requested to assist in enforcing the said penalties."
+		},
+		{
+			"number": 4900,
+			"content": "(Delete)"
+		},
+		{
+			"number": 5000,
+			"content": "The Enforcement Rules of this Act and the Regulations Governing the Responsible Persons of Radio and Television Businesses shall be prescribed by the regulatory agency."
+		},
+		{
+			"number": 5001,
+			"content": "The regulatory agency shall charge permit fees, review fees, and license fees for handling applications for permits, review of application, or issuance, renewal, or replacement of license. The said fee standard shall be prescribed by the regulatory agency."
+		},
+		{
+			"number": 5002,
+			"content": "Where disposition made by thecompetent authority pursuant to this Act are objected or challenged, the procedures for administrative litigation shall apply directly. where disposition or decisions made by the (central)  competent authority pursuant to other Acts are objected or challenged,the same rule shall apply.\r\nWhere administrative appeal cases are not concluded prior to the enactment of the amendment of this Act, they shall be concluded in accordance with the Administrative Appeal Act."
+		},
+		{
+			"number": 5100,
+			"content": "This Act shall become effective on the day of its promulgation."
+		}
+	]
+}
