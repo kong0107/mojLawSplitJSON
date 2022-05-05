@@ -3,8 +3,22 @@
 	"英文法規名稱": "Regulations for the Security and the Maintenance of Personal Information Files in Wholesaling and Retailing Western Pharmaceuticals",
 	"中文法規名稱": "西藥批發零售業個人資料檔案安全維護計畫實施辦法",
 	"法規網址": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=L0030108",
-	"最新英文異動日期": "20201112",
-	"沿革內容": "1.Promulgated on November 12,2020",
+	"最新英文異動日期": "20220121",
+	"附件": [
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attached Schedule　Record Form for Incident Infringing Personal Information.pdf"
+			]
+		},
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attached Schedule　Record Form for Incident Infringing Personal Information.doc"
+			]
+		}
+	],
+	"沿革內容": "1. These Regulations of 21 articles were promulgated and came into force on November 12, 2020 based on Administrative Order No. 1091405131 issued by the Ministry of Health and Welfare.\r\n2. Articles 3, 14-16 and 21 of these Regulations were revised and Articles 10-1 and 16-1 were added based on Administrative Order No. 1101460407 issued by the Ministry of Health and Welfare on January 21, 2022. Except for Article 16-1, Paragraphs 1-3, which shall come into force three months after the promulgation, all the other revised or newly added Articles came into force upon promulgation.",
 	"法規內容": [
 		{
 			"條號": "Article 1",
@@ -16,7 +30,7 @@
 		},
 		{
 			"條號": "Article 3",
-			"條文內容": "The terms used herein are defined as follows:\r\nI. Western pharmaceutical wholesalers or retailers: A pharmaceutical firm approved for registration in accordance with Article 27, Paragraph 1 of the Pharmaceutical Affairs Act, has a capital of more than NT$30 million, and has recruitment of members or obtains personal information of trading counterparts.\r\nII. Responsible person: Personnel designated by western pharmaceutical wholesalers or retailers to be responsible for establishing and implementing personal information file security and maintenance plans (hereinafter referred to as \"Security and Maintenance Plan(s)\").\r\nIII. Subordinate: Personnel of western pharmaceutical wholesalers or retailers that come in contact with personal information in the course of performing professional duty.\r\nIV. Auditor: Personnel designated by western pharmaceutical wholesalers or retailers to be responsible for auditing the implementation and results of Security and Maintenance Plans.\r\nThe responsible person in Subparagraph 2 and auditor in Subparagraph 4 of the preceding paragraph may not be the same person."
+			"條文內容": "The terms used herein are defined as follows:\r\nI. Western pharmaceutical wholesalers or retailers: A pharmaceutical firm approved for registration in accordance with Article 27, Paragraph 1 of the Pharmaceutical Affairs Act, whose equity capital exceeding NT$30 million, and whose recruitment of members or obtains personal information of trading counterparts.\r\nII. Responsible person: Personnel designated by western pharmaceutical wholesalers or retailers to be responsible for establishing and implementing personal information file security and maintenance plans (hereinafter referred to as \"Security and Maintenance Plan(s)\").\r\nIII. Subordinate: Personnel of western pharmaceutical wholesalers or retailers that come in contact with personal information in the course of performing professional duty.\r\nIV. Auditor: Personnel designated by western pharmaceutical wholesalers or retailers to be responsible for auditing the implementation and results of Security and Maintenance Plans.\r\nThe responsible person in Subparagraph 2 and auditor in Subparagraph 4 of the preceding paragraph may not be the same person."
 		},
 		{
 			"條號": "Article 4",
@@ -47,6 +61,10 @@
 			"條文內容": "Western pharmaceutical wholesalers or retailers shall comply with the obligation of notification specified in Articles 8 and 9 of the Act when collecting personal information; they shall also establish the notification method, contents, and notices for direct collection or indirect collection, and shall require subordinates to comply."
 		},
 		{
+			"條號": "Article 10-1",
+			"條文內容": "Western pharmaceutical wholesalers or retailers shall survey whether they are restricted by the central competent authority prior to transferring any personal data internationally, and shall inform the  information owner of the country or region they intend to transfer the data to."
+		},
+		{
 			"條號": "Article 11",
 			"條文內容": "Western pharmaceutical wholesalers or retailers shall inform the information owner of the western pharmaceutical wholesaler or retailer's registered name and the source of personal information, while using personal information for promotion or marketing in accordance with Article 20, Paragraph 1 of the Act.\r\nWestern pharmaceutical wholesalers or retailers shall provide the information owners or their statutory agents with methods of expressing refusal to accept such promotion or marketing, and shall pay necessary expenses, while using personal information for promotion or marketing purposes for the first time. When the information owners or their statutory agents refuse to receive promotion or marketing, western pharmaceutical wholesalers or retailers shall stop using the owner's personal information immediately and inform subordinates."
 		},
@@ -60,15 +78,19 @@
 		},
 		{
 			"條號": "Article 14",
-			"條文內容": "The incident prevention, reporting, and response mechanisms established by western pharmaceutical wholesalers or retailers in Article 4, Subparagraph 4 shall include the following matters:\r\nI. Take appropriate measures to control the damages to the owners of personal information due to the incident.\r\nII. Investigate the cause of the incident and damages, notify the information owners or statutory agents using an appropriate method, and report the incident to the competent authority.\r\nIII. Formulate improvement measures to prevent the incident from happening again.\r\nWhen personal information is theft, leakage, tampering, or other incidents occur, western pharmaceutical wholesalers or retailers shall rapidly handle the incident according to the prevention, reporting, and response mechanisms in the preceding paragraph to protect the rights and interests of the personal information owners.\r\nReporting procedures and document formats in Subparagraph 2 of Paragraph 1 shall be prescribed by the municipal or county (city) competent authority."
+			"條文內容": "The mechanisms of preventing, reporting, and responding established by western pharmaceutical wholesalers or retailers in Article 4, Subparagraph 4 shall include the following matters:\r\nI.Take appropriate measures to control the damage to the parties concerned due to the incident , and report to the municipal or county/city competent authorities and the central competent authority within 72 hours from the discovery of the incident.\r\nII.Investigate the cause of the incident and damages, and notify the information owners or statutory agents.\r\nIII.Review the deficiency and establish the prevention and improvement measures to prevent the incident from occurring again.\r\nWhen personal information is stolen, disclosed, altered, or otherwise infringed occur, western pharmaceutical wholesalers or retailers shall rapidly handle the incident according to the mechanisms of preventing, reporting, and responding in the preceding paragraph to protect the rights and interests of the personal information owners.\r\nIn the event of any incident specified in the preceding paragraph, the competent authority may conduct any other routine inspections on western pharmaceutical wholesalers or retailers in accordance with the provisions in Article 22, Paragraph 1 of the Act, ordering relevant personnel to provide necessary explanations, cooperate on adopting relevant measures, or provide supporting documents, and perform any follow-up actions depending on the inspection results.\r\nThe format of the reporting form stipulated in Paragraph 1, Subparagraph 1 is shown in the Attached Schedule."
 		},
 		{
 			"條號": "Article 15",
-			"條文內容": "The management measures of facility security established by western pharmaceutical wholesalers or retailers in Article 4, Subparagraph 5 shall include the following matters:\r\nI. Security and protection facilities and management procedures for paper documents.\r\nII. Security systems or encryption mechanisms installed on computers or automated machines for storing electronic files.\r\nIII. Establish procedures for destroying paper documents. Suitable measures for preventing personal information leakage must be taken when computers, automated machines, or other storage media is to be discarded, replaced, or used for other purposes."
+			"條文內容": "The management measures of facility security established by western pharmaceutical wholesalers or retailers in Article 4, Subparagraph 5 shall include the following matters:\r\nI. Security and protection facilities and management procedures for paper documents.\r\nII. Security systems or encryption mechanisms installed on computers or automated machines for storing electronic files.\r\nIII.Procedures for destroying paper documents and electronic files. Suitable measures for preventing personal information disclosed shall be adopted when computers, automated machines, or other storage media is to be discarded, replaced, or used for other purposes."
 		},
 		{
 			"條號": "Article 16",
-			"條文內容": "The management measures of information security and personnel established by western pharmaceutical wholesalers or retailers in Article 4, Subparagraph 3 shall include the following matters:\r\nI. Establish management mechanisms based on business needs, set different access rights for subordinates to control their access to personal information, and periodically verify the appropriateness and necessity of access rights.\r\nII. Examine the nature of businesses and designate personnel responsible for personal information collection, processing, use, and other procedures.\r\nIII. Require subordinates to properly retain storage media containing personal information, and agree on safekeeping and confidentiality obligations.\r\nIV. Cancel the ID number of subordinates after termination of employment. The subordinates are required to hand over the documents and data obtained from the work and may not take or use the documents and data after termination of employment."
+			"條文內容": "The management measures of information security and personnel established by western pharmaceutical wholesalers or retailers in Article 4, Subparagraph 3 shall include the following matters:\r\nI. Establish management mechanisms based on business needs, set different access rights for subordinates to control their access to personal information, and periodically verify the appropriateness and necessity of access rights.\r\nII. Examine the nature of businesses and designate personnel responsible for personal information collection, processing, use, and other procedures.\r\nIII. Require subordinates to properly retain storage media containing personal information, and agree on safekeeping and confidentiality obligations.\r\nIV.Cancel the ID number of subordinates after the termination of employment. The subordinates are required to hand over the personal information documents and data obtained from work, and they may not take or use them after termination of employment."
+		},
+		{
+			"條號": "Article 16-1",
+			"條文內容": "The e-commerce service systems  provided by western pharmaceutical wholesalers or retailers shall adopt the following information security measures:\r\nI.User identity verification and protection mechanism.\r\nII.The hidden code mechanism for the display of personal data.\r\nIII.Security encryption mechanism for Internet transmission.\r\nIV.Access control and protection monitoring measures for personal data files and databases.\r\nV.Preventive measures against external network intrusion.\r\nVI.Monitoring and response mechanisms for illegal or unusual use of the system.\r\nThe term “e-commerce” stipulated in the preceding paragraph refers to the advertising, marketing, supply, purchasing, delivery or other commercial transaction activities of goods or services via the internet.\r\nThe measures stipulated in Subparagraph 5 and the mechanism specified in Subparagraph 6 of Paragraph 1 shall have regular drills and reviewed for improvement.\r\nThe provisions of the preceding three Subparagraphs shall come into force three months after the revision and promulgation of these Regulations on January 21, 2022."
 		},
 		{
 			"條號": "Article 17",
@@ -88,7 +110,7 @@
 		},
 		{
 			"條號": "Article 21",
-			"條文內容": "These Regulations shall come into force from the date of promulgation."
+			"條文內容": "Unless otherwise specified, these Regulations shall come into force as from the date of promulgation."
 		}
 	]
 }
