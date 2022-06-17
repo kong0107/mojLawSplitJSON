@@ -4,7 +4,7 @@
 	"english": "Enforcement Rules of the Employment Insurance Act",
 	"title": "就業保險法施行細則",
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=N0050022",
-	"englishUpdate": "20180321",
+	"englishUpdate": "20220419",
 	"history": [
 		"Promulgated by the Council of Labor Affairs, Executive Yuan,January 1, 2003, Labor Insurance Order No. 0910067850",
 		"Amended on February 22, 2006",
@@ -14,7 +14,8 @@
 		"Amended on July 26.2013",
 		"Amended on May 14, 2015",
 		"Amended on May 26, 2017",
-		"Amended on March 21, 2018"
+		"Amended on March 21, 2018",
+		"Except that the provisions amended and promulgated on April 19th, 2022, should take effect on May 1st, 2022, this amendment shall and shall become effective on the date of promulgation."
 	],
 	"divisions": [],
 	"articles": [
@@ -48,7 +49,7 @@
 		},
 		{
 			"number": 800,
-			"content": "Pursuant to Paragraph 3, Article 6 of the Act, when a laborer registered at an insured establishment applies for participation in the Insurance, unless he completes the application using the online application system provided by a government agency (institution), he should complete an insurance application form and an extended coverage application form, submit both to the Insurer, and attach a photocopy of the front and reverse sides of the responsible person’s national identity card and photocopies of the following related documentation from the relevant industrial competent authority:\r\n1.A factory should submit photocopies of the factory certificate of registration, or other establishment permit related documentation.\r\n2.A mineral mine should submit the mine registration certificate, and mine extraction or exploration license.\r\n3.A salt mine, cereal crop farm, livestock farm, tree plantation, and tea plantation should submit certificate of registration.\r\n4.A transportation business should submit the transportation business permit or other relevant documented proof.\r\n5.A public utility business should submit the business license or other relevant documented proof.\r\n6.A company should submit documented proof of registration of the company or documented proof of business registration.\r\n7.A news industry, cultural industry, charity industry, cooperative industry, vocational training establishment, or any other professional persons’ group should submit documented proof of establishment or the certificate of registration.\r\n8.Any other industry should submit the professional license or other relevant documented proof of registration or ratification.\r\nAn insured establishment unable to produce any of the required documentation above should submit a withholding agent establishment (or amendment) registration application form ratified by the tax assessment authority, or use the unified invoice purchase certificate to complete the insurance payment procedures."
+			"content": "Pursuant to Paragraph 3, Article 6 of the Act, when a laborer registered at an insured establishment applies for participation in the Insurance, unless government agencies (institutions), public schools, and he completes the application using the online application system provided by a government agency (institution), he should complete an insurance application form and an extended coverage application form, submit both to the Insurer, and attach a photocopy of the front and reverse sides of the responsible person’s national identity card and photocopies of the following related documentation from the relevant industrial competent authority:\r\n1.Factory: The relevant factory registration documents.\r\n2.Mine: Mine registration certificates, permits for mining or prospecting, or relevant supporting documents.\r\n3.Salt, ranges, pastures, forest, and tea plantations: Registration certificates or relevant supporting documents.\r\n4.Transportation: Transport enterprise permits or relevant supporting documents.\r\n5.Public utility: Utility permits or relevant supporting documents.\r\n6.Company or corporate: Company registration certificates or business registration certificates.\r\n7.Private schools, news media, cultural entities, public-interest entities, cooperative entities, vocational training institutions, and civil societies of various industries: Registration permits or registration certificates.\r\n8.The person planning to run in election and candidates for central or local public office elections: The Control Yuan's Letters of Approval to open accounts for political donations, the official letters or equivalent supporting documents sufficiently indicating the acceptance and registration of candidate by the corresponding Election Committee.\r\n9.The elected candidates for central or local public office elections: The certificates of election.\r\n10.Others: Practice licenses or relevant registration, approval, or reference documents.\r\nIf the insured unit is unable to obtain the supporting documents in the preceding Paragraph according to the regulations, it shall apply for registration (change) of the withholding unit issued by the tax collection authority, or use the uniform invoice certificate to proceed to the insurance application procedures."
 		},
 		{
 			"number": 801,
@@ -64,11 +65,11 @@
 		},
 		{
 			"number": 1000,
-			"content": "When the name, date of birth, or national identity card number of an insured person defined in Article 6, Paragraph 3 of the Law changes or is incorrect, the insured establishment should fill out an Insured Person Item Amendment Application Form, attach a photocopy of the front and reverse sides of the national identity card or other relevant documentation, and submit them to the Insurer for amendment."
+			"content": "If the name, date of birth, and/or national ID number of the insured is changed or incorrect, the insured shall immediately notify the insured unit to which it affiliates.\r\nIf the relevant personal information of the insured in the preceding Paragraph is changed or incorrect, the insured unit shall immediately fill in the application for the change of the insured, and attach it with a copy of the front and back of the national ID card or relevant supporting documents and submit all of them to the insurer for verification.\r\nIf the insured fails to notify the insured unit to which it affiliates by the provisions of Paragraph 1, or the insured unit fails to submit relevant documents to the insurer by the provisions of the preceding Paragraph, the insurer may make a change by the information registered by the relevant authorities."
 		},
 		{
 			"number": 1100,
-			"content": "An insured establishment should prepare the employee roster, record of work attendance, and annual salary bookkeeping for inspection by the competent authority, the insured person, and the public employment service institution pursuant to Article 7 regulations of the Law, and keep them on record for five years after the insured person leaves the establishment.\r\nThe above employee roster record includes the following items:\r\n1.Name, sex/gender, date of birth, place of domicile (residence), and national identity card number.\r\n2.Starting date of employment.\r\n3.Type of work.\r\n4.Work hours and pay.\r\n5.Time off for injury, illness, and sabbatical."
+			"content": "An insured establishment should prepare the employee roster, record of work attendance, and annual salary bookkeeping for inspection by the competent authority, the insured person, and the public employment service institution pursuant to Article 7 regulations of the Law, and keep them on record for five years after the insured person leaves the establishment.\r\nThe above employee roster shall separately record the following matters:\r\n1.Name, date of birth, address, and national ID number.\r\n2.Starting date of employment.\r\n3.Type of work.\r\n4.Work hours and pay.\r\n5.The reason and period of leave without pay."
 		},
 		{
 			"number": 1200,
@@ -107,12 +108,20 @@
 			"content": "An insured person applying for parental leave allowance according to Item 4 of Paragraph a pf Article 11 of this Act shall prepare the following documents:\r\n1.The Parental Leave Allowance Application Form and Benefits Receipt.\r\n2.A duplicate of the household registration of the insured and the dependents.\r\n3.Proof of parental leave without pay.\r\n4.A duplicate of the insured person's personal bank passbook for a domestic bank."
 		},
 		{
+			"number": 1602,
+			"content": "To apply for various insurance benefits by the provisions of the Act, the attached identity certificate,within six months, shall be verified by the following units if such documents are prepared outside the premise of government agencies (institutions) of the Republic of China:\r\n1.Prepared overseas: To be verified by ROC embassies abroad; those prepared at foreign embassies and consulates in Taiwan or authorized institutions shall be re-verified by the Ministry of Foreign Affairs.\r\n2.Prepared in Mainland China: To be verified by the agency established or designated by the Executive Yuan or the non-governmental organization entrusted by it.\r\n3.Prepared in Hong Kong or Macau: To be verified by the agency established or designated by the Executive Yuan or a non-governmental organization entrusted by it in Hong Kong or Macau.\r\nIf the documents in the preceding Paragraph are in foreign languages, the Chinese translation certified by the units listed in the preceding Paragraphs or the notary public in China shall be attached. However, if the documents are in English, they may be exempted from being attached unless the insurer considers it necessary."
+		},
+		{
 			"number": 1700,
 			"content": "The funds for the central competent authority to administer Article 12, Paragraph 3 regulations of the Law shall be paid according to the financial budget every six months, and if there is a resulting administrative surplus, this should be returned following the annual balance of accounts; the amount of funds should be calculated based on the insurance premium income figure in the officially approved budget."
 		},
 		{
 			"number": 1800,
 			"content": "deleted"
+		},
+		{
+			"number": 1801,
+			"content": "The labor insurance injury and illness benefit stipulated in Paragraph 2 of Article 17 of this Act are the injury and illness benefit prescribed in the Labor Insurance Act and the Labor Occupational Accident Insurance and Protection Act ."
 		},
 		{
 			"number": 1900,
@@ -160,7 +169,7 @@
 		},
 		{
 			"number": 2600,
-			"content": "The Enforcement Rules shall be effective from January 1, 2003."
+			"content": "The Enforcement Rules shall be effective from January 1, 2003.\r\nExcept that the provisions amended and promulgated on April 19th, 2022, should take effect on May 1st, 2022, this amendment shall and shall become effective on the date of promulgation."
 		}
 	]
 }

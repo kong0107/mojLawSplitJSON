@@ -4,9 +4,18 @@
 	"english": "Regulations of Vessel Carrier Personal Information Files Security Maintenance Plan and Processing Procedures",
 	"title": "船舶運送業個人資料檔案安全維護計畫及處理辦法",
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0070073",
-	"englishUpdate": "20150417",
+	"englishUpdate": "20220421",
+	"attachments": [
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Personal Information Infringement Incident Notification and Record Form.odt"
+			]
+		}
+	],
 	"history": [
-		" All 22 provisions were enacted and promulgated by the MOTC Jiao-Hang-Zi No. 10450045031 Order on April 17, 2015; the provisions came into force on July 1, 2015."
+		"All 22 provisions were enacted and promulgated by the MOTC Jiao-Hang-Zi No. 10450045031 Order on April 17, 2015; the provisions came into force on July 1, 2015.",
+		"Amendments to Articles 6, 12, and 16-1 promulgated on April 21, 2022."
 	],
 	"divisions": [],
 	"articles": [
@@ -32,7 +41,7 @@
 		},
 		{
 			"number": 600,
-			"content": "The Operators shall adopt the following mechanisms personal information being stolen, altered, damaged, destroyed or disclosed in custody:\r\n1.Take appropriate response measures to control and minimize the damages to the information owner and report the incident to the Maritime and Port Bureau, MOTC.\r\n2.Make full investigation on the incident, notify the information owner through appropriate means in accordance with Article 12 of The Act and inform the information owner of the response measures taken to handle the situation.\r\n3.Review the issues and set up preventive mechanism to prevent similar incidents."
+			"content": "In response to incidents such as theft, alteration, damage, loss, or leakage of personal information in custody, the Operators shall adopt the following mechanisms:\r\n1. Take appropriate response measures to control and minimize the damages to the information owner.\r\n2. Make full investigation on the incident, notify the information owner through appropriate means in accordance with Article 12 of The Act and inform the information owner of the response measures taken to handle the situation.\r\n3. Review the issues and set up preventive mechanism to prevent similar incidents.\r\nThe Operators shall notify the Maritime and Port Bureau, MOTC, within 72 hours after discovering the incident mentioned in the preceding paragraph. If the notification is not made within the time limit, the reason for the delay shall be attached (the notification format is shown in the attached table).\r\nAfter the incident in the preceding paragraph is reported, the competent authority may take appropriate supervision and management measures in accordance with the functions and powers conferred by Articles 22 to 26 of the Act."
 		},
 		{
 			"number": 700,
@@ -56,7 +65,7 @@
 		},
 		{
 			"number": 1200,
-			"content": "Before an Operator carries out international transmission of personal information, the Operator shall check whether orders or administrative dispositions have been imposed by the Ministry of Transportation and Communications to limit international transmission in accordance with Article 21 of The Act. And if such orders or administrative dispositions exist, the Operator shall comply accordingly."
+			"content": "When transferring personal information internationally, an Operator or another person entrusted by the Operator shall check whether the Ministry of Transportation and Communications has imposed restrictions in accordance with Article 21 of the Act, and inform the information owner of the area to which his/her personal information is to be transferred internationally. Additionally, the information recipient should be supervised in the following areas:\r\n1. The scope, category, specific purpose, period, region, subject, and method of the intended processing or use of personal information.\r\n2. Matters related to the information owner’s exercise of the rights specified in Article 3 of the Act."
 		},
 		{
 			"number": 1300,
@@ -73,6 +82,10 @@
 		{
 			"number": 1600,
 			"content": "The Operators shall take the following actions for information security management:\r\n1.Set up regulations for using portable equipment or storage media when using computers or automated machinery for collection, processing and use of personal information.\r\n2.When encryption is needed for the content of the personal information in custody, appropriate encryption mechanism shall be activated during the process of collection, processing and use of personal information.\r\n3.When backup is needed for the personal information during operation, the backup copy shall be protected as the original copy in accordance with The Act.\r\n4.When the media used to store personal information, such as paper copies, diskettes, tape, CD-ROM, microfiche or integrated circuit chips, are to be disposed or transferred for other use, the Operator shall take appropriate precautions to avoid leaking of personal information. If the tasks are commissioned to a third party, Article 11, mutatis mutandis, of These Regulations shall apply."
+		},
+		{
+			"number": 1601,
+			"content": "The Operators operating fixed passenger routes shall take the following information security measures when collecting, processing, or utilizing personal information through an information and communications system:\r\n1. Confirmation and protection mechanism for user identity.\r\n2. Masking mechanism for the display of personal information.\r\n3. Security encryption mechanism for Internet transmission.\r\n4. Access control and protection monitoring measures for personal information files and databases.\r\n5. Countermeasures to prevent external network intrusion\r\n6. Monitoring and response mechanisms for illegal or abnormal use behaviors.\r\nThe measures Subparagraphs 5 and 6 of the preceding paragraph shall be regularly practiced and reviewed for improvement."
 		},
 		{
 			"number": 1700,
