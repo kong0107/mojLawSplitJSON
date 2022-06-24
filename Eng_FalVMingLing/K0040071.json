@@ -1,10 +1,18 @@
 {
 	"法規性質": "命令",
-	"英文法規名稱": "Regulations relating to Customer Personal Information Protection and Management of Parking Facility Operation",
+	"英文法規名稱": "Regulations for the Security Protection Plans for and Processing of Personal Information Files in Parking Facility Operation",
 	"中文法規名稱": "停車場經營業個人資料檔案安全維護計畫及處理辦法",
 	"法規網址": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0040071",
-	"最新英文異動日期": "20150924",
-	"沿革內容": "1.Promulgated on Sep 24, 2015.",
+	"最新英文異動日期": "20220323",
+	"附件": [
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Regulations for the Security Protection Plans for and Processing of Personal Information Files in Parking Facility Operation.odt"
+			]
+		}
+	],
+	"沿革內容": "1.Promulgated on Sep 24, 2015.\r\n2.Amended on March 23, 2022.",
 	"法規內容": [
 		{
 			"條號": "Article 1",
@@ -28,7 +36,7 @@
 		},
 		{
 			"條號": "Article 6",
-			"條文內容": "If personal information kept by a parking operation business is stolen, altered, damaged, destroyed or disclosed, it shall take the following measures:\r\n1. Take appropriate contingency measures to control the damage caused by the incident to the party and report the incident to the local authority in charge.\r\n2. Investigate the incident and notify the party of the incident and contingency measures taken in an appropriate way prescribed in Article 12 of the Act.\r\n3. Review defects and develop preventive measures to prevent similar incidents from happening again."
+			"條文內容": "If personal information kept by a parking operation business is stolen, altered, damaged, destroyed or disclosed, it shall take the following measures:\r\n1. Take appropriate contingency measures to control the damage caused by the incident to the party.\r\n2. Investigate the incident and notify the party of the incident and contingency measures taken in an appropriate way prescribed in Article 12 of the Act.\r\n3. Review defects and develop preventive measures to prevent similar incidents from happening again.\r\nWhen the incidents under the preceding paragraph occur, the parking operation businesses shall report the local authority in charge and notify the central competent authority (MOTC) within 72 hours after the incidents; if the notification is not made within the time limit, the reason for the delay should be indicated (notification form as attached). After the local authority in charge received the notifications, with the power granted in Article 22 to Article 25 of this regulation, the mentioned authority is entitled to take appropriate supervisory and management measures."
 		},
 		{
 			"條號": "Article 7",
@@ -61,6 +69,10 @@
 		{
 			"條號": "Article 14",
 			"條文內容": "Parking operation businesses shall take the following security measures for personal information files:\r\n1. When collecting, processing, or using personal information by computers or automated machines, parking operation businesses shall stipulate the use of portable devices or storage media.\r\n2. If personal information kept by parking operation businesses needs to be encrypted, it shall be encrypted appropriately when collected, processed, or used.\r\n3. If personal information needs backup during operation, it shall be protected as the original in accordance with the Act.\r\n4. When papers, drives, tapes, discs, micro-disks, and integrated circuit chips where personal information is stored are scrapped or used for other purposes, appropriate preventive measures shall be taken to avoid the leaks of personal information. If parking operation businesses commission others to do so, Article 11 shall apply."
+		},
+		{
+			"條號": "Article 14-1",
+			"條文內容": "Parking operation businesses which provide e-commerce service system should adopt the following information security measures:\r\n1. User identity confirmation and protection mechanism.\r\n2. Data masking mechanism for personal information display.\r\n3. Security encryption mechanism for Internet data transmission.\r\n4. Access control and protection monitoring measures for personal data files and databases.\r\n5. Prevention mechanism for external network intrusion.\r\n6. The monitoring and responding countermeasures of illegal or abnormal use of the system.\r\nThe term “e-commerce” of the preceding paragraph refers to the advertising, marketing, supply, ordering, delivery or other commercial transactions of goods or services via the Internet.\r\nThe countermeasures and mechanism specified in Subparagraph 5 and 6 of Paragraph 1 should be regularly rehearsed and reviewed for improvement."
 		},
 		{
 			"條號": "Article 15",
