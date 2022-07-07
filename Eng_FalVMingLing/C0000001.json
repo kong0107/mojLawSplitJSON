@@ -4,7 +4,7 @@
 	"english": "Criminal Code of the Republic of China",
 	"title": "中華民國刑法",
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=C0000001",
-	"englishUpdate": "20210616",
+	"englishUpdate": "20220218",
 	"history": [
 		"387 clauses established and published on march 10, 1928 and promulgated on September 1, 1928.\r\n  357 clauses amended and published on January 1, 1935 and promulgated on July 1, 1935",
 		"Amendment to Article 5 promulgated on November 7, 1948",
@@ -51,7 +51,10 @@
 		"Amendment to Article 135、136 promulgated on January 20, 2021\r\n   Amendment to Article 240、241 promulgated on January 20, 2021",
 		"Amendment to Article 185-4 promulgated on May 28, 2021",
 		"Amendment to Article 222 promulgated on June 9, 2021",
-		"Deletion of Article 239；amendment to Article 245 promulgated on June 16, 2021"
+		"Deletion of Article 239；amendment to Article 245 promulgated on June 16, 2021",
+		"Amendment to Article 78、79、140、141、266 promulgated on January 12, 2022",
+		"Amendment to Article 185-3 promulgated on January 28, 2022",
+		"Amendment to Article 87、98 promulgated on February 18, 2022"
 	],
 	"divisions": [
 		{
@@ -777,11 +780,11 @@
 		},
 		{
 			"number": 7800,
-			"content": "During the period of parole, if the offender has committed another offense that carries an imprisonment or a more severe punishment, the parole shall be revoked within six months after the judgment is announced. However, this shall not apply to an offense committed three years after completing the parole period.\r\nThe number of days spent out of prison after the revocation of a parole shall not be calculated as part of the period of the punishment of imprisonment."
+			"content": "During the period of parole, if the offender has intentionally committed another crime for which he is sentenced to an imprisonment of more than six months by a final judgment, his parole shall be revoked.\r\nDuring the period of parole, if the offender has intentionally committed another crime for which he is sentenced to probation or an imprisonment of less than six months by final judgment, and if it is necessary to execute the punishment of the imprisonment again, his parole may be revoked.\r\nThe revocation under the proceeding two paragraphs shall be rendered within six months after the judgment becomes final. However, this shall not apply if the period of parole has expired for three years.\r\nThe number of days spent out of prison after the revocation of a parole shall not be calculated as part of the period of the punishment of imprisonment."
 		},
 		{
 			"number": 7900,
-			"content": "If a parole has not been revoked after twenty years of parole for the offenders of life imprisonment or during the remaining portion of sentence for the offenders of imprisonment, the unexecuted portion of the sentence shall be considered to have been executed. This shall not apply to a parole revoked in accordance to paragraph 1 of Article 78.\r\nThe period served in execution of a punishment, detention, or other restriction on freedom for another crime during the period of parole shall not be included in the calculation of the period of punishment. However, this shall not apply to the period of restriction on freedom made according to law before the final judgment of non-prosecution or acquittal is announced."
+			"content": "If a parole has not been revoked after twenty years of parole for the offenders of life imprisonment or during the remaining portion of sentence for the offenders of imprisonment, the unexecuted portion of the sentence shall be considered to have been executed; however, this shall not apply to a parole revoked in accordance to Paragraph 3 of Article 78.\r\nThe period served in execution of a punishment, detention, or other restriction on freedom for another crime during the period of parole shall not be included in the calculation of the period of parole. However, this shall not apply to the period of detention or other restriction on freedom made according to law before the final judgment of non-prosecution or acquittal is announced."
 		},
 		{
 			"number": 7901,
@@ -817,7 +820,7 @@
 		},
 		{
 			"number": 8700,
-			"content": "A person is not punished for a cause prescribed in paragraph 1 of Article 19, he may be committed to a suitable establishment for custodial protection provided that the circumstances are sufficient to make it believe that he might repeat the offense or against public safety.\r\nIf a person has the circumstances prescribed in paragraph 2 of Article 19 and Article 20 and the circumstances are likely to make it believe that he might repeat the offense or against public safety, he may be committed to a suitable establishment for custodial protection after the execution or remission of the punishment. This custodial protection may be done before the execution of punishment if necessary.\r\nThe period of custodial protection prescribed in the previous two paragraphs shall be less than five years, but the court may order remission of the punishment during the execution provided that it believes the execution needs not to be continued."
+			"content": "A person who is not punished for a cause prescribed in Paragraph 1 of Article 19 may be committed to a suitable establishment or appropriate means for custodial protection if the circumstances are sufficient to make it believe that he might repeat the offense or against public safety.\r\nIf a person has the circumstances prescribed in paragraph 2 of Article 19 and Article 20 and the circumstances are likely to make it believe that he might repeat the offense or against public safety, he may be committed to a suitable establishment or appropriate means for custodial protection after the execution or remission of the punishment. This custodial protection may be done before the execution of punishment if necessary.\r\nThe period of custodial protection prescribed in the preceding two paragraphs shall be less than five years. Before expiration of execution period, the prosecutor may apply to the court for extension thereof if he considers such extension is necessary. The period of first extension shall be less than three years, and periods of the second extension and subsequent extension shall be less than one year, respectively. However, the court may order remission of the punishment during the execution if it believes the execution needs not to be continued.\r\nDuring the period of execution or extension, whether or not the execution needs to be continued shall be evaluated each year."
 		},
 		{
 			"number": 8800,
@@ -865,7 +868,7 @@
 		},
 		{
 			"number": 9800,
-			"content": "If rehabilitative measures announced under paragraph 2 of Article 86 and paragraph 2 of Article 87 call for execution of imprisonment first, the court may remit the execution if it believes that this is unnecessary after the punishment is executed or remitted. In a case which calls for execution of rehabilitative measures first, the court, after having executed the measures or remitted part of the measures, may remit the whole or part of the periods of imprisonment if it believes that the execution is unnecessary.\r\nIf the rehabilitative measures are announced in pursuance to paragraph 1 of Article 88, paragraph 1 of Article 89, or paragraph 1 of Article 90, the court, after having executed the measures or remitted part of the measures, may remit the whole or part of the periods of imprisonment if it believes that the execution is unnecessary.\r\nThe remission of execution prescribed in the two preceding paragraphs shall be limited to imprisonment or short-term imprisonment."
+			"content": "If rehabilitative measures announced under paragraph 2 of Article 86 and paragraph 2 and paragraph 3 of Article 87 call for execution of imprisonment first, the court may remit the execution if it believes that this is unnecessary after the punishment is executed or remitted. In a case which calls for execution of rehabilitative measures first, the court, after having executed the measures or remitted part of the measures, may remit the whole or part of the periods of imprisonment if it believes that the execution is unnecessary.\r\nIf the rehabilitative measures are announced in pursuance to paragraph 1 of Article 88 or paragraph 1 of Article 89, the court, after having executed the measures or remitted part of the measures, may remit the whole or part of the periods of imprisonment if it believes that the execution is unnecessary.\r\nIf temporary placement is announced in pursuance to paragraph 1 or the first part of paragraph 3 of Article 121-1 of the Code of Criminal Procedure, the court, after having executed the temporary placement, may remit the whole or part of the periods of imprisonment if it believes that the execution is unnecessary.\r\nThe remission of execution prescribed in the preceding three paragraphs shall be limited to imprisonment or short-term imprisonment."
 		},
 		{
 			"number": 9900,
@@ -1037,11 +1040,11 @@
 		},
 		{
 			"number": 14000,
-			"content": "A person who offers an insult to a public official during the legal discharge of his duties or publicly offers an insult with respect to the legal discharged of such duties shall be sentenced to imprisonment for not more than six months, short-term imprisonment, or a fine of not more than three thousand dollars.\r\nA person who publicly offers an insult to a public office shall be subject to the same punishment."
+			"content": "A person who insults a public official during the discharge of his legal duties or publicly make insults about his discharge of such legal duties shall be sentenced to imprisonment for not more than one year, short-term imprisonment, or a fine of not more than one hundred thousand New Taiwan Dollars."
 		},
 		{
 			"number": 14100,
-			"content": "A person who with purpose to insult a public official or a public office damages, removes, or disfigures a notice or proclamation posted in a public place shall be sentenced to short-term imprisonment or a fine of not more than three thousand dollars."
+			"content": "A person, who with purpose to insult a public official, damages, removes, or disfigures a proclamation posted in a public place shall be sentenced to short-term imprisonment or a fine of not more than sixty thousand New Taiwan Dollars."
 		},
 		{
 			"number": 14200,
@@ -1229,7 +1232,7 @@
 		},
 		{
 			"number": 18503,
-			"content": "A person who drives a motor vehicle in any one of the following circumstances shall be sentenced to imprisonment for not more than two years; in addition thereto, a fine of not more than two hundred thousand dollars may be imposed:\r\n1. the person’s exhalation contains alcohol of 0.25 milligrams per liter or more, or the person’s blood alcohol concentration is 0.05 percent or more.\r\n2. there are circumstances other than those stipulated in the preceding subparagraph which may prove that the person has consumed alcohol or other similar substances which prevent the person from driving safely.\r\n3. the person uses drugs, narcotics or other similar substances that prevent the person from driving safely.\r\nIf the offense results in death, the offender shall be sentenced to imprisonment for not less than three years but less than ten years; if the offense results in serious physical injury, the offender shall be sentenced to imprisonment for not less than one year but less than seven years.\r\nA person who has once committed the offense set forth in this article or in Article 54 of the Criminal Code of the Armed Forces and been judged guilty or subject to deferred prosecution but commits the offense set forth in paragraph 1 again within five years that results in the death of another shall be sentenced to life imprisonment or imprisonment for not less than five years; in case of serious physical injury, such person shall be sentenced to imprisonment for not less than three years but not more than ten years."
+			"content": "A person who drives a motor vehicle in any one of the following circumstances shall be sentenced to imprisonment for not more than three years; in addition thereto, a fine of not more than three hundred thousand New Taiwan Dollars may be imposed:\r\n1. the person’s exhalation contains alcohol of 0.25 milligrams per liter or more, or the person’s blood alcohol concentration is 0.05 percent or more.\r\n2. there are circumstances other than those stipulated in the preceding subparagraph which may prove that the person has consumed alcohol or other similar substances which prevent the person from driving safely.\r\n3. the person uses drugs, narcotics or other similar substances that prevent the person from driving safely.\r\nIf the offense results in death, the offender shall be sentenced to imprisonment for not less than three years but less than ten years, and in addition thereto, a fine of not more than two million New Taiwan Dollars may be imposed; if the offense results in serious physical injury, the offender shall be sentenced to imprisonment for not less than one year but less than seven years, and in addition thereto, a fine of not more than one million New Taiwan Dollars may be imposed.\r\nA person who has once committed the offense set forth in this Article or in Article 54 of the Criminal Code of the Armed Forces and been finally judged guilty or subject to deferred prosecution but commits the offense set forth in paragraph 1 again within ten years that results in the death of another shall be sentenced to life imprisonment or imprisonment for not less than five years, and in addition thereto, a fine of not more than three million New Taiwan Dollars may be imposed; in case of serious physical injury, such person shall be sentenced to imprisonment for not less than three years but not more than ten years, and in addition thereto, a fine of not more than two million New Taiwan Dollars may be imposed."
 		},
 		{
 			"number": 18504,
@@ -1613,7 +1616,7 @@
 		},
 		{
 			"number": 26600,
-			"content": "A person who gambles in a public place or a place open to the public shall be sentenced to a fine of not more than thirty thousand dollars unless the item for which he gambles is one to provide temporary amusement.\r\nGambling apparatus at the site found at the gambling table or place for exchange of gambling tokens shall be confiscated whether or not it belongs to the offender."
+			"content": "A person who gambles in a public place or a place open to the public shall be sentenced to a fine of not more than fifty thousand New Taiwan Dollars.\r\nThe same shall apply to the gambling via telecommunication equipment, electronic communication, internet, or other similar means.\r\nThe provisions of the proceeding two paragraphs shall not apply to the item of gambling which is provided for temporary amusement.\r\nFor the offence under Paragraph 1, the gambling apparatus and lottery found at the site or at the gambling table or place for exchange of gambling tokens shall be confiscated whether or not it belongs to the offender."
 		},
 		{
 			"number": 26700,
