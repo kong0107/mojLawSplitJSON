@@ -1,0 +1,50 @@
+{
+	"pcode": "O0020072",
+	"type": "命令",
+	"english": "Dioxin Emission Standards for Stationary Pollution Sources",
+	"title": "固定污染源戴奧辛排放標準",
+	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=O0020072",
+	"englishUpdate": "20060102",
+	"attachments": [
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Attached Table International Toxicity Equivalency Factors.pdf"
+			]
+		}
+	],
+	"history": [
+		"Seven articles promulgated by Environmental Protection Administration Order Huan-Pao-Shu-Kung-Tzu No. 0940105905 on January 2, 2006."
+	],
+	"divisions": [],
+	"articles": [
+		{
+			"number": 100,
+			"content": "These Standards are determined pursuant to Article 20, Paragraph 2 of the Air Pollution Control Act."
+		},
+		{
+			"number": 200,
+			"content": "Terms used in these Standards are defined as follows:\r\nI. “Dioxin” means polychlorinated dibenzo-p-dioxins and polychlorinated dibenzofurans.\r\nII.“I-TEF” means International Toxicity Equivalency Factor, which is used internationally to calculate the toxicity weighting of dioxin concentrations.\r\nIII. “TEQ of 2,3,7,8-tetrachlorinated dibenzo-p-dioxin” means Toxicity Equivalency Quantity of 2,3,7,8-tetrachlorinated dibenzo-p-dioxin, the method for calculating toxic concentrations of dioxin. \r\nIV. “Newly-established pollution sources” means pollution sources established following the promulgation date of these Standards.\r\nV. “Existing pollution sources” means pollution sources whose construction was completed or underway, whose project tender procedures were completed, or if no tenders were invited, whose project contracts were given out and signed before the date of promulgation of these Standards. However, a pollution source whose dioxin emission quantity has increased by more than 20% of the annual permitted emissions quantity recorded in the operation permit due to the replacement or enlargement of equipment shall be viewed as a newly-established pollution source."
+		},
+		{
+			"number": 300,
+			"content": "For matters not regulated in these Standards, the relevant laws and regulations shall apply."
+		},
+		{
+			"number": 400,
+			"content": "These Standards shall apply to newly-established or existing stationary pollution sources, and the controlled pollutant item is dioxin. However, separately established emissions standards for specially designated industries or facilities shall take precedence over these Standards."
+		},
+		{
+			"number": 500,
+			"content": "Dioxin emission standards for stationary pollution sources are as follows:\r\n┌─────────┬─────────┬──────────────┐\r\n│Pollution sources │Emission standard │Date of Implementation      │\r\n│                  │value             │                            │\r\n│                  │(ng-TEQ/Nm3)      │                            │\r\n├─────────┼─────────┼──────────────┤\r\n│Existing pollution│2.0               │January 1, 2007             │\r\n│sources           ├─────────┼──────────────┤\r\n│                  │1.0               │January 1, 2008             │\r\n├─────────┼─────────┼──────────────┤\r\n│Newly-established │0.5               │Date of announcement and    │\r\n│pollution sources │                  │enforcement                 │\r\n│                  │                  │                            │\r\n└─────────┴─────────┴──────────────┘\r\nThe concentrations of the standard values of the foregoing paragraph are expressed as TEQ, which are calculated as the sum of the measured concentration of each dioxin listed in attached table multiplied by the respective I-TEF. Each value shall be the arithmetic mean of the values resulting from the testing of three samples. Sampling times shall be separated by intervals of more than one hour."
+		},
+		{
+			"number": 600,
+			"content": "The concentration of emitted dioxins shall be calculated in all cases on the basis of dry, undiluted emission volumes at a temperature of 273°K and a pressure of one atmosphere."
+		},
+		{
+			"number": 700,
+			"content": "Unless an enforcement date is separately designated, these Standards shall take effect on the date of promulgation."
+		}
+	]
+}
