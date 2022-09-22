@@ -1,99 +1,112 @@
 {
 	"pcode": "K0090080",
 	"type": "命令",
-	"english": "Regulations Governing Personal Information File Security Maintenance Plan and Processing Method for the Civil Air Transport Enterprise",
+	"english": "Regulations Governing Personal Data File Security Maintenance Plan and Processing Method for the Civil Aviation Enterprise",
 	"title": "民用航空事業個人資料檔案安全維護計畫及處理辦法",
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0090080",
-	"englishUpdate": "20151202",
+	"englishUpdate": "20220601",
+	"attachments": [
+		{
+			"name": "檔案名稱",
+			"children": [
+				"Personal Data Infringement Incident Notification and Record Form.odt"
+			]
+		}
+	],
 	"history": [
 		"Full text promulgated by MOTC decree on October 16, 2014",
-		"Amendment to Articles 6, 23 promulgated by MOTC decree on December 2, 2015"
+		"Amendment to Articles 6 and 23 promulgated by MOTC decree on December 2, 2015",
+		"Renamed and amendment to Articles 2, 6, 12, and addition of Article17-1, was promulgated by MOTC decree on June 1, 2022(The original title “Regulations Governing Personal Information File Security Maintenance Plan and Processing Method for the Civil Air Transport Enterprise”)"
 	],
 	"divisions": [],
 	"articles": [
 		{
 			"number": 100,
-			"content": "These Regulations are prescribed pursuant to the provisions of Article 27 Paragraph 3 of the Personal Information Protection Act (hereinafter referred to as “the Act”)."
+			"content": "These Regulations are prescribed pursuant to the provisions of Article 27 Paragraph 3 of the Personal Data Protection Act (hereinafter referred to as “the Act”)."
 		},
 		{
 			"number": 200,
-			"content": "This Regulation is applicable to national and foreign civil air transport enterprises operating scheduled air transport service (hereinafter referred to as “the enterprise”).\r\nThe enterprise shall draw up plans for maintaining the security of personal information files (hereafter referred to as “the Plans”), for the purpose of ensuring the secure maintenance and management of personal information files, to prevent the theft, alteration, damage, destruction or disclosure of personal information.\r\nThe content of the Plans shall include the relevant organization and procedures prescribed in Articles 3 to 22, and the Plans shall be periodically reviewed and brought into conformity with related laws and regulations as newly prescribed or amended."
+			"content": "The Regulation is applicable to the following civil aviation enterprise:\r\n1. A national and foreign civil air transport enterprise operating scheduled air transport service.\r\n2. A general aviation enterprise operating international business charter service.\r\nThe national and foreign civil air transport enterprises and the general aviation enterprises mentioned in the preceding paragraph (hereinafter referred to as “the enterprise”) shall draw up plans for maintaining the security of personal data files (hereafter referred to as “the Plans”), for the purpose of ensuring the secure maintenance and management of personal data files, to prevent the theft, alteration, damage, destruction or disclosure of personal data.\r\nThe content of the Plans shall include the relevant organization and procedures prescribed in Articles 3 to 22, and the Plans shall be periodically reviewed and brought into conformity with related laws and regulations as newly prescribed or amended."
 		},
 		{
 			"number": 300,
-			"content": "The enterprise may appoint designated personnel or establish a dedicated organization to enforce personal information security with the allocation of appropriate resources.\r\nThe responsibility of the designated personnel or dedicated organization as referred to in the preceding paragraph shall be as follows:\r\n1. Planning, prescribing, amending and executing matters concerning plans for maintaining the security of personal information files, and methods of handling personal information after termination of business.\r\n2. Stipulating policies for the protection and management of personal information, as the basis and specific purposes for the collection, processing and use of personal information, and other matters concerning protection, and announcing these to ensure that they are clearly understood by all members of staff.\r\n3. Periodically conducting basic knowledge guidance or specialist education and training for staff members, to ensure that they clearly understand the provisions of laws and regulations relating to personal information protection, the scope of staff members’ responsibilities relating to personal information protection, and the various methods or management measures for protecting personal information."
+			"content": "The enterprise may appoint designated personnel or establish a dedicated organization to enforce personal data security with the allocation of appropriate resources.\r\nThe responsibility of the designated personnel or dedicated organization as referred to in the preceding paragraph shall be as follows:\r\n1. Planning, prescribing, amending and executing matters concerning plans for maintaining the security of personal data files, and methods of handling personal data after termination of business.\r\n2. Stipulating policies for the protection and management of personal data, as the basis and specific purposes for the collection, processing and use of personal data, and other matters concerning protection, and announcing these to ensure that they are clearly understood by all members of staff.\r\n3. Periodically conducting basic knowledge guidance or specialist education and training for staff members, to ensure that they clearly understand the provisions of laws and regulations relating to personal data protection, the scope of staff members’ responsibilities relating to personal data protection, and the various methods or management measures for protecting personal data."
 		},
 		{
 			"number": 400,
-			"content": "The enterprise shall check all personal information in its custody; define those personal information are included in the scope of the Plans and establish the archives; and confirm of any change periodically."
+			"content": "The enterprise shall check all personal data in its custody; define those personal data are included in the scope of the Plans and establish the archives; and confirm of any change periodically."
 		},
 		{
 			"number": 500,
-			"content": "The enterprise shall, in accordance with the scope of personal information as defined in the previous article and the related procedures, analyze the possible occurrence of risk, and set appropriate control measures based on the results of risk analysis."
+			"content": "The enterprise shall, in accordance with the scope of personal data as defined in the previous article and the related procedures, analyze the possible occurrence of risk, and set appropriate control measures based on the results of risk analysis."
 		},
 		{
 			"number": 600,
-			"content": "The enterprise shall adopt the following matters for responding to the theft, alteration, damage, destruction or disclosure of personal information in its custody:\r\n1. Adopt appropriate responsive measures to control consequential harm to the parties concerned, and notify Civil Aeronautics Administration of MOTC.\r\n2. Ascertain the current situation of the incident, and use appropriate means to notify the parties concerned. The notified information includes the fact of the incident which occurs on personal data, measures which the enterprise takes and the advisory service line provided.\r\n3. Formulate preventive mechanisms, to avoid the recurrence of such kind of incident."
+			"content": "The enterprise shall adopt the following matters for responding to the theft, alteration, damage, destruction or disclosure of personal data in its custody:\r\n1. Adopt appropriate responsive measures to control consequential harm to the parties concerned.\r\n2. Ascertain the current situation of the incident, and use appropriate means to notify the parties concerned. The notified information includes the fact of the incident which occurs on personal data, measures which the enterprise takes and the advisory service line provided.\r\n3. Formulate preventive mechanisms, to avoid the recurrence of such kind of incident.\r\nThe enterprise shall fill in the Personal data infringement incident notification and record form (the format is shown in the attached table) and notify Civil Aeronautics Administration of MOTC within 72 hours after discovering the incident mentioned in the preceding paragraph. If the notification is not made within the time limit, the reason for the delay shall be attached.\r\nAfter the incident in the preceding paragraph is reported, the competent authority may take appropriate supervision and management measures in accordance with the functions and powers conferred by Articles 22 to 26 of the Act."
 		},
 		{
 			"number": 700,
-			"content": "The enterprise shall establish the following management procedures respectively for ordinary personal information:\r\n1. Examining and confirming whether the collection, processing and use of personal information includes personal information and the specific purposes thereof prescribed in Article 6 of the Act.\r\n2. Confirming whether the collection, processing and use of personal information as prescribed in Article 6 of the Act is in compliance with the requirements of applicable laws and regulations.\r\n3. Where personal information does not fall within the ambit of Article 6 of the Act, but is considered to need special management, it may still be managed similarly or by the setting of a special management procedure."
+			"content": "The enterprise shall establish the following management procedures respectively for ordinary personal data:\r\n1. Examining and confirming whether the collection, processing and use of personal data includes personal data and the specific purposes thereof prescribed in Article 6 of the Act.\r\n2. Confirming whether the collection, processing and use of personal data as prescribed in Article 6 of the Act is in compliance with the requirements of applicable laws and regulations.\r\n3. Where personal data does not fall within the ambit of Article 6 of the Act, but is considered to need special management, it may still be managed similarly or by the setting of a special management procedure."
 		},
 		{
 			"number": 800,
-			"content": "The enterprises shall adopt the following steps for compliance with the provisions of Articles 8 and 9 of the Act concerning obligation to notify:\r\n1. Examine whether the specific purposes of the collection and processing of personal information match the reasons for exemption from notification.\r\n2. Adopt appropriate means of notification in accordance with the situation of the information collection."
+			"content": "The enterprises shall adopt the following steps for compliance with the provisions of Articles 8 and 9 of the Act concerning obligation to notify:\r\n1. Examine whether the specific purposes of the collection and processing of personal data match the reasons for exemption from notification.\r\n2. Adopt appropriate means of notification in accordance with the situation of the data collection."
 		},
 		{
 			"number": 900,
-			"content": "The enterprise shall examine whether its collection and processing of personal information has a specific purpose and legal imperative in compliance with the provisions of Article 19 of the Act.\r\nExamination of the use of personal information shall determine whether it is in compliance with the provisions of Article 20 Paragraph 1 of the Act, and is within the scope of the specific purpose of use; when personal information is used outside the scope of the specific purpose, examination shall determine whether there is a legally prescribed condition for use outside the specific purpose."
+			"content": "The enterprise shall examine whether its collection and processing of personal data has a specific purpose and legal imperative in compliance with the provisions of Article 19 of the Act.\r\nExamination of the use of personal data shall determine whether it is in compliance with the provisions of Article 20 Paragraph 1 of the Act, and is within the scope of the specific purpose of use; when personal data is used outside the scope of the specific purpose, examination shall determine whether there is a legally prescribed condition for use outside the specific purpose."
 		},
 		{
 			"number": 1000,
-			"content": "When the enterprise commissions another to collect, process or use personal information, in whole or in part, it shall conduct proper supervision of the commissioned party as prescribed in Article 8 of the Enforcement Rules of the Act, and set clear contractual requirements concerning the matters and methods of supervision."
+			"content": "When the enterprise commissions another to collect, process or use personal data, in whole or in part, it shall conduct proper supervision of the commissioned party as prescribed in Article 8 of the Enforcement Rules of the Act, and set clear contractual requirements concerning the matters and methods of supervision."
 		},
 		{
 			"number": 1100,
-			"content": "When the enterprise uses personal information for marketing for the first time, it shall provide the parties concerned with a free-of-charge means of expressing refusal to accept the marketing, and after an expression of refusal by a party concerned, shall immediately cease to use that party’s personal information for marketing, and announce this to all of its staff."
+			"content": "When the enterprise uses personal data for marketing for the first time, it shall provide the parties concerned with a free-of-charge means of expressing refusal to accept the marketing, and after an expression of refusal by a party concerned, shall immediately cease to use that party’s personal data for marketing, and announce this to all of its staff."
 		},
 		{
 			"number": 1200,
-			"content": "Before the enterprise conducts the international transmission of personal information, it shall examine whether the Ministry of Transportation and Communications has issued an applicable order or injunction limiting international transmission under the provisions of Article 21 of the Act, and shall comply therewith."
+			"content": "Before the enterprise conducts the international transmission of personal data, it shall comply with the following provisions:\r\n1. Examine whether the Ministry of Transportation and Communications has issued an applicable order or injunction limiting international transmission under the provisions of Article 21 of the Act, and shall comply therewith.\r\n2. Inform the data owner of the area to which his/her personal data is to be transferred internationally. Additionally, the data recipient should be supervised in the following areas:\r\n(1) The scope, category, specific purpose, period, region, subject, and method of the intended processing or use of personal data.\r\n(2) Matters related to the data owner’s exercise of the rights specified in Article 3 of the Act."
 		},
 		{
 			"number": 1300,
-			"content": "The enterprise shall adopt the following methods to provide the parties concerned with the means to exercise the rights prescribed in Article 3 of the Act:\r\n1. Confirming that the parties concerned are the subject of the personal information or are duly authorized to act on their behalf.\r\n2. Providing the parties concerned with means of exercising their rights, and complying with the relevant time limits prescribed in Article 13 of the Act.\r\n3. Informing whether there is a charge for necessary costs and expenses.\r\n4. If it is determined that there is a reason why the exercise of their rights by a party concerned may be refused under Articles 10 and 11 of the Act, the reason shall be given in notification to the party concerned."
+			"content": "The enterprise shall adopt the following methods to provide the parties concerned with the means to exercise the rights prescribed in Article 3 of the Act:\r\n1. Confirming that the parties concerned are the subject of the personal data or are duly authorized to act on their behalf.\r\n2. Providing the parties concerned with means of exercising their rights, and complying with the relevant time limits prescribed in Article 13 of the Act.\r\n3. Informing whether there is a charge for necessary costs and expenses.\r\n4. If it is determined that there is a reason why the exercise of their rights by a party concerned may be refused under Articles 10 and 11 of the Act, the reason shall be given in notification to the party concerned."
 		},
 		{
 			"number": 1400,
-			"content": "The enterprise shall adopt the following methods to maintain the accuracy of all personal information in its custody:\r\n1. Examining whether the procedure of collecting, processing and using personal information is correct.\r\n2. When incorrect personal information is discovered, promptly correcting or supplementing it, and informing all parties to whom it has previously been provided for use.\r\n3. Where there is a dispute as to the correctness of personal information, the matter shall be handled as prescribed in Article 11 Paragraph 2 of the Act."
+			"content": "The enterprise shall adopt the following methods to maintain the accuracy of all personal data in its custody:\r\n1. Examining whether the procedure of collecting, processing and using personal data is correct.\r\n2. When incorrect personal data is discovered, promptly correcting or supplementing it, and informing all parties to whom it has previously been provided for use.\r\n3. Where there is a dispute as to the correctness of personal data, the matter shall be handled as prescribed in Article 11 Paragraph 2 of the Act."
 		},
 		{
 			"number": 1500,
-			"content": "The enterprise shall periodically review the personal information in its custody to confirm the specific purpose for keeping information still exists and not expired. If not, proceed according to Paragraph 3 of Article 11 of the Act."
+			"content": "The enterprise shall periodically review the personal data in its custody to confirm the specific purpose for keeping data still exists and not expired. If not, proceed according to Paragraph 3 of Article 11 of the Act."
 		},
 		{
 			"number": 1600,
-			"content": "The enterprise may adopt the following personnel management measures:\r\n1. In accordance with operational needs, to a suitable degree setting various limits on the authority of members of staff and controlling their access to personal information.\r\n2. Reviewing the personnel with responsibility for all relevant work procedures involving the collection, processing and use of personal information.\r\n3. Setting confidentiality obligations in contracts with all staff members."
+			"content": "The enterprise may adopt the following personnel management measures:\r\n1. In accordance with operational needs, to a suitable degree setting various limits on the authority of members of staff and controlling their access to personal data.\r\n2. Reviewing the personnel with responsibility for all relevant work procedures involving the collection, processing and use of personal data.\r\n3. Setting confidentiality obligations in contracts with all staff members."
 		},
 		{
 			"number": 1700,
-			"content": "The enterprise may adopt the following information security management measures:\r\n1. When using computer or automatic machine related equipment to collect, process and use personal information, appropriately set rules for use of portable devices or storage media.\r\n2. If the content of personal information under custody has a need for encryption, adopt appropriate encryption mechanisms when collecting, processing or storing the information.\r\n3. When a work process entails a need for backing up personal information, it shall be accorded the same protection as original documents in accordance with the provisions of the Act.\r\n4. Where personal information is recorded on or in paper, magnetic disk, magnetic tape, compact disk, microfiche, IC chip, or other medium, appropriate preventive measures must be adopted to prevent the disclosure of such personal information when the medium is scrapped or transferred to other purpose."
+			"content": "The enterprise may adopt the following data security management measures:\r\n1. When using computer or automatic machine related equipment to collect, process and use personal data, appropriately set rules for use of portable devices or storage media.\r\n2. If the content of personal data under custody has a need for encryption, adopt appropriate encryption mechanisms when collecting, processing or storing the data.\r\n3. When a work process entails a need for backing up personal data, it shall be accorded the same protection as original documents in accordance with the provisions of the Act.\r\n4. Where personal data is recorded on or in paper, magnetic disk, magnetic tape, compact disk, microfiche, IC chip, or other medium, appropriate preventive measures must be adopted to prevent the disclosure of such personal data when the medium is scrapped or transferred to other purpose."
+		},
+		{
+			"number": 1701,
+			"content": "In accordance with business requirements, the enterprise shall take the following data security measures when collecting, processing, or utilizing personal data through an information and communications system:\r\n1. Confirmation and protection mechanism for user identity.\r\n2. Masking mechanism for the display of personal data.\r\n3. Security encryption mechanism for Internet transmission.\r\n4. Access control and protection monitoring measures for personal data files and databases.\r\n5. Countermeasures to prevent external network intrusion\r\n6. Monitoring and response mechanisms for illegal or abnormal use behaviors.\r\nThe measures Subparagraphs 5 and 6 of the preceding paragraph shall be regularly practiced and reviewed for improvement."
 		},
 		{
 			"number": 1800,
-			"content": "The enterprises must adopt the following environmental management measures in respect of the environment of paper, magnetic disks, magnetic tapes, compact disks, microfiches, IC chips, computers, automatic machines or devices, or other media on or in which personal information is kept:\r\n1. Implementing appropriate methods of input and output control in accordance with differences of business content.\r\n2. Requiring all staff members to keep secure custody of storage media containing personal information.\r\n3. Giving consideration to the establishment of suitable protective equipment or technology for each different media environment."
+			"content": "The enterprises must adopt the following environmental management measures in respect of the environment of paper, magnetic disks, magnetic tapes, compact disks, microfiches, IC chips, computers, automatic machines or devices, or other media on or in which personal data is kept:\r\n1. Implementing appropriate methods of input and output control in accordance with differences of business content.\r\n2. Requiring all staff members to keep secure custody of storage media containing personal data.\r\n3. Giving consideration to the establishment of suitable protective equipment or technology for each different media environment."
 		},
 		{
 			"number": 1900,
-			"content": "After the enterprise terminates business, it may consider taking the following measures in respect of personal information, and keep relevant records as prescribed:\r\n1. Destruction: Record the method, time and location of destruction, and keep proof of method of destruction.\r\n2. Transfer: Record the reason for transfer, the transferee, method, time and location of transfer, and the legal basis for the transferee being permitted to take custody of the personal information.\r\n3. Other deletion or termination of processing or use of personal information: Record the method, time and location of the deletion or termination of processing or use."
+			"content": "After the enterprise terminates business, it may consider taking the following measures in respect of personal data, and keep relevant records as prescribed:\r\n1. Destruction: Record the method, time and location of destruction, and keep proof of method of destruction.\r\n2. Transfer: Record the reason for transfer, the transferee, method, time and location of transfer, and the legal basis for the transferee being permitted to take custody of the personal data.\r\n3. Other deletion or termination of processing or use of personal data: Record the method, time and location of the deletion or termination of processing or use."
 		},
 		{
 			"number": 2000,
-			"content": "The enterprise shall establish a mechanism for the audit of personal information security, and conduct routine or special inspection for assuring the Plans or the means for handling personal information after the termination of operation are duly executed."
+			"content": "The enterprise shall establish a mechanism for the audit of personal data security, and conduct routine or special inspection for assuring the Plans or the means for handling personal data after the termination of operation are duly executed."
 		},
 		{
 			"number": 2100,
-			"content": "The enterprise may take appropriate measures, by adopting mechanisms for keeping records of the use of personal information, or the retention of tracking data in automatic machines or devices, or other relevant proof, to provide when necessary for explaining the situation of the execution of its Plan."
+			"content": "The enterprise may take appropriate measures, by adopting mechanisms for keeping records of the use of personal data, or the retention of tracking data in automatic machines or devices, or other relevant proof, to provide when necessary for explaining the situation of the execution of its Plan."
 		},
 		{
 			"number": 2200,
