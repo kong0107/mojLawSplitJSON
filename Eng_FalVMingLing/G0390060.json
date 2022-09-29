@@ -4,13 +4,14 @@
 	"english": "Compulsory Automobile Liability Insurance Act",
 	"title": "強制汽車責任保險法",
 	"url": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0390060",
-	"englishUpdate": "20210120",
+	"englishUpdate": "20220615",
 	"history": [
 		"Full text of 50 articles enacted and promulgated on December 27, 1996 per Presidential Order No. Hua-Zong-(I)-Yi-8500301850\r\n  Issued 22 October 1997 per Order No. (86)-Taiwan-Finance-40498 of the Executive Yuan; for implementation from January 1, 1998\r\n  Purchase of compulsory automobile liability insurance by motorcycle owners to be implemented from January 1, 1999",
 		"Full text of 53 articles amended and promulgated on February 5, 2005 per Presidential Order No. Hua-Zong-I-Yi-09400017821; for implementation from the date of promulgation",
 		"Amended on May 19, 2010",
 		"Articles 16 and 23 amended and promulgated on January 6, 2016 per Presidential Order No. Hua-Zong-I-Yi-10400154131",
-		"Article 3, 5, 19, 22, 27, and 35 amended and promulgated on January 20, 2021 per Presidential Order No. Hua-Zong-I-Jing-11000003451"
+		"Article 3, 5, 19, 22, 27, and 35 amended and promulgated on January 20, 2021 per Presidential Order No. Hua-Zong-I-Jing-11000003451",
+		"Articles 38, 49, 50 and 53 amended, and Articles 5-1 and 51-1 added per Presidential Order No. Hua-Zong-I-Jing-11100049751 dated June 15, 2022"
 	],
 	"divisions": [
 		{
@@ -69,7 +70,7 @@
 			"number": 500,
 			"title": "Penalty",
 			"start": 4800,
-			"end": 5100
+			"end": 5101
 		},
 		{
 			"type": "chapter",
@@ -99,6 +100,10 @@
 		{
 			"number": 500,
 			"content": "(Definition of Automobile)\r\nIn this Act, \"automobile\" means an automobile as provided in Article 2, subparagraph 10 of the Highway Act, or any other motorized machinery driven on a road.\r\n\"Motorcycle,\" as used in Articles 38 and 49, is also an automobile as defined in Article 2, subparagraph 10 of the Highway Act.\r\nIn addition to the vehicles given in the two preceding paragraphs, \"automobile\" also includes specified overland motorized vehicles that do not run on rails and have a transport function; the range of vehicles to be included in this category and the automobile categories for which the establishment of a contract for this insurance is required will be prescribed and announced by the competent authority in conjunction with the central competent authority for trans- portation and communications."
+		},
+		{
+			"number": 501,
+			"content": "Mini electric two-wheel vehicle under Article 69, Paragraph 1, Subparagraph 1, Item 3 of the Road Traffic Management and Penalty Act shall be regarded as “automobile” under this Act; the party with the duty to insure shall establish a contract for this insurance as provided herein; for mini electric two-wheel vehicle without an insurance contract, the highway supervisory authority will not accept an application for registration, or replacement or issuance of license plate.\r\nFor mini electric two-wheel vehicle that has been inspected, applied for safety type approval and affixed with a certificate of approval prior to the implementation of Article 71-1, Paragraph 4 of the Road Traffic Management and Penalty Act, the party with the duty to insure shall establish a contract for this insurance as provided herein within two years after the implementation of the aforementioned provisions, and shall apply for registration and receive and be affixed with a license plate in accordance with the Penalty Act.\r\nIf the party with the duty to insure a mini electric two-wheel vehicle fails to establish a contract for this insurance as provided herein, any automobile traffic accident caused by the mini electric two-wheel vehicle will not be covered by this insurance."
 		},
 		{
 			"number": 600,
@@ -230,7 +235,7 @@
 		},
 		{
 			"number": 3800,
-			"content": "(Establishment of the Compensation Fund)\r\nThe Compensation Fund shall be established in order to ensure prompt basic coverage for all the injured parties in automobile traffic accidents under this Act, and to ensure the soundness of this insurance system.The Compensation Fund shall maintain separate accounts for automobiles and for motorcycles as a basis for calculation of fees.\r\nThe Compensation Fund shall be an incorporated foundation; its articles of incorporation and regulations governing management of the fund shall be adopted by the competent authority in conjunction with the central competent authority for transportation and communications."
+			"content": "(Establishment of the Compensation Fund)\r\nThe Compensation Fund shall be established in order to ensure prompt basic coverage for all the injured parties in automobile traffic accidents under this Act, and to ensure the soundness of this insurance system. The Compensation Fund shall maintain separate accounts for automobiles, motorcycles, and mini electric two-wheel vehicle as a basis for calculation of fees.\r\nThe Compensation Fund shall be an incorporated foundation; its articles of incorporation and regulations governing management of the fund shall be adopted by the competent authority in conjunction with the central competent authority for transportation and communications."
 		},
 		{
 			"number": 3900,
@@ -278,15 +283,19 @@
 		},
 		{
 			"number": 4900,
-			"content": "(Penal Provisions)\r\nThe penalty for a party with the duty to insure who fails to establish a contract for this insurance as provided herein, or fails to establish another such contract prior to the expiry of the policy period for this insurance, shall be as below:\r\n1.When discovered at a roadside check and reported by a highway supervisory or police authority, an administrative fine will be imposed by the highway supervisory authority. For an automobile, an administrative fine of not less than NT$3,000 and not more than NT$15,000 shall be imposed; for a motorcycle, an administrative fine of not less than NT$1,500 and not more than NT$ 3,000 shall be imposed.\r\n2.When an uninsured automobile causes an accident, a highway supervisory authority will impose an administrative fine of not less than NT$6,000 and not more than NT$30,000, and will impound the automobile license plate and return it after the automobile is insured as required.\r\nAdministrative fines under the preceding paragraph may be paid in installments. The central competent authority for transportation and communications in conjunction with the competent authority shall adopt regulations governing related matters including the conditions for applying, numbers of installments, and handling of failure to pay by the deadline."
+			"content": "(Penal Provisions)\r\nThe penalty for a party with the duty to insure who fails to establish a contract for this insurance as provided herein, or fails to establish another such contract prior to the expiry of the policy period for this insurance, shall be as below:\r\n1.When the violation is discovered at a roadside check by the highway supervisory authority or by the police when performing traffic duties, or reported by the highway supervisory authority or police together with a violation of the Road Traffic Management and Penalty Act, an administrative fine will be imposed by the highway supervisory authority. For an automobile, an administrative fine of not less than NT$3,000 and not more than NT$15,000 shall be imposed; for a motorcycle, an administrative fine of not less than NT$1,500 and not more than NT$ 3,000 shall be imposed; and for a mini electric two-wheel vehicle, an administrative fine of not less than NT$750 and not more than NT$1,500 shall be imposed.\r\n2.When an uninsured automobile causes an accident, the highway supervisory authority will impose an administrative fine of not less than NT$9,000 and not more than NT$32,000.\r\nAdministrative fines under the preceding paragraph may be paid in installments. The central competent authority for transportation and communications in conjunction with the competent authority shall adopt regulations governing related matters including the conditions for applying, numbers of installments, and handling of failure to pay by the deadline."
 		},
 		{
 			"number": 5000,
-			"content": "(Procedures for Payment of the Administrative Fine)\r\nCertificates for this insurance shall be inspected by highway supervisory authorities during roadside checks and by the police when engaged in traffic duties; instances where this insurance has not been taken out as required shall be reported.\r\nUpon receipt of a notice of a violation of this insurance, a party with the duty to insure shall within 15 days appear at the designated location to receive a decision; when said party has failed to appear by the end of that period, the highway supervisory authority may issue a default decision, provided that when the party with the duty to insure acknowledges that the facts of the violation are as stated in the notice, said party may directly pay the administrative fine imposed by the highway supervisory authority at the designated site without waiting for a decision, and the case will then be closed."
+			"content": "(Procedures for Payment of the Administrative Fine)\r\nCertificates for this insurance shall be inspected by highway supervisory authorities during roadside checks and by the police when engaged in traffic duties; instances where this insurance has not been taken out as required shall be reported.\r\nWhen the highway supervisory authority or police reports a person for violation of the Road Traffic Management and Penalty Act, the instance where the person has not taken out this insurance as required shall be reported at the same time.\r\nUpon receipt of a notice of a violation of this insurance, a party with the duty to insure shall within 15 days appear at the designated location to receive a decision; when said party has failed to appear by the end of that period, the highway supervisory authority may issue a default decision, provided that when the party with the duty to insure acknowledges that the facts of the violation are as stated in the notice, said party may directly pay the administrative fine imposed by the highway supervisory authority at the designated site without waiting for a decision, and the case will then be closed."
 		},
 		{
 			"number": 5100,
 			"content": "(Compulsory Execution)\r\nPrior to the payment of an administrative fine issued pursuant to this Act, a highway supervisory authority will not process any license re-issuance, register an alteration [of registered particulars], or handle inspection for an automobile for which establishment of a contract for of this insurance is required.\r\nCompulsory execution procedures will be initiated in accordance with the law for failure to pay the administrative fine referenced in the preceding paragraph within the prescribed period."
+		},
+		{
+			"number": 5101,
+			"content": "Where a party with the duty to insure fails to establish another contract for this insurance as provided herein within six months after the expiry of the original policy period, the competent authority may forward the case to highway supervisory authority to revoke the party’s automobile license plate."
 		},
 		{
 			"number": 5200,
@@ -294,7 +303,7 @@
 		},
 		{
 			"number": 5300,
-			"content": "(Date of Enforcement)\r\nThis Act shall be implemented from the date of promulgation."
+			"content": "(Date of Enforcement)\r\nExcept for articles amended on May 30, 2022 where the date of implementation will be determined by the Executive Yuan, this Act shall be implemented from the date of promulgation."
 		}
 	]
 }
