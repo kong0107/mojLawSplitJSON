@@ -1,0 +1,46 @@
+{
+  "LawLevel": "命令",
+  "LawName": "嚴重污染環境輻射標準",
+  "LawURL": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0160029",
+  "LawCategory": "行政＞行政院原子能委員會＞原子能目",
+  "LawModifiedDate": "20110107",
+  "LawEffectiveDate": "",
+  "LawEffectiveNote": "",
+  "LawAbandonNote": "",
+  "LawHasEngVersion": "N",
+  "EngLawName": "",
+  "LawAttachements": [
+    {
+      "FileName": "附表：土壤中放射性核種活度濃度嚴重污染標準.PDF",
+      "FileURL": "https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000234959"
+    },
+    {
+      "FileName": "附表：土壤中放射性核種活度濃度嚴重污染標準.DOC",
+      "FileURL": "https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000088642"
+    }
+  ],
+  "LawHistories": "1.中華民國九十二年一月三十日行政院原子能委員會會輻字第 092000274\r\n  2 號令訂定發布全文 4  條；本標準自游離輻射防護法施行之日施行\r\n2.中華民國一百年一月七日行政院原子能委員會會輻字第 1000000084 號\r\n  令修正發布全文 4  條；並自發布日施行",
+  "LawForeword": "",
+  "LawArticles": [
+    {
+      "ArticleType": "A",
+      "ArticleNo": "第 1 條",
+      "ArticleContent": "本標準依游離輻射防護法（以下簡稱本法）第三十八條第二項規定訂定之。"
+    },
+    {
+      "ArticleType": "A",
+      "ArticleNo": "第 2 條",
+      "ArticleContent": "擅自或未依規定進行輻射作業而改變輻射工作場所外空氣、水或土壤原有之放射性物質含量，造成環境中有下列各款情形之一者，為嚴重污染環境：\r\n一、一般人年有效劑量達十毫西弗者。\r\n二、一般人體外曝露之劑量，於一小時內超過過○‧二毫西弗。\r\n三、空氣中二小時內之平均放射性核種濃度超過主管機關公告之年連續空氣中排放物濃度之一千倍。\r\n四、水中二小時內之平均放射性核種濃度超過主管機關公告之年連續水中排放物濃度之一千倍。\r\n五、放射性核種超過附表土壤中放射性核種活度濃度嚴重污染標準規定，且污染面積達一千平方公尺以上。"
+    },
+    {
+      "ArticleType": "A",
+      "ArticleNo": "第 3 條",
+      "ArticleContent": "前條第三款、第四款規定之放射性核種為混合物時，其計算方法如下：\r\n n    Ci\r\nΣ  ─── > 1000\r\ni=1  Ci,0\r\n式中：Ci：第 i  個核種濃度（單位：貝克／立方公尺）。\r\n      Ci,0：第 i  個核種公告之年連續排放物濃度（單位：貝克／立方\r\n            公尺）。\r\n      n ：所含核種之數目。\r\n前條第五款規定之放射性核種為混合物時，其計算方法如下：\r\n n    Ai\r\nΣ  ─── > 1\r\ni=1  Ai,0\r\n式中：Ai：第 i  個核種活度濃度（單位：貝克／克）。\r\n      Ai,0：第 i  個核種活度濃度標準（單位：貝克／克）。\r\n      n ：所含核種之數目。\r\n"
+    },
+    {
+      "ArticleType": "A",
+      "ArticleNo": "第 4 條",
+      "ArticleContent": "本標準自發布日施行。"
+    }
+  ]
+}

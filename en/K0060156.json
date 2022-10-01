@@ -1,0 +1,307 @@
+{
+  "LawLevel": "命令",
+  "EngLawName": "Accounting Standards and Regulations for the Telecommunications Enterprise with Significant Market Power",
+  "LawName": "市場顯著地位者會計制度及會計處理準則",
+  "EngLawURL": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0060156",
+  "EngLawModifiedDate": "20201126",
+  "EngLawAbandonNote": "",
+  "EngLawAttachements": [
+    {
+      "FileName": "Attached Figure：Cost Allocation Framework for Telecommunications Services.pdf",
+      "FileURL": "https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006515"
+    },
+    {
+      "FileName": "Accounting Standards and Regulations for the Telecommunications Enterprise with Significant Market Power.pdf",
+      "FileURL": "https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006516"
+    }
+  ],
+  "EngLawHistories": "1.Promulgated on November 26,2020",
+  "EngLawForeword": "",
+  "EngLawArticles": [
+    {
+      "EngArticleType": "C",
+      "EngArticleNo": "",
+      "EngArticleContent": "   Chapter I General Rules"
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 1",
+      "EngArticleContent": "These Standards are enacted in accordance with Paragraph 3 of Article 34 of Telecommunications Management Act."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 2",
+      "EngArticleContent": "The terms used in the Standards are defined as follows:\r\n1. Licensed segment: the segment within a telecommunications enterprise that provides telecommunications services.\r\n2. Other segments: other segments within a telecommunications enterprise that provides non-licensed（non-telecommunications）services.\r\n3. Related parties: as defined in Financial Supervisory Commission recognized International Financial Reporting Standards（IFRS）, International Accounting Standards（IAS）, and Interpretations developed by the International Financial Reporting Interpretations Committee（IFRIC）or the former Standing Interpretations Committee（SIC）.\r\n4. Entity accounting: the accounting principles, accounting policies and chart of accounts prescribed for a telecommunications enterprise to prepare its consolidated financial information thereof.\r\n5. Separation accounting: the concepts, methods and practice prescribed for a telecommunications enterprise that attribute its revenues, costs and assets to telecommunications services or other non-telecommunications services.\r\n6. Accounting Operating Procedures Manual（procedures manual）: a document used by the telecommunications enterprise to specify and illustrate the steps for implementing the Standards.\r\n7. Capital cost: the opportunity cost of the funds invested for maintaining operations.\r\n8. Jointly acquired asset: an asset that is purchased or constructed with an intention of it being used by a telecommunications enterprise and its related parties and has limited alternative uses.\r\n9. Data pool: a mechanism that compiles data on the costs, assets and revenues derived from an operating activity or telecommunications service.\r\n10. Driver: a factor that causes costs, revenue and assets; and is used to measure the extent of resources consumed by telecommunications services.\r\n11. Equal Proportionate Mark-Up: a method of allocating common costs in proportion to the cost already allocated to the separate segments（i.e., costs directly and indirectly attributed to the licensed segment）."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 3",
+      "EngArticleContent": "The accounting policies, system, methods, procedures and principles of enterprises with significance in the market shall be handled in accordance with these Standards. Those that are not specified in the Standards shall refer to the generally accepted accounting principles.\r\nThe generally accepted accounting principles described in the preceding paragraph refer to Financial Supervisory Commission recognized and issued International Financial Reporting Standards（IFRS）, International Accounting Standards（IAS）, and Interpretations developed by the International Financial Reporting Interpretations Committee（IFRIC）or the former Standing Interpretations Committee（SIC）."
+    },
+    {
+      "EngArticleType": "C",
+      "EngArticleNo": "",
+      "EngArticleContent": "   Chapter II Separation Accounting"
+    },
+    {
+      "EngArticleType": "C",
+      "EngArticleNo": "",
+      "EngArticleContent": "      Section 1 Basic separation accounting principles"
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 4",
+      "EngArticleContent": "The enterprises with significant market power shall attribute the costs, revenues and assets thereof to licensed segments and other segments in the its accounting（financial）statements. Those that have been attributed to licensed segments shall be further subdivided to their respective telecommunications services.\r\nThe costs described in the preceding paragraph refers to operating costs and capital costs.\r\nThe telecommunications services as described in Paragraph 1 include: local network services, long-distance services, international network services, wireless broadband access services, mobile broadband services, circuit（including domestic long-distance terrestrial cables and international submarine cables）lease services, satellite mobile communications services, fixed satellite communications services, satellite broadcasting program relay services and satellite circuit rental services.\r\nThe competent authority may request enterprises with significant market power to further subdivide the financial data of telecommunications services described in the preceding paragraph based on tariff items（such as network interconnection bandwidth, local loops, digital subscriber loop and other circuit items）thereof.\r\nSeparation accounting data provided by enterprises with significance in the market shall be consistent with their entity accounting data."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 5",
+      "EngArticleContent": "Enterprises with significant market power shall record the costs, revenues and assets that are unrelated to the operations of licensed segment separately. Where the financial data of licensed segment and other segments cannot be recorded separately, it is necessary to adopt separation rules prescribed in the Standards accordingly."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 6",
+      "EngArticleContent": "When implementing separation accounting, enterprises with significant market power shall adhere to the following principles:\r\n1. The attribution and causes of costs, revenue and assets shall be relevant.\r\n2. The separation of costs, revenues and assets shall be objectively and unbiasedly handled.\r\n3. The separation methods adopted for costs, revenues and assets before and after the accounting period shall be consistent.\r\n4. The attribution methods used for costs, revenues and assets shall be reasonable.\r\n5. The sampling methods shall comply with the principles of statistics."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 7",
+      "EngArticleContent": "When implementing separation accounting, enterprises with significant market power shall refer to the accounting records generated from their system established according to these Standards as well as their operating information.\r\nThe operating information as prescribed in the preceding paragraph refers to the network architecture, internet usage, network capacity, number of provided services and their respective expenditures and other business-related information."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 8",
+      "EngArticleContent": "The transfer pricing methods adopted by enterprises with significant market power for internal transactions shall be stipulated in the enterprises’ accounting system.\r\nThe internal transactions described in the preceding paragraph refer to the provision or receipt of products, services, assets（use and transfer of assets）and other resources between telecommunications services."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 9",
+      "EngArticleContent": "Enterprises with significant market power shall categorize all costs, assets and revenues into the following three categories based on their relevance with the telecommunications services:\r\n1. Directly attributable items: items that are identified as being caused by a specific telecommunications service; and the said service can be directly tracked or precisely identified from the enterprise’s subsidiary and general ledger.\r\n2. Indirectly attributable items: items that are identified as being caused by a specific telecommunications service, but the said service cannot be directly tracked or precisely identified from the enterprise’s subsidiary and general ledger.\r\n3. Unattributable items: items that cannot be identified as being caused by a specific telecommunications service.\r\nThe established system shall be able to directly attribute items that are identified as being caused by a specific telecommunications service."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 10",
+      "EngArticleContent": "Upon categorizing costs, assets and revenues according to the preceding Article, enterprises with significant market power shall implement attribution according to the following order and principles:\r\n1. Directly attributable items shall be directly attributed to telecommunications services.\r\n2. Indirectly attributable items shall be indirectly attributed to telecommunications services according to their respective driver.\r\n3. Unattributable items shall be attributed to telecommunications services in accordance with Equal Proportionate Mark-Up."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 11",
+      "EngArticleContent": "When implementing the attribution as prescribed in the previous Article, enterprises with significant market power shall analyze the drivers and collect the data of indirectly attributable items according to the following steps and methods:\r\n1. The relevance between directly attributable items（i.e., the costs, assets and revenues thereof）and relevant operating activities shall be firstly analyzed, followed by a review on the relevance between business activities and telecommunications services to ensure the drivers thereof.\r\n2. Establish a data pool according to operating activities confirmed in the preceding subparagraph to collect directly attributable costs, assets and revenues; and allocate them to telecommunications services based on operating activities."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 12",
+      "EngArticleContent": "When allocating directly attributable costs, assets and revenues according to the driver, enterprises with significant market power may estimate the drivers using the sampling technique."
+    },
+    {
+      "EngArticleType": "C",
+      "EngArticleNo": "",
+      "EngArticleContent": "      Section 2 Cost allocation principles"
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 13",
+      "EngArticleContent": "Enterprises with significant market power shall attribute the operating costs of entity accounting to the following four cost data pool and itemized cost data pool（as the figure attached）according to Articles 9 to 12:\r\n1. Telecommunications services: this data pool collects data on operating costs that are directly attributed to telecommunications services, including the costs of network components, supporting functions and general management functions of all services.\r\n2. Network components: this data pool collects cable, exchange, transmission and other internet equipment related costs that cannot be directly attributed to telecommunications services.\r\n3. Supporting functions: this data pool collects the costs that cannot be directly attributed to telecommunications services but are prerequisite for the provision of telecommunications services（ex. when providing customers services or internet support services）.\r\n4. General management functions: This data pool collects costs that are not directly related to telecommunications services, but are prerequisite for running the operations of its licensed segment\r\nThe operating costs as described in previous paragraph refers to the direct or indirect costs of telecommunications services."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 14",
+      "EngArticleContent": "The network component items shall be subdivided into loops, trunks, exchange equipment, transmission equipment, signaling network equipment, network interface equipment, directory equipment and services, base station and so on according to their respective functions.\r\nThe network components categorized according to their functions shall then be subdivided according to the service type."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 15",
+      "EngArticleContent": "The supporting functions shall be subdivided into network management, power, materials management, accounting, customer service, marketing, commission or agent fee, installation and setup, product development and other supporting functions. For those that cannot be attributed to the aforesaid items, it shall be necessary to establish new supporting functions therefor."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 16",
+      "EngArticleContent": "General management functions shall be subdivided into execution and planning; procurement; finance and accounting; information technology; research and development; control matters; and other general management functions. For those that cannot be attributed to the aforesaid items, it is necessary to establish new general management functions therefor."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 17",
+      "EngArticleContent": "When implementing the subdivision of cost data pool subdivision as prescribed in Articles 14 to 16, enterprises with significant market power shall further subdivide the cost data pool if any difference is found in the drivers of account."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 18",
+      "EngArticleContent": "All costs shall, according to the actual use thereof, be attributed to the internal occurring or beneficiary unit of enterprises with significant market power and be attributed according to the functions of operating activities engaged by the occurring or beneficiary unit in accordance with Articles 13 to 17.\r\nThe cost data collection process could involve several detailed sub-processes, which shall be conducted in accordance with the Regulations."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 19",
+      "EngArticleContent": "Enterprises with significant market power shall, according to the working time records, analyze the working hours of personnel involved in various operating activities or telecommunications services. The enterprises shall also calculate the personnel expenses derived from operating activities and telecommunications services based on individuals weighted average hourly rate prior to the implementation of the preceding Article."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 20",
+      "EngArticleContent": "Depreciation costs shall be calculated with the straight-line method and the minimum depreciation period shall comply with the Table of Service Life of Fixed Assets stipulated by the Ministry of Finance.\r\nThe depreciation costs shall be separated to the operating activities or telecommunication services according to the attribution method specified in Articles 28 to 35; and then be attributed to the subdivision item according to Article 18."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 21",
+      "EngArticleContent": "After attributing telecommunications operating costs and capital costs to the suitable subdivisions of cost data pool according to Articles 13 to 17, enterprises with significant market power shall implement the following cost allocation steps:\r\n1. Allocating general management function costs to the cost data pool of telecommunications services, network components and supporting functions using the Equal Proportionate Mark-Up approach.\r\n2. Allocating supporting function costs to the cost data pool of telecommunications services and network components according to the drivers thereof.\r\n3. Allocating network component costs to the cost data pool of telecommunications services according to the drivers thereof.\r\n4. Collect costs derived from various telecommunications services."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 22",
+      "EngArticleContent": "In the cost driver analysis, network components shall be first disaggregated into traffic sensitive and non-traffic sensitive network components based on the equipment records.\r\nTraffic sensitive network components described in the preceding paragraph refer to the network components used by several customers in common. \"Non-traffic sensitive network components\" refer to the network components dedicated to a particular customer.\r\nThe costs of traffic sensitive network components shall be allocated to individual telecommunications services based on network traffic.\r\nThe costs of non-traffic sensitive network components shall be allocated to individual telecommunications services based on consumed network resources.\r\nThe network component cost analysis data shall be traceable to an individual data center or exchange office."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 23",
+      "EngArticleContent": "When implementing cost allocation as prescribed in Article 21, enterprises with significant market power shall refer to Attachment 1 as the guidelines for setting up the cost allocation bases."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 24",
+      "EngArticleContent": "The operating costs associated with spare capacity assets shall be allocated to individual telecommunications services, based on the same allocation methodology as assets in use.\r\nThe spare capacity assets described in the preceding paragraph refer to assets additionally purchased to effectively respond to current telecommunications services and to satisfy the potential demand for communications. The said assets include equipment, land and the data center."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 25",
+      "EngArticleContent": "With respect to internal transactions , namely the provision or receipt of products, services or use of assets, between telecommunications services of an enterprise with significant market power, it is necessary to adhere to provisions specified in Article 26 and the pricing thereof shall be calculate based on the unit trading price times the actual trading volume.\r\nThe unit trading price as described in the preceding paragraph shall be set according to the following order:\r\n1. Those that can refer to the telecommunications tariffs shall be calculated therewith.\r\n2. Those that can refer to the market price shall be calculated therewith.\r\n3. Those that cannot have its costs calculated according to the aforesaid methods shall be calculated according to the product, service and asset use（including the capital cost）costs."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 26",
+      "EngArticleContent": "With respect to internal jointly acquired assets, enterprises with significant market power shall calculate the periodic costs thereof according to any of the following two conditions:\r\n1. When the total actual usage of all users is greater than or equal to the total anticipated usage of all users, enterprises with significance in the market shall allocate the periodic costs thereof based on the actual usage.\r\n2. When the total actual usage of all user is smaller than the total anticipated usage, the periodic costs shall be calculated as follows:\r\n（1）If the total usage of the enterprise with significance in the market exceeds or equals to the anticipated usage, the periodic costs shall be allocated according to the actual usage.\r\n（2）If the total usage of the enterprise with significance in the market is less than the anticipated usage, the allocation base equals the enterprise’s anticipated usage less the adjustment of usage difference. The formulas are as follows:\r\na. “The enterprise’s cost allocation basis” equals to “the enterprise’s anticipated usage “ minus “adjustment of usage difference”.\r\nb. “Adjustment of usage difference” equals to（the total actual usage of all users less the anticipated usage of all users）times（the enterprise’s anticipated usage less the enterprise’s actual usage）divided by（the anticipated usage of all users who have insufficient use less the actual usage of all users who have insufficient use）.\r\nThe periodic costs as described in the preceding paragraph refer to operating and capital costs derived from jointly acquired assets and incurred during the current accounting year. Jointly acquired asset refers to an asset that is purchased or constructed with an intention of it being used by various telecommunication services and such asset is not used for other purposes."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 27",
+      "EngArticleContent": "When costs are separated to individual telecommunications services or operating activities, the cost structure thereof shall be identical with that specified in the individual income statement."
+    },
+    {
+      "EngArticleType": "C",
+      "EngArticleNo": "",
+      "EngArticleContent": "      Section 3 Asset separation principles"
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 28",
+      "EngArticleContent": "The provisions governing cost separation under Articles 13 to 17 shall apply mutatis mutandis to the attribution of entity accounting assets."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 29",
+      "EngArticleContent": "The provisions under Article 18 shall apply mutatis mutandis to the collection of individual asset data."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 30",
+      "EngArticleContent": "The provisions under Article 21 shall apply mutatis mutandis to cost allocation after the separation of assets as described in Article 28."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 31",
+      "EngArticleContent": "Unless otherwise approved by the competent authority, asset transfers between telecommunications services of enterprises with significant market power shall be recorded at the fair market value. If the fair market value cannot be confirmed, the transfer shall be recorded at the book value of the transferred asset."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 32",
+      "EngArticleContent": "The costs of back capacity assets shall be allocated to individual telecommunications services according to the operating costs and the method described in Article 24"
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 33",
+      "EngArticleContent": "Internal jointly acquired asset shall be allocated to individual telecommunications services according to its anticipated usage."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 34",
+      "EngArticleContent": "When assets are separated to individual telecommunications services or operating activities, the asset structure thereof shall be identical with that specified in the balance sheet."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 35",
+      "EngArticleContent": "The asset separation methods for enterprises with significant market power shall refer to Attachment 2。"
+    },
+    {
+      "EngArticleType": "C",
+      "EngArticleNo": "",
+      "EngArticleContent": "      Section 4 Capital cost calculation principles"
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 36",
+      "EngArticleContent": "The capital costs of a telecommunications service or operating activity shall equal the capital employed for the service or operating activity multiplied by the enterprise’s cost of capital."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 37",
+      "EngArticleContent": "The capital employed for telecommunications services or operating activities as described in the previous Article refers to assets that have been separated to the said service or operating activities in accordance with Articles 28 to 35. It includes the directly used property, plant and equipment; capital that is compulsory for maintaining the normal operations; and assets separated from individual functions."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 38",
+      "EngArticleContent": "The cost of capital of enterprises with significant market power shall reflect the opportunity cost of invested funds.\r\nThose that engage in several telecommunications services shall calculate the cost of capital of individual services according to their respective financial and operating risks."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 39",
+      "EngArticleContent": "The cost of capital that is applicable to a network component and operating activity shall be the cost of capital of the telecommunications services separated to that network component or operating activity.\r\nWhere several services jointly use a network component or operating activity, it is necessary to calculate their respective costs of capital according to the parts that have been separated thereto."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 40",
+      "EngArticleContent": "The calculation of capital cost of enterprises with significant market power shall refer to Attachment 3."
+    },
+    {
+      "EngArticleType": "C",
+      "EngArticleNo": "",
+      "EngArticleContent": "      Section 5 Revenue separation principles"
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 41",
+      "EngArticleContent": "Operating revenue that can be directly traced to a specific telecommunications service shall be directly attributed to that service with the use of accounting records and system."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 42",
+      "EngArticleContent": "Operating revenues that are generated by several telecommunications services and cannot be directly traced to a specific telecommunications service shall be allocated accordingly:\r\n1. Those that can refer to the telecommunications tariffs shall be allocated according to their proportion of revenue that is calculated from the telecommunications tariffs.\r\n2. Those that can refer to the market price shall be allocated according to their proportion of revenue that is calculated from the market price."
+    },
+    {
+      "EngArticleType": "C",
+      "EngArticleNo": "",
+      "EngArticleContent": "   Chapter III Administration Management"
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 43",
+      "EngArticleContent": "Telecommunications enterprises that are announced by the competent authority as an enterprise with significant market power shall, within four months following the announcement date, stipulate or amend the Accounting Operating Procedures Manual thereof. The said Manual shall be submitted together with a CPA’s（certified public accountant）audit report to the competent authority for review.\r\nWhere an amendment to the Accounting Operating Procedures Manual is required due to major organizational or operational changes, enterprises with significant market power shall, within four months after the occurrence of the fact, amend the said Manual. The revised Manual shall be submitted together with a CPA’s audit report to the competent authority for review.\r\nWhenever it is deemed necessary, the competent authority may request enterprises with significance in the market to make amendments to their present Accounting Operating Procedures Manual and enterprises with significance in the market must not reject the request.\r\nThe contents of the Accounting Operating Procedures Manual described in Paragraph 1 shall specify the enterprises’ approaches of implementing the Standards."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 44",
+      "EngArticleContent": "With respect to the establishment and category of accounts of an enterprise with significant market power and the explanation of accounts thereof, please refer to Attachment 4 for detailed information."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 45",
+      "EngArticleContent": "The preparation of financial statements that must be submitted by enterprises with significant market power（ex. the type, format, submission times and deadline of financial statements; and CPA’s audit report）shall refer to Attachment 5."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 46",
+      "EngArticleContent": "Enterprises with significant market power shall appoint their own CPA to audit the financial statements thereof. The competent authority may, whenever it has been deemed necessary, dispatch an account therefor for audit.\r\nCPAs whom are appointed to audit the financial statements described in the preceding paragraph shall adhere to Attachment 6."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 47",
+      "EngArticleContent": "Enterprises with significant market power shall make available all accounting documents for at least five years after the completion of annual closing procedures; and all accounting books and financial statements shall be kept for at least ten years after the completion of annual closing procedures. The above limitation does not apply to the documents of permanent records and of unresolved accounting issues."
+    },
+    {
+      "EngArticleType": "C",
+      "EngArticleNo": "",
+      "EngArticleContent": "   Chapter IV Supplementary Provisions"
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 48",
+      "EngArticleContent": "These Standards shall be enacted from their promulgation date."
+    }
+  ]
+}

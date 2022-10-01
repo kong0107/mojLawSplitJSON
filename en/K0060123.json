@@ -1,0 +1,331 @@
+{
+  "LawLevel": "命令",
+  "EngLawName": "Regulations Governing the Use of Radio Frequencies",
+  "LawName": "無線電頻率使用管理辦法",
+  "EngLawURL": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0060123",
+  "EngLawModifiedDate": "20210917",
+  "EngLawAbandonNote": "",
+  "EngLawAttachements": [
+    {
+      "FileName": "Appendix 1 Classification of Emission Designation and Necessary Bandwidths.pdf",
+      "FileURL": "https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006272"
+    },
+    {
+      "FileName": "Appendix 2 Table of Transmitter Frequency Tolerance.pdf",
+      "FileURL": "https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006273"
+    },
+    {
+      "FileName": "Appendix 3 Table of Maximum Permitted Spurious Emissions Power Levels.pdf",
+      "FileURL": "https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006274"
+    }
+  ],
+  "EngLawHistories": "1.Formulated and announced in 51 articles by National Communications Commission（NCC）on July 2, 2020. Ref：Tung-Chuan-Zi-Yuan-Tzu No. 10943014370.\r\n2.Several articles revised by National Communications Commission（NCC）on September 17, 2021. Ref：Tung-Chuan-Zi-Yuan-Tzu No. 11043026350.",
+  "EngLawForeword": "",
+  "EngLawArticles": [
+    {
+      "EngArticleType": "C",
+      "EngArticleNo": "",
+      "EngArticleContent": "   Chapter 1 General Rules"
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 1",
+      "EngArticleContent": "These Regulations are enacted in accordance with Paragraph 8 of Article 52; Paragraph 3 of Article 53; Paragraphs 3 and 5 of Article 57; and Paragraph 5 of Article 58 of the Telecommunications Management Act（hereinafter referred to as the Act）."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 2",
+      "EngArticleContent": "The terms used in the Regulations are defined as follows:\r\n1. Bandwidth: refers to the band of necessary radio frequency emitted under certain conditions and circumstances.\r\n2. Harmful interference: refers to interference to radio communications; such interference can endanger the functions of radio navigation or other safety communications, or seriously affect, interfere or repeatedly block radio-communications.\r\n3. Provision of radio frequencies: refers to a telecommunications enterprise that provides a part of its radio frequencies to other telecommunications enterprises in accordance with Paragraph 1 of Article 58 of the Act.\r\n4. Frequency sharing: refers to a telecommunications enterprise that shares its radio frequency with other telecommunications enterprises in accordance with Paragraph 3 of Article 58 of the Act.\r\n5. Provider: refers to the telecommunications enterprise that offers frequency during the frequency provision or sharing process.\r\n6. Recipient: refers to the telecommunications enterprise that receives frequency during the frequency provision or sharing process.\r\n7. Shared frequency: refers to the radio frequency that can be shared as announced by the competent authority.\r\n8. User of shared frequencies: refers to those whom have been assigned to use the shared frequencies.\r\n9. Equipment of shared frequencies: refers to usage equipment of shared frequencies in compliance and accordance with the Regulations.\r\n10. Database of shared frequencies: refers to the information system that stores information related to frequency assignments and the usage status of the equipment of users; and that oversees and manages the resources of shared frequencies.\r\n11. Database Management Agency for Shared Frequencies: refers to the competent authority recognized agency that is in charge of managing, operating and maintaining the database of shared frequencies.\r\n12. User: refers to those that have installed radio equipment that emits radio frequency."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 3",
+      "EngArticleContent": "Unless otherwise specified by laws, the person that applies for frequency assignment shall possess the nationality of or be a legal person of the Republic of China."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 4",
+      "EngArticleContent": "The application and distribution of radio station identification signals shall be handled in accordance with management rules specified in Article 8."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 5",
+      "EngArticleContent": "Radio frequencies shall be assigned by the competent authority according to the Regulations; and be used only upon receipt of the frequency use certificate. However, frequency bands designated for harmonious and effective sharing, and frequencies for amateur use, vessels and aircrafts as prescribed in Article 52 of the Act are excluded therefrom."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 6",
+      "EngArticleContent": "The frequency use certificate must not be transferred, leased, pledged, mortgaged or otherwise disposed of. In the case where the certificate is missing, damaged or altered,  relevant certification documents must be submitted to the competent authority to apply for reissuance, replacement or corrections thereof.\r\nWith respect to the aforesaid certification documents, the validity thereof must be prior to the approval date of original certificate.\r\nThe frequency use certificate shall become invalid upon expiry thereof."
+    },
+    {
+      "EngArticleType": "C",
+      "EngArticleNo": "",
+      "EngArticleContent": "   Chapter 2 Use and Management of Radio Frequencies"
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 7",
+      "EngArticleContent": "The application of radio frequency assignments shall comply with the uses described in “Table of Radio Frequency Allocations of the Republic of China”（hereinafter referred to as the Table of Radio Frequency Allocations）or announcements by the competent authority. If no relevant description is found in the Table of Radio Frequency Allocations or announcements of the competent authority, the competent authority may reject the application."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 8",
+      "EngArticleContent": "The person who applies for radio frequency assignments（hereinafter referred to as the Applicant）in accordance with Paragraph 1 of Article 56 of the Act shall abide by the following rules:\r\n1. For emergency aid, dedicated telecommunications network, public use or other public welfare related uses, be in compliance with “Administrative Regulations on the Installation and Operation of the Dedicated Telecommunications Network”;\r\n2. For experiments and R&D, be in compliance with “Administrative Regulations on the Installation and Operation of the Dedicated Experiment / R&D Telecommunications Network” ;\r\n3. For the use of taxi radio station and bands used thereby, be in compliance with “Administrative Regulations on the Installation and Operation of the Dedicated Taxi Telecommunications Network” ;\r\n4. For the use of radio or television broadcast stations, be in compliance with “Radio and Television Act”; “Regulations for the Establishment of Radio Broadcasting Enterprises” and “Regulations for the Establishment of Public Television Enterprises” established based thereon;\r\n5. For the use of broadcasting station for school training, be in compliance with “Administrative Regulations on the Establishment and Use of  Broadcasting Station for School Training” ;\r\n6. For the use of microwave link, be in compliance with “Regulation for Administration of Installation of Microwave Radio Stations” ;\r\n7. For the use of satellite link, be in compliance with “Administrative Rules on the Establishment and Use of Satellite Earth Radio Stations” ;\r\n8. For the use of testing a station established under the telecommunications networks, shall refer to the project review and approval of the competent authority."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 9",
+      "EngArticleContent": "In addition to the preceding provision, the Applicant that applies for frequency assignments in accordance with Paragraph 1 of Article 56 of the Act shall submit an application form and, according to the intended use, provide supportive evidence and documents. In the case of any amendments, the same rules shall be applied.\r\nThe application form as described in the preceding Paragraph shall specify the following matters:\r\n1. The purposes and necessity of frequency use;\r\n2. The radio frequency use plan: including the radio wave coverage, radio frequencies used in different areas, bandwidth and emission power level. The radio wave coverage shall be noted on a topographic map or e-map detailed with longitude and latitude information.\r\n3. The radio station establishment plan and quantity list.\r\n4. Necessary plans to prevent interference.\r\n5. Any other documents designated as by the competent authority.\r\nWhere the documents that must be provided as prescribed in Paragraph 1 or the content thereof is deemed to be incomplete, the competent authority shall notify the Applicant to undertake corrective action within a prescribed period. If the Applicant fails to do so or the provided information remains incomplete, the application shall be rejected.\r\nWhere the competent authority approves the application prescribed in Paragraph 1, a frequency use certificate shall be issued accordingly."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 10",
+      "EngArticleContent": "The competent authority shall examine the following matters when reviewing the application of or amendments to frequency assignments as described in the precedent Article:\r\n1. Compliance with the provisions of Table of Radio Frequency Allocations;\r\n2. Compliance with the radio frequency supply plan;\r\n3. Compliance with provisions related to “International Telecommunications Convention” or “International Radio Regulations”;\r\n4. No harmful interference with assigned frequency;\r\n5. No harmful interference with frequencies planned or registered by International Telecommunication Union（ITU）;\r\n6. The technology and efficiency of adopted radio technology;\r\n7. The secondary use frequencies specified in the Table of Radio Frequency Allocations do not interfere primary use frequencies.\r\nWhere the frequency assignment application described in the preceding Article is not granted after the review, the competent authority may make assignments separately or reject the application."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 11",
+      "EngArticleContent": "Regarding frequencies for which assignments are applied in accordance with Paragraph 1 of Article 56 of the Act, the Applicant may re-submit the application according to this Chapter within the first two months, three months prior to the expiry of the frequency use certificate.\r\nAsides from matters specified in Paragraph 1 of the preceding Article, the competent authority shall examine the following matters in regard to the application described in the preceding Paragraph. In a case where the Applicant fails to pass the examination, the competent authority shall reject the application thereof.\r\n1. Fails to use frequency resources effectively;\r\n2. Serious violation of regulations;\r\n3. Frequent interference to other legal users\r\n4. Other major deficiencies or failure to undertake corrective action upon receipt of the competent authority’s notification."
+    },
+    {
+      "EngArticleType": "C",
+      "EngArticleNo": "",
+      "EngArticleContent": "   Chapter 3 Use and Management of Frequencies for Telecommunications Enterprises"
+    },
+    {
+      "EngArticleType": "C",
+      "EngArticleNo": "",
+      "EngArticleContent": "      Section 1 Frequency Assignments"
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 12",
+      "EngArticleContent": "Telecommunications enterprises shall comply with the following rules with respect to actual usable bandwidth:\r\n1. Below 1 GHz（gigahertz）: no more than one-third of the total bandwidth of frequencies below 1GHz that is through public bidding or auction for frequencies can be allocated by the entire telecommunications enterprise;\r\n2. Below 3 GHz: no more than one-third of the total bandwidth of frequencies below 3GHz that is through public bidding or auction for frequencies can be allocated by the entire telecommunications enterprise;\r\n3. Below 6 GHz: no more than one-third of the total bandwidth of frequencies below 6GHz that is through public bidding or auction for frequencies can be allocated by the entire telecommunications enterprise;\r\n4. The actual usable bandwidth between 3300-3570 MHz（megahertz）must not exceed 100 MHz;\r\n5. Above 24 GHz: no more than two-fifths of the total bandwidth of frequencies above 24GHz that is through public bidding or auction for frequencies can be allocated by the entire telecommunications enterprise.\r\nThe actual usable bandwidth described in the preceding Paragraph refers to all bandwidths acquired through the relocation of approved frequencies, public bidding or auction, the use of frequencies from another telecommunications enterprise and frequency sharing.\r\nAccording to Regulations Governing Application and Assignment of Radio Frequency for Telecommunications Enterprises, authorized by Article 53 and stipulations in Article 54 of the Act, frequency that can be allocated to telecommunications enterprises unless otherwise provided by law, shall not be bound by the restrictions specified in Paragraph 1.\r\nWith respect to the actual usable bandwidth of telecommunications enterprise as described in Paragraph 1, the total thereof shall not be bound by restrictions specified in Paragraph 1 under the competent authority’s considerations of the following factors:\r\n1. Frequency use efficiency;\r\n2. Changes in market dynamics, such as business assignments, acquisitions or mergers;\r\n3. Other major public interests."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 13",
+      "EngArticleContent": "Telecommunications enterprises that apply for the use of radio frequencies shall, upon qualification of frequency assignments according to “Regulations Governing Application and Assignment of Radio Frequency for Telecommunications Enterprises”, shall apply to the competent authority for the issuance of frequency use certificate:\r\n1. Apply for approval letter: telecommunications enterprises that apply for the installation of public telecommunications network to use telecommunications resources in accordance with Article 37 of the Act shall apply for an approval letter for the use of radio frequencies;\r\n2. Apply for use certificate: to use the radio frequency, the assigned shall, upon completion of the network establishment plan and approval of the operating plan, apply to the competent authority for the issuance of frequency use certificate."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 14",
+      "EngArticleContent": "Telecommunications enterprises that implement the procedures as described in Subparagraph 1 of the preceding Article shall submit an application form, radio frequency use plan, relevant qualification certification documents and documents related to the competent authority’s announcement. Upon approval of the competent authority, the approval letter for the use of radio frequency shall be issued accordingly."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 15",
+      "EngArticleContent": "Telecommunications enterprises that implement the procedures as described in Subparagraph 2 of Article 13 shall submit the following documents. Upon approval of the competent authority, the frequency use certificate shall be issued accordingly:\r\n1. Application form;\r\n2. An approval letter that certifies the approval of network establishment plan and operating plan."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 16",
+      "EngArticleContent": "The frequency use certificate will become invalid upon expiry thereof. The telecommunications enterprise therefore must abide by relevant regulations and announcements made by the competent authority."
+    },
+    {
+      "EngArticleType": "C",
+      "EngArticleNo": "",
+      "EngArticleContent": "      Section 2 Provision or Sharing of Radio Frequencies"
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 17",
+      "EngArticleContent": "The telecommunications enterprise that applies for the provision or sharing of radio frequency shall be limited to the following frequency bands:\r\n1. 2100 MHz band: uplink 1920MHz~1980MHz; downlink:2110MHz~2170MHz – for use in mobile voice services in circuitswitched mode only.\r\n2. 3500 MHz band: 3300 MHz to 3570 MHz;\r\n3. 28000 MHz band: 27000 MHz to 29500 MHz;\r\n4. Other bands announced by the competent authority."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 18",
+      "EngArticleContent": "Telecommunications enterprises that apply for the provision or sharing of radio frequencies shall require the provider（s）and recipient（s）to submit the following documents to the competent authority to apply for an approval:\r\n1. Application form for the provision or sharing of radio frequencies;\r\n2. Agreement for the provision or sharing of radio frequencies\r\n3. Provider and recipient’ frequency use plan;\r\n4. Descriptions of the amendments made to provider and recipient’s network establishment plan and operating plans; a comparison table of before and after revision; and relevant supporting evidence;\r\n5. For providers that are liable for the obligations incurred by the assignment of radio frequencies, descriptions of the obligation fulfillment level thereof and supporting evidence.\r\n6. Descriptions of and supporting evidence for matters specified in Articles 19 and 20 of the Regulations;\r\n7. Frequency interference assessment and descriptions;\r\n8. Where there is any amendments to provider and recipient’s cyber security maintenance plan, descriptions of the said amendments; comparison table of before and after revision; and relevant supporting evidence;\r\n9. Other matters designated by the competent authority.\r\nThe agreement described in the precedent Paragraph shall describe the following matters:\r\n1. The band, bandwidth, region and period of the provision or sharing of radio frequencies;\r\n2. Protective measures for consumers’ rights and interests upon expiry of the agreement;\r\n3. Procedures for managing frequency interference.\r\nWhere the documents that are required to be provided as prescribed in Paragraph 1 is deemed to be incomplete or the content thereof is incomplete or mistaken, the competent authority shall notify the Applicant to undertake corrective action within a prescribed period. If the Applicant fails to do so or the provided information remains incomplete, the application shall be rejected."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 19",
+      "EngArticleContent": "When deyermining whether to grant an approval as described in Paragraph 1 or 3 of Article 58 of the Act, the competent authority shall take the following factors into consideration and supplementary factors may be added thereto:\r\n1. Assurance of the use efficiency of radio frequencies;\r\n2. The use of radio frequencies and obligations arising therefrom;\r\n3. Impact to fair market competition;\r\n4. Impact to consumers’ rights and interests;\r\n5. Records of business violations found in provider and recipient’s operations;\r\n6. Radio frequency interference;\r\n7. The purpose of application facilitates the development of emerging technology or service;\r\n8. National security."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 20",
+      "EngArticleContent": "The competent authority shall examine the following matters when considering the fair market competition as described in the precedent Article:\r\n1. Changes to the market share and concentration ratio;\r\n2. The possibility of engaging in price or service competition;\r\n3. The possibility of facilitating network installation and technology upgrade;\r\n4. The possibility of creating obstacle to market entry;\r\n5. Other factors that can affect market competition.\r\nThe competent authority shall examine the following matters when considering the impacts to consumers’ rights and interests:\r\n1. The possibility of enhancing the overall service quality;\r\n2. The possibility of facilitating service interoperability;\r\n3. The possibility of increasing the diversity of services;\r\n4. Other factors that can affect consumers rights and interest."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 21",
+      "EngArticleContent": "（Deleted）"
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 22",
+      "EngArticleContent": "Providers and recipients that plan to terminate the provision or sharing of radio frequencies in advance, shall submit joint applications for approval to the competent authority within one month from six months prior to the scheduled termination date, submitting amendments to their network establishment plan and operating plan.\r\nProviders and recipients shall submit joint applications for the amendments to the network establishment plan and operating plan to the competent authority within one month from six months prior to the expiration of the approval period for the provision or sharing of radio frequencies."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 23",
+      "EngArticleContent": "Telecommunications enterprises that apply for frequency relocation shall abide by provisions of Article 59 of the Act.\r\nUpon approval of the application as described in the previous Paragraph, the telecommunications enterprise shall submit the following documents to the competent authority to apply for the issuance or amendments to the frequency use certificate:\r\n1. Application form;\r\n2. An approval letter that certifies the competent authority’s approval of amendments to the network establishment plan and operating plan.\r\nWith respect to the frequency use certificate issued to or amended by the telecommunications enterprise according to the preceding Paragraph, the validity thereof shall be identical with the original approval date."
+    },
+    {
+      "EngArticleType": "C",
+      "EngArticleNo": "",
+      "EngArticleContent": "   Chapter 4 Use and Management of Shared Frequencies"
+    },
+    {
+      "EngArticleType": "C",
+      "EngArticleNo": "",
+      "EngArticleContent": "      Section 1 Principles for the Allocation of Shared Frequency"
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 24",
+      "EngArticleContent": "The bands and bandwidths allocated for shared frequencies as prescribed in Paragraph 1 of Article 57 of the Act shall be announced by the competent authority"
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 25",
+      "EngArticleContent": "Those that apply for the use of shared frequencies（the “users”）shall submit the application form and relevant documents to the competent authority to apply for shared frequency assignment license. Upon receipt of the approval, the user of shared frequencies shall apply for frequency assignments to a database management agency for shared frequencies and the said agency shall be certified by the competent authority.\r\nUsers of shared frequencies shall use the frequencies according to information provided by the database of shared frequencies."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 26",
+      "EngArticleContent": "Shared frequencies shall be assigned under the considerations of innovation, geography or frequency continuity to increase the frequency use efficiency.\r\nThe assignment of shared frequencies shall abide by the non-discrimination principles, except for assignments made in accordance with the Act and the preceding Article."
+    },
+    {
+      "EngArticleType": "C",
+      "EngArticleNo": "",
+      "EngArticleContent": "      Section 2 Database Management Agency for Shared Frequencies"
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 27",
+      "EngArticleContent": "The establishment of the database management agency for shared frequencies shall be approved by the competent authority. The qualifications thereof, conditions and approval procedures shall be announced by the competent authority."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 28",
+      "EngArticleContent": "The database of shared frequencies established by the database management agency for shared frequencies shall be approved by the competent authority and no service shall be provided prior to the said approval.\r\nThe database of shared frequencies shall provide users of shared frequencies the following information:\r\n1. Provide the range and maximum allowable transmit power of frequencies that are usable within the location thereof to the equipment of shared frequencies;\r\n2. Business policy and operating procedures stipulated by the database management agency for shared frequencies;\r\n3. The identification information and location of registered and certified equipment of shared frequencies;\r\n4. Other frequency management matters designated by the competent authority."
+    },
+    {
+      "EngArticleType": "C",
+      "EngArticleNo": "",
+      "EngArticleContent": "   Chapter 5 Handling of Radio Frequency Interference"
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 29",
+      "EngArticleContent": "Regarding radio frequencies that are within the same band and are under the usage conditions of not resulting in harmful interference, users must not request for protection from harmful interference as prescribed in the Table of Radio Frequency Allocations"
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 30",
+      "EngArticleContent": "The emission of radio frequencies must not result in harmful interference to radio navigation and other safety communications."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 31",
+      "EngArticleContent": "The emission of radio frequencies must not result in harmful interference to international distress frequencies.\r\nThe international distress frequencies as described in the preceding Paragraph include 490 kHz（kilohertz）, 518 kHz, 2.182 MHz, 2.1875 MHz, 121.5 MHz, 156.525 MHz, 156.8 MHz, 406.1 MHz and other distress, warning, emergency or safety signals."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 32",
+      "EngArticleContent": "The emission designation and used bandwidth of radio frequencies shall comply with Appendix 1 “Classification of Emission Designation and Necessary Bandwidths”."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 33",
+      "EngArticleContent": "The emission of radio frequency shall be as precise and stable as possible, and shall conform to the requirements stated in Appendix 2 “Table of Transmitter Frequency Tolerances”."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 34",
+      "EngArticleContent": "Emission of radio frequency shall conform to the requirements stated in Appendix 3 “Table of Maximum Permitted Spurious Emissions Power Levels”."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 35",
+      "EngArticleContent": "Damped waves shall be forbidden in the emission of radio frequency."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 36",
+      "EngArticleContent": "Any emission that can harm legal radiocommunications shall be deemed as interference."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 37",
+      "EngArticleContent": "In order to prevent and reduce interference, users shall pay attention to and adhere to the following rules:\r\n1. Avoid unnecessary communications and superfluous signals;\r\n2. Pay special attention to possible interference when selecting the location of installing radio equipment;\r\n3. Effective use of directional antenna so as to reduce transmission towards undesired directions;\r\n4. The smallest bandwidth shall be chosen for type of emission of the radio equipment;\r\n5. Avoid radio receivers being placed too close to the equipment that produces radio frequency;\r\n6. Avoid poorly designed radio reception equipment;\r\n7. Avoid inadequate grounding of radio equipment;\r\n8. Adequate safeguards and proper grounding must be adopted in the manufacturing, installation and use of various communication and non-communication equipment to avoid interference to radiocommunications;\r\n9. The receiver shall be installed with an additional frequency filter whenever necessary."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 38",
+      "EngArticleContent": "To avoid interference, users must not carry out any of the following acts:\r\n1. The emitted frequency and power of radio equipment do not conform to the assignment of the competent authority;\r\n2. The radio equipment produces spurious（including harmonic）emission that does not conform to the regulations;\r\n3. The radio equipment does not conform to technical specifications;\r\n4. Other factors that can harm legal radiocommunications."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 39",
+      "EngArticleContent": "The following circumstances shall be deemed as illegally using radio frequency to interfere with legal radio communications:\r\n1. Use equipment of legal radiocommunications system to receive perceivable sounds or images of illegally used radio frequency;\r\n2. Use measuring equipment to measure identifiable messages of illegally used radio frequency, which can affect system operations, in the legal radiocommunications system;\r\n3. In more than five different points within the transmission radius of the antenna of radio stations, the electric field strength between illegally used radio frequency and legal station exceeds any of the following standards: 34 dBuV/m（decibel microvolts per meter）for a co-channel; 48 dBuV/m for a first adjacent channel; 64 dBuV/m for a second adjacent channel; or 74 dBuV/m for a third adjacent channel\r\n4. The electric field strength of illegally used radio frequency has been measured using the equipment of competent authority’s fixed monitoring station, where the electric field strength of frequency between 9 kHz and 174 MHz exceeds 80 dBuV/m, or that of frequency between 174 MHz and 3 GHz exceeds 94 dBuV/m."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 40",
+      "EngArticleContent": "Subparagraph 1 to Subparagraph 3 of the preceding Article may be applied mutatis mutandis to the determination of interference between radiocommunications stations, unless otherwise specified by laws.\r\nElectric field strength of radiocommunications that exceeds Subparagraph 4 of the preceding Article shall be deemed as interference.\r\nIn regard to applications of establishing a new station or relocating the station, if the electric field strength exceeds the standards as prescribed in Subparagraph 4 of the preceding Paragraph, the competent authority shall require the user to submit a plan outlining improvement procedures.\r\nAn application of users that fail to submit an improvement plan as prescribed in the preceding Paragraph, shall be rejected."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 41",
+      "EngArticleContent": "Those that use radio equipment to emit radio frequency and result in interference shall undertake corrective action using effective technology upon receipt of the competent authority’s notification. Whenever necessary, the user shall suspend the operations of said equipment. Where the interference cannot be eliminated, transmissions must cease immediately."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 42",
+      "EngArticleContent": "Users that apply to the competent authority to coordinate and handle radio frequency interference in accordance with Article 63 of the Act, or declare that an illegally established Radio Station uses the frequency shall, prior to the submission of complaint, determine the source of interference or the location and used frequency of Radio Station; and submit “Radio Frequency Interference and Illegal Use Complaint Form” and relevant documents. The complaint shall be handled in accordance with the following procedures:\r\n1. Complaints concerning interference to military communications shall be accepted, checked and excluded by Ministry of National Defense. Where the source of interference signal cannot be verified, users may contact the competent authority for investigating the source of interference and resolving actions to handle the interference.\r\n2. Complaints concerning interference to non-military communications and interference complaints from overseas shall be accepted, checked and excluded by the competent authority. Where the source of interference signal cannot be verified, users may contact the Ministry of National Defense for resolving actions."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 43",
+      "EngArticleContent": "The principles of the competent authority for handling interference are as follows:\r\n1. Interference occurring between military and non-military radiocommunications shall be coordinated and handled by the Ministry of National Defense and competent authority.\r\n2. Where used radio frequency is interfered, the radio frequency assigned by the competent authority shall be protected.\r\n3. Where the measurement of radio frequency is disputable, the results of measurements undertaken by the competent authority shall be taken as the criterion.\r\n4. Where interference unavoidably occurs among legal radiocommunications, the competent authority shall contact and negotiate with involved users respectively to adjust their use time or assign other suitable radio frequency.\r\n5. Where interference occurs between domestic and foreign users, the competent authority shall coordinate with relevant units to solve the problem if the emission site or interference source is within the country.\r\n6. Where the source of interference is from overseas, the competent authority shall collect relevant information and handle the issue in accordance with ITU Radio Regulations."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 44",
+      "EngArticleContent": "The competent authority shall handle the interference according to the following priorities and order:\r\n1. Military radio frequency shall be deemed highest first priority in the mobilization implementation phase;\r\n2. Aviation or vessel safety mission;\r\n3. Disaster prevention and rescue mission;\r\n4. Importance of the nature of business;\r\n5. Radio frequency assigning date."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 45",
+      "EngArticleContent": "In the case of interference when using legal radio frequency and no improvement has been made despite the competent authority’s attempt at coordination, the competent authority may order related users to change the time and location of using the radio frequency; adjust the antenna transmission direction and power; or adopt other appropriate methods in accordance with Paragraph 2 of Article 63 of the Act. Whenever it is necessary, the competent authority may, according to users’ application, allocate other radio frequencies thereto for their use.\r\nDuring the coordination as described in the precedent Paragraph, the competent authority may order the user to cease using the frequency depending on the severity of interference."
+    },
+    {
+      "EngArticleType": "C",
+      "EngArticleNo": "",
+      "EngArticleContent": "   Chapter 6 Supplementary Provisions"
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 46",
+      "EngArticleContent": "With respect to radio frequencies allocated to users, the competent authority may abolish the allocated frequencies in whole or in part if the user encounters any of the following circumstances:\r\n1. Without justifiable reasons, the user fails to use the radio frequency for more than 6 months upon the date of allocation or for 6 consecutive months;\r\n2. The user fails to pay the radio frequency use fees within the prescribed deadline, and the payment remains unpaid upon receipt of the competent authority’s notification;\r\n3. The user fails to fulfill its obligations for the use of the radio frequency as prescribed in the operating plan or network establishment plan, and no improvement has been or can be made upon receipt of the competent authority’s notification;\r\n4. The competent authority has abolished the registration of its telecommunications enterprise or the operation license for its terrestrial radio business or terrestrial television business;\r\n5. The user allows others to use the radio frequencies allocated without permission."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 47",
+      "EngArticleContent": "When setting the compensation amount in accordance with Article 61 of the Act, the competent authority may consider the following matters with respect to users’ direct loss:\r\n1. Where the said radio frequency users suffer from a loss directly from the relocation, equipment upgrade or replacement purchase;\r\n2. Other proven direct losses."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 48",
+      "EngArticleContent": "The allocation of and adjustment to military radio frequencies shall be made by the competent authority under a discussion with the Ministry of National Defense."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 49",
+      "EngArticleContent": "With respect to other unspecified matters in the Regulations, the competent authority may refer to ITU Radio Regulations; or adopt standards set by or recommendations of other international standard organizations."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 50",
+      "EngArticleContent": "With respect to the documents, licenses and certificates described in the Regulations, the competent authority shall regulate and announce the contents and format thereof, unless otherwise specified in the Regulations."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 51",
+      "EngArticleContent": "The Regulations shall become effective on July 1, 2020.\r\nThe amendments to these Regulations shall take effect on the date of promulgation."
+    }
+  ]
+}

@@ -1,0 +1,313 @@
+{
+  "LawLevel": "命令",
+  "EngLawName": "Rules for the Technical Engineering of Cable Radio and Television Systems",
+  "LawName": "有線廣播電視系統工程技術管理辦法",
+  "EngLawURL": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0060028",
+  "EngLawModifiedDate": "20160130",
+  "EngLawAbandonNote": "",
+  "EngLawAttachements": [],
+  "EngLawHistories": "1.Chiao Yu Fa Tzu No. 8232, Article 45 of the Full Text Promulgated by the Ministry of Transportation and Communication on December 30, 1993\r\n2.Chiao Yu Fa Tzu No. 8309, Article 39 Attachment 3, Article 40 Attachment 6,7 and 8, Article 41 Attachment 6,7 and 8 and Appendix corrected by the Ministry of Transportation and Communication on April 28, 1994\r\n3.Chiao Yu Fa Tzu No. 8422, Article 5,7,14,15,16,17, Article 39 Attachment 3, 40 and Article 41 Attachment 6 and 7 corrected by the Ministry of Transportation and Communication on May 15, 1995\r\n4.Chiao Yu Fa Tzu No. 8643, Article 35 and Article 35 Attachment 3 corrected by the Ministry of Transportation and Communication on May 22, 1997\r\n5.Chiao Yu Fa Tzu No. 8711, Article 19 corrected by the Ministry of Transportation and Communication on May 22, 1998\r\n6.Chiao Yu Fa Tzu No. 8762, Article 21 corrected by the Ministry of Transportation and Communication on December 29, 1998\r\n7.Chiao Yu Fa Tzu No. 8877, Article 40 of the Full Text corrected by the Ministry of Transportation and Communication on July 26, 1999 (Original title: Administrative Rules on the Technical engineering of the Cable Television System)\r\n8.Chiao Yu Fa Tzu No. 8944, Article 3 and 37 corrected by the Ministry of Transportation and Communication on August 9, 2000\r\n9.Chiao Yu Fa Tzu No. 00036, Article 15 corrected by the Ministry of Transportation and Communication on June 18, 2001\r\n10.Chiao Yu Fa Tzu No. 091B000037, Article 43 of the full text, Attachment 1 to 20 corrected by the Ministry of Transportation and Communication on May 31, 2002\r\n11.Chiao Yu Fa Tzu No. 091B000119, Article 13 corrected by the Ministry of Transportation and Communication on October 9, 2002\r\n12.Chiao Yu Fa Tzu No. 092B000020, Article 41-1 corrected by the Ministry of Transportation and Communication on February 26, 2003\r\n13.Chiao Yu Fa Tzu No. 092B000053, Article 11,35,36,40, attachment 2, 16, 17 and 18 corrected by Ministry of Transportation and Communication on June 19, 2003.\r\n14.Chiao Yu Fa Tzu No. 092B000113, Article 14, Attachment 2, 16=19 corrected by Ministry of Transportation and Communication on Dec 8, 2003.\r\n15.Chiao Yu Fa Tzu No. 0940085022, Article 11, Attachment 2 corrected by National Communications Commission May 30, 2005.\r\n16.Tong-Chuan-Chi Tzu No. 09605081340, Article 2,3,7,10,11,11-1,11-2,12,13,14,22,22-1,30,31,33,37~40, 41-1 corrected by National Communications Commission on June 14, 2007.\r\n17.Tong-Chuan-Chi Tzu No. 09843026320, Article 2,10,11,11-1,12,13,14,15,22-1,24-1,32,33,33-1,35,36, 38,41-1 corrected by National Communications Commission on Oct 15, 2009.\r\n18.Tong-Chuan-Chi Tzu No. 10043013050, Article 2,17-1,41-1 corrected by National Communications Commission on May 16, 2011.\r\n19.Tong-Chuan-Chi Tzu No. 10143020260, Article 2,6,15,22,22-1,24-2 corrected by National Communications Commission on June 25, 2012.\r\n20.Tong-Chuan-Chi Tzu No. 10243011450, Article 22-1 corrected by National Communications Commission on April 24, 2013.\r\n21.Tong-Chuan-Chi Tzu No. 10243031470, Article 11,17-2,24-2,28,31-1 corrected by National Communications Commission on Sep 3, 2013.\r\n22.Tong-Chuan-Chi Tzu No. 10243046530, Article 5,11,11-2,32,33 corrected by National Communications Commission on Dec 24, 2013.\r\n23.Tong-Chuan-Ji-Chu No. 10563002070, Article 1,2,3,14,41-1,42,43 corrected by National Communications Commission on Jan 30, 2016.",
+  "EngLawForeword": "",
+  "EngLawArticles": [
+    {
+      "EngArticleType": "C",
+      "EngArticleNo": "",
+      "EngArticleContent": "   Chapter 1 General Principles"
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 1",
+      "EngArticleContent": "These Rules are enacted in accordance with Paragraph 9, Article 20 of the Cable Radio and Television Act (herein after referred to as the Law)."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 2",
+      "EngArticleContent": "Definition of terms under these Rules:\r\n1. Head-end: refers to the equipment and its location for receiving, handling and transmitting the signal of cable radio or cable television to the distribution line network.\r\n2. Distribution line network: refers to the network or equipment between the head-end and subscriber terminal.\r\n3. Cable Radio and Television signal: refers to the signal of cable-layout transmission of video and audio or information signal for direct public reception.\r\n4. Processor system of Cable Radio and Television signal: including television signal processor, television modulator, television demodulator, signal combiner and other relevant equipment.\r\n5. Encryption: refers to the technology applied for special decoding program for watching or listening to programs.\r\n6. Address Encryption: refers to the technology based on the use of signal processing technology by the operator for encryption on video and audio of specific channel, subscribers should use the addressed signal given by the operator for the decoder to restore it into normal reception signal.\r\n7. Upstream: refers to the signal path from the subscriber to the head-end\r\n8. Downstream: refers to the signal path from the head-end to the subscriber.\r\n9. Hub: refers to the location where the cable radio and television signal received from the head-end is distributed to sub-distribution point.\r\n10. Primary distribution line: refers to the network from the head-end to the hub.\r\n11. Sub distribution line: refers to the network from the distribution center to the distribution point.\r\n12. Distribution point: refers to the transfer point of the cable radio and television signal from the sub distribution line split to the control line network.\r\n13. Allocation point: refers to the transfer point of the cable radio and television signal from the distribution point to the feeder line.\r\n14. Feeder line: refers to the network from the distribution line to a specific region.\r\n15. Subscriber tap: refers to the component which imports the cable radio and television signal from the feeder line split to the subscriber drop line.\r\n16. Subscriber drop line: refers to the optical fiber, coaxial cable and Type 5 lines between the distribution point or subscriber tap to the subscriber terminal point.\r\n17. Subscriber terminal point: refers to the point of interconnection between the subscriber terminal equipment and the cable radio and television network.\r\n18. Equipment of subscriber terminal: refers to television, cable radio receiver or other relevant equipments.\r\n19. Isolation degree of subscriber terminal: refers to the attenuation of bugging signal between two subscriber terminals, measured in units of decibels.\r\n20. Video carrier level: refers to the root mean square value of the video carrier of the analog signal after tuning at the parallel synchronous pulse, measured in units of decibel millivolt.\r\n21. Audio carrier level: refers to the root mean square of the audio carrier of specific analog television channel, measured in units of decibel millivolt.\r\n22. Frequency Modulation (FM) carrier level: refers to the root mean square value of the FM signal wave carrier, measured in units of decibel millivolt.\r\n23. Noise level: refers to the average random noise root mean square value of analog signal within frequency range of 4 MHz television signal and under the impedance of 75 ohm, measured in units of decibel millivolt.\r\n24. Carrier to noise ratio: refers to the ratio value between carrier level and noise level, measured in units of decibels.\r\n25. Subscriber drop line carrier to noise ratio: refers to the ratio of the carrier level and the noise intruding to the subscriber drop line, measured in units of decibels.\r\n26. Intermodulation interference: refers to the distortion signal of two or more carrier waves produced through inter-related beat.\r\n27. Composite beat level: refers to all intermodulation distortion power and equal level within the frequency range of 30 KHz, measured in units of decibel millivolt.\r\n28. Carrier to composite beat ratio: refers to the ratio value of carrier level and composite beat level, measured in units of decibels.\r\n29. Cross modulation: refers to the occurrence of the modulation signal of other channels in the system jamming the channel under-test.\r\n30. Cross modulation ratio: the ratio value of the peak carrier of the channel-under-test in hundred percent wave modulation of other channels in the system and the peak-to-peak signal of cross modulation occurring in that channel, measured in units of decibels.\r\n31. Carrier to beat ratio: refers to the ratio value of carrier level and singular beat or other singular noise signal level, measured in units of decibels.\r\n32. Hum: refers to the low frequency noise signal that penetrated the carrier\r\n33. Carrier to hum ratio: refers to the ratio of carrier level and peak-to-peak value of hum modulation, measured in units of decibels.\r\n34. Differential gain: refers to the gain difference of sub carrier tincture of analog signals when loaded on different luminance levels, measured in units of percentage or decibels.\r\n35. Differential phase: refers to the phase difference of sub carrier tincture of analog signals when loaded on different luminance levels, measured in units of degree.\r\n36. Television channels: refers to a channel transmitting television signal through a 6 MHz bandwidth. Normally differentiated through numbers, alphabetical letters, video carrier frequency or upper-lower frequency limit of bands.\r\n37. Assigned carrier frequency: refers to the carrier frequency of cable television approval of use by the central administrative authority.\r\n38. Adjacent television channel: refers to television channels with video carrier frequency with a 6 MHz interval.\r\n39. Digital television signal: refers to the television signal in digital form.\r\n40. Digital television channel: refers to the television channel broadcasting digital television signal, which broadcasts one or more program channel(s).\r\n41. Analog television channel: refers to the television channel broadcasting analog television signal, which broadcasts on program channel.\r\n42. Program channel refers to the channel undertaking program and commercial in television channel.\r\n43. Bit error rate: refers to the ratio of the digital signal’s error bits and total bits measured under a unit time.\r\n44. Fiber drop in point: refers to the position where fiber optical-electronic data transmission facility locates in the distribution line network.\r\n45. Signal Level: Indicate the root mean square of digital TV signal in each digital TV channel, whose unit is dBmV.\r\n46. Modulation error ratio: The average power ratio of ideal vector to error vector amplitude, whose unit is dB.\r\n47. High definition quality: Indicates the digital program resolution over 1280×720p.\r\n48. Standard quality: Indicates the digital program resolution over 720×480i, but not reach high definition quality."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 3",
+      "EngArticleContent": "The inspection, examination, evaluation, management of engineering personnel and supervision of waves of the cable radio and television system (herein after referred to as the system) shall adhere to these Rules."
+    },
+    {
+      "EngArticleType": "C",
+      "EngArticleNo": "",
+      "EngArticleContent": "   Chapter 2 Installation of System"
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 4",
+      "EngArticleContent": "Application for system installation, per Article 22 of the Law, its Enforcement Rules and Application Notice Rules, shall include a completed application form and operation plans submitted to the central administrative authority.\r\nInstallation may proceed after acquiring consent from the review committee and an installation permit from the central administrative authority."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 5",
+      "EngArticleContent": "The Applicant shall install the network in accordance with Article 5 and 6 of these Rules.\r\nPavements and the attachment of networks shall be regulated by governments of municipalities directly under the central government and of counties (cities) in accordance with Urban Road Act, Highway Act, autonomous laws and regulations and related decrees."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 6",
+      "EngArticleContent": "The Applicant shall apply adhering to Article 22 of these Rules and accomplish system installation within the approved system installation period. The system installation may be implemented on installment basis, with overall installation period not exceeding three years. For the installations unable to be accomplished within the installation period the applicant may apply for an extension period stating an appropriate reason from the central administrative authority two months before the accomplish date. The extension period may not exceed six months and shall be allowed only once."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 7",
+      "EngArticleContent": "Applicant accomplishing the system installation within the requested period should immediately report to the central administrative authority and the special municipality or county (city) government for inspection. An Applicant may apply for operation permit from the central administrative authorities two months after the installed system has qualified. No operations are permitted without acquiring the operation permit from the central administrative authorities."
+    },
+    {
+      "EngArticleType": "C",
+      "EngArticleNo": "",
+      "EngArticleContent": "   Chapter 3 Management of Engineering Personnel"
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 8",
+      "EngArticleContent": "The system operator shall appoint a qualified technical engineering supervisor to integrate technical engineering and equipment maintenance. And appoint engineering personnel as needed to be responsible for installation, implementation, and maintenance of the system"
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 9",
+      "EngArticleContent": "The qualified technical engineering supervisor shall possess one of the following qualifications:\r\n1. Qualified from the senior-grade examination, its equivalent or higher special examinations on subjects such as electric machinery, electronics, information, telecommunications, machinery or related fields and who has worked for administrative, military organizations, public or private enterprises in positions related to electric machinery, electronics, information, telecommunications, machinery or television related technical positions for over three years.\r\n2. Graduate of public or registered colleges and higher educational facilities or graduates of foreign colleges and higher educational facilities recognized by the Department of Education in electric machinery, electronics, information, telecommunications, machinery or related engineering majors and who has worked for administrative, educational, military organizations, public or private enterprises in positions related to electric machinery, electronics, information, telecommunications, machinery or television related technical positions for over four years or has done research work on the above mentioned fields of studies for over four years.\r\n3. Qualified from the junior-grade examination, its equivalent or common special examinations on subjects such as electric machinery, electronics, information, telecommunications, machinery or related fields and who has worked for administrative, military organizations, public or private enterprises in positions related to electric machinery, electronics, information, telecommunications, machinery or television related technical positions for over six years.\r\n4. Holders of second or above level technician certificate for visual and aural electronics, telecommunication technology, digital electronics, instrumentation technology or related fields and who has worked in cable television related technical position for over four years.\r\n5. Graduate of public or registered senior industrial vocational school or graduates of foreign senior industrial vocational school recognized by the Department of Education in electric machinery, electronics, information, telecommunications, machinery or engineering related majors and who has worked for administrative, educational, military organizations, public or private enterprises in positions related to electric machinery, electronics, information, telecommunications, machinery or television related technical positions for over eight years.\r\n6. Persons who have worked as full-time engineer for administrative, military organizations, public or private enterprises in positions related to electric machinery, electronics, information, telecommunications, machinery or television related technical positions for over ten years.\r\n7. Persons who have studied and qualified from at least 150 hours of cable television technical engineering related courses or persons who have qualified from at least three months of training courses of cable television technical engineering courses conducted by training organizations recognized and registered by administrative authorities for vocational training and worked in cable television related technical positions for over five years.\r\nThe years of work or research experience in the above mentioned administrative, educational, administrative organizations, public or private enterprises in positions related to electric machinery, electronics, information, telecommunications, machinery or television related technical positions may be calculated in combination."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 10",
+      "EngArticleContent": "The system operator shall establish and submit the curriculum vitae of the engineering supervisor to the central administrative authorities for examination of inspection, and the same shall be applied when alterations occur."
+    },
+    {
+      "EngArticleType": "C",
+      "EngArticleNo": "",
+      "EngArticleContent": "   Chapter 4 Technical Engineering"
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 11",
+      "EngArticleContent": "Channel and frequency of the system are stipulated as follows:\r\n1. Bandwidth of television channels is limited to 6 MHz. The frequency table is as the allocated video carrier frequency and allocated carrier wave for cable FM broadcasting table.\r\n2. If the system uses upper stream control signal, its frequency should not exceed 42 MHz.\r\n3. In band of 74 to 76, 108 to 138 MHz any transmission of signals are prohibited. Unless in the situation where proved by central competent authority of no interference with aviation safety and depending on actual requirement.\r\nUpon digitization by fiber nodes (FN) of the cable TV system, the digital television channels of these fiber nodes shall not be restricted by Subparagraph 1 of the preceding paragraph and uplink control signals shall not be restricted by Subparagraph 2 of the preceding paragraph."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 11-1",
+      "EngArticleContent": "The system operator, who intends to apply for using the 15th (127.2625 MHz) or 16th channel (133.2625 MHz), shall submit reasons and the range of operating area, attaching radio wave leakage maintenance plan and apply to central competent authority. After its examination and approval, the system operator may use the channel(s).\r\nThe system operator that uses the 15th (127.2625 MHz) or 16th channel (133.2625 MHz), shall conduct all area network radio wave leakage detection at least once every six months, and report the detecting results to the central competent authority.\r\nThe term for using 15th channel (127.2625MHz) or 16th channel (133.2625MHz) shall be one year. If it is necessary for system operator to use the channel after expiration, the system operator shall re-apply for approval, attaching the documents stated in first paragraph, one month prior to the expiration date."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 11-2",
+      "EngArticleContent": "Television channels shall be encrypted with the method of encryption. The range of encryption shall include video signals and audio signals. The broadcasting of images and sounds on encrypted television channels shall be decoded before they can be viewed and heard."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 12",
+      "EngArticleContent": "Wave leakage of the system is stipulated as follows:\r\n1. Highest electric leakage value of the system should not exceed the tolerable value announced by central administrative authority.\r\n2. System operators should self-monitor the wave leakage situation in its service area. If excessive wave leakage occurs, the operator should find and amend the cause of problem immediately.\r\n3. System operator should transmit the wave leakage testing signal allocated by the central administrative authority all day; its level should not be lower than the levels of other television channel signal in the system.\r\n4. System operator should implement a self-test on wave leakage in the whole area at least once in a year and preserve the test according to the Self-Testing Record Sheet for Cable Radio and Television Wave Leakage, the record shall be kept for one year. This test record shall clearly state the leakage time, location, engineering personnel, etc. and inspected by the engineering supervisor. If excessive wave leakage occurs, the occurrence reason and repair time shall be clearly indicated."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 13",
+      "EngArticleContent": "Before using Channel 19(151.25MHz), the system operator should check the catalog of the sine wave generator and wave leakage detector. Also, the system operator shall indicate the instrument serial number and the proposed frequency for detecting wave leakage, then submit an application as an independent case to the central administrative authority. Channel 19 then may be put to use after qualifying the evaluation and acquiring a designated frequency from the authorities. However, the system operator may use the existing analog television program channel’s video carrier identification label method for transmitting wave detecting signals under the circumstances of: not affecting the wave leakage detector from functioning properly, having checked the relevant equipment documents of the wave leakage tester and acquiring permission from the central administrative authority to do so.\r\nA qualified sine wave generator and wave leakage detector shall be of the following standards:\r\n1. The frequency of the sine wave generated can only differ within 20Hz.\r\n2. Its harmonic waves should not jam or interfere with the original program signals.\r\n3. It should possess a labeling and label identifying function.\r\nWhen two or more system operators exist in one operating region, the operators should coordinate to use different frequencies for detecting wave leakage before submitting an application.\r\nWhen a change in the method of detecting wave leakage occurs, the system operator should re-apply to the central administrative authority as specified in Item 1."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 14",
+      "EngArticleContent": "To prevent interference with above water mobile communications and complying with related marine safety stipulation in the above water human safety international treaty, radio telecommunication station with 256 Mhz to 162 Mhz within operation area who uses channel 20(157.25MHz) should submit a copy of radio broadcast TV operation permit, self-examination form of radio broadcast TV air wave revealing to the central administrative authority for evaluation. No usage is allowed until the application is approved by the central administrative authority.\r\nA qualified user of Channel 20(157.25MHz) after inspection, should strictly accord with the wave leakage related regulations as stated in Item 1, Article 12 of these Rules.\r\nUse of Channel 20(157.25MHz) is valid for a period of up to one year. The system operator permitted for usage that continues to have purpose for use after the period expires may submit the self-testing record sheet for wave leakage to the central administrative authority for re-inspection and consent one month before the expiry date."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 15",
+      "EngArticleContent": "The signal quality at the subscriber terminal of each analog television channel of the system should conform to the following stipulations:\r\n1. Video carrier level shall be between 0 to +14 dBmV\r\n2. Carrier to noise ratio shall not be less than 43 dB\r\n3. Carrier to composite beat shall not be less than 53 dB\r\n4. Cross modulation ratio shall not be less than 46 dB\r\n5. Carrier-hum modulation ratio shall not be less than 40dB\r\n6. According to tolerated value of carrier beat ratio announced by the central administrative authority, each digital television channel of the system uses DVB-C standard; the signal quality at the subscriber terminal should conform to the following stipulations:\r\n1. The signal level shall be between -12 dBmV and +15 dBmV. When the digital TV channel is adjacent to the analog TV channel, the signal level shall be over 3 dB lower than the video carrier level of the analog television channel.\r\n2. The modulation error at 64 and 256 QAM shall not be less than 25 dB and 31dB.\r\n3. The difference of the signal level between the adjacent TV channels shall not be greater than 3 dB.\r\n4. The difference of the signal level shall not be greater than 8 dB in the 90MHz.\r\n5. After the signal is being decoded, its error bit rate shall be less than 0.0001 before the error bit of its digital signal series are being corrected."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 16",
+      "EngArticleContent": "In every cable FM broadcasting channel, the signal quality at the subscriber terminal shall conform to the following stipulations:\r\n1. FM carrier level shall be in between –14 to +4 dBmV.\r\n2. FM carrier noise ratio in mono sound shall not be less that 25 dB and not less than 45 dB in stereo sound\r\n3. FM carrier beat level shall be 30 dB or more lower than the lowest FM carrier level\r\n4. FM carrier level shall be 3 dB or smaller than the lowest video carrier level."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 17",
+      "EngArticleContent": "Frequency spectrum characteristics of the analog television channel of the system at the subscriber terminal shall conform to the following stipulations:\r\n1. Video carrier level difference between adjacent television channels shall not be greater than 3 dB\r\n2. Video carrier level difference within any 90 MHz frequency in the system shall not be greater than 8 dB.\r\n3. Any audio carrier level of the television signal within the system shall be 13-17 dB lower than the video carrier level.\r\n4. Frequency response flatness of each television channel in the distribution network shall be within ±1 dB"
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 17-1",
+      "EngArticleContent": "The audio volume of the system at the equipment of subscriber terminal shall comply with the rules in the following subparagraphs:\r\n1. The difference of audio volume between two adjacent program channels shall not exceed 3 (dB) A.\r\n2. The difference of audio volume between any two program channel shall not exceed 6 (dB)A.\r\n3. The equal advertising volume (Advertising_Leq) in one program shall not exceed 3dB (A) to both equal audio volume of the previous program (Previous_Program_Leq) and equal audio volume of following program (Following_Program_Leq).\r\n4. The maxim advertising volume (Advertising_Lmax) in one program shall not exceed more than 3dB (A) to both maximum audio volume of the previous program (Previous_Program_Lmax) and the maximum audio volume of following program (Following_Program_Lmax)\r\nIn each subparagraph of foregoing paragraph, the “A” in “dB (A)” shall be the Frequency-weighting “A” in CNS 7129"
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 17-2",
+      "EngArticleContent": "The system operator shall set up head ends. Any head end that covers service to two or more municipalities directly under the central government or counties (cities) shall be equipped with recovery mechanisms and shall be at least 8 kilometers away.\r\nRecovery mechanism facilities may be rented and shall provide subscribers with program and channel combinations that include must-carry for viewing, designated must-carry, public, self-made program tables.\r\nInformation of subscribers shall have remote backup and be updated each day."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 18",
+      "EngArticleContent": "Frequency stability of the head-end analog television channel should conform to the following stipulations on each item:\r\n1. Video and audio carrier frequency of the television channel shall differ less than 25 KHz from its allocated carrier frequency.\r\n2. The difference of the video and audio carrier frequency of the television channel should be within 4.5 MHz - ±2 KHz\r\n3. FM carrier frequency and its allocated carrier frequency shall differ less than 10 KHz."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 19",
+      "EngArticleContent": "Television modulator of the head-end analog television channel, response difference in relation to the video carrier frequency +0.2 MHz should conform to the following stipulations of each item:\r\n1. In between video carrier frequency minus 0.5 MHz to video carrier frequency plus 3.58 MHz shall be within ±1.5 dB\r\n2. In video carrier frequency minus 0.75 MHz and video carrier frequency plus 4 MHz should be within +1 dB to –4 dB\r\n3. Video carrier frequency minus 1.5 MHz shall be lower than 20 dB or above."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 20",
+      "EngArticleContent": "The television signal processor of the head-end analog television channel, frequency response difference in relation to the video carrier frequency plus 0.2 MHz shall conform to the following stipulations:\r\n1. In between video carrier frequency minus 0.5 MHz to video carrier frequency plus 3.58 MHz shall be within ±1.5 dB.\r\n2. Video carrier frequency plus 4 MHz shall be between +1 and –2 dB."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 21",
+      "EngArticleContent": "The differential gain of the head-end analog television modulator shall be less than 10%, difference phase should not exceed ±5 degrees."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 22",
+      "EngArticleContent": "The transmission characteristics of the transmitted signal of the digital television channel shall conform to the international standards and the relevant Rules stipulated by the central administrative authority. Each program channel of digital TV should conform to one of the following stipulations:\r\n1. Standard Quality Program: The program resolution must reach the standard quality, and 25 frames per second or more must be transmitted.\r\n2. High Definition Program: The program resolution must reach the high definition quality, and 25 frames per second or more must be transmitted."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 22-1",
+      "EngArticleContent": "The system uses IPTV standard, the transmitting characteristics of the signal shall conform to the following rules:\r\n1. IP Jitter delays change shorter than 50 milliseconds (ms) on average.\r\n2. The downstream digital signal shall not allow packet loss in five minutes or four times in one hour.\r\n3. The upstream signal shall transmit controlling signals.\r\n4. The upper stream signal transmitted in the rate of 64 kilobits (Kb) per second shall not fail more than 10 times in every 1000 times."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 23",
+      "EngArticleContent": "The nominal characteristics impedance of the coaxial cable used in the system and the subscriber terminal should be 75 ohm."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 24",
+      "EngArticleContent": "Isolation degree of subscriber terminal should be less than 20 dB."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 24-1",
+      "EngArticleContent": "Subscriber drop line carrier to noise ratio should be less than 53 dB."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 24-2",
+      "EngArticleContent": "Classification information for TV programs shall be transmitted along with digital channels provided by the system operator.\r\nDigital set-top boxes installed after April 1, 2014 shall be equipped with classification information for TV programs and parent locks for time control. In addition, they shall be equipped with the function of updating firmware online."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 25",
+      "EngArticleContent": "The system should possess enough electricity reserved as spare electric power for back up at the time of city electric power interruption."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 26",
+      "EngArticleContent": "The system operator should self-prepare the following testing equipment:\r\n1. Wave leakage testing equipment\r\n2. Signal level meter\r\n3. Frequency spectrum analysis meter\r\n4. Ground resistance test meter\r\n5. Digital signal analyzer capable of measuring error bit rate and power of digital signal, exempted of those non-digital broadcasting television signal transmitters."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 27",
+      "EngArticleContent": "All equipment used in the system, design and setup of the system should undergo appropriate safety measures with necessary measures implemented. System operators should conduct tests periodically in order to prevent the personnel or equipment from suffering from thunder strikes, electric shocks and other possible harm."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 28",
+      "EngArticleContent": "The cable layout of the distribution network should be clearly labeled out on the map or stored in electronic storage for queries by the relevant administrative authorities when necessary.\r\nDistribution networks shall rent fiber counts and optical wave length."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 29",
+      "EngArticleContent": "The head-end equipment of the system should have ground test meter protection device. For the safety protection of personnel and system equipment, the ground test meter device should have a ground test meter resistance of less than 15 Ω.\r\nFor cable built on stilts in the following plumb-line ground response of electric shafts (ground test meter resistance should be less than 50Ω):\r\n1. Install underground up-leading electric shafts\r\n2. Install electric shafts for cable television amplifier and power supplier\r\n3. Install common stilt shafts for power transformer\r\n4. First and last electric shaft for every sector of the cable network built on stilt\r\n5. For continuous ten or more electric shafts of built on stilt cable network without any of the conditions mentioned above, every one in ten electric shafts.\r\nSubscriber taps or subscriber drop line should be equipped with ground test meter device and located as close as possible to ground buildings. Its ground test meter resistance should be less than 100Ω; adopters of subscriber taps ground test meter device, under the safety conditions of subscribers within the network establishment range area, may have maximum three subscriber taps sharing one ground test meter device."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 30",
+      "EngArticleContent": "When system operators are unable to transmit program signals through cable circuit due to topography, ground object obstructions or other practical problems may apply for installation of fixed-point micro wave station according to the Administrative Rules on Radio and Television Broadcaster Establishment of Microwave Stations."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 31",
+      "EngArticleContent": "System operators in need of business broadcasting may apply for the set-up of an on-site micro wave station according to the Administrative Rules on Radio and Television Broadcaster Establishment of Microwave Stations."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 31-1",
+      "EngArticleContent": "To respond to natural disasters or emergencies, the system operator shall have information transmission mechanisms regulated in Article 6 of Natural Disaster and Emergency Response Regulations for Cable TV System Operators, and its recovery mechanism facilities shall also fall under the same regulation.\r\nThose who have installed digital set-top boxes after April 1, 2014 shall be able to designate specific programs and receive information."
+    },
+    {
+      "EngArticleType": "C",
+      "EngArticleNo": "",
+      "EngArticleContent": "   Chapter 5 System testing and engineering evaluation"
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 32",
+      "EngArticleContent": "System inspection shall fall into three categories: engineering inspection, self inspection and unscheduled inspection.\r\nEngineering inspection is divided into these areas: the quality of systems and signals and the inspection of equipment safety and network construction.\r\nSystem inspection shall be implemented when rated frequency ranges or channels applied by the system operator are fully loaded, including all channels and control and testing signals of the system."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 33",
+      "EngArticleContent": "A system operator shall submit the following documents to the central administrative authorities together with the special municipality, or county (city) government authorities for the implementation request of engineering inspection:\r\n1. A photocopy of the set-up permit.\r\n2. Application form and testing record sheet for Cable Radio and Television system engineering inspection.\r\n3. Configuration map and usage instruction of head-end device.\r\n4. A digitized or paper map of distribution networks (including street names, important parameters, the earthing resistance value of measured spots). The typeface of electronic files shall be clear and identifiable, and the scale paper files shall not be smaller than millesimal."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 33-1",
+      "EngArticleContent": "The reason of conducting detection to Subscriber drop line carrier to noise ratio:\r\n1. Subscriber complaints pertaining to poor quality of the signal.\r\n2. The central competent authority deems it is necessary"
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 34",
+      "EngArticleContent": "System operators making alterations to the network structure shall submit the following information to the central administrative offices for application of operation plan alteration:\r\n1. Alteration of network structure and instruction\r\n2. Detailed map of alteration of the distribution network or electronic video files"
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 35",
+      "EngArticleContent": "System operators transform digital TV channel into analogy TV channel or increasing use of bandwidth who offer analogy TV channel should submit the following information to the central administrative offices for application of operation plan alteration:\r\n1. Detail map of distribution network or electronic video files\r\n2. All catalogues of subscriber tap used in the distribution network (should include the value of isolation degree within)"
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 36",
+      "EngArticleContent": "System operators who transform existing analog TV channels into digital TV channels or increase number of channels of wide bandwidth digital TV channel should submit the following information to the central administrative offices for application of operation plan alteration:\r\n1. Catalogue or instruction handbook of added or altered digital transmission device\r\n2. Detailed map in distribution network or electronic video files."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 37",
+      "EngArticleContent": "System operators making alterations of address encryption should submit the catalogue and instruction handbook (including volume of address encryption subscribers, wave phase, downstream of address signal and encryption method of audio) of the added or altered address encryption device to the central administrative authority for inspection."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 38",
+      "EngArticleContent": "System operators should carry out self-inspection of its system once every year and submit its testing report sheet and testing record sheet to the central administrative authority for reference. The information in the above paragraph shall be kept for one year, the central administrative authority may send an investigator for inspection."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 39",
+      "EngArticleContent": "The central administrative authority may send authorities with identification documents to carry out unscheduled inspection on Cable Radio and Television system and request the system operator to report and provide relevant information on its system condition and other necessary items."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 40",
+      "EngArticleContent": "The central administrative authority in consideration of maintenance of the airwave order, protection of the consumer rights and upgrade of the Cable Radio and Television technical engineering standard, may conduct itself or entrust a civil committee to conduct the engineering inspection on cable ratio and television system.\r\nEngineering evaluation item includes 4 categories: engineering device, transmission quality, monitoring operations and general rating. All system operators should participate.\r\nWhen carrying out the engineering inspection, the central administrative authority may request the evaluated party to provide necessary documents; the participant may not refuse such request. All wired broadcasting TV system operation with operation permit granted by central authority organization may be listed as united to be evaluated."
+    },
+    {
+      "EngArticleType": "C",
+      "EngArticleNo": "",
+      "EngArticleContent": "   Chapter 6 System Maintenance"
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 41",
+      "EngArticleContent": "System operators should establish a system maintenance work diary and work record.\r\nThe work diary should record the following items:\r\n1. Name and time of working staff in shift\r\n2. Condition of breakdown and its repair time\r\n3. Power cut-off and the time taken to resume power supply and the conditions of using self-provided power generator\r\n4. Other technical engineering related items\r\nWork record should record the following items in different sections\r\n1. Record of wave leakage testing\r\n2. Record of ground test meter resistance testing\r\n3. Record of signal quality testing\r\n4. Record of testing device correction\r\n5. Record of service maintenance on signal processing device\r\n6. Record of self-provided power generator service and maintenance\r\n7. Record of breakdown maintenance (including average repair time)\r\nThe work diary and work record should be signed and inspected by the engineering supervisor, its format can be set by the system operators themselves, and preservation period is one year."
+    },
+    {
+      "EngArticleType": "C",
+      "EngArticleNo": "",
+      "EngArticleContent": "   Chapter 7 Supplementary Articles"
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 41-1",
+      "EngArticleContent": "The regulation of the examining operation procedure, attentions and other technical rules are to be promulgated on separate account by the central administrative authority."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 42",
+      "EngArticleContent": "Violation of these Rules by system operators shall be penalized according to relevant Laws stated herein."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 43",
+      "EngArticleContent": "These Rules are effective on the day of their promulgation."
+    }
+  ]
+}

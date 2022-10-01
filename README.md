@@ -1,11 +1,17 @@
 # mojLawSplitJSON
-從全國法規資料庫轉換出的許多 JSON 檔
 
-* 欄位名稱維持原始資料使用的文字。
-* 摘要檔 `index.json` 中，法規編號的欄位名稱為 `PCode` 。（歷史因素）
+從[全國法規資料庫 Open API](https://law.moj.gov.tw/api/swagger/ui/index) 切出的 JSON 檔。
 
-關於資料來源及格式，請見 [mojLawSplit](https://github.com/kong0107/mojLawSplit) 。
+* 將原始資料切開，每個法規為獨立檔案。
+* 僅依語系區分資料夾，不區分法律與命令。
+* 其他整合處理請見[本庫的 arranged 分支](https://github.com/kong0107/mojLawSplitJSON/tree/arranged)。
 
-2019 年起，全國法規資料庫沒有再更新「歷史法規」，因此本專案刪除 `HisMingLing` 資料夾。
-如仍有需要，可從 [release](https://github.com/kong0107/mojLawSplitJSON/releases) 頁籤找 2018 年的資料進行下載。
-（提醒：「歷史法規」僅包含部分行政命令層級的歷次版本，並沒有法律層級的歷次版本。）
+可利用 jsDelivr 等 CDN 服務進行應用，例如：
+
+```js
+fetch('https://cdn.jsdelivr.net/gh/kong0107/mojLawSplitJSON@split/ch/A0000001.json')
+.then(res => res.json())
+.then(law => {
+    //...
+});
+```

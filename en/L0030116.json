@@ -1,0 +1,448 @@
+{
+  "LawLevel": "命令",
+  "EngLawName": "Medical Device Quality Management System Regulations",
+  "LawName": "醫療器材品質管理系統準則",
+  "EngLawURL": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=L0030116",
+  "EngLawModifiedDate": "20210414",
+  "EngLawAbandonNote": "",
+  "EngLawAttachements": [
+    {
+      "FileName": "Annex.odt",
+      "FileURL": "https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006647"
+    }
+  ],
+  "EngLawHistories": "1.1.Promulgated by the Ministry of Health and Welfare Order Wei-Shou-Shi-Tzu No.1101101294, on April 14th, 2021; The Regulations shall be effective on the day that \"Medical Devices Act\" is effective(May 1st, 2021).\r\n",
+  "EngLawForeword": "",
+  "EngLawArticles": [
+    {
+      "EngArticleType": "C",
+      "EngArticleNo": "",
+      "EngArticleContent": "   Chapter 1 General Provisions"
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 1",
+      "EngArticleContent": "This set of regulations is established pursuant to Article 22 Paragraph 4 of the Medical Device Act (hereafter referred as the Act)."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 2",
+      "EngArticleContent": "In this Part, standards related to the facilities, equipment, organization and personnel, production, quality control, storage, distribution, handling of customer complaints and other matters of manufacturers of medical devices are prescribed with reference to the ISO 13485: Medical Devices — Quality Management Systems — Requirements for Regulatory Purposes published by the International Standard Organization."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 3",
+      "EngArticleContent": "The terms used in this Regulations are defined as follows:\r\n(1) Advisory notice: It refers to supplementary information or recommended measures issued by the manufacturers, after delivery of medical devices, for the usage, modification, recall, destruction or other related matters of the medical devices;\r\n(2) Customer complaint: It means a message showing dissatisfaction in written, electronic or oral forms related to the features, quality, usability, reliability, safety, fuctionality or performance of a medical device on the market;\r\n(3) Implantable medical device: It means a medical device intended to be totally or partially introduced into the human body or a natural orifice, to replace an epithelial surface or the surface of the eye, by surgical intervention, and which is intended to remain after the procedure for at least 30 days, and can only be removed by medical or surgical intervention;\r\n(4) Post-marketing surveillance: It refers to the systematic collection and analysis by the manufacturer of the actual user experience of the medical devices that have been listed;\r\n(5) Product: It refers to the output of the operation process related to the manufacturing of the medical devices, including service, software, hardware and processing materials;\r\n(6) Risk management: It refers to systematic application of management policies, procedures, and practices on the analysis, evaluation, and control of risks;\r\n(7) Sterilization barrier system: It refers to the minimum package that prevents ingress of microorganisms and allow aseptic presentation of the product at the point of use."
+    },
+    {
+      "EngArticleType": "C",
+      "EngArticleNo": "",
+      "EngArticleContent": "   Chapter 2 Quality Management System"
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 4",
+      "EngArticleContent": "The manufacturer shall document a quality management system and maintain its effectiveness in accordance with the provisions of these Regulations\r\nThe manufacturer shall establish, implement and maintain the requirements, procedures, activities or arrangements set out in the quality management system:\r\n1.\tTo determine and implement the processes required for the quality management system;\r\n2.\tTo monitor the quality management system process based on risk assessment;\r\n3.\tTo determine the sequence and interaction of the implementation process of quality management system."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 5",
+      "EngArticleContent": "The manufacturer shall take the following measures on the quality management system process;\r\n1.\tTo determine criteria and methods adopted to establish and maintain the quality management system;\r\n2.\tThe acquisition of resources and information needed to establish and maintain the quality management system;\r\n3.\tThe necessary actions to achieve the expected results of the quality management system and to maintain the effectiveness of its processes;\r\n4. The monitoring, analysis and necessary measurement of the quality management system process;\r\n5. The establishment and maintenance of necessary records in order to prove compliance with the Act and these Regulations."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 6",
+      "EngArticleContent": "The formulation and changes of the foregoing process shall be carried out with the impact assessment of the quality management system and the medical device to ensure compliance with the requirements of the Act and these Regulations."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 7",
+      "EngArticleContent": "The manufacturer shall implement monitoring on the part of outsourced services in the quality management system process, which may affect the product’s compliance with the requirements.\r\nThe manufacturer shall ensure that the outsourcing process complies with the requirements of these Regulations, the customers and other relevant regulations, and shall adopt control measures commensurate with the risk of outsourcing and the ability of the trustees to comply with the law, including the signing of a written contract."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 8",
+      "EngArticleContent": "The manufacturer shall establish and document the validation procedures for the effectiveness of computer software in the quality management system. The software shall be validated prior to initial use; the same applies to the changes of software or its applications, if necessary.\r\nThe specific methods and activities used for software validation and re-validation shall be commensurate with the risk of use of the software.The manufacturer shall keep record of the foregoing measures of validation and re-validation."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 9",
+      "EngArticleContent": "The content of the quality management system document shall include the following matters:\r\n1.\tStatement of quality policy and quality objectives;\r\n2.\tThe quality manual;\r\n3.\tProcedures and records required by these Regulations;\r\n4.\tDocuments and records developed by the manufacturer to ensure the effectiveness of planning, operation and control of the quality management system process;\r\n5.\tOther documents required by central competent authorities."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 10",
+      "EngArticleContent": "(The content of foregoing quality manual shall include the following items:)\r\nThe manufacturer shall establish a quality manual, and the content of which shall include the following items:\r\n1. The file structure used by the quality management system.\r\n2.\tThe scope of the quality management system and reasons of exclusions from application or non-enforcement, if any;\r\n3.\tThe procedures established by the quality management system;\r\n4.\tThe interaction between quality management system processes."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 11",
+      "EngArticleContent": "The manufacturer shall establish medical device file for each type or series of medical devices as evidence that their manufacture complies with the provisions of the Act and these Regulations.\r\nThe foregoing medical device file shall include the following content:\r\n1.\tAn overview of the medical device, its intended use or purpose, and labeling;\r\n2.\tProduct specifications;\r\n3.\tSpecifications or procedures for manufacturing, packaging, storage, handling and distribution;\r\n4.\tMeasurement and monitoring procedures;\r\n5.\tInstallation requirements;\r\n6.\tService requirements.\r\nThe presentation of the foregoing content may be in the form of a document or an index."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 12",
+      "EngArticleContent": "The manufacturer shall control the documents used for the quality management system.\r\nThe manufacturer shall establish control procedures in writing for the following matters:\r\n1.\tThe review and approval of the documents before release and circulation; the same applies to the revise;\r\n2.\tThe identification and verification of the serial number of versions and the history of revisions and status;\r\n3.\tThe availability of the documents in respective places;\r\n4.\tThe confirmation of document version and readability;\r\n5. Ascertaining the validity of the necessary external original documents, and the control of the distribution of the documents;\r\n6. Prevention of damage or loss of documents;\r\n7.\tIdentification of void documents and preventive measures against misuse.\r\nThe revise mentioned as first subparagraph of foregoing paragraph shall ensure that the changes to the documents are based on the review and approval by the offices issuing the original approval or their designated offices with reference to relevant background information.\r\nThe manufacturer shall specify the period of keeping the void documents to ensure the availability of the data of manufacturing and testing, which shall not be less than the period specified in the relevant laws and regulations."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 13",
+      "EngArticleContent": "The manufacturer shall establish and maintain a record sufficient enough to prove compliance with these Regulations. Records shall remain legible, readily identifiable and retrievable.\r\nThe manufacturer shall establish a documented procedure to define the controls needed for the identification, storage, protection, retrieval, retention time and disposition of records.\r\nThe retention period of the record in the first paragraph shall be no less than the validity period of the medical device and shall be no less than three years from the date of release of the product by the manufacturer. Other laws and regulations, in which a longer period is required, shall prevail.\r\nThe manufacturer shall formulate and implement protection measures for sensitive health information in records in accordance with the provisions of the Personal Data Protection Act."
+    },
+    {
+      "EngArticleType": "C",
+      "EngArticleNo": "",
+      "EngArticleContent": "   Chapter 3 Management Responsibility"
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 14",
+      "EngArticleContent": "The top management shall ensure the establishment, implementation and effective maintenance of the quality management system, and shall provide evidence of participation in the following matters:\r\n1.\tInternal communication of customer needs and the importance of compliance with laws and regulations.\r\n2.\tEstablishment of quality policies.\r\n3.\tEstablishment of quality objectives.\r\n4.\tManagement review of the quality management system.\r\n5.\tThe supply of resources required by the quality management system."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 15",
+      "EngArticleContent": "The top management shall confirm the contents which mentioned as first subparagraph of foregoing procedures that shall be complied with to satisfy the demands, and shall ensure their implementation."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 16",
+      "EngArticleContent": "The top management shall ensure the quality policies which mentioned as second subparagraph of Article 14 is consistent with the establishment purposes of the manufacturer, and its content includes the following matters:\r\n1. Compliance with the requirements of the quality management system and the commitment to maintain the effectiveness of the system;\r\n2.\tThe framework for establishing and reviewing quality objectives.\r\nThe suitability of the quality policy shall be reviewed and communicated within the manufacturer's organization to ensure the understanding by members of each group."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 17",
+      "EngArticleContent": "The top management shall ensure that all levels of offices complete the establishment of the quality objectives which mentioned as third subparagraph of Article 14.\r\nThe foregoing quality objectives shall be set on the basis of the quality policies, and the content includes measurable items that shall be completed in order to comply with regulations and product requirements."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 18",
+      "EngArticleContent": "The top management shall confirm the following:\r\n1.\tThe planning of the quality management system conforms to the quality objectives and the requirements of Articles 4 to 8;\r\n2.\tThe change of the quality management system shall keep the integrity of the system."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 19",
+      "EngArticleContent": "The top management shall specify in writing the duties and functions of the staffs of its internal offices and have all the staffs of these offices informed of the same.\r\nThe top management shall bestow on the foregoing staffs whose jobs involve the management, execution, and monitoring of quality the necessary power and the independence to exercise the power, and shall be made the relationship among their duties."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 20",
+      "EngArticleContent": "The quality management system shall have one person as the management representative, who shall be assigned by the top management. The duties and functions of the aforementioned representative shall be stated in writing covering the following matters:\r\n1.\tConfirmation of the establishment of the quality management system process in writing;\r\n2.\tSubmission to the top management the report on the confirmation of the effectiveness of the quality management system and the necessary improvement measures;\r\n3.Strengthening of the understanding among all the staffs of the manufacturer of relevant laws and regulations and customer demands."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 21",
+      "EngArticleContent": "The top management shall establish appropriate communication channels within the organization to ensure that matters related to the effectiveness of quality management system are reflected."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 22",
+      "EngArticleContent": "The manufacturer shall establish, in writing, the management level review procedure of the quality management system, and its content shall include the evaluation of the changes or advancement of the quality management system including quality policy and objectives.\r\nThe top management level shall periodically review the quality management system in accordance with the provisions of the preceding paragraph to ensure its suitability, adequacy and effectiveness; its review shall be recorded and kept on file."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 23",
+      "EngArticleContent": "The review as mentioned in the preceding Article shall include the following matters:\r\n1.\tFeedback;\r\n2.\tThe handling customer complaints;\r\n3.\tReports to the competent central competent authority;\r\n4. Results of internal or external audits;\r\n5. Monitoring and measurement of the process and the results;\r\n6.\tMonitoring and measurement of the products and the results;\r\n7.\tCorrective measures;\r\n8.\tPreventive measures;\r\n9.\tFollow-up treatment of the conclusions of the previous review;\r\n10. Changes that may affect the quality management system;\r\n11. Recommendations for improvement;\r\n12. Measures to cope with the amendments to the law and regulations."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 24",
+      "EngArticleContent": "The record mentioned in Article 22 shall include the following matters:\r\n1.\tMatters reviewed and their content;\r\n2.\tNecessary improvement measures to maintain the suitability, appropriateness and effectiveness of the quality management system and its processes;\r\n3.\tProduct improvement measures based on customer demands;\r\n4.\tMeasures to cope with the amendments of laws and regulations;\r\n5.\tResource requirements for implementing the first three sub-paragraphs above."
+    },
+    {
+      "EngArticleType": "C",
+      "EngArticleNo": "",
+      "EngArticleContent": "   Chapter 4 Resource Management"
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 25",
+      "EngArticleContent": "The manufacturer shall confirm and provide the necessary resources which mentioned as fifth subparagraph of Article 14 to maintain the effective implementation of the quality management system and comply with the laws and regulations and the demands of customers."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 26",
+      "EngArticleContent": "Members of the team engaged in work affecting product quality shall be properly educated, trained, or have certain skills or experience to ensure their job competencies."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 27",
+      "EngArticleContent": "The manufacturer, regarding the establishment of personnel’ capabilities, the provision of necessary training and the correct awareness of their responsibilities, shall establish in writing the procedures for the following matters:\r\n1.\tIdentification of the competence of personnel engaged in work affecting product quality.\r\n2. The provision of necessary training or other measures to maintain personnel capabilities.\r\n3. Evaluation of the effectiveness of the training or measures in the preceding sub-paragraphs.\r\n4.\tThe insurance of the awareness of the relevance and importance of their operation and the attainment of the quality objectives.\r\n5.\tRecord keeping in the forms of audio recording, photographs, video recording, certificates and citations of the education, training, skills and experience of the personnel."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 28",
+      "EngArticleContent": "In order to meet product requirements, the manufacturer shall specify in writing the conditions of the infrastructure to avoid product confusion and disorderly handling.\r\nThe foregoing facilities shall include the following matters:\r\n1.\tBuildings, working spaces and related facilities.\r\n2.\tHardware and software process equipment.\r\n3.\tSupport services such as transportation, communication or information systems.\r\nIf the maintenance on the aforementioned facilities affects the product quality, the manufacturer shall determine the content and frequency of the implementation of the maintenance activities; the implementation shall be recorded and kept on file.\r\nThese provisions apply to the control, monitoring, and measurement of work environment mutatis mutandis."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 29",
+      "EngArticleContent": "In order to ensure the consistency of product manufacturing, the manufacturer shall specify in writing the requirements on working environment and impose monitoring and control on those which may adversely affect the product quality.\r\nThe foregoing requirements shall include the following:\r\n1.\tThe health, cleanliness and clothing conditions of the personnel when their contact with the product or the operating environment can cause adverse effects on the safety or performance of medical devices;\r\n2.\tThe insurance of the necessary capabilities of temporary personnel working under special environmental conditions or of their monitoring by those who possess the capabilities."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 30",
+      "EngArticleContent": "In order to prevent pollution caused by other products, working environment or personnel, the manufacturer shall plan and establish in writing control measures for contaminated or susceptible products.\r\nThe manufacturer shall establish in writing contamination control measures of microbes or particulates on sterile medical devices; the necessary sanitation shall also be maintained in the process of assembly or packaging."
+    },
+    {
+      "EngArticleType": "C",
+      "EngArticleNo": "",
+      "EngArticleContent": "   Chapter 5 Product Realization"
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 31",
+      "EngArticleContent": "The manufacturer shall specify in writing the risk management process necessary for product realization.\r\nThe manufacturer shall plan and establish the processes required for product realization, and the plans shall comply with other process requirements of the quality management system.\r\nThe content of the aforementioned planning shall be done in writing and specified in the format acceptable with the operation mode of the manufacturer.The content of planning shall include the following items, as appropriate:\r\n1.\tQuality objectives and product requirements;\r\n2.\tThe establishment of necessary processes and documents, and the provision of specific resources by individual products including the infrastructure and working environment;\r\n3.\tThe verification, validation, monitoring, measurement, inspection, testing, handling, storage, distribution and source tracing measures of individual products, and their acceptance criteria;\r\n4.\tRecords sufficient to prove that both the product realization process and the final product meet the requirements.\r\nThe implementation of risk management mentioned in the first paragraph shall be recorded and kept on file."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 32",
+      "EngArticleContent": "The manufacturer shall confirm the following matters:\r\n1.\tRequirement specified by the customers, which scope covers both before and after delivery;\r\n2.\tTo meet known regulations or intended uses;\r\n3. Applicable laws and regulations of the products;\r\n4.\tThe necessary training to be received by the users in order to ensure that the use of medical devices meets the expected performance and safety;\r\n5.\tOther matters."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 33",
+      "EngArticleContent": "Before accepting product orders, the manufacturer shall review the requirements related to the products and complete the confirmation of the following matters:\r\n1.\tSpecified requirements on products:\r\n2.\tHandling of the difference between the content of the contract or order and that as previously specified;\r\n3.\tThe compliance of laws and regulations;\r\n4.\tProvision of user training courses;\r\n5.\tThe manufacturer’ possession of the ability to meet various requirements.\r\nThe results of the review and the measures to be taken related to the foregoing review shall be recorded and kept on file.\r\nIf the customer does not state the requirement in writing, the manufacturer shall ascertain it before accepting the order.\r\nIf there are changes occurring in the agreement between the manufacturer and the customer, the manufacturer shall revise the relevant documents and inform its relevant personnel of the changes."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 34",
+      "EngArticleContent": "The manufacturer shall specify in writing the following matters on the communication with customers;\r\n1.\tProduct information;\r\n2.\tCustomer inquiries, and processing and revision of contracts or orders;\r\n3.\tCustomer feedback including complaints;\r\n4.\tAdvisory notice.\r\nThe manufacturer shall apply for, notify or report matters specified in laws and regulations to the competent authority."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 35",
+      "EngArticleContent": "The manufacturer shall specify in writing the procedures and requirements for product design and development. The content shall include the following:\r\n1.\tThe schedule of design and development, and the review, verification, validation and design transfer measures as implemented in each phase.\r\n2. The duties and functions of the staffs at each phase of the procedure;\r\n3. The method of tracing the design, development and output to its original items of input;\r\n4.The resources required for product realization, including the necessary capabilities of the personnel.\r\nThe written documents mentioned in the preceding paragraph shall be kept on file and updated in due course."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 36",
+      "EngArticleContent": "The manufacturer shall review the appropriateness of the design and development input items of the following matters, and verify, record and maintain the same:\r\n1.\tThe functions, features, usability and safety based on the intended use;\r\n2.\tApplicable legal requirements and standards;\r\n3.\tOutput of applicable risk management assessment and measures resulted from research;\r\n4.\tInformation available from similar product designs;\r\n5.\tOther basic requirements for product and product realization process design and development.\r\nThe matters in the preceding paragraphs shall be clear, complete and reasonable, and shall be presented with methods for verification or validation."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 37",
+      "EngArticleContent": "The product design, development and output shall comply with the following:\r\n1.\tConformity with the content approved in the first paragraph of the preceding Article and shall be presented with methods of verification;\r\n2.\tProvision of necessary information for the procurement, production and service;\r\n3.\tSpecification of the acceptance criteria of products;\r\n4.\tSpecification of the product characteristics that are essential for the product safe and proper use.\r\nThe output mentioned in the preceding paragraph shall be subject to approval before being released; its records shall be kept on file."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 38",
+      "EngArticleContent": "The manufacturer shall meet Article 35 of the Act. to perform review on the design and development based on the plans in writing to complete the following matters:\r\n1.\tEvaluation of the compliance of the results of design and development with requirement;\r\n2.\tIdentification and proposal of necessary actions.\r\nParticipants in the foregoing review shall include representatives of the design and development departments, representatives of the departments affected by the design and development results, and other technical personnel.\r\nThe results of the review and the necessary measures indicated therewith shall be recorded and kept on file.\r\nThe content of the record as mentioned in the preceding paragraph shall clearly record the subject of the review, the staff conducting the review and the date of review."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 39",
+      "EngArticleContent": "In order to ensure the consistency of design, development input and output, the manufacturer shall specify in writing its consistency verification plan and implement it accordingly.\r\nThe content of the foregoing plan shall include the verification methods, acceptance criteria, necessary statistical techniques with rationale for sample size.\r\nThe verification mentioned in the first paragraph shall include the requirement of connection or interface conforming with input and output consistency when and if the intended use of the product involves the connection or interface with other medical devices.\r\nThe verification results, conclusions and necessary measures proposed at the end of the verification shall be recorded and kept on file."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 40",
+      "EngArticleContent": "In order to ensure that the final product designed and developed meets the specific application or expected requirements, the manufacturer shall establish in writing a validation plan, which includes the validation methods, acceptance criteria, and the necessary statistical techniques with rationale for sample size.\r\nThe subject of validation in the preceding paragraph shall be selected from representative products such as the first batch of production, and the reasons for selection shall be recorded and kept on file.\r\nThe validation mentioned in the first paragraph shall include the requirement of specific application or expected requirements when and if the intended use of the product involves the connection or interface with other medical devices.\r\nThe validation mentioned in the first paragraph shall be completed before the product is released. The verification result and the necessary measures proposed shall be recorded and kept on file."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 41",
+      "EngArticleContent": "The manufacturer shall specify in writing the procedures for the transfer and application of the design and development results to actual manufacturing, to ensure that the manufacturing process and production capacity have been verified to meet the requirements. The process and content of the transfer shall be recorded and kept on file."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 42",
+      "EngArticleContent": "The manufacturer shall specify in writing the control procedures on the changes of the design and development to determine the degree of impact of the changes on the functions, performance, usability, safety, regulatory requirements and intended use of the medical devices.\r\nThe control mentioned in the preceding paragraph regarding the content of the change shall be exercised in review, verification, necessary validation, approval and be completed before the change takes place.\r\nThe review mentioned in the preceding paragraph shall include an assessment of the impact of changes on product components, products in process or delivered, risk management input or output, and the process of product realization.\r\nThe results of changes, the review and its related necessary measures shall be recorded and and kept on file."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 43",
+      "EngArticleContent": "The manufacturer should, for the design and development of each model or series of medical devices, establish and maintain a file.\r\nThe foregoing file shall include or provide an index to records that can prove compliance with the design and development requirements and the changes on the design and development."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 44",
+      "EngArticleContent": "The manufacturer shall establish in writing a validation procedure to ensure that the purchased products meet its requirements.\r\nThe manufacturer shall formulate evaluation and selection criteria on the suppliers.  These are to be set based on the following considerations:\r\n1.\tThe ability of the supplier to provide products that meet the specifications of the manufacturer;\r\n2.\tThe supplier's past performance;\r\n3.\tThe degree of influence of the products provided by suppliers on the quality of medical devices;\r\n4.\tRisks of medical devices to be manufactured.\r\nThe manufacturer shall plan mechanisms for the monitoring and re-evaluation of the suppliers. The results of purchasing requirement compliance control are to be used as a reference for re-evaluation.\r\nThe manufacturer shall take necessary measures if it finds that the supplier does not meet the purchasing requirements.\r\nThe evaluation, selection, monitoring, re-evaluation and necessary measures mentioned in the first three items above shall be recorded and kept on file."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 45",
+      "EngArticleContent": "The purchasing requirements mentioned in the preceding article shall include the following matters and be made available for reference in writing or by other index methods:\r\n1.\tProduct specifications;\r\n2.\tProduct acceptance, procedures, processes and equipment;\r\n3.\tQualification of supplier personnel;\r\n4.\tQuality management system.\r\nThe manufacturer shall determine the adequacy of purchasing requirements before approaching suppliers.The manufacturer, when necessary, shall enter into agreement in writing that the supplier shall notify the manufacturer in advance before implementing the changes that may affect purchasing requirements.\r\nThe manufacturer shall maintain documents and records of purchasing information required for traceability as set forth in these Regulations."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 46",
+      "EngArticleContent": "The manufacturer shall formulate and implement inspections or other necessary verification measures to ensure that the purchased products meet the purchasing requirements.\r\nThe selection of the measures and content of the preceding paragraph shall refer to the results of the risk assessment of the supplier and the medical device to be manufactured.\r\nIf there is a change in the purchased product, the manufacturer shall determine the impact of the change on the medical device or its manufacturing process.\r\nThe measures mentioned in the first paragraph which can be implemented by the manufacturer or its customers at the supplier's premises, shall be stated in the purchasing information mentioned in the preceding Article, with the implementation measures and the method of product release specified.\r\nThe implementation of the measures mentioned in the first paragraph shall be recorded and and kept on file."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 47",
+      "EngArticleContent": "The manufacturer shall plan the production and service processes, and implement, monitor and control them to ensure that products meet specifications.\r\nThe content of production control in the preceding paragraph shall include, as appropriate, the following matters:\r\n1.\tControl procedures and methods for production stated in writing;\r\n2.\tValidation of the suitability of infrastructure;\r\n3.\tImplementation of monitoring and measurement on process parameters and product characteristics;\r\n4.\tConfirmation of the integrity of the equipment implementing the monitoring and measurement stated in the preceding subparagraph;\r\n5.\tImplementation of labeling and packaging operations.\r\n6.\tImplementation of product release, delivery and post-delivery activities.\r\nThe manufacturer shall establish and maintain a production control record for each batch (piece) of medical devices, and the content of which shall include the scope of traceability set out in these Regulations, as well as the amount of production and distribution. The record shall be verified and approved."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 48",
+      "EngArticleContent": "The manufacturer, under any of the following circumstances, shall formulate in writing the requirements for product cleaning or pollution control:\r\n1.\tThe product shall be cleaned by the manufacturer before sterilization or use.\r\n2.\tThe product is supplied in a non-sterilized state, but the cleaning process is completed before sterilization or use.\r\n3. The product cannot be cleaned before sterilization or use, but its cleanliness has a significant impact on use.\r\n4. The product does not need to be sterilized for use, but its cleanliness has a significant impact on use.\r\n5. The pharmaceuticals used in the manufacturing process must be removed from the product.\r\nSubparagraphs 1 and 2 of the preceding paragraph do not apply the provisions of Article 29 before cleaning."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 49",
+      "EngArticleContent": "The manufacturer should, when necessary, formulate in writing the verifiable installation requirements and acceptance criteria for specific medical devices.\r\nIf, upon the request of the buyer, the manufacturer agrees for the medical device to be installed by a third party other than the buyer and its authorized agent, the manufacturer shall provide to the third party the documents of the matters and criteria set out in the preceding paragraph.\r\nThe manufacturer shall record and maintain the records of the installation by itself or its authorized agents."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 50",
+      "EngArticleContent": "If there are specific specifications for the after-sales service of medical devices, the manufacturer shall formulate, in writing, the service procedures, the reference measurement methods or other information for implementation and verification.\r\nFor the aforementioned service, the manufacturer or its authorized agent shall record and keep it on file.\r\nThe manufacturer shall analyze the foregoing records to determine whether there are any complaints that shall be handled, and if necessary, include them in the reference for product improvement."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 51",
+      "EngArticleContent": "The manufacturer shall keep a record of the sterilization process parameters of each sterilization batch.\r\nThe content of the foregoing record shall be traceable to each production batch of the medical device."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 52",
+      "EngArticleContent": "The deficiencies of production or service of medical devices, which cannot be revealed without being used or received, shall be validated by the manufacturer of the process of production or service.\r\nThe procedure of validation mentioned in the preceding paragraph to prove that the production or service is in accordance with its planned schedule shall be set it in writing, and its content includes the following matters:\r\n1.\tReview standards and approval procedures;\r\n2.\tThe required equipment and their specifications, and the qualifications of the implementing personnel;\r\n3.\tSpecific methods, procedures and acceptance criteria adopted;\r\n4.\tThe statistical techniques with rationale for sample size;\r\n5.\tThe requirements for record confirmation in accordance with Article 13;\r\n6.\tRevalidation and its criteria;\r\n7.\tApproval of changes of the validation procedures;\r\nThe manufacturer shall establish procedures in writing to validate the computer software they use before production or service provision; the same applies to changes adopted in their software. The choice of software validation and revalidation methods shall take into account the impact of software on product specification compliance.\r\nThe results of the foregoing validation and revalidation, the conclusions obtained based on the results, and necessary actions for subsequent implementation shall be recorded and kept on file."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 53",
+      "EngArticleContent": "The manufacturer shall establish in writing the procedures for validation of the sterilization process and the sterile barrier system. The scope of application includes the product itself, and the same applies when the manufacturing process is changed.\r\nThe results of validation mentioned in the preceding paragraph, their conclusions and the necessary follow-up measures shall be recorded and kept on file."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 54",
+      "EngArticleContent": "The manufacturer shall establish in writing the procedures and methods for identifying products in the product realization process to ensure that the returned product is separated from other products.\r\nThe manufacturer shall identify product compliance during the process of product realization. The process includes production, storage, installation, and service processes so as to ensure that only products that pass specific inspections, tests, or approvals are released, used, or installed.\r\nThe manufacturer shall establish in writing a single identification system for medical devices with certain risk class as announced in accordance with the first paragraph, Article 19 of the Act ."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 55",
+      "EngArticleContent": "The manufacturer should, within the scope and record content stipulated by laws and regulations, set in writing the traceability procedures of products."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 56",
+      "EngArticleContent": "Where the record mentioned in the preceding Article relates to traceability of implantable medical devices, it shall include all parts, materials and production environmental conditions that may cause non-compliance with safety and performance requirements.\r\nThe manufacturer of the product mentioned in the preceding paragraph shall require the logistics and distributor of its product to keep the logistic or sales records; and whereas the product is delivered by parcel, the record of the voucher of the name and address of the consignee shall be kept by the manufacturer."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 57",
+      "EngArticleContent": "The manufacturer shall identify, verify, protect and safeguard the tools, storage equipment, transportation vehicles, development designs, materials, or other tangible or intangible assets provided by the customer for use or forming part of the product.\r\nIf the asset in the preceding paragraph is lost, damaged or unusable, the manufacturer shall notify the customer and produce a record and keep on file."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 58",
+      "EngArticleContent": "The manufacturer shall establish in writing protection procedures to ensure that the product specifications are not affected by the processing, storage, handling and distribution process.\r\nIn the procedures mentioned in the preceding paragraph, in order to prevent the product from being exposed to the anticipated state or hazard, which lead to the risks of alteration, contamination or damage, the manufacturer shall implement the following matters:\r\n1.\tDesigning and constructing suitable packaging and shipping containers.\r\n2.\tProviding special additional conditions in writing, if the package or container in the preceding subparagraph fails to provide adequate protection under specific circumstances, and the conditions shall be under control and listed in records.\r\nThe above two provisions also apply to the protection of product components."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 59",
+      "EngArticleContent": "The manufacturer shall plan the monitoring and measurement operations to fully certify the product conformity and shall have the relevant equipment necessary to perform the operations.\r\nThe procedure mentioned in the preceding paragraph shall be specified in writing by the manufacturer.\r\nThe use of the measurement equipment mentioned in the first paragraph shall comply with the following requirements:\r\n1.\tCalibration or verification with clear international or national measurement standards before initial use; where there are no clear standards, the basis used for calibration or verification shall be recorded. The same shall be done regularly after the equipment is commissioned;\r\n2.\tAfter calibration and verification, it make necessary adjustments and readjustments for avoiding adjustments that cause invalidated measurement results;\r\n3.\tThe calibration status shall be identified;\r\n4. Taking precautionary measures to avoid damage or deterioration in case of handling, maintenance or storage.\r\nThe manufacturer shall perform the calibration or verification in accordance with the provision of the second paragraph, and record and keep the results.\r\nIf inconformity is found on the equipment as mentioned in the first paragraph, the manufacturer shall evaluate the effectiveness of the measurement of its output and record it. Appropriate measures shall be taken for the affected products.\r\nThe manufacturer shall establish in writing a validation procedure for the suitability of the computer software for monitoring and measurement purposes, and complete the confirmation before the software is used, or after actual use, or upon changes made in the software.\r\nThe validation and re-validation of the software mentioned in the preceding paragraph shall be based on the risks of using the software and exercised with appropriate methods and activities. The results, conclusions reached and necessary follow-up actions shall be recorded and kept on file.\r\nThe risks mentioned in the preceding paragraph include the effects of the capability of the medical device to meet its intended use."
+    },
+    {
+      "EngArticleType": "C",
+      "EngArticleNo": "",
+      "EngArticleContent": "   Chapter 6 Measurement, Analysis and Improvement"
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 60",
+      "EngArticleContent": "The manufacturer shall plan and implement monitoring, measurement, analysis and improvement processes to ensure the conformity of products and the conformity and effectiveness of quality systems.\r\nThe foregoing planning shall include validation of the appropriate methods including statistical techniques and the scope of application."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 61",
+      "EngArticleContent": "In order to evaluate the effectiveness of the quality management system, the manufacturer shall gather and monitor information on compliance with customer requirements.\r\nThe manufacturer shall formulate in writing the methods for collecting and using the information mentioned in the preceding paragraph."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 62",
+      "EngArticleContent": "The manufacturer shall formulate in writing procedures for receiving and processing the information as mentioned in the preceding article. Specific provisions of laws and regulations, if available, shall prevail.\r\nThe foregoing procedures shall include the aggregation of production and post-production information; the consolidated information shall be used by the manufacturer as a reference for risk management, monitoring and product conformity maintenance, and the process of product realization and improvement."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 63",
+      "EngArticleContent": "The manufacturer shall formulate in writing the procedures and deadlines for complaints handling, and the content of the procedures shall include the following matters:\r\n1.\tAcceptance and record of the cases of complaint;\r\n2. Evaluation if the case is established;\r\n3. Investigation of the incident;\r\n4.\tMatters and methods of statutory notification;\r\n5.\tTreatment of the products based on investigation results;\r\n6. Decisions on subsequent correction and content of corrective actions.\r\nIf the complaint case referred to in the preceding paragraph is found not caused by the manufacturer, the manufacturer shall provide the content of the complaint and the appropriate information obtained from the investigation to the relevant stakeholders.\r\nThe record mentioned in the first paragraph shall include the matters in all the sub-paragraphs in the same paragraph and the reasons for not having exercised incident investigation. The record shall be kept on file."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 64",
+      "EngArticleContent": "The manufacturer shall handle the reporting of adverse events of Paragraph 1 of Article 48 of the Act, the reporting and the undertaking of corrective and preventive measures of Article 49 of the Act, the notifying and recalling within a definite time of Paragraph 1 of Article 58 of the Act, and formulate the procedures for operation.\r\nThe notification, corrective and preventive measures, recall as mentioned in the preceding paragraph shall be recorded and kept on file."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 65",
+      "EngArticleContent": "The manufacturer shall perform internal audits regularly to ensure the effectiveness of the quality management system and its compliance with laws and regulations.\r\nThe manufacturer shall formulate the procedures for the audit as mentioned in the preceding paragraph, which shall include the division of powers and requirements related to the planning, execution, recording and reporting of audit results."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 66",
+      "EngArticleContent": "With regard to the content of the audit plan mentioned in the preceding Article, the manufacturer shall formulate it while taking into account the subject, content and location, as well as the relative importance of the processes in the quality management system and the results of previous audits.\r\nThe content of the preceding paragraph shall include the audit criteria, scope, frequency, method and records; the auditor shall not audit the work of their own duties."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 67",
+      "EngArticleContent": "The process, place and results of the audit shall be thoroughly recorded and kept on file.\r\nThe management of the auditee shall propose corrective measures for the non-compliance of the audit results as mentioned in the preceding paragraph and correct them in time to ensure that the non-compliances and their causes are removed.\r\nThe manufacturer shall submit verification reports on the content and results of the implementation of corrective measures."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 68",
+      "EngArticleContent": "The manufacturer shall adopt appropriate methods to monitor and measure the various processes of the quality management system.\r\nThe manufacturer shall, if the objectives of processes as mentioned in the preceding paragraph are not achieved, propose corrective measures and implement the same to ensure product compliance."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 69",
+      "EngArticleContent": "The manufacturer shall, during the product realization process, formulate in writing the monitoring and measurement procedures at appropriate stages based on the characteristics of the product, to verify the conformity of the product.\r\nThe products shall not be released unless verified in the foregoing procedure.\r\nThe execution of the procedure mentioned in the first paragraph shall be recorded, and its contents shall include the following matters:\r\n1.\tThe name of the person authorized to give permit of the release;\r\n2. Evidence that the acceptance criteria are met;\r\n3.\tThe name of the test equipment, if any equipment is used;\r\n4.\tThe names of the inspectors or testers of implantable medical devices, if the devices are used."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 70",
+      "EngArticleContent": "The manufacturer shall identify and control products that do not meet the requirements to prevent unintended use or delivery.\r\nIn order to meet the requirements of the preceding paragraph, the manufacturer shall formulate in writing the definition of rights and responsibilities in the procedures of identification, recording, segmentation, evaluation, discarding, etc. of the products that do not meet the requirements of the original manufacturer.\r\nThe evaluation mentioned in the preceding paragraph shall include the decision to initiate an investigation and to notify the relevant external authorities.\r\nThe manufacturer shall record the non-conformity as mentioned in the first paragraph, the reasons for subsequent evaluation and investigation, and reasons for decisions made, and keep the record in file."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 71",
+      "EngArticleContent": "The manufacturer shall impose the following treatments separately or simultaneously on unqualified products:\r\n1. Measures to remove non-conformities;\r\n2.\tMeasures to prevent the use or application of substandard products mistakenly for their intended purposes;\r\n3.\tAuthorization of the use, release or acceptance of the product under concession.\r\nThe manufacturer adopting the treatment method in the third sub-paragraph of the preceding paragraph may do so only with sufficient valid reasons to meet the requirements of the second subparagraph of paragraph 1, Article 36, and receive the approval of the responsible personnel. The name and title of the person giving the approval shall be recorded and kept on file."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 72",
+      "EngArticleContent": "If any non-conformity is found after delivery, the manufacturer shall take appropriate measures with regard to its impact or potential impact, and shall be recorded and kept on file.\r\nThe manufacturer shall, in accordance with laws and regulations, formulate in writing the procedure for issuing advisory notices to external parties, and shall follow the said procedure.\r\nThe issuance of advisory notices shall be recorded and maintained by the manufacturer."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 73",
+      "EngArticleContent": "The manufacturer shall, in light of the possible effects of product reprocessing, formulate in writing appropriate rework procedures and have the procedures under review in accordance with the original procedure.\r\nReprocessed products shall be verified to ensure compliance with acceptance criteria and laws and regulations.\r\nThe implementation of rework shall be recorded and kept on file."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 74",
+      "EngArticleContent": "The manufacturer shall formulate in writing the items and analysis procedures of data collection to prove the adequacy, suitability and effectiveness of the quality management system.\r\nThe procedure mentioned in the preceding paragraph shall include implementation methods including the use of statistical techniques and selection of their scope of application.\r\nThe data of analysis mentioned in the first paragraph shall include the results from monitoring and measurement. The analysis shall provide at least the following information:\r\n1.\tCustomers' opinions, comments and expressions on the product, service or complaint handling process;\r\n2.\tThe compliance of product specifications;\r\n3. The characteristics and trends of changes of the processes and products, and the timing of intervention for appropriate improvements;\r\n4.\tEvaluation on the raw materials or services provided by suppliers;\r\n5.\tResult of the audit on the manufacturer;\r\n6.\tEvaluation of service reports, when necessary.\r\nIf the quality management system is found to be unsuitable, inappropriate, or ineffective through the analysis made in the preceding paragraph, the manufacturer shall take the analysis results as basis of improvements following the provisions of Articles 75, 76, and 77.\r\nThe aforementioned results of analysis shall be recorded and kept on file."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 75",
+      "EngArticleContent": "The manufacturer shall, based on its quality policies and objectives, make necessary changes to ensure and maintain the adequacy, suitability and effectiveness of the quality management system, and the safety and performance of the medical device.\r\nThe changes mentioned in the preceding paragraph shall be based on the audit results, post-marketing surveillance, data analysis, and corrective and preventive actions, and shall be implemented after the review and validation of the content of changes by the management."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 76",
+      "EngArticleContent": "The manufacturer shall take corrective actions to remove the cause of non-conformity and prevent its recurrence.\r\nThe implementation of the corrective actions mentioned in the preceding paragraph shall not be delayed for no reason, and the content of the actions shall be formulated based on the degree of influence of the non-conformity.\r\nIn order to implement the corrective action mentioned in the first paragraph, the manufacturer shall formulate in writing the procedures for completing the following items:\r\n1.\tReview of non-conformities including customer complaints.\r\n2. Judgment of reasons for non-conformities.\r\n3. Evaluation of the adoption of corrective actions.\r\n4. The planning, formulation and implementation of corrective actions, and the necessary updates of quality system documents.\r\n5. Verification that corrective actions do not conflict with laws and regulations, and do not degrade the safety and performance of the medical device.\r\n6.\tReview of the implementation of corrective actions and their effectiveness.\r\nWith regard to the formulation of corrective actions, the manufacturer shall record and keep the results of investigations it has performed on non-conformities and the implementation of corrective actions."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 77",
+      "EngArticleContent": "The manufacturer shall take preventive actions to remove possible causes of non-conformity and prevent its occurrence.\r\nThe aforementioned content of the preventive actions shall be based on the degree of impact of potential non-conformities.\r\nIn order to implement the preventive actions in the first paragraph, the manufacturer shall formulate in writing the procedures for completing the following items:\r\n1.\tJudgment of potential non-conformities and their possible causes.\r\n2.\tEvaluation of the adoption of preventive measures.\r\n3.\tThe planning, formulation and implementation of preventive actions, and the necessary updating of quality system documents.\r\n4. Verification that the preventive actions are not in conflict with laws and regulations, and do not degrade the safety and performance of medical equipment;\r\n5.\tReview of the implementation of preventive actions and their effectiveness.\r\nIn order to determine preventive actions, the manufacturer shall record and keep on file the results of investigations of potential non-conformities and the implementation of preventive actions."
+    },
+    {
+      "EngArticleType": "C",
+      "EngArticleNo": "",
+      "EngArticleContent": "   Chapter 7 Essential Mode"
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 78",
+      "EngArticleContent": "The manufacturers engaged in producing only the items as listed in Annex, shall establish medical device file according to each type or device or series of devices. Each manufacturer shall also implement procedures for control of records, complaint handling as well as corrective and preventive actions.\r\nThe manufacturer mentioned in the preceding paragraph, may not be subject to other provisions of this Part of these Regulations, except for the provisions of Article 11, Article 12, Article 13, Article 47, Article 55, Article 63, Article 64, Article 69, Article 76 and Article 77."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 79",
+      "EngArticleContent": "The Regulations shall be implemented from May 1st, 2021."
+    }
+  ]
+}

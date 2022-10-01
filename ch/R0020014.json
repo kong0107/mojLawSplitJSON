@@ -1,0 +1,67 @@
+{
+  "LawLevel": "命令",
+  "LawName": "測驗式試題計分辦法",
+  "LawURL": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=R0020014",
+  "LawCategory": "廢止法規＞考選部",
+  "LawModifiedDate": "20060920",
+  "LawEffectiveDate": "",
+  "LawEffectiveNote": "",
+  "LawAbandonNote": "廢",
+  "LawHasEngVersion": "N",
+  "EngLawName": "",
+  "LawAttachements": [],
+  "LawHistories": "1.中華民國七十八年八月二日考試院（78）考台秘議字第 2447 號令訂定\r\n  發布全文 10 條\r\n2.中華民國八十三年一月十七日考試院令增訂第 7  條條文；現行第 7\r\n  條條次遞改為第 8  條；現行第 8  條條文並予刪除\r\n3.中華民國九十五年九月二十日考試院考臺組壹一字第 09500073561  號 \r\n  令發布廢止",
+  "LawForeword": "",
+  "LawArticles": [
+    {
+      "ArticleType": "A",
+      "ArticleNo": "第 1 條",
+      "ArticleContent": "本辦法依典試法第十八條規定訂定之。"
+    },
+    {
+      "ArticleType": "A",
+      "ArticleNo": "第 2 條",
+      "ArticleContent": "為校正試題難度不等所發生之偏差，並使各科分數可以互相比較，各科測\r\n驗式試題之原始分數，得依本辦法規定，換算為標準分數。"
+    },
+    {
+      "ArticleType": "A",
+      "ArticleNo": "第 3 條",
+      "ArticleContent": "各科測驗式試題，均以應考人之答對題數為原始分數。"
+    },
+    {
+      "ArticleType": "A",
+      "ArticleNo": "第 4 條",
+      "ArticleContent": "原始分數得以校正猜測公式校正之，其公式如下：\r\nＳ＝Ｒ－ (Ｗ／Ｎ－１)\r\nＳ表示校正後之原始分數\r\nＲ表示答對題數\r\nＷ表示答錯題數，但不包括未作答之題數\r\nＮ表示試題之選項數"
+    },
+    {
+      "ArticleType": "A",
+      "ArticleNo": "第 5 條",
+      "ArticleContent": "各科測驗式試題之原始分數換算為標準分數時，可依考試性質，採用下列\r\n公式之一：\r\n            __\r\n一、Ｔ＝Ｘ－Ｘ／ (SD／10) ＋５０\r\n　Ｔ表示標準分數\r\n  Ｘ表示原始分數\r\n  __\r\n  Ｘ表示平均數\r\n  SD表示標準差\r\n          __\r\n  式中Ｘ－Ｘ／SD，按直線轉換方式計算。\r\n            __\r\n二、Ｈ＝Ｘ－Ｘ／ (SD/14) ＋５０\r\n  Ｈ表示標準分數\r\n  Ｘ表示原始分數\r\n  __\r\n  Ｘ表示平均數\r\n  SD表示標準差\r\n          __\r\n  式中Ｘ－Ｘ／SD，按直線轉換方式計算。\r\n              __\r\n三、ＭＥ＝Ｘ－Ｘ／ (SD/20) ＋５０\r\n  ＭＥ表示標準分數\r\n  Ｘ表示原始分數\r\n  __\r\n　Ｘ表示平均數\r\n  SD表示標準差\r\n          __\r\n  式中Ｘ－Ｘ／SD，按直線轉換方式計算。\r\n"
+    },
+    {
+      "ArticleType": "A",
+      "ArticleNo": "第 6 條",
+      "ArticleContent": "檢定考試，各科測驗式試題之原始分數，達六十分以上之人數，未超過百\r\n分之六十時，得換算為Ｔ標準分數。\r\n專門職業及技術人員檢覈筆試，各科測驗式試題之原始分數，達六十分以\r\n上之人數，未超過百分之二十四時，得換算為Ｈ標準分數；其原始分數，\r\n達六十分以上之人數，未超過百分之三十一時，得視需要換算為ＭＥ標準\r\n分數。\r\n其他各種考試，必要時，經典 (主) 試委員長之同意，得比照換算為Ｔ標\r\n準分數或Ｈ標準分數。\r\n各種考試及檢覈筆試，應考人數不足二十人時，其原始分數均不予換算。"
+    },
+    {
+      "ArticleType": "A",
+      "ArticleNo": "第 7 條",
+      "ArticleContent": "專門職業及技術人員檢覈筆試科目全部採用測驗式試題時，各類科原始分\r\n數總平均成績，達六十分以上之人數未超過百分之三十一時，得降低其及\r\n格標準，錄取至該類科全程到考人數百分之三十一，但總平均成績低於五\r\n十分者，或有一科目成績低於廿五分者，仍不予錄取。"
+    },
+    {
+      "ArticleType": "A",
+      "ArticleNo": "第 8 條",
+      "ArticleContent": "用電子計算機或人工評閱測驗式試卷時，均應遵守百分法之計分範圍。"
+    },
+    {
+      "ArticleType": "A",
+      "ArticleNo": "第 9 條",
+      "ArticleContent": "用人工評閱測驗式試卷時，其原始分數或標準分數，應以本國大寫數字記\r\n載於卷首，並由閱卷委員簽名或蓋章。"
+    },
+    {
+      "ArticleType": "A",
+      "ArticleNo": "第 10 條",
+      "ArticleContent": "本辦法自發布日施行。"
+    }
+  ]
+}

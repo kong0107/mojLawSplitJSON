@@ -1,0 +1,217 @@
+{
+  "LawLevel": "命令",
+  "LawName": "行政院所屬機關電腦設備安全暨資訊機密維護準則",
+  "LawURL": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=I0060002",
+  "LawCategory": "廢止法規＞院本部",
+  "LawModifiedDate": "19990915",
+  "LawEffectiveDate": "",
+  "LawEffectiveNote": "",
+  "LawAbandonNote": "廢",
+  "LawHasEngVersion": "N",
+  "EngLawName": "",
+  "LawAttachements": [],
+  "LawHistories": "1.中華民國七十六年四月二十日行政院（76）台經字第 7501 號令訂定發\r\n  布全文 32 條\r\n2.中華民國七十九年三月十六日行政院（79）台經字第 04842  號令修正\r\n  發布第 12、16、17、21、25、27、28 條條文\r\n3.中華民國八十八年九月十五日行政院（88）台經字第 34734  號令發布\r\n  廢止",
+  "LawForeword": "",
+  "LawArticles": [
+    {
+      "ArticleType": "C",
+      "ArticleNo": "",
+      "ArticleContent": "   第 一 章 總則"
+    },
+    {
+      "ArticleType": "A",
+      "ArticleNo": "第 1 條",
+      "ArticleContent": "行政院為確保本院及所屬各行政機關 (以下簡稱各機關) 之電腦 (電子計\r\n算機) 設備安全，資訊機密維護及加強資訊作業管制，特訂定本準則。軍\r\n事機關及部隊之資訊作業管制及機密維護另有規定者，從其規定。"
+    },
+    {
+      "ArticleType": "A",
+      "ArticleNo": "第 2 條",
+      "ArticleContent": "本準則所稱電腦設備，係指主機、週邊設施及相關設施；所稱資訊機密，\r\n係指使用電腦設備製作、保存與國家安全或公務機密有關之資料，及處理\r\n該資料有關之系統、程式、消息或文件。"
+    },
+    {
+      "ArticleType": "A",
+      "ArticleNo": "第 3 條",
+      "ArticleContent": "各機關對於電腦設備及資訊機密應採取安全與維護措施，其有關主管或負\r\n責人，應於權責範圍內負監督之責。"
+    },
+    {
+      "ArticleType": "A",
+      "ArticleNo": "第 4 條",
+      "ArticleContent": "各機關應建立資訊稽核制度，並得視需要設置稽核人員，定期或不定期稽\r\n核電腦設備之使用及資訊檔案管理情形。"
+    },
+    {
+      "ArticleType": "C",
+      "ArticleNo": "",
+      "ArticleContent": "   第 二 章 設備管理與安全防護"
+    },
+    {
+      "ArticleType": "A",
+      "ArticleNo": "第 5 條",
+      "ArticleContent": "各機關對電腦機房應指定專人負責管理，並加強門禁管制及有關安全防護\r\n措施。\r\n前項機房應備置工作日誌，由管理人員逐日記載電腦開關紀錄、設備故障\r\n、異常及維護等情形，並定期陳報。"
+    },
+    {
+      "ArticleType": "A",
+      "ArticleNo": "第 6 條",
+      "ArticleContent": "各機關對電腦設備，應加強天然災害及其他意外災害之防護。"
+    },
+    {
+      "ArticleType": "A",
+      "ArticleNo": "第 7 條",
+      "ArticleContent": "各機關對於儲存各項機密資料或程式之磁碟、磁帶等媒體，應闢專室責成\r\n專人管理。"
+    },
+    {
+      "ArticleType": "A",
+      "ArticleNo": "第 8 條",
+      "ArticleContent": "各機關應建立備援制度，對於需要長期保留或重要檔案之備分媒體，應使\r\n用專用防火或保險設備異地存放。"
+    },
+    {
+      "ArticleType": "C",
+      "ArticleNo": "",
+      "ArticleContent": "   第 三 章 資訊作業管制暨機密維護"
+    },
+    {
+      "ArticleType": "C",
+      "ArticleNo": "",
+      "ArticleContent": "      第 一 節 資料輔出入管制"
+    },
+    {
+      "ArticleType": "A",
+      "ArticleNo": "第 9 條",
+      "ArticleContent": "各項資料輸出入作業自原始資料至建檔，及其執行人姓名、職稱均應有詳\r\n細紀錄，並由專人管理。\r\n前項資料建檔後之異動、刪除、使用情形等，並應記錄。"
+    },
+    {
+      "ArticleType": "A",
+      "ArticleNo": "第 10 條",
+      "ArticleContent": "重要或具機密性資料應自行錄製建檔。但情形特殊無法自行處理者，需經\r\n核准後，始得委託其他機關或資訊服務廠商處理，並應派員監督之。"
+    },
+    {
+      "ArticleType": "A",
+      "ArticleNo": "第 11 條",
+      "ArticleContent": "各項資料之輸出入，均應建立識別碼，通行碼之管理制度；重要或具機密\r\n性資料建檔時，應加設資料存取控制。\r\n前項識別碼、通行碼，應視需要經常更新。"
+    },
+    {
+      "ArticleType": "A",
+      "ArticleNo": "第 12 條",
+      "ArticleContent": "電腦設備所輸出具機密性報表，應依有關規定區分機密等級。"
+    },
+    {
+      "ArticleType": "C",
+      "ArticleNo": "",
+      "ArticleContent": "      第 二 節 連線作業管制"
+    },
+    {
+      "ArticleType": "A",
+      "ArticleNo": "第 13 條",
+      "ArticleContent": "使用終端設備與其他機關主機連線作業者，應報請權責單位核准後，給予\r\n相關編號列入管制。"
+    },
+    {
+      "ArticleType": "A",
+      "ArticleNo": "第 14 條",
+      "ArticleContent": "連線作業，應於系統中限制其可運作之範圍。"
+    },
+    {
+      "ArticleType": "A",
+      "ArticleNo": "第 15 條",
+      "ArticleContent": "設置專線連線作業時，應依左列規定辦理：\r\n一、加強通信硬體設備之維護，並作成紀錄。\r\n二、定期檢視傳輸日記檔，並統計印製報表，陳報主管核閱。\r\n三、具備偵錯能力及回復措施。\r\n四、建立通信線路備分管制。\r\n"
+    },
+    {
+      "ArticleType": "A",
+      "ArticleNo": "第 16 條",
+      "ArticleContent": "利用電信機構連線者，除依前三條規定外，應依照電信法令規定辦理。"
+    },
+    {
+      "ArticleType": "C",
+      "ArticleNo": "",
+      "ArticleContent": "      第 三 節 程式安全管制"
+    },
+    {
+      "ArticleType": "A",
+      "ArticleNo": "第 17 條",
+      "ArticleContent": "各機關對於電腦之程式及其設計、測試、製作、使用、維護、備援、採購\r\n、簽約，均應嚴密管制。"
+    },
+    {
+      "ArticleType": "A",
+      "ArticleNo": "第 18 條",
+      "ArticleContent": "前條管制之內容，指程式指令、工作控制語言、程式變更申請單及程式之\r\n製作標準、規範說明、測試報告、變更報告等文件。"
+    },
+    {
+      "ArticleType": "A",
+      "ArticleNo": "第 19 條",
+      "ArticleContent": "程式之製作，應建立審核程序，於程式設計完成時，由非原程式設計人審\r\n核之。"
+    },
+    {
+      "ArticleType": "A",
+      "ArticleNo": "第 20 條",
+      "ArticleContent": "核定使用之程式不得擅自變更，其有變更必要時，應報經核准。"
+    },
+    {
+      "ArticleType": "C",
+      "ArticleNo": "",
+      "ArticleContent": "      第 四 節 資訊檔案管制"
+    },
+    {
+      "ArticleType": "A",
+      "ArticleNo": "第 21 條",
+      "ArticleContent": "各機關應建立資訊檔案管制制度，分級管理。\r\n資訊檔案中之資料具機密性者，應依有關規定區分其機密等級。"
+    },
+    {
+      "ArticleType": "A",
+      "ArticleNo": "第 22 條",
+      "ArticleContent": "系統程式檔案之登錄與維護，由系統程式人員為之；應用程式檔案得由系\r\n統程式人員或指定專人，依照有關規定登錄與維護。"
+    },
+    {
+      "ArticleType": "A",
+      "ArticleNo": "第 23 條",
+      "ArticleContent": "資訊檔案中之資料，其更新、更正或註銷，均應報經核准，並將更新、更\r\n正、註銷內容、作業人員及時間等詳實紀錄。"
+    },
+    {
+      "ArticleType": "C",
+      "ArticleNo": "",
+      "ArticleContent": "   第 四 章 附則"
+    },
+    {
+      "ArticleType": "A",
+      "ArticleNo": "第 24 條",
+      "ArticleContent": "稽核人員為實施稽核得調閱有關資料，並請作業人員提供說明。"
+    },
+    {
+      "ArticleType": "A",
+      "ArticleNo": "第 25 條",
+      "ArticleContent": "各機關對資訊人員之進用，應依規定辦理人事查核，並隨時督導考核。"
+    },
+    {
+      "ArticleType": "A",
+      "ArticleNo": "第 26 條",
+      "ArticleContent": "各機關應於進用資訊作業人員時，由其填具保密切結書；離職時取消其識\r\n別碼，並收繳其通行證、卡及相關證件。"
+    },
+    {
+      "ArticleType": "A",
+      "ArticleNo": "第 27 條",
+      "ArticleContent": "各機關及人員執行本準則成效卓著者，得予獎勵；違反本準則規定者，依\r\n情節按有關規定予以適當處分；其涉及刑責者，移送該管檢察機關偵辦。"
+    },
+    {
+      "ArticleType": "A",
+      "ArticleNo": "第 28 條",
+      "ArticleContent": "各機關應定期或不定期實施資訊保密及安全防護教育訓練。\r\n各機關應視業務需要，採行有關資訊安全之保險措施。"
+    },
+    {
+      "ArticleType": "A",
+      "ArticleNo": "第 29 條",
+      "ArticleContent": "各機關得視業務需要，依本準則之原則，另訂補充規定，報請權責機關核\r\n備。"
+    },
+    {
+      "ArticleType": "A",
+      "ArticleNo": "第 30 條",
+      "ArticleContent": "本準則於直接或間接受託承辦各機關資訊業務之機構、團體或學校準用之\r\n。"
+    },
+    {
+      "ArticleType": "A",
+      "ArticleNo": "第 31 條",
+      "ArticleContent": "公營事業機構、公立學校及研究機構關於電腦設備安全，資訊機密維護及\r\n資訊作業管制，得參酌本準則辦理。"
+    },
+    {
+      "ArticleType": "A",
+      "ArticleNo": "第 32 條",
+      "ArticleContent": "本準則自發布日施行。"
+    }
+  ]
+}

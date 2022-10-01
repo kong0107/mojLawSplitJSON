@@ -1,0 +1,178 @@
+{
+  "LawLevel": "命令",
+  "EngLawName": "Regulations Governing Identity Verification Mechanism and Transaction Amount Limits of Electronic Payment Institutions",
+  "LawName": "電子支付機構身分確認機制及交易限額管理辦法",
+  "EngLawURL": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0380240",
+  "EngLawModifiedDate": "20210630",
+  "EngLawAbandonNote": "",
+  "EngLawAttachements": [],
+  "EngLawHistories": "1. Promulgated on April 27, 2015\r\n2. Articles 5, 6, 8, 11, 12, 16, 22 and 23 amended and issued on September 10, 2016\r\n3. Articles 6, 8, 12 and 17 amended and issued on August 28, 2018\r\n4.Amended and promulgated on June 30, 2021 with the July 1, 2021 effective date",
+  "EngLawForeword": "",
+  "EngLawArticles": [
+    {
+      "EngArticleType": "C",
+      "EngArticleNo": "",
+      "EngArticleContent": "   Chapter 1 General Provisions"
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 1",
+      "EngArticleContent": "These Regulations are adopted pursuant to Article 16, Paragraph 3 of Article 25, Paragraph 3 of Article 26, and Article 42 which apply mutatis mutandis to Article 16, Paragraph 3 of Article 25, and Paragraph 3 of Article 26 of the Act Governing Electronic Payment Institutions (referred to as the “Act” hereunder)."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 2",
+      "EngArticleContent": "The identity verification mechanism and transaction amount limits for users of electronic payment institutions and contracted institutions shall be governed in accordance with these Regulations. Matters not prescribed in these Regulations shall be governed by the Regulations Governing Anti-Money Laundering of Financial Institutions and other related regulations."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 3",
+      "EngArticleContent": "The terms used in these Regulations are defined as follows:\r\n1. \"Individual users\" shall mean natural-person users including natural persons from other countries or regions (including Mainland Area).\r\n2. \"Non-individual users\" shall mean government agencies, legal persons, business entities, and other organizations in the ROC as well as government agencies, legal persons, business entities, and other organizations from other countries or regions (including Mainland Area).\r\n3. \"Individual contracted institutions\" shall mean natural persons who signed contracted institution contracts with an electronic payment institution, including natural persons from other countries or regions (including Mainland Area).\r\n4. \"Non-individual contracted institutions\" shall mean government agencies, legal persons, business entities, and other organizations in the ROC as well as government agencies, legal persons, business entities, and other organizations of other countries or regions (including Mainland Area) who signed contracted institution contracts with an electronic payment institution."
+    },
+    {
+      "EngArticleType": "C",
+      "EngArticleNo": "",
+      "EngArticleContent": "   Chapter 2 Manner of Establishment, Process for and Management of Identity Verification Mechanism"
+    },
+    {
+      "EngArticleType": "C",
+      "EngArticleNo": "",
+      "EngArticleContent": "      Section 1 Users"
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 4",
+      "EngArticleContent": "When an electronic payment institution accepts users to register, open an electronic payment account, or register their stored value cards, it shall learn the identity of users, record such identity information, and confirm the veracity of users according to these Regulations; the preceding provision applies when users change their identity information."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 5",
+      "EngArticleContent": "When an electronic payment institution accepts users to register, open an electronic payment account, or register their stored value cards, it shall check with the Joint Credit Information Center (JCIC) for the following information and keep relevant records for future reference:\r\n1. Information on deposit account with suspicious or unusual transactions.\r\n2. Data and information circulated by electronic payment institutions pursuant to Article 28 and Article 35 of the Rules Governing the Administration of Electronic Payment Business.\r\n3. Notation data where the users’ requests to enhance identity verification.\r\n4. Other data as required by the competent authority.\r\nElectronic payment institutions shall use the data obtained from JCIC prudentially, according to the preceding paragraph; and they shall decide whether to approve or reject user's registration application based on objectivity and autonomy."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 6",
+      "EngArticleContent": "An electronic payment institution shall reject users to register, open electronic payment accounts, or register their stored value cards if the users have any of the situations specified in Article 4 of the Regulations Governing Anti-Money Laundering of Financial Institutions.\r\nAn electronic payment institution shall reject the user’s application for registration, or application for registering their stored value cards if the users have any of the following situations:\r\n1. The deposit account or electronic payment account has been reported as a watch-listed account and the account status has not been removed.\r\n2. The applicant applies for registration frequently over a short period of time without reasonable explanation.\r\n3. The transaction functions applied for are obviously inconsistent with the applicant's age or background.\r\n4. Data obtained from inquiry with JCIC according to Paragraph 1 of the preceding article show irregularity.\r\n5. The same mobile phone number provided for identity verification has been used repeatedly in identity verification without reasonable explanation.\r\n6. Other situations under which the user’s application may be rejected as provided by the competent authority."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 7",
+      "EngArticleContent": "The types and transaction functions of e-payment accounts opened by users with an electronic payment institution are as follows:\r\n1. Type 1 and Type 2 e-payment account: An e-payment account for individual users and non-individual users that offers the functions of collecting, paying funds, and accepting deposit of funds as stored value funds.\r\n2. Type 3 e-payment account: An e-payment account for individual users that only offers the functions of paying funds under collecting and making payments for real transactions, deposit funds and receiving small-amount domestic and international remittances from a lineal relative or guardian’s  electronic payment account in the same institution."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 8",
+      "EngArticleContent": "When accepting individual users to register, open electronic payment accounts, or register their stored value cards, an electronic payment institution shall ask the users to provide basic identity information, including at least name, nationality, type and number of identification document and date of birth. It shall also retain the photocopy or image files of the identity certification or keep important information as the records."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 9",
+      "EngArticleContent": "When an electronic payment institution accepts individual users to register and open a Type 1 e-payment account, its identity verification process shall comply with the following provisions:\r\n1. Verifying the mobile phone number provided by the user: Verify that the user can use the said mobile phone number to operate and receive messages and notifications.\r\n2. Verifying the veracity of the user’s identity information. The verification method shall comply with any one of the criteria set forth below:\r\n(1) When a national ID card is provided, the institution shall check the user's ID card issuance records, name, and data with JCIC to verify data veracity;\r\n(2) When a resident certificate, vertical household registration certificate, or other identity document issued by a government agency is provided, the institution must check such documents with the Ministry of the Interior or the issuers of the said documents, the name and data with JCIC, or use other appropriate methods to verify the user's name.\r\n3. Confirming the financial payment instrument used by the user.\r\n4. Verifying the user identity via over-the-counter review, a certificate that complies with the Electronic Signature Act, or video teller machine.\r\nWhen an individual user uses the e-payment account, specified in the preceding paragraph, to engage in small-amount domestic and international remittances between different institutions, the electronic payment institution shall adopt one more of the following methods into its identity verification process:\r\n1. Verifying that the user’s ID number and the mobile phone number owner’s ID number in Subparagraph 1 of the preceding paragraph are the same.\r\n2. Confirming the second payment instrument used by the user.\r\nThe payment instrument referred to in Subparagraph 3 of the Paragraph 1 and Subparagraph 2 of the preceding paragraph shall be deposit accounts, credit cards, or other financial payment instruments recognized by the competent authority only. The said deposit accounts excludes Type 3 digital bank deposit accounts."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 10",
+      "EngArticleContent": "When an electronic payment institution accepts individual users to register and open a Type 2 e-payment account, its identity verification process shall comply with the provisions in Subparagraphs 1 to 3, Paragraph 1 of the preceding article.\r\nThe provisions in Paragraphs 2 and 3 of the preceding article shall apply mutatis mutandis to conditions specified in the preceding paragraph."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 11",
+      "EngArticleContent": "When an electronic payment institution accepts individual users to register and open a Type 3 e-payment account, its identity verification process shall comply with the provisions in Subparagraphs 1 and 2, Paragraph 1 of Article 9."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 12",
+      "EngArticleContent": "When accepting a non-individual user to register an e-payment account, an electronic payment institution shall ask the user to provide basic identity information, including at least the name of the entity, country of registration, registration paper, license, or type and number of approval document for establishment, contact information, as well as representative's name, nationality, type and number of identification document, mailing address, and telephone number."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 13",
+      "EngArticleContent": "When an electronic payment institution accepts a non-individual user to register and open a Type 1 e-payment account, its identity verification process shall comply with the following provisions:\r\n1. Confirming a payment instrument used by the user.\r\n2. Requesting the photocopy or image file of the user's license or certificate, or approval for establishment, and its representative's identification certification. Taiwanese government agencies, public schools, state-owned enterprises, or utility companies and foundations, of which their representatives are appointed by the government according to the law, may be exempted from these requirements.\r\n3. Verifying the user’s identity presented by the user’s representative or its authorized agent via over-the-counter review, a certificate complied with the Electronic Signatures Act, or video teller machine.\r\nThe provisions in Paragraphs 3 of Article 9 shall apply mutatis mutandis to conditions specified in Subparagraph 1 of the preceding paragraph.\r\nWith respect to the image file of the registration license or certificate, or approval for establishment provided from onshore non-individual users in accordance with Subparagraph 2 of Paragraph 1 hereof, the electronic payment institution shall check the registration records with the Ministry of Economic Affairs, Ministry of Finance, or the competent authorities in charge of user's main line of business.\r\nAn electronic payment institution shall verify the beneficial owner of the user in accordance with its directions for anti-money laundering and countering terrorism financing."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 14",
+      "EngArticleContent": "When an electronic payment institution accepts non-individual user to register and open a Type 2 e-payment account, its identity verification process shall comply with the provisions in Subparagraphs 1 and 2, Paragraph 1 of the preceding article.\r\nThe provisions in Paragraph 3 of Article 9 and Paragraph 3 of the preceding article shall apply mutatis mutandis to conditions specified in the preceding paragraph."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 15",
+      "EngArticleContent": "When an electronic payment institution accepts users to register stored value cards, the identity verification process for individual users shall comply with the provisions in Subparagraphs 1 and 2, Paragraph 1 of Article 9; the identity verification process for non-individual users shall comply with the provisions in Subparagraphs 2 and 3, Paragraph 1 of Article 13.\r\nAn electronic payment institution must request the user’s contact phone number when it implement the process prescribed in the preceding paragraph.\r\nAn electronic payment institution issues a stored value card to its user, which is annexed to the user’s electronic payment account, the registration for the such stored value card annexed to the electronic payment account shall be deemed as completed."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 16",
+      "EngArticleContent": "An electronic payment institution is deemed to have carried out the required identity verification process for a user, provided that the outsourced service provider has performed the identity verification of the users by following a procedure not less than the requirements set out in Articles 9 to 11 and Articles 13 to 15 hereof.\r\nIf an electronic payment institution engage an outsourced service provider to perform the identity verification process, the regulations set forth in Article 7 of the Regulations Governing Anti-Money Laundering of Financial Institutions shall apply to the institution.\r\nWhere an outsourced service provider cannot implement the measures specified in the preceding paragraph, the electronic payment institution shall terminate its outsourced services."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 17",
+      "EngArticleContent": "An electronic payment institution shall, based on the results of differentiated identity verification performed according to these Regulations, set up users risk categorization standards, rate the risk levels of users accordingly, carry out scheduled or unscheduled monitoring, inspections, and risk control."
+    },
+    {
+      "EngArticleType": "C",
+      "EngArticleNo": "",
+      "EngArticleContent": "      Section 2 Contracted Institutions"
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 18",
+      "EngArticleContent": "When an electronic payment institution signs a contract with a contracted institution, the identity verification process shall comply with the following provisions:\r\n1. Type 1 individual contracted institutions: Articles 4 to 6, 8, 9, and 16 apply mutatis mutandis to Type 1 individual contracted institutions.\r\n2. Type 1 non-individual contracted institutions: Articles 4 to 6, 12, 13, and 16 apply mutatis mutandis to Type 1 non-individual contracted institutions.\r\n3. Type 2 individual contracted institutions: Articles 4 to 6, 8, 10, and 16 apply mutatis mutandis to Type 2 individual contracted institutions.\r\n4. Type 2 non-individual contracted institutions: Articles 4 to 6, 12, 14, and 16 apply mutatis mutandis to Type 2 non-individual contracted institutions."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 19",
+      "EngArticleContent": "When an electronic payment institution signs a contracted institution contract with a contracted institution, it shall request the contracted institution to provide advertisements, photographs of the business premises, or other information that can verify the existence of real transactions for its supply of product or services.\r\nAn electronic payment institution must sign a “contracted institution contract” with a user before it may provide the user with services as being a payee in the process of collecting and making payments for real transactions as an agent service, but this does not apply to those that meet the conditions prescribed in the regulations in Subparagraph 4, Article 6 of the Act, or Article 7 of the Rules Governing the Administration of Electronic Payment Business."
+    },
+    {
+      "EngArticleType": "C",
+      "EngArticleNo": "",
+      "EngArticleContent": "   Chapter 3 Transaction Amount Limits and Management"
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 20",
+      "EngArticleContent": "The transaction amount limits on users’ e-payment accounts opened in electronic payment institutions are as follows:\r\n1. Type 1 e-payment account:\r\n(1) Cumulative amount of collection and payment of real transaction per month shall be agreed between the electronic payment institution and the user.\r\n(2) The balance of stored value funds deposited shall be limited to not more than an equivalent of NT$100,000.\r\n(3) Each small-amount domestic and international remittance shall be limited to not more than NT$100,000 or its equivalent. The cumulative collection and payment amount for small-amount domestic and international remittances of individual users shall be respectively limited to not more than NT$1,000,000 or its equivalent; the cumulative collection and payment amount for small-amount domestic and international remittances of non-individual users shall be respectively limited to not more than NT$10,000,000 or its equivalent.\r\n2. Type 2 e-payment account:\r\n(1) Cumulative payment received and made per month shall be respectively limited to not more than an equivalent of NT$300,000.\r\n(2) The balance of the stored value funds deposited shall be limited to not more than NT$50,000 or its equivalent.\r\n(3) Each small-amount domestic and international remittance shall be limited to not more than NT$50,000 or its equivalent.\r\n3. Type 3 e-payment account:\r\n(1) The payment amount for cumulative payment received and made for real transactions per month shall be limited to not more than an equivalent of NT$30,000. An electronic payment institution may take its risk tolerance or users’ actual need into account, and to see if it shall raise the payment amount for cumulative payment received and made for real transactions per month. However, the cumulative payment amount for real transactions per month shall not exceed NT$100,000 or its equivalent, and the cumulative payment amount for real transactions per year shall not exceed NT$360,000 or its equivalent.\r\n(2) The balance of the stored value funds deposited shall be limited to not more than NT$10,000 or its equivalent.\r\n(3) The small-amount domestic and international remittances received from an electronic payment account of a lineal relative or guardian in the same institution shall be limited to not more than NT$10,000 or its equivalent per month.\r\nThe domestic transactions, stored value, and small-amount domestic and international remittances for funds collected for real transactions as an agent with electronic payment accounts prescribed in the preceding paragraph shall be processed in accordance with regulations in the preceding paragraph. Where the accounts are settled in NTD, the cumulative amount for the same user per week shall be limited to not more than NT$500,000 or its equivalent. The settlement amounts of foreign exchange purchases and sales shall be calculated separately.\r\nThe stored value funds and transaction amount limits for stored value cards are as follows:\r\n1. The funds balance of each stored value card shall be limited to not more than NT$10,000 or its equivalent.\r\n2. The cumulative payment amount per month for a registered stored value card in online transactions shall be limited to not more than an equivalent of NT$30,000. When the same user has two or more stored value cards issued by the same electronic payment institution that can be used for online transactions, the transaction amount shall be calculated together and the total transaction amount of the consolidated accounts shall not exceed the limited amount.\r\n3. The transaction amount of a stored value card annexed to an electronic payment account shall be calculated together with the transaction amount of the electronic payment account, and total transaction amount consolidated from the both shall not exceed the limit for the electronic payment account."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 21",
+      "EngArticleContent": "When an electronic payment institution provides contracted institutions with services for collecting and making payments for real transactions as an agent, the maximum transaction amounts are as follows:\r\n1. Type 1 contracted institutions: The collection amount for cumulative payment collection received and made for real transactions per month shall be agreed between the electronic payment institution and the contracted institution.\r\n2. Type 2 contracted institutions: The collection amount for cumulative payment collection received and made for real transactions per month shall be limited to not more than an equivalent of NT$300,000. An electronic payment institution may take its risk tolerance or contracted institutions' actual need into account to see if it shall raise the collection amount for the cumulative payment collection received and made for real transactions per month. However, the collection amount for the cumulative payment collection received and made for real transactions per month shall not exceed NT$500,000 or its equivalent, and the collection amount for the cumulative payment collection received and made for real transactions per year shall not exceed NT$3,600,000 or its equivalent."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 22",
+      "EngArticleContent": "When a user opens more than one e-payment account with an electronic payment institution, the amount of payment received and made per account shall not exceed the limit on that type of account, whereas the total limits on those accounts combined shall not exceed the limit set for the highest category of e-payment accounts registered and opened by the same user."
+    },
+    {
+      "EngArticleType": "C",
+      "EngArticleNo": "",
+      "EngArticleContent": "   Chapter 4 Retention of Data Obtained in Identity Verification Process and Necessary Transaction Records"
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 23",
+      "EngArticleContent": "An electronic payment institution shall retain the data obtained in users and contracted institutions identity verification process and relevant records on carrying out the users and contracted institutions identity verification; the preceding provision applies when users and contracted institutions change their identity information."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 24",
+      "EngArticleContent": "An electronic payment institution shall retain the following necessary transaction records of users:\r\n1. For the business of collecting and making payments for real transactions as an agent: records retained on the types, account numbers or card numbers of payors’ payment instruments, amount, types of the payment currency and time of making payment, e-payment account numbers or stored value card numbers of payors and recipients, information for the identification of the contracted institutions, transaction services fees and related transaction results; in the cases of refunds, records retained on methods, amount, types of currency, time of making refund, and types, account numbers or card numbers of payment instruments used for making refund payment and the related transaction results.\r\n2. For the business of accepting deposits of funds as stored value funds: Records retained on deposit methods, e-payment account numbers or stored value card numbers receiving the deposit, amount, types of currency and time of making deposit, transaction services fees and related transaction results.\r\n3. For the business of small-amount domestic and international remittances: Records retained on the users’ e-payment account numbers, amount, types of currency and time of making remittances, transaction services fees and related transaction results.\r\n4. For withdrawal of funds from e-payment account: Records retained on the e-payment account number from which the fund is withdrawn, the account number of the user’s same-currency financial institution deposit account which the fund is transferred into, amount, types of currency and time of making withdrawal, transaction services fees and related transaction results.\r\nElectronic payment institutions shall retain the log files of necessary transaction records prescribed in the preceding paragraph for at least five years, and ensure their veracity and completeness to facilitate account examination and reconciliation."
+    },
+    {
+      "EngArticleType": "C",
+      "EngArticleNo": "",
+      "EngArticleContent": "   Chapter 5 Supplemental Provisions"
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 25",
+      "EngArticleContent": "Regarding the user and contracted institution identity verification process and transaction amount limits, if an electronic payment institution does not meet the requirements of the provisions in Chapter 2 and Chapter 3 hereof, the institution shall make adjustments to become compliant within one year after these Regulations enter into force on July 1, 2021."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 26",
+      "EngArticleContent": "These Regulations shall enter into force on July 1, 2021."
+    }
+  ]
+}
