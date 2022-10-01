@@ -1,0 +1,461 @@
+{
+	"pcode": "K0060080",
+	"LawLevel": "命令",
+	"EngLawName": "Regulations for Administration of Wireless Broadband Access Business",
+	"LawName": "無線寬頻接取業務管理規則",
+	"EngLawModifiedDate": "20150716",
+	"attachments": {
+		"0000004740": "Appendix：The calculation reference table of charter fee for WBA service provider for charter renewal.PDF",
+		"0000002797": "Appendix：The calculation reference table of charter fee for WBA service provider for charter renewal.doc"
+	},
+	"histories": [
+		"82 Articles promulgated in full by National Communications Commission（NCC） on March 30, 2007. Ref: Tung-Chuan-Chi Tze No. 09605038420",
+		"The amendment of Article 36 promulgated by NCC on November 14, 2008. Ref：Tung-Chuan-Yin Tze No. 09741070960",
+		"The amendment of Articles 2,36,37 and 42 promulgated by NCC on December 22, 2008. Ref: Tung-Chuan-Ji Tze No. 09743029900",
+		"The amendment of Articles 2,62 and 70 promulgated by NCC on Feb. 4, 2009. Ref: Tung-Chuan- Chi Tze No. 09840001470",
+		"The amendment of Articles 57 was promulgated on December 17, 2009. Ref: Tung-Chuan-Ji Tze No. 009843032400 by National Communications Commission (NCC).",
+		"The amendment of partial Articles were promulgated on December 28, 2010 by National Communications Commission (NCC). Ref: Tung-Chuan-Ji Tze No. 09943029350",
+		"The amendment of Articles 5, 59,82 promulgated by National Communications Commission (NCC) on Jun. 11, 2011. Ref: Tung-Chuan-Fa Tze No. 10046000060.",
+		"The amendment of Articles 39, 54 promulgated by National Communications Commission (NCC) on Sep. 22, 2011. Ref: Tung-Chuan-Ying Tze No. 10041057100.",
+		"The amendment of Articles 68 promulgated by National Communications Commission (NCC) on Feb 7, 2013. Ref: Tung-Chuan-Zong-Guei Tze No. 10240004070.",
+		"The amendment of Articles 49,50 promulgated by National Communications Commission (NCC) on Jul 16, 2015. Ref: Tung-Chuan-Zong-Guei Tze No. 10440019560."
+	],
+	"divisions": [
+		{
+			"type": "chapter",
+			"number": 100,
+			"title": ": General Provisions",
+			"start": 100,
+			"end": 600
+		},
+		{
+			"type": "chapter",
+			"number": 200,
+			"title": ": Operation Concession",
+			"start": 700,
+			"end": 4800,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": ": Procedure of Charter Issuance",
+					"start": 700,
+					"end": 1000
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": ": Bidding Rules and Procedure",
+					"start": 1100,
+					"end": 1400
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": ": Application and Review",
+					"start": 1500,
+					"end": 2200
+				},
+				{
+					"type": "section",
+					"number": 400,
+					"title": ": Bidding Operation",
+					"start": 2300,
+					"end": 3000
+				},
+				{
+					"type": "section",
+					"number": 500,
+					"title": ": Establishment Preparation",
+					"start": 3100,
+					"end": 4800
+				}
+			]
+		},
+		{
+			"type": "chapter",
+			"number": 300,
+			"title": ": Operation Management",
+			"start": 4900,
+			"end": 7800,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": ": Charter Fee",
+					"start": 4900,
+					"end": 4900
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": ": Cross-investment or Merger",
+					"start": 5000,
+					"end": 5000
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": ": Technical Supervision",
+					"start": 5100,
+					"end": 6000
+				},
+				{
+					"type": "section",
+					"number": 400,
+					"title": ": Supervision over Services Operation",
+					"start": 6100,
+					"end": 7800
+				}
+			]
+		},
+		{
+			"type": "chapter",
+			"number": 400,
+			"title": "Dispute Mediation",
+			"start": 7900,
+			"end": 7900
+		},
+		{
+			"type": "chapter",
+			"number": 500,
+			"title": "Supplementary Provisions",
+			"start": 8000,
+			"end": 8200
+		}
+	],
+	"articles": [
+		{
+			"number": 100,
+			"content": "These Regulations are promulgated pursuant to Paragraph 6, Article 14 of the Telecommunication Act (hereinafter referred to as the “Act”)."
+		},
+		{
+			"number": 200,
+			"content": "Definitions of terms used in these Regulations:\r\n1. Wireless broadband access: A service provider using the approved frequency as stated in Article 6 and adopting wireless broadband access technology appointed in Paragraph 2 provides services enabling users to send, transfer, or receive symbols, messages, texts, images, voices, or messages of other natures.\r\n2. Wireless broadband access technology: The capability to support uninterrupted services of mobile stations at the speed of 100Km/hr, with an average frequency spectrum efficiency of higher than 2bits/sec/Hz as defined in the technical specifications, complying with technology standards defined by one of the following standard organizations:\r\n(1) Technology standards defined by the International Telecommunication Union (ITU)\r\n(2) Technology standards defined by the Institute of Electrical and Electronics Engineers (IEEE), European Telecommunications Standards Institute (ETSI), or other international or regional organizations.\r\n3. Wireless Broadband Access System: A communications system consisting of facilities required for wireless broadband access services, such as mobile stations, base stations, switch facilities, network management, and account management.\r\n4. Wireless Broadband Access Network: A communications network consisting of a wireless broadband access system and telecommunications facilities, cables and equipment.\r\n5. Wireless Broadband Access Services (hereinafter referred to as “services”): A service provider using the approved frequency as stated in Article 6 and adopting the wireless broadband access technology appointed in Paragraph 2 provides services enabling users to send, transfer, or receive symbols, messages, texts, images, voices, or messages of other natures.\r\n6. Mobile Station: a wireless terminal facility used for accessing wireless broadband service.\r\n7. Base Station: A land-based wireless communication backhaul for communication among mobile stations and other users.\r\n8. Service Provider: The entity that the NCC has granted the right to engage in wireless broadband access services as well as the charter to operate.\r\n9. Subscriber: A user that registers or enters a contract with a service provider for using wireless broadband access provided by the service provider.\r\n10. Emergency Telephone: The telephone used for reporting fire, theft or other emergencies.\r\n11. Important Public Construction: It refers to high speed rail, railway, mass rapid transit, freeways, highways, airports, harbors, tunnels, or other public constructions used by the public with a certain scale and with the verification of other authorities.\r\n12. Multimedia Content Service: An interactive media platform providing audio, modem, and video content services set up by a service provider.\r\n13. Channel Service: Programs and advertisements that are arranged by content service providers and which broadcast order and time cannot be changed by users."
+		},
+		{
+			"number": 300,
+			"content": "The National Communications Commission (NCC) is the authority of the Regulations."
+		},
+		{
+			"number": 400,
+			"content": "Services shall not begin before permission is granted and the charter is issued by the NCC.\r\nThe beginning date and the final date of accepting operation applications shall be announced by the NCC.\r\nThe minimum paid-in capital of a service provider that operates the Services shall be NT$ one billion (NT$ 1,000,000,000).\r\nIf the applicant applying for the operation of the Services (hereinafter referred to as the “applicant”) is also operating other telecommunication services of which minimum paid-in capital is mandatory, the amount of minimum required paid-in capital for the applicant may be the summation of all minimum paid-in capitals mandatory for other telecommunication services being operated by the same applicant after establishment approval is granted.\r\nNewly added capital of the applicant shall go public by issuing shares within three months after a business registration or a registration of changes for issuing new shares.\r\nAn applicant shall apply to the security authority for issuing shares to the public, provided the capital exceeds the amount defined by the competent authority."
+		},
+		{
+			"number": 500,
+			"content": "Service areas are defined as follows:\r\n1. The North Area: Taipei City, New Taipei City, Keelung City, Taoyuan County, Hsinchu County, Hsinchu City, Miaoli County, Yilan County and Lienchiang County.\r\n2. The South Area: Taichung City, Nantou County, Changhua County, Yunlin County, Chiayi County, Chiayi City, Tainan City, Kaohsiung City, Pingtung County, Hualien County, Taitung County, Penghu County and Kinmen County."
+		},
+		{
+			"number": 600,
+			"content": "Service areas, bandwidth, and frequency range of each charter are defined as follows:\r\n1. Charter A1: North Area; 30MHz (2565~2595MHz)\r\n2. Charter A2: South Area; 30MHz (2565~2595MHz)\r\n3. Charter B1: North Area; 30MHz (2595~2625MHz)\r\n4. Charter B2: South Area; 30MHz (2595~2625MHz)\r\n5. Charter C1: North Area; 30MHz (2660~2690MHz)\r\n6. Charter C2: South Area; 30MHz (2660~2690MHz)"
+		},
+		{
+			"number": 700,
+			"content": "Concession cases of applying for services are transacted by a two-stage procedure:\r\n1. Stage 1: Review of the applicant’s application form, business plan, and other qualifications and requirements according to regulations.\r\n2. Stage 2: The applicant that passes the stage 1 review becomes a qualified bidder (hereinafter referred to as the \"bidder\"), and is allowed to participate in bidding. The NCC shall issue a permission of incorporation to the winning bidder after the winning bidder has rendered a performance bond and minimum advancement bond of charter fee according to regulations.\r\nIf two or more applications for the Services are submitted, stage one shall be first held; stage two will not be held unless there are two or more applications at stage two.\r\nThe minimum advancement bond of charter fee stated in subparagraph 2 of paragraph 1 serves as the guarantee of the right to bid for the bidder; the winning bidder’s failure to remit a charter fee or to keep service operation shall be regarded as the cancellation of the contract, and the advancement bond shall be converted to a default fine."
+		},
+		{
+			"number": 800,
+			"content": "The NCC may establish a review committee to conduct the review of stage one as stated in the previous Article. Items and the proportion for the review shall be stipulated and announced by the NCC."
+		},
+		{
+			"number": 900,
+			"content": "The applicant may apply for one or more charters in one application form. However, if applying for charters in different areas, the applicant shall submit a separate business plan for each area.\r\nOne applicant is granted one charter only."
+		},
+		{
+			"number": 1000,
+			"content": "The NCC shall select one charter for the North Area and one for the South Area as defined in Article 6 as the priority bidding subjects for the applicant who adopts IEEE 802.16e technical standards, to operate services, and is not a dominate company in the Type One telecommunication business, and not become involved in the circumstances described in Paragraph 5. If no applicant meets the criteria herein or such applicant fails to meet the criteria herein, then other applicants who adopt IEEE 802.16e and operate the services may enter the bidding for the subjects defined herein.\r\nThe selected charters described herein shall comply with the alternative bidding procedure in Article 13: the third awarding charter in the North Area and the first awarding charter in the South Area.\r\nAn applicant that meets the priority bidding criteria but is not interested in priority bidding shall waive the right to priority bidding prior to the priority bidding procedure by submitting a written waiver to the NCC.\r\nIf the total number of qualified applicants for priority bidding procedure is only 2 or 3 after deducting the number of qualified applicants who are not interested, the number of charters offered for priority bidding shall be reduced to one in the North Area; if there is only one applicant, no charter shall be offered for priority bidding procedure.\r\nThe applicant and Type One dominate telecommunication companies that meet the conditions stated in Paragraph 2 of Article 16 (as the same applicant) or the conditions stated by Paragraph 1 of Article 17 (as a joint applicant), or the conditions stated in Paragraph 4 of Article 46 cannot be qualified as an eligible applicant for the selected charter as mentioned above."
+		},
+		{
+			"number": 1100,
+			"content": "The NCC shall adopt a single round for bidding pursuant to Article 12 unless the condition stated in Article 14 sustains.\r\nThe applicant shall state its preference for winning order of the bidding subjects and provide a corresponding bidding value when submitting an application form.\r\nThe bidding value mentioned in the preceding paragraph refers to a percentage to multiply by the annual income of the Services as the calculation of charter fee that a bidder promises to remit.\r\nThe bidding value mentioned in Paragraph 2 shall not be less than 1.5% and shall be made in an increment of 0.01%. The unconditional elimination method shall be applied to any bidding value which is not in an increment of 0.01%, and any digit next to 2 decimal places out of 0.01% shall be ignored.\r\nAny of the following shall be deemed as an invalid bid:\r\n1. The bidding form is not affixed with the company stamp seal and the signature & seal of the person-in-charge.\r\n2. The bidding subject is not listed in the preference list of winning order.\r\n3. The bidding value is not clearly stated or is beyond recognition.\r\n4. The bidding value has been tampered, or two or more values are submitted.\r\n5. The bidding value is less than 1.5%.\r\n6. Any bid that the NCC deems invalid.\r\nThe bidding subject without confirmation on preference for winning order will not be listed in the preference list of winning order."
+		},
+		{
+			"number": 1200,
+			"content": "The NCC shall open all bids at the same time and determine the winning bidders.\r\nPursuant to Paragraph 4 of Article 10, the eligible applicant shall be granted the priority to bidding competition and bid determination. The temporary winner of the priority to bidding competition procedure shall not participate in the bidding competition of other charters.\r\nThe method for determining winning bidders:\r\n1. The bidder that offers the highest price for a bidding subject shall be the temporary winning bidder of such bidding subject.\r\n2. If two or more bidders offer the same price for the same bidding subject, the temporary winning bidder shall be the one that has stated the higher preference of winning order. If such method still can not determine the temporary winning bidder, then the NCC shall administer a draw to determine the winning bidder.\r\n3. Each bidder may hold only one temporary winning bid. If one bidder holds the temporary winning bid of more than one bidding subjects, then the bidder’s preference of winning order shall determine which bid to be the temporary winning bid. The other bidding subjects shall be awarded to other bidders according to the proper order described in Paragraph 4. The proper order mentioned in Paragraph 3 shall be determined by the bidding prices; in case of the same bidding price, the preference of winning order shall be the determinant; if no winner can be determined, then the NCC shall administer a draw to determine the winning bidder.\r\nIf any of the following situations happens and is concerned with bidders’ rights, then the alternative bidding procedure shall be applied pursuant to Article 13:\r\n1. Temporary winning bidders of multiple bidding subjects must be determined by drawing.\r\n2. A bidder is a temporary winning bidder and one of the bidders offering the highest price at the same time, and its preference of winning order for the bidding subject with the highest bidding price is higher than the preference of winning order for the temporarily won bidding subject.\r\n3. Other bidders complain that a bid is ended without due process of bid opening, and the NCC deems the situation has substantiated the need for the alternative bidding procedure.\r\nThe round of bidding for every charter shall be ended after the bidding price has been compared until only one temporary winning bidder remains.\r\nPrior to comparing the preference of winning orders among bidders and determining the order of alternative bidding procedure pursuant to Article 13, the preference list of the winning order submitted by all bidders shall be re-arranged by first applying Paragraph 5 of Article 11 and eliminating invalid bids - the charter of which preference order is beyond recognition, the charter of which the preference list of winning order is not listed,, the charter of which the scope of business applied for is not listed, the charter of which the scope of business is not reported in business plan, and the charters not involved in the bidding."
+		},
+		{
+			"number": 1300,
+			"content": "A point system shall be calculated for every bidding subject. When the bidding order is to be determined according to the total points from the lowest to the highest order and the alternative bidding procedure is followed, the following rules must be applied:\r\n1. One point for the first preference of bidding subjects, two points for the second preference, three points for the third preference, and so on. Points for the bidding subjects that are not selected by the applicant shall be calculated by dividing the applicants’ remaining points by the number of charters not selected by the applicants.\r\n2. The total points for every bidding subject shall be calculated by the preference list of winning order of all bidders and the rules provided in the preceding Paragraph. However, in case of bidding subjects with the same points, the NCC shall administer a draw to determine the winning applicant.\r\nIf all charters are in valid order, the total valid points in the applicants’ preference list of winning order shall be determined by summation pursuant to the first half of Paragraph 1 of Article 1. The applicants’ remaining points shall be the total valid points after deducting the points of the charters in valid order derived from the preference list of winning order from the total valid points."
+		},
+		{
+			"number": 1400,
+			"content": "If the number of the qualified Applicants is 10 or more pursuant to Article 23, the bidding for the charters not released in the priority bidding procedure provided in Paragraph 2 of Article 12 shall adopt synchronized, increased, and multi-round methods. The bidding method provided in Paragraph 1 of Article 12 shall become a multi-round bidding for round one. The temporary winning bidder of the charter determined by the bidding method stated in Article 12 shall be the temporary winning bidder of round one.\r\nBidders who fails to submit a bidding price in round one or submits an invalid bidding price shall lose the entitlement to bidding.\r\nA maximum of ten rounds of bidding will be administered. The bidding procedure shall end when ten rounds of bidding are completed or when no qualified bidder remains before ten rounds have been completed.\r\nBidders shall lose their entitlement to bidding if they give up bidding more than three times from round two to round nine.\r\nAny of the following shall be deemed as abstaining from bidding:\r\n1. Non-temporary winning bidders do not submit a bidding price in each round of bidding.\r\n2. The bidder’s bidding price is deemed invalid in any round.\r\nStarting from round two, bidders shall submit a bidding price subject to the following methods:\r\n1. Bidders are limited to submit one bidding price each round and must submit a bidding price for one bidding subject only.\r\n2. The bidder that offers the highest bidding price for one bidding subject shall be the temporary winning bidder; the bidding price shall be the temporary multiplier. The temporary winning bidder of every round may submit a bidding price on the same bidding subject after other bidders have submitted bidding prices and before the bid is ended in the next round of bidding, except Round Ten, but may not submit a bidding price for any other bidding subject.\r\n3. There will be no upper limit of bidding price for all rounds of bidding, except for round ten of which the upper limit shall be 110% of temporary winning multiplier.\r\n4. Bidders must submit a bidding price at an increment of 0.01%; any bidding price multiplier not in an increment of 0.01% shall be subject to unconditional elimination and any digit next to 2 decimal places out of 0.01% shall be ignored.\r\nThe definition of invalid bidding price complies with Paragraph 5 of Article 11.\r\nIf there are two bidders offering the highest price in rounds two to nine, the NCC shall administer a draw to determine the temporary winning bidder. If there are two bidders offering the highest price in round ten, the bidder that has won more rounds shall be the temporary winning bidder; if the bidders have the same number of winning rounds, the one that first wins as the temporary winning bidder shall be the winner. If no winner can be determined, then the NCC shall administer a draw to determine the result. From rounds two to nine, if a bidder that offers the highest bidding price but is unable to win as the temporary winning bidder due to a draw, its bidding record shall be included in Round Ten as the number of wins of temporary winning bidder.\r\nThe bidding procedure from round two:\r\n1. The NCC shall issue a bidding price ballot for all bidders at every round, and an additional bidding subject ballot will be issued in round ten;\r\n2. Bidders shall submit a signed bidding form that contains a bidding price and bidding value in a sealed bidding envelope to the NCC staff within the time limit for every round; an additional single-listed bidding form that contains a bidding price for round ten shall be sealed in another envelope and submitted.\r\n3. Once the bidding price submitted, the bid will be opened at rounds two to nine. After the price bidding for round ten is completed, the single-listed bidding form shall be first opened so that the temporary winning bidder of round nine may consider raising the bid for the same subject. Round ten may not begin unless the temporary winning bidder of round nine has submitted its bidding form or decided not to raise its bid or unless the consideration time has ended.\r\n4. When opening the bid for round ten, the bidding form from bidders other than the temporary winning bidder shall be opened first; the bidding form of the temporary winning bidder of round nine may not be opened unless the biddings from the other bidders are deemed valid. If the biddings from bidders other than the temporary winning bidders are all deemed invalid, then the bidding form of the temporary winning bidder of round nine will not be opened; the temporary winning bidder of round nine shall be the temporary winning bidder of round ten and the temporary winning bidding price of round nine shall be the temporary winning bidding price of round ten."
+		},
+		{
+			"number": 1500,
+			"content": "The applicant must be a corporation established in accordance with the Company Act; the chairperson of the board of director must be a citizen of the Republic of China. The total number of shares held by non-nationals must comply with Paragraph 3 or Paragraph 5 of Article 12 of these Regulations."
+		},
+		{
+			"number": 1600,
+			"content": "One applicant shall not submit more than two applications.\r\nTwo applicants shall be deemed as an identical applicant in any of the following circumstances:\r\n1. The applicant holds the voting shares more than half of the total voting shares own the other applicant.\r\n2. Half or more than half of the directors of the board of an applicant collectively hold half or more than half of the position as director of the board of the other applicant.\r\n3. The total number of voting shares issued by the applicant and the other applicant is equal to or larger than half of the shares owned by the same shareholders or investors.\r\n4. Different applicants are subsidiary companies of a third-party company.\r\n5. Different applicants’ holding companies are in relation of control or a subsidiary.\r\nThe terms of control and subsidiary in Paragraph 4 and 5 above means the concerned parties in Paragraph 1, 2, and 3 above.\r\nThe calculation method of shares in Paragraph 2 shall follow Article 369-11 of the Company Act.\r\nIf a shareholder of an applicant company also holds shares of the other applicant company, then the shareholder’s percentage of share holding in one applicant’s company is not limited, but the percentage of share holding in the other applicant company may not exceed 10%.\r\nParagraph 1 and 5 also come into force and are applicable after a charter has been granted to an applicant."
+		},
+		{
+			"number": 1700,
+			"content": "Applicants shall be deemed as a joint applicant in any of the following circumstances:\r\n1. An applicant holding the shares of the other applicant company equivalent to 15% or more of the applicant company’s total capital.\r\n2. The same group of shareholders holds shares of different applicants equivalent to one third or more of each of the applicants’ total capital.\r\nThe calculation method of shares shall follow Article 369-11 of the Company Act.\r\nJoint applicants shall negotiate and appoint only one as a qualified applicant; if they fail to do so, then the NCC shall determine a time and place to administer a draw to determine the qualified applicant.\r\nThe application made by the applicant that is disqualified after the negotiation or draw described in preceding Paragraph, and the applicant that fails to participate in the draw shall be rejected; the reviewing fee and interest shall not be refunded, and the bid bond will be refunded without any interest.\r\nThis Article is also in force and applicable after a charter has been granted to the applicant."
+		},
+		{
+			"number": 1800,
+			"content": "The applicant shall submit the following documents within a time limit to the NCC:\r\n1. Application Form\r\n2. Business Plan\r\n3. Preference List of Winning Order\r\n4. Bid Note\r\n5. A photocopy of the receipt of remittance record of bid deposit.\r\n6. A photocopy of the receipt of remittance record of reviewing fee\r\nThe Business Plan as referred to in the proceeding Paragraph shall include the following information:\r\n1. Business items\r\n2. Service area\r\n3. General status of telecommunication facilities:\r\n(1) Type of wireless broadband access technology adopted, maximum mobile speed supported, efficiency of average frequency spectrum, and the name of the international or regional organization that defines the technology.\r\n(2) Construction plan and time schedule for system network, and intended distribution area and quantity of base stations.\r\n(3) System structure, communication type and service pattern.\r\n(4) Usage plan of wireless frequency.\r\n(5) Establishment plan of telecommunication surveillance system.\r\n(6) Plans for avoiding interference of adjacent frequencies\r\n(7) System service quality.\r\n(8) The status of which the system is being used or tested in other countries.\r\n(9) Description of contributions to the domestic telecommunication industry.\r\n4. Financial structure: estimated total capital and total paid-in capital after winning the bid and upon the completion of registration of corporate changes and estimation of the fund resource over the next five years and fund utilization plan; an applicant that operates other telecommunication businesses at the same time shall also submit a responsive solution as required by Paragraph 1 of Article 63.\r\n5. Technological capability and development plan.\r\n6. Fee schedule and calculation method.\r\n7. Personnel and organization structure and shareholding status: Copies of Company Registration, Roster of directors and supervisors, shareholders roster of the shareholders that hold one percent (1%) or more of the shares, the foreign shareholding ratio calculation list, report of the relationship with subordinating company and consolidated business report of the controlling company.\r\n8. Scheduled date for commencement of operation.\r\n9. Related measures for consumer protection.\r\n10. A brief summary of business plan for the NCC to quote and release as public information.\r\n11. Other matters required by the review procedure.\r\nThe required information and recording method for the documents in the two preceding Paragraphs shall be defined and announced by the NCC.\r\nIn order to verify the applicant’s situation provided in Article 16 and a joint applicant’s situation provided in Article 17, the NCC may order the applicant to provide supplementary information within a time limit after the applicant has won the bid and before the applicant has been granted with a charter.\r\nThe applicant shall deliver the documents required by Subparagraph 3 and 4 of Paragraph 1 in a sealed envelope; failure to do so shall result in a rejected application.\r\nAfter an applicant has submitted an application according to Paragraph 1, the documents submitted shall not be returned.\r\nThe bid bond shall be NT$ forty million (40,000,000). The reviewing fee for every business plan shall be NT$ two hundred and fifty thousand (250,000). The applicant may not request for the refund of the rendered bid bond and reviewing fee prior to the announcement of bid result unless otherwise regulated by laws.\r\nThe bid bond and reviewing fee shall be remitted to the bank account assigned by the NCC via telegraphic transfer; the applicant’s company name, address, and telephone number shall be noted when transferring the fees."
+		},
+		{
+			"number": 1900,
+			"content": "The application filed by an applicant may not be amended or shall be rejected in any of the following circumstances; the bid bond and reviewing fee remitted shall be refunded without interest within seven days from the next date of the arrival of an application rejection notice.\r\n1. Application deadline is overdue.\r\n2. Application form, business plan, preference list of winning order, or bid note is missing.\r\n3. The bid bond or reviewing fee is not remitted according to the regulations or the bid bond or reviewing fee remitted is insufficient."
+		},
+		{
+			"number": 2000,
+			"content": "The application filed by an applicant may not be amended or shall be rejected if any of the followings happens; the bid bond and reviewing fee remitted and interest, if any, shall not be refunded, and the refunded shall be reclaimed:\r\n1. Violations to Paragraph 1 and 5 of Article 16.\r\n2. The information provided as required by Article 15 to 17 is found to be untrue or false.\r\n3. An application with forged or counterfeit documents.\r\n4. Any conducts that affect the fairness of the bidding process such as bid fixing.\r\nIf the application does not meet any of the conditions stated in previous Article, but has any of the following conditions, the NCC shall notify the applicant in request of a remedy within a specific period of time. The application will not be processed if a remedy is not found within the specific period of time, or if the documents are still not completed after resubmitting. The bid deposit will be refunded without interest within seven days from the day following the day of receipt of the decision not to accept the application. The reviewing fee and its interest will not be refunded:\r\n1. Violations to Article 15;\r\n2. The expected paid-in capital as stated in the application or business plan does not meet the minimum paid-in capital as required for the Services;\r\n3. The documents requested according Paragraph 1 and 2 of Article 18 are incomplete, or the content stated therein is not thorough, or any matter stated in the application and business plan is obviously misstated or miscalculated; and\r\n4. The system facilities do not comply with the wireless broadband access technology defined by the NCC.\r\nIf an applicant fails to supplement the relevant information according to Paragraph 4, Article 18 within the stipulated period of time, the application will not be processed. The bid deposit will be refunded without interest within seven days from the day following the day of receipt of the decision not to accept the application. The reviewing fee and its interest will not be refunded."
+		},
+		{
+			"number": 2100,
+			"content": "During the bidding process, if the bidder takes any action as stated in any subparagraph of Paragraph 1, subparagraph 1 of Paragraph 2 or Paragraph 3 of the previous Article, the bidder's rights to participate in the bidding will be cancelled or revoked. If such situation is discovered after the bid is awarded, the award will be cancelled or revoked, and any bid bond, reviewing fee or interest shall not be refunded. If these fees had already been refunded to the applicant, they shall be reclaimed."
+		},
+		{
+			"number": 2200,
+			"content": "For an applicant who withdraws the application, the bid deposit and reviewing fee that have been paid shall be handled according to the following regulations:\r\n1. If the withdrawal takes place before the deadline for filing the application as announced by the NCC, bid deposit and reviewing fee will be refunded without interest within seven days from the day following the day of receipt of the withdrawal application;\r\n2. if withdrawal takes place before the qualified bidder is announced, the bid deposit will be refunded without interest within seven days from the day following the day of receipt of the withdrawal application; the reviewing fee and interest thereof will not be refunded; and\r\n3. if the withdrawal takes place after the qualified bidder is announced, none of the bid deposit, reviewing fee and the interest will be refunded; if such funds have been refunded, they shall be reclaimed."
+		},
+		{
+			"number": 2300,
+			"content": "The NCC will announce qualified bidders as defined in Article 10 upon the completion of the qualification review in accordance with the above section."
+		},
+		{
+			"number": 2400,
+			"content": "The operation of bidding will be handled by the NCC."
+		},
+		{
+			"number": 2500,
+			"content": "The NCC will announce the date and location for conducting the bidding seven days before the bidding date."
+		},
+		{
+			"number": 2600,
+			"content": "To carry out the bidding process, the NCC shall prepare bidding rooms in the bidding location.\r\nUnless otherwise agreed by the NCC, the representatives of each bidder shall not take any telecommunications equipment into the bidding room. While in the bidding room, the representatives of each bidder can only contact their companies by the method designated by the NCC.\r\nAfter the qualified bidders are announced by the NCC and before the final award, no bidders or representatives thereof may take any action in any manner with any other bidders or their representatives that may affect the fairness of the bidding process or, violate the law. Violators shall be deemed as disqualified in the bidding.\r\nIf any action taken by a bidder and its representatives that may affect the fairness of bidding process or violate the law, the NCC shall request the violator to remedy the violation within a specific period of time; failure to such remedy shall be disqualified.\r\nThe bidder and a maximum of three of its authorized representatives as mentioned in Paragraph 2 are allowed to enter the bidding room only when a power of attorney and related documents are presented; the bidder or its authorized representative may only leave the bidding room during the announced recess time or if prior approval is given by the NCC. The bidder shall service the delivery of the list of representatives three days prior to the date of bidding."
+		},
+		{
+			"number": 2700,
+			"content": "The NCC may announce suspension of the bidding operation in case of force majeure or major violations committed by the bidder or any other situation that prevents the bidding operation from proceeding .The NCC shall determine the responding actions at its discretion."
+		},
+		{
+			"number": 2800,
+			"content": "Upon the end of the bidding process, the winning multipliers of each bidding subject shall be the temporary winning bidder’s stated quotation for the bidding subject.\r\nAfter the end of the bidding process, the list of winning bidders and their multipliers of each bidding subject shall be announced by the NCC."
+		},
+		{
+			"number": 2900,
+			"content": "In the following circumstances the bid bond already paid shall be refunded without interest:\r\n1. The applicant participates in the bidding, but does not win the bid. The bid deposit will be refunded without interest within seven days from the day following the day the NCC announces the winning bidder list.\r\n2. The applicant participates in the bidding and wins the bid, and has paid the performance bond according to regulations. However, the full amount of bid bond remitted by the winning bidder may be converted as a part of performance bond without any interest.\r\nThe bid bond remitted by an applicant will not be refunded in any of the followings circumstances: the refunded bid bond will be reclaimed:\r\n1. Any failure to remit performance bond or the minimum advancement bond of charter fee according to regulations\r\n2. Disqualification as stated in Paragraph 3 of Article 26"
+		},
+		{
+			"number": 3000,
+			"content": "An applicant shall not file a complaint immediately pertaining to the decision or action that the NCC made in the following circumstances:\r\n1. Refusal to refund the reviewing fee and its interest as provided in Paragraph 4 of Article 17.\r\n2. Rejection of the application as described in Article 19.\r\n3. Refusal to refund the reviewing fee and bid bond and rejection of application as described in Article 20.\r\n4. Disqualification or revocation or annulment of award of bid as described in Article 21.\r\n5. Refusal to refund the reviewing fee bid bond and rejection of application as described in Paragraph 2 or 3 of Article 22.\r\n6. Refusal to refund bid bond as described in Paragraph 2 of Article 29.\r\n7. Disqualification or not winning the bid as described in the bidding operation regulations in this Section."
+		},
+		{
+			"number": 3100,
+			"content": "Winning bidders shall remit a performance bond and the minimum advancement bond of charter fee to the NCC within thirty days from the date after the arrival of notice of award of bid, and the NCC shall issue an establishment approval. Any failure to make remittance shall be subject to annulment of award of bid."
+		},
+		{
+			"number": 3200,
+			"content": "The Performance bond for the Services shall be NT$ forty million (40,000,000), and the minimum advancement bond of charter fee shall be NT$ two hundred and ten million (210,000,000). Any of the following payment methods are accepted:\r\n1. Direct deposit to the assigned bank account of the NCC.\r\n2. A letter of performance guarantee issued by a bank legally incorporated domestically.\r\n3. Negotiable certificate of deposit pledged with the NCC.\r\nThe period of time of guarantee in the letter of guarantee mentioned in the preceding paragraph shall begin from the date of the remittance of the performance bond, or minimum advancement bond of the charter fee, and end on the date of the expiration date of the establishment approval plus a 6-year term of charter.\r\nWinning bidders that apply for extending the effective period of the establishment approval shall also apply for the extension of the performance guarantee as referred to in the preceding paragraph."
+		},
+		{
+			"number": 3300,
+			"content": "The performance bond remitted by winning bidders shall be refunded in three stages according to the following regulations:\r\n1. Successfully achieve the wireless wave coverage of base stations in which the population accounts for 10% of the total population in service area, and acquire a charter issued by the NCC by passing the NCC’s acceptance inspection on the completed telecommunication facilities and wiring equipment installation, and then 10% of the performance bond may be refunded or the guarantor bank may relieve partial performance responsibility equivalent to 10% of performance bond.\r\n2. Successfully achieve the wireless wave coverage of base stations to 40% of the county and city in the service area and 70% of population in every county and city in the service area, and pass the NCC’s acceptance inspection, and then 30% of the performance bond may be refunded or the guarantor bank may relieve partial performance responsibility equivalent to 30% of performance bond.\r\n3. Within in five years after an establishment approval is issued, successfully achieve the wireless wave coverage of base stations to 70% of total population in the service area and half of the county and city in the service area, and pass the NCC’s acceptance inspection from the acquisition of system installation, then the remaining amount of performance bond may be refunded or the guarantor bank may relieve the performance responsibility equivalent to the remaining of performance bond."
+		},
+		{
+			"number": 3400,
+			"content": "An establishment approval is valid for 1 year and 6 months. Winning bidders that are unable to complete the establishment within a time limit and acquire a charter through due process shall apply for extension to the NCC with explanation within one month starting from three months prior to the expiration of approval. Length of extension may not exceed one year and only one extension is allowed.\r\nThe NCC may revoke the establishment approval, system installation permit, and frequency granted to the winning bidder, if such bidder fails to meet the time limits provided in the preceding paragraph; the performance bond and the minimum advancement bond of charter fee will not be refunded; or, or the NCC shall notify the guarantor bank to fulfill the responsibility of performance guarantee."
+		},
+		{
+			"number": 3500,
+			"content": "After acquisition of establishment approval, the winning bidder shall complete necessary registration of company changes and complete shares issuance within three months after company changes registration. Winning bidders that are unable to complete the necessary registration and complete shares issuance within a time limit shall apply for extension to the NCC with an explanation within one month starting from three months prior to the expiration of approval. Length of extension may not exceed three months and only one extension is allowed.\r\nThe NCC may revoke the establishment approval, system installation permit, and frequency granted to the winning bidder, if such bidder fails to meet time limits provided in the preceding paragraph; the performance bond and the minimum advancement bond of charter fee will not be refunded; or, the NCC shall notify the guarantor bank to fulfill the responsibility of performance guarantee.\r\nWinning bidders shall comply with Paragraph 3 of Article 4, Subparagraph 4 of Paragraph 2 of Article 18, and Paragraph 1 of Article 63 pertaining to paid-in capital when completing company changes registration pursuant to Paragraph 1."
+		},
+		{
+			"number": 3600,
+			"content": "After obtaining the installation permit and completing the changing registration for the company, the winning bidders shall apply for the permit of system installation and for the allocated frequency to the NCC with the following documents:\r\n1. Application forms of the system installation permit and the frequency allocation\r\n2. Copies of certificates of the changing registration for the company\r\n3. Documents or certificates of the confirmation to the establishment of the telecommunications supervising systems or facilities after the negotiation with the telecommunication supervising and executing authorities\r\n4. System Construction Plan: The plan includes system structure, name and quantity of the installation facility, quantity of base stations and the time schedule in the business plan for passing the system technology examination regulated in Paragraph 1 of Article 39.\r\nAfter licensed with the permit, the service providers shall apply for the system installation permit for the operating duration with application forms of system installation permit, certificates of confirmation to the establishment of the telecommunications supervising systems or facilities after the negotiation with the telecommunication supervising and executing authorities, and the system construction plan (including system structure, name and quantity of the installation facility, and the quantity of base stations and time schedule in the business plan for achieving the wireless wave coverage ratio regulated in Article 66.)\r\nIf the required documents mentioned in the preceding two paragraphs for the application of the system installation permit are incomplete, or if the content of the required documents is incomplete or incorrect in its terms, the NCC shall give a notification and request for a remedy in a time limit. If the applicant does not make a remedy in the time limit, or if the remedied documents remain incomplete, the application shall be rejected.\r\nAfter the winning bidders or service providers acquire the system installation permit, they shall construct the wireless broadband access network according to the system construction plan as mentioned in point 4 of Paragraph 1 and Paragraph 2.\r\nThe valid duration of the permit in the period of constructing the system is one and half year. If the construction cannot be completed in the valid period, the explanation for the incompletion shall be stated for the application for the extension. The extension shall not exceed one year and can be applied for once only. If there is any delay, the NCC can revoke the construction consent and the system installation permit and does not refund the performance bond deposit, or the NCC shall notify the guarantor bank to perform the suretyship.\r\nExtension due to the force majeure shall be allowed to be applied according to the time delayed by the force majeure without the extension restriction regulated in the preceding paragraph.\r\nIf the system installation permit mentioned in the preceding two paragraphs expires, the extension of the permit for construction period shall be applied for simultaneously.\r\nThe system installation permit in the preceding five paragraphs shall not exceed the valid period of the construction permit. When the winning bidders or service providers change the system construction plan mentioned in point 4 of Paragraph 1 and Paragraph 2, the explanation for the alternation shall be stated to the NCC for approval. However, the alternation shall not influence the performance bond deposit and the responsibilities mentioned in the business plan.\r\nIf the winning bidders or service providers want to construct the follow-up network which is not included in the system construction plan the Paragraph 2, a list of name and quantity of system construction facilities shall be submitted for the application to the NCC for the system installation permit.\r\nThose who do not acquire the system installation permit according to these Regulations cannot establish any or the whole of the wireless broadband access network.\r\nThe winning bidders or service providers shall divert the developed network of wireless broadband access experiment as one of its system network. The developed network of wireless broadband access experiment shall be established by themselves with approval or by other administrators with assignment and approval.\r\nIf the bidders or service providers adopt the diversion mentioned in the preceding paragraph, the diversion shall be included in the system construction plan when applying for the system installation permit according to Paragraph 1. Or the bidders or service providers shall apply for the alteration of the system construction plan according to Paragraph 8 or shall apply for the follow-up network installation permit to the NCC according to Paragraph 9. If the facilities are located in the same places before and after the diversion, they shall be free from dismantle before acquiring the installation permit.\r\nIf the subscribers who want to continue to use the original service after the diversion of the developed network of the wireless broadband access experiment, they can be the subscribers of the services when the winning bidders or service providers comply with the Regulations in Paragraph 1 of Article 12."
+		},
+		{
+			"number": 3700,
+			"content": "The affairs of installation permits and radio station licenses of base stations installed by the winning bidders or service providers shall comply with the Regulations for Administration of Base Stations of Mobile Communications Network Businesses."
+		},
+		{
+			"number": 3800,
+			"content": "(deleted)"
+		},
+		{
+			"number": 3900,
+			"content": "A winning bidder or service provider may apply for a system technical inspection to the NCC if its wireless wave coverage of base stations reaches 70% of the population in any county or city within its service area and the related switching equipment and telecommunication connection equipment have been completed. Certificates of system technical inspection qualification shall be issued after the inspection result is found to be satisfactory.\r\nService providers that do not provide operational service in every county and city within its service area at the same time shall develop its business by county and city. Operation is only allowed after related switching equipment and telecommunication connection equipment have been completed and the result of system technical inspection by the NCC is found to be satisfactory.\r\nThe development operation mentioned in the preceding paragraph may be exempted from the inspection of base station wireless wave coverage.\r\nAfter a service provider has obtained the license, any addition or change of system switching equipment shall require prior approval from the NCC; upon completion of the addition or change the provider shall submit an application for a system technical inspection to the NCC. The NCC shall issue a certificate of system technical inspection qualification before operation of the system exchange facilities if the result of the inspection is found to be satisfactory.\r\nSpecifications for technical inspection on base stations shall be defined by the NCC."
+		},
+		{
+			"number": 4000,
+			"content": "(deleted)"
+		},
+		{
+			"number": 4100,
+			"content": "After a winning bidder has obtained system construction approval, the construction shall adopt the approved system. The connection circuits between the system and other systems shall be leased from fixed network communication service providers or fixed satellite telecommunication service providers. If the connection circuits are installed in the same building, then an exception may be granted by the NCC.\r\nAfter obtaining approval from the NCC, the winning bidder may install circuits for connecting equipments within the wireless broadband access system network by itself.\r\nIf the circuits constructed pursuant to the approval under the preceding Paragraph consist of fiber optic or copper cables built by the winning bidder itself, such construction shall be carried out in accordance with the following provisions:\r\n1. An application for an approval shall be filed with the administrative authorities in accordance with applicable laws and regulations for using the land needed for rolling out the circuit lines of the network.\r\n2. If the circuit lines of the network rolled out by the winning bidder need to be attached to the pipelines of the cables or relevant facilities owned by public enterprises, such attachment shall be proceeded in accordance with applicable laws and regulations.\r\nIf the circuits constructed under Paragraph 2 of this Article are microwave connections, a station erection permit is required, and the NCC may assign the frequency needed thereby after taking into account the development of relevant technologies and the condition of use of the frequency resources.\r\nIf the circuits constructed under Paragraph 2 of this Article are microwave connections, matters relating to the assignment of frequency and station erection permit shall be handled in accordance with the applicable provisions in the Regulations on the Establishment and Use of Microwave Stations of a Type One Telecommunication Enterprise. In the case of satellite connections, matters relating to the assignment of frequency and the station erection permit shall be handled in accordance with the Administrative Rules on Satellite Telecommunication Services."
+		},
+		{
+			"number": 4200,
+			"content": "(deleted)"
+		},
+		{
+			"number": 4300,
+			"content": "(deleted)"
+		},
+		{
+			"number": 4400,
+			"content": "The winning bidder shall apply to the NCC for issuance of a concession charter by submitting the following documents, and the charter shall be issued upon the approval of the NCC:\r\n1. Application form for a charter\r\n2. A photocopy of the establishment approval\r\n3. A photocopy of the Company Registration\r\n4. Documents showing the system has passed the technical inspection\r\n5. Document showing the competent authority's consent to the service charges\r\n6. Document showing the NCC’s approval of the code of business operational regulations of the company\r\n7. Document showing the NCC’s approval of a sample of the service contract between the service provider and users"
+		},
+		{
+			"number": 4500,
+			"content": "A concession charter shall contain the following items:\r\n1. Name of the service provider, its representative and the location of its business office\r\n2. Type of business\r\n3. The amount of total capital and total paid-in capital\r\n4. Service area\r\n5. Frequency range used\r\n6. Valid term\r\n7. Issuance date"
+		},
+		{
+			"number": 4600,
+			"content": "The valid period of a charter shall be six years and shall lose its validity upon expiration.\r\nThe charter renewal may be applied for upon expiration of a charter, and such renewal charter shall be valid for six years and renewal is limited to one time only. Service providers shall apply for renewal to the NCC within three months during the last 9 months prior to the expiration date of the charter.\r\nService providers shall apply for charter renewal by submitting the following documents:\r\n1. Application form\r\n2. Self-assessment report on the execution of the original business plan\r\n3. Self-assessment report on performance of frequency use\r\n4. Business plan for the next six years\r\n5. Other documents required by the NCC\r\nAn application for charter renewal as provided in Paragraph 2 shall be rejected in any of the following circumstances:\r\n1. Any failure to complete the system construction plan without justifiable reasons, or responsibilities stated in the business plan not being executed, will result in the performance bond not being entirely refunded,\r\n2. Any failure to make effective use of frequency resource and no improvement is made as ordered by the NCC\r\n3. Entire or partial service is suspended due to violations of laws\r\n4. Unilaterally pause or termination of entire or partial service without approval\r\n5. Unilaterally transfer entire or partial service or the majority of business of property without approval\r\n6. Causing major consumer disputes and is incapable of solving such disputes in the correct manner\r\n7. Other major flaws that compromise the service provider’s operation capability\r\nThe NCC may adjust the charter fee in consideration of market competitiveness when issuing a renewal charter."
+		},
+		{
+			"number": 4700,
+			"content": "Service providers shall commence service within six months from the date of charter issuance; otherwise the NCC may revoke the charter issued and the frequency assigned; the remitted performance bond and the minimum advancement bond of charter fee shall not be refunded, or the NCC shall notify the guarantor bank to execute the guarantee responsibility.\r\nIf the winning bidder or service provider violates related laws, and the establishment approval or charter has been revoked by the NCC, the performance bond and the minimum advancement bond of charter fee remitted by such winning bidder or service provider shall not be refunded, or the NCC shall notify the guarantor bank to execute the guarantee responsibility."
+		},
+		{
+			"number": 4800,
+			"content": "Any lost or damaged establishment approval, installation permit, radio station license, or charter shall be reported to the NCC with an explanation for replacement. In case the stated items have changed, please report to the NCC for renewal.\r\nEstablishment approval, installation permit, radio station license, charter, or assigned radio frequency may not be leased, lent transferred, or assigned to a third party unless otherwise provided by laws."
+		},
+		{
+			"number": 4900,
+			"content": "Service providers shall remit a charter fee. The method of calculating and remitting the charter fee shall be in accordance with Paragraph 2 to Paragraph 4 and Paragraph 10. However, a service provider obtaining approval of the renewal of its charter from the NCC shall accord to Paragraph 5 to Paragraph 10.\r\nThe service providers' charter fee shall be calculated by multiplying sales income with the multiplier as offered in the bidding. However, if the amount derived from such calculation is below the amounts provided below, then the amount of charter fee shall be made according to the following amounts:\r\n1. NT$ twenty million (20,000,000) for the first year\r\n2. NT$ thirty million (30,000,000) for the second year\r\n3. NT$ forty million (40,000,000) for the third year and thereafter.\r\nThe “first year” in the preceding Paragraph refers to the twelve months from the month in which the service provider begins commercial operation; the “second year” refers to the thirteenth month to the twenty-fourth month from the month in which the service provider begins commercial operation; and “the third year and thereafter” refers to the twenty-fifth month from the month in which the service provider begins commercial operation. The minimum amount of charter fee of the then-current fiscal year charged to the service provider shall be calculated proportionately according to the months described above.\r\nThe minimum advancement bond for charter fee charged to the winning bidder as provided in Article 32 shall be calculated according to Paragraph 1. After the annual charter fee has been remitted, the service provider may apply for the refund of the minimum advancement bond of charter fee of the then-current fiscal year or apply for notifying the guarantor bank to relieve the guarantee responsibility equivalent to the then-current fiscal year’s minimum advancement bond of charter fee.\r\nAfter service providers obtain renewal of its charter, the annual charter fee shall be calculated pursuant to Regulations for Administration of Mobile Broadband Businesses, by multiplying the average annual value of each MHz, according to the results of the auction of unpaired frequency segments available in 2015, with the frequency bandwidth and the regional coefficient. The method of calculation is attached in the Appendix.\r\nService providers shall adhere to section 32, Paragraph 1 and remit the six-year advancement bond of to NCC within thirty days from the next due date of the approval of charter renewal. Prior to completing the bidding process, the minimum advancement bond of charter fee is NT$ two hundred and forty million (240,000,000); service providers shall remit price margin within thirty days after completion of the bidding process.\r\nShould service providers fail to remit the advancement bond of charter fee after being issued with the renewed charter, the charter shall be revokewd by NCC.\r\nThe valid period of time for the charter shall begin from the date of the remittance of minimum advancement bond of the charter fee, adhered to by a letter of performance guarantee issued by a domestically registered bank, and expire on the date of the expiration date of the charter.\r\nAfter remitting the annual charter fee, s service provider that obtains its charter renewal in Paragraph 5, may apply for the refund of the minimum advancement bond of charter fee of the then-current fiscal year or apply for notifying the guarantor bank to relieve the guarantee responsibility equivalent to the then-current fiscal year's minimum advancement bond of charter fee.\r\nIf the service provider fails to remit a charter fee in Paragraph 1, the NCC shall notify the guarantor bank to execute guarantee responsibility."
+		},
+		{
+			"number": 5000,
+			"content": "Service providers may apply for cross-investment or merger pursuant to Article 15 of these Regulations without being constrained by Paragraphs 1 and 5 of Article 16 and Article 17.\r\nAn application for merger mentioned in the preceding Paragraph shall be rejected if the applicant is subject to the situations provided in Paragraph 4 of Article 46.\r\nIf the applicant goes into merger after obtaining a charter and the service area becomes full area after the merger, the multiplier used for the calculation of charter fee shall be the average of the multipliers of the charters being merged. If the service area is still in the North Area or the South Area after merger, then the multiplier used for the calculation of the charter fee shall be the highest among the multipliers of the charters being merged. The minimum paid-in capital for the merged company pursuant to Paragraph 1 shall be greater than the amount as provided in Paragraph 3 of Article 4 multiplied by the number of charter being merged.\r\nIf an applicant, pursuant to Paragraph 1, goes into merger within the same service area, the applicant shall submit a report that explains the influence that the merger may impose on the development of the market for the Services, the overall economic benefits, and the reduction of unfavorable competition."
+		},
+		{
+			"number": 5100,
+			"content": "Winning bidders or service providers shall use telecommunication numbers according to the Regulations on Telecommunications Numbers."
+		},
+		{
+			"number": 5200,
+			"content": "The auto telephone service provided by service providers shall offer users emergency telephone numbers of 110 and 119 free of charge.\r\nService providers shall give priority processing for all 110 and 119 emergency calls."
+		},
+		{
+			"number": 5300,
+			"content": "The NCC may conduct scheduled or non-scheduled inspection of wireless broadband access systems of service providers."
+		},
+		{
+			"number": 5400,
+			"content": "Service providers shall plan for protecting the channel covered in the assigned bandwidth.\r\nIf the radio frequency used by a service provider is interfered by the radio frequency used by legitimate, existing radio stations in other business service, then the service provider is responsible for making arrangement with such radio station through negotiation. Unsuccessful negotiations shall be reported to the NCC."
+		},
+		{
+			"number": 5401,
+			"content": "Equipment established by Operators that connects with other public communication network equipment shall conform to the following regulations:\r\n1. Operators shall sufficiently protect the correspondence privacy of subscribers.\r\n2. Operators shall maintain appropriate quality of communications.\r\n3. Operators shall not damage the facilities of users or other public communications network.\r\n4. Operators shall have a precise point of division of liabilities between its telecommunications facilities and the facilities of other public telecommunications network.\r\n5. Operators shall provide country code CLIP (Calling Line Identification Presentation) function in inbound international call and blocking inbound international call service by trusted user.\r\nFor equipment that doesn’t conform to the preceding paragraph, the authority shall order to improve or confine its use within a time limit.\r\nAn Operator shall provide the service of item 5 of Paragraph 1 from 1st Oct 2011."
+		},
+		{
+			"number": 5500,
+			"content": "(deleted)"
+		},
+		{
+			"number": 5600,
+			"content": "(deleted)"
+		},
+		{
+			"number": 5700,
+			"content": "(deleted)"
+		},
+		{
+			"number": 5800,
+			"content": "If a service provider is subject to revocation or annulment of charter, the NCC shall revoke or annul the service provider’s assigned radio frequency, radio station license and network code."
+		},
+		{
+			"number": 5900,
+			"content": "Service providers and recipients of establishment approval shall follow the order of the NCC and form a mobile communication construction negotiation team to negotiate issues pertaining to network linkage, network roaming, and co-constructed or shared stations.\r\nService providers shall establish a Wireless Broadband Access Application Service Interconnection Test and Negotiation Team to supervise and negotiate the scale, construction, maintenance, and management issues pertaining to the collaborative test platform in order to benefit the promotion and execution of interconnection tests.\r\nWhen two or more service providers are providing similar and compulsory international standard cross-system services at the same time, the Interconnection Test and Negotiation Team shall complete the cross-system test for such application service on the date that such service is declared as compulsory interconnection by such international standard or within half year from the date the second service provider begins to provide such service, so that the consumers may use the interconnection.\r\nService providers shall report the operation progress and results of the Wireless Broadband Access Application Service Interconnection Test and Negotiation Team as provided in Paragraph 2 to the NCC.\r\nIn order to promote interconnection applications among new services, mediate cross-system test disputes and confirm test results, the NCC may appoint a test lab recognized by Telecom Technology Center or WiMAX Forum or a test lab recognized by international or regional standard organizations, such as Institute of Electrical and Electronics Engineers or Telecommunications Standards Institute to assist in the issues of interconnection of telecommunication interface services."
+		},
+		{
+			"number": 6000,
+			"content": "Service providers shall recruit qualified, high-ranked telecommunication engineering personnel to take charge of and supervise the construction, maintenance and operation of telecommunication equipment; such personnel shall keep log and sign on the construction or maintenance journal.\r\nThe construction or maintenance journal shall be preserved for at least one year; the service provider is responsible to provide such journal for inspection by the inspection personnel sent by the NCC."
+		},
+		{
+			"number": 6100,
+			"content": "In order to improve nationals' rights and interests to basic telecommunication services and to provide basic telecommunication services to remote regions for universal service, the service provider shall contribute to the Telecommunication Universal Service Fund in accordance with the Regulations on the Telecommunication Universal Service."
+		},
+		{
+			"number": 6200,
+			"content": "The channel content on the interactive media platform set up by the service provider shall comply with the content provided by licensed operators in accordance Radio and Television Act, Cable Radio and Television Act, Satellite Broadcasting Act."
+		},
+		{
+			"number": 6300,
+			"content": "Service providers that operate other Type One telecommunication business shall comply with the following regulations:\r\n1. Adopt a separate accounting system by which the amount of capital and related income of the Services are recorded separately from any other telecommunications business\r\n2. Refrain from inappropriate bundling of services and related tarrifs with other Type One telecommunication businesses that obstruct fair competition\r\n3. Telecommunication equipment for services shall be clearly separated from the other telecommunication for other Type One telecommunication business\r\n4. Operate within the principles of fairness; discrimination or any other action of obstruction of fair competition is prohibited"
+		},
+		{
+			"number": 6400,
+			"content": "Service providers shall comply with the Regulations on the Equal Access Services when providing auto telephone services."
+		},
+		{
+			"number": 6500,
+			"content": "Service providers shall provide services in a fair manner; refusal to service application for the Services is not allowed without justifiable reasons."
+		},
+		{
+			"number": 6600,
+			"content": "Service providers shall achieve base station wireless wave coverage of 70% or more of the population and half of the counties and cities in their respective service areas."
+		},
+		{
+			"number": 6700,
+			"content": "Service providers’ accounting system and accounting practice shall comply with the Accounting Standards and Regulations on the Type One Telecommunications Enterprises promulgated by the NCC."
+		},
+		{
+			"number": 6800,
+			"content": "The operators shall decide the tariffs for this business in accordance with the Administrative Regulation Governing Tariffs of Type I Telecommunications Enterprises base on Article 26 of the Telecommunications Act."
+		},
+		{
+			"number": 6900,
+			"content": "Service providers shall provide a considerable grace period while requesting for overdue payment from subscribers in case of refusal or postponement of payment, and notify subscribers that the subscribed services shall be suspended according the service contract if the overdue payment is not made within a grace period.\r\nPrior to the end of the grace period as provided in preceding Paragraph, the service provider may not suspend subscribed telecommunication services of which the payment is overdue."
+		},
+		{
+			"number": 7000,
+			"content": "Service providers shall provide service rules in which terms and conditions pertaining to the services provided by the service providers and submit to the NCC for review and approval before such rules may be announced and in force; such rules must be provided at all business locations and the website for consumers to view. This Paragraph is also applicable to amendments of such rules.\r\nThe service rules as mentioned in preceding Paragraph shall specify fair and reasonable service terms and conditions and the following information:\r\n1. Services provided by the service provider\r\n2. Fee schedules for all services and the terms and conditions for fee adjustment\r\n3. Limitations and terms and conditions of using the subscribers’ basic information\r\n4. Method of indemnity for subscribers in case the service provider’s charter is revoked or abolished or the services are suspended, or terminated to the extent that subscribers’ rights are violated\r\n5. Measures for damage caused by error, delay, interruption, or transmission failure due to telecommunication equipment breakdown or service denial\r\n6. Measures for subscribers’ complaints and other items concerning subscribers’ rights\r\n7. Other service terms and conditions\r\nWhen a service provider has set up an interactive media platform for multimedia content service, besides the rules stipulated in the preceding paragraph, service rules shall specify the following information:\r\n1. To assure the sales methods of the providers of the multimedia content service actively and clearly inform consumers of payment requests.\r\n2. To provide a channel interface and storage facilities for program content.\r\nThe NCC may order the service provider to amend its service rules within a deadline if the harm to consumers’ rights or significant unfairness is found in such rules.\r\nAll required information as provided in Paragraph 2 shall be clearly stated in the standard service contract between a service provider and a subscriber and submitted to the NCC for review and approval before such contract is used. Such contract shall not violate any regulations concerning telecommunications and business operations. This Paragraph is also applicable to any changes.\r\nService providers shall enter into a service contract with every subscriber using approved standard service contract. This Paragraph is also applicable to a service provider that adopts pre-paid cards or other pre-paid fee schedule for the Services.\r\nAny changes or amendments of the standard service contract made between a service provider and a subscriber shall be announced through public media before it comes into effect."
+		},
+		{
+			"number": 7100,
+			"content": "Service providers shall provide customers with a service quality that matches with the service quality standard defined by the NCC for its wireless broadband access network business.\r\nThe service quality standard as mentioned in preceding Paragraph shall be defined by the NCC depending on technique and service developments at the appropriate time.\r\nThe NCC may conduct assessment reviews by itself or through private institutions at its discretion and periodically announce service quality assessment reports on all service providers."
+		},
+		{
+			"number": 7200,
+			"content": "The NCC shall issue an order of improvement within a time limit if subscribers’ rights may be damaged due to the service provider’s inappropriate operation or poor service quality."
+		},
+		{
+			"number": 7300,
+			"content": "Interconnection between service provider’s network and other telecommunication enterprises’ network shall comply with the Regulations on Network Interconnection among Telecommunications Enterprises."
+		},
+		{
+			"number": 7400,
+			"content": "Service providers shall be obliged to provide the information of communication history and content for legal investigation or evidence collection that follows due process in laws.\r\nThe surveillance of the content of telecommunications under the preceding Paragraph shall be carried out in accordance with the Communication Security and Surveillance Act.\r\nService providers shall maintain phone records under Paragraph 1 of this Article for at least six months.\r\nWhen the service provider constructs, installs, increases or expands its wireless broadband access system, its telecommunication surveillance facilities shall be installed in accordance with the applicable provisions of the Communication Security and Surveillance Act and the Enforcement Regulations thereof.\r\nService providers shall maintain telecommunication records for at least six months.\r\nService providers shall be obliged to provide telecommunication records maintained as provided in the preceding Paragraph for the user’s inquiry."
+		},
+		{
+			"number": 7500,
+			"content": "Service providers shall reconcile and record their subscribers’ information; service may only be provided after service provider’s system log file has been loaded and saved. Such log file shall be maintained for at least one year after the service contract has expired, and be provided to the authorities concerned for investigation by due process in laws. This Paragraph is also applicable to a service provider that adopts pre-paid cards or other pre-paid fee schedule for the Services.\r\nThe subscribers’ information as provided in the preceding Paragraph shall include the subscriber’s name, ID number, address and assigned number.\r\nThe loading of the user information mentioned in preceding Paragraph shall be completed within two days after the service provider has accepted an application."
+		},
+		{
+			"number": 7600,
+			"content": "Service providers that adopt pre-paid cards or other pre-paid fee schedule for the Services shall re-check the subscriber’s information every week; if a subscriber has activated service without the subscriber’s information, then the service provider shall notify the subscriber to provide the complete information within one week, otherwise the service provider shall suspend service for the subscriber.\r\nThe service provider shall clearly state the regulation provided in the preceding Paragraph in its business rules and standard service contract."
+		},
+		{
+			"number": 7700,
+			"content": "The service provider that intends to temporarily suspend or permanently terminate partial or all services it provides shall report to the NCC for approval three months prior to the planned date of suspension or termination and notify its subscribers one month prior to the planned date of suspension or termination.\r\nThe charter that is granted by the NCC to the service provider that is approved to suspend or terminate all its services shall be abolished by the NCC.\r\nThe NCC shall take appropriate action at its discretion upon the expiration of the business suspension or termination of operation as mentioned in the preceding Paragraph."
+		},
+		{
+			"number": 7800,
+			"content": "Service providers shall provide phone number portability service according to the Regulations on Number Portability."
+		},
+		{
+			"number": 7900,
+			"content": "Service providers shall conduct mutual negotiation for network roaming and other issues that shall be negotiated according to these Regulations among service providers in an honest and trustful manner. If multiple service providers request for negotiations on the same issue, then the negotiations may be conducted collectively.\r\nThe negotiations mentioned in the preceding Paragraph shall reach a conclusion within three months after the beginning date of the negotiation and a negotiation report shall be submitted to the NCC within one month after the negotiation is concluded. If a service provider does not begin negotiation within one month after receiving negotiation request or fails to reach a conclusion within three months, then any party of the negotiation may request for mediation from the NCC."
+		},
+		{
+			"number": 8000,
+			"content": "The applicant of this service shall follow the due process that includes application review, authentication, examination and licensing, and remit reviewing fee, authentication fee, examination fee as well as charter fee according to the fee scheduled determined by the NCC.\r\nWinning bidders shall remit the radio frequency fee according to the fee schedule determined by the NCC on the date of issuance of system construction permit for establishment period."
+		},
+		{
+			"number": 8100,
+			"content": "The content and format of related documents and charters as provided by these Regulations shall be determined by the NCC unless otherwise provided by these Regulations."
+		},
+		{
+			"number": 8200,
+			"content": "These Regulations shall come into effect on the date of promulgation.\r\nThe revised articles, which were implemented on December 25, 2010, were amended on January 11, 2011."
+		}
+	]
+}

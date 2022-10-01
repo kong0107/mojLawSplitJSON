@@ -1,0 +1,699 @@
+{
+	"pcode": "B0010010",
+	"LawLevel": "法律",
+	"EngLawName": "The Notary Act",
+	"LawName": "公證法",
+	"EngLawModifiedDate": "20091230",
+	"histories": [
+		"Promulgated on March 31, 1943",
+		"Amended on January 29, 1974",
+		"Amended on July 04, 1980",
+		"Amended on April 21, 1999",
+		"Amended on December 26, 2007",
+		"Amended on December 30, 2009"
+	],
+	"divisions": [
+		{
+			"type": "chapter",
+			"number": 100,
+			"title": ": General Provisions",
+			"start": 100,
+			"end": 2100
+		},
+		{
+			"type": "chapter",
+			"number": 200,
+			"title": ": The Notaries",
+			"start": 2200,
+			"end": 6900,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": ": The Notaries Serving in the Courts",
+					"start": 2200,
+					"end": 2300
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": ": Civil Notary",
+					"start": 2400,
+					"end": 6900
+				}
+			]
+		},
+		{
+			"type": "chapter",
+			"number": 300,
+			"title": ": Notarization",
+			"start": 7000,
+			"end": 9900
+		},
+		{
+			"type": "chapter",
+			"number": 400,
+			"title": ": Attestation",
+			"start": 10000,
+			"end": 10700
+		},
+		{
+			"type": "chapter",
+			"number": 500,
+			"title": ": Notarial Fees",
+			"start": 10800,
+			"end": 12900
+		},
+		{
+			"type": "chapter",
+			"number": 600,
+			"title": ": The Notary Associations",
+			"start": 13000,
+			"end": 14600
+		},
+		{
+			"type": "chapter",
+			"number": 700,
+			"title": ": Penal Provisions",
+			"start": 14700,
+			"end": 14900
+		},
+		{
+			"type": "chapter",
+			"number": 800,
+			"title": ": Supplementary Provisions",
+			"start": 15000,
+			"end": 15200
+		}
+	],
+	"articles": [
+		{
+			"number": 100,
+			"content": "Notarial acts shall be performed by notaries serving in the courts(hereinafter referred to as \"court notaries\") or by notaries who operate their own offices (hereinafter referred to as \"civil notaries\").\r\nAll district courts and their branches shall set up a notary division. If necessary, additional branches of the notary division may be established at appropriate premises within the jurisdiction of each district court.\r\nCivil notary offices shall be established within the jurisdiction of the district courts to which they are registered, or its branches of such district courts and in locations assigned by the Judicial Yuan."
+		},
+		{
+			"number": 200,
+			"content": "Notaries have the authority to notarize juristic acts and facts related to private rights upon the application of directly related parties or other indirectly related persons. They also have the authority to attest private documents.\r\nNotaries may also attest the following documents upon the application of directly related parties or other indirectly related persons:\r\n1. Official documents in their original form that involve facts related to private rights and where the applicants indicate the documents will be used overseas.\r\n2. The transcriptions or photocopies of official or private documents."
+		},
+		{
+			"number": 300,
+			"content": "The applications mentioned in Article 2 may be oral or in writing.\r\nThe notarization or attestation applications shall be signed by applicants or their agents. If applications are made orally, the notaries, their clerks, or assistants shall transcribe the oral applications into written forms and sign the records, prior to having the applicants or their agents sign the records themselves.\r\n\"The Law Governing Non-Contentious Matters” shall apply mutatis mutandis to determine the format of the written applications or transcriptions mentioned in the preceding paragraph."
+		},
+		{
+			"number": 400,
+			"content": "Notarization or attestation applications may be made by the applicants' agents. However, this will not apply when there are statutory restrictions or due to the specific nature of the matter."
+		},
+		{
+			"number": 500,
+			"content": "Notarized documents shall be written in Chinese unless, at the request of the parties, they be written in foreign languages.\r\nIn the event the notarized documents were written in Chinese, necessary notations in a foreign language may be included, or a translation in a foreign language may be attached when necessary.\r\nThe notaries making notarized documents in a foreign language, or attesting foreign translation of documents, shall have their proficiency in the foreign language approved by the Judicial Yuan."
+		},
+		{
+			"number": 600,
+			"content": "The parties or other related persons, unless otherwise provided by law, may request notaries of any regions to make notarial deeds or deeds of attestation."
+		},
+		{
+			"number": 700,
+			"content": "Notaries shall perform their duties within the jurisdiction of the district court or its branches  to which they are registered. However, in emergency circumstances, or due to the nature of the matter, it appears necessary for the notaries to perform their duties outside their jurisdiction, the above restriction shall not apply.\r\nNotarized or attested documents made in violation of the provisions of the preceding paragraph shall remain  valid."
+		},
+		{
+			"number": 800,
+			"content": "Notarial affairs shall be carried out at the notary divisions of the courts or the civil notary offices. However, if a statute otherwise requires, or due to the nature of the matters, it is deemed inappropriate for the notaries to perform their duties at the notary divisions of the courts or the civil notary offices, or under necessary circumstances, the above restriction shall not apply.\r\nThe processing time of notarial affairs shall be in accordance with legal provisions. However, if necessity so prescribes, such provisions may not apply."
+		},
+		{
+			"number": 900,
+			"content": "Notaries, when signing in their capacity as notary, shall indicate their title and the court to which they are registered. Civil notaries shall indicate the location of their office."
+		},
+		{
+			"number": 1000,
+			"content": "Notaries that encounter any of the following situations may not perform their duties:\r\n1. When the notary is a related party to the applicant, or has a personal interest in the applied matter.\r\n2. When the notary’s spouse, former spouse, prospective spouse, relatives up to the fourth degree, cohabiting head of the notary’s household, or household members is an applicant, agents of an applicant, or is related to the applied matter. Whenever the familial relationship extinguishes, the restriction still applies.\r\n3. When the notary acts as the applicant’s or his/her agent’s legal  representative.\r\n4. When the notary acted, for the matter applied, as an agent or an assistant."
+		},
+		{
+			"number": 1100,
+			"content": "Documents drafted by notaries that do not possess the elements prescribed by this Act or other statutes, shall have no legal effects.\r\nDocuments drafted by notaries who should not perform their duties according to this Act, shall have no legal effects."
+		},
+		{
+			"number": 1200,
+			"content": "Notaries, in the course of performing notarial affairs, may when necessary, inquire of relevant agencies, organizations or individuals and may request their assistance.\r\nThe above provision also applies to foreign agencies, organizations or individuals."
+		},
+		{
+			"number": 1300,
+			"content": "Parties requesting from a notary the making of a notarial deed for any of the following juristic acts, insofar as the notarial deed specifies its immediate enforceability, shall enforce it accordingly:\r\n1. When the subject matter of the deed is the payment of a sum of money, other fungible things, or valuable securities of a specific amount.\r\n2. When the subject matter of the deed is the delivery of a specific personal property.\r\n3. When the subject matter of the deed is the lease or making the use of buildings or other works, whenever there is a fixed term and the building or work the possession of which shall be returned by the expiration of the term.\r\n4. When the subject matter of the deed is the lease or making the use of pieces of land, for the purpose of non-farming or building, when at the expiration of the term, the possession of the piece of land shall be returned.\r\nIn addition to all parties, the notarial deeds mentioned in the preceding paragraph after their making , are binding on a person who becomes a party's successor and who possesses the object for the parties or their successors.\r\nIf the debtors, their successors, or persons who possesses the object claim that there are reasons for the notarial deeds, referred in the first paragraph, not to be enforced and file a lawsuit, the court in charge may suspend the enforcement proceeding due to necessary circumstances. Alternatively, if the claimants state that they are willing to provide security, the court shall decide a proper amount and shall suspend the enforcement proceeding."
+		},
+		{
+			"number": 1400,
+			"content": "Notaries, their clerks, and assistants, unless otherwise provided by law, shall keep confidential of the matters they have handled."
+		},
+		{
+			"number": 1500,
+			"content": "Notaries shall not refuse the applications of their applicants without legitimate reasons .\r\nNotaries who refuse the applications may do so orally or in writing. When the applicant requests the reasons be stated, the notary must provide the applicant with legitimate reasons n in writing."
+		},
+		{
+			"number": 1600,
+			"content": "Applicants or interested persons, who consider that a notary has illegally or improperly conducted notarial affairs, may raise an objection.\r\nNotaries, who find the objection to be justified, shall within three days take appropriate remedy. Notaries who find the objection to be unjustified shall, within three days, submit a report to the district court or its branch to which they are registered. The court shall provide a ruling within five days."
+		},
+		{
+			"number": 1700,
+			"content": "If the court finds the objection to be justified, it shall order the notary to take appropriate remedy. If the court finds the objection to be unjustified, it must dismiss the request.\r\nThe ruling shall mention the reason, and be served to the notary, the claimant, and any related party.\r\nThe ruling mentioned in the first paragraph of this Article may be appealed within ten days. Only one appeal is permitted.\r\nUnless otherwise provided by this law, the Law Governing Non-Contentious Matters shall apply mutatis mutandis to the appeal."
+		},
+		{
+			"number": 1800,
+			"content": "The original of the notarial deeds drafted by the notary, as well as the notarial deeds’ ancillary documents or attested deeds’ transcriptions, photocopies and other Journal of Notarial Acts to be prepared under law, shall be preserved within the notary division or the civil notary office and may not leave the premises. However, by a court order or decision of relevant authorities in accordance with legal access regulations or to avoid incidents, such documents may be carried out of the premises.\r\nIn the event, according to the preceding paragraph, the documents were to leave the premises, the notary shall prepare and retain a photocopy of the documents.\r\nThe Judicial Yuan shall further prescribe the rules regarding the preservation or destruction of documents or records under the first paragraph."
+		},
+		{
+			"number": 1900,
+			"content": "All amount of money or value mentioned under this statute shall be expressed in New Taiwan Dollars (hereinafter \"NTD\")."
+		},
+		{
+			"number": 2000,
+			"content": "All orders of fines pronounced under this Act may serve as legal title for compulsory enforcement."
+		},
+		{
+			"number": 2100,
+			"content": "Notarial affairs, unless otherwise provided by this Act, the Law Governing Non-Contentious Matters shall be applicable mutatis mutandis. For those issues that are not governed by the Law Governing Non-Contentious Matters, the provisions of the Code of Civil Procedure shall be applicable mutatis mutandis."
+		},
+		{
+			"number": 2200,
+			"content": "From those who have satisfied the judicial personnel qualifications set forth under paragraph 1 of Article 23 of the Judicial Personnel Ordinance, the court may selectively appoint court notaries.\r\nWhenever there is more than one notary in a notary division of a district court, one of them shall be appointed as the director, handling and supervising notarial affairs.\r\nJudges of a district court or its branches or judicial personnel, who have satisfied the qualifications mentioned under the first paragraph, can be assigned additional duties to act as notaries."
+		},
+		{
+			"number": 2300,
+			"content": "The notary division’s may hire clerks to assist the notaries in the performance of notarial affairs. The notary clerks are appointed from personnel holding the qualification of a court clerk.\r\nThe district court or its branches can appoint court clerks to act as notary clerks in addition to the clerk's other duties."
+		},
+		{
+			"number": 2400,
+			"content": "Civil notaries are appointed by the Judicial Yuan and perform notarial acts as mentioned under Article 2 of this Act.\r\nRegulations governing civil servants do not apply to these notaries mentioned in the preceding paragraph."
+		},
+		{
+			"number": 2500,
+			"content": "The court shall select civil notaries from adult citizens of the Republic of China (hereinafter \"the R.O.C.\") and who are qualified upon meeting one of the following conditions:\r\n1. Passing the examination for civil notaries;\r\n2. Former judges, or prosecutors, upon being duly qualified;\r\n3. Former public defenders, upon being duly qualified;\r\n4. Former court notaries and duly qualified, or former civil notaries; or\r\n5. Persons having passed the bar examination, and having practiced as an attorney for more than three years"
+		},
+		{
+			"number": 2600,
+			"content": "Any person meeting any of the following conditions shall not be appointed as a civil notary. These include someone who has:\r\n1. attained the age of 70 years old;\r\n2. been sentenced to imprisonment of a term of one year or more, except for crimes committed negligently;\r\n3. been deprived of civil rights  without those rights being reinstated;\r\n4. been dismissed as a civil servant with a period restricting his reinstatement before that time period has expired;\r\n5. been removed or dismissed on the basis of this Act;\r\n6. been disbarred on the basis of the Lawyers Act;\r\n7. been declared bankrupt without being reinstated;\r\n8. been placed under guardianship or assistance before such declaration has been revoked; or\r\n9. become incapable of performing duties due to a physical or mental disavility."
+		},
+		{
+			"number": 2700,
+			"content": "In difficult to access areas where there is no civil notary, and in accordance with the provisions of the relevant regulations on the qualifications of civil notaries, the Judicial Yuan may select candidate notaries from persons who have the following qualifications: those who have a bachelor's degree from an undergraduate law department; those who have a master of law from a graduate law school of public or accredited private universities or colleges; or be from the law departments or graduate law schools of overseas universities recognized by the Ministry of Education. It is also necessary to have worked as administrative personnel of the judiciary, a court clerk in charge of handling civil and criminal records, or having been appointed as a fifth-level notary assistant for more than four years.\r\nCandidate notaries are in training for a period of three years. At the expiration of the candidacy period, provided they have good credentials, they can be appointed as civil notaries.\r\nThe provisions applicable to civil notaries shall apply mutatis mutandis to candidate notaries, unless otherwise provided by this Act."
+		},
+		{
+			"number": 2800,
+			"content": "Civil notaries, after obtaining the approval of the district courts or the branches to which they are registered, may hire assistants to help them perform notarial acts.\r\nThe above-mentioned approval may be revoked when necessary.\r\nFor the assistants mentioned in the first paragraph, their qualifications, number, scope of professional duties, revocation of authorization, as well as other related items, are prescribed by the Judicial Yuan."
+		},
+		{
+			"number": 2900,
+			"content": "Civil notaries before performing their duties, shall be subject to an internship of an appropriate period. However, this provision does not apply to candidates that meet the qualifications of subparagraph 2 or 4 of Article 25.\r\nCivil notaries, in the course of performing their duties, may be required, depending on business needs, to participate in additional training."
+		},
+		{
+			"number": 3000,
+			"content": "The selection process, internship, appointment and removal of civil notaries are determined by the Judicial Yuan."
+		},
+		{
+			"number": 3100,
+			"content": "Civil notaries are appointed by the Judicial Yuan, which also determines the district court or branch to which the civil notaries are registered. However, the Judicial Yuan may not imit the number of civil notaries."
+		},
+		{
+			"number": 3200,
+			"content": "Upon being appointed, civil notaries may not perform their duties unless they meet the following requirements:\r\n1. Register with the district court or branch to which they are registered.\r\n2. Join the notaries association.\r\n3. Maintain malpractice liability insurance coverage and pay the premium.\r\n4. Submit the mark of their seal, iron stamp and a copy of their signature to the district court or branch to to which they are registered."
+		},
+		{
+			"number": 3300,
+			"content": "Upon being appointed, civil notaries may be removed from their positions if they meet one of the following circumstances:\r\n1. been found guilty of a crime, the verdict of which is final, except for crimes based upon the negligence of the offender.\r\n2. been deprived of civil rights .\r\n3. been dismissed as a former civil servant.\r\n4. been disbarred on the basis of the Lawyers Act.\r\n5. been declared bankrupt.\r\n6. been placed under guardianship or assistance.\r\n7. being incapable of performing duties due to a physical or mental disability .\r\nAfter the appointment, if the Judicial Yuan discovers that the civil notary has one of the situations stipulated in Article 26, that notary shall be removed from the position."
+		},
+		{
+			"number": 3400,
+			"content": "Civil notaries who fail to pay compulsory professional malpractice liability insurance premiums as provided under this Act may be subject to remove from the position ."
+		},
+		{
+			"number": 3500,
+			"content": "Civil notaries who have attained the age of seventy years old shall retire from their position."
+		},
+		{
+			"number": 3600,
+			"content": "Documents made by civil notaries when performing their notarial duties pursuant to this Act shall be deemed as official documents."
+		},
+		{
+			"number": 3700,
+			"content": "Civil notaries who also have the qualifications of a lawyer shall not perform legal practice. However, if the lawyer was licensed as a civil notary with a limited capacity for the purpose of attesting documents only, or due to geographic environment or special needs, the aforementioned limitations shall not apply if the lawyer acquires the Judicial Yuan's approval.\r\nLawyers concurrently acting as civil notaries (hereinafter \"attorney notaries”), shall not accept the appointment of practicing as a lawyer related to those same documents they have attested. Any lawyer belonging to the same law firm may also not be appointed to handle that case.\r\nUnless otherwise provided by this Act, civil notaries shall not concurrently undertake remunerated public offices or business positions, concurrently engage in commercial activities, nor be representatives or users  of any company or for-profit association. However, an approval may be granted by the Judicial Yuan, provided there is no conflict with their professional duties."
+		},
+		{
+			"number": 3800,
+			"content": "Civil notaries and their assistants may not act as intermediaries for loans or real estate transactions."
+		},
+		{
+			"number": 3900,
+			"content": "Civil notaries who are temporarily unable to perform their duties due to an illness or any other incident, may request another civil notary or a candidate notary within the jurisdiction of the district court or branch to which  they are registered to carry out their notarial duties as their agent.\r\nCivil notaries who, as prescribed above, commission another notary as an agent, shall report it to the district court or the branch to which they are registered. Likewise, when the commission ends, the formerly incapacitated notary shall report it to the court.\r\nIn the event the commission period indicated in the first paragraph exceeds one month, the incapacitated notary must request approval from the district court or its branch."
+		},
+		{
+			"number": 4000,
+			"content": "In the event the incapacitated civil notary fails to commission an agent, as prescribed under the first paragraph of the preceding Article, the district court or its branch may appoint a civil notary or a candidate notary within the jurisdiction of the district court or its branch as an agent to carry out the incapacitated civil notary’s notarial duties.\r\nWhen the civil notary mentioned in the first paragraph of the preceding Article is able to perform his duties, the district court or its branch must discharge the agent.\r\nWhen the district court or its branch cannot appoint an agent in accordance with paragraph 1, they may appoint a court notary as an agent to perform such duties."
+		},
+		{
+			"number": 4100,
+			"content": "The commissioned agent of a civil notary, when performing notarial duties in accordance with the two preceding Articles, shall make use of the office of the incapacitated notary as his own.\r\nThe commissioned agent mentioned in the preceding paragraph, when signing as part of his professional duties, shall affix the incapacitated notary’s title, name, registered district court, office location and agency purpose."
+		},
+		{
+			"number": 4200,
+			"content": "Agents of civil notaries shall assume the responsibility for their own performance of notarial duties. They shall compensate for the damage caused by their malpractice.\r\nAgents who utilize the incapacitated civil notary’s office, personnel or other equipment, shall duly reimburse the incapacitated civil notary for the use of the facilities and personnel. They can apply for adjudication from the court, provided that there is a dispute regarding the amount of reimbursement.\r\nAdjudication mentioned in the preceding paragraph may serve as a legal title for compulsory enforcement."
+		},
+		{
+			"number": 4300,
+			"content": "When necessary, personnel can be assigned by a district court or its branch to seal and store up documents and objects belonging to civil notaries who have died, been removed from their positions, have been dismissed from their duties, or leave their positions due to other reasons."
+		},
+		{
+			"number": 4400,
+			"content": "Within ten days of knowing the death of a civil notary, his/her successors, assistants, or other employees shall inform the district court or its branch to which the civil notary is registered."
+		},
+		{
+			"number": 4500,
+			"content": "When a civil notary has died, been removed from his/her positions, been dismissed from their duties, or left their positions due to other reasons, the district courts or its branches to which the civil notaries registered can assign another civil notary (hereinafter “adjunct notary”) to perform his/her duties in additional to the adjunct notary's own duties.\r\nThe adjunct notary can establish offices in the assigned notary districts.\r\nThe district courts or its branches to which the notaries registered should discharge the adjunct notary from the adjunct positions when a successor assumes the post of the former notary."
+		},
+		{
+			"number": 4600,
+			"content": "When the civil notaries are removed from their positions, have been dismissed from their duties, or leave their positions due to other reasons, they shall hand over documents and objects relating to their position to their successors or adjunct notaries. The successors and adjunct notaries shall take over the documents and objects.\r\nWhen the civil notaries die, or otherwise cannot hand over documents and objects, the successors or adjunct notaries shall take possession of the documents and objects in coordination with the personnel appointed by the district courts or the branches to which the successors or the adjunct notaries registered.\r\nSuccessors and adjunct notaries shall remove the seal in coordination with personnel appointed by the courts or its branches and take possession of the documents and objects which have been sealed and stored according to Article 43.\r\nThe Judicial Yuan shall prescribe additional rules regarding takeover of documents and objects between civil notaries."
+		},
+		{
+			"number": 4700,
+			"content": "The preceding article shall apply mutatis mutandis to the situation where adjunct notaries hand over the documents and objects to other civil notaries."
+		},
+		{
+			"number": 4800,
+			"content": "When adjunct notaries are signing in their capacity of the adjunct position, shall always indicate that they are notarizing in that specific capacity.\r\nWhen making authenticated copies, transcriptions, photocopies, or excerpt copies of the notarial documents made by the former notaries or adjunct notaries, successors of the former notaries shall sign with an indication that they are successors to the former notaries or adjunct notaries."
+		},
+		{
+			"number": 4900,
+			"content": "When civil notaries have died, been removed from their positions, been dismissed from their duties, or left their positions due to other reasons, and no successor can be appointed due to adjustment of the number of civil notaries, the Judicial Yuan may order other civil notaries registered with the same court or branch as the former notaries to take over related documents and objects.\r\nArticle 46 and paragraph 2 of the preceding Article shall apply mutatis mutandis to the civil notaries who are ordered to take over the documents and objects."
+		},
+		{
+			"number": 5000,
+			"content": "Article 43, Article 45, paragraph 3 of Article 46, and paragraph 1 of Article 48 shall apply mutatis mutandis to the situation where civil notaries are disciplined by suspension from executing their notarial duties.\r\nAdjunct notaries, who perform their notarial duties according to preceding Article, shall use the office of the civil notaries who are disciplined with suspension."
+		},
+		{
+			"number": 5100,
+			"content": "The supervision of civil notaries is conducted by the Judicial Yuan.\r\nThe supervision mentioned in the preceding paragraph can be conducted by the High Court, district courts, or the district court’s branch to which a civil notary is registered.\r\nThe rule regarding the supervision shall be set forth by the Judicial Yuan."
+		},
+		{
+			"number": 5200,
+			"content": "The agencies which conduct supervision according to the preceding Article may periodically check documents and objects in civil notaries’ custody."
+		},
+		{
+			"number": 5300,
+			"content": "The supervisory agencies may issue the following orders to civil notaries:\r\n1. The agencies may order civil notaries to take due care of issues regarding their performance of notarial acts.\r\n2. The agencies may issue warnings to civil notaries if they have improper behavior that does not match with their positions. However, the agencies shall inform the notaries of the right to defend themselves before the warning is issued."
+		},
+		{
+			"number": 5400,
+			"content": "Civil notaries shall be disciplined for each improper behavior indicated if they meet one of the following conditions:\r\n1. If they have behaviors which violate at least one of the following Articles: paragraph 3 of Article 1, paragraph 1 of Article 7, Article 10, Article 14, paragraph 1 of Article 15, paragraph 1 of Article 18, Article 32, Article 37, Article 38, paragraph 1 of Article 41, Article 46, paragraph 1 of Article 67, Article 69, Article 70, paragraph 1 of Article 90, paragraph 2 of Article 98, paragraph 1 and paragraph 4 of Article 101, Article 108.\r\n2. If the behavior is not corrected after the disciplinary warning issued according to Article 53.\r\n3. If there is a final criminal judgment, except criminal negligence, against a civil notary.\r\nIf civil notaries are removed from their positions according to Article 33 due to the behavior mentioned in any of the above three subparagraphs, there will be no other disciplinary sanctions.\r\nCivil notaries may be disciplined if they meet one of the following conditions:\r\n1. If they have behaviors violate one of the following Articles: Articles 71 to Article 75, or Article 80.\r\n2. Infamous behavior or other behaviors that are against notarial duties."
+		},
+		{
+			"number": 5500,
+			"content": "Civil notaries may be disciplined with following sanctions :\r\n1. Reprimand;\r\n2. Administrative fines between NTD $15,000 and NTD $150,000;\r\n3. Suspension from duties between 2 months and 2 years;\r\n4. Dismissal from the position.\r\nThe sanctions mentioned in subparagraph 1 and 2 of the preceding paragraph can be sanctioned concurrently."
+		},
+		{
+			"number": 5600,
+			"content": "The disciplinary committee of civil notaries shall have the authority to sanction all civil notaries."
+		},
+		{
+			"number": 5700,
+			"content": "The disciplinary committee of civil notaries (hereinafter \"the disciplinary committee\") shall consist of four judges from the High Court or its branches and three civil notaries. The chairman shall be elected by and from among the committee members.\r\nThe disciplinary reexamination committee of civil notaries (hereinafter \"the reexamination committee\") shall consist of five judges from the Supreme Court and four civil notaries. The chairman shall be elected by and from among the committee members."
+		},
+		{
+			"number": 5800,
+			"content": "If the High Court or its branches consider civil notaries’ behaviors to be disciplined, the court or branches shall refer the civil notary to the disciplinary committee for discussion pursuant to its authority.\r\nIf district courts or their branches consider that civil notaries registered with their jurisdiction to be disciplined, they shall report the behaviors to the High Court or its branches for review. The High Court or its branches shall refer the behaviors to the disciplinary committee for discussion.\r\nThe District Notary Association may refer the behavior of its members to the disciplinary committee for discussion if they consider the behaviors must be disciplined. Joint resolutions of directors and supervisors of the associations are required before the referrals."
+		},
+		{
+			"number": 5900,
+			"content": "The disciplinary committee of civil notaries shall properly investigate cases before making resolutions. It shall provide those who were subject to investigation with a sufficient chance to defend themselves. It may inform the agencies or associations which referred the cases to provide explanation of the reasons for sanction if necessary.\r\nThe disciplinary committee shall make a written resolution statement after making the oral resolution mentioned in the preceding paragraph."
+		},
+		{
+			"number": 6000,
+			"content": "The disciplined civil notaries and the associations that refer cases according to paragraph 3 of Article 58 may apply for an appeal to the reexamination committee. The application of appeal shall be made to the reexamination committee within 20 days after the next day of serving of the written resolution statement.\r\nThe preceding Article shall apply mutatis mutandis to the procedure of appeal.\r\nIf the reexamination committee’s resolution affirms sanctions of suspension or dismissal, the disciplined civil notaries may apply for a re-appeal to the reexamination committee. The Public Functionaries Discipline Act shall apply mutatis mutandis to the procedure and reasons for the application of re-appeal."
+		},
+		{
+			"number": 6100,
+			"content": "The Judicial Yuan shall set forth the rule regarding the disciplinary procedure of civil notaries."
+		},
+		{
+			"number": 6200,
+			"content": "After the disciplinary sanctions are finalized, the disciplinary committee or the reexamination committee shall submit all the documents to the High Court or the branch where the disciplined civil notary is registered. The High Court or its branches shall then report to the Judicial Yuan to issue and execute the orders. The Judicial Yuan shall publish written resolution statements of suspension or dismissals sanctions on the official gazettes of the Judicial Yuan."
+		},
+		{
+			"number": 6300,
+			"content": "If a civil notary is detained by authorities during a criminal investigation procedure, or serving imprisonment or detention pursuant to final criminal judgment, the civil notaries’ duty is ipso jure suspended.\r\nThe Judicial Yuan may suspend civil notaries temporarily from their duties until the completion of disciplinary procedure, if the situation of their violation is serious.\r\nArticle 50 shall apply mutatis mutandis to the situation that civil notaries are suspended from their duties according to the preceding two paragraphs."
+		},
+		{
+			"number": 6400,
+			"content": "Civil notaries who are suspended from their duties according to paragraphs 1 and 2 of the preceding Article, shall be restored to their duties under the following circumstances:\r\n1. They are not subject to the sanctions of removal, dismissal or suspension.\r\n2. They receive the criminal sentence of detention or imprisonment and have served the sentence, and are not subject to the sanctions of removal, dismissal or suspension."
+		},
+		{
+			"number": 6500,
+			"content": "Civil notaries may apply for resignation. The Judicial Yuan shall discharge the civil notaries’ duties after a designated person takes over the objects or documents according to this Act."
+		},
+		{
+			"number": 6600,
+			"content": "Civil notaries, who are removed, suspended, dismissed, suspended temporarily, or discharged from duties due to retirement or resignation, may not perform their duties after the next day of receiving the order. Those who are detained or sentenced to prison shall not perform their duties. Civil notaries who are ipso jure suspended temporarily from performing their duties according to paragraph 1 of Article 63 may not perform their duties from the time of detention or serving their sentence of imprisonment."
+		},
+		{
+			"number": 6700,
+			"content": "Civil notaries shall maintain malpractice liability insurance coverage during the period of performing their duties.\r\nThe Judicial Yuan shall issue an order to determine the minimum amount of insurance coverage for each insured risk according to the circumstances. However, the insurer may limit the amount of insurance compensation to no more than twice as much as the determined minimum coverage for the given insurance year.\r\nInsurers shall immediately inform the district courts, or the branches and District Notary Associations where civil notaries are registered when the notaries’ insurance contracts are suspended, terminated, rescinded, have delayed payment of insurance fees, or other situations that will influence the validity of the insurance contracts"
+		},
+		{
+			"number": 6800,
+			"content": "Civil notaries shall compensate for the losses of victims, when said notaries intentionally breach their professional duties and infringe others’ rights. If the infringement is negligently caused, the notaries shall compensate for losses when victims are not able to obtain compensation from other sources.\r\nIf victims cannot acquire compensation or indemnity according to the preceding paragraph, the preceding Article, Article 145 or other sources, they may apply for state compensation according to the procedure prescribed by the State Compensation Law. The compensating authority is the district court or its branches, where the said civil notaries are registered.\r\nThe preceding two paragraphs shall apply mutatis mutandis to the agents of civil notaries stipulated in paragraph 1 of Article 42.\r\nParagraph 2 of Article 4 of the State Compensation Law applies mutatis mutandis to the situations stipulated in the preceding two paragraphs.\r\nCivil notaries shall be responsible for intentional or negligent behaviors of their assistants and other employees when performing notarial acts."
+		},
+		{
+			"number": 6900,
+			"content": "Civil notaries shall, before the tenth day of the following month, submit transcriptions or photocopies of notarial deeds or attested deeds made by them to the courts or its branches where they are registered for future reference and examination every month. They shall collect and organize the aforementioned documents by sequential date of acceptance and bound into volumes."
+		},
+		{
+			"number": 7000,
+			"content": "Notaries shall not make notarial deeds in violation of laws or regulations, or notarize invalid juristic acts."
+		},
+		{
+			"number": 7100,
+			"content": "When making notarial deeds, notaries shall inquire into the real intention of the parties and the truth of facts. The notaries shall explain the legal consequences of the deeds. When there is confusion, insufficiency, or obviously unfair conditions, notaries shall ask the parties to clarify, making further explanations or corrections."
+		},
+		{
+			"number": 7200,
+			"content": "If the notaries are dubious regarding the legality of the notarial deed application or question the consistency between the applicants’ true intentions and the applicants’ expressions, the notaries shall explain their concerns to the applicants. If the applicants insist on the requested content, notaries shall make the notarial deeds per the applicants’ requests. However, they shall also indicate their concerns regarding above mentioned issues and the insistent requests of the applicants."
+		},
+		{
+			"number": 7300,
+			"content": "When making notarial deeds, notaries shall require applicants to provide their National Identification Cards or other identification documents to verify their identities. If applicants are foreigners, they shall provide their passports, certificates issued by their countries’ embassies or counselor offices, or other identification documents."
+		},
+		{
+			"number": 7400,
+			"content": "If applicants do not understand the Chinese language, or are deaf, mute, and cannot express their intentions with words, notaries shall require interpreters to enable communication between the notaries and applicants when making notarial deeds. However, the requirement of the interpreters’ attendance may be exempted, provided that applicants agree to allow notaries to interpret their meaning directly."
+		},
+		{
+			"number": 7500,
+			"content": "If applicants are blind or illiterate, notaries shall request a witness to attend when making notarial deeds. However, applicants may waive their rights to require witnesses’ attendance. Notaries shall write down the waiver in the record.\r\nApplicants without the situations mentioned in the preceding paragraph may also request the attendance of witnesses."
+		},
+		{
+			"number": 7600,
+			"content": "When applicants have their agents apply for notarization, beyond being subject to the preceding three Articles, notaries shall require the agents to provide letters of authorization. When the specific act must have special authorization by law, agents shall provide documents indicating that they have that specific authorization.\r\nIf the letters of authorization mentioned in the preceding paragraph are private documents without attestation, certification shall be made by one of the following methods:\r\n1. That the documents be certified by relevant governmental agencies;\r\n2. That for private documents made in areas outside of the territory of the R.O.C., the documents be certified by the R.O.C.’s embassies, counselor offices, institutions authorized by the Ministry of Foreign Affairs of the R.O.C., or other relevant organizations authorized by other authorities;\r\n3. That for private documents made by foreigners or persons living outside the territory of the R.O.C., the documents shall be certified by their countries’ embassies or counsel offices stationed in the R.O.C., institutions authorized by their countries’ authorities, or organizations authorized by the competent authorities in those areas.\r\nLetters of authorization attached with seals certification issued by the relevant authorities bears the same effect as the certification mentioned in the preceding paragraph."
+		},
+		{
+			"number": 7700,
+			"content": "When applicants apply for notarizing juristic acts that require the approval or consent of a third party, the applicants shall provide certifications that the third party’s approval or consent has been acquired.\r\nParagraphs 2 and 3 of the preceding Article apply mutatis mutandis in the situation mentioned in the preceding paragraph."
+		},
+		{
+			"number": 7800,
+			"content": "Applicants or their agents should select their interpreters and witnesses. Interpreters may act as witnesses at the same time.\r\nNotaries may select interpreters if applicants or their agents fail to select one."
+		},
+		{
+			"number": 7900,
+			"content": "Persons listed in the following sub-paragraphs shall not act as witnesses for this Act. However, this restriction shall not apply in situations mentioned in paragraph 2 of Article 75:\r\n1. Minors;\r\n2. Persons who are subject to a guardianship or assistantship;\r\n3. Persons who have a conflict of interests regarding the applied matters;\r\n4. Persons who have acted as agents for the applied matters, or used to be agents for the applied matters;\r\n5. Persons who are the spouse, lineal relatives by blood, or lineal relatives by marriage of the notary;\r\n6. Clerks and assistants of the notaries.\r\nPersons listed in sub-paragraphs 4 to 6 of the preceding paragraph may still act as witnesses if they acquire consent of all applicants."
+		},
+		{
+			"number": 8000,
+			"content": "When making notarial deeds, notaries shall write down the statements listened to, the circumstances witnessed, and other facts they have actually experienced. The means and results of the experience shall also be stated in the notarial deeds."
+		},
+		{
+			"number": 8100,
+			"content": "A notarial deed shall contain the following items:\r\n1. The case number of the notarial deed;\r\n2. The main purpose of the notarial deed;\r\n3. The applicant’s name, gender, birthplace, date of birth, occupation, and the number of his/her identification cards or other identification documents, address of domicile or residence, and in case of juristic persons or other organizations, names and offices thereof;\r\n4. If applications are made by agents, the record of the agent’s applications, the agent’s name, gender, birth place, date of birth, occupation, the number of the agent’s identification card, or other identification documents, address of domicile or residence, and the submission of letter of authorization;\r\n5. The agreement and main purpose of direct enforceability of the notarial deed;\r\n6. When the certification of third parties’ approvals or consents have been submitted, the third parties’ names, genders, birthplaces, dates of birth, occupations, and addresses of domicile or residence. If the third party is a juristic person or other organization, its name and office;\r\n7. Any fact that there are interpreters or witnesses attending, and the names, genders, birth places, dates of birth, occupations, addresses of domicile or residence of the interpreters or witnesses;\r\n8. The date and location of the making of the notarial deed."
+		},
+		{
+			"number": 8200,
+			"content": "Notarial deeds shall be written in brief and clear words and sentences with neat and legible writing, and the lines of text shall be consecutive. If there is a blank space, an ink line or other method shall be infilled or used to indicate that there is a blank space.\r\nWhen indicating numbers in dates or other contents in the column of main purpose of the notarial deeds, Chinese numerical characters shall be used. The dates of the making of notarial deeds shall also be written in Chinese numerical characters."
+		},
+		{
+			"number": 8300,
+			"content": "Characters in notarial deeds shall not be erased or altered. If there is a need to add, delete or alter the characters, the notaries shall follow the requirement stated below:\r\n1. The original text of the characters or sentences shall remain legible in order to be read clearly by others；\r\n2. The number of the characters being added or deleted shall be indicated in the margin or the end space of the notarial deeds. The notaries, applicants or applicants’ agents shall sign or affix their seals thereon.\r\nThe correction shall not take effect if preceding requirements are violated."
+		},
+		{
+			"number": 8400,
+			"content": "Notaries shall read the contents of the notarial deeds out to those who are present in the making. Notaries shall present the notarial deeds to applicants or their agents to inspect. After the applicants or their agents affirm the correctness of the notarial deeds, the notaries shall indicate the process of the affirmation in writing in the deed.\r\nWhen there is an interpreter present, the notaries shall have the interpreter translate the notarial deed orally, and indicate the process of translation.\r\nAfter the notaries have entered the above-mentioned statements, the notaries and other persons present shall all sign their names below the statements. If any person present is unable to sign, the notaries shall write down that person's name, request the person affix his/her seal, or press his/her fingerprint below the statement. The notaries shall indicate the situation and sign below.\r\nIf the notarial deeds consist of two or more sheets of paper, notaries, applicants or their agents, and witnesses shall affix their seals or fingerprints along the adjacent edges of the consecutive sheets, or use other methods to demonstrate the documents’ consecution. However, if the notarial deeds’ completeness can be proven, the validity of the notarial deeds remain unaffected, even if any of the above mentioned parties fails to affix their seals or press their fingerprints."
+		},
+		{
+			"number": 8500,
+			"content": "If any other documents or other objects with equivalent effects to documents are referred and attached to the notarial deeds, the notaries, applicants or their agents shall affix their seals or fingerprints on the adjacent edges between the notarial deeds and consecutive attachments or use other methods to demonstrate the consecution of the notarial deeds and attachments.\r\nThe preceding three Articles shall apply mutatis mutandis to the attachments mentioned in the preceding paragraph."
+		},
+		{
+			"number": 8600,
+			"content": "Attachments mentioned in the preceding Article shall be deemed as part of the notarial deeds."
+		},
+		{
+			"number": 8700,
+			"content": "Notaries shall file the notarial deeds together with the certificates of identity, power of representation, the approval or consent of third parties, and other ancillary documents into volumes and preserve them properly.\r\nNotaries shall encode serial numbers by page on the volumes mentioned in the preceding paragraph. When applicants require the return of the original of the ancillary documents, the notaries may preserve transcriptions or photocopies instead of the original."
+		},
+		{
+			"number": 8800,
+			"content": "When the notarial deeds are entirely or partially lost or destroyed, the notaries shall make attested transcriptions and preserve them as substitutes for the originals. The notary may utilize any of the following methods in producing a substitute. The notary may solicit authentic copies delivered by applicants; the notaries may make copies or photocopies that have been proved to be identical with the authentic copies; or, after obtaining the approval from the Chief Judge  of the courts or branches where they registered, the notary may apply for the retrieval of the transcriptions or photocopies of the lost or destroyed notarial deeds.\r\nThe situation mentioned in the preceding paragraph and the date of the approval shall be indicated in the transcriptions that were made to substitute for the originals and signed by the notaries."
+		},
+		{
+			"number": 8900,
+			"content": "Applicants, their successors, or other persons who have legal interests in the notarial deeds may request an inspection of documents collected in the files connected to the notarial deeds.\r\nArticle 73, 76 and 77 shall apply mutatis mutandis to the requests mentioned in the preceding paragraph.\r\nApplicants’ successors and other persons who have legal interests in the notarial deeds shall provide documents to prove their standing when making requests for inspection.\r\nParagraphs 2 and 3 of Article 76 shall apply mutatis mutandis to the documents mentioned in the preceding paragraph."
+		},
+		{
+			"number": 9000,
+			"content": "Notaries shall prepare the Journal of Notarial Acts of notarial deeds or other relevant books.\r\nThe Judicial Yuan shall determine the format of these journals and the contents that shall be recorded as mentioned in the preceding paragraph."
+		},
+		{
+			"number": 9100,
+			"content": "Notaries may deliver authenticated copies of notarial deeds by their authority or per applicants’ or their successors’ requests.\r\nArticle 73, 76, 77, and paragraph 3 of Article 89, shall apply mutatis mutandis to the requests mentioned in the preceding paragraph."
+		},
+		{
+			"number": 9200,
+			"content": "Authenticated copies of notarial deeds shall contain the following particulars  and be signed and sealed with official seals or the steel stamps of the notaries who make it:\r\n1. The full text of the notarial deeds;\r\n2. The indication as authenticated copies;\r\n3. The name of the person who accepts the delivery of the authenticated copies; and\r\n4. The dates and places of the making.\r\nDocuments made in violation of the preceding paragraph shall not have the effect as authenticated copies of notarial deeds."
+		},
+		{
+			"number": 9300,
+			"content": "When notarial deeds enumerate several events or several persons share one notarial deed, each applicant or interested person may request the notaries excerpt the sections relevant to those applicants and make authentic copies of those sections for them.\r\nIn the authenticated copies mentioned in the preceding paragraph, the notaries must indicate that these are excerpted authenticated copies from the original notarial deeds."
+		},
+		{
+			"number": 9400,
+			"content": "When notaries deliver the authenticate copies of the notarial deeds, they shall indicate the names of the persons who accept the authentic copies, the reasons for these requests, and dates, and the notaries shall sign at the end of the original copies of the notarial deeds."
+		},
+		{
+			"number": 9500,
+			"content": "Applicants, their successors, or other persons, who have legal interests in the notarial deeds, may request the delivery of transcriptions, photocopies, or excerpt copies of the notarial deeds or the ancillary documents.\r\nArticle 73, 76, 77, and paragraph 3 of Article 89 shall apply mutatis mutandis to the requests mentioned in the preceding paragraph."
+		},
+		{
+			"number": 9600,
+			"content": "Transcriptions, photocopies, or excerpt copies of notarial deeds or their  ancillary documents shall contain the following particulars and be signed and sealed with official seals or steel stamps by the notaries:\r\n1. The full text or an abridgment of the notarial deeds and their ancillary  documents;\r\n2. The indication as transcriptions, photo copies, or excerpt copies;\r\n3. The dates and places of making ."
+		},
+		{
+			"number": 9700,
+			"content": "If authenticate copies of notarial deeds or transcriptions, photocopies, or excerpt copies of notarial deeds and ancillary documents contain more than one page, notaries shall affix impressions of their seals on the adjacent edges between sheets or use other methods to demonstrate the consecution of different pages.\r\nArticle 82 and 83 shall apply mutatis mutandis to the documents mentioned in the preceding Article."
+		},
+		{
+			"number": 9800,
+			"content": "No one may apply for an inspection of a notarial will, nor may anyone apply for deliveries of authenticated copies, transcriptions, photocopies, or excerpt copies of a will except testators. However, testators may declare that their wills are open for inspection before or after their deaths.\r\nNotaries shall make transcriptions of notarial wills within ten days of making the wills. The transcriptions shall be sealed in envelopes with indications of identification information of the testators and the dates of making on the envelopes’ covers with the notaries’ official seals. The notaries shall deliver the transcriptions to The National Confederated Notary Association for preservation.\r\nIf testators declare their willingness to open their wills for inspection according to paragraph 1, successors of the testators or other persons with legal interests on the notarial wills may request searches for the existence and inspection of the wills.\r\nThe preceding two paragraphs shall apply mutatis mutandis to the notarization of other forms of wills."
+		},
+		{
+			"number": 9900,
+			"content": "When notaries issue protests of negotiable instruments according to the Negotiable Instruments Act, Article 18, Articles 73 to 77, and Article 81 do not apply."
+		},
+		{
+			"number": 10000,
+			"content": "When notaries attest documents, they shall make deeds of attestation."
+		},
+		{
+			"number": 10100,
+			"content": "When attesting private documents, notaries shall require relevant parties to sign before the notaries or to acknowledge their signatures, and indicate aforementioned situations in deeds of attestation.\r\nWhen attesting official documents, notaries shall verify the authenticity of the documents according to their formality and tenor.\r\nWhen attesting transcriptions or photocopies of official or private documents, notaries shall compare above-mentioned documents with the verified original or authentic documents and assure their conformity. Aforementioned requirement shall be indicated in the transcription or photocopies.\r\nWhen attesting translations of documents, notaries shall review the correctness of translation and affix the original texts after the translations. The preceding three paragraphs apply to the attestation of translation.\r\nWhen there are insertions, deletions, alterations, damages or apparently dubious points on the documents’ formality, notaries shall indicate aforementioned conditions in deeds of attestation. Notaries may make investigation when necessary."
+		},
+		{
+			"number": 10200,
+			"content": "Notaries may attest private documents declaring facts regarding private rights only when the documents are made for use outside the territory of the R.O.C. Notaries may require applicants who make the documents to show up in person and sign affidavits.\r\nWhen the aforementioned documents are prepared to be presented to courts or other agencies for evidence according to laws or other regulations authorized by laws, notaries may attest the documents following the methods stipulated in the preceding paragraph."
+		},
+		{
+			"number": 10300,
+			"content": "When signing affidavits prescribed in the preceding Article, applicants shall indicate they will tell the truth without any falsification in affidavits. Before applicants sign affidavits, notaries shall explain applicants the meaning of signing affidavits and the punishment for making false statements"
+		},
+		{
+			"number": 10400,
+			"content": "When applying for attestation, applicants shall provide transcriptions or photocopies of documents."
+		},
+		{
+			"number": 10500,
+			"content": "Notaries and those who are present  when attesting documents shall sign on the deed of attestation. Notaries shall affix their official seals or steel stamps on the deeds of attestation. A deed of attestation shall contain following  items :\r\n1. The document number of the deed of attestation;\r\n2. The type of attestation according to Article 101;\r\n3. The date and place of attestation.\r\nDeeds of attestation made according to paragraph 1 of Article 101, shall contain matters stipulated by Paragraphs 3, 4, 6, and 7 of Article 81.\r\nDeeds of attestation shall be affixed on the attested documents. Notaries who attest the document and those who are present  shall affix impression of their stamps on the adjacent edges between the deeds of attestation and the attested documents. Other methods may be utilized to demonstrate the consecution of the deeds and the attested documents."
+		},
+		{
+			"number": 10600,
+			"content": "Notaries may add notations directly on attested documents instead of affixing deeds of attestation. The notation shall state items stipulated in paragraph 1 of the preceding Article. Notaries shall sign and impress their official seals or steel stamps over the notation.\r\nNotaries who attest private documents according to paragraph 1 of Article 101 with the method mentioned in the preceding paragraph shall indicate the items stipulated in paragraph 2 of the preceding Article. However, if the items mentioned above are stated in the application forms or documents to be attested, paragraph 2 of the preceding Article does not apply."
+		},
+		{
+			"number": 10700,
+			"content": "Provisions in the preceding cChapter regarding notarization shall apply mutatis mutandis to attestation, unless the same matter is regulated in this Chapter."
+		},
+		{
+			"number": 10800,
+			"content": "Notarial fees shall be charged according to the provisions in this Chapter. The notaries shall not increase or decrease the amount of fees of notarization."
+		},
+		{
+			"number": 10900,
+			"content": "Notarial fees, unless otherwise provided by this Act , are based on the subject matter’s value, and shall be charged according to the following fee schedule:\r\n1. When the subject matter’s value is NTD$200,000 and under, the fee shall be NTD$1000;\r\n2. When the subject matter’s value is between NTD$ 200,001 and 500,000, the fee shall be NTD$ 2000;\r\n3. When the subject matter’s value is between NTD$500,001 and 1,000,000, the fee shall be NTD$ 3000;\r\n4. When the subject matter’s value is between NTD$ 1,000,001 and 2,000,000, the fee shall be NTD$ 4000;\r\n5. When the subject matter’s value is between NTD$ 2,000,001 and 5,000,000, the fee shall be NTD$ 5000;\r\n6. When the subject matter’s value is between NTD$ 5,000,001 and 10,000,000, the fee shall be NTD$ 6000;\r\n7. When the subject matter’s value is between NTD$ 10,000,001 and 50,000,000, with every NTD$ 10,000,000 increase in value, the fee shall increase NTD$ 2000. An increase in value less than NTD$ 10,000,000 shall be calculated as NTD$ 10,000,000; and\r\n8. When the subject matter’s value is over NTD$ 50,000,000, with every NTD$ 10,000,000 increase in value, the fee shall increase NTD$ 1000. An increase in value less than NTD$10,000,000 shall be calculated as NTD$10,000,000."
+		},
+		{
+			"number": 11000,
+			"content": "The provisions of the Code of Civil Procedure shall apply mutatis mutandis to the assessment of notarization expenses, unless otherwise provided by this Act ."
+		},
+		{
+			"number": 11100,
+			"content": "The value of the right of Dian (a certain type of pawn right on a real estate) shall be assessed by the price of acquiring the possession of the real estate."
+		},
+		{
+			"number": 11200,
+			"content": "When the value of the subject matter of juristic acts and facts related to private rights for notarization cannot be determined, the notarial fee is NTD $1,000."
+		},
+		{
+			"number": 11300,
+			"content": "When the subject matter for notarization regards marriage, acknowledgment, adoption or other non-proprietary rights events, the fee for making a notarial deed is NTD$1000.\r\nWhen notarizing a non-proprietary right event with its corresponding proprietary relationships, the notarial fee of the relationships shall be assessed separately"
+		},
+		{
+			"number": 11400,
+			"content": "When applicants apply for making  notarial deeds regarding the following matters, the notarial fee is NTD$1000:\r\n1. Acknowledgement, approval, or consent;\r\n2. Rescission or termination of a contract;\r\n3. Withdrawal of a will in part or in whole; or\r\n4. An amendment or correction of a notarial deed regarding a juristic act that was made in the same notarial office without increasing the value of the subject matter. For those amendments or corrections of notarial deeds, notaries shall assess the notarial fees for the increased portion according to Article 109."
+		},
+		{
+			"number": 11500,
+			"content": "When notaries’ actual personal experience is necessary for the making  of notarial deeds, the notaries shall additionally charge NTD$1000 for each hour of experience. If the time of experience is less than one hour, the charge shall be for a full hour."
+		},
+		{
+			"number": 11600,
+			"content": "When making  notarial deeds regarding resolutions of shareholders’ meeting or other meetings, the notaries shall charge notarial fees according to the preceding Article."
+		},
+		{
+			"number": 11700,
+			"content": "The notarial fee to an applicant for following the legal procedure of notarizing a sealed will is NTD$1000."
+		},
+		{
+			"number": 11800,
+			"content": "The notarial fee to an applicant for the notarization of letters of authorization, demand letters, written receipts of performance, or protests of negotiable instruments is NTD $1000."
+		},
+		{
+			"number": 11900,
+			"content": "When an applicant applies for making  notarial deeds regarding juristic acts and also specifies the deeds’ immediate enforceability, the notarial fees is according to the standards specified in Article 109 or 112, and add a 50% fee."
+		},
+		{
+			"number": 12000,
+			"content": "When applicants apply for the attestation of documents, the notaries shall charge the fee as half of the notarial fees."
+		},
+		{
+			"number": 12100,
+			"content": "When applicants apply for notarization or attestation of matters without stipulations regarding their assessment of notarial fees in this Act , the notaries shall charge the fee according to provisions regulating the most similar matters."
+		},
+		{
+			"number": 12200,
+			"content": "When the notaries perform their duties per applications of applicants after hours at night, during holidays, or for other time frames which are outside the normal working hours stipulated by laws or regulations, the notaries shall charge additional fees according to relevant provisions of this Act . The additional amount shall be half of the regular notarial fee assessed according to this Act . However, the additional fee shall not exceed NTD$5000."
+		},
+		{
+			"number": 12300,
+			"content": "When the notaries perform their duties of notarization or attestation for bedridden applicants or other similar situations, the notaries shall charge an additional fee of NTD$2000."
+		},
+		{
+			"number": 12400,
+			"content": "When the notaries make  notarial deeds, there will be an additional charge for more than 6 pages. The additional charge will be NTD$50 for each page.\r\nEach page in a notarial deed shall contain 20 lines, and each line consists of 25 words. When a page does not contain 20 lines, it shall be considered as one full page when assessing the additional fee."
+		},
+		{
+			"number": 12500,
+			"content": "When the notaries make  notarial deeds in foreign languages or attest translation of documents, the notaries shall charge a 50% additional fee. The additional fee shall not exceed NTD$10,000."
+		},
+		{
+			"number": 12600,
+			"content": "If applicants request termination of notarization or attestation after the notaries start performing duties, or the notaries cannot complete performing their duties due to reasons caused by the applicants or persons preset , the notaries shall charge for half of the notarial fees stipulated by this Act . However, the fee charge according to this Article shall not exceed NTD$5,000."
+		},
+		{
+			"number": 12700,
+			"content": "When applicants or other legally interested persons apply for inspection of documents in the file of notarial deeds or deeds of attestation, the fee shall be NTD$ 200 per inspection."
+		},
+		{
+			"number": 12800,
+			"content": "When applying for transcriptions, photocopies or excerpt copies of notarial deeds, or deeds of attestations or ancillary documents, the fee shall be NTD $200 for each copy. For each copy which exceeds 6 pages, the charge per additional page will be NTD$ 5.\r\nNotaries shall charge a translation  fee of NTD $100 to $400 for each 100 words. The Judicial Yuan shall determine the criteria for notaries' assessment of the translation fee by regulation. A fraction of less than 100 words shall be considered as 100 words for the purpose of fee assessment.\r\nThe Code of Civil Procedure shall apply mutatis mutandis to the assessment of following expenses: the cost of postage and telegrams, freight costs, expenses for publication in official gazettes or newspapers, expenses for serving notarial documents, travel expenses of court notaries and their clerks incurred when performing their duties, travel expenses of civil notaries and their assistants incurred during the execution of notarial duties, and daily fees and travel expenses of expert witnesses and interpreters."
+		},
+		{
+			"number": 12900,
+			"content": "The Judicial Yuan may increase or decrease notarial fees charged by orders due to changing circumstances. The maximum change is a one-half decrease or a ten times increase, according to the situation."
+		},
+		{
+			"number": 13000,
+			"content": "The purposes of the Notary Associations are to promote the development of theory and practice of notarization, and to establish standards of ethics, as well as to further the common interests of the civil notaries, and to conduct learning, instruction, monitoring and disposal of other commonly related issues."
+		},
+		{
+			"number": 13100,
+			"content": "The Notary Associations are juridical persons. ."
+		},
+		{
+			"number": 13200,
+			"content": "The Notary Associations shall be organized by civil notaries.\r\nExcept for attorney notaries, all civil notaries shall join the notary association. Memberships in the Notary Associations are a right for all duly licensed civil notaries.\r\nCourt notaries and attorney notaries may join District Notary Associations in the jurisdiction of the district court where they are registered as sustaining members."
+		},
+		{
+			"number": 13300,
+			"content": "The Notary Associations are comprised of the District Notary Associations and the National Confederated Notary Associations.\r\nWhen there are 9 or more civil notaries registered with any district court or its subdivisions registered with the same High Court or the High Court’s branches, the notaries so registered are required to form a District Notary Association within the jurisdiction of the High Court or its branch. When there are fewer than 9 civil notaries, those notaries shall join the District Notary Association in the jurisdiction of the High Court or branch closest to them, or form a Multi-Jurisdiction District Notary Association in operation with civil notaries from a contiguous District.\r\nThe National Confederated Notary Association shall be initiated by a proposal raised by no less than 3 District Notary Associations, and agreed to by more than half of all District Notary Associations. The National Notary Association headquarters shall be located in the capital of the R.O.C.\r\nAll District Notary Associations shall join the National Confederated Notary Associations as members.\r\nThere shall be only one notary association organized within a single national or district jurisdiction."
+		},
+		{
+			"number": 13400,
+			"content": "Notary Associations shall charter directors and supervisors. Meetings of the members of the Notary Associations shall elect both the directors and supervisors.\r\n1. For a District Notary Association, there shall be between 3 and 11 directors and between 1 and 3 Supervisors;\r\n2. For the National Confederated Notary Association, there shall be between 5 and 17 directors and between 1 and 5 supervisors.\r\nThe number of directors stipulated in the preceding paragraph shall not exceed half of its membership; the number of supervisors shall not exceed one-third of the number of directors.\r\nThe Notary Associations may elect alternate directors and supervisors. The number of alternate directors and supervisors shall not exceed one third of the number of directors and supervisors.\r\nIf there are more than three directors or supervisors, they may nominate managing directors or supervisors from among themselves separately. The number of managing directors and managing supervisors shall not exceed one third of the seats of the association’s directors or supervisors. One of the managing directors shall be elected as board chairman by the entire director membership. In the case that an association has no managing directors, the board of directors shall elect a chairman of the board from among the entire director membership.\r\nThe terms of office of directors or supervisors shall be three years, but they are eligible for re-election. The chairman of the board of directors shall only be re-elected once."
+		},
+		{
+			"number": 13500,
+			"content": "The National Confederated Notary Association shall consist of all District Notary Associations. Each District Notary Association shall select representatives to attend the representative meetings of the National Confederated Notary Association, and exercise the rights of the member associations. The number of representatives sent by each District Notary Association shall be stipulated in the charter of the National Confederated Notary Association. The ratio of the number of representatives of each District Notary Association within all associations shall be relative to the number of members of each association."
+		},
+		{
+			"number": 13600,
+			"content": "District Notary Associations shall enact their charters, and report to the High Courts or its branches where the association is located to approve  the charter. The High Court or its branches shall transfer the report to competent local social administrative authorities for filing after approving  the charter. The same procedure shall be followed when they amend their charter.\r\nThe National Confederated Notary Association shall enact its charter, and report the charter to the Judicial Yuan for approval . It shall file its charter with competent central administrative authorities. The same procedure shall be followed when the National Confederated Notary Association amends its charter."
+		},
+		{
+			"number": 13700,
+			"content": "Charters of District Notary Associations shall specifies the following  entries :\r\n1. The name and the site of the association;\r\n2. The district where it registered;\r\n3. The organization of the association;\r\n4. Rules for admission and withdrawal/forfeit of membership;\r\n5. Rights and obligations of its members;\r\n6. The number of directors’ and supervisors’ seats; also their duties, authorities, terms and process of election; and dismissal of directors and supervisors;\r\n7. The procedure for convening meetings of members, meetings of directors, and meetings of supervisors; also the method of adopting resolutions of previous meetings;\r\n8. Expenditure and accounting;\r\n9. The procedure for amending its charter; and\r\n10. Other clauses necessary for the functioning of the District Notary Association.\r\nThe charters mentioned in the preceding paragraph may also specify the establishment and usage of a mutual assistance fund for the notaries."
+		},
+		{
+			"number": 13800,
+			"content": "The general members' meeting of each District Notary Association shall be convened at least once each year. The meeting shall be convened by the chairman of the board of directors. If the chairman of the board of directors fails to convene the meeting, each supervisor may convene the general members’ meeting.\r\nIf one fifth of the association's membership specifies a purpose and reasons, then requests to convene a members' meeting, the chairman of the board of directors shall convene it.\r\nIf the board of directors fails to convene a members’ meeting within one month after the filing of the request under the preceding paragraph, the proposing members may, after obtaining an approval from the court, convene a members’ meeting on their own.\r\nExcept as otherwise formulated in the charter, a notice to convene a members’ meeting shall be given to each member no later than 30 days prior to the scheduled meeting date.\r\nThe cause(s) or subject(s) of a members’ meeting to be convened shall be specified in the notice to be given to members."
+		},
+		{
+			"number": 13900,
+			"content": "The competent authority of District Notary Associations shall be local social administrative agencies. Nevertheless, the related business of a District Notary Association shall be guided and supervised by the High Court or its branches to which  the National Confederated Notary Association is registered.\r\nThe competent authority of the National Confederated Notary Association shall be the central social administrative agency. Nevertheless, the related business of the National Confederated Notary Association shall be guided and supervised by the Judicial Yuan."
+		},
+		{
+			"number": 14000,
+			"content": "Prior notice of District Notary Associations’ meetings shall be made to the competent local social administrative authorities, and to the High Court or its branches to which the District Notary Association is registered.\r\nPrior notice of the National Confederated Notary Association’s meetings shall be made to the competent central administrative authority and to the Judicial Yuan.\r\nRepresentatives from agencies having lawful regulatory authority over District Notary Associations and the National Confederated Notary Association may be present at meetings mentioned in the prior two paragraphs."
+		},
+		{
+			"number": 14100,
+			"content": "District Notary Associations shall report the following matters to the competent local social administrative authorities and to the High Court or its branches to which the District Notary Association is registered:\r\n1. Complete membership rolls, including the admission of new members and withdrawal of members;\r\n2. Results of directors’ and supervisors’ board elections including names of all board members;\r\n3. Dates, places and minutes of proceedings of all official meetings, including General Meetings, Executive Board Meetings, and Supervisor Board Meetings;\r\n4. The contents of motions and resolutions.\r\nThe High Court or its branches to which the District Notary Association is registered shall forward the reports to the Judicial Yuan for future reference upon receipt of such reports.."
+		},
+		{
+			"number": 14200,
+			"content": "The National Confederated Notary Association shall set forth the Ethical Rules of Civil Notaries for approval at its General Members Meeting. Upon passage, the Ethical Rules of Civil Notaries shall be forwarded to the Judicial Yuan for future reference. The same procedure shall be followed when the National Confederated Notary Association amends the Ethical Rules of Civil Notaries."
+		},
+		{
+			"number": 14300,
+			"content": "A resolution of the general members’ meeting of a District Notary Association requires the attendance of more than one half of the members, and the consent of more than one half of the attendees. However, the following matters may be resolved only with the consent of not less than two-thirds of the attendees:\r\n1. Enactment of and amendment to the charter.\r\n2. Recall of a director, supervisor or a member’s representative of a District Notary Association in the National Confederated Notary Association.\r\n3. Disposal of properties.\r\n4. Other important matters related to the rights and obligations of the members."
+		},
+		{
+			"number": 14400,
+			"content": "Where a Notary Association has acted or reached resolutions in violation of a statute or its charter, the Judicial Yuan or competent social administrative agencies may impose the following sanctions:\r\n1. Warning;\r\n2. Revocation of the resolution at issue; or\r\n3. Intervention.\r\nSanctions of “warning” or “revocation of the resolution at issue” are also enforceable over the District Notary Associations by the High Courts or its branches to which they are registered."
+		},
+		{
+			"number": 14500,
+			"content": "The District Notary Associations shall maintain malpractice liability insurance coverage for their civil notary members, in order to ensure that victims can acquire compensation from the malpractice liabilities of civil notaries which are not covered by the civil notaries’ own mandatory  malpractice liability insurance. Aforementioned mandatory malpractice liability insurance is stipulated in Article 67 of this Act.\r\nThe Judicial Yuan shall issue an order to determine the individual minimum amount of insurance coverage for each insured risk of the Association’s members in the insurance contract stipulated in the preceding paragraph according to the situation’s needs. However, the insurer may limit the amount of total insurance compensation for the Association’s members to no more than four times as much as the determined minimum coverage for the given insurance year."
+		},
+		{
+			"number": 14600,
+			"content": "Article 137, Article 138, paragraph 1 of Article 141, and Article 143 shall apply mutatis mutandis to the National Confederated Notary Association."
+		},
+		{
+			"number": 14700,
+			"content": "Any person who falsely poses as a notary or candidate notary and exercises functions and power as such shall be sentenced to imprisonment for not more than three years, or short-term imprisonment; in lieu thereof, or in addition thereto, a fine of not more than NT$300,000 may be imposed."
+		},
+		{
+			"number": 14800,
+			"content": "A civil notary or candidate notary who lends or allows the use of his/her office, certificate or badges to a person not licensed to perform their notarial affairs shall be subject to imprisonment  for not more than  two years, or short-term imprisonment; in lieu thereof, or in addition thereto, a fine of not more than NT$150,000 may be imposed."
+		},
+		{
+			"number": 14900,
+			"content": "Any person who signs an affidavit according to Article 102 of this Act and makes a false statement on a matter material to the content and tenor of an attested private document shall be subject to imprisonment for not more than  one year , or short-term imprisonment; in lieu thereof a fine of not more than NT$30,000 may be imposed."
+		},
+		{
+			"number": 15000,
+			"content": "Overseas consular officials may perform notarial acts in their places of posting according to authorizing laws and rules.\r\nWhen personnel referred to in the preceding paragraph perform  notarial acts, provisions of this Act shall apply mutatis mutandis. Overseas consular officials may not make notarial deeds stipulated in Article 13 of this Act.\r\nRules of authorization mentioned in the preceding paragraph shall be promulgated by the Judicial Yuan and the Executive Yuan."
+		},
+		{
+			"number": 15100,
+			"content": "The enforcement rules of this Act shall be promulgated by the Judicial Yuan."
+		},
+		{
+			"number": 15200,
+			"content": "This Act shall take effect two years from promulgation.\r\nAmendments to this Act shall take effect from the date of promulgation, except that the amendments of Articles 26, 33, and 79, amended on December 15, 2009, shall take effect on November 23, 2009."
+		}
+	]
+}

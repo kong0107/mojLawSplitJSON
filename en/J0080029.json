@@ -1,0 +1,70 @@
+{
+	"pcode": "J0080029",
+	"LawLevel": "命令",
+	"EngLawName": "Regulations on Businesses Electronically Processing the Accounting Data",
+	"LawName": "商業使用電子方式處理會計資料辦法",
+	"EngLawModifiedDate": "20190613",
+	"histories": [
+		"Promulgated on September 11, 1996",
+		"Amended on November 29, 2006",
+		"Amended on June 13, 2019"
+	],
+	"articles": [
+		{
+			"number": 100,
+			"content": "This Regulation is enacted according to the paragraph 1 of Article 40 of Business Entity Accounting Act."
+		},
+		{
+			"number": 200,
+			"content": "The following terms are used in this regulation with the meanings specified:\r\n1.Accounting data: Including accounting documents, account books, account items and financial statements, etc.\r\n2.Data storage medium: The disks, magnetic tape, CDs, IC chips, computers, automatic machines or devices,or other medium used to store accounting data when processing accounting affairs electronically.\r\n3.Accounting software: The application programs used for processing accounting data."
+		},
+		{
+			"number": 300,
+			"content": "Business entities shall set up internal control when processing accounting data electronically to ensure the hardware, software, data storage medium and accounting data safe, correct, and complete.\r\nThe internal controls mentioned in the previous paragraph shall regulate the following matters in written form:\r\n1.Appropriate division of duties.\r\n2.Management and supervision of the use rights of accounting software and data files.\r\n3.Authorization and supervision of the change of accounting software.\r\n4.Verification of accounting data input, processing and output.\r\n5.Storage and maintenance of the data backup."
+		},
+		{
+			"number": 400,
+			"content": "The procedures for processing accounting data electronically are as follow:\r\n1.Get or give the source document.\r\n2.Input and verify the accounting data.\r\n3.Prepare the bookkeeping voucher, account books, and financial statements, etc."
+		},
+		{
+			"number": 500,
+			"content": "The Business Business entities processing accounting data electronically, the authorization for input accounting data shall be in writing or electronic form. The signed or stamped of the responsible person, manager, host and accounting staff in the bookkeeping voucher and account books can be replaced by control program that set by authorization password."
+		},
+		{
+			"number": 600,
+			"content": "When processing accounting data electronically, if errors are found, they should be corrected after review, and make a record."
+		},
+		{
+			"number": 700,
+			"content": "The accounting documents, account books and financial statements of business entities, can be output electronically or store by data storage medium."
+		},
+		{
+			"number": 800,
+			"content": "Business entities processing accounting data electronically, their financial statements shall accordance with Regulation on Business Entity Accounting Handling."
+		},
+		{
+			"number": 900,
+			"content": "All the accounting documents in the data storage medium, except those which should be permanently kept or which are related to unsettled accounting events, must be kept for at least five years after the completion of annual closing procedures.\r\nAll the account books and financial statements in the data storage medium must be kept for at least ten years after the completion of annual closing\r\nprocedures; but those unsettled accounting matters are not limited to this."
+		},
+		{
+			"number": 1000,
+			"content": "Business entities processing accounting data electronically, should prepare accounting data processing manual and update with changes in processing operations.\r\nThe accounting data processing manual must keep safely when the relevant manager or handling accountant dismissed or changing their duties, they\r\nshould transfer it."
+		},
+		{
+			"number": 1100,
+			"content": "The accounting data processing manual mentioned in the previous article should include the following items:\r\n1.The operation procedure for the processing of accounting data electronically.\r\n2.The format of input and output the data.\r\n3.The accounting data control methods, include the accounting data input, processing, output and storage.\r\n4.The code number and Chinese name comparison table of the account items.\r\n5.The operation procedure of wrong data.\r\n6.The procedure of data backup and recovery."
+		},
+		{
+			"number": 1200,
+			"content": "The accounting software used by the business entities should include the following basic functions :\r\n1.Create the file of the account items.\r\n2.Log in the bookkeeping voucher.\r\n3.Inspect and control the accounting data.\r\n4.Posting the accounting journal.\r\n5.Display and print of various accounting books, forms and financial statements."
+		},
+		{
+			"number": 1300,
+			"content": "Business entities processing accounting data electronically should audit its accounting processing system periodically."
+		},
+		{
+			"number": 1400,
+			"content": "This Regulation shall become effective from the date of issuance."
+		}
+	]
+}

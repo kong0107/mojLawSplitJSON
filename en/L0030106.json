@@ -1,0 +1,417 @@
+{
+	"pcode": "L0030106",
+	"LawLevel": "法律",
+	"EngLawName": "Medical Devices Act",
+	"LawName": "醫療器材管理法",
+	"EngLawModifiedDate": "20200115",
+	"histories": [
+		"Full text including 85 articles formulated and promulgated on January 15, 2020."
+	],
+	"divisions": [
+		{
+			"type": "chapter",
+			"number": 100,
+			"title": "General Provisions",
+			"start": 100,
+			"end": 1200
+		},
+		{
+			"type": "chapter",
+			"number": 200,
+			"title": "Management of Manufacturing and Sale",
+			"start": 1300,
+			"end": 2400
+		},
+		{
+			"type": "chapter",
+			"number": 300,
+			"title": "Listing and Registration and Market Approval of Medical Devices",
+			"start": 2500,
+			"end": 3600
+		},
+		{
+			"type": "chapter",
+			"number": 400,
+			"title": "Management of Medical Device Clinical Trials",
+			"start": 3700,
+			"end": 3900
+		},
+		{
+			"type": "chapter",
+			"number": 500,
+			"title": "Management of Medical Device Advertisements",
+			"start": 4000,
+			"end": 4600
+		},
+		{
+			"type": "chapter",
+			"number": 600,
+			"title": "Supervision and Prevention",
+			"start": 4700,
+			"end": 5000
+		},
+		{
+			"type": "chapter",
+			"number": 700,
+			"title": "Investigation and Interdiction",
+			"start": 5100,
+			"end": 5900
+		},
+		{
+			"type": "chapter",
+			"number": 800,
+			"title": "Penal Provisions",
+			"start": 6000,
+			"end": 7400
+		},
+		{
+			"type": "chapter",
+			"number": 900,
+			"title": "Supplementary Provisions",
+			"start": 7500,
+			"end": 8500
+		}
+	],
+	"articles": [
+		{
+			"number": 100,
+			"content": "This Act is established to ensure the safety, effectiveness, and quality of medical devices to be used by citizens, to promote the health of citizens, and to improve management of medical devices."
+		},
+		{
+			"number": 200,
+			"content": "For purposes of this Act, the term \"competent authority\" shall mean the Ministry of Health and Welfare at the central government level, the municipal governments at the municipal level, and the county/city governments at the county/city level."
+		},
+		{
+			"number": 300,
+			"content": "The term \"medical devices\", as used in this Act, shall refer to instruments, machines, apparatus, materials, software, reagents for in vitro use, and related articles thereof, whose design and use achieve one of the following primary intended actions in or on the human body by other than pharmacological, immunological, metabolic, or chemical means:\r\n1. Diagnosis, treatment, alleviation, or direct prevention of human diseases.\r\n2. Modification or improvement of the structure and function of human body.\r\n3. Control of conception.\r\nRegulations governing the categories, risk classification, items, determination principles, and other related matters shall be established by the central competent authority.\r\nAssistive devices covered by Subparagraph 2 of Paragraph 1 that are non-invasive, not expected to cause harm to the health of human body, and used without the assistance of medical personnel may be notified to the central competent authority for approval and exempt from being listed as medical devices of the preceding paragraph.\r\nAssistive devices set forth in the preceding paragraph refer to appliances, equipment, instruments, and software that assist physically or mentally disabled persons to improve or maintain physical function and structure, to facilitate activity and participation, or to provide convenience to the attendance of their caregivers."
+		},
+		{
+			"number": 400,
+			"content": "The term \"investigational medical devices\", as used in this Act, shall refer to medical devices that are used solely in clinical trials and whose therapeutic effect and safety have not been verified."
+		},
+		{
+			"number": 500,
+			"content": "The term \"medical device clinical trials\", as used in this Act, shall refer to the systematic studies on the safety or effectiveness of medical devices carried out in human subjects by medical care institutions or institutions announced by the central competent authority (hereinafter referred to as \"clinical trial institutions\")."
+		},
+		{
+			"number": 600,
+			"content": "The term \"medical device advertisements\", as used in this Act, shall refer to the act of publicizing the therapeutic effect of medical devices by means of communications for the purpose of soliciting and promoting the sale thereof.\r\nInterviews, news reports, or propaganda containing information that implies or suggests therapeutic effect of medical devices for the purpose of soliciting and promoting the sale thereof shall be regarded as medical device advertisements."
+		},
+		{
+			"number": 700,
+			"content": "The term \"labels\", as used in this Act, shall refer to the words, graphics, or symbols displayed on a medical device or the packaging thereof.\r\nThe term \"instructions\", as used in this Act, shall refer to the related materials that describe information on product safety, effectiveness, and use of medical devices."
+		},
+		{
+			"number": 800,
+			"content": "The term \"defective medical devices\", as used in this Act, shall refer to medical devices which fall within any of the following circumstances after inspection or testing:\r\n1. The occurrence of misdiagnosis is prompted or toxic or hazardous substances are contained, resulting in harm to the health of human body.\r\n2. The normal and reasonable use in accordance with directions indicated on the labels or instructions is liable to cause danger or harm to the health of human body.\r\n3. The duration of validity or storage life has expired.\r\n4. The performance or specification is inconsistent with the content that has been approved in registration, listed, or announced as set forth in Paragraph 2 of Article 30.\r\n5. The preservation is not in accordance with the storage conditions approved in registration.\r\n6. Foreign objects that affect product quality are mixed or packed.\r\n7. Other defects announced by the central competent authority."
+		},
+		{
+			"number": 900,
+			"content": "The term \"medical device firms\", as used in this Act, shall refer to medical device manufacturers or dealers."
+		},
+		{
+			"number": 1000,
+			"content": "The term \"medical device manufacturers\", as used in this Act, shall refer to businesses that fall into the following two types:\r\n1. Engaging in the manufacturing, packaging, labeling, sterilization, or final inspection and release of medical devices.\r\n2. Engaging in the design of medical devices and marketing the devices under their name."
+		},
+		{
+			"number": 1100,
+			"content": "The term \"medical device dealers\", as used in this Act, shall refer to businesses which engage in the wholesale, retail, import, export, rental, or repair of medical devices."
+		},
+		{
+			"number": 1200,
+			"content": "The term \"medical institutions\", as used in this Act, shall refer to institutions applied for operation by medical personnel specified in Paragraph 1 of Article 10 of the Medical Care Act in accordance with the relevant regulations of professions and occupation laws and have been approved for practice."
+		},
+		{
+			"number": 1300,
+			"content": "Unless otherwise specified, those other than medical device firms shall not engage in the business activities specified in Article 10 and Article 11.\r\nAny business with the intent to become a medical device firm shall file an application with the municipal or county/city competent authority for approval and registration, and shall start the operation only after having obtained the business permit. In case there are any changes made in the particulars registered, the firm shall apply for change of registration.\r\nMedical device firms shall manufacture, sell, or supply medical devices at the registered place. Those who set up a separate manufacturing facility or business establishment shall file a separate application for medical device firm registration in accordance with the provisions of the preceding paragraph; however, those announced by the central competent authority shall not be required to apply separately for a medical device dealer permit at the business establishment or for selling or supplying medical devices at the registered place.\r\nIf the medical device firms set forth in the second paragraph do not have any company registration or business registration, they need to submit a consent letter from the competent authority of the target business.\r\nMedical device firms set forth in the second paragraph shall join the trade association in accordance with the Industrial Group Act or Commercial Group Act."
+		},
+		{
+			"number": 1400,
+			"content": "Those applying for being registered as a medical device manufacturer may also engage in such business as wholesale, retail, export, rental, or repair of its self-manufactured medical devices that have been listed or approved, or import of raw materials for their own use, without applying for a medical device dealer permit.\r\nPharmacies may concurrently engage in the retail business of medical devices of the classes announced by the central competent authority. Those who concurrently engage in the retail business of medical devices are applicable to the provisions governing the medical device dealers set forth in this Act, but may be exempted from applying for a medical device dealer permit.\r\nMedical institutions for the necessity of conducting business may supply medical devices related to the business and may be exempted from applying for a medical device dealer permit. However, those who supply medical devices for patient use not as conducting business but for the sale or retail thereof shall nevertheless file an application for medical device firm registration in accordance with the provisions of Paragraph 2 of Article 13."
+		},
+		{
+			"number": 1500,
+			"content": "Medical device manufacturers and dealers engaging in the import or repair shall employ qualified technicians according to the categories of medical devices.\r\nRegulations governing the categories of medical devices, qualifications and proportions of technicians, the number of hours in education and training courses referred to in the preceding paragraph, and other related matters shall be established by the central competent authority.\r\nIf qualified technicians employed by medical device manufacturers and dealers engaging in the import or repair as specified in the first paragraph cannot perform their tasks due to dismissal, resignation, or other reasons and replacements are not employed separately, the competent authority shall order the medical device manufacturers and dealers to make corrections within a time period. Those who fail to make corrections within the time period shall immediately cease the manufacture, import, or repair of medical devices."
+		},
+		{
+			"number": 1600,
+			"content": "To apply for suspension of business, medical device firms shall hand in medical device business permits and medical device licenses to the municipal or county (city) competent authority, who is to note clearly on business permit the reason and term of suspension and to return them once the resumption of business is approved. Each period of suspension shall not exceed one year.\r\nMedical device firms shall apply for resumption, continued suspension, or termination of business before the period of suspension expires. For those who fail to apply upon the expiration period and after being verified by the municipal or county (city) competent authority that no business is actually in operation at the original address, the original issuing competent authority shall cancel their related permits and licenses.\r\nWhen medical device firms apply for termination of business, medical device business permits and medical device licenses they have obtained shall be handed in at the same time for cancellation. Those which are not handed in for cancellation shall be cancelled by the original issuing competent authority.\r\nFor those who violate the provisions of this Act and are subject to suspension of business imposed by the competent authority, their permits and licenses shall be handed in, noted clearly, and returned in accordance with the provisions of the first paragraph."
+		},
+		{
+			"number": 1700,
+			"content": "Medical device firms shall not purchase or rent medical devices that have not been registered and approved or listed or are supplied by non-medical device firms."
+		},
+		{
+			"number": 1800,
+			"content": "The central competent authority may announce categories and items of specific medical devices with restriction on their sale or supply type according to the risk of using such medical devices."
+		},
+		{
+			"number": 1900,
+			"content": "For medical devices with certain risk class as announced by the central competent authority, medical device firms and medical institutions shall establish and maintain data on direct supply sources and flow of products.\r\nFor product items announced by the central competent authority, data established and maintained according to the preceding paragraph shall be reported to the central competent authority.\r\nRegulations governing the scope, methods for establishment and maintenance of data, retention period, report contents and methods referred to in the preceding two paragraphs, and other matters to be complied with shall be established by the central competent authority."
+		},
+		{
+			"number": 2000,
+			"content": "The facilities, equipment, and sanitary conditions of medical device manufacturers shall comply with the Establishment Standards for Medical Device Manufacturers.\r\nThe Establishment Standards for Medical Device Manufacturers set forth in the preceding paragraph shall be jointly prescribed by the central competent authority and central industry competent authority."
+		},
+		{
+			"number": 2100,
+			"content": "Medical device manufacturers in Subparagraph 1 of Article 10 shall carry out factory registration pursuant to the Factory Management Act, except when exemption from factory registration is allowed pursuant to the Factory Management Act, or if such manufacture, as approved by the central competent authority, is for research and development purposes."
+		},
+		{
+			"number": 2200,
+			"content": "Medical device manufacturers shall establish a medical device quality management system governing the on-site facilities, equipment, organization and personnel, production, quality control, storage, logistics, customer complaints, and other matters and shall comply with the quality management system regulations.\r\nMedical device manufacturers shall establish a medical device quality management system in accordance with the provisions of the regulations set forth in the preceding paragraph, and the manufacture may only begin after receiving a compliance inspection by the central competent authority and obtaining a manufacturing license. However, product items announced by the central competent authority shall not be required to obtain a manufacturing license.\r\nThe provisions of the preceding two paragraphs shall apply mutatis mutandis to overseas manufacturers importing medical devices, and the central competent authority shall send personnel to the premises of such overseas manufacturers for inspection on a periodic basis or as necessary.\r\nThe quality management system regulations set forth in Paragraph 1 and regulations governing the content and methods of inspection, the requirements, procedures, review, issuance, validity period, change, revocation, or cancellation of approval referred to in Paragraph 2, and other matters to be complied with shall be established by the central competent authority."
+		},
+		{
+			"number": 2300,
+			"content": "Medical device manufacturers shall not commission other manufacturers to manufacture or accept the commissioning to manufacture medical devices, unless otherwise approved by the central competent authority.\r\nMedical device dealers shall not manufacture medical devices. However, this shall not apply to those approved by the central competent authority to commission other medical device manufacturers for the manufacture.\r\nRegulations governing the application documents, product liability, contractual provisions, labeling, packaging for the commissioning of manufacture referred to in the preceding two paragraphs, and other operation related matters to be complied with shall be established by the central competent authority."
+		},
+		{
+			"number": 2400,
+			"content": "For medical devices announced by the central competent authority and their dealers, a medical device good distribution system shall be established to govern the product storage, distribution, services, personnel deployment, and other related operational matters, and shall comply with the regulations for good distribution practice of medical devices.\r\nMedical device dealers shall set up a good distribution system of medical devices in accordance with the regulations set forth in the preceding paragraph, and the wholesale, import, or export may only begin after receiving a compliance inspection by the central competent authority and obtaining a distribution license.\r\nRegulations for the good distribution practice set forth in Paragraph 1, and regulations governing the content and methods of inspection, the requirements, procedures, review, issuance, validity period, revocation, or cancellation of approval referred to in the preceding paragraph, and other matters to be complied with shall be established by the central competent authority."
+		},
+		{
+			"number": 2500,
+			"content": "For the manufacture and import of medical devices, an application shall be filed with the central competent authority for registration and market approval. No manufacture or import shall be allowed until such approval is granted and a medical device license is issued. However, the manufacture and import of product items announced by the central competent authority shall be done by means of listing.\r\nMedical devices that shall apply for registration and market approval in accordance with the preceding paragraph shall not do so by means of listing.\r\nThe import of medical devices shall be done by license holders, those who have completed the listing, or their authorized persons.\r\nIf the medical device that shall be listed in accordance with the exception of Paragraph 1 has obtained medical device license approval before this Act becomes effective, the central competent authority shall complete the listing directly, cancel the original license, and notify the original license holder."
+		},
+		{
+			"number": 2600,
+			"content": "Alteration may only be made to any of the particulars of registration and market approval or listing pertaining to any medical device designated by the central competent authority after approval of the central competent authority is obtained."
+		},
+		{
+			"number": 2700,
+			"content": "A medical device manufacture or import license is valid for a period no longer than five years starting from the date of issue. Where it is necessary to continue the manufacture or import upon expiration, a prior application shall be filed with the central competent authority for approval of license extension. Each extension shall not exceed five years. For those who fail to file an application upon the expiration period or if the extension is disapproved, the original license shall become invalid and be cancelled by the central competent authority.\r\nIn case the license set forth in the preceding paragraph can no longer be used due to stain or damage, an application shall be submitted along with the original license to the central competent authority for replacement. In case of loss, an application for re-issuance shall be filed."
+		},
+		{
+			"number": 2800,
+			"content": "Medical device firms that have completed the listing of medical devices shall file an annual declaration with the central competent authority each year. For those who fail to file a declaration within the time period, the original listing shall become invalid. This shall also apply to the medical devices subject to direct listing as stipulated in the provisions of Paragraph 4 of Article 25."
+		},
+		{
+			"number": 2900,
+			"content": "Regulations governing the following related matters shall be established by the central competent authority:\r\n1. Requirements, procedures, and review guidelines in regard to the application for registration and market approval and issuance of license or listing of medical devices in accordance with the provisions of Article 25.\r\n2. Requirements and procedures in regard to the application for alteration of the particulars of registration and market approval or listing in accordance with the provisions of Article 26.\r\n3. Procedures in regard to the application for extension, replacement, and re-issuance of licenses in accordance with the provisions of Article 27.\r\n4. Procedures in regard to the annual declaration in accordance with the provisions of the preceding article."
+		},
+		{
+			"number": 3000,
+			"content": "Medical device product items designated by the central competent authority shall comply with specific specifications and performance.\r\nThe product items, specifications, test methods, and performance of medical devices referred to in the preceding paragraph shall be announced by the central competent authority. If a test method has not been established, an internationally recognized method may be adopted; if there is no internationally recognized test method, the suitability thereof shall be demonstrated."
+		},
+		{
+			"number": 3100,
+			"content": "The central competent authority, with regard to data submitted by medical device firms for registration and market approval or listing that are information related to trade secret or business operation, shall restrict them from being made available to the public or provision. However, this shall not apply to information that is necessary for the public benefit or protection of the health of human body."
+		},
+		{
+			"number": 3200,
+			"content": "Medical device firms that manufacture or import medical devices shall attach labels in Chinese to the smallest packaging unit for sale and provide Chinese instructions before engaging in the sale, wholesale, and retail. However, this shall not apply to those announced or approved by the central competent authority due to the difficulty in compliance."
+		},
+		{
+			"number": 3300,
+			"content": "Medical device firms shall indicate the following particulars on the labels, instructions, or packaging of medical devices, as approved, registered and approved, or listed in accordance with Paragraph 2 of Article 13 and Paragraph 1 of Article 25. However, this shall not apply to those exempt from such indication as announced by the central competent authority:\r\n1. Product name.\r\n2. License number or listing number.\r\n3. Effectiveness, intended use, or indications.\r\n4. Date of manufacture and period of validity or shelf-life.\r\n5. Model number, specifications, or major components.\r\n6. Warnings, cautions, use limitations, or expected and foreseeable side effects.\r\n7. Name and address of the license holder or the person who completed the listing.\r\n8. Name and address of the manufacturer.\r\n9. Lot number or serial number.\r\n10. Other particulars that shall be indicated as announced by the central competent authority.\r\nFor specific medical devices announced by the central competent authority, the instructions set forth in the preceding paragraph may be replaced by electronic instructions.\r\nIn addition to the indication specified in the first paragraph, medical devices that are necessary to provide braille characters or other sufficient information for ease of reading as a supplementary measure shall be announced by the central competent authority."
+		},
+		{
+			"number": 3400,
+			"content": "Manufacturers exporting domestically manufactured medical devices to foreign countries may apply to the central competent authority for certificates required by the countries where such medical devices are to be exported.\r\nMedical devices set forth in the preceding paragraph may be restricted for export when the central competent authority deems that there is a concern of insufficiency to meet domestic demand.\r\nMedical devices that are approved to be manufactured for export only shall not be sold domestically. However, this shall not apply when the central competent authority deems that there is a concern over domestic demand.\r\nMedical device firms holding licenses of necessary medical devices announced by the central competent authority shall, in the case of incapable to continue to manufacture, import, or the likelihood of insufficient supply of said medical devices, report to the central competent authority at least six months in advance; and shall, if unable to report within the aforementioned period due to natural disaster or other incidents not attributable to the medical device firms, report to the central competent authority within 30 days after occurrence of such incidents.\r\nThe central competent authority may, upon receiving the report set forth in the preceding paragraph or becoming aware of the likelihood of insufficient supply of necessary medical devices, register it on a public website."
+		},
+		{
+			"number": 3500,
+			"content": "The central competent authority may grant special approval for manufacture or import of specific medical devices without the limitations set forth in Paragraph 1 of Article 25 if any of the following circumstances applies:\r\n1. For the purpose of preventing, diagnosing, or treating life-threatening or severe disability diseases, with appropriate alternative treatment not yet available domestically.\r\n2. The necessity of responding to emergency public health circumstances.\r\n3. Investigational medical devices.\r\n4. For the exclusive use as samples or gifts, or for personal use.\r\n5. Where the import thereof is for the exclusive purpose of repair, and not for circulation or sale domestically after the repair is completed.\r\n6. Where circumstances exist for incapable to continue with the manufacture, import, or for insufficient supply of licensed products that have been announced as necessary medical devices in accordance with Paragraph 4 of the preceding paragraph.\r\nRegulations governing the application requirements, review procedures, approval criteria, restrictions on supply and sale, return, and other matters to be complied with in regard to the special approval referred to in the preceding paragraph shall be established by the central competent authority."
+		},
+		{
+			"number": 3600,
+			"content": "If any of the following circumstances applies to the medical devices for which special approval for manufacture or import has been obtained as set forth in the preceding article, the central competent authority may cancel their approval and order the applicant to take action on or recall the said medical devices within a time period:\r\n1. An appropriate alternative treatment becomes available.\r\n2. The public health emergency situation is over.\r\n3. There is concern about the safety or therapeutic effect as evaluated and confirmed by the central competent authority."
+		},
+		{
+			"number": 3700,
+			"content": "Clinical trial institutions or trial sponsors shall file an application with the central competent authority and obtain its approval before initiating any clinical trial. However, this shall not apply to those that do not involve significant risks as announced by the central competent authority.\r\nClinical trial institutions implementing clinical trials of the preceding paragraph shall exercise the necessary duty of medical care, and shall obtain consent from human subjects except in the case of emergencies.\r\nRegulations governing the scope of management, operational practices, application procedures, review guidelines, avoidance of conflicts of interest, information disclosure, supervision and administration, inspection, particulars of the content of informed consent referred to in the preceding two paragraphs, and other matters to be complied with in regard to medical device clinical trials shall be established by the central competent authority."
+		},
+		{
+			"number": 3800,
+			"content": "Clinical trial institutions and trial sponsors shall report to the central competent authority when the human subject of a medical device clinical trial experiences any of the following occurrences during implementation of the clinical trial:\r\n1. Death.\r\n2. Life-threatening condition.\r\n3. Temporary or permanent disability.\r\n4. Congenital anomaly of fetus or infant of the human subject.\r\n5. Requiring hospitalization or prolonged hospitalization.\r\n6. Other complications that may result in permanent injuries.\r\nClinical trial institutions shall report to the central competent authority when the human subject experiences any of the occurrences in the preceding paragraph after termination of the clinical trial and when the occurrence is related to the clinical trial.\r\nThe reporting set forth in the preceding two paragraphs shall be made within seven days after becoming aware of the actual happening of the occurrence, and detailed investigation information shall be submitted to the central competent authority within fifteen days for recordation."
+		},
+		{
+			"number": 3900,
+			"content": "In the event that the central competent authority deems there is concern that a medical device clinical trial may cause harm to the health of human body, it may order trial institutions to suspend or terminate the trial or to adopt other necessary measures."
+		},
+		{
+			"number": 4000,
+			"content": "Businesses other than medical device firms are not allowed to engage in advertising of medical devices."
+		},
+		{
+			"number": 4100,
+			"content": "In the event that a medical device firm wishes to publish or broadcast a medical device advertisement, the license holder or the person who has completed the listing shall, before publishing or broadcasting, submit all texts, pictures, or speeches constituting the advertisement to the municipal competent authority if the medical device firm is located in a municipality, or to the central competent authority if it is located in a county (city), for approval.\r\nDuring the approved period of publishing or broadcasting, no modification or alteration of the approved content of a medical device advertisement shall be allowed.\r\nIf the original approving authority finds that the content of an approved medical device advertisement or the way it is published or broadcast violates the provisions of the preceding paragraph or may cause harm to the health of human body, it shall order the medical device firm to immediately stop publishing or broadcasting the said advertisement or to make corrections within a time period. For those who fail to make corrections within the time period, their approval shall be cancelled.\r\nThe authority imposing the disciplinary action set forth in the preceding paragraph shall notify with a copy to the mass media enterprises publishing or broadcasting the advertisement of the action."
+		},
+		{
+			"number": 4200,
+			"content": "No mass media enterprise shall publish or broadcast any medical device advertisement which has not been approved by the central or municipal competent authority, whose content is different from the approved content, which has been cancelled, or for which an order has been issued to immediately stop publishing or broadcasting or to make corrections within a time period but no corrections have been made.\r\nA mass media enterprise that is commissioned to publish or broadcast an advertisement shall preserve the name, number of the identification document or business registration certificate, domicile, firm, or business office, telephone number, and other relevant information for six months following the last date of advertisement, and shall not evade, impede, or refuse any request by the competent authority for such information."
+		},
+		{
+			"number": 4300,
+			"content": "The validity period for a medical device advertisement approval document shall be three years, starting from the date of issue. Where it is necessary to continue advertising upon expiration, an application for extension shall be filed with the original approving authority six months before the date of expiration. Each period of extension shall not exceed three years."
+		},
+		{
+			"number": 4400,
+			"content": "In the event that the medical devices shall be used by medical personnel as stated in the instructions or announced by the central competent authority, the advertisements of such medical devices shall be published only in the medical publications, mass media, or related medical academic activities that are for the exclusive participation of medical personnel."
+		},
+		{
+			"number": 4500,
+			"content": "Medical device advertisements shall not be made in the following manners:\r\n1. To be publicized in the name of others.\r\n2. To warrant the effectiveness or performance by making use of books and periodicals, documents, or data.\r\n3. To be publicized by means of interviews or news reports.\r\n4. To be publicized by any other improper means."
+		},
+		{
+			"number": 4600,
+			"content": "Labeling or promotion of therapeutic effect for non-medical devices shall not be allowed. However, this shall not apply if it is otherwise provided in other laws."
+		},
+		{
+			"number": 4700,
+			"content": "The central competent authority may designate product items and specific time periods for medical devices that have been approved for manufacture or import or have completed the listing, and order medical device firms to monitor their safety according to the announced or approved safety monitoring plan. Medical institutions shall provide medical device firms with relevant safety monitoring data.\r\nMedical device firms set forth in the preceding paragraph shall prepare and submit safety monitoring reports to the central competent authority periodically. For those who fail to submit safety monitoring reports periodically or whose products have safety concern as deemed by the central competent authority, or if the methods and content for implementation of the safety monitoring plan do not comply with the original announcement or approval, they may be ordered to make corrections within a time period or extend the monitoring period. When necessary, they may be ordered to suspend the manufacture, import, or sale. If the circumstances are severe, their licenses or listings may be directly cancelled.\r\nRegulations governing the methods of submission, time period, contents, formats, restriction and maintenance of the collected data, monitoring period, evaluation referred to in the preceding two paragraphs, and other related matters in regard to the safety monitoring data and reports shall be established by the central competent authority."
+		},
+		{
+			"number": 4800,
+			"content": "Medical device firms or medical institutions shall report any serious adverse events caused by medical devices to the central competent authority.\r\nRegulations governing the conditions, reporting methods, time period, contents, and other matters to be complied with in regard to the serious adverse events referred to in the preceding paragraph shall be established by the central competent authority."
+		},
+		{
+			"number": 4900,
+			"content": "Upon the finding that a medical device is likely to cause harm to the health of human body, the holders of the medical device license or those who have completed the listing shall immediately and proactively report to the central competent authority and undertake corrective and preventive measures.\r\nThe corrective and preventive measures set forth in the preceding paragraph include preparation of advisory contents, replacement of parts and accessories, product testing, suspension of use, product recall, or other necessary measures, and shall be disclosed in a reasonable manner for awareness of medical institutions, medical device firms, and users."
+		},
+		{
+			"number": 5000,
+			"content": "If there is concern about the safety or therapeutic effect of medical devices that have been approved for manufacture or import or have completed the listing, as re-evaluated and confirmed by the central competent authority during the period of validity of their manufacture or import license or listing, medical device firms may be ordered to make corrections within a time period. When necessary, they may be ordered to withdraw, recall, or suspend the manufacture, import, or sale. For those who fail to make corrections within the time period or if there is a serious safety concern, their licenses or listings may be cancelled."
+		},
+		{
+			"number": 5100,
+			"content": "The competent authority may send officials to inspect the facilities and relevant business operations of medical device firms or medical institutions, and may randomly test their medical devices. Those being inspected shall not evade, impede, or refuse. The quantity of test samples to be taken shall be limited to the extent sufficient for use in testing, and receipts shall be given to business operators."
+		},
+		{
+			"number": 5200,
+			"content": "Medical device product items designated by the central competent authority shall only be released after passing random inspections or tests at the time of import.\r\nRegulations governing the product items and the items, modes, methods, scope, fees for random inspection and testing of medical devices referred to in the preceding paragraph, and other related matters shall be established by the central competent authority."
+		},
+		{
+			"number": 5300,
+			"content": "The municipal or county (city) competent authority shall conduct a census of medical device firms at least every two years, to which the medical device firms shall not evade, impede, or refuse."
+		},
+		{
+			"number": 5400,
+			"content": "If the central competent authority finds that a medical device is likely to cause serious harm to the health of human body, it shall immediately prohibit its manufacture or import, and may cancel its medical device license or listing. As for such medical device that has been manufactured or imported, its export, sale, supply, transport, storage, brokerage, transfer, or display with the intent to sell shall be prohibited for a time period. Such medical device may be confiscated and destroyed if necessary."
+		},
+		{
+			"number": 5500,
+			"content": "Regarding medical devices suspected to have not been registered and approved or listed or to be defective medical devices, for medical devices that have not been registered and approved or listed, the municipal or county (city) competent authority shall first place them in confinement at the site and take samples for inspection or testing before taking further actions. For defective medical devices, the authority may first place them in confinement at the site and take samples for inspection or testing before taking further actions. As for those which have caused serious harm, they shall be confiscated and destroyed after reporting for approval to the central competent authority.\r\nThe quantity of the samples set forth in the preceding paragraph shall be limited to the extent sufficient for use in inspection or testing, and receipts shall be given to business operators.\r\nFor medical devices set forth in Paragraph 1, the competent authority may notify or announce the withdrawal, cessation of use, or suspension of the manufacture, import, or sale thereof."
+		},
+		{
+			"number": 5600,
+			"content": "In the case of any defective medical device or medical device that has not been registered and approved or listed, the following measures shall be undertaken according to the circumstances in addition to the actions to be taken under applicable provisions of this Act:\r\n1. For those that manufacture or import medical devices that have not been registered and approved or listed or that use the licenses of others, the original approving authority may cancel all or part of their medical device licenses or listings, medical device business permits, medical device manufacturing licenses, or registered particulars regarding the company, business, or factory.\r\n2. For those that sell or display with the intent to sell medical devices that have not been registered and approved or listed, a sales ban shall be imposed. In the case of repeated violation, their business operations may be suspended.\r\n3. For those that manufacture, import, sell, or display with the intent to sell defective medical devices, in the case of a serious violation or repeated violation, the original approving authority may cancel all of their medical device licenses or listings and medical device manufacturing licenses, or may suspend their business operations.\r\nThe competent authority may announce the name, address, and responsible person of firm or business subject to the disciplinary actions set forth in the preceding paragraph, name of medical devices, and circumstances of violation."
+		},
+		{
+			"number": 5700,
+			"content": "In case the defective medical devices seized are domestically manufactured and may, after inspection or testing, still be usable through modification, the municipal or county (city) competent authority shall assign officials to supervise the original manufacturer in carrying out the modification within a time period. Those that cannot be modified or are not modified within the time period shall be confiscated and destroyed. Imported defective medical devices shall be immediately placed in confinement, and the municipal or county (city) competent authority shall order the original importer to return and export such devices within a time period. Those which are not returned within the time period shall be confiscated and destroyed.\r\nIn case any defective medical device set forth in Subparagraph 6 of Article 8 is seized, the municipal or county (city) competent authority shall order the medical device firm that manufactures or imports the device to correct its quality management system within a time period according to the severity of its circumstances.\r\nThe provisions of Paragraph 1 shall apply mutatis mutandis to medical devices that have been determined to be manufactured or imported without registration and market approval or listing."
+		},
+		{
+			"number": 5800,
+			"content": "If any of the following circumstances is found to apply to any medical device, the medical device manufacturing or importing firm shall immediately notify medical institutions, other medical device firms, and pharmacies, and shall recall and handle marketed and stocked products within the specified time period:\r\n1. Where a license has been obtained or listing has been completed, but its manufacture or import is prohibited by announcement.\r\n2. Where the medical device is defective or has not been registered and approved or listed.\r\n3. Where the finding after inspection, testing, or other risk assessment is that there is likelihood to cause harm to the health of human body for users.\r\n4. Where the medical device manufacturing license has been cancelled by the central competent authority, or the medical device is manufactured or imported during the period when the medical device manufacturing license is not valid.\r\n5. Where the manufacture or import of medical devices violates the provisions of Articles 26, 32, or 33.\r\n6. Other circumstances in which a necessary recall is announced by the central competent authority.\r\nWhen the medical device manufacturing or importing firm recalls medical device of the preceding paragraph, medical institutions, other medical device firms, and pharmacies shall give their cooperation.\r\nRegulations governing the classification, approaches for recall operation, handling methods, and other matters to be complied with in regard to medical devices required to be recalled of Paragraph 1, shall be established by the central competent authority."
+		},
+		{
+			"number": 5900,
+			"content": "The competent authority shall not only strictly keep confidential the identity information of those reporting defective medical devices that have been seized or medical devices that have not been registered and approved or listed, but also provide them incentives at its discretion."
+		},
+		{
+			"number": 6000,
+			"content": "Any person who manufactures or imports the defective medical devices set forth in Subparagraph 1 of Article 8 shall be subject to imprisonment for not more than five years, detention, or in addition thereto a fine of not more than NT$50,000,000.\r\nAny person who knowingly sells, supplies, transports, stores, engages in brokerage of, transfers, or displays with the intent to sell the defective medical devices set forth in the preceding paragraph shall be subject to imprisonment for not more than three years, detention, or in addition thereto a fine of not more than NT$10,000,000.\r\nAny person who commits the aforementioned offence set forth in Paragraph 1 by negligence shall be subject to imprisonment for not more than three years, detention, or in addition thereto a fine of not more than NT$10,000,000.\r\nAny person who commits the aforementioned offence set forth in Paragraph 2 by negligence shall be subject to detention or a fine of not more than NT$1,000,000."
+		},
+		{
+			"number": 6100,
+			"content": "Any person who uses, without authorization or as an infringement, the name, instructions, or labels of another legal medical device shall be subject to imprisonment for not more than five years, detention, or in addition thereto a fine of not more than NT$20,000,000.\r\nAny person who knowingly imports, sells, supplies, transports, stores, engages in brokerage of, transfers, or displays with the intent to sell the medical devices set forth in the preceding paragraph shall be subject to imprisonment for not more than two years, detention, or in addition thereto a fine of not more than NT$10,000,000."
+		},
+		{
+			"number": 6200,
+			"content": "Any person who violates Paragraph 1 of Article 25 and manufactures or imports medical devices without approval, or who violates Paragraph 2 of Article 25 and applies for listing instead of the required registration and market approval shall be subject to imprisonment for not more than three years, detention, or in addition thereto a fine of not more than NT$10,000,000.\r\nThis shall also apply to any person who knowingly sells, supplies, transports, stores, engages in brokerage of, transfers, or displays with the intent to sell the medical devices set forth in the preceding paragraph."
+		},
+		{
+			"number": 6300,
+			"content": "In the event that the representative of a legal entity, or an agent, employee, or any other personnel of a legal entity or a natural person commits any of the offences set forth in Article 60 through the preceding article while performing his/her duty, the offender shall be punished in accordance with the provisions of all of the articles. Moreover, the said legal entity or natural person shall also be subject to up to ten times of the fine as set forth in all of the articles."
+		},
+		{
+			"number": 6400,
+			"content": "Any person who manufactures or imports the defective medical devices set forth in Subparagraphs 2 through 5 of Article 8 shall be subject to a fine of not less than NT$60,000 but not more than NT$50,000,000.\r\nAny person who sells, supplies, transports, stores, engages in brokerage of, transfers, or displays with the intent to sell the defective medical devices set forth in the preceding paragraph shall be subject to a fine of not less than NT$30,000 but not more than NT$20,000,000."
+		},
+		{
+			"number": 6500,
+			"content": "Any person violating the provisions of Article 46 and labeling or promoting non-medical devices as having therapeutic effects shall be subject to a fine of not less than NT$600,000 but not more than NT$25,000,000.\r\nA fine of not less than NT$200,000 but not more than NT$5,000,000 shall be imposed when any of the following circumstances occurs:\r\n1. Violating the provisions of Article 40 and engaging in advertising of medical devices without being a medical device firm.\r\n2. Violating the provisions of Paragraph 1 of Article 41 and failing to apply for approval or forward approval documents to mass media enterprises for verification before publishing or broadcasting a medical device advertisement.\r\n3. Violating the provisions of Paragraph 2 of Article 41 and modifying or altering the originally approved contents of a medical device advertisement without approval.\r\n4. Violating the restrictions on the extent of publishing or broadcasting medical device advertisements specified in Article 44.\r\n5. Where medical devices are advertised in any of the manners set forth in the provisions of Article 45.\r\n6. Where a medical device firm fails to give a notice or recall medical devices within the specified time period under any of the circumstances set forth in Subparagraphs 1 through 3 of Paragraph 1 of Article 58."
+		},
+		{
+			"number": 6600,
+			"content": "Any mass media enterprise which violates the provisions of Paragraph 1 of Article 42 governing the publishing or broadcasting of advertisements shall be subject to a fine of not less than NT$200,000 but not more than NT$5,000,000, and shall be ordered to stop publishing or broadcasting the advertisements. For those who fail to stop publishing or broadcasting, a consecutive sentence shall be imposed for each violation until the said advertisements are no longer published or broadcast.\r\nAny mass media enterprise which violates the provisions of Paragraph 2 of Article 42 and fails to preserve the information of the firm that commissions the advertisement, or evades, impedes, or refuses any request by the competent authority for such materials shall be subject to a fine of not less than NT$60,000 but not more than NT$300,000. A consecutive sentence shall also be imposed for each violation.\r\nWhen imposing the disciplinary actions set forth in Paragraph 1, the municipal or county (city) competent authority shall notify the local competent authority or the competent authority of the target business for handling in accordance with applicable regulations."
+		},
+		{
+			"number": 6700,
+			"content": "In the case of violation of the provisions of Chapter V of this Act, punishments shall be imposed in accordance with the provisions of this chapter, and the name of the offender, name of the medical device, and circumstances of committing the violation may be announced. In addition, the following disciplinary actions shall be imposed according to the severity of the violation:\r\n1. Cancelling the medical device license or listing, and forbidding applications to use the original product name for a period of two years.\r\n2. Ordering the offender to publish or broadcast corrected advertisements or commercials containing an apology and excluding wrong messages in the same size and time slots in the original publications or on the original channels for a certain number of times within 30 days upon receipt of the notification of punishment. Any business that fails to publish or broadcast corrected advertisements or commercials shall be subject to a fine of not less than NT$120,000 but not more than NT$600,000. Moreover, the approval that the business has obtained for all of the medical device advertisements shall be cancelled, and no advertisement applications shall be accepted within two years.\r\nIn the case of repeated violation after a punishment is imposed in accordance with the preceding paragraph, an order may be issued to terminate the business of the offender and cancel its company, business, or factory registration or part of the registered particulars."
+		},
+		{
+			"number": 6800,
+			"content": "A fine of not less than NT$60,000 but not more than NT$2,000,000 shall be imposed when any of the following circumstances occurs:\r\n1. Violating the provisions of Article 17 by purchasing or renting medical devices that have not been registered and approved or listed, or medical devices supplied by those other than medical device firms.\r\n2. Violating the provisions of Paragraph 1 of Article 20 by failing to meet the Establishment Standards for Medical Device Manufacturers.\r\n3. Where domestic medical device manufacturers violating the provisions of Paragraph 1 of Article 22 by failing to comply with the medical device quality management system regulations, or violating the provisions of Paragraph 2 of Article 22 by manufacturing medical devices without obtaining manufacturing license.\r\n4. Where medical device dealers importing medical devices that have been manufactured in violation of the provisions of Paragraph 3 of Article 22 as applied mutatis mutandis pursuant to Paragraph 1 or Paragraph 2.\r\n5. Violating the provisions of Paragraph 1 of Article 25 by manufacturing or importing medical devices without applying for registration and market approval or listing, or violating the provisions of Paragraph 2 of Article 25 by applying for listing instead of the required registration and market approval.\r\n6. Violating the provisions of Paragraph 3 of Article 34 by selling domestically the medical devices that are for export only.\r\nWhen the circumstances set forth in Subparagraph 3 or 4 of the preceding paragraph occur, in addition to the punishments that shall be imposed in accordance with the preceding paragraph, the central competent authority may publicize the names of the medical device firms and order them to make corrections within a time period, during which their manufacture, import, and business operations may be suspended in part or in whole. If no corrections are made within the time period, extension of medical device license in accordance with Article 27 shall not be approved or annual declaration in accordance with Article 28 shall not be filed, and any new applications for registration and market approval or listing of other medical devices of the manufacturers shall not be accepted. In the case of serious violation, the central competent authority may also cancel all or part of the medical device manufacturing licenses, licenses, or listings."
+		},
+		{
+			"number": 6900,
+			"content": "In case a medical device firm uses false documents or information to file applications in accordance with the provisions of this Act, a fine of not less than NT$60,000 but not more than NT$2,000,000 shall be imposed. In the case of serious violation, no application shall be allowed within two years. The licenses or approvals that have been obtained shall be cancelled."
+		},
+		{
+			"number": 7000,
+			"content": "A fine of not less than NT$30,000 but not more than NT$1,000,000 shall be imposed when any of the following circumstances occurs:\r\n1. Violating the provisions of Paragraph 1 of Article 13 by engaging in the business activities of medical device firms without being a medical device firm, or violating the provisions of Paragraph 2 of Article 13 by failing to complete change registration for any change in the particulars registered.\r\n2. Violating the provisions of Paragraph 3 of Article 13 by failing to complete medical device firm registration or failing to manufacture, sell, or supply medical devices at the registered place.\r\n3. Violating the limitations announced in accordance with Article 18.\r\n4. Violating the provisions of the regulations established in accordance with Paragraph 4 of Article 22 in regard to alteration.\r\n5. Violating the provisions of Paragraph 1 of Article 23 by authorizing the commissioning or accepting the commissioning to manufacture medical devices without approval, or violating the provisions of Paragraph 2 of Article 23 by manufacturing medical devices.\r\n6. Violating the provisions of Paragraph 1 of Article 24 by failing to comply with the regulations for good distribution practice of medical devices, or violating the provisions of Paragraph 2 of Article 24 by engaging in wholesale, import, or export of medical devices without obtaining a distribution license.\r\n7. Violating the provisions of Paragraph 1 of Article 25 by selling, supplying, transporting, storing, engaging in brokerage of, transferring, or displaying with the intent to sell medical devices without applying for registration and market approval or listing.\r\n8. Violating the provisions of Article 26 by making alteration to any of the original particulars of registration and market approval or listing without approval.\r\n9. Violating the provisions of Article 32 or 33 in regard to the packaging, labels, and instructions of medical devices or the particulars indicated thereof.\r\n10. Violating the provisions of the regulations established in accordance with Paragraph 2 of Article 35 in regard to restrictions on supply and sale or return.\r\n11. Violating the provisions of Paragraph 1 of Article 37 by implementing a clinical trial without approval, or violating the provisions of Paragraph 2 of Article 37 by failing to obtain consent from human subjects prior to implementing the clinical trial.\r\n12. Violating the provisions of Paragraph 1 of Article 48 by failing to report to the central competent authority, or violating the provisions of Paragraph 2 of Article 48 in regard to the conditions, reporting methods, time period, and contents.\r\n13. Violating the provisions of Article 51 by evading, impeding, or refusing an inspection or random testing.\r\nWhen the circumstances set forth in Subparagraph 6 of the preceding paragraph occur, in addition to the punishments that shall be imposed in accordance with the preceding paragraph, the central competent authority may publicize the names of the medical device firms and order them to make corrections within a time period, during which their wholesale, retail, import, and export may be suspended in part or in whole. For those who fail to make corrections within the time period, a consecutive sentence may be imposed for each violation until the corrections are made."
+		},
+		{
+			"number": 7100,
+			"content": "A fine of not less than NT$20,000 but not more than NT$500,000 shall be imposed when any of the following circumstances occurs:\r\n1. Where a medical device firm manufactures or imports the defective medical devices set forth in Subparagraph 6 of Article 8 and commits a serious violation, or fails to make corrections within the time period that has been ordered by the competent authority in accordance with Paragraph 2 of Article 57.\r\n2. Violating the provisions of Paragraph 1 of Article 15 by failing to employ qualified technicians.\r\n3. Violating the provisions of Paragraph 1 or 2 of Article 19, or violating the provisions of the regulations established in accordance with Paragraph 3 of Article 19 in regard to the scope, methods for establishment and maintenance of data, retention period, report contents and methods.\r\n4. Violating the provisions of the regulations established in accordance with Paragraph 3 of Article 24 in regard to alteration.\r\n5. Violating the provisions of the regulations established in accordance with Paragraph 3 of Article 37 in regard to avoidance of conflicts of interest, information disclosure, supervision and administration, or inspection, or failing to make corrections within the time period that has been ordered by the competent authority in accordance with the provisions of the said regulations.\r\n6. Violating the provisions of Article 38 by failing to report or report for recordation, or failing to report or report for recordation within a time period.\r\n7. Violating the provisions of Article 49 by failing to conduct reporting or undertake corrective and preventive measures in accordance with the provisions.\r\n8. Violating the provisions of Article 53 by evading, impeding, or refusing a census.\r\n9. Violating the provisions of Paragraph 3 of Article 55 by failing to withdraw or suspend the manufacture, import, or sale.\r\n10. Failing to give recall notices or recall medical devices within a specified time period when any of the circumstances set forth in Subparagraphs 4 through 6 of Paragraph 1 of Article 58 occurs.\r\n11. Violating the provisions of Paragraph 2 of Article 58 by failing to cooperate in recalling medical devices.\r\n12. Violating the provisions of the regulations established in accordance with Paragraph 3 of Article 58 in regard to the approaches for recall operation and handling methods of medical devices."
+		},
+		{
+			"number": 7200,
+			"content": "In case a person fined under this Act disagrees with the fine imposed in accordance with the provisions of this Act, he/she may, within fifteen days upon the receipt of the punishment notice, file a written objection requesting a review. However, no more than one objection shall be filed.\r\nThe authority imposing the fine shall, within fifteen days upon receipt of the written objection set forth in the preceding paragraph, review the case, and shall alter or cancel the original punishment if it deems the objection justifiable.\r\nIf the person fined disagrees with the result of the review set forth in the preceding paragraph, he/she may file an administrative appeal and initiate an administrative proceeding in accordance with applicable laws."
+		},
+		{
+			"number": 7300,
+			"content": "In the event that approval is not given to the application for medical device clinical trial implementation, medical device registration and market approval, or change or extension of a license filed in accordance with this Act, the disagreeing applicant may, within four months upon receipt of the notice of disciplinary action, clearly state the reasons and apply for re-examination. However, only one application for re-examination is allowed.\r\nThe central competent authority shall alter or cancel the original disciplinary action if it deems that the application for re-examination set forth in the preceding paragraph is justifiable.\r\nIf the person applying for re-examination does not agree with the decision made regarding the re-examination, he/she may file an administrative appeal and initiate an administrative proceeding in accordance with applicable laws."
+		},
+		{
+			"number": 7400,
+			"content": "Unless otherwise provided, the punishments prescribed in this Act shall be imposed by the municipal or county (city) competent authority, or may be imposed by the central competent authority if necessary. However, the cancellation of the company registration, business registration, factory registration, or the registered particulars, in part or in whole, upon confirmation of the order of business termination by the municipal or county (city) competent authority, shall be forwarded for execution by the industry or commerce competent authority or its competent authority of the target business."
+		},
+		{
+			"number": 7500,
+			"content": "The enforcing authority may collect the necessary fees incurred by confiscation and destruction under this Act from offenders."
+		},
+		{
+			"number": 7600,
+			"content": "Fees shall be paid when a person applies for or declares permits, licenses, or other matters in accordance with this Act, or makes formal inquiry about product registration and market approval, listing, annual declaration, and relevant regulations of medical devices.\r\nStandards for the type and amount of the fees required in the preceding paragraph shall be determined by the central competent authority."
+		},
+		{
+			"number": 7700,
+			"content": "When necessary, the competent authority at any level may designate a subordinate agency or commission a relevant agency (or institution), legal entity, organization, or private institution to conduct all or part of the testing of medical devices. Regulations governing its designation, commissioning, and related matters thereof shall be established by the central competent authority."
+		},
+		{
+			"number": 7800,
+			"content": "The central competent authority may carry out accreditation of the relevant agency (or institution), legal entity, organization, or private institution commissioned to conduct testing, as set forth in the preceding article. Regulations governing their accreditation and management shall be established by the central competent authority.\r\nThe central competent authority may designate a subordinate agency or commission another agency (or institution), legal entity, organization, or private institution to carry out the accreditation work as set forth in the preceding paragraph. Regulations governing its designation, commissioning, and related matters thereof shall be established by the central competent authority."
+		},
+		{
+			"number": 7900,
+			"content": "The central competent authority may designate a subordinate agency (or institution) or commission another agency (or institution), or an accredited legal entity or organization to carry out education and training of technicians, review of registration and market approval of medical devices, issuance of certificates, review and inspection of clinical trials, review of advertisements, reporting of serious adverse events, and inspection or census of medical device firms.\r\nWith the exception of education and training, the commissioned agency shall observe avoidance of conflicts of interest for matters related to designation or commissioning set forth in the preceding paragraph. Regulations governing its commissioning, accreditation, avoidance of conflicts of interest, and other related matters shall be established by the central competent authority.\r\nThe central competent authority may designate a subordinate agency or commission another agency (or institution) to carry out the accreditation work as set forth in Paragraph 1. Regulations governing its designation, commissioning, and related matters shall be established by the central competent authority."
+		},
+		{
+			"number": 8000,
+			"content": "The central competent authority and central industry competent authority may provide incentives for research and development of innovative medical device technologies.\r\nRegulations governing the eligibility criteria, review procedures of the incentives referred to in the preceding paragraph, and other related matters may be jointly established by the central competent authority and central industry competent authority."
+		},
+		{
+			"number": 8100,
+			"content": "Due to the characteristics for use of medical devices, when research institutions, medical institutions, or medical device firms collect, process, or use personal data in accordance with Subparagraph 6 of Paragraph 1 of Article 6 of the Personal Data Protection Act, the central competent authority may announce other methods of consent equivalent to the written consent."
+		},
+		{
+			"number": 8200,
+			"content": "In the event of violating the provisions set forth in Paragraph 1 or 2 of Article 8 and consequently resulting in occurrence of damages arising from injury to the medical device end-user patients or consumers, medical device manufacturers or importers shall be liable for compensation. However, this shall not apply if the medical device manufacturers or importers have no negligence in regard to the manufacturing, packaging, labeling, sterilization, or final inspection and release of the medical devices, or the injury is not caused by the negligence, or has exercised reasonable care to prevent such injury from occurring.\r\nEven if the medical device end-user patients or consumers under the circumstances of the preceding paragraph have suffered an injury that is a non-pecuniary damage, they may claim for a reasonable amount of monetary compensation.\r\nFor claims filed by the medical device end-user patients or consumers set forth in the preceding two paragraphs, provisions of Articles 47 through 55 of the Consumer Protection Act may apply mutatis mutandis for initiation of consumer litigation.\r\nUnder the circumstances identified in Paragraph 1 or 2, if it is difficult or impossible for the medical device end-user patients or consumers to prove the monetary value of the actual damage, they may ask the court to award the compensation in the amount of at least NT$1,000 per incident, per person based on the severity of the damage.\r\nIn the event that the municipal governments or the county/city governments receive multiple claims from 20 or more medical device end-user patients or consumers due to the same incident, they shall assist medical device end-user patients or consumers to bring litigation in accordance with the provisions of Article 50 of the Consumer Protection Act."
+		},
+		{
+			"number": 8300,
+			"content": "Starting from the effective date of this Act, the provisions of this Act shall apply to the management of medical devices, and the provisions of the Pharmaceutical Affairs Act governing medical devices shall no longer be applicable."
+		},
+		{
+			"number": 8400,
+			"content": "The Enforcement Rules of this Act shall be established by the central competent authority."
+		},
+		{
+			"number": 8500,
+			"content": "The date for enforcing this Act shall be determined by the Executive Yuan."
+		}
+	]
+}

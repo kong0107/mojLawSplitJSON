@@ -1,0 +1,320 @@
+{
+	"pcode": "M0140012",
+	"LawLevel": "法律",
+	"EngLawName": "Agro-pesticides Management Act",
+	"LawName": "農藥管理法",
+	"EngLawModifiedDate": "20180523",
+	"histories": [
+		"Promulgated on January 6, 1972.",
+		"Amendment to Articles 2~4, 14, 15, 22, 25, 29, 32, 43~46, 48, 49, 52, 53 and addition of 5-1 and deletion of Article 50 promulgated on December 5, 1983.",
+		"Amendment to Articles 2, 16, 48 promulgated on May 5, 1986.",
+		"Amendment to Articles 6, 7, 14, 16, 27, 44, 46~48, 52, 53 and addition of Article 29-1 promulgated on December 5, 1988.",
+		"Amendment to Articles 2, 21, 22, 29, 30 promulgated on June 19, 2002.",
+		"Amendment to Articles 13, 48 and addition of Articles 11-1, 11-2, 12-1, 13-1, 14-1, 21-1, 22-1, 40-1 promulgated on December 18, 2002.",
+		"Amendment to all Articles promulgated on July 18, 2007.",
+		"Amendment to Articles 7, 16, 20, 23, 24, 26, 29, 32, 35, 47, 48, 53 and addition of Articles 49-1, 50-1, 53-1 promulgated on December 24, 2014.",
+		"Amendment to Articles 45 and 46 promulgated on December 9, 2015.",
+		"Amendment to Articles 10 and 59 promulgated on May 23, 2018."
+	],
+	"divisions": [
+		{
+			"type": "chapter",
+			"number": 100,
+			"title": "General Provisions",
+			"start": 100,
+			"end": 800
+		},
+		{
+			"type": "chapter",
+			"number": 200,
+			"title": "Registration",
+			"start": 900,
+			"end": 1900
+		},
+		{
+			"type": "chapter",
+			"number": 300,
+			"title": "Manufacturing, Import and Export",
+			"start": 2000,
+			"end": 2500
+		},
+		{
+			"type": "chapter",
+			"number": 400,
+			"title": "Sale and Use",
+			"start": 2600,
+			"end": 3400
+		},
+		{
+			"type": "chapter",
+			"number": 500,
+			"title": "Supervision, Inspection, Crackdown and Encouragement",
+			"start": 3500,
+			"end": 4400
+		},
+		{
+			"type": "chapter",
+			"number": 600,
+			"title": "Penal Provisions",
+			"start": 4500,
+			"end": 5700
+		},
+		{
+			"type": "chapter",
+			"number": 700,
+			"title": "Supplementary Provisions",
+			"start": 5800,
+			"end": 5900
+		}
+	],
+	"articles": [
+		{
+			"number": 100,
+			"content": "This Act is enacted to protect agricultural production and ecological environment, prevent and eliminate pests, prevent hazards from agro-pesticides, strengthen agro-pesticide administration, promote the development of agro-pesticide industry, and enhance the safety of agricultural products."
+		},
+		{
+			"number": 200,
+			"content": "For the purposes of this Act, the term \"competent authority\" denotes the Council of Agriculture, Executive Yuan at the central level; the municipal government at the municipal level; and the county/city government at the county/city level."
+		},
+		{
+			"number": 300,
+			"content": "The matters governed by the central competent authority are as follows:\r\n1. Planning, compilation, supervision and implementation of national agro-pesticide administration policies, schemes and plans.\r\n2. Enactment (formulation), review, interpretation and implementation of national agro-pesticide administration laws and regulations.\r\n3. Research, development and advocacy of agro-pesticide administration.\r\n4. Training and management of national agro-pesticide administrative personnel.\r\n5. Supervision of national agro-pesticide administrative affairs.\r\n6. Coordination or implementation of national agro-pesticide administration.\r\n7. International cooperation and technical exchange regarding agro-pesticide administration.\r\n8. Other matters related to national agro-pesticide administration."
+		},
+		{
+			"number": 400,
+			"content": "The matters governed by municipal or county/city competent authority are as follows:\r\n1. Planning and implementation of implementation schemes and plans  regarding agro-pesticide administration in the area under itsjurisdiction.\r\n2. Implementation of agro-pesticide administration laws and regulations,as well as enactment (formulation), interpretation and implementation of autonomous regulations on agro-pesticide administration in the area under its jurisdiction.\r\n3. Research, development and advocacy of agro-pesticide administration in the area under its jurisdiction.\r\n4. Data statistics and report of agro-pesticide administration in the area under its jurisdiction.\r\n5. Other matters related to agro-pesticide administration in the area under its jurisdiction."
+		},
+		{
+			"number": 500,
+			"content": "The terms used in this Act are as defined as follows:\r\n1. Agro-pesticide: denotes formulated agro-pesticides and technical grade agro-pesticide.\r\n2. Formulated agro-pesticide: denotes the chemicals or biologically-based formulations listed below:\r\n(1) Those used for preventing and eliminating pests of crops and forest or the products thereof;\r\n(2) Those used for regulating the growth of crops and forest or for influencing the physiological functions thereof;\r\n(3) Those used for regulating the growth of beneficial insects;\r\n(4) Any other chemicals designated by the central competent authority for protecting plants.\r\n3. Technical grade pesticide: denotes any and all active ingredients or raw materials required for the manufacturing of formulated agro-pesticides referred to in the preceding paragraph.However, any and all technical grade pesticides shall be deemed formulated agro-pesticides as long as they be directly used for any of the purposes under the preceding paragraph and are approved and promulgated by the central competent authority.\r\n4. Labelling: denotes the illustrative text, patterns or marks on the container, packaging or enclosed specification of agro-pesticides.\r\n5. Agro-pesticide manufacturers: denotes those engaged in the manufacture, processing and repackaging of agro-pesticides as well as the wholesale and export of agro-pesticides, and the import of technical grade agro-pesticides for self-use; manufacturers also may be engaged in the retail of their own products.\r\n6. Agro-pesticide dealers: denotes those engaged in the wholesale , retail, import and export of agro-pesticides.\r\n7. Manufacturing: denotes the process of producing raw materials into technical grade agro-pesticides.\r\n8. Processing: denotes the process of producing technical grade agro-pesticides into formulated agro-pesticides."
+		},
+		{
+			"number": 600,
+			"content": "For the purpose of this Act, the term \"prohibited agro-pesticides\" denotes any and all agro-pesticides prohibited by the central government in public announcement from being manufactured, processed, repackaged, imported, exported, sold or used."
+		},
+		{
+			"number": 700,
+			"content": "For the purposes of this Act, the term \"counterfeit agro-pesticides\" denotes any of the following agro-pesticides:\r\n1. Agro-pesticides manufactured, processed, imported without prior approval or counterfeit domestic or foreign products;\r\n2. Agro-pesticides in which the content of other active ingredients added exceeds the standard limits set forth by the central competent authority;\r\n3. Agro-pesticides which have been replaced with domestic or foreign products;\r\n4. Agro-pesticides whose validity labelling has been erased or altered;\r\n5. Agro-pesticides whose description of active ingredients is inconsistent with that approved"
+		},
+		{
+			"number": 800,
+			"content": "For the purposes of this Act, the term \"inferior agro-pesticides\" denotes any duly registered agro-pesticides concerning which any of the following situations has arisen:\r\n1. The content of the active ingredients does not conform to the standard specifications prescribed;\r\n2. The validity has expired;\r\n3. The quality other than the content of the active ingredients referred to in the first paragraph does not conform to the standard specifications prescribed."
+		},
+		{
+			"number": 900,
+			"content": "Agro-pesticides shall not be manufactured, processed, or imported without having passed the examination of, approval for registration with, and obtained a permit from the central competent authority, unless otherwise prescribed in this Act or in case that the agro-pesticides are promulgated by the central competent authority as non-controlled agro-pesticides."
+		},
+		{
+			"number": 1000,
+			"content": "When the agro-pesticide manufacturers and dealers apply for approval of registration for formulated agro-pesticides under the preceding Article, they shall fill in the application form, attach the certification documents that the agro-pesticides passed the tests of standard specifications prescribed, submit the data of physicochemical and toxicological test and field test and other relevant documents.\r\nIn the following period, the data in the preceding paragraph shall not be cited by other applicants without receiving the approval of the data holder for use of the test data.\r\n1. For a product that has a new active ingredient which has previously obtained approval for registration, a period of ten years starting from the date of approval for registration.\r\n2. For a product that has a new or changed content or formulation that has previously obtained approval for registration, a period of seven years starting from the date of approval for registration.\r\n3. For a product that has new scope of application that has previously obtained approval for registration, a period of four years starting from the date of approval for registration.\r\nWhen the agro-pesticide manufacturers and dealers apply for approval of registration for formulated agro-pesticides, if one of the following conditions applies, then all or a portion of the test data in paragraph one may be exempted from submission.\r\n1. After the expiration of the period in the preceding paragraph, when applying for approval of registration with the same active ingredient, formulation, content or the scope of application of the registered agro-pesticide, all or a portion of the data of the field test and toxicological test may be exempted from submission.\r\n2. Under the permission of data holder for the use of test data during the period in the preceding paragraph, when applying for approval of registration with the same active ingredient, formulation, content, or the scope of application of the registered agro-pesticide, all data of the field test and toxicological test may be exempted from submission.\r\n3. When applying for approval of registration for technical grade agro-pesticides, the data of the field test may be exempted from submission.\r\n4. The field test may be exempted if a registered formulated product had previously applied for the permit of a comparatively safer new formulation and was approved by the central competent authority.\r\n5. All or a portion of the data of the toxicological test may be exempted when applying for approval of registration for formulated product considered to be safe or has a low risk of application and was approved by the central competent authority.\r\nThe directions for the standard specifications, physicochemical property test, toxicological test and field test under paragraph one shall be prescribed by the central competent authority."
+		},
+		{
+			"number": 1100,
+			"content": "For the purpose of solving the lack of preventive chemicals for the pests of minority crops, the competent authority may carry out the field tests for the new use and application of agro-pesticide, and extend the use according to the actual circumstances; the conducting procedures shall be promulgated by the central competent authority."
+		},
+		{
+			"number": 1200,
+			"content": "The inspection methods of agro-pesticide standard specifications shall be promulgated by the central competent authority; if there without proclamation, a feasible method in current use shall be referred to."
+		},
+		{
+			"number": 1300,
+			"content": "The central competent authority shall promulgate the common name, active ingredients and the contents, the use and the scope of application of a registered agro-pesticide."
+		},
+		{
+			"number": 1400,
+			"content": "The use and change of pesticide labeling shall be approved by the central competent authority at first, and after the original labeling shall be replaced within six months from such a change occurs.\r\nThe regulations governing the text, due contents, the pattern of warning and attention marks, and other relevant prescription regarding the agro-pesticide labelling under the preceding paragraph shall be prescribed by the central competent authority."
+		},
+		{
+			"number": 1500,
+			"content": "An agro-pesticide permit shall specify the following:\r\n1. Permit number, date of registration, and period of validity;\r\n2. Personal/business name and address of the manufacturer or dealer, name of responsible person, and the name and address of original manufacturer overseas;\r\n3. Common name, manufacturer brand, type of formulation, and physical properties of the agro-pesticides as well as description and percentage of active ingredients and other ingredients thereof;\r\n4. Application method of agro-pesticides and its scope;\r\n5. Other matters promulgated by the central competent authority.\r\nUnless otherwise approved by the competent authority, change in any of the registered material facts under the preceding paragraph shall not be permissible.\r\nUpon any change in the standard specifications of an agro-pesticide, the registrant of the related pesticide permit shall, within six months after the change, be filed for the alteration of the registration."
+		},
+		{
+			"number": 1600,
+			"content": "An agro-pesticide permit shall be valid for five years. An application for extension of said validity may be filed with the central competent authority within six months of the expiration； provided each extension shall not exceed five years.\r\nInspection of agro-pesticide standard specifications may be waived with respect to the application for extension under the preceding paragraph.\r\nAfter the enforcement of the amendment of this Act, December nine, 2014, for five years, agro-pesticide obtained approval for registration more than 15 years shall provide toxicity test report prescribed in Article 10 when applying for extension of permit validation. However, some items of the report shall be exempted, if they had been provided when registered.\r\nThe regulations governing the application for, issuance, re-issuance, exchange, extension, and alteration of the registered affairs of agro-pesticide permit referred to in Paragraph One as well as the relevant affairs shall be established by the central competent authority."
+		},
+		{
+			"number": 1700,
+			"content": "If an agro-pesticide manufacturer or importer uses fake data or certificates to apply for approval and registration of agro-pesticide, extension of permit or alteration of registration ,the central competent authority shall not approve such application; if approved, shall revoke the agro-pesticide permit.\r\nIn case of severe violation referred to in the preceding paragraph ,the central competent authority shall not receive re-applications filed by the violator within two years from the day when the application is not approved or the permit is revoked."
+		},
+		{
+			"number": 1800,
+			"content": "The central competent authority may perform safety assessment over the registered agro-pesticides; if an agro-pesticide endangers the health of human body or pollutes the environment,restrict the use or its scope of application according to the actual necessity; or declare it to be prohibited agro-pesticides and abolish the agro-pesticide permit.\r\nThe central competent authority may perform effect assessment over the use and scope of registered agro-pesticides; if the effect is not obvious and there is no safety problems mentioned in the preceding paragraph, may make a public notice to restrict the use and scope of application in whole or in part.\r\nFor the agro-pesticides the permit of which is abolished or the use and scope of which are restricted as prescribed in the preceding two paragraphs, if it is proven by scientific method that the reason for abolishment or restriction has been eliminated,the central competent authority may make a public notice to recover the registration or cancel the restriction."
+		},
+		{
+			"number": 1900,
+			"content": "If the permit of an agro-pesticide is abolished or revoked under this Act, the central competent authority may order the manufacturers or dealers to call back or destroy the said agro-pesticide within a specified time limit."
+		},
+		{
+			"number": 2000,
+			"content": "An agro-pesticide manufacturer shall establish an agro-pesticide factory. In addition to the factory registration to be obtained in accordance with the applicable laws and regulations, the factory established shall satisfy the agro-pesticides factory establishment criteria.\r\nThe agro-pesticide factory establishment criteria under the preceding paragraph, including the workshop, warehouse, production equipment, testing equipment, pollution control equipment, safety and health facilities, the qualifications of full-time technicians, as well as other relevant matters, shall be prescribed by the central competent authority in concert with the Ministry of Economic Affairs, Ministry of Labor and the Environmental Protection Administration of the Executive Yuan."
+		},
+		{
+			"number": 2100,
+			"content": "An agro-pesticide factory, the establishment of which has been duly approved, may apply to purchase the raw materials required for test-run purposes after orders for machinery and equipment have been placed."
+		},
+		{
+			"number": 2200,
+			"content": "Unless under the approval of the central competent authority, an agro-pesticide manufacturer shall not authorize or accept the authorization to process the formulated agro-pesticides.\r\nThe central competent authority shall prescribe the regulations governing the qualifications of the consignor and consignee as well as other relevant matters."
+		},
+		{
+			"number": 2300,
+			"content": "The client shall submit to central competent authority for the approval of the entrusted repackaging of formulated agro-pesticides. The trustee shall be in possession of equipment for producing agro-pesticides of the same formulation.\r\nIf the approved entrusted repackaging contract is expired or terminated during the entrusted repackaging period, the client shall report to the central competent authority to abolish the approval of the entrusted repackaging.\r\nThe agro-pesticide label shall be changed after the first and preceding paragraphs matters have occurred."
+		},
+		{
+			"number": 2400,
+			"content": "With the approval of the central competent authority, the following agro-pesticides may be exempted from the restrictions prescribed in Article 9:\r\n1. Those dedicated for experimental research, educational demonstration or emergency prevention.\r\n2. Those imported for manufacturing, processing, repackaging and other related procedures dedicated for exporting.\r\n3. Those manufactured or processed exclusively for exporting.\r\nThe agro-pesticides listed in the preceding paragraph must not be sold in Taiwan or used for other purposes. However, this shall not apply if such ago-pesticides are sold in Taiwan for emergency prevention.\r\nThe regulations governing the application for, examination and other relevant matters of the agro-pesticides listed in the first paragraph shall be prescribed by the central competent authority."
+		},
+		{
+			"number": 2500,
+			"content": "Only the agro-pesticide manufacturers may apply for import of technical grade agro-pesticides.\r\nThe technical grade agro-pesticides imported with approval shall be self-use only and must not be transferred, unless otherwise approved by the central competent authority."
+		},
+		{
+			"number": 2600,
+			"content": "An agro-pesticide dealer shall designate full-time managers and before proceeding to do business, first apply to the local municipality or county/city competent authority for issuing an agro-pesticide dealer's license.\r\nThe above mentioned license shall be valid for five years. An application for extension of said validity shall be filed with local municipality or county/city competent authority before one month of the expiration; provided each extension shall not exceed five years. Failure to make an application for authorization within the time limit or the application is rejected shall apply for issuing a new license.\r\nThe relevant autonomous regulations governing the application, issuance, re-issuance, exchange, extension, abolishment,and alteration under the first and preceding paragraph shall be prescribed by the corresponding municipal or county/city competent authority.\r\nThe regulations governing the training and qualification requirements of the managers under the first paragraph, the acquisition, revoking and limitation of re-application of their certificates and other relevant matters shall be prescribed by the central competent authority.\r\nThe licenses, issued prior to enforcement of the amendment of this Act, December nine, 2014, shall subject to Paragraph 2 to apply for extension within two years."
+		},
+		{
+			"number": 2700,
+			"content": "An agro-pesticide dealer's license shall specify the following:\r\n1. Name of the agro-pesticide dealer.\r\n2. Address of business place.\r\n3. Name of responsible person.\r\n4. Category of business.\r\n5. Other matters promulgated by the competent authority."
+		},
+		{
+			"number": 2800,
+			"content": "Technical grade pesticides shall be sold only to agro-pesticide manufacturers."
+		},
+		{
+			"number": 2900,
+			"content": "An agro-pesticide dealer shall observe the following provisions:\r\n1. Hang the agro-pesticide dealer's license visibly in the business place.\r\n2. Do not sell formulated agro-pesticides outside the business premise.\r\n3. Do not sell formulated agro-pesticides with the original package unsealed.\r\n4. Do not sell agro-pesticides without labelling.\r\n5. Separate agro-pesticides from others if the dealer also sells other goods.\r\n6. Prepare books of account or adopt other manner promulgated by the central competent authority to record the name, address, age and contact of the buyers and the quantity they buy, and keep such books for three years.\r\n7. Do not sell to children and juveniles under 18 years.\r\n8. Ask the buyer’s purpose for buying such agro-pesticide; do not sell if the use or its scope is other than approved and registered.\r\n9. Provide certificate of sale recording the item, quantity, application scope, buyer and seller to the buyer.\r\n10. Recycle pesticide waste containers and deliver to clean and manage by environmental protection related laws."
+		},
+		{
+			"number": 3000,
+			"content": "An agro-pesticide dealer shall, upon closedown of business or alteration of registered affairs, make a report to the local municipal or county/city competent authority for inspection within 30 days after closedown or alteration.\r\nFor an agro-pesticide dealer who suspends operation for not less than one year or closes down, the agro-pesticide dealer's license shall be revoked. However, this is not applicable if the dealer suspends with due reasons and is approved by the competent authority."
+		},
+		{
+			"number": 3100,
+			"content": "The names of highly toxic formulated agro-pesticides and the qualifications for buyer shall be promulgated by the central competent authority.\r\nThe competent authority may appoint an agro-pesticide dealer registered according to the first subparagraph of Article 26 to engage in the business as a wholesaler or retailer of highly toxic formulated agro-pesticides."
+		},
+		{
+			"number": 3200,
+			"content": "A dealer of highly toxic formulated agro-pesticides shall observe the following provisions:\r\n1. Do not sell any buyer who fails to meet the qualifications promulgated under the first paragraph of the preceding Article.\r\n2. Store such agro-pesticides safely in dedicated cabinets locked."
+		},
+		{
+			"number": 3300,
+			"content": "The users of agro-pesticide shall use the agro-pesticides approved by the central competent authority.\r\nBefore appealing on the market, if the crop or its product’s pesticide residue exceed the standard stipulated by health competent authority, the crop or its product shall appeal on the market when it has been re-examined or re-inspected and is determined to be up to the standard.\r\nFor the safety of human body, environmental protection and ecological conservation, the central competent authority shall establish regulations governing the use of agro-pesticides, selective inspection of agro-pesticide residue in agricultural products and other relevant matters."
+		},
+		{
+			"number": 3400,
+			"content": "The agro-pesticide spraying service providers shall register with the local municipal or county/city competent authority.\r\nThe service provider under the preceding paragraph shall designate technicians qualified in the training on the use of agricultural agro-pesticides to spray agro-pesticides for others; the regulations governing the training shall be prescribed by the central competent authority."
+		},
+		{
+			"number": 3500,
+			"content": "An agro-pesticide manufacturer or dealer shall maintain books of account to record the quantity and trading counterparts of agro-pesticides produced, imported, purchased and sold and shall make them available to the competent authority for inspection.\r\nThe books of account under the preceding paragraph shall be preserved for three years and reported to competent authority. Central competent authority shall promulgate the format, content, frequency and manner of the report."
+		},
+		{
+			"number": 3600,
+			"content": "An agro-pesticide manufacturer or dealer shall neither produce or offer for sale any agro-pesticides beyond the scope of registration, nor engage in misrepresented, exaggerated or improper promotion or advertisement.\r\nBefore proceeding to publish or run an advertisement, an agro-pesticide manufacturer or dealer shall submit all the written words, pictures or oral statements to the central competent authority for approval and provide the written approval to the advertising agency for verification.\r\nThe regulations governing the application for and examination of the agro-pesticide advertisement under the preceding paragraph and other relevant matters shall be prescribed by the central competent authority."
+		},
+		{
+			"number": 3700,
+			"content": "The non-controlled agro-pesticides promulgated by the central competent authority are not applicable to this Act. However, there shall be no misrepresentation or exaggeration in the labelling, promotion or advertisement of such agro-pesticides."
+		},
+		{
+			"number": 3800,
+			"content": "No agro-pesticides shall be labelled, promoted or advertised as those with the efficacy of agro-pesticides if they are not as defined herein."
+		},
+		{
+			"number": 3900,
+			"content": "Attention shall be paid to the safety of transportation and warehouse storage of agro-pesticides; the regulations governing the transportation and warehouse storage and other relevant matters shall be established by the central authority in concert with the Ministry of Transportation and Communications."
+		},
+		{
+			"number": 4000,
+			"content": "The competent authority may assign agro-pesticide inspectors to enter the place of business or warehouse of an agro-pesticide manufacturer or dealer and other places where agro-pesticides are manufactured, processed and repackaged to carry out inspection, and may order the manufacturer or dealer to provide the inspectors with a business report.\r\nThe regulations governing the contents selective inspection, re-inspection, sealing-upon and other relevant matters of the agro-pesticide inspection under the preceding paragraph shall be prescribed by the central competent authority."
+		},
+		{
+			"number": 4100,
+			"content": "In performing the duties under the first paragraph of the preceding Article, an agro-pesticide inspector shall show his/her identification certificate, and shall pay for any samples taken at random."
+		},
+		{
+			"number": 4200,
+			"content": "Any and all suspicious prohibited, counterfeit or inferior agro-pesticides shall be first sealed upon being discovered if taking of random samples is required for examination purposes, and shall then be safeguarded by the manufacturer after signing an affidavit; the manufacturer must not refuse to do so.\r\nSamples taken according to the preceding paragraph shall be examined and disposed as soon as possible, i.e. no more than two months of the date on which the agro-pesticides are discovered. However, where the period of examination and disposal needs to be extended for the necessity of inspection, a written notice stating the cause and period of extension shall be given to the manufacturer before the said period expires."
+		},
+		{
+			"number": 4300,
+			"content": "For those who inform the competent authority of the existence of prohibited, counterfeit or inferior agro-pesticides or assist the competent authority in discovering such agro-pesticides, the competent authority shall not only keep in confidence the name and identification of the informer or assistant, but also pay rewards to the informer or assistant in accordance with the regulations established by the central competent authority."
+		},
+		{
+			"number": 4400,
+			"content": "The competent authority may appraise the agro-pesticide manufacturers or dealers periodically and encourage those who are highly recognized in the appraisal.\r\nThe regulations governing the appraisal and encouragement under the preceding paragraph shall be prescribed by the central competent authority."
+		},
+		{
+			"number": 4500,
+			"content": "Whoever is guilty of manufacturing, processing, repackaging or importing prohibited agro-pesticides shall be punished by way of imprisonment for no less than one year and no more than seven years, and a fine of no less than NT$1,500,000 and no more than NT$7,500,000 shall be imposed.\r\nWhoever is guilty of attempting to commit the offense under the preceding paragraph shall be punished."
+		},
+		{
+			"number": 4600,
+			"content": "Whoever is guilty of dealing or displaying, storing prohibited agro-pesticides within the intention of dealing shall be punished by way of imprisonment for no less than six months and no more than five years, and a fine of no less than NT$1,000,000 and no more than NT$5,000,000 shall be imposed.\r\nWhoever is guilty of committing the offense under the preceding paragraph due to negligence shall be punished by way of imprisonment of no more than one year or short-term imprisonment, and a fine of no more than NT$ 500,000."
+		},
+		{
+			"number": 4700,
+			"content": "Whoever is guilty of manufacturing, processing, repackaging or importing counterfeit agro-pesticides under Subaragraph 1 of Article 7 shall be punished by way of imprisonment for not less than six months and not more than five years, and a fine of not less than NT$1,000,000 and not more than NT$5,000,000 shall be imposed.\r\nWhoever is guilty of attempting to commit the offense under the preceding paragraph shall be punished."
+		},
+		{
+			"number": 4800,
+			"content": "Whoever commits any of the following shall be punished by way of imprisonment for not more than three years and a fine of not more than NT$ 500,000 shall be imposed:\r\n1. Displays or stores for selling or attempted selling what he knows are counterfeit agro-pesticides under Subaragraph 1 of Article 7;\r\n2. Sells the agro-pesticides dedicated for processing and exporting under Subparagraphs 2 and 3, Paragraph 1 of Article 24 or the agro-pesticides dedicated for exporting under Subparagraph 3 in Taiwan or uses them for other purposes.\r\nWhoever is guilty of committing the offense under the preceding paragraph due to negligence shall be punished by way of custody and a fine of not more than NT$ 250,000 shall be imposed."
+		},
+		{
+			"number": 4900,
+			"content": "Whoever is the representative of a juristic person or an agent, employee or otherwise of a juristic person or natural person shall be punished as the wrongdoer if he or she violates Article 45 to the preceding Article in the course of performing his or her duties. In addition, said juristic or natural person shall be punished with the fine provided in said Articles."
+		},
+		{
+			"number": 4901,
+			"content": "Whoever is guilty of manufacturing, processing, repackaging or importing counterfeit agro-pesticides under Subparagraphs 2, 3 and 5 of Article 7 shall be punished by way of a fine of not less than NT$ 300,000 and not more than NT$ 3,000,000."
+		},
+		{
+			"number": 5000,
+			"content": "Whoever is guilty of manufacturing, processing, repackaging or importing counterfeit agro-pesticides under Subparagraph 1 of Article 8 shall be punished by way of a fine of not less than NT$ 60,000 and not more than NT$ 600,000."
+		},
+		{
+			"number": 5001,
+			"content": "Whoever is guilty of dealing or for the intention of dealing, displaying or storing counterfeit agro-pesticides under Subparagraphs 2 to 5 of Article 7 shall be punished by way of a fine of not less than NT$ 50,000 and not more than NT$ 500,000."
+		},
+		{
+			"number": 5100,
+			"content": "Whoever is guilty of manufacturing, processing, repackaging or importing counterfeit agro-pesticides under Subparagraph 3 of Article 8 shall be punished by way of a fine of not less than NT$ 30,000 and not more than NT$ 300,000."
+		},
+		{
+			"number": 5200,
+			"content": "Whoever commits any of the following shall be punished by way of a fine of not less than NT$ 20,000 and not more than NT$ 200,000:\r\n1. Displays or stores for selling or in an attempt to sell counterfeit agro-pesticides as he or she knows the agro-pesticides are counterfeit;\r\n2. Violates the provision of Article 14;\r\n3. Violates the provision of Article 19, Article 23, Paragraph 1 of Article 26, Article 28, Subparagraphs 1~4 of Article 29, Article 32, Paragraphs 1 and 2 of Article 36, Article 37 or Article 38;\r\n4. Violates the establishment standards for agro-pesticide factories prescribed in Paragraph 2 of Article 20;\r\n5. Violates the relevant provisions on the entrusted processing of formulated agro-pesticides in the regulations referred to in Paragraph 2 of Article 22;\r\n6. Violates the relevant provisions on the publishing or advocacy of agro-pesticide advertisement prescribed in Paragraph 3 of Article 36;\r\n7. Violates the relevant provisions on the inspection of agro-pesticides in the regulations referred to in Paragraph 2 of Article 40; or\r\n8. Without due reasons, refuses inspectors to check according to the provision of Paragraph 1 of Article 40 or refuses to produce affidavit according to the provision of Paragraph 1 of Article 42.\r\nUpon the occurrence of the situation described in Subparagraph 4 or 5 of the preceding paragraph, the competent authority shall, in addition to the punishment under the preceding paragraph, notify the offender to take corrective action within a prescribed time limit. If corrective action is not taken within the prescribed time limit, the competent authority may suspend the offender's manufacturing or processing either in whole or in part."
+		},
+		{
+			"number": 5300,
+			"content": "A punishment by way of fine ranging from 15,000 to 150,000 yuan shall be imposed on whoever:\r\n1. Offers over-the-counter agro-pesticides for wholesale to a dealer not duly registered or designated according to this Act or；\r\n2. Violates the Paragraph 2 of Article 25, the Suparagraphs 5 to 9 of Article 29, Paragraph 1 of Article 30, Paragraphs 1 and 2 of Article 33, or Articles 34 or 35;\r\n3. Sells out any agro-pesticides designated for experimental research or educational demonstration under Subparagraph 1, Paragraph 1 of Article 24 in Taiwan;\r\n4. Uses any agro-pesticides designated for experimental research, educational demonstration or emergency prevention under Subparagraph 1, Paragraph 1 of Article 24 for other purposes;\r\n5. Violates the relevant provisions on the use of agro-pesticides in the regulations referred to in Paragraph 3 of Article 33; however, if applier violates the relevant provisions on the use and scope but fulfils the residues standards of health competent authority, competent authority shall mandate the applier to attend agro-pesticides safety use lesson. The fine shall be imposed when the applier violates again or refuse to attend the lesson; or \r\n6. Violates the provisions on the transportation and storage of agro-pesticides in the regulations referred to in Article 39.\r\nThe promotion period is one year after enforcement of the amendment of this Act, December nine, 2014. The violator shall not be imposed with the fine stipulated under Subparagraph 9 of previous paragraph during the period, and the competent authority shall strengthen promotion.\r\nViolates the agro-pesticides residue standard stipulated under Paragraph 3 of Article 33 shall not be imposed with the fine, if it has been regarded by the competent authority as polluted by neighbor farms and been re-examined up to the standard."
+		},
+		{
+			"number": 5301,
+			"content": "When violates the act, competent authority may publicly announce the name of manufacturer or dealer, name of person, address, violation product and situation."
+		},
+		{
+			"number": 5400,
+			"content": "If an agro-pesticide manufacturer or dealer commits violation of this Act again even after having been punished by way of imprisonment or fine, the competent authority shall have the authority to revoke the relevant permit or license which has been issued to the manufacturer or dealer.\r\nApplications for agro-pesticide permit or dealer's license filed by agro-pesticide manufacturer or dealer whose permit or license is abolished under the preceding paragraph shall be rejected by the competent authority within two years from the date of abolishment."
+		},
+		{
+			"number": 5500,
+			"content": "Any of the following shall be confiscated no matter who owns them:\r\n1. Prohibited agro-pesticides or counterfeit agro-pesticides seized under this Act;\r\n2. Inferior agro-pesticides seized under this Act;\r\n3. Appliances and/or raw materials used for the manufacturing, processing or repackaging of prohibited agro-pesticides or counterfeit agro-pesticides defined in Subparagraph 1 of Article 7;\r\n4. Goods violating the provision of Article 19, Article 37 or Article 38, the agro-pesticide, labelling, propaganda or advertising thereof has the effect of agro-pesticides.\r\nThe regulations governing the disposal of goods confiscated under the preceding paragraph shall be prescribed by the central competent authority."
+		},
+		{
+			"number": 5600,
+			"content": "Where it is necessary to appropriately dispose the agro-pesticides, appliances, raw materials and goods confiscated under this Act, the expenses of disposal shall be burdened by the punished."
+		},
+		{
+			"number": 5700,
+			"content": "The fines prescribed herein shall be imposed by the municipal or county (city) competent authority."
+		},
+		{
+			"number": 5800,
+			"content": "The Enforcement Regulations of this Act shall be established by the central competent authority."
+		},
+		{
+			"number": 5900,
+			"content": "This Act shall become effective as of the date of its promulgation. However, the date of entering into force of the articles amended on May 8, 2018 shall be decided by the Executive Yuan."
+		}
+	]
+}

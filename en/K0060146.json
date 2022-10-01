@@ -1,0 +1,184 @@
+{
+	"pcode": "K0060146",
+	"LawLevel": "命令",
+	"EngLawName": "Administrative Regulations on Manufacturing, Import and Report of the Controlled Telecommunications Radio-Frequency Devices",
+	"LawName": "電信管制射頻器材製造輸入及申報作業管理辦法",
+	"EngLawModifiedDate": "20211119",
+	"attachments": {
+		"0000006340": "Table 1 Application form of CTRFD manufacturing.pdf",
+		"0000007116": "Table 2 Application form of Class 1 CTRFD Import Approval Certificate.pdf",
+		"0000007117": "Table 3 Relevant Documents to be Attached to the Application for the Class 1 CTRFD Import Approval Certificate.pdf",
+		"0000007118": "Table 4 Application form of Class 2 CTRFD Import Approval Certificate.pdf",
+		"0000007119": "Table 5 Details of Relevant Documents to be Attached to the Application for the Class 2 CTRFD Import Approval Certificate.pdf",
+		"0000006345": "Table 6 CTRFD Report Information.pdf",
+		"0000006346": "Table 7 CTRFD Simple Report Information.pdf",
+		"0000006347": "Attachment 1 Flowchart of application Procedure for CTRFD Manufacturing.pdf",
+		"0000006348": "Attachment 2 Flowchart of application Procedure for CTRFD Import Approval.pdf"
+	},
+	"histories": [
+		"Formulated and announced in 24 articles by National Communications Commission（NCC）on July 15, 2020. Ref：Tung-Chuan-Bei-Tzu No. 10950033700. ",
+		"Several articles revised by National Communications Commission（NCC）on November 19, 2021. Ref：Tung-Chuan-Bei-Tzu No. 11050050761."
+	],
+	"divisions": [
+		{
+			"type": "chapter",
+			"number": 100,
+			"title": "General Principles",
+			"start": 100,
+			"end": 300
+		},
+		{
+			"type": "chapter",
+			"number": 200,
+			"title": "Manufacture",
+			"start": 400,
+			"end": 500
+		},
+		{
+			"type": "chapter",
+			"number": 300,
+			"title": "Import",
+			"start": 600,
+			"end": 1301
+		},
+		{
+			"type": "chapter",
+			"number": 400,
+			"title": "Reporting operation",
+			"start": 1400,
+			"end": 1600
+		},
+		{
+			"type": "chapter",
+			"number": 500,
+			"title": "Re-export, Sealing, Destruction under Surveillance, and Cancellation of Listed Management",
+			"start": 1700,
+			"end": 2200
+		},
+		{
+			"type": "chapter",
+			"number": 600,
+			"title": "Supplementary Provisions",
+			"start": 2300,
+			"end": 2400
+		}
+	],
+	"articles": [
+		{
+			"number": 100,
+			"content": "The regulations hereunder are promulgated pursuant to Paragraph 3 and 5, Article 65 of the   Telecommunications Management Act（hereinafter as the Act）."
+		},
+		{
+			"number": 200,
+			"content": "Controlled telecommunications radio-frequency devices（hereinafter as “CTRFDs”）refer to those authorized radio frequency devices specified in Paragraph 2, Article 65 of the Act."
+		},
+		{
+			"number": 300,
+			"content": "CTRFDs shall fall into one of two classes:\r\n1. Class 1 CTRFDs: refers to the CTRFDs necessary to establish up public telecommunications, dedicated telecommunications and other networks or amateur radio stations.\r\n2. Class 2 CTRFDs: refers to the CTRFDs other than those specified in the preceding subparagraph.\r\nThe competent authority shall supervise CTRFDs in accordance with the degree of influence on the order of radio waves and shall conduct regular reviews."
+		},
+		{
+			"number": 400,
+			"content": "Those that apply for manufacturing CTRFDs shall submit an application to the competent authority with the documents listed below; the competent authority shall issue a manufacturing approval certificate after passing the examination and prior to their  manufacture:\r\n1. Application Form for Manufacturing CTRFDs（Attachment Table 1）\r\n2. Photocopy of company registration certificate or business registration certificate.\r\n3. Factory registration certificate or exemption certificate of factory registration issued by the municipality or county（city）.\r\nManufacturers of telecommunications-controlled radio frequency equipment should install appropriate radio wave isolation facilities to avoid interference with legitimate radio users; if interference occurs, it should be handled in accordance with the interference regulations of the Administrative Regulations of Radio Frequency"
+		},
+		{
+			"number": 500,
+			"content": "Those that have obtained approval for the manufacture of CTRFDs, when changing the name of the manufacturer, representative, place of business or factory location, shall submit the required documents specified in Paragraph 1, Article 4 after completing the company or business change registration or factory registration file to the competent authority to apply for such change."
+		},
+		{
+			"number": 600,
+			"content": "CTRFDs shall be approved prior to being imported. However, any of the following circumstances shall be considered as not imported:\r\n1. Domestic manufacturing that is re-imported（returned）and imported after export.\r\n2. Imported from abroad to the business within the tax-free processing export zone approved by the government, to the business within the bonded area of the science and industrial park, to the business within the bonded area of the agricultural science and technology park, to the port area business in the free trade port area, and to the bonded factories, bonded warehouses, logistics centers and outlying island duty-free shopping stores managed by customs.\r\nCTRFD entering other areas of the Republic of China（Taiwan）from the businesses, factories, warehouses, logistics centers, and duty-free shopping stores listed in subparagraph 2 of the preceding Paragraph shall be handled in accordance with Article 7 or Article 8. However, this shall not apply to those that have been verified and certified."
+		},
+		{
+			"number": 700,
+			"content": "Applicants that apply for the import of Class 1 CTRFDs shall attach Application for CTRFD Import Permit（Table 2）and related documents（Table 3）for the import approval certificate of CTRFD according to their use and shall apply to the competent authority for the import approval certificate:\r\n1. CTRFDs necessary for establishing public telecommunications, dedicated telecommunications or amateur radio stations.\r\n2. CTRFDs for foreign ships or ships for export.\r\n3. CTRFDs for research and development, testing or demonstration.\r\n4. Non-domestic-manufactured CTRFD that will be re-imported（returned）after export.\r\n5. CTRFDs for inspection, importing less than ten models of the same brand.\r\n6. CTRFDs exclusively for export after processing, maintenance or assembly.\r\n7. One or two mobile amateur radio stations for personal use.\r\n8. CTRFDs specified in the project approval document.\r\nThose that apply for the import approval certificate of subparagraph 1, 2, 3, and  8 of the preceding Paragraph shall do so online; submitting the following document certificates or official letters shall exempt the applicant from attaching the relevant documents in Table 3:\r\n1. The official letter number of the approval document for the network establishment plan, the approval document for establishment of radio station, the approval document for the establishment of radio station installation, and approval for other telecommunications network projects.\r\n2. The official letter of the project approval."
+		},
+		{
+			"number": 800,
+			"content": "Applicants that apply for the import of Class 2 CTRFDs shall attach Application for CTRFD Import Permit（Table 4）and related documents（Table 5）for the import approval certificate of CTRFD according to their use and shall apply to the competent authority for the import approval certificate:\r\n1. Mobile satellite earth stations for telecommunication services or fixed satellite earth stations with antenna diameters less than three meters.\r\n2. Non-domestic-manufactured CTRFDs that will be re-imported（returned）after export.\r\n3. CTRFDs for inspection, each imported with less than ten models of the same brand.\r\n4. CTRFDs for research and development, testing or demonstration.\r\n5. CTRFDs exclusively for export after processing, maintenance or assembly.\r\n6. Except for mobile satellite earth stations and fixed satellite earth stations with antenna diameters less than three meters, wireless telecommunication terminal equipment or low-power radio frequency equipment for personal use.\r\n7. CTRFDs specified in the project approval document.\r\nThe devices in subparagraph 6 of the preceding Paragraph shall be for the applicant’s own use only, and cannot be transferred or used for other commercial purposes. The import quantity shall be limited to as follows:\r\n1. Those that bring in by themselves: no less than six and no more than ten.\r\n2. Those that send in by mail: no less than three and no more than ten.\r\n3. For the same natural person or judicial person, the number shall be limited to ten within one year. Among them, natural persons must be over 18 years old.\r\nThe import quantity in the subparagraph 6, Paragraph 1 can be imported for personal use with  an Affidavit, and the import approval certificate shall be exempt:\r\n1. For those that bring in devices by themselves: no more than five devices at a time.\r\n2. For those who send in by mail or by other non-self-carrying methods: no more than two devices.\r\n3. For the same natural person or judicial person, the number shall be limited to ten within one year. Among them, natural persons must be over 18 years old."
+		},
+		{
+			"number": 801,
+			"content": "Those that have obtained a certificate of special permit number for importing controlled telecommunication radio-frequency devices（hereinafter referred to as the certificate of special permit number）may import Class 2 CTRFDs for research, development and testing purposes.\r\nThe certificate of special permit number shall be valid for two years and shall be divided into five levels according to the allowed number of imports as follows:\r\n1. Level 1 certificate of special permit number: More than 2,000 imports within the validity of the certificate of special permit number;\r\n2. Level 2 certificate of special permit number: Between 1,000 and 2,000 imports within the validity of the certificate of special permit number;\r\n3. Level 3 certificate of special permit number: Between 500 and 1,000 imports within the validity of the certificate of special permit number;\r\n4. Level 4 certificate of special permit number: Between 250 and 500 imports within the validity of the certificate of special permit number;\r\n5. Level 5 certificate of special permit number: Less than 250 imports within the validity of the certificate of special permit number.\r\nWith respect to CTRFDs that are imported in accordance with Paragraph 1, the number of imported devices of the same models shall be limited to 750 only and the entity that acquires the certificate of special permit number shall be liable for the safekeeping of devices.\r\nThe competent authority may, on a random basis, dispatch personnel to inspect the use and status of CTRFDs imported in accordance with Paragraph 1."
+		},
+		{
+			"number": 802,
+			"content": "Those that comply with provisions specified in the following subparagraphs may select one of the five levels prescribed in Paragraph 2 of Article 8-1 and apply for a certificate of special permit number to the competent authority:\r\n1. During the most recent two years, have obtained more than 50 import approval numbers from the competent authority each year on average; or, during the most recent two years, has been recognized by the Ministry of Economic Affairs as an excellent manufacturer and have obtained more than 30 import approval numbers from the competent authority each year on average.\r\n2. During the most recent two years, have not been subject to punitive measures by the competent authority due to the violation of Paragraph 1 or 2 of Article 18.\r\nThose that obtained the certificate of special permit number and comply with provisions of the following subparagraphs may, within two months from the three months prior to the expiry of the certificate, apply for reissuing the certificate of special permit number to the competent authority:\r\n1. Devices imported during the validity of the certificate of special permit number over the last four years have been well-managed internally without any incidents of missing or stolen items.\r\n2. According to the inspection conducted by the competent authority in accordance with Paragraph 4 of Article 8-1, all devices are within the office or factory location. Nevertheless, this shall not apply to the condition where the devices have been re-exported and the applicant provides a photocopy of customs export certificate or the evidence of re-export.\r\nThose that apply for a certificate of special permit number shall submit the following documents to the competent authority:\r\n1. Device management plan\r\n2. A list of import approval certificates issued by the competent authority during the most recent two years and documents that prove the competent authority agreed to remove the device control; or the management records of devices imported in accordance with Paragraph 1 of Article 8-1 during the validity of certificate of special permit number during the most recent four years（including the item name, quantity, use and direction of flow）.\r\n3. A list of testing personnel of the applicant, research plan, records or reports of the previous year demonstrating the research and development and testing capacity of the applicant."
+		},
+		{
+			"number": 803,
+			"content": "Where those that obtained a certificate of special permit number in accordance with Article 8-2 fall under any of the following circumstances, the competent authority may abolish the certificate thereof:\r\n1. The management status of the device differs from the management plan proposed during an inspection conducted by the competent authority in accordance with Paragraph 4 of Article 8-1.\r\n2. A penalty has been imposed thereon by the competent authority in accordance with Subparagraph 6 of Paragraph1 of Article 80 of the Regulations.\r\nManufacturers whose certificate has been abolished by the competent authority in accordance with the preceding paragraph shall, within two years upon the abolishment date, re-export the CTRFD imported with the certificate or apply for destruction to the competent authority.\r\nManufacturers whose certificate has been abolished by the competent authority in accordance with Paragraph 1 shall not apply for a certificate of special permit number within three years upon the abolishment date."
+		},
+		{
+			"number": 900,
+			"content": "When importing wireless telecommunication terminal equipment, low-power radio frequency equipment or amateur radio stations that have passed the inspection, the import may be processed with the verification certificate."
+		},
+		{
+			"number": 1000,
+			"content": "Those CTRFDs applicable to temporary customs clearance regulations for goods, after having been approved for import by the competent authority may be exempt from applying for an import approval certificate, and shall be re-exported within the prescribed time limit in accordance with relevant provisions of temporary clearance."
+		},
+		{
+			"number": 1100,
+			"content": "When a ship or aircraft carries imports from overseas, the CTRFD installed in the vessel shall be exempt from applying for an import approval certificate, but should apply for a radio station license in accordance with relevant laws and regulations."
+		},
+		{
+			"number": 1101,
+			"content": "Foreign nationals that have obtained visa-free entry or possess a diplomatic visa, courtesy visa or visitor visa shall be eligible to import a mobile satellite earth station for private use without applying for an import approval certificate.\r\nThe foreign national prescribed in the preceding paragraph shall be eligible to import only one mobile satellite earth station for private use."
+		},
+		{
+			"number": 1200,
+			"content": "When an applicant applies for an import approval certificate, if the validity period specified in the approved network setting approval document, radio station setting approval document or the project approval document differ, they shall be applied for separately."
+		},
+		{
+			"number": 1300,
+			"content": "The validity period of the import approval certificate shall be one year, and each certificate shall be limited to one use. If necessary, an extension can be applied for one year prior to the expiration of the period, and the extension shall be limited to once only. However, the validity period of the import approval certificate shall not exceed the validity period of the installation permit or related approval documents.\r\nShould the import approval certificate be lost of misplaced, the application form shall be submitted to competent authority for re-issuance.\r\nWhen the information of import approval certificate is changed, the application form shall be submitted for replacement."
+		},
+		{
+			"number": 1301,
+			"content": "The special code for radio-frequency devices as exemption from import approval certificate shall be announced by the competent authority separately."
+		},
+		{
+			"number": 1400,
+			"content": "Those that manufacture, import, or possess CTRFDs for establishing a radio station or with a certain power higher than announced by the competent authority, unless otherwise provided in these Regulations, shall submit a report every two years electronically between the period of January 1st to January 31st, attaching the CTRFD report documents.\r\nThe contents of the report in the preceding paragraph shall include the flow, purpose and status of the devices.\r\nIf the report is deemed to be incomplete or misleading, the competent authority may order it to file reports quarterly or monthly.\r\nThose that have been ordered to report quarterly by the competent authority shall submit the CTRFD report documents of the previous quarter for report to the competent authority\r\nThose that have been ordered by the competent authority to submit monthly reports shall report to the competent authority before the tenth of each month, attaching the report documents of CTRFD of the previous month.\r\nWhen the reports in Paragraph 4 and 5 have been successfully submitted for one year, the competent authority may revoke the requirement for quarterly or monthly reports depending on the circumstances.\r\nThe term quarterly in Paragraph 3 refers to the first quarter from January to March, the second quarter from April to June, the third quarter from July to September, and the fourth quarter from October to December."
+		},
+		{
+			"number": 1500,
+			"content": "Those submitting the report to the competent authority shall attach the following documents:\r\n1. CTRFD report information table（Table 6）\r\n2. Other relevant report materials as required by the competent authority.\r\nFor the report in the preceding paragraph, if the documents are incomplete, the contents of the declaration are lacking or not in compliance with the regulations, they shall be supplemented within a prescribed period of time; failure to undertake corrective action or submitting incomplete corrections within the time limit shall be considered as non-declaration."
+		},
+		{
+			"number": 1600,
+			"content": "Those submitting the report to the competent authority falling under any one of the following circumstances may submit a Simplified Report Information Table（Table 7）and report to the competent authority electronically:\r\n1. CTRFDs with the approval document possessed for station installation\r\n2. CTRFDs that have been reported to the competent authority for sealing up in accordance with the regulations.\r\n3. CTRFDs that are imported, approved and controlled by the competent authority in accordance with the provisions of these Regulations and re-imported after export for maintenance due to factors such as failure, damage or aging of parts.\r\n4. The import is only for short-term static display, short-term exhibition performance or sports competition, and is promised to be re-exported after the end of the period.\r\nFor CTRFDs that have obtained a radio station license in subparagraph 1 of the preceding Paragraph, those submitting the report may apply for the same when applying for renewal of the power station license."
+		},
+		{
+			"number": 1700,
+			"content": "If the applicant applies for import approval with a radio station installation license, network installation plan approval document or radio station installation approval document, but fails to obtain a radio station license or complete the installation within the prescribed period, the applicant shall re-export the devices prior to the expiration of the period or handle in accordance with Article 19.\r\nFor devices imported with project approval documents in accordance with subparagraph 1, 3 or 8, Paragraph 1, Article 7, the applicant shall re-export the imported CTRFD or apply for destruction under surveillance prior to the expiration of the period specified in the approval document. If necessary, the applicant may apply for an extension with a written statement stating the reasons within 30 days prior to the expiration of the prescribed period. The extension period shall be limited to two years and be granted a maximum of two times.\r\nFor devices imported in accordance with subparagraph 5 or 6, Paragraph 1, Article 7, the applicant shall re-export the imported CTRFD or apply for destruction under surveillance prior to the expiration of the valid period in the import approval certificate. If necessary, the applicant may apply for an extension with a written statement stating the reasons within 30 days prior to the expiration of the prescribed period. The extension period shall be limited to two years and be granted a maximum of two times.\r\nWhen any of the following circumstances occurs in the preceding two Paragraphs, the re-export of  imported CTRFD or application for destruction under surveillance of competent authority shall be exempt:\r\n1. The Class 1 CTRFD that has obtained the approval document for the network establishment, station establishment or a station license, and has submitted a report to the competent authority for reference.\r\n2. It has been deemed necessary by the competent authority after reviewing the device use and management plan of the applicant and there are no concerns pertaining to radio wave interference.\r\nFor the device imported in accordance with subparagraph 7, Paragraph 1 of Article 7, the applicant shall not transfer it or use it for other commercial purposes, and shall obtain a mobile amateur radio license within six months from the date of issuance of the import approval certificate. If the applicant fails to obtain a license within six months from the date of issuance of the import approval certificate, the imported CTRFD shall be re-exported or reported to the competent authority for destruction under surveillance. If necessary, the applicant may apply for an extension with a written statement stating the reasons within 30 days before the expiration of the prescribed period. The extension period shall be six months and granted only once."
+		},
+		{
+			"number": 1800,
+			"content": "For devices imported in accordance with subparagraph 3 to 5, Paragraph 1 of Article 8, the applicant shall re-export the imported CTRFD or apply for destruction under surveillance prior to the expiration of the period in the import approval certificate. If necessary, the applicant may destroy it by themselves and submit a record of the destruction process to the competent authority for reference.\r\nFor devices imported in accordance with subparagraph 7, Paragraph 1, Article 8, the applicant shall re-export the imported CTRFD or apply for destruction under surveillance prior to the expiration of the period in the import approval certificate. If necessary, the applicant may destroy it by themselves and submit a record of the destruction process to the competent authority for reference.\r\nThe applicant may apply for an extension with a written statement stating the reasons within 30 days before the expiration of the period in preceding two Paragraphs. The extension period shall be two years at most and granted a maximum of two times.\r\nThe re-export of imported CTRFD or application for destruction under surveillance of competent authority or self-destruction shall be exempt in any of the following circumstances:\r\n1. The CTRFD has obtained certification and has been reported to the competent authority for reference.\r\n2. The competent authority has deemed it unnecessary after reviewing the device use and management plan of the applicant and there are no concerns pertaining to radio wave interference.\r\nFor the imported Class 2 CTRFD approved by the competent authority for the project approval that has not been verified and certificated, its replacement, suspension of use or transfer to a third party shall be approved by the competent authority."
+		},
+		{
+			"number": 1900,
+			"content": "When the Class 1 CTRFD is damaged, replaced or its use has terminated, unless otherwise specified in these Regulations, the owner of the equipment shall immediately file a report to the competent authority to seal up or destroy the device. However, if the owner of the equipment is unknown, it may be sealed up or directly destroyed by the competent authority.\r\nWithin three months prior to the expiration of the sealing up period mentioned in the preceding paragraph, the owner of the device may apply for an extension with a written statement of reasons, and the extension shall be limited to three years.\r\nWhen the competent authority is aware that a CTRFD that should be sealed up or destroyed in the Paragraph 1, it may voluntarily send personnel to seal it up or destroy it.\r\nThe competent authority may send personnel to inspect the sealed CTRFD periodically.\r\nThe CTRFD replaced or terminated for use may be transferred to a third party.\r\nExcept as otherwise provided in these Regulations, for the temporarily suspended Class 1 CTRFD, if the owner of the device does not seal up or destroy it, a designated person shall be assigned to list and manage the quantity and location of the device, and report to the competent authority for reference. The competent authority may send personnel to inspect the device periodically.\r\nRadio stations on the ship or aircraft in any of the following circumstances may not be sealed up or destroyed after being reported to the competent authority for reference:\r\n1. Ship radio stations are destroyed or transferred abroad, or exported abroad with the hull.\r\n2. The aircraft radio station is damaged, replaced, terminated for use or is exported abroad with the aircraft.\r\nAmateur radio stations that have passed the type certification do not need to report, sealing up, destruction under surveillance, or list management by a designated person when they are destroyed, replaced, terminated or suspended of use."
+		},
+		{
+			"number": 2000,
+			"content": "Anyone that re-exports CTRFD in accordance with the provisions of these Regulations shall attach one of the following documents after the equipment is exported, and report to the competent authority to remove the control:\r\n1. A photocopy of the customs export certificate or other documents that can prove re-export.\r\n2. A photocopy of the foreign ship’s registration certificate or domestic invoice."
+		},
+		{
+			"number": 2100,
+			"content": "When the CTRFD that should be sealed up, destroyed under surveillance, destroyed by the owner or re-exported becomes misplaced or stolen, the owner of the equipment shall immediately submit the certification documents issued by the police agency or an affidavit made by him/her/itself and apply to the competent authority to release the control management."
+		},
+		{
+			"number": 2200,
+			"content": "Those who hold Personal Locator Beacon（PLB）equipment for use shall register the equipment identification code, personal and emergency contact number and other information with the Marine Port Bureau of MOTC. The same applies when the equipment is damaged, replaced or terminated, or when the login information changes.\r\nHolders of PLB shall provide the equipment identification code and personal data for the search and rescue agency to make records and notify the competent authority if they have been found by the Marine Port Bureau of MOTC or the search and rescue agency that they have not registered in accordance with the provisions of the preceding Paragraph; and the holder must complete the registration prior to its use is continued."
+		},
+		{
+			"number": 2300,
+			"content": "If the application documents are deemed incomplete or the content of the record is incomplete, notification shall be provided to undertake corrective action within a prescribed period of time; the application shall not be accepted if it is not supplemented or corrected by the deadline or is deemed to be still incomplete."
+		},
+		{
+			"number": 2400,
+			"content": "These Regulations shall be effective from July 1, 2020.\r\nAmendments to the Regulations shall become effective on the promulgation date."
+		}
+	]
+}

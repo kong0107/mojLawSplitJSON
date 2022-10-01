@@ -1,0 +1,324 @@
+{
+	"pcode": "B0000007",
+	"LawLevel": "法律",
+	"EngLawName": "Act Governing the Choice of Law in Civil Matters Involving Foreign Elements",
+	"LawName": "涉外民事法律適用法",
+	"EngLawModifiedDate": "20100526",
+	"histories": [
+		"Promulgated on June 6, 1953",
+		"Amended on December 30, 2009",
+		"Amended on May 26, 2010"
+	],
+	"divisions": [
+		{
+			"type": "chapter",
+			"number": 100,
+			"title": ": General Principles",
+			"start": 100,
+			"end": 800
+		},
+		{
+			"type": "chapter",
+			"number": 200,
+			"title": ": The Subject of Rights",
+			"start": 900,
+			"end": 1500
+		},
+		{
+			"type": "chapter",
+			"number": 300,
+			"title": ": Formal Requisites of Juridical Acts; Agency",
+			"start": 1600,
+			"end": 1900
+		},
+		{
+			"type": "chapter",
+			"number": 400,
+			"title": ": Obligations",
+			"start": 2000,
+			"end": 3700
+		},
+		{
+			"type": "chapter",
+			"number": 500,
+			"title": ": Rights in Things (“Rights in Rem”)",
+			"start": 3800,
+			"end": 4400
+		},
+		{
+			"type": "chapter",
+			"number": 600,
+			"title": ": Domestic Relations",
+			"start": 4500,
+			"end": 5700
+		},
+		{
+			"type": "chapter",
+			"number": 700,
+			"title": ": Succession",
+			"start": 5800,
+			"end": 6100
+		},
+		{
+			"type": "chapter",
+			"number": 800,
+			"title": ": Final Provisions",
+			"start": 6200,
+			"end": 6300
+		}
+	],
+	"articles": [
+		{
+			"number": 100,
+			"content": "Civil matters involving foreign elements are governed, in the absence of any provisions in this Act, by the provisions of other statutes; in the absence of applicable provisions in other statutes, by the principles of law."
+		},
+		{
+			"number": 200,
+			"content": "Where the applicable law in accordance with this Act is the national law of a party, but such party has multiple nationalities, the national law is the law of the nationality most closely connected with the party."
+		},
+		{
+			"number": 300,
+			"content": "Where the applicable law in accordance with this Act is the national law of a party, but the party is stateless, the law of the place in which the party is domiciled is applied."
+		},
+		{
+			"number": 400,
+			"content": "Where the applicable law in accordance with this Act is the law of the place in which a party is domiciled, but the party has multiple domiciles, the law of the domicile most closely connected with the party is applied.\r\nIf no domicile of a party can be established, the law of the place in which the party resides is applied.\r\nWhere a party has multiple residences, the law of the residence most closely connected with the party is applied.  If no residence of a party can be established, the law of the place in which the party is present is applied."
+		},
+		{
+			"number": 500,
+			"content": "Where reference is made by this Act to the national law of a party, but the national law of the party differs by reference to sub-national region or another factor, the applicable law is the law as indicated by the rules on choice of law of that national law; if the rules on choice of law of that national law are unclear, the law with which the party is most closely connected, whether by region or by the other factor, is applied."
+		},
+		{
+			"number": 600,
+			"content": "Where this Act provides that the national law of a party is applicable, but the national law of the party indicates that another law should govern the legal relation in question, such other law is applied.  However, if the national law of the party or the other law indicates, in turn, the law of the Republic of China as applicable, the internal law of the Republic of China is applied."
+		},
+		{
+			"number": 700,
+			"content": "Where a party to a civil matter involving foreign elements evades a compulsory provision or a prohibition of the law of the Republic of China, that compulsory provision or prohibition is nevertheless applied."
+		},
+		{
+			"number": 800,
+			"content": "Where this Act provides that the law of a foreign State is applicable, if the result of such application leads to a violation of the public order or boni mores of the Republic of China, that law of the foreign State is not applied."
+		},
+		{
+			"number": 900,
+			"content": "The legal capacity of a person is governed by his/her national law."
+		},
+		{
+			"number": 1000,
+			"content": "(1) The capacity of a person to act is governed by his/her national law.\r\n(2) The capacity of a person to act is not lost or limited because of a change of nationality by him/her.\r\n(3) Where an alien of no or limited capacity to act under his/her national law is of full capacity to act under the law of the Republic of China, he/she is deemed to be of full capacity to act with respect to his juridical acts undertaken within the Republic of China.\r\n(4) The preceding paragraph does not apply to a juridical act governed by family law or law of succession or to a juridical act regarding immovable property located in a foreign State."
+		},
+		{
+			"number": 1100,
+			"content": "(1) Where an alien having a domicile or residence within the Republic of China has disappeared, a declaration of death of that alien may be decreed with respect to his property located within the Republic of China or with respect to those legal relations affecting him that are required to be determined by reference to the law of the Republic of China.\r\n(2) A declaration of death of an alien may be decreed in accordance with the law of the Republic of China and without regard to the limitations mentioned in the preceding paragraph, upon the application of the spouse or a lineal relative by blood of the disappeared alien if the spouse or lineal relative is a national of the Republic of China and has a domicile or residence within the Republic of China.\r\n(3) The effect of a declaration of death decreed under either of the preceding two paragraphs is governed by the law of the Republic of China."
+		},
+		{
+			"number": 1200,
+			"content": "(1) Where there is a valid ground to declare guardianship or curatorship in respect of an alien under both his/her national law and the law of the Republic of China, a declaration of guardianship or curatorship may be decreed if he/she has a domicile or residence within the Republic of China.\r\n(2) The effect of a declaration of guardianship or curatorship decreed under the preceding paragraph is governed by the law of the Republic of China."
+		},
+		{
+			"number": 1300,
+			"content": "The national law of a legal person is the law under which it was incorporated."
+		},
+		{
+			"number": 1400,
+			"content": "The following internal affairs of an alien legal person are governed by its national law:\r\n(1) The incorporation, legal nature, legal capacity and capacity to act of the legal person;\r\n(2) The acquisition or withdrawal of membership in the corporation;\r\n(3) The rights and obligations of membership in the corporation;\r\n(4) The organs and organization of the legal person;\r\n(5) The representative of the legal person and the limitation on his/her power of representation;\r\n(6) The internal distribution of liability toward a third person between the legal person and its organs;\r\n(7) The amendment of the bylaws;\r\n(8) The dissolution and liquidation of the legal person; and\r\n(9) Other internal affairs of the legal person."
+		},
+		{
+			"number": 1500,
+			"content": "If an alien legal person establishes a branch under the law of the Republic of China, the internal affairs of that branch are governed by the law of the Republic of China."
+		},
+		{
+			"number": 1600,
+			"content": "The formal requisites of a juridical act are governed by the law applicable to the act.  However, a juridical act that conforms to the formal requisites provided for in the law of the place where the act was undertaken is also effective; where a juridical act is undertaken at different places, it is effective if it conforms to the formal requisites of the law of any one of the places."
+		},
+		{
+			"number": 1700,
+			"content": "Where an agent’s authority is conferred by a juridical act, the formation of the agency and the relationship between the principal and the agent are governed by the law expressly chosen by them; in the absence of an express choice, by the law of the place with which the agency relationship is most closely connected."
+		},
+		{
+			"number": 1800,
+			"content": "Where an agent undertakes a juridical act in the name of the principal with a third person, as between the principal and the third person, the existence, extent, and effect of an exercise of the agent’s authority are governed by the law as expressly chosen by the principal and the third person; in the absence of an express choice, by the law of the place with which the act undertaken by the agent is most closely connected."
+		},
+		{
+			"number": 1900,
+			"content": "Where an agent undertakes a juridical act in the name of the principal with a third person, as between the third person and the agent, the legal effect of the agent’s acting with, in excess of, or without authority is governed by the applicable law as provided in the preceding Article."
+		},
+		{
+			"number": 2000,
+			"content": "(1) The applicable law regarding the formation and effect of a juridical act which results in a relationship of obligation is determined by the intention of the parties.\r\n(2) Where there is no express intention of the parties or their express intention is void under the applicable law determined by them, the formation and effect of the juridical act are governed by the law which is most closely connected with the juridical act.\r\n(3) Where among the obligations resulting from a juridical act there is a characteristic one, the law of the domicile of the party obligated under the characteristic obligation at the time he /she undertook the juridical act is presumed to be the most closely connected law.  However, where a juridical act concerns immovable property, the law of the place where the immovable property is located is presumed to be the most closely connected law."
+		},
+		{
+			"number": 2100,
+			"content": "(1) Where a juridical act results in the creation of rights on a negotiable instrument, the formation and effect of the act are governed by the law determined by the intention of the parties.\r\n(2) However, where there is no express intention of the parties or their express intention is void under the applicable law determined by them, the law of the place where the juridical act was undertaken governs; where the place of the juridical act is unclear, the law of the place of payment governs.\r\n(3) Formal requisites of a juridical act undertaken for the purpose of exercising or preserving a right on a negotiable instrument are governed by the law of the place of the act."
+		},
+		{
+			"number": 2200,
+			"content": "Where a juridical act results in an obligation on a security made payable to order or to bearer, and is not governed by Article 21, the formation and effect of the act are governed by the law of the place where the act was performed; where the place of the act is unclear, by the law of the place of payment."
+		},
+		{
+			"number": 2300,
+			"content": "An obligation arising from a management of the affairs of another without mandate (“negotiorum gestio”) is governed by the law of the place where the management was undertaken."
+		},
+		{
+			"number": 2400,
+			"content": "An obligation arising from an unjust enrichment is governed by the law of the place where the enrichment was received.  However, if the unjust enrichment arises from an intended performance of an obligation, the obligation of the enriched party is governed by the law applicable to the legal relationship which gave rise to the intended performance."
+		},
+		{
+			"number": 2500,
+			"content": "An obligation arising from a tort is governed by the law of the place where the tort was committed.  However, if another law is the law most closely connected with the tort, it governs."
+		},
+		{
+			"number": 2600,
+			"content": "Where an injury has resulted from an ordinary use or consumption of an article of commerce, the legal relationship between the injured person and the manufacturer is governed by the national law of the latter.  However, where the manufacturer has agreed in advance or where the manufacturer could have foreseen that the article would be sold in a place whose law is one of the three mentioned below, the law of that place is applied, if the injured person chooses that law as the applicable law:\r\na. The law of the place of injury;\r\nb. The law of the place where the injured person purchased the article; and\r\nc. The national law of the injured person."
+		},
+		{
+			"number": 2700,
+			"content": "Where an obligation has resulted from a disruption of the order of a market by an act of unfair competition or of restriction of competition, the obligation is governed by the law of the place where the market is located.  However, where the unfair competition or restriction of competition is produced by a juridical act, and where the law governing the juridical act is more beneficial to the injured person, that law is applied."
+		},
+		{
+			"number": 2800,
+			"content": "(1) An obligation arising from a tort which was committed by means of publication, radio, television, internet publication or other medium of communication is governed by the law mentioned below which is the most closely connected with the tort:\r\n    a. The law of the place where the tort was committed; if the place of the tort is unclear, the law of the tortfeasor’s domicile;\r\n    b. The law of the place where the injury occurred, if such place could have been foreseen by the tortfeasor; and\r\n    c. The national law of the injured person, if the injury was done to his non-property individual rights.\r\n(2) Where the tortfeasor referred to in the preceding paragraph is in the business of publication, radio, television, internet publication, or other medium of communication, then the law of the place of his/her business governs."
+		},
+		{
+			"number": 2900,
+			"content": "The existence of a direct claim of an injured person against the insurer of the person liable for the tort is governed by the law applicable to the insurance contract.  However, the injured person also may assert a direct claim if the law applicable to the obligation permits its assertion."
+		},
+		{
+			"number": 3000,
+			"content": "An obligation arising from a legal fact other than those referred to in Articles 20-29 is governed by the law of the place where the fact occurred."
+		},
+		{
+			"number": 3100,
+			"content": "Where the parties with respect to an obligation which arises otherwise than from a juridical act agree to the application of the law of the Republic of China after a suit has been brought on the obligation in a court of the Republic of China, the law of the Republic of China is applied."
+		},
+		{
+			"number": 3200,
+			"content": "(1) Where a claim has been transferred, the effect of the transfer on the debtor is determined by the law governing the formation and effect of the transferred claim.\r\n(2) Where a third person has provided security for a claim, the effect on the third person of a transfer of the claim is determined by the law governing the formation and effect of the security."
+		},
+		{
+			"number": 3300,
+			"content": "(1) Where a contract of assumption is concluded between an assuming person and the debtor, the effect of the assumption on the creditor is governed by the law applicable to the formation and effect of the original obligation.\r\n(2) Where a third person has provided security for the performance of an obligation to a creditor,  the effect on the third person of an assumption of the obligation is governed by the law applicable to the formation and effect of the security."
+		},
+		{
+			"number": 3400,
+			"content": "Where a third person satisfies an obligation on behalf of a debtor by reason of a particular legal relationship existing between them, the right of reimbursement of the third person against the debtor is governed by the law applicable to the legal relationship."
+		},
+		{
+			"number": 3500,
+			"content": "Where an obligation borne by multiple persons has been performed in whole by some of them, the right to reimbursement of those who performed against the others is governed by the law applicable to the legal relationship between all of them."
+		},
+		{
+			"number": 3600,
+			"content": "The time limitation of action for a claim is governed by the law applicable to the legal relationship from which the claim arose."
+		},
+		{
+			"number": 3700,
+			"content": "The extinction of an obligation is governed by the law applicable to the formation and effect of the obligation."
+		},
+		{
+			"number": 3800,
+			"content": "(1) A property right in a thing is governed by the law of the place where the thing is located.\r\n(2) A property right in a right is governed by the law of the place where the right is formed.\r\n(3) Where the location of a thing has changed, the acquisition, loss, or change of a property right in the thing is governed by the law of the location of the thing at the time the decisive fact occurred.\r\n(4) A property right in a ship is governed by the law of the nationality of the ship, and a property right in an aircraft is governed by the law of the State in which the aircraft is registered."
+		},
+		{
+			"number": 3900,
+			"content": "The formal requisites of a juridical act concerning a property right are governed by the law applicable to the right."
+		},
+		{
+			"number": 4000,
+			"content": "The law of the Republic of China governs the effect of a property right in a movable thing formed in accordance with the law prevailing in the foreign location from which it is brought into the Republic of China."
+		},
+		{
+			"number": 4100,
+			"content": "The acquisition, creation, loss, or change of a property right in a movable thing during its transit is governed by the law of its destination."
+		},
+		{
+			"number": 4200,
+			"content": "(1) A right in an intellectual property is governed by the law of the place where the protection of that right is sought (“lex loci protectionis”).\r\n(2) Any right in an intellectual property created by an employee in the performance of his/her duties is governed by the law applicable to the contract of employment."
+		},
+		{
+			"number": 4300,
+			"content": "(1) The legal relationship arising from an ocean bill of lading is governed by the law specified as applicable on the bill; in the absence of specification, it is governed by the law of the place most closely connected with the bill.\r\n(2) Where goods covered by an ocean bill of lading are claimed by multiple persons on the basis either of the bill or of a property right, the priority of the claims to the goods is governed by the law applicable to claims of property right in the goods.\r\n(3) The provisions of the preceding two paragraphs regarding ocean bills of lading apply mutatis mutandis to determine the law applicable to the legal relationship arising from a warehouse receipt or a bill of lading other than an ocean bill of lading."
+		},
+		{
+			"number": 4400,
+			"content": "Where a security is held by a centralized depositary, the acquisition, loss, disposition, or change of a right in the security is governed by the law expressly specified as applicable in the contract of centralized deposit; in the absence of express specification, the law of the place most closely connected with the security governs."
+		},
+		{
+			"number": 4500,
+			"content": "(1) The formation of an engagement to marry is governed by the respective national law of each party.  However, an engagement to marry is also effective if it satisfies the formal requisites of the national law of one of the parties or of the law of the place where the engagement is concluded.\r\n(2) The effect of an engagement to marry is governed by the national law common to the parties; in the absence of a common national law, by the law of the domicile common to them; in the absence of a common law of domicile, by the law most closely connected with them."
+		},
+		{
+			"number": 4600,
+			"content": "The formation of a marriage is governed by the national law of each party.  However, a marriage is also effective if it satisfies the formal requisites prescribed either by the national law of one of the parties or by the law of the place of ceremony."
+		},
+		{
+			"number": 4700,
+			"content": "The effect of a marriage relationship is governed by the national law common to the spouses; in the absence of a common national law, by the law of the domicile common to them; in the absence of a common law of domicile, by the law of the place most closely connected with the marriage relationship."
+		},
+		{
+			"number": 4800,
+			"content": "(1) Where the spouses have agreed in writing that either the national law or the law of domicile of one of them shall apply to their matrimonial property regime, the law agreed-upon governs.\r\n(2) Where there is no agreement or where their agreement is void under the applicable law of the preceding paragraph, the matrimonial property regime of the spouses is governed by the national law common to them; in the absence of a common national law, by the law of domicile common to them; in the absence of a common law of domicile, by the law of residence common to them; in the absence of a common law of residence, by the law of the place most closely connected with their marriage relationship.\r\n(3) With respect to the immovable property of the spouses, if the property is subject to special provisions under the law of the place where it is located, the preceding two paragraphs do not apply."
+		},
+		{
+			"number": 4900,
+			"content": "Where the applicable law to a matrimonial property regime is a foreign law, but where the spouses have undertaken a juridical act with a third person acting in good faith concerning a property located in the Republic of China, the effect of the matrimonial property regime on the third person is governed by the law of the Republic of China."
+		},
+		{
+			"number": 5000,
+			"content": "Divorce and the effect of divorce are governed by the national law common to the spouses at the time they reach an agreement of divorce or when a suit is brought for the divorce; in the absence of a common national law, by the law of domicile common to them; in the absence of a common law of domicile, by the law of the place most closely connected with the marriage relationship."
+		},
+		{
+			"number": 5100,
+			"content": "A child is a legitimate child if he/she was a legitimate child at the time of birth under the national law of the child, of his/her mother, or of the husband of his/her mother.  However, where the marriage relationship between the parents has ended before a child was born, the child is a legitimate child if he/she was a legitimate child under his/her national law when born or under the national law of his/her mother or of the husband of his/her mother at the time the marriage relationship ended."
+		},
+		{
+			"number": 5200,
+			"content": "Where the natural father and natural mother of a child born out of wedlock become married, the status of the child is governed by the law applicable to the effect of the marriage."
+		},
+		{
+			"number": 5300,
+			"content": "(1) An acknowledgement of paternity is effective if, at the time it is made or an action concerning paternity is filed, it is effective under the national law of either the acknowledging person or the acknowledged person.\r\n(2) If, under the preceding paragraph, the acknowledged person is a fetus, the national law of the mother is the national law of the fetus.\r\n(3) The effect of an acknowledgement of paternity is governed by the national law of the acknowledging person."
+		},
+		{
+			"number": 5400,
+			"content": "(1) The formation and termination of an adoption of a child are governed for the adoptive parent and for the adopted child by their respective national laws.\r\n(2) The effect of an adoption and its termination is governed by the national law of the adoptive parent."
+		},
+		{
+			"number": 5500,
+			"content": "The legal relationship between parents and their children is governed by the national law of the children."
+		},
+		{
+			"number": 5600,
+			"content": "(1) A guardianship is governed by the national law of the ward.  However, the guardianship of a ward who is an alien, who has a domicile or residence within the Republic of China, and who satisfies one of the following circumstances is governed by the law of the Republic of China:\r\n    a. Where, under the national law of the ward, a guardian should have been appointed for him, but there is no person performing the office of a guardian; and\r\n    b. Where the ward is the subject of a declaration of guardianship in the Republic of China.\r\n(2) The preceding paragraph applies mutatis mutandis to a curatorship."
+		},
+		{
+			"number": 5700,
+			"content": "A relationship of maintenance, whether or not arising from a matrimonial relationship, is governed by the national law of the person entitled to maintenance."
+		},
+		{
+			"number": 5800,
+			"content": "A succession upon death is governed by the national law of the decedent.  However, if a national of the Republic of China is an heir under the law of the Republic of China, he/she is entitled to inherit that part of the estate which is located within the Republic of China."
+		},
+		{
+			"number": 5900,
+			"content": "Where an alien dies leaving property within the Republic of China, if, under the applicable law under the preceding Article, no person is entitled to take the property by descent, such property is dealt with in accordance with the law of the Republic of China."
+		},
+		{
+			"number": 6000,
+			"content": "(1) The making and effect of a will are governed by the national law of the testator at the time of the making of the will.\r\n(2) The revocation of a will is governed by the national law of the testator at the time of revocation."
+		},
+		{
+			"number": 6100,
+			"content": "In addition to the applicable law stated in the preceding Article, a will is also effectively made or revoked by following the formal requisites as provided in any one of the following laws:\r\na. The law of the place where the will was made;\r\nb. The law of the place in which the testator was domiciled at the time of death; and\r\nc. Where the will concerns immovable property, the law of the place where the immovable property is located."
+		},
+		{
+			"number": 6200,
+			"content": "The provisions of this Revised Act do not apply to civil matters which occurred prior to its entering into force.  However, where a part of the legal effect of a civil matter does not occur until after this Revised Act has entered into force, the Revised Act applies to such part."
+		},
+		{
+			"number": 6300,
+			"content": "This Revised Act enters into force one year after the date of its promulgation.\r\n\r\nTranslated into English by\r\nRong-chwan Chen*\r\nIn consultation with\r\nJamison Wilcox** and Frederick Tse-shyang Chen***\r\n\r\n*University Distinguished Professor of Law, National Taipei University\r\n**Associate Professor of Law, Quinnipiac University\r\n***Professor of Law Emeritus, Quinnipiac University"
+		}
+	]
+}

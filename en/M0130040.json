@@ -1,0 +1,202 @@
+{
+	"pcode": "M0130040",
+	"LawLevel": "命令",
+	"EngLawName": "Regulations of Meat Inspection",
+	"LawName": "屠宰衛生檢查規則（89.04.19訂定）",
+	"EngLawModifiedDate": "20160307",
+	"histories": [
+		"Full text including 30 articles jointly promulgated by the Council of Agriculture, Executive Yuan （(89) Nong-Fang-Zih-88565143） and the Department of Health, Executive Yuan (Wei-Shu-Shih-Zih-88057224） on April 19, 2000.",
+		"Article 3-1, 3-2, 26-1 added and Article 3 amended, and promulgated jointly by the Council of Agriculture, Executive Yuan (Nong-Fang-Zih-1001502886) and the Department of Health, Executive Yuan (Shu-Shou-Shih-Zih-1001301675) on June 15, 2011.",
+		"Article 5-1 added and Article 7 amended, and promulgated jointly by the Council of Agriculture, Executive Yuan (Nong-Fang-Zih-1011503460) and the Department of Health, Executive Yuan (Shu-Shou-Shih-Zih-1011303917) on December 18, 2012.",
+		"Article 16 amended and promulgated jointly by the Council of Agriculture, Executive Yuan (Nong-Fang-Zih-1051504824) and the Ministry of Health and Welfare (Bu-Shou-Shih-Zih-1051300475) on March 07, 2016."
+	],
+	"divisions": [
+		{
+			"type": "chapter",
+			"number": 100,
+			"title": "General Provisions",
+			"start": 100,
+			"end": 800
+		},
+		{
+			"type": "chapter",
+			"number": 200,
+			"title": "Ante-mortem Inspection of Livestock",
+			"start": 900,
+			"end": 1100
+		},
+		{
+			"type": "chapter",
+			"number": 300,
+			"title": "Post-mortem Inspection of Livestock",
+			"start": 1200,
+			"end": 1500
+		},
+		{
+			"type": "chapter",
+			"number": 400,
+			"title": "Ante-mortem Inspection of Poultry",
+			"start": 1600,
+			"end": 1700
+		},
+		{
+			"type": "chapter",
+			"number": 500,
+			"title": "Post-mortem Inspection of Poultry",
+			"start": 1800,
+			"end": 2000
+		},
+		{
+			"type": "chapter",
+			"number": 600,
+			"title": "Disposal of Inedible Carcasses and Viscera",
+			"start": 2100,
+			"end": 2400
+		},
+		{
+			"type": "chapter",
+			"number": 700,
+			"title": "Supplemental Provisions",
+			"start": 2500,
+			"end": 3000
+		}
+	],
+	"articles": [
+		{
+			"number": 100,
+			"content": "The Regulations of Meat Inspection (referred to as the Regulations hereinafter) are drawn up pursuant to the provisions specified in the paragraph 2, Article 29 of the Animal Industry Act (referred to as the Act hereinafter)."
+		},
+		{
+			"number": 200,
+			"content": "Meat Inspection includes the ante-mortem and post-mortem inspection of livestock and poultry, and the related inspection works at the premises of slaughterhouse."
+		},
+		{
+			"number": 300,
+			"content": "The terms used in the Regulations herein are defined as follows:\r\n1.Veterinary meat inspector: Veterinarian carrying out meat inspection in accordance with paragraph 3 of Article 29 of the Act.\r\n2.Veterinary meat inspector in charge: A veterinary meat inspector is selected and appointed by the central competent authority or an agency entrusted to serve as the supervisor of the personnel assigned to the slaughterhouse to perform meat inspection.\r\n3.Meat Inspection Assistant: Refers to the person who assists in performing pre-mortem, post-mortem and other related inspection works of livestock and poultry under the instructions and supervision of veterinary meat inspectors.\r\n4.Carcass: The whole or cut body of livestock or poultry which is well bled and eviscerated.\r\n5.Viscera: The internal organs of livestock or poultry in the chest, abdominal or pelvic cavities.\r\n6.Suspected livestock or poultry: Livestock or poultry which requires further examination as deemed necessary by the veterinary meat inspector in the ante-mortem inspection.\r\n7.Pass: Refers to any of the following conditions:\r\n(1)Livestock or poultry interpreted as fit for slaughter subsequent to ante-mortem inspection.\r\n(2)Carcasses or viscera of livestock or poultry interpreted as edible after post-mortem inspection.\r\n8.Fail: Refers to any of the following conditions:\r\n(1)Livestock or poultry interpreted as unfit for slaughter after ante-mortem inspection.\r\n(2)Carcasses or viscera of livestock or poultry interpreted as inedible after post-mortem inspection.\r\n9.Detention: A disposition instructed by the veterinary meat inspector to the slaughterhouse to deliver livestock, poultry, or their carcasses or viscera under inspection to a designated place for holding when it is so interpreted by the veterinary meat inspector that the said livestock, poultry or their carcasses or viscera require more detailed examination, testing or other actions before a decision of pass/fail can be made.\r\n10.Cooked to Pass: Carcass or livestock interpreted as edible after the required heating process.\r\n11.Frozen to Pass: Carcass or livestock interpreted as edible after the required freezing process."
+		},
+		{
+			"number": 301,
+			"content": "The person-in-charge of the slaughterhouse shall fill in the application form ten days before the first operation after obtaining the slaughterhouse registration certificate or application for resumption of business. The person-in-charge must submit the following documents, in accordance with the provisions of Paragraph 2 of Article 29 of the Act, to the central competent authority to apply for dispatching personnel to perform meat inspection:\r\n1.Certified document for the registration of company or business.\r\n2.The Photocopy of the slaughterhouse registration certificate.\r\n3.Other documents specified by the central competent authority.\r\nA slaughterhouse applying for a trial run inspection in the establishing process shall submit the application forms for the trial run for joint review and meat inspection to the central competent authority through the municipal or county (city) competent authorities to dispatch personnel for meat inspection."
+		},
+		{
+			"number": 302,
+			"content": "The person-in-charge of the slaughterhouse shall report the actual slaughter operation hours during the previous month and scheduled hours for the following month to the central competent authority by the tenth day of each month, or the next business day if there is occurrence of public holidays. The central competent authority is to dispatch personnel to conduct meat inspection accordingly.\r\nThe slaughterhouse person-in-charge shall submit an application form for a timetable schedule change to the central competent authority for approval at least 48 hours before a change to operation schedule, unless there is occurrence of a force majeure.\r\nThe central competent authority will consider the slaughterhouse's operation schedule to adjust dispatching of the meat inspection personnel accordingly."
+		},
+		{
+			"number": 400,
+			"content": "A slaughterhouse shall appoint adequate and experienced workers to carry out the following tasks in accordance with the instructions of the veterinary meat inspector at the time of meat inspection:\r\n1.Driving, moving, isolating and handling of livestock or poultry during ante-mortem inspection.\r\n2.Labeling the livestock or poultry and their carcasses and viscera.\r\n3.Cutting, displaying or arranging the objects for inspection.\r\n4.Moving carcasses or viscera interpreted as detention to the detention line (area).\r\n5.Cutting, trimming, cleaning or disinfecting carcasses or viscera.\r\n6.Disposing livestock, poultry, and their carcasses and viscera interpreted as fail.\r\n7.Other tasks relating meat inspection as specified by the central competent authority."
+		},
+		{
+			"number": 500,
+			"content": "Slaughterhouse shall present carcasses and corresponding viscera synchronously for the veterinary meat inspector to conduct inspection."
+		},
+		{
+			"number": 501,
+			"content": "The designated livestock or poultry shall have the label to sufficiently identify the farm of origin before ante-mortem inspection, and the owner or keeper shall provide the proof of origin.\r\nThe specified type of designated livestock or poultry and the format of the proof of origin described in the preceding paragraph are announced by the central competent authority."
+		},
+		{
+			"number": 600,
+			"content": "Livestock or poultry shall be held for sufficient time prior to the ante-mortem inspection.\r\nThe aforesaid inspection specified in the preceding paragraph shall be carried out in the holding pens/areas of the slaughterhouse before slaughtering."
+		},
+		{
+			"number": 700,
+			"content": "The following livestock or poultry shall be slaughtered separately or slaughtered on the same day after all the livestock or poultry which pass the ante-mortem inspection are slaughtered:\r\n1.Suspected livestock or poultry.\r\n2.The designated livestock or poultry described in Paragraph 1 of Article 5-1 do not have the label to sufficiently identify the holding of origin, or if the owner/keeper does not provide the proof of origin.\r\nFor the designated livestock/poultry described in Subparagraph 2 of the preceding paragraph, either not having the label to sufficiently identify the holding of the origin, or if the owner/keeper does not provide proof of origin within 72 hours of slaughtering, the carcasses or visceras shall be deemed \"fail\"."
+		},
+		{
+			"number": 800,
+			"content": "Where livestock, poultry, or their carcasses or viscera are found in sampling tests containing residues of harmful substances or foreign objects which do not conform to relevant regulations, the slaughtered carcasses or viscera shall be interpreted as \"fail\". Other livestock or poultry originated from the same source of production as the tested ones may be retrieved by their owner after a release paper is signed by the veterinary meat inspector if the test result is examined by the veterinary meat inspector and indicates the possibility of the livestock and poultry having the same kind of residues. The livestock or poultry which is not retrieved by their owner will be interpreted as \"fail\"."
+		},
+		{
+			"number": 900,
+			"content": "Livestock having any of the following conditions may be slaughtered on an emergency basis, subject to the approval of the veterinary meat inspector:\r\n1.Accidental injury that renders the livestock in untreatable state.\r\n2.Dystocia, prolapse of uterus, parturient paresis or acute tympany.\r\n3.Transport stress that causes debilitation.\r\n4.Undergone surgical or obstetric operation.\r\n5.Other non-infectious, acute diseases designated by the central competent authority.\r\nLivestock stated in the preceding paragraph for emergency slaughter must be free of other complications that might endanger human health."
+		},
+		{
+			"number": 1000,
+			"content": "Livestock having any of the following diseases, symptoms or states, and interpreted as suspected shall be detained according to the instructions of the veterinary meat inspector:\r\n1.Foot-and-mouth disease.\r\n2.Rabies.\r\n3.Pseudorabies.\r\n4.Vesicular stomatitis.\r\n5.Anthrax.\r\n6.Tetanus.\r\n7.Severe tuberculosis.\r\n8.Paratuberculosis.\r\n9.Severe brucellosis.\r\n10.Leptospirosis.\r\n11.Hemorrhagic septicemia.\r\n12.Shipping fever.\r\n13.Septicemic salmonellosis.\r\n14.Severe necrobacillosis.\r\n15.Systemic or extensive actinomycosis or actinobacillosis.\r\n16.Babesiosis.\r\n17.Anaplasmosis.\r\n18.Tryanosomiasis.\r\n19.Severe bovine cysticercosis.\r\n20.Severe echinococcosis.\r\n21.Classical swine fever.\r\n22.African swine fever.\r\n23.Swine vesicular disease.\r\n24.Vesicular exanthema.\r\n25.Systemic swine erysipelas.\r\n26.Trichinellosis.\r\n27.Severe porcine cysticercosis.\r\n28.Rinderpest.\r\n29.Bovine malignant catarrhal fever.\r\n30.Bovine parainfluenza.\r\n31.Blue tongue.\r\n32.Gas gangrene (Blackleg).\r\n33.Contagious bovine pleuropneumonia.\r\n34.Sheep pox and goat pox.\r\n35.Sheep scabies.\r\n36.Severe caseous lymphadenitis of sheep and goat.\r\n37.Equine infectious anemia.\r\n38.Equine epidemic encephalitis.\r\n39.Glanders.\r\n40.Pseudoglanders.\r\n41.Uremia.\r\n42.Extensive myositis.\r\n43.Polyarthritis.\r\n44.Malignant tumor or tumor with marked metastasis.\r\n45.Severe jaundice.\r\n46.Cachexia.\r\n47.Pernicious anemia.\r\n48.Toxicosis that may pose a risk to human health.\r\n49.Severe subcutaneous hematoma or edema.\r\n50.Residues of harmful substances or foreign objects that do not comply with relevant regulations.\r\n51.Any other disease, symptom or state designated by the central competent authority."
+		},
+		{
+			"number": 1100,
+			"content": "Dead livestock or livestock having any of the diseases, symptoms or states as provided in Article 10 shall be disposed in accordance with relevant regulations, and shall not be slaughtered for food."
+		},
+		{
+			"number": 1200,
+			"content": "Livestock carcass or viscera shall be detained if it is deemed in post-mortem inspection that further examination, test or other action is required before a decision of pass/fail can be made."
+		},
+		{
+			"number": 1300,
+			"content": "Livestock carcasses or viscera having any of the following conditions and interpreted as pass for heating or freezing shall be processed by heating or freezing under the supervision of the veterinary meat inspector before it can be released for food:\r\n1.Moderate or mild bovine cysticercosis, porcine cysticercosis or echinococcosis.\r\n2.Toxoplasmosis."
+		},
+		{
+			"number": 1400,
+			"content": "Livestock carcasses or viscera having any of the following conditions shall be interpreted as fail and shall not be released for food:\r\n1.Having any of the diseases, pathological changes or states as specified in Article 10.\r\n2.Dead before slaughter.\r\n3.Obvious incomplete exsanguination.\r\n4.Carcass with obvious stinky smell or special odor.\r\n5.Not eviscerated within a prescribed period of time after slaughter.\r\n6.Both carcass and viscera at the same time having residues of harmful substances to human or foreign objects that do not comply with relevant regulations.\r\n7.Having other conditions deemed inedible by the central competent authority."
+		},
+		{
+			"number": 1500,
+			"content": "Livestock carcass or viscera having any of the following conditions shall have the affected part removed before the normal parts may be released for food; where the slaughter operator refuses to or cannot remove the affected part, the entire carcass or viscera shall be interpreted as fail and deemed inedible:\r\n1.Udders, uterus or testicles of livestock infected by brucellosis or localized pathological lesions caused by brucellosis.\r\n2.Localized lesion caused by swine erysipelas.\r\n3.Localized necrotic lesion.\r\n4.Localized lesion caused by tuberculosis.\r\n5.Localized suppurative lesion caused by actinomycosis or actinobacillosis.\r\n6.Head of livestock affected by listeriosis.\r\n7.Head with deformed cheek and nasal cavity caused by severe atrophic rhinitis.\r\n8.Head and viscera of livestock affected by toxoplasmosis.\r\n9.Pathological changes caused by parasites or tissues that are inseparable from the parasite.\r\n10.Mastitis or lactating udder.\r\n11.Superficial, localized trauma, abscess or necrotic lesion.\r\n12.Localized arthritis.\r\n13.Localized lesion caused by foot rotting.\r\n14.Localized subcutaneous edema.\r\n15.Localized tumor.\r\n16.Localized pustular sore or trauma.\r\n17.Localized pathological change.\r\n18.Apparent deformity.\r\n19.Parts contaminated by inflammatory exudate.\r\n20.Severe mechanical injury and contaminated part.\r\n21.Lungs of livestock inhaling blood or large amount of foreign objects.\r\n22.Parts contaminated by feces or urine.\r\n23.Local tissue with obviously incomplete exsanguination.\r\n24.Local tissue or viscera inflated with water.\r\n25.Other abnormal pathological changes of tissues or viscera.\r\n26.Having residues of harmful substances or foreign objects that do not comply with relevant regulations.\r\n27.Parts deemed as inedible by the veterinary meat inspector."
+		},
+		{
+			"number": 1600,
+			"content": "Poultry having any of the following diseases, symptoms or states , and determined as suspected shall be detained according to the instructions of the veterinary meat inspector:\r\n1.Highly or low pathogenic (subtypes H5/H7) avian influenza.\r\n2.Systemic fowl pox.\r\n3.Systemic avian infectious bronchitis.\r\n4.Systemic avian infectious laryngotracheitis.\r\n5.Newcastle disease.\r\n6.Avian leukemia-sarcoma complex.\r\n7.Inclusion body hepatitis.\r\n8.Marek's disease.\r\n9.Psittacosis.\r\n10.Fowl cholera.\r\n11.Avian tuberculosis.\r\n12.Avian colibacillosis.\r\n13.Systemic infectious Coryza.\r\n14.Pullorum disease.\r\n15.Salmonellosis.\r\n16.Staphylococcosis.\r\n17.Listeriosis.\r\n18.Toxemia.\r\n19.Pyemia.\r\n20.Septicemia.\r\n21.Mycosis.\r\n22.Protozoiasis.\r\n23.Toxoplasmosis.\r\n24.Parasitosis with systemic symptoms.\r\n25.Systemic degeneration.\r\n26.Gout with systemic symptoms.\r\n27.Severe edema.\r\n28.Severe ascites.\r\n29.Systemic hemorrhage.\r\n30.Systemic inflammation.\r\n31.Muscular atrophy.\r\n32.Neoplasm other than Marek’s disease or avian leukemia-sarcoma complex.\r\n33.Having abnormal shape, hardness, color or odor.\r\n34.Abnormal body temperature caused by sunstroke or heat stroke.\r\n35.Jaundice.\r\n36.Trauma.\r\n37.Toxicosis.\r\n38.Obviously emaciated or dysplasia.\r\n39.Systemic reaction caused by administration of biological preparation.\r\n40.Having residues of harmful substances or foreign objects that do not comply with relevant regulations.\r\n41.Any other disease, symptom or state designated by the central competent authority."
+		},
+		{
+			"number": 1700,
+			"content": "Dead poultry or poultry having any of the diseases, symptoms or states as specified in Article 16 shall be disposed in accordance with relevant regulations, and shall not be slaughtered for food."
+		},
+		{
+			"number": 1800,
+			"content": "Poultry carcass or viscera having any of the following conditions shall be detained and removed from the slaughter line. Otherwise, it shall be interpreted as fail:\r\n1.When a poultry carcass passing the inspection station, its corresponding viscera is missing, incomplete or not taken out, or not well presented for inspection.\r\n2.More detailed examination, testing or other actions is required before a decision of pass/fail can be made."
+		},
+		{
+			"number": 1900,
+			"content": "Poultry carcass or viscera having any of the following conditions shall be interpreted as fail and shall not be released for food:\r\n1.Having any of the diseases, pathological changes, or states as specified in Article 16.\r\n2.Dead before slaughter.\r\n3.Severely contaminated by lubricant, inflammatory exudate or content of digestive tract.\r\n4.Incomplete exsanguination.\r\n5.Over-scalding.\r\n6.Having other conditions deemed inedible by the central competent authority."
+		},
+		{
+			"number": 2000,
+			"content": "Poultry carcass or viscera having any of the following conditions shall have the affected part removed before the normal parts may be released for food; where the slaughter operator refuses to or cannot remove the affected part, the entire carcass or viscera shall be interpreted as fail and deemed inedible:\r\n1.Localized lesion caused by fowl pox.\r\n2.Localized lesion caused by infectious bronchitis.\r\n3.Localized lesion caused by infectious laryngeal trachitis.\r\n4.Localized lesion caused by infectious Coryza.\r\n5.Lesion caused by protozoiasis other than toxoplasmosis.\r\n6.Pathological changes caused by parasites or tissues that are inseparable from the parasite.\r\n7.Localized tissue degeneration.\r\n8.Localized gout.\r\n9.Localized edema.\r\n10.Localized hemorrhage or congestion.\r\n11.Localized inflammation.\r\n12.Localized atrophy.\r\n13.Localized neoplasm other than Marek's disease or avian leukemia-sarcoma complex.\r\n14.Localized trauma.\r\n15.Localized contamination of lubricant, inflammatory exudate or contents of digestive tract.\r\n16.Having abnormal shape, color, hardness or odor.\r\n17.Parts deemed inedible by the veterinary meat inspector."
+		},
+		{
+			"number": 2100,
+			"content": "Carcasses or viscera designated for pharmaceutical purposes shall be held in a vessel labelled \"FOR PHARMACEUTICAL PURPOSE\" and sealed under the supervision of the veterinary meat inspector before they are delivered to the pharmaceutical manufactory."
+		},
+		{
+			"number": 2200,
+			"content": "Carcasses or viscera having passed the post-mortem inspection, but later undergone degeneration, decay, contamination or any other changes that might endanger human health, shall be re-interpreted as \"fail\"."
+		},
+		{
+			"number": 2300,
+			"content": "The slaughterhouse shall dispose the carcasses or viscera interpreted as \"fail\" using any of the following methods:\r\n1.Rendering: After the approval of the veterinary meat inspector, carcasses or viscera may be delivered to a rendering site or a temporary storage site in transit to the rendering site.\r\n2.Incineration or burial: Carcasses or viscera shall be denatured under the supervision of the veterinary meat inspector and then be delivered to an incineration or landfill site, or a temporary storage site in transit to the incineration or landfill site.\r\n3.Other necessary actions as specified by the central competent authority.\r\nThe term \"denature\" stated in the preceding paragraph means cutting or chopping the carcasses or viscera into pieces and mixing them with a substance designated by the competent authorities to change their appearance or nature and to render them unusable for food.\r\nFor livestock or poultry interpreted as \"fail\" in ante-mortem inspection or carcasses or viscera interpreted as \"fail\" in post-mortem inspection may be denatured by injection with the aforesaid substance."
+		},
+		{
+			"number": 2400,
+			"content": "For the purpose of research or disease diagnosis, the academic and research institutions may apply to the central competent authority for the collection of specimens of carcasses/viscera deemed as \"fail\", having parasites and fetus. The aforesaid specimens shall not be moved out of the premises of slaughterhouse without a release permit issued by the veterinary meat inspector."
+		},
+		{
+			"number": 2500,
+			"content": "The slaughterhouse found to be contaminated with pathogens that might endanger the health of human or animals shall undergo disinfecting procedure as designated by the central competent authority and under the instruction of the veterinary meat inspector."
+		},
+		{
+			"number": 2600,
+			"content": "The Regulations provided herein may, if applicable, apply to the meat inspection of animals not defined as livestock or poultry."
+		},
+		{
+			"number": 2601,
+			"content": "A veterinary meat inspector conducting the meat inspection in accordance with the Act may suspend the meat inspection, after reporting to the veterinary meat inspector in charge, any of the following situations:\r\n1.Being threatened or coerced by violence.\r\n2.The slaughterhouse facilities may endanger personal safety.\r\n3.Products from the slaughter operation may be harmful to the health of consumers.\r\nThe same action also applies for the meat inspection assistant, while assisting the meat inspection and facing the situations described in Subparagraph 1 of the preceding paragraph.\r\nWhen there is suspension of meat inspection for the reason described in Subparagraph 1 of Paragraph 1, the case shall be reported to the police where the slaughterhouse is located.\r\nMeat inspection shall resume when the veterinary meat inspector or the veterinary meat inspector in charge confirms that all situations in Paragraph 1 have been resolved."
+		},
+		{
+			"number": 2700,
+			"content": "The slaughterhouse shall provide the veterinary meat inspector with documents and data necessary for the meat inspection as required by the central competent authority, and submit monthly report of slaughter to the central competent authority.\r\nThe items and format of document and report described in the preceding paragraph shall be established by the central competent authority."
+		},
+		{
+			"number": 2800,
+			"content": "The format of labels used for meat inspection and the methods of marking shall be established by the central competent authority."
+		},
+		{
+			"number": 2900,
+			"content": "The central competent authoritiy shall publish a meat inspection manual stipulating the procedures and methods of meat inspection."
+		},
+		{
+			"number": 3000,
+			"content": "The Regulations shall enter into force on the date of promulgation."
+		}
+	]
+}

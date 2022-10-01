@@ -1,0 +1,816 @@
+{
+	"pcode": "N0060039",
+	"LawLevel": "命令",
+	"EngLawName": "Regulations for Safety Inspection of Hazardous Machines and Equipment",
+	"LawName": "危險性機械及設備安全檢查規則",
+	"EngLawModifiedDate": "20161121",
+	"histories": [
+		"Announced on December 13, 1995 ",
+		"Amended on December 31, 1999 ",
+		"Amended on December 12, 2001 ",
+		"Amended on Oct 20, 2004 ",
+		"Amended on January 6, 2006 ",
+		"Amended on August 9, 2007 ",
+		"Amended on February 15, 2011 ",
+		"Amended on June 27, 2014",
+		"Amended on November 21, 2016"
+	],
+	"divisions": [
+		{
+			"type": "chapter",
+			"number": 100,
+			"title": "General Principles",
+			"start": 100,
+			"end": 800
+		},
+		{
+			"type": "chapter",
+			"number": 200,
+			"title": "Dangerous machines",
+			"start": 900,
+			"end": 7000,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Fixed Type Cranes",
+					"start": 900,
+					"end": 2100
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Mobile cranes",
+					"start": 2200,
+					"end": 3100
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Derrick cranes",
+					"start": 3200,
+					"end": 4100
+				},
+				{
+					"type": "section",
+					"number": 400,
+					"title": "Elevators",
+					"start": 4200,
+					"end": 5100
+				},
+				{
+					"type": "section",
+					"number": 500,
+					"title": "Construction lift",
+					"start": 5200,
+					"end": 6100
+				},
+				{
+					"type": "section",
+					"number": 600,
+					"title": "Hoisting cages",
+					"start": 6200,
+					"end": 7000
+				}
+			]
+		},
+		{
+			"type": "chapter",
+			"number": 300,
+			"title": "Dangerous equipment",
+			"start": 7100,
+			"end": 16202,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Boilers",
+					"start": 7100,
+					"end": 9400
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Pressure vessels",
+					"start": 9500,
+					"end": 11900
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Special equipment for high-pressure gases",
+					"start": 12000,
+					"end": 14300
+				},
+				{
+					"type": "section",
+					"number": 400,
+					"title": "Vessels for high-pressure gases",
+					"start": 14400,
+					"end": 16202
+				}
+			]
+		},
+		{
+			"type": "chapter",
+			"number": 400,
+			"title": "Supplementary Articles",
+			"start": 16300,
+			"end": 16800
+		}
+	],
+	"articles": [
+		{
+			"number": 100,
+			"content": "These regulations are enacted pursuant to the provisions of Paragraph 4 of Article 16 of Safety and Health Act (Hereinafter referred to as the Act)."
+		},
+		{
+			"number": 200,
+			"content": "Unless otherwise defined in these Regulations, the terminology relating to dangerous machines and equipment, as specified in the relevant stipulations of occupational safety and health shall apply herein."
+		},
+		{
+			"number": 300,
+			"content": "These Regulations shall apply to the dangerous machines with the capacity as stipulated as shown below:\r\n1. Fixed type crane: The fixed type crane that has a lifting capacity above 3 tons; or the stacking crane having a lifting capacity above 1ton.\r\n2. Mobile type crane: The mobile type crane that has a lifting capacity above 3 tons.\r\n3. Derrick crane: The derrick crane that has a lifting capacity above 3 tons.\r\n4. Construction elevator: The elevator that is erected at the jobsite for construction activities use.\r\n5. Construction lift: The construction lift that the height of its guide rails or elevating path above 20 m.\r\n6. Hoisting cage: The hoisting cage that is used for carrying persons."
+		},
+		{
+			"number": 400,
+			"content": "These Regulations shall apply to the dangerous devices with capacity as shown below:\r\n1. Boilers\r\n(1) Steam boilers that have a maximum operating pressure exceeding one (1) kg/c㎡, or a heat transfer area exceeding one (1) ㎡ , which is either equipped with steam pipes open in the atmosphere with inside diameter above 25 mm, or equipped with the U-shape stand pipes with inside diameter above 25 mm , water head above 5 m, and heat transfer area over 3.5 ㎡ ), or that have inside diameter of shell body exceeding 300 mm or the body length exceeding 600 mm.\r\n(2) Hot water boiler that other than those heat medium boilers which have the water head above ten (10) m or heat transfer area above eight (8) ㎡ and the operating temperature exceeding the boiling point of the liquid under atmosphere pressure of one (1) ba.\r\n(3) Heat medium boilers with head pressure above 10m or transmission acreage above 8㎡.\r\n(4) Throughflow-type boilers that( including multi-pipe thoughflow boilers equipped with a cylinder header having inside diameter above 150 mm or equipped with a square header having sectional area above 177c㎡ ) have a maximum operating pressure above ten (10) km/c㎡ , or that (including those equipped with steam separators whose inside diameter over 300mm or those whose insidecapacity over 0.07m3 ) have the heat transfer area above ten (10) ㎡.\r\n2. Pressure vessels:\r\n(1) Category Ι pressure vessels that have a maximum operating pressure above one (1) km/ c㎡ or internal volume over 0.2 m3.\r\n(2) Category Ι pressure vessels that have not only a maximum operating pressure above one ( 1) km/c㎡ but also an inside diameter above 500 mm and alength above 1000 mm.\r\n(3) Category Ι pressure vessels that have the product of the maximum pressure ( expressed in km/ c㎡) and the internalvolume (expressed in m3) exceeding 0.2.\r\n3. Special equipment for highpressure gases:\r\nThese special equipment refer to those equipment used for generation and related storage of the high pressure gages, as well as the supporting facilities ( including towers and tanks used for reaction, separation, refining or distillation purpose , where the distance between the highest tangent and lowest tangent of the towers are longer than five (5) m or the capacity of the storage tank is over 300 m3 or 3 tons), that the product of their design pressure ( expressed in km/ c㎡) and internal capacity (expressed in m3) exceeding 0.04. However, the vessels listed below shall be excluded from above category:\r\n(1) Vessels relating to pumps, compressors, pressure accumulators, etc.\r\n(2) Vessels relating to buffers and other relevant buffering instruments.\r\n(3) Vessels relating to flow meters, level gauges and other measuring instruments and filters.\r\n(4) Vessels used for the air conditioning equipment.\r\n(5) Vessels used for air compressing instruments having gauge pressure below 50 kg/c㎡ under the temperature of 35° C.\r\n(6) Vessels usedfor high-pressure vessels.\r\n(7) Other vessels designated by the central competent authority.\r\n4. Vessels used for high-pressure gases:\r\nExcept for those vessels listed below, these vessels refer to the vessels that used for containinghigh-pressure gases with the internal capacity over 500 liters, and that can be movablerelative to the ground:\r\n(1) Vessels not used in airtight conditions.\r\n(2) Vessels used for air compressing instruments having gauge pressure below50 kg/c㎡ under the temperature of 35° C.\r\n(3) Others vessels designated by the central competent authority."
+		},
+		{
+			"number": 500,
+			"content": "The Manufacturer (including modifier) referred to herein means the principal of the factory manufacturing (including modifying) the dangerous machines or equipment. The Owner referred to herein means the owner of the dangerous machines or equipment."
+		},
+		{
+			"number": 600,
+			"content": "The inspection of the domestic (homemade) hazardous machines/ equipment shall be subject to this regulation and the relevant provisions stipulated in the Occupationalr Safety and Health Act, as well as whole or part of the stipulations contained in the national standards, international standards or association standards which are endorsed and designated by the central governing authority.\r\nThose hazardous machines/ equipment which are either directly imported or locally designed and manufactured as per the aforesaid international standards based on the contractual agreement, may be granted to be inspected in compliance with the same international standards. However, in this connection, the aforesaid machines/ equipment shall also be subject to the stipulations of the same standards relevant to material selection, mechanical properties, construction methods, construction techniques and inspection methods.\r\nTo apply for designation of the international standards mentioned in the preceding Paragraphs I and 2, the applicant shall submit the proposed international standards in advance to the central governing authority for approval.In the course of inspection, the Inspecting Organization may request the applicant to present the convincing evidence relevant to the qualification of its previous inspection.\r\nWith respect to application for inspection of those tanks, such as underground type storage tank for liquidized natural gases, double shell type storage tank(featured with an outer concrete shell and an inner steel shell) for liquidized natural gases, embedded type storage tank, and etc., which are manufactured by adopting special construction and installation techniques, the owner shall prepare a risk evaluation report in advance according to the following requirements, and submit the same to the central governing authority for review. Unless both the said risk evaluation report and the inspection standards have been approved and designated respectively, the applicant shall not be entitled to apply for the subsequent inspections:\r\n1. A narration of the major consideration in the planning /design of the said Hazardous Machines or Equipment as well as the proposed inspection standards, together with a written commitment of the risk obligations shall be provided for authority's reference and use in review of the above mentioned risk evaluation report,.\r\n2. The said risk evaluation report and the risk control strategy plan shall be duly signed by the original planning/design personnel or by the Manufacturer.\r\n3. The contents of the risk evaluation report shall consist of a description of the risk circumstances, a quantitative evaluation of the risk, the evaluation results, the risk control strategy plan and the owner's committed risk control measures."
+		},
+		{
+			"number": 700,
+			"content": "The inspection on the dangerous machines or equipment as stipulated in Paragraph 1 of Article 16 in these Regulations shall be carried out by Labor Inspection Agency or Inspection Agency which are designated by the central competent authority (hereinafter referred to as the inspecting organization) .\r\nThe necessary qualification certificate of inspection mentioned in the previous subparagraph ,that issued by the inspecting organization."
+		},
+		{
+			"number": 800,
+			"content": "When carrying out the inspections on the dangerous machines or equipment, the Inspector shall ask the Manufacturer or the Owner to disassemble or remove the covering on the objects to be inspected whenever necessary."
+		},
+		{
+			"number": 900,
+			"content": "Before manufacturing or modifying the fixed type cranes, the Manufacturer shall fill up the type inspection application (Annex 1) and submit the same along with the following documents to the local inspecting organization for application of inspecrion:\r\n1. Type of the crane to be inspected, criteria of strength calculation and assembly sketches for the fixed crane applying for inspection.\r\n2. Summary of inspection equipment necessary during the manufacturing process.\r\n3. Educational background and working experience of the chief designer.\r\n4. Educational background and working experience of the construction director.\r\nAny alteration of the equipment stipulated in Item 2 or personnel stipulated in Items 3,4 of the preceding Paragraph shall be reported to the local inspecting organization.\r\nThe inspecting organization shall issue the Qualification Certificate of Type Inspection for Manufacturing Equipment (Annex 2) for qualifiers in the type inspection as stipulated in Paragraph 1.\r\nThe manufacturing or modification work shall not be carried out without passing the inspection. However, this shall not apply to those cranes whose types and conditions have already qualified through the type inspection."
+		},
+		{
+			"number": 1000,
+			"content": "The strength calculation basis and assembly drawings mentioned in the preceding Article shall record the items shown below:\r\n1.Strength calculation basis: The strength calculation of the major structural components of the fixed type cranes shall be specifically described in detail by means of mathematical formula as per the relevant regulations.\r\n2.The assembly sketches shall be sufficiently enough to show the combination of the main parts of crane by graphic method as per the requirements stipulated below:\r\n(1) Appearance and main dimensions of the crane.\r\n(2) According to different types of cranes, the structure of main parts shall be shown, including: The overall shape and dimensions, types, dimensions of structural materials, methods of connection as well as shape and dimensions of cables.\r\n(3) Summary of hoisting equipment, derricking device, traveling device and rotating arm, including: shape and dimensions of the roller, the jib and the transmission devices etc.\r\n(4) Types and configurations of safety devices and braking devices.\r\n(5) Configuration status of prime motor.\r\n(6) Shape and dimensions of hoisting devices.\r\n(7) Operating position of the driver cab or the driving platform"
+		},
+		{
+			"number": 1100,
+			"content": "The Manufacturer shall be responsible for executing the quality control and quality assurance measures.The involved equipment and personnel shall comply with the requirements as stipulated below:\r\n1. Universal testing machines and other as-required inspection equipment including radiographic inspection facility shall be in the possession of the Manufacturer .\r\n2. The chief designer shall meet the one of the qualification requirements as shown below:\r\n(1) Registered professional engineer relating to mechanical discipline.\r\n(2) College graduate majored in mechanical engineering related disciplines together with over five ( 5 ) years of experience in design, manufacture or inspection of the machinery subject totype inspections.\r\n(3) Vocational high school graduate majored in mechanics related disciplines together with overeight ( 8 ) years of experience in design, manufacture or inspection of machinery subject to type inspections.\r\n(4) Senior technician with over twelve ( 12 ) years of experience in design, manufacture or inspection of machinery subject to type inspections.\r\n3. The construction director shall meet one of the qualification requirements as shown below:\r\n(1) College graduate majored in mechanical engineering related disciplines together with over three (3) years of experience in design, manufacture or inspection of machinery subject tor type inspections.\r\n(2) Vocational high school graduate majored in mechanics related disciplines together with over six (6) years of experience in design, manufacture or inspection of machinery subject tor type inspections.\r\n(3) Senior technician with over ten (10) years of experience in design, manufacture or inspection of machinery subject to type inspections.\r\nIf the inspection equipment as mentioned in Item 1 of the preceding Paragraph can be ready for use anytime on borrowership or co-ownership basis, , the inspecting organization may deem that the Manufacturer is in possession of the said equipment.\r\nIf the Manufacturer has mandated a qualified person to serve as the chief designer as mentioned in the proceeding Items (1) and (2), the inspecting organization may deem that the said person has been stationed."
+		},
+		{
+			"number": 1200,
+			"content": "Uponcompleting the installation of thefixed type cranes or altering its location, the Employer shall fill up the ApplicationForm for Completion Inspection of Fixed Type Cranes (Annex 3) and submit it along with the documents as shown below to the local inspecting organization to apply for completion inspection:\r\n1. Qualification Certification for the type inspection of manufacturing facilities. The exported facilities shall be evidenced by the related quality controldocuments.\r\n2. Area drawings and fundamental summary of the installation location.\r\n3. Specification of Fixed Type Cranes (Annex 4)\r\n4. Strengthen calculation basis and assembly drawings."
+		},
+		{
+			"number": 1300,
+			"content": "The contents of the completion inspection of the r fixed type cranes include the items as shown below:\r\n1. Structure and performance inspection: including review of the strength calculation for structure, selection of dimensions and materials, review of lifting load, installation and performance of safety devices, inspection of electrical and mechanical parts, methods of construction, as-required identification of rated load and lifting load etc., operating speed of various devices under no load and rated load conditions and other inspection items as required.\r\n2. Load test: The load test refers to a test that is performed for purpose of verifying the as-required hoist, traveling, and rotating actions of the crane as well as the traveling action of the trolley by placing a load weighing 1.25 times of the rated load of the crane ( or 50 tons plus the rated load of the crane whenever the rated load exceeds 200 ton) on the load-lifting attachment of the crane during the test.\r\n3. Stability test: The stability test refers to a test that is performed by placing a test load weighing 1.27 times of the rated load of the crane, on the hoisting equipment under the most adverse conditions with respect to stability, and also without use of the runaway prevention devices and rail clip devices.\r\n4. Other as-required inspections.\r\nThose fixed type cranes of overhead or bridge type, that are free from being overturned, may be exempted from the test requirements stipulated under the preceding Item 3 of this Paragraph.\r\nThose imported cranes evidenced by substantial inspection certificates, may be granted a full or partial exemption from the inspection requirements as stipulated under the preceding Paragraph 1 by the Inspecting Organization.\r\nThose cranes which hold a valid qualification certificate through previous completion inspection and are to be relocated following the sequence of construction activities, may be granted a full or partial exemption from the inspection requirements as stipulated under the preceding Paragraph 1 by the Inspection Organization, as long as the cranes’ own structure and trolleys remain in an intact condition, namely without being dismantled and reassembled."
+		},
+		{
+			"number": 1400,
+			"content": "When installing the fixed type cranes, if the load test or stability test cannot be carried out due to the disadvantageous situation of the location or other reasons, the Employer shall entrust the Manufacturer fill up the Application Form for the Simulated Load Test of Fixed Cranes (annex 5) after completion of the manufacturing, and submit the same along with the specification of fixed cranes to the inspecting organization for application of simulated load test according to Items 2 and 3 of preceding Paragraph 3.\r\nThe inspecting organization shall issue the Report for the Results of the Simulated Load Test (Annex 6) to qualifiers of the simulated load test mentioned in the previous paragraph.\r\nFixed type cranes qualified in the simulated load test mentioned in paragraph 1 shall be exempted from the load test or safety test stipulated in the previous article before the completion inspection."
+		},
+		{
+			"number": 1500,
+			"content": "After receiving the application for simulated load test or completion inspection of fixed cranes from the Manufacturer or the Employer, the inspecting organization shall notify the Manufacturer or the Employer of the inspection date so that they can proceed with the preparation of the loads and necessary instruments for the load test and stability test accordingly."
+		},
+		{
+			"number": 1600,
+			"content": "The inspecting organization shall stamp the qualification mark (annex 7) on the specification of Fixed TypeCranes for the fixed type cranes qualified through the completion test orthey are deemed qualified according to pParagraph 3 and 4 of Article 13, after being signed by the labor inspector or acting inspector (hereinafter referred to as the Inspector), 1 copy of the specification shall then be delivered to the applicant, and the qualification mark shall be printed, painted or posted at distinct part of the object inspected for identification.\r\nThe inspecting organization shall issue the Report for Results of Completion Inspection (Annex 8) and Qualification Certificate (Annex 9) to the fixed type cranes qualified in the completion inspection, the maximum period of validity for the aforesaid documents shall be 2 years.\r\nThe Employer shall hang the aforesaid Qualification Certificate or its photocopy in the cab of the cranes or obvious locations in the workplace."
+		},
+		{
+			"number": 1700,
+			"content": "The Employer shall fill up the Application for Periodic Inspection of Fixed Type Cranes (Annex 10) one (1) month before the expiry of the qualification certificate for the inspection of fixed type cranes and apply for periodic inspection at the inspecting organization; The cranes shall be prohibited from operation if the inspection is not applied for within the time limit or it does not pass through the test.\r\nThe aforesaid periodic inspection shall include the inspections for the structure, performance of parts of the crane and the load test as well as other necessary items.\r\nThe load test as stipulated in the preceding Paragraph refers to that the test of thehoisting, vertical traveling and rotation actions of the crane and the horizontal traveling action of the chain trolley etc. are carried out with a load equal to the rated load at the rated speed. However, this requirement may be exempted, if the Inspector deems it unnecessary.\r\nThe stipulations in Article 15 shall apply totheload test stipulated in Paragraph 2 ."
+		},
+		{
+			"number": 1800,
+			"content": "The Inspector shall sign on the original qualification certificate and remark the period of service (2 years as the maximum) for the fixed type cranes passing the periodic inspection.\r\nThe Inspector shall fill up the Report for the Result of Periodic Inspection for Fixed Type Cranes (Annex 11) after the completion of the periodic inspection and notify the employer of the results."
+		},
+		{
+			"number": 1900,
+			"content": "If the employer needs to alter any of the items of the fixed crane shown below, he or she shall submit the drawings relating to the parts being altered to the inspecting organization for reference and record:\r\n1. Prime motor.\r\n2. Hoisting structure.\r\n3. Steel wire or hoisting chain.\r\n4. Hook, grab bucket or other devices.\r\n5. Braking devices.\r\nThe requirements stipulated in the preceding Paragraph 1 is not applicable to those alterations made to the above listed components where the involved materials, specifications and dimensions remain unchanged.\r\nWhen the hoisting load is intended to be reduced to be less than either three (3) tons for the fixed crane or one (1) ton for the stacking crane , the Employer shall report to the inspecting organization r for confirmation and revocation of the corresponding qualification certification of the inspectionaccordingly."
+		},
+		{
+			"number": 2000,
+			"content": "When altering the truss, jib, feet, tower or similar structural parts of the fixed crane, the employer shall fill up the Application Form for Alteration Inspection of Fixed Type Cranes (Annex 12) and submit the Inspector the application form along with the drawings of the parts to be altered for application of the alteration inspection.\r\nTheinspecting organization r shall remark the date and the results of the inspection as well as the alternations being made on the original qualification certificate for those fixed type cranes qualified in the alteration inspection.\r\nThe stipulations in Article 15 shall apply mutatis mutandis to the alteration inspection stipulated in Paragraph 1."
+		},
+		{
+			"number": 2100,
+			"content": "If the idle fixed type cranes, which have been out of service for over one (1) year beyond the valid period of the qualification certificate of inspection, are intended to be reused,\r\nThe employer shall fill up the Application Form for Re-inspection of Fixed Type Cranes (Annex 13) and submit the same to the inspecting organization to apply for re-inspection. The inspecting organization shall remark the date and results of inspection and the extended service life (2 years as the maximum) on the original qualification certificate for the inspection for fixed type cranes qualified through the re-inspection.\r\nThe stipulations in Articles 13 and 15 shall apply mutatis mutandis to the re-inspection stipulated in preceding Paragraph 1.."
+		},
+		{
+			"number": 2200,
+			"content": "Before manufacturing or making modification to the mobile cranes, the Manufacturer shall fill up the type inspection application form (Annex 1) and submit the same along with the documents listed below to thelocal inspecting organization:\r\n1. Type of mobile crane to be tested, criteria of strength calculation and assembly sketches for the mobile crane applying for inspection.\r\n2. Summary of inspection equipment necessary for the manufacturing process.\r\n3. Brief description of educational background and working experience of the chief designer.\r\n4. Brief description of educational background and working experience of the construction director.\r\nAny alteration of the equipment stipulated in Item 2 or personnel stipulated in Paragraphs 3,4 of the previous paragraph shall be reported to the local inspecting organization.\r\nThe quality control, quality assurance measures, equipment and personnel for the type inspection as stipulated in Paragraph 1 shall apply to stipulations in Article 11 and the inspecting organization shall issue the Qualification Certificate of Type Inspection for Manufacturing Equipment (Annex 2) for qualifiers in the said inspection..\r\nThe Manufacture or revision shall not be carried out without passing the inspection. However, this shall not apply to types and conditions that have already passed the type inspection."
+		},
+		{
+			"number": 2300,
+			"content": "Before using the mobile cranes upon completion of manufacturing or before importing from foreign country, the employer shall fill the Application for Usage Inspection of Mobile cranes (Annex 14), and submit the application along with the documents shown below to the local inspecting organization to apply for the usage inspection:\r\n1. Qualification certification for the type inspection of manufacturing facilities (for the exported facilities, documents relating to quality control etc. shall be attached)\r\n2. Specification of Mobile Cranes (Annex 15)\r\n3. Criteria for strengthen calculation and assembly drawings."
+		},
+		{
+			"number": 2400,
+			"content": "The contents of the operation inspection of the mobile cranes shall consist of the items shown below:\r\n1. Structure and performance inspection: including review of the strength calculation for structure, selection of dimensions and materials, review of hoisting load, installation of safety devices, inspection of electrical and mechanical parts, methods of construction, necessary identification of rated load and hoisting load etc., operating speed of various equipment under no load and rated load and other necessary items.\r\n2. Load test: A test to be performed by placing a test load weighing 1.25 times of the rated load of the crane (whenever the rated load exceeding 200 ton, a test load of 50ton plus the rated load shall be taken ) on the hoisting equipment for the as-required test of the hoisting, vertical traveling and rotation actions of the crane and the horizontal traveling action of the chain trolley etc.\r\n3. Stability test: A test to be carried out in different directions, the front stability test shall be carried out by placing a test load weighing 1.27 times of the rated load of the crane on the hoisting equipment for testing the stability under most adverse conditions. and, while the left and right stability and the rear stability shall be demonstrated by calculation method.\r\n4. Other as-required inspections.\r\nThe inspecting organization may fully or partially exempt the imported equipment evidenced with corresponding inspection certifications from the inspection requirements stipulated in this Article."
+		},
+		{
+			"number": 2500,
+			"content": "After receiving the application for usage inspection of mobile cranes from the manufacturer or the employer, the inspecting organization shall notify the manufacturer or the employer of the date for the inspection so that they can proceed with the preparation of the loads and necessary instruments for performing the load test and stability test accordingly."
+		},
+		{
+			"number": 2600,
+			"content": "The inspecting organization shall stamp the qualification mark (annex 7) on the specification of Mobile Cranes for the traveling cranes qualified in the usage inspection or deemed qualified according to Paragraph 2 of Article 24, after being signed by the Inspector, one (1 ) copy of the specification shall then be delivered to the applicant, and the qualification mark shall be printed, painted or posted at distinct part of the object inspected for identification.\r\nThe inspecting organization shall issue the Report for Results of Usage Inspection (Annex 16) and Qualification Certificate (Annex 17) to traveling cranes qualified in the completion inspection, the maximum period of validity for the aforesaid documents shall be two (2 ) years.\r\nThe Employer shall hang the aforesaid Qualification Certificate or its photocopy in the driving cab of the cranes or at the distinct locations in the workplace."
+		},
+		{
+			"number": 2700,
+			"content": "The Employer shall fill up the Application Form for Periodic Inspection of Mobile Cranes (Annex 10) one (1) month before the expiry of the qualification certificate for the inspection of mobile cranes and submit the same to the inspecting organization for application of the periodic inspection. The cranes shall be prohibited from operation, if the inspection is not applied withinthe above time limit or the inspection has not passed.\r\nThe aforesaid periodic inspection shall include the inspections for the structure, performance of parts of the crane and the load test as well as other necessary items.\r\nThe load test as stipulated in the precedingParagraph refers toa test to be carried out for examination of the hoisting, vertical traveling and rotation actions of the crane, and horizontal traveling action of the chain trolley etc. with a test load equal to the rated load at the rated speed. However, this requirement may be exempted if the inspecting organization deems it unnecessary.\r\nThe stipulations in Article 25 shall apply to the load test stipulated in precedingParagraph 2."
+		},
+		{
+			"number": 2800,
+			"content": "The inspecting organization shall sign on the original qualification certificate and indicate the extended period of service (2 years as the maximum) for the mobile cranes having passed the periodic inspection.\r\nThe Inspector shall fill the Report for the Result of Periodic Inspection for Mobile Cranes (Annex 18) after the completion of the periodic inspection and notify the Employer of the results."
+		},
+		{
+			"number": 2900,
+			"content": "To make alterations to any of the following components of the mobile crane, the Employer shall submit the related drawings to the inspecting organization for information andauditing:\r\n1. Prime motor.\r\n2. Hoisting structure.\r\n3. Steel wire or hoisting chain.\r\n4. Hook, grab bucket or other devices.\r\n5. Braking devices.\r\nThe requirements stipulated in the preceding Paragraph 1 is not applicable to those alterations made to the above listed components where the involved materials, specifications and dimensions remain unchanged.\r\nIf the hoisting load of the mobile crane is intended to be reduced to be less than 3 tons, the Eployer shall report to the inspecting organization for confirmation and revocation of the corresponding inspection qualification certification."
+		},
+		{
+			"number": 3000,
+			"content": "When altering the truss, jib, feet, tower or similar structural parts of the traveling crane, the employer shall fill up the Application Form for Alteration Inspection of Mobile Cranes (Annex 12) and submit the same along with the drawings of the parts to be altered to the inspecting organization for application of the alteration inspection.\r\nThe inspecting organization shall remark the date and results of the inspection as well as the alterations made to thecomponents on the original qualification certificate for the mobile cranes qualified through the alteration inspection.\r\nThe stipulations in Articles 24 and 25 shall apply to the alteration inspection stipulated in the preceding Paragraph 1. ."
+		},
+		{
+			"number": 3100,
+			"content": "If the idle mobile cranes, which have been out of service for over one (1) year beyond the valid period of the qualification certificate of inspection, are intended to be reused, theEmployer shall fill up the Application Form for Re-inspection of Fixed Type Cranes (Annex 13) and submit the same to the inspecting organization to apply for re-inspection.\r\nThe inspecting organization shall remark the date and results of inspection and the service life (2 years as the maximum) on the original qualification certificate for the inspection for mobile cranes qualified in the re-inspection.\r\nThe requirements stipulated in Articles 24 and 25 shall mutatis mutandis apply to the re-inspection mentioned in Paragraph 1."
+		},
+		{
+			"number": 3200,
+			"content": "Before manufacturing or making modification to the derrick cranes, the Manufacturer shall fill up the Type Inspection Application Form (Annex 1) and submit the same along with the documents listed shown below to the local inspecting organization:\r\n1. Type, criteria of strength calculation and assembly sketches for the derrick crane applying for inspection.\r\n2. Summary of inspection equipment as required to be used during the manufacturing process.\r\n3. Brief description of educational background and working experience of the chief designer.\r\n4. Brief description of educational background and working experience of the f construction director.\r\nAny alterations made tof the equipment stipulated in Item 2 or the personnel stipulated in Items 3,4 of the preceding Paragraph shall be reported to the local inspecting organization.\r\nThe inspecting organization shall issue the Qualification Certificate of Type Inspection for Manufacturing Equipment (Annex 2) for qualifiers in the type inspection as stipulated in Paragraph 1.\r\nThe manufacture or revision shall not be carried out without passing the inspection. However, this shall not apply to types and conditions that have already passed the type inspection."
+		},
+		{
+			"number": 3300,
+			"content": "When completing the installation of derrick cranes or altering its position, employer shall fill the Application for Completion Inspection of Derrick cranes (Annex 3) and submit it along with the documents as shown below at the local inspecting organization to apply for the completion inspection:\r\n1. Qualification certification for the type inspection of manufacturing facilities. The imported facilities shall be evidenced by the quality control related documents.\r\n2. Area drawings and fundamental summary of installation location.\r\n3. Specification of derrick cranes (Annex 4)\r\n4. Setting means of fixing.\r\n5. Criteria for Strengthen Calculation and Assembly Sketch."
+		},
+		{
+			"number": 3400,
+			"content": "The contents of the completion inspection of the derrick cranes shall consist of structure and performance inspection, load test and other necessary inspections.\r\nThe load test stipulated in the preceding Paragraph refers to a testto be performed for testing the hoisting, rotation and wavy motions of the crane under a loading condition that a test load weighing 1.25 times of the rated load of the crane (however when rated load exceeds 200ton, the test load shall be taken as 50ton plus the rated load) is placed on the hoisting attachment of the crane.\r\nFor the inspection stipulated in paragraph 1, the inspecting organization shall exempt the imported equipment with corresponding inspection certifications from all or any of the inspections stipulated in this Article."
+		},
+		{
+			"number": 3500,
+			"content": "After receiving the application for inspection, the inspecting organization shall notify the employer of the date for the completion inspection for derrick cranes so that they can proceed with the preparation ofthe test load and the necessary instruments for performing r the load test."
+		},
+		{
+			"number": 3600,
+			"content": "The inspecting organization shall stamp the qualification mark (annex 7) on the specification of Derrick cranes for the derrick cranes qualified in the completion test or deemed qualified according to Paragraph 3 of Article 34, after being signed by the labor inspector or acting inspector (hereinafter referred to as the Inspector), one (1) copy of the specification shall then be delivered to the applicant. The qualification mark shall be printed, painted or posted at distinct portion of the crane for easy identification.\r\nThe inspecting organization shall issue the Report for Results of Completion Inspection (Annex 20) and Qualification Certificate (Annex 9) to derrick cranes qualified in the completion inspection, the maximum period of validity ofr the aforesaid documents shall be two (2) years.\r\nThe employer shall hang the aforesaid Qualification Certificate or its photocopy in the cab of the cranes or obvious locations in the workplace."
+		},
+		{
+			"number": 3700,
+			"content": "The employer shall fill the Application for Periodic Inspection of Derrick cranes (Annex 10) one (1) month before the expiry of the qualification certificate for the inspection of derrick cranes and apply for periodic inspection at the inspecting organization; The cranes shall stop operation if the inspection is not applied for after the time limit or not passed.\r\nThe aforesaid periodic inspection shall include the inspections for the structure, performance of parts of the crane and the load test as well as other necessary items.\r\nThe load test as stipulated in the previous paragraph refers to carry out hoisting, vertical traveling, rotation and waving etc. with load equal to the rated load in the rated speed. However, it may be exempted if the inspecting organization deems it unnecessary.\r\nThe load test stipulated in paragraph 2 shall apply to the stipulations in Article 35."
+		},
+		{
+			"number": 3800,
+			"content": "The inspecting organization shall sign on the original qualification certificate and indicate the period of service (2 years as the maximum) for derrick cranes having passed passing the periodic inspection.\r\nThe Inspector shall fill up the Report for the Result of Periodic Inspection for Derrick cranes (Annex 21) after the completion of the periodic inspection and notify the Employer of the results."
+		},
+		{
+			"number": 3900,
+			"content": "To make alterations to any of the following components of the derrick crane, the Employer shall submit the related drawings showing the alterations to the inspecting organization for reference and record:\r\n1. Prime motor.\r\n2. Hoisting structure.\r\n3. Steel wire or hoisting chain.\r\n4. Hook, grab bucket or other devices.\r\n5. Braking devices.\r\nThe requirements stipulated in the preceding Paragraph 1 is not applicable to those alterations made to the above listed components where the involved materials, specifications and dimensions remain unchanged.\r\nIf the hoisting load of the derrick crane is intended to be reduced to be less than 3 tons, the Employer shall report to the inspecting organization for confirmation and revocation of the corresponding qualification certification of inspection."
+		},
+		{
+			"number": 4000,
+			"content": "When altering the master arm, crane boom, cable, foundation or other structural parts of the derrick crane, the employer shall fill up the Application Form for Alteration Inspection of Derrick cranes (Annex 12) and submit the same along with the drawings of the components to be altered to the inspecting organization to apply for the alteration inspection.\r\nThe inspecting organization shall remark the date and results of the inspection as well as the altered components on the original qualification certificate for derrick cranes qualified in the alteration inspection.\r\nThe requirements stipulated in Articles 34 and 35 shall apply mutatis mutandis to the alteration inspection stated in Paragraph 1. ."
+		},
+		{
+			"number": 4100,
+			"content": "If the idle derrick cranes, which have been out of service for over one (1) year beyond the valid period of the qualification certificate of inspection, are intended to be reused, the Employer shall fill up the Application Form for Re-inspection of Fixed Cranes (Annex 13) and submit the same to the inspecting organization to apply for re-inspection.\r\nIf the derrick cranes stopped for operation for over 1 year exceeding the valid period of the qualification certificate of inspection are planned to be reused, the employer shall fill the Application for Re-inspection of Derrick cranes (Annex 13) and apply at the inspecting organization for re-inspection. The inspecting organization shall record the date and result of inspection and the service life (2 years as the maximum) on the original qualification certificate for the inspection for derrick cranes qualified through the re-inspection.\r\nThe stipulations in Articles 34 and 35 shall apply to the re-inspection stipulated in Paragraph 1. e"
+		},
+		{
+			"number": 4200,
+			"content": "Before manufacturing or making modification to the construction elevators, the Manufacturer shall fill up the type inspection application form (Annex 1) and submit the same along with the documents listed below to local inspecting organization for approval:\r\n1. Type of construction elevator to be tested, criteria of strength calculation and assembly sketches for the elevator applying for inspection.\r\n2. Summary of as-required inspection equipment to be used duringr the manufacturing process.\r\n3. Educational background and working experience of the chief designer.\r\n4. Educational background and working experience of the construction director.\r\nAny alteration made to the equipment stipulated in Item 2 or the personnel stipulated in Items 3,4 of the precedingParagraph shall be reported to the local inspecting organization.\r\nThe inspecting organization shall issue the Qualification Certificate of Type Inspection for Manufacturing Equipment (Annex 2) for qualifiers in the type inspection as stipulated in Paragraph 1.\r\nThe manufacture or modification work shall not be carried out without passing the inspection. However, this limitation shall not apply to the types and conditions that have already qualified through the previous type inspection process."
+		},
+		{
+			"number": 4300,
+			"content": "When completing the installation of elevators, the Employer shall fill up the Application Form for Completion Inspection of Elevators (Annex 3) and submit the same along with the documents as shown below to the local inspecting organization for application of the completion inspection:\r\n1. Qualification Certification for the Type Inspection of Manufacturing Facilities (the imported facilities shall be supported by thequality control related documents).\r\n2. Area drawingsof the installation site.\r\n3. Specification sheets of the Construction Elevators (Annex 22)\r\n4. Strengthen Calculation basis and Assembly drawings."
+		},
+		{
+			"number": 4400,
+			"content": "The contents of the completion inspection of the construction elevators shall consist of structure and performance inspection, load test and other as-required inspections.\r\nThe load test stipulated in the precedingParagraph shall be performed by placing a teste load weighing 1.2 times of the rated load on the carrier of the construction elevator to inspect the performance of the ascending and descending actions.\r\nTheinspecting organization may grant the Employer a full or partial exemption from the inspection requirements stipulated in the preceding Paragraph 1 for the imported construction elevator evidenced by proper inspection certifications."
+		},
+		{
+			"number": 4500,
+			"content": "In the course of processing the application for Completion Inspection of the construction elevators, the inspecting organization shall notify Employer of the inspection date so as to allow for preparation of the test loads and the transportation facilities as required for the load test."
+		},
+		{
+			"number": 4600,
+			"content": "The inspecting organization shall stamp the qualification mark (annex 7) on the Specification of Elevators for those construction elevators either qualified through the completion test, or those deemed to be qualified according to Paragraph 3 of Article 44.,After being signed by the Inspector, one (1) copy of the said specification shall then be delivered to the applicant, and the qualification mark shall be printed, painted or posted at distinct location of the construction elevatorbeing inspected for easy identification.\r\nThe inspecting organization shall issue the Report for Results of Completion Inspection (Annex 23) and Qualification Certificate (Annex 24) for the construction elevators successfully qualified through the completion inspection, the maximum period of validity for the aforesaid documents shall be one ( 1) year.\r\nThe Employer shall have the aforesaid Qualification Certificate or its photocopy placed at the distinct location in the carrier of the construction elevator."
+		},
+		{
+			"number": 4700,
+			"content": "The Employer shall fill up the Application Form for Periodic Inspection of Elevators (Annex 10) and submit the same to the inspecting organization one (1) month before the expiry of the qualification certificate for application of the periodic inspection of the construction elevators. The cranes shall be prohibited from operation, if the Employer fails to apply for the said inspection within the time limit, or the elevators fail to pass the inspection.\r\nThe contents of the periodic inspection stipulated in the preceding Paragraph shall consist of the inspections for the structure, performance of components of the construction elevator and the load test as well as other test items as required.\r\nThe load test as stipulated in the preceding Paragraph shall be carried out for inspection of the performance of the ascending and descending actionsby placing a test load equal to the movable load at the rated speed. However, the said load test may be exempted if the inspecting organization deems it unnecessary.\r\nThe provisions of the preceding Article 45 shall apply mutatis mutandis to the load test stipulated in the preceding Paragraph 2."
+		},
+		{
+			"number": 4800,
+			"content": "The inspection organization shall sign on the original qualification certificate and shall also remark thereon the extended service validity period(1 year as the maximum) for elevators having passed the periodic inspection.\r\nThe Inspector shall fill upthe Report for the Result of Periodic Inspection for Construction Elevators (Annex 25) upon completion of the periodic inspection and notify the employer of the inspection results accordingly."
+		},
+		{
+			"number": 4900,
+			"content": "To make alterations to any of the following components of the elevator, the Employer shall submit the drawings relating to the components to be altered to the inspecting organization for information and auditing:\r\n1. Windlass\r\n2. Prime motor\r\n3. Steel wire or hoisting chain\r\n4. Braking devices\r\nThe requirements stipulated in the preceding Paragraph 1 is not applicable to those alterations made to the above listed components where the involved materials, specifications and dimensions remain unchanged."
+		},
+		{
+			"number": 5000,
+			"content": "In case alterations are made to the original construction elevators by changing the loading carrier, counterweight, pathway tower, guiderail supporting tower or lifting cables, the Employer shall fill up and submit an Application Form(Annex 12), accompanied with the drawings relating to the said alterations, to the Inspection Organization to apply for the alteration inspection of elevators.\r\nThe date and results of the alteration inspection as well as the altered portions shall be so remarked in the original qualification certificate by the inspecting organization for those elevators being qualified by the said alteration inspection.\r\nThe requirements stipulated in Articles 44 and 45 shall apply mutatis mutandis to the alteration inspection stated in the preceding paragraph 1."
+		},
+		{
+			"number": 5100,
+			"content": "If the idle construction elevators which have been out of service beyong their valid period of the qualification certificate of inspection for over one (1) year , are intended to be reused, the Employer shall fill up the Application Form for Re-inspection of Elevators (Annex 13) and submit the same to the inspecting organization to apply for re-inspection.\r\nThe inspecting organization shall record the date and results of inspection and the extended service life (1 year as the maximum) on the original qualification certificate for the inspection for the elevators being qualified through the re-inspection.\r\nThe provisions stated in Articles 44 and 45 shall apply mutatis mutandis to the alteration inspection stipulated in Paragraph 1."
+		},
+		{
+			"number": 5200,
+			"content": "Before manufacturing or making modification to the construction lifts, the Manufacturer shall fill up the type inspection application form (Annex 1) and submit the same along with the documents listed below to the local inspecting organization:\r\n1. Type of the construction lift, criteria of strength calculation and assembly drawings for the construction lift applying for inspection.\r\n2. Summary of as-required inspection equipment used in the manufacturing process.\r\n3. Brief description of the educational background and working experience of the chief designer.\r\n4. Brief description of the educational background and working experience of the construction director.\r\nAny alteration involved in the equipment stipulated in Item 2 or the personnel stipulated in Paragraphs 3,4 of the preceding Paragraph shall be reported to the local inspecting organization.\r\nThe inspecting organization shall issue the Qualification Certificate of Type Inspection for Manufacturing Equipment (Annex 2) for the construction lift qualified through the type inspection as stipulated in Paragraph 1.\r\nThe manufacture or modification shall be prohibited from implementation unless the inspection has been passed. However, this restriction shall not apply to the types and conditions of construction lifts that have already passed the type inspection."
+		},
+		{
+			"number": 5300,
+			"content": "When completing the installation of construction lifts, The Employer shall fill up the Application Form for Completion Inspection of Construction lifts (Annex 3) and submit the same along with the documents as shown below to the local inspecting organization to apply for the completion inspection:\r\n1. Qualification Certification for the Type Inspection of Manufacturing Facilities (for the exported facilities, documents relating to quality control etc. shall be attached).\r\n2. Area drawings and fundamental summary of the installation location.\r\n3. Specification of the construction lift (Annex 4)\r\n4. Strengthen calculation basis and assembly drawings."
+		},
+		{
+			"number": 5400,
+			"content": "The completion inspection of construction lifts shall include structure and performance inspection, load test and other necessary inspections.\r\nThe load test stipulated in the preceding Paragraph shall be performed by using a test load weighing 1.2 times of the rated load of the construction lift for inspection of the ascending and descending motions of the construction lift.\r\nFor the inspection stipulated in Paragraph 1, the inspecting organization may grant the imported equipment a full or partialexemption from the inspection requirements stipulated in this Article, depending on the adequacy of the supporting inspection certifications provided."
+		},
+		{
+			"number": 5500,
+			"content": "In the course of processing the application for Completion Inspection of the construction lift, the Inspecting Organization shall notify the Employer of the inspection date so as to allow for preparation of the test loads and the transportation facilities as required for the load test."
+		},
+		{
+			"number": 5600,
+			"content": "The inspecting organization shall stamp the qualification mark (annex 7) on the specification of Construction lifts for the construction lifts qualified through the completion test,or it is deemed to be qualified according to paragraph 3 of Article 54 by the inspecting organization.After being signed by the Inspector, one (1) copy of the specification shall be delivered to the applicant, and the qualification mark shall then be printed, painted or posted at distinct location of the construction lift inspected for easy identification.\r\nThe inspecting organization shall issue the Qualification Certificate (Annex 27) for the construction lifts qualified through the completion inspection, the maximum period of validity for the aforesaid documents shall be two (2) years.\r\nThe employer shall have the aforesaid Qualification Certificate or its photocopy placed at a distinct location on the construction lift."
+		},
+		{
+			"number": 5700,
+			"content": "The employer shall fill up the ApplicationForm for Periodic Inspection of Construction lifts (Annex 10) one (1) month before the expiry of the qualification certificate for inspection of construction lifts and the submit the same to the inspecting organization to apply for periodic inspection. The construction lift shall be prohibited from operation, if the inspection fails to be applied for within the time limit, or the inspection has not passed.\r\nThe aforesaid periodic inspection shall consist of inspections of the structure, performance of components of the construction lift as well as the load test and other as-required test items.\r\nThe load test as stipulated in the preceding Paragraph refers to a test to be carried out for inspection of the ascending and descending motions under a test load equal to the movable load at the rated speed. However, the load test may be exempted if the inspecting organization deems it unnecessary.\r\nThe requirements stipulated in Article 55 shall apply to the load test mentioned in Paragraph 2."
+		},
+		{
+			"number": 5800,
+			"content": "The inspection organization shall sign on the original qualification certificate and remark the extended period of service (2 years as the maximum) for construction lift having passed the periodic inspection.\r\nThe Inspector shall fill up the Report for the Result of Periodic Inspection for Construction lifts (Annex 25) after the completion of the periodic inspection and notify the Employer of the results accordingly."
+		},
+		{
+			"number": 5900,
+			"content": "If any of the following components of the construction lift intended to be altered, the Employer shall submit the drawings relating to the components to be altered to the inspecting organization for information and auditing:\r\n1. Prime motor\r\n2. Winch\r\n3. Steel wire or hoisting chain\r\n4. Braking devices\r\nThe requirements stipulated in the preceding Paragraph 1 is not applicable to those alterations made to the above listed components where the involved materials, specifications and dimensions remain unchanged..\r\nIf the height of the guide rail or the elevating path is intended to be reduced to be less than 20m, the Employer shall report to the inspecting organization for confirmation and revocation of the corresponding qualification certification of inspection."
+		},
+		{
+			"number": 6000,
+			"content": "When altering the guide rails, elevating path or platform of the construction lift, the Employer shall fill up the Application Form for Alteration Inspection of Construction lifts (Annex 12) and submit thesame along with the drawings relating to of the components to be altered to the inspecting organization to apply for the alteration inspection.\r\nThe inspecting organization shall remark the date and results of the inspection as well as the altered components on the original qualification certificate for the construction lifts qualified through the alteration inspection.\r\nTherequirements stipulated in Articles 54 and 55 shall apply mutatis mutandis to the alteration inspection mentioned in the preceding Paragraph 1."
+		},
+		{
+			"number": 6100,
+			"content": "If the construction lifts stopped for operation for over 1 year exceeding the valid period of the qualification certificate of inspection are planned to be reused, the employer shall fill the Application for Re-inspection of Construction lifts (Annex 13) and apply at the inspecting organization for re-inspection.\r\nThe inspecting organization shall record the date and result of inspection and the service life (1 year as the maximum) on the original qualification certificate for the inspection for construction lifts qualified in the re-inspection.\r\nThe requirements stipulated in Articles 54 and 55 shall apply mutatis mutandis to the re-inspection stipulated in paragraph 1."
+		},
+		{
+			"number": 6200,
+			"content": "Before manufacturing or making modification to the hoisting cages, the Manufacturer shall fill up the type inspection application form (Annex 1) and submit the same along with the documents listed below to local inspecting organizations:\r\n1. Type, criteria of strength calculation and assembly drawings for the hoisting cage to be inspected.\r\n2. Summary of as-required inspection equipment used in the manufacturing process.\r\n3. Brief description of educational background and working experience of the chief designer.\r\n4. Brief decription of educational background and working experience of the principal of construction.\r\nAny alteration of the equipment stipulated in Item 2 or change of personnel stipulated in Paragraphs 3,4 of the preceding Paragraph shall be reported to the local inspecting organization.\r\nThe inspecting organization shall issue the Qualification Certificate of Type Inspection for Manufacturing Equipment (Annex 2) for the hoisting cages which have been qualified through the type inspection as stipulated in Paragraph 1.\r\nThe manufacture or modification work shallt be prohibited from implementation without passing the inspection. However, this restriction shall not apply to those hoisting cages whose types and conditions have previously passed the type inspection."
+		},
+		{
+			"number": 6300,
+			"content": "Before using the hoisting cages upon completion of manufacturing or before being imported from foreign countries, the Employer shall fill up the Application for Usage Inspection of Hoisting Cages (Annex 14), and submit the same along with the documents listed below to the local inspecting organization to apply for the usage inspection:\r\n1. Qualification Certification for the Type Inspection of Manufacturing Facilities (The imported facilities shall be supported by the documents relating to quality control etc. )\r\n2. Specification of Hoisting cages (Annex 15)\r\n3. Strengthen calculation basis and assembly drawings..\r\n4. Fixing method for the settlement of the hoisting cage."
+		},
+		{
+			"number": 6400,
+			"content": "The completion inspection of hoisting cages shall include structure and performance inspection, load test and other necessary inspections.\r\nThe load test stipulated in the previous paragraph is to place the load on the worktable for ascending test in rated speed or descending test in allowable descending speed etc. However, those cannot ascend shall only receive the descending test.\r\nFor the inspection stipulated in paragraph 1, the inspecting organization shall exempt the imported equipment with corresponding inspection certifications from all or any of the inspections stipulated in this Article."
+		},
+		{
+			"number": 6500,
+			"content": "In the course of processing Employer's application for the Operation inspection of the hoisting cages, the Inspecting Organization shall notify the employer of the inspection date to allow for relocation of the said hoisting cage at a easy place for performing the said inspection, as well as for preparation of the test loads and the transportation facilities as required for the load test."
+		},
+		{
+			"number": 6600,
+			"content": "The inspecting organization shall stamp the qualification mark (annex 7) on the specification of Hoisting cages for the hoisting cages qualified in the completion test or deemed qualified according to paragraph 3 of Article 64, after being signed by the Inspector, 1 copy of the specification shall then be delivered to the applicant, and the qualification mark shall be printed, painted or posted at distinct part of the object inspected for identification.\r\nThe inspecting organization shall issue the Report for Results of Completion Inspection (Annex 29) and Qualification Certificate (Annex 17) to hoisting cages qualified in the completion inspection, the max period of validity for the aforesaid documents shall be 1 year.\r\nThe Employer shall place the aforesaid Qualification Certificate or its photocopy in the driving cab of the cranes or at the distinct locations in the workplace."
+		},
+		{
+			"number": 6700,
+			"content": "The Employer shall fill up the Application Form for Periodic Inspection of Hoisting cages (Annex 10) one (1) month before the expiry of the qualification certificate for the inspection of hoisting cages and apply for periodic inspection to the inspecting organization; The cranes shall be prohibited from operation if the inspection is either not applied within the time limit or not passed.\r\nThe aforesaid periodic inspection shall consist of the inspections for the structure, performance of parts of the crane and the load test as well as other necessary items.\r\nThe load test stipulated in the previous paragraph shall apply to the stipulations in paragraph 2 of Article 64 and Article 15."
+		},
+		{
+			"number": 6800,
+			"content": "The inspection organization shall sign on the original qualification certificate and indicate the period of service (1 year at the most) for hoisting cages passing the periodic inspection.\r\nThe Inspector shall fill up the Report for the Result of Periodic Inspection for Hoisting cages (Annex 30) after the completion of the periodic inspection and notify the employer of the results."
+		},
+		{
+			"number": 6900,
+			"content": "If r any alteration is intended to be made to the following items of the hoisting cage , the Employer shall fill upthe Application Form for Alteration Inspection Hoisting Cages (Annex 12) and submit the same along with the drawings relating to the components to be altered to the inspecting organization for information and auditing:\r\n1. Worktable.\r\n2. Boom and other structural parts.\r\n3. Elevating devices.\r\n4. Braking devices.\r\n5. Control devices.\r\n6. Steel wire or hoisting chain\r\n7. Means of fixing\r\nHowever, the requirement stipulated in the preceding paragraph shall not be applicable to those alterations where the involved materials, specifications and dimensions remain unchanged.\r\nThe inspecting organization shall record the date and result of the inspection as well as the altered parts on the original qualification certificate for hoisting cages qualified in the alteration inspection.\r\nThe requirements stipulated in Articles 64 and 65 shall apply mutatis mutandis to the alteration inspection mentioned in paragraph 1.."
+		},
+		{
+			"number": 7000,
+			"content": "If the hoisting cages stopped for operation for over 1 year exceeding the valid period of the qualification certificate of inspection are planned to be reused, the employer shall fill the Application for Re-inspection of Construction lifts (Annex 13) and apply at the inspecting organization for re-inspection. The inspecting organization shall remark the date and results of inspection and the service life (1 year as the maximum) on the original qualification certificate for the inspection for hoisting cages qualified through the re-inspection process.\r\nThe re-inspection stipulated in paragraph 1 shall apply mutatis mutandis to the stipulations in Articles 64 and 65."
+		},
+		{
+			"number": 7100,
+			"content": "Before proceeding with manufacturing or making modification to the boilers, the Manufacturer shall fill up the type inspection application form (Annex 31) and submit the same along with the documents listed shown below to the local inspecting organization:\r\n1. Type, detailed drawings of structure and strength calculation for the boiler applying for inspection.\r\n2. Type, capacity and quantity of manufacturing and inspection equipment.\r\n3. Brief description of educational background and working experience of the chief designer.\r\n4. Brief description of educational background and working experience of the construction director.\r\n5. Qualification certificates of the Constructor and number of the construction workers.\r\n6. Qualification certificates of the welders, specifications of welding procedures, and records of inspection qualification for welding procedures for those manufacturing or modification work to be made by welding method.\r\nAny alteration of the equipment stipulated inabove Item 2 or change of personnel stipulated in preceding Paragraphs 3 and 4 shall be reported to the local inspecting organization.\r\nThe inspecting organization shall issue the Qualification Certificate of Type Inspection for Manufacturing Equipment (Annex 2) for the boilers qualified by the type inspection as stipulated in Paragraph 1.\r\nThe manufacture or modification task shall be prohibited from implementation without passing the inspection. However, this restriction shall not apply to the case where the types and conditions have previously passed the type inspection."
+		},
+		{
+			"number": 7200,
+			"content": "Manufacturers of boilers shall be responsible for implementing the quality control and quality assurance measures, and shall ensure that the involved equipment and personnel meet the requirements as shown below:\r\n1. Manufacturing and inspection equipment\r\n(1) Those manufactured or modified by using the riveting method shall have: bending machines, air compressors, punching machines, riveting hammers, caulkers and hydraulic pressure testing equipment.\r\n(2) Those manufactured or modified by using the welding method shall have:\r\nA. Manufactured or modified totally by using the welding method : Plate bending machines, welding machines, punches, annealing furnace, universal testing machines, hydraulic pressure testing equipment and radiation inspection equipment.\r\nB. Manufactured or modified Partially by welding method: Plate bending machines, welding machines, punches, universal testing machines, hydraulic pressure testing equipment and radiation inspection equipment.\r\nC. Manufacture of throughflow boilers with steam separators with the inside diameter over 300mm: Plate bending machines, pipe benders, welding machines, punching machines, annealing furnaces, universal testing machines, hydraulic pressure testing equipment.\r\nD. Manufacture of throughflow boilers with steam separators with the inside diameter less than 300mm: Pipe benders, sealing machines, hydraulic pressure testing equipment.\r\nE. Manufacture of throughflow boilers without steam separators: Pipe benders, sealing machines, hydraulic pressure testing equipment.\r\nF. Manufacture of steel tubes for boiler body with the max. diameter: Plate bending machines, sealing machines, punches, annealing furnaces, universal testing machines, hydraulic pressure testing equipment and radiation inspection equipment.\r\nG. Circumferential jointing of boilers with inside diameter of the shell body less than 300mm, or welding only implemented for the tube sheets and flanges but other parts: Welding machines, hydraulic pressure testing equipment.\r\nH. Manufacture of wavy boiler barrels or expansion joints: Plate bending machines, punches or forming machines, welding machines, hydraulic pressure testing equipment and radiation inspection equipment. While radiation inspection equipment may be exempted for implementation of vertical welding of the wavy boiler barrels.\r\n(3) Those manufactured or modified by using the casting method shall have: casting equipment and hydraulic pressure testing equipment.\r\n2. The chief designer shall meet one of the qualifications as follows:\r\n(1) Registered professional engineer relating to mechanical engineering discipline.\r\n(2) College graduate majored in mechanical engineering related disciplines together with over five ( 5 ) years of experience in design, manufacture or inspection of the machinery subject to the type inspections.\r\n(3) Vocational high school graduate majored in mechanics related disciplines together with over eight ( 8 ) years of experience in design, manufacture or inspection of machinery subject to type inspections.\r\n(4) Senior technician with over twelve (12) years of experience in design, manufacture or inspection of machinery subject to type inspections.\r\n3. Construction director shallmeet one of the qualifications as shown below:\r\n(1) College graduate majored in mechanical engineering related disciplines together with over two ( 2 ) years of experience in design, manufacture or inspection of machinery subject to type inspections.\r\n(2) Vocational high school graduate majored in mechanics related disciplines together with over five ( 5 ) years of experience in design, manufacture or inspection of machinery subject to type inspections.\r\n(3) Senior technician with over eight ( 8 ) years of experience in design, manufacture or inspection of machinery subject to type inspections.\r\n4. Construction technicians shall meet the qualifications as shown below:\r\n(1) Those involving the manufacture or modification works to be done by using the riveting method shall have over three ( 3 ) years of working experience relating to riveting affairs.\r\n(2) Those involving the manufacture or modification works to be done by using welding method shall maintain qualificationcertificates for the related welding procidures.\r\n(3) Those involving the manufacture or modification works to be done by using thecasting method shall have over three (3) years of working experience relating to casting affairs.\r\nThe requirement for installation of punching machines as stipulated in Item 1 of the preceding Paragraph shall only apply to the case where the boilers have their maximum operating pressure exceeding seven ( 7) kg/c㎡. The installation of annealing furnaces shall be limited to the case where the annealing process is required to be implemented in accordance with the related regulations.\r\nIf the punching machines ( as mentioned in Sub-items 1, 2-1 through 2-3, 2-6 and 2-8 of Item 1 under preceding Paragraph 1), annealing furnaces (as mentioned in Sub-items 2-1, 2-3 and 2-6 of Item 1 under preceding Paragraph 1), the universal testing machines ( as mentioned in 2-1 through 2-3, 2-6 and 2-8 of Item 1 under preceding Paragraph 1), and radiation inspection equipment ( as mentioned in 2-1 through 2-3, 2-6 and 2-8 of Item 1 under preceding Paragraph 1), can be ready for use at any time, or they are co-owned with other organizations , the inspection organization may deem that the Manufacturer is in possession of the said equipment.\r\nThe Manufacturer in charge of the casting activities as mentioned in Sub-item 3 of Item 1 under preceding Paragraph 1 shall establish a dedicated inspection unit for inspection of the casting parts.\r\nIf the Manufacturer has mandated a qualified person to serve as the chief designer as mentioned in Item 2 of the preceding Paragraph 1 , the inspecting organization may deem that the said person has been stationed."
+		},
+		{
+			"number": 7300,
+			"content": "Manufacturers of boilers manufactured by sealing shall apply for sealing inspection at local inspecting organization before the construction. However, this limitation shall not apply to those meeting any of the items shown below:\r\n1. Auxiliary equipment or those only sealing stress parts without stress under compression.\r\n2. Throughflow boilers. However, this shall not apply to boilers with steam separators with inside diameter over 300mm.\r\n3. Those only sealing the parts shown below:\r\n(1) Circumferential joints of main steam pipes, water supply pipes or header with inside diameter less than 300mm.\r\n(2) Reinforcement materials, pipes, pipe table, flanges and valve bases etc. sealed on the body or the end plates.\r\n(3) Sealing around the charging holes of barrel type boilers or vertical boilers etc.\r\n(4) Sealing supporting racks or other objects withstanding no pressure on the body or the end plates.\r\n(5) Leakproof sealing.\r\n(6) For boiler drums with inside diameter less than 300mm, only sealing the drum body with the coronal plate or the joint of the drum body and the boiler body.\r\nThe sealing inspection items shall include material inspection, surface inspection, mechanical performance test for sealed parts, radiation inspection, heat treatment inspection and other necessary inspections."
+		},
+		{
+			"number": 7400,
+			"content": "When applying for sealing inspection of boilers, the Manufacturer shall fill the Application for Sealing Inspection of Boilers (Annex 32) and submit the documents shown below:\r\n1. Material certificate 1 copy\r\n2. 2 copies of specification of sealing (Annex 32) and 1 copy of construction locations classification map.\r\n3. 2 copies of detailed structure drawing and strength calculation sheet.\r\n4. Sealing technician certificate of sealing constructors.\r\n5. Qualification certificate for the type inspection of manufacturing facilities, sealing procedure and sealing procedure qualification examination records."
+		},
+		{
+			"number": 7500,
+			"content": "When carrying out the sealing inspection on boilers, the inspecting organization shall first examine the documents submitted by the Manufacturer, and the site inspection shall then be carried out after the documents are qualified.\r\nWhen carrying out the site inspection, personnel designated by the Manufacture or the Manufacturer shall be on the scene and prepare the items shown below before the inspection：\r\n1. Test pieces for mechanical performances.\r\n2. Radiation inspection."
+		},
+		{
+			"number": 7600,
+			"content": "The inspecting organization shall stamp the qualification mark (annex 34) on the specification of Boilers for the boilers qualified in the completion test, after being signed by the Inspector, 1 copy of the specification shall then be delivered to the applicant, and the qualification mark shall be printed, painted or posted at distinct part of the object inspected for identification."
+		},
+		{
+			"number": 7700,
+			"content": "Upon completion of the boiler body, the Manufacturer shall apply for structure inspection at local inspecting organization.\r\nHowever, for water tube boilers, combined cast iron boilers and other separate composite boilers, the structure inspection shall be applied for at local inspecting organization before the installation."
+		},
+		{
+			"number": 7800,
+			"content": "To apply for structure inspection of the boilers, the Manufacturer shall fill up and submit an Application Form(Annex 35) for Structure Inspection of boilers together with the following documents:\r\n1.Two (2) copies of the specification(Annex 36) of the boiler.\r\n2.Two (2) copies each of the detailed structure drawings and the strength calculation sheets.\r\n3.One (1) copy of the welding list with a stamp indicating the qualification status of the inspection of those manufactured by using welding method shall be attached.\r\n4.One (1) copy of the certificate indicating qualification status of the type inspection of those manufactured by using riveting method shall be attached.\r\nIn case both the welding inspection and the structure inspection are carried out by the same Inspecting Organization, the documental requirements stated in above Items 2 and 3 may be exempted.\r\nThe coverage of the structure inspection mentioned in the preceding Paragraph 1 shall include inspection of construction methods, material thickness, structure, dimensions, heat transfer area, maximum operating pressure, strength calculation review, and arrangement of the manhole, cleaning hole, the safety devices, as well as pressure test, and materials used for shell body, end plate, pipe sheet, smoke tube, fire chamber and fire tube and etc., and other inspections as required."
+		},
+		{
+			"number": 7900,
+			"content": "When the inspecting organization carries out structure inspection on boilers, the Manufacture or personnel designated by the Manufacture shall be on the scene and prepare the items shown below.\r\n1. Place the objects of inspection at locations convenient for inspection.\r\n2. Prepare for pressure tests like hydraulic pressure test etc."
+		},
+		{
+			"number": 8000,
+			"content": "The inspecting organization shall stamp the qualification mark (annex 34) on the Detailed List of Boilers for the boilers qualified in the completion test qualified, after being signed by the Inspector, 1 copy of the list shall then be delivered to the applicant, and the qualification mark shall be printed, painted or posted at distinct part of the object inspected for identification."
+		},
+		{
+			"number": 8100,
+			"content": "Upon completion of the installation of the boiler, the employer shall apply for completion inspection at the inspecting organization; those not receiving the completion inspection shall not be used.\r\nWhen the inspecting organization carries out structure inspection on boilers, the Manufacture or personnel designated by the Manufacture shall be on the scene"
+		},
+		{
+			"number": 8200,
+			"content": "When applying for completion inspection of boilers, the Manufacturer shall fill the Application for Completion Inspection of Boilers (Annex 37) and submit the documents shown below:\r\n1. Specification of the boiler with seal of qualification mark for the structure inspection or reinspection.\r\n2. Map for the installation site of the boiler and peripheral situations.\r\nThe Completion inspection of boilers shall include inspections on the quantity and capacity of safety valves, blowoff test, quantity and locations of level gauges, capacity and quantity of the water supply and drainage devices, safety equipment of the water treatment devices and the boilers, equipment, foundation, entrance, exit and safety devices of the boiler room, quantity and dimensions of the pressure gauge and other necessary inspections.\r\nThe inspecting organization shall issue the Report for Results of Completion inspection of boilers (Annex 38) and the Qualification Certificate (Annex 39) to boilers qualified in the completion inspection, the max period of validity for the aforesaid documents shall be 1 year.\r\nThe employer shall hang the aforesaid Qualification Certificate or its photocopy in the boiler toom or obvious locations in the workplace."
+		},
+		{
+			"number": 8300,
+			"content": "The employer shall fill the Application for Periodic Inspection of Boilers (Annex 40) 1 month before the expiry of the qualification certificate for the inspection of boilers and apply for periodic inspection at the inspecting organization."
+		},
+		{
+			"number": 8400,
+			"content": "After qualifying the completion inspection on boilers and during the period of the first periodic inspection, the employer shall carry out internal of external inspections. After the aforesaid periodic inspection, the external inspection shall be carried out more that once a year; and the internal inspection shall be in accordance with the stipulations shown below:\r\n1. Boilers attached to chemical equipment connected with pipes for continuous production procedure or boilers for generation and their auxiliary boilers shall be inspected more that once every 2 years.\r\n2. Boilers other than what stipulated in the previous subparagraph shall be inspected more that once a year.\r\nFor boilers for generation with generating capacity over 20,000kw, the external inspection as mentioned in the previous paragraph shall be extended and carried out along with the internal inspection. But its period cannot exceed 2 years."
+		},
+		{
+			"number": 8500,
+			"content": "After accepting the application for internal inspection, the inspecting organization shall notify the employer of the date for the completion inspection for boilers so that they can resume the inside of the boilers to the normal temperature and pressure, discharge the contents and carry out ventilation, air change, cleaning for the boilers and prepare for other necessary proceedings for the periodic inspection.\r\nThe internal inspection mentioned in the previous paragraph shall include surface inspection of the boilers and nondestructive inspectors for thickness, cracks, distortion and defilement of the boilers, and determine the pressure test and other necessary inspections to be carried out according to the results of the aforesaid inspections."
+		},
+		{
+			"number": 8600,
+			"content": "The items of external inspection include visual examination, detection of the corrosion, cracks, distortion, defilement and leakage on the surface, if necessary, the non-destructive detection, ultrasonic thickness measurement as fixed points in corrodible areas, accessories and auxiliary devices inspection shall also be carried out. Whenever necessary, proper instruments shall be adopted to detect the inside of the boiler, if something abnormal is found, the internal inspection shall then be carried out.\r\nThe ultrasonic thickness measurement stipulated in the previous paragraph may be exempted if there're problems like high temperature etc. that leads to difficulty in the measurement\r\nWhen carrying out the external inspection on boilers, the inspecting organization he shall notify the employer of the date of inspection. During the inspection, the Manufacture or personnel designated by the Manufacture shall be on the scene."
+		},
+		{
+			"number": 8700,
+			"content": "The inspecting organization shall sign on the original qualification certificate of boilers qualified in the periodic inspection and indicate the period of service (1 years at the most), but for paragraph 3 of Article 84, the period may be 2 years.\r\nThe Inspector shall fill the Report for the Result of Periodic Inspection for Boilers (Annex 41) after the completion of the periodic inspection and notify the employer of the results."
+		},
+		{
+			"number": 8800,
+			"content": "If the boiler is deemed unqualified in the periodic inspection, the inspector shall record the disqualification in the record of the qualification certificate of the inspection and notify of the improvement; if the situation is serious and has the possibility of resulting in danger, if shall be reported to the inspection organization for limitation of its max pressure or prohibition of use."
+		},
+		{
+			"number": 8900,
+			"content": "In case any of the following situations exists, the Owner/Employer of the boiler shall submit the Inspecting Organization a re-inspection application for qualifying the said boilers:\r\n1. The boiler to be used, is imported from foreign countries.\r\n2. The boiler to be installed or re-used, has been idle for over one(I) year since the last qualification date of its structure inspection, re-inspection, completion Inspection or periodic inspection of the said boiler.\r\n3. The boiler to be re-used, has previously been banned by the Inspection Organization.\r\n4. The fixed type boiler to be re-installed, is relocated at a place different from its original location.\r\n5. The maximum operation pressure is to be up-rated.\r\n6. The heat transfer area is to be changed.\r\nFor those imported pressure vessels which are documented by the proper corresponding inspection certificates, the Inspecting Organization may grant exemption from all or part of the inspection requirements as stipulated in this Article."
+		},
+		{
+			"number": 9000,
+			"content": "When applying for the reinspection of boilers, the owner or the employer shall fill the Application for reinspection of boilers (Annex 42) and submit the documents listed below:\r\n1. 2 copies of specification of the boiler.\r\n2. Detailed drawing of structure and calculation sheet, each 2 copies. However, those deemed unnecessary by the inspecting organization may be ignored.\r\n3. Aforesaid certificates for qualification of inspections or their photocopies.\r\nStipulations of Paragraph 3 of Article 78 and Article 79 shall apply to the reinspection."
+		},
+		{
+			"number": 9100,
+			"content": "Once the boiler has been qualified through the re-inspection process, the specification of the said boiler shall be stamped with a qualification mark and signed by the inspector of the Inspection Organization.One(1) copy of the above-mentioned specification shall then be delivered to the applicant to serve as an evidence of the qualification status of the re-inspection, for use to proceed with the Completion Inspection. However, for those boilers which have been either idle for over one(1) year after being qualified by the completion/periodic inspection, or prohibited from operation as respectively stipulated in Items 2 and 3 under Paragraph 1 of Article 89, if the said boilers which either remain at their original locations or are relocated at other places in the factory, are qualified by the inspection, the Inspection Organization may add the date and result of the inspection as well as the operation expiration duration with one(1) year as a maximum, on the original qualification certificate.\r\nFor those imported boilers, the qualification mark shall be stamped on the distinct portion of the same after being inspected for identification purpose."
+		},
+		{
+			"number": 9200,
+			"content": "If any of the items shown below of the boiler needs to be altered, the owner of the employer shall apply for the alteration inspection at the inspection organization:\r\n1. Body, header, fire tube, firebox, end plate, pipe sheet, tamina tectalis or reinforcement support of boiler.\r\n2. Overheater or economizer.\r\n3. Combustion train\r\n4. Installation base.\r\nThe inspecting organization shall record the date of inspection, altered parts and results of the inspection on the original qualification certificate of the boiler for the boilers qualified in the completion test\r\nIf over 1/3 of the body or header of the boiler is to be altered or the fire tube, firebox, end plate and pipe sheet are to be entirely altered, the alteration shall be carried out according to stipulations of Article 71."
+		},
+		{
+			"number": 9300,
+			"content": "When applying for the alteration inspection of boilers, the Manufacturer shall fill the Application for Alteration Inspection of boilers (Annex 43) and submit it the documents as shown below.\r\n1. Qualification certificate of the type inspection of the manufacturing equipment.\r\n2. 2 copies of specification of the boiler\r\n3. Drawings of the altered parts.\r\n4. Detailed structure drawing and strength calculation sheet, each 2 copies. However, this may be ignored if the inspecting organization deems it unnecessary.\r\n5. Aforesaid certificates for qualification of inspections or their photocopies.\r\nStipulations of Paragraph 3 of Article 73 and Article 79 shall apply to the alteration inspection."
+		},
+		{
+			"number": 9400,
+			"content": "When carrying out the structure inspection, completion inspection, periodic inspection, reinspection or alteration inspection, the inspecting organization, if considering necessary, shall notify the owner of the boilers and the employer or his/her agent of the measures shown below:\r\n1. Remove all or part of the covering on the inspected object.\r\n2. Pull out the rivet or pipe.\r\n3. Drill holes on the plate or pipes.\r\n4. Disassemble the cast iron boilers.\r\n5. Other necessary proceedings.\r\nFor subparagraph 3 of the previous paragraph, the applicant shall apply for non-destructive inspection and submit supporting documents."
+		},
+		{
+			"number": 9500,
+			"content": "Before manufacturing or revising the Category Ι pressure vessels, the Manufacturer shall fill the type inspection application (Annex 31) and submit the application along with the documents listed below at local inspecting organizations:\r\n1. Type, detailed structure drawings and strength calculation sheet for the Category Ι pressure vessel applying for inspection.\r\n2. Type, capacity and quantity of the manufacturing and inspection equipment.\r\n3. Educational background and working experience of the chief designer.\r\n4. Educational background and working experience of the principal of construction.\r\n5. Qualifications and number of constructors.\r\n6. For sealing manufacture or revision, qualification certificates of the sealer, procedure of sealing and records of qualification inspection for sealing procedure shall be provided.\r\nAny alteration of the equipment stipulated in subparagraph 2 or personnel stipulated in paragraphs 3,4 of the previous paragraph shall be reported to the local inspecting organization.\r\nThe inspecting organization shall issue the Qualification Certificate of Type Inspection for Manufacturing Equipment (Annex 2) for qualifiers in the type inspection as stipulated in Paragraph 1.\r\nThe manufacture or revision shall not be carried out without passing the inspection. However, this shall not apply to types and conditions that have already passed the type inspection."
+		},
+		{
+			"number": 9600,
+			"content": "For the manufacturing of Category Ι pressure vessels, except those made by a whole piece of material, quality control, quality assurance measures shall be taken, and the equipment of personnel shall be in accordance with the stipulations in Article 72.\r\nThe equipment and personnel for the manufacture of Category Ι pressure vessels made by a whole piece of material shall meet the stipulations shown below except the chief designer, who shall apply to stipulations in Subparagraph 2 of paragraph 1 in Article 72:\r\n1. Manufacturing and inspection equipment shall include: Digging equipment, hydraulic pressure testing instruments.\r\n2. Principle of the construction shall meet one of the qualifications shown below:\r\n(1) Graduating form departments relating to mechanics in colleges and or with qualifications of technicians for mechanics, and with over 1 year of experience in design, manufacture or inspection of machinery for type inspections.\r\n(2) Graduating from departments relating to mechanics in vocational high schools and with over 2 years of experience in design, manufacture or inspection of machinery for type inspections.\r\n(3) With over 5 years of experience in design, manufacture or inspection of machinery for type inspections.\r\n3. The constructors shall have over 2 years of working experience in the field relating to digging."
+		},
+		{
+			"number": 9700,
+			"content": "Manufacturers of Category Ι pressure vessels manufactured by sealing shall apply for sealing inspection at local inspecting organization before the construction. However, this limitation shall not apply to those meeting any of the cases shown below:\r\n1. Auxiliary equipment or those only sealing stress parts without stress under compression.\r\n2. Those only sealing the parts shown below:\r\n(1) Circumferential joints of pipes with inside diameter less than 300mm.\r\n(2) Reinforcement materials, pipes, pipe table, flanges and valve bases etc. sealed on the body or the end plates.\r\n(3) Sealing supporting racks or other objects withstanding no pressure on the body or the end plates.\r\n(4) Leakproof sealing.\r\nThe sealing inspection items shall include material inspection, surface inspection, mechanical performance test for sealed parts, radiation inspection, heat treatment inspection and other necessary inspections."
+		},
+		{
+			"number": 9800,
+			"content": "When applying for sealing inspection of pressure vessel s, the Manufacturer shall fill the Application for Sealing Inspection of Pressure vessel s (Annex 32) and submit the documents shown below:\r\n1. Material certificate 1 copy.\r\n2. 2 copies of specification of sealing (Annex 32) and 1 copy of construction locations classification map.\r\n3. 2 copies of detailed structure drawing and strength calculation sheet.\r\n4. Sealing technician certificate of sealing constructors.\r\n5. Qualification certificate for the type inspection of manufacturing facilities, sealing procedure and sealing procedure qualification examination records."
+		},
+		{
+			"number": 9900,
+			"content": "When carrying out the sealing inspection on Category Ι pressure vessels, the inspecting organization shall first examine the documents submitted by the Manufacturer, and the site inspection shall then be carried out after the documents are qualified.\r\nWhen carrying out the site inspection, personnel designated by the Manufacture or the Manufacturer shall be on the scene and prepare the items shown below before the inspection：\r\n1. Test pieces for mechanical performances.\r\n2. Radiation inspection."
+		},
+		{
+			"number": 10000,
+			"content": "The inspecting organization shall stamp the qualification mark (annex 34) on the specification of Category Ι pressure vessels for Category Ι pressure vessels qualified in the completion test, after signed by the Inspector, 1 copy of the specification shall then be delivered to the applicant, and the qualification mark shall be printed, painted or posted at distinct part of the object inspected for identification."
+		},
+		{
+			"number": 10100,
+			"content": "Upon completion of the body of the Category Ι pressure vessel, the Manufacturer shall apply for structure inspection at local inspecting organization.However, for Category Ι pressure vessels separately assembled at the site of installation, the structure inspection shall be applied for at local inspecting organization before the installation."
+		},
+		{
+			"number": 10200,
+			"content": "To apply for the structure inspection of the category Ι pressure vessel , the Manufacturer shall fill up and submit an Application Form(Annex 35) for Structure Inspection of pressure vessels together with the following documents :\r\n1. Two(2) copies of the specification(Annex 44) of the category Ι pressure vessel.\r\n2. Two(2) copies each of the detailed structure drawings and the strength calculation sheets.\r\n3. One(1) copy of the welding list with a stamp indicating the qualification status of the inspection of those manufactured by using welding method shall be attached.\r\n4. One (1) copy of the certificate indicating qualification status of the type inspection of those manufactured by using riveting method shall be attached.\r\nIn case both the welding inspection and the structure inspection are carried out by the same Inspecting Organization, the documental requirements stated in above Items 2 and 3 may be exempted..\r\nThe coverage of the structure inspection mentioned in the preceding Paragraph 1shall includes inspection of the construction methods, the material thickness, the structure, the dimensions, the maximum operating pressure, the strength calculation review, and the arrangement of the manhole, the cleaning hole, and the safety devices, as well as the pressure test, and the materials used for the shell body, the end plate, the pipe sheet, the smoke tube, the fire chamber and the fire tube and etc., and other inspections as required."
+		},
+		{
+			"number": 10300,
+			"content": "When the inspecting organization carries out structure inspection on Category Ι pressure vessels, the Manufacture or personnel designated by the Manufacture shall be on the scene and prepare the items shown below.\r\n1. Place the objects of inspection at locations convenient for inspection.\r\n2. Prepare for pressure tests like hydraulic pressure test etc."
+		},
+		{
+			"number": 10400,
+			"content": "The inspecting organization shall stamp the qualification mark (annex 34) on the Detailed List of Category Ι pressure vessels for Category Ι pressure vessels qualified in the completion test or deemed qualified according to paragraph 3 of Article 13, after signed by the Inspector, 1 copy of the list shall then be delivered to the applicant, and the qualification mark shall be printed, painted or posted at distinct part of the object inspected for identification."
+		},
+		{
+			"number": 10500,
+			"content": "Upon completion of the installation of Category Ι pressure vessel , the employer shall apply for completion inspection at the inspecting organization; those not receiving the completion inspection shall not be used.\r\nWhen the inspecting organization carries out structure inspection on pressure vessel s, the Manufacture or personnel designated by the Manufacture shall be on the scene"
+		},
+		{
+			"number": 10600,
+			"content": "When applying for completion inspection of pressure vessels, the Manufacturer shall fill the Application for Completion Inspection of Category Ι pressure vessels (Annex 37) and submit the documents shown below:\r\n1. Specification of the pressure vessel with seal of qualification mark for the structure inspection or reinspection.\r\n2. Map for the installation site of the pressure vessel and peripheral situations\r\nThe Completion inspection of pressure vessel s shall include inspections on the quantity and capacity of safety valves, blowoff test, safety equipment quantity and dimensions of the pressure gauge and other necessary inspections.\r\nThe inspecting organization shall issue the Report for Results of Completion inspection of Pressure vessel s (Annex 45) and the Qualification Certificate (Annex 39) to Category Ι pressure vessel s qualified in the completion inspection, the max period of validity for the aforesaid documents shall be 1 year."
+		},
+		{
+			"number": 10700,
+			"content": "The employer shall fill the Application for Periodic Inspection of Category Ι pressure vessel s (Annex 40) 1 month before the expiry of the qualification certificate for the inspection of pressure vessel s and apply for periodic inspection at the inspecting organization."
+		},
+		{
+			"number": 10800,
+			"content": "The periodic inspection of the pressure vessel s shall be carried out more than one time per year, the external inspection shall be in accordance with the stipulations shown below:\r\n1. More than 2 Category Ι pressure vessels connected with pipelines for continuous production procedure or Category Ι pressure vessels for generation shall be inspected more that once every 2 years.\r\n2. Category Ι pressure vessels other than what stipulated in the previous subparagraph shall be inspected more that once a year.\r\nFor pressure vessel s for generation with generating capacity over 20,000kw, the external inspection as mentioned in the previous paragraph shall be extended and carried out along with the internal inspection. But its period cannot exceed 2 years."
+		},
+		{
+			"number": 10900,
+			"content": "If the internal inspection for the Category Ι pressure vessels shown below cannot be carried out, the employer shall submit documents including safety and health management status, auto inspection plans and implementation records, photocopy of the qualification specification for the structure inspection of the vessel, detailed structure drawing, production flow chart, emergent treatment plans, auto control system and proposal of substitutes at the inspecting organization for approval of extending the period of the internal inspection or substitution with other means of inspection:\r\n1. Those free of manholes or cannot be equipped with manholes, leaning holes or inspection hole due to structural reasons.\r\n2. Those with accelerant, molecular sieve or other special contents inside.\r\n3. System equipment that cannot be separated during the continuous production procedure.\r\n4. Others that have difficulty in internal inspection.\r\nIf the Category Ι pressure vessels mentioned in the previous paragraph are attached to boilers, the inspection period shall be extended accordingly."
+		},
+		{
+			"number": 11000,
+			"content": "After accepting the application for internal inspection, the inspecting organization shall notify the employer of the date for the completion inspection for Category Ι pressure vessels so that they can resume the inside of the Category Ι pressure vessels to the normal temperature and pressure, discharge the contents and carry out ventilation, air change, cleaning for the Category Ι pressure vessels s and prepare for other necessary proceedings for the periodic inspection.\r\nThe internal inspection mentioned in the previous paragraph shall include surface inspection of the Category Ι pressure vessels and nondestructive inspections for thickness, cracks, distortion and defilement of the Category Ι pressure vessels s, and determine the pressure test and other necessary inspections to be carried out according to the results of the aforesaid inspections.\r\nCategory Ι pressure vessels without corrosive contents that have difficulty in internal inspection shall receive pressure test with the pressure 1.5 times of the common pressure, the pressure test can also be carried out on the contents with the pressure over 1.1 times of the common pressure, and the air tight test and visual examination with the pressure above the common pressure shall be carried out as substitute."
+		},
+		{
+			"number": 11100,
+			"content": "The items of external inspection include visual examination, detection of the corrosion, cracks, distortion, defilement and leakage on the surface, if necessary, the non-destructive detection, ultrasonic thickness measurement as fixed points in corrodible areas, accessories and auxiliary devices inspection shall also be carried out. Whenever necessary, proper instruments shall be adopted to detect the inside of the Category Ι pressure vessels, if something abnormal is found, the internal inspection shall then be carried out.\r\nThe ultrasonic thickness measurement stipulated in the previous paragraph may be exempted if there're problems like high temperature etc. that leads to difficulty in the measurement\r\nWhen carrying out the external inspection on Category Ι pressure vessels, the inspecting organization he shall notify the employer of the date of inspection. During the inspection, the Manufacture or personnel designated by the Manufacture shall be on the scene."
+		},
+		{
+			"number": 11200,
+			"content": "The inspecting organization shall sign on the original qualification certificate of Category Ι pressure vessels qualified in the periodic inspection and indicate the period of service (1 years at the most), but for paragraph 2 of Article 108, the period may be 2 years.\r\nThe Inspector shall fill the Report for the Result of Periodic Inspection for Category Ι pressure vessels (Annex 46) after the completion of the periodic inspection and notify the employer of the results."
+		},
+		{
+			"number": 11300,
+			"content": "If the Category Ι pressure vessel is deemed unqualified in the periodic inspection, the inspector shall record the disqualification in the record of the qualification certificate of the inspection and notify of the improvement; if the situation is serious and has the possibility of resulting in danger, if shall be reported to the inspection organization for limitation of its max pressure or prohibition of use."
+		},
+		{
+			"number": 11400,
+			"content": "In case any of the following situations exists, the Owner/Employer of the category Ι pressure vessel shall submit the Inspecting Organization a re-inspection application for the said category Ι pressure vessel:\r\n1. The pressure vessel to be used is imported from foreign countries.\r\n2. The pressure vessel to be installed or re-used, has been idle for over one(I) year since the last qualification date of its structure inspection, re-inspection, completion Inspection or periodic inspection of the said boiler., except for those approved by the Inspection Organization,\r\n3. The pressure vessel to be re-used, has previously been banned by the Inspection Organization.\r\n4. The fixed type category Ιpressure vessel to be re-installed, is relocated at a place different from its original location.\r\n5. The maximum operation pressure is to be up-rated.\r\n6. The category of the contents to be changed.\r\nIn case the equipment category of the categoryΙ pressure vessel is changed to be a specific equipment for high pressure gases resulting from the reason as per Item 6 of the preceding Paragraph 1, the said pressure vessel shall be inspected in compliance with requirements related ro the specific equipment for the high pressure gases.\r\nFor those imported pressure vessels which are documented by the proper corresponding inspection certificates, the Inspecting Organization may grant exemption from all or part of the inspection requirements as stipulated in this Article."
+		},
+		{
+			"number": 11500,
+			"content": "When applying for the reinspection of Category Ι pressure vessels, the owner or the employer shall fill the Application for reinspection of Category Ι pressure vessels (Annex 42) and submit the documents shown below:\r\n1. 2 copies of specification of the Category Ι pressure vessel.\r\n2. Detailed drawing of structure and calculation sheet, each 2 copies. However, those deemed unnecessary by the inspecting organization may be ignored.\r\n3. Aforesaid certificates for qualification of inspections or their photocopies.\r\nStipulations of Paragraph 3 of Article 102 and Article 103 shall apply to the reinspection."
+		},
+		{
+			"number": 11600,
+			"content": "Once the category Ι pressure vessel has been qualified through the re-inspection process, the specification of the said boiler shall be stamped with a qualification mark(Annex 34) and signed by the inspector of the Inspection Organization.One(1) copy of the above-mentioned specification shall then be delivered to the applicant to serve as an evidence of the qualification status of the re-inspection, for use to proceed with the Completion Inspection. However, for those pressure vessel which have been either idle for over one(1) year after being qualified by the completion/periodic inspection, or prohibited from operation as respectively stipulated in Items 2 and 3 under Paragraph 1 of Article 114, if the said pressure vessels which either remain at their original locations or are relocated at other places in the shop, are qualified by the inspection, the Inspection Organization may add the date and result of the inspection as well as the operation expiration duration with one(1) year as a maximum, on the original qualification certificate.\r\nFor those imported category Ι pressure vesse, the qualification mark shall be stamped on the distinct portion of the same after being inspected for identification purpose."
+		},
+		{
+			"number": 11700,
+			"content": "If the alteration of the Category Ι pressure vessel results in alteration of the body, header, end plate, tamina tectalis or reinforcement support, the owner or the employer shall apply at the local inspecting organization for the alteration inspection.\r\nThe inspecting organization shall record the date of inspection, altered parts and results of the inspection on the original qualification certificate of the Category Ι pressure vessel for the Category Ι pressure vessels qualified in the completion test\r\nIf over 1/3 of the body or header of the Category Ι pressure vessel is to be altered or the end plate and pipe sheet are to be entirely altered, the alteration shall be carried out according to stipulations of Article 95."
+		},
+		{
+			"number": 11800,
+			"content": "When applying for the alteration inspection of Category Ι pressure vessels, the Manufacturer shall fill the Application for Alteration Inspection of Category Ι pressure vessels (Annex 43) and submit it the documents as shown below.\r\n1. Qualification certificate of the type inspection of the manufacturing equipment.\r\n2. 2 copies of specification of the Category Ι pressure vessel\r\n3. Drawings of the altered parts.\r\n4. Detailed structure drawing and strength calculation sheet, each 2 copies. However, this may be ignored if the inspecting organization deems it unnecessary.\r\n5. Aforesaid certificates for qualification of inspections or their photocopies.\r\nStipulations of Paragraph 3 of Article 102 and Article 103 shall apply to the inspection."
+		},
+		{
+			"number": 11900,
+			"content": "When carrying out the structure inspection, completion inspection, periodic inspection, reinspection or alteration inspection, the inspecting organization, if considering necessary, shall notify the owner of the Category Ι pressure vessels and the employer or his/her agent of the measures shown below:\r\n1. Remove all or part of the covering on the inspected object.\r\n2. Pull out the rivet or pipe.\r\n3. Drill holes on the plate or pipes.\r\n4. Disassemble the heat exchanger.\r\n5. Other proceedings considered necessary.\r\nFor subparagraph 3 of the previous paragraph, the applicant shall apply for non-destructive inspection and submit supporting documents."
+		},
+		{
+			"number": 12000,
+			"content": "Before manufacturing or revising pressure vessels, the Manufacturer shall fill the type inspection application (Annex 31) and submit the application along with the documents listed below at local inspecting organizations:\r\n1. Type, detailed structure drawings and strength calculation sheet for the special equipment for high-pressure gases applying for inspection.\r\n2. Type, capacity and quantity of the manufacturing and inspection equipment.\r\n3. Educational background and working experience of the chief designer.\r\n4. Educational background and working experience of the principal of construction.\r\n5. Qualifications and number of constructors.\r\n6. For sealing manufacture or revision, qualification certificates of the sealer, procedure of sealing and records of qualification inspection for sealing procedure shall be provided.\r\nAny alteration of the equipment stipulated in subparagraph 2 or personnel stipulated in paragraphs 3,4 of the previous paragraph shall be reported to the local inspecting organization.\r\nQuality control and assurance measures, equipment and personnel of the type inspection as stipulated in Paragraph 1 shall apply to stipulations in Article 96, and the inspecting organization shall issue the Qualification Certificate of Type Inspection for Manufacturing Equipment (Annex 2) for qualifiers in the type inspection.\r\nThe manufacture or revision shall not be carried out without passing the inspection. However, this shall not apply to types and conditions that have already passed the type inspection."
+		},
+		{
+			"number": 12100,
+			"content": "Manufacturers of special equipment for high-pressure gases manufactured by sealing shall apply for sealing inspection at local inspecting organization before the construction. However, this limitation shall not apply to those meeting any of the cases shown below :\r\n1. Auxiliary equipment or those only sealing stress parts without stress under compression.\r\n2. Those only sealing the parts shown below:\r\n(1) Circumferential joints of pipes with inside diameter less than 300mm.\r\n(2) Reinforcement materials, pipes, pipe table, flanges and valve bases etc. sealed on the body or the end plates.\r\n(3) Sealing supporting racks or other objects withstanding no pressure on the body or the end plates.\r\n(4) Leakproof sealing.\r\nThe sealing inspection items shall include material inspection, surface inspection, and mechanical performance test for sealed parts, radiation inspection, heat treatment inspection and other necessary inspections."
+		},
+		{
+			"number": 12200,
+			"content": "When applying for sealing inspection of pressure vessel s, the Manufacturer shall fill the Application for Sealing Inspection of Pressure vessel s (Annex 32) and submit the documents shown below:\r\n1. Material certificate 1 copy\r\n2. 2 copies of specification of sealing (Annex 32) and 1 copy of construction locations classification map.\r\n3. 2 copies of detailed structure drawing and strength calculation sheet.\r\n4. Sealing technician certificate of sealing constructors.\r\n5. Qualification certificate for the type inspection of manufacturing facilities, sealing procedure and sealing procedure qualification examination records."
+		},
+		{
+			"number": 12300,
+			"content": "When carrying out the sealing inspection on special equipment for high-pressure gases, the inspecting organization shall first examine the documents submitted by the Manufacturer, and the site inspection shall then be carried out after the documents are qualified.\r\nWhen carrying out the site inspection, personnel designated by the Manufacture or the Manufacturer shall be on the scene and prepare the following items before the inspection：\r\n1. Test pieces for mechanical performances.\r\n2. Radiation inspection."
+		},
+		{
+			"number": 12400,
+			"content": "The inspecting organization shall stamp the qualification mark (annex 34) on the specification of special equipment for high-pressure gases for special equipment for high-pressure gases qualified in the completion test, after signed by the Inspector, 1 copy of the specification shall then be delivered to the applicant, and the qualification mark shall be printed, painted or posted at distinct part of the object inspected for identification."
+		},
+		{
+			"number": 12500,
+			"content": "Upon completion of the body including the towers and the tanks etc. of the special equipment for producing high-pressure gases, the Manufacturer shall apply for structure inspection at local inspecting organization.However, for special equipment for high-pressure gases separately assembled at the site of installation, the structure inspection shall be applied for at local inspecting organization before the installation."
+		},
+		{
+			"number": 12600,
+			"content": "To apply for the structure inspection of special equipment for high-pressure gases, the Manufacturer shall fill up and submit an Application Form(Annex 35) for Structure Inspection of the special equipment for high-pressure gases together with the following documents :\r\n1. Two (2) copies of the specification(Annex 44) of special equipment for high-pressure gases.\r\n2. Two (2) copies each of the detailed structure drawings and the strength calculation sheets.\r\n3. One (1) copy of the welding list with a stamp indicating the qualification status of the inspection of those manufactured by using welding method shall be attached.\r\n4. One (1) copy of the certificate indicating qualification status of the type inspection of those manufactured by using riveting method shall be attached.\r\nIn case both the welding inspection and the structure inspection are carried out by the same Inspecting Organization, the documental requirements stated in above Items 2 and 3 may be exempted.\r\nThe coverage of the structure inspection mentioned in the preceding Paragraph 1 shall include inspection of construction methods, material thickness, structure, dimensions, maximum operating pressure, strength calculation review, and arrangement of manhole, cleaning hole, and safety devices, as well as pressure test, adiabatic performance test for the super-low temperature equipment, and materials used for shell body, end plate, pipe sheet and etc., and other inspections as required.\r\nThe adiabatic performance test for the super-low temperature equipment required in the preceding paragraph may be recognized by referring to the supporting evidences relevant to the adiabatic performance of the said equipment."
+		},
+		{
+			"number": 12700,
+			"content": "When the inspecting organization carries out structure inspection on special equipment for high-pressure gases, the Manufacture or personnel designated by the Manufacture shall be on the scene and prepare the items shown below.\r\n1. Place the objects of inspection at locations convenient for inspection.\r\n2. Prepare for pressure tests like hydraulic pressure test etc."
+		},
+		{
+			"number": 12800,
+			"content": "The inspecting organization shall stamp the qualification mark (annex 34) on the Detailed List of special equipment for high-pressure gases for special equipment for high-pressure gases qualified in the completion test or deemed qualified according to paragraph 3 of Article 13, after signed by the Inspector, 1 copy of the list shall then be delivered to the applicant, and the qualification mark shall be printed, painted or posted at distinct part of the object inspected for identification."
+		},
+		{
+			"number": 12900,
+			"content": "Upon completion of the installation of the pressure vessel , the employer shall apply for completion inspection at the inspecting organization; those not receiving the completion inspection shall not be used.\r\nWhen the inspecting organization carries out structure inspection on pressure vessel s, the Manufacture or personnel designated by the Manufacture shall be on the scene"
+		},
+		{
+			"number": 13000,
+			"content": "To apply for the Completion Inspection of special equipment for high-pressure gases, the Manufacturer shall fill up and submit an Application Form(Annex 37) for Completion Inspection of the special equipment for high-pressure gases together with the following documents:\r\n1. A specification of the special equipment for high-pressure gases with a stamp thereon to evidence their qualification status of the structure inspection or the re-inspection.\r\n2. An area drawing showing the installation site and the surroundings of the said special equipment for high-pressure gases.\r\nThe coverage of the Completion Inspection mentioned in the preceding Paragraph shall include inspections of the quantity and capacity of safety valves, blow-down test, safety devices, pressure indicating devices and other inspections as required.\r\nOnce the special equipment has been qualified through the re-inspection process, the Inspecting Organization shall issue a report sheet(Annex 45) to depict the results of the Completion Inspection, and a qualification certificate(Annex 39) with a maximum operation duration of one(1) year."
+		},
+		{
+			"number": 13100,
+			"content": "The employer shall fill the Application for Periodic Inspection of Pressure vessels (Annex 40) 1 month before the expiry of the qualification certificate for the inspection of pressure vessel s and apply for periodic inspection at the inspecting organization."
+		},
+		{
+			"number": 13200,
+			"content": "The periodic inspection of the pressure vessel s shall be carried out more than one time per year.\r\nIf any defect is found in the external inspection mentioned in the previous paragraph, the inspecting organization shall, if deeming it necessary, carry out the internal inspection.\r\nInternal inspection of special equipment for high-pressure gases shall be carried out according to the following table:\r\n┌─────┬───────────┬────────────┐\r\n│Equipment │Materials To Be Used  │Period                  │\r\n│Type      │                      │                        │\r\n├─────┼───────────┼────────────┤\r\n│          │1. Austenite stainless│15 years                │\r\n│          │   steel              │                        │\r\n│          │2. Aluminum           │                        │\r\n│          ├───────────┼────────────┤\r\n│Storage   │Nickel steel (2.5 ~ 9 │10 years                │\r\n│tank      │% )                   │                        │\r\n│          ├───────────┼────────────┤\r\n│          │Materials equivalent  │8 years (for            │\r\n│          │to carbon steel plate │low-temperature tank    │\r\n│          │for low-temperature   │only)                   │\r\n│          │vessels with tensile  ├────────────┤\r\n│          │strength less than    │2 years after completion│\r\n│          │58kg/mm2.             │Inspection for the first│\r\n│          │                      │inspection; 5 years for │\r\n│          │                      │the succeeding          │\r\n│          │                      │inspections.            │\r\n│          ├───────────┼────────────┤\r\n│          │Materials equivalent  │2 years after completion│\r\n│          │to rolled structure   │inspection for the first│\r\n│          │steel for boilers and │inspection; 5 years for │\r\n│          │welded construction   │the succeeding          │\r\n│          │with tensile strength │inspections.            │\r\n│          │less than 58kg/mm2 .  │                        │\r\n│          ├───────────┼────────────┤\r\n│          │High tensile steel    │2 years after completion│\r\n│          │(carbon steel with    │inspection for the first│\r\n│          │minimum tensile       │inspection; 5 years for │\r\n│          │strength above        │the succeeding          │\r\n│          │58kg/mm2 )receiving   │inspections.            │\r\n│          │annealing in the      │                        │\r\n│          │furnace after welding.│                        │\r\n│          ├───────────┼────────────┤\r\n│          │1. High tensile steel │2 years after completion│\r\n│          │   receiving anneal in│inspection for the first│\r\n│          │   the furnace after  │inspection; 3 years for │\r\n│          │   welding, not       │the succeeding          │\r\n│          │   receiving annealing│inspections.            │\r\n│          │   in the furnace     │                        │\r\n│          │   after being        │                        │\r\n│          │   modified or fixed  │                        │\r\n│          │   by welding (       │                        │\r\n│          │   including welding  │                        │\r\n│          │   reparation,        │                        │\r\n│          │   excluding for minor│                        │\r\n│          │   repairingt).       │                        │\r\n│          │2. Other materials.   │                        │\r\n├─────┼───────────┼────────────┤\r\n│Special   │Other materials that  │3 years.                │\r\n│Equipment │have no concern of    │                        │\r\n│for High  │corrosion and         │                        │\r\n│Pressure  │deterioration.        │                        │\r\n│Gases     ├───────────┼────────────┤\r\n│except for│Other materials       │2 years after the       │\r\n│Storage   │                      │completion inspection   │\r\n│Tank      │                      │for the first           │\r\n│          │                      │inspection; 3 years for │\r\n│          │                      │the succeeding          │\r\n│          │                      │inspections.            │\r\n├─────┴───────────┴────────────┤\r\n│Remarks:                                                    │\r\n│1.Special equipment for high-pressure gases shall adopt     │\r\n│  proper materials according to conditions of usage.        │\r\n│2.For storage tanks of low-temperature or ultra-low         │\r\n│  temperature high-pressure gases like double-shell         │\r\n│  structure, septum type and low-temperature evaporators    │\r\n│  that have difficulty in internal inspection, if adopting  │\r\n│  non-destructive detection for determination of cracks,    │\r\n│  damages and corrosion, the detection shall be carried out │\r\n│  at the pressure 1.5 times of the common pressure for the  │\r\n│  pressure test or 1.1 times of the common pressure for     │\r\n│  pressure test on the contents in the vessels, and the air │\r\n│  tight test and visual examination with the pressure above │\r\n│  the common pressure shall be carried out as substitute.   │\r\n│3.For other than storage tanks that have difficulty in      │\r\n│  internal inspection due to size and structure, if         │\r\n│  non-destructive inspection and opening inspection         │\r\n│  eternally or open inspection on equipment connected with  │\r\n│  the special equipment for high-pressure gases with the    │\r\n│  same conditions may be confirmed, these inspection can be │\r\n│  carried out as substitutes.                               │\r\n│4.If the materials used have obvious corrosion or cracks,   │\r\n│  the aforesaid period shall be shortened according to      │\r\n│  actual situation.                                         │\r\n│5.Special equipment for high-pressure gases shall not be    │\r\n│  limited by the period of open inspection, and the visual  │\r\n│  examination and air tight tests etc. shall be carried out │\r\n│  every year to determine if there's something abnormal.    │\r\n│6.Those called \"slight\" mean those applicable to \"sealing   │\r\n│  reparation not requiring limits and conditions for heat   │\r\n│  treatment\", the period shall be the same to that of the   │\r\n│  anneal carried out for elimination of stress in the       │\r\n│  furnace after sealing.                                    │\r\n└──────────────────────────────┘"
+		},
+		{
+			"number": 13300,
+			"content": "If the internal inspection for the special equipment for high-pressure gases shown below cannot be carried out, the employer shall submit documents including safety and health management status, auto inspection plans and implementation records, photocopy of the qualification specification for the structure inspection of the vessel, detailed structure drawing, production flow chart, emergent treatment plans, auto control system and proposal of substitutes at the inspecting organization for approval of extending the period of the internal inspection or substitution with other means of inspection:\r\n1. Those free of manholes or cannot be equipped with manholes, leaning holes or inspection hole due to structural reasons.\r\n2. Cold boxes, flat low-temperature tanks, oxygen tanks, liquid nitrogen tanks, liquid argon tanks, low-temperature evaporators and other low-temperature or ultra-low-temperature equipment for high-pressure gases.\r\n3. Those with accelerant, molecular sieve or other special contents inside.\r\n4. System equipment that cannot be separated during the continuous production procedure.\r\n5. Diaphragm type tanks or non-corrosive equipment.\r\n6. Others that have difficulty in internal inspection.\r\nIf the special equipment for high-pressure gases mentioned in the previous paragraph are attached to Category Ι pressure vessels or boilers, the inspection period shall be extended accordingly."
+		},
+		{
+			"number": 13400,
+			"content": "After accepting the application for internal inspection, the inspecting organization shall notify the employer of the date for the completion inspection for special equipment for high-pressure gases so that they can resume the inside of the special equipment for high-pressure gases to the normal temperature and pressure, discharge the contents and carry out ventilation, air change, cleaning for the special equipment for high-pressure gases and prepare for other necessary proceedings for the periodic inspection.\r\nThe internal inspection mentioned in the previous paragraph shall include surface inspection of the special equipment for high-pressure gases and nondestructive inspections for thickness, cracks, distortion and defilement of the special equipment for high-pressure vessels, and determine the pressure test and other necessary inspections to be carried out according to the results of the aforesaid inspections."
+		},
+		{
+			"number": 13500,
+			"content": "The items of external inspection include visual examination, detection of the corrosion, cracks, distortion, defilement and leakage on the surface, if necessary, the non-destructive detection, ultrasonic thickness measurement as fixed points in corrodible areas, accessories and auxiliary devices inspection shall also be carried out. Whenever necessary, proper instruments shall be adopted to detect the inside of the special equipment for high-pressure gases, if something abnormal is found, the internal inspection shall then be carried out.\r\nThe ultrasonic thickness measurement stipulated in the previous paragraph may be exempted if there're equipped with integrated heat preservation materials jacket type or having problems like high temperature etc. that leads to difficulty in the measurement\r\nWhen carrying out the external inspection on special equipment for high-pressure gases, the inspecting organization he shall notify the employer of the date of inspection. During the inspection, the Manufacture or personnel designated by the Manufacture shall be on the scene."
+		},
+		{
+			"number": 13600,
+			"content": "The inspecting organization shall sign on the original qualification certificate of special equipment for high-pressure gases qualified in the periodic inspection and indicate the period of service (1 years at the most).\r\nThe Inspector shall fill the Report for the Result of Periodic Inspection for Special Equipment for High-Pressure Gases (Annex 46) after the completion of the periodic inspection and notify the employer of the results."
+		},
+		{
+			"number": 13700,
+			"content": "If the special equipment for high-pressure gases is deemed unqualified in the periodic inspection, the inspector shall record the disqualification in the record of the qualification certificate of the inspection and notify of the improvement; if the situation is serious and has the possibility of resulting in danger, if shall be reported to the inspection organization for limitation of its max pressure or prohibition of use."
+		},
+		{
+			"number": 13800,
+			"content": "In case any of the following situations exists, the Owner/Employer of the special equipment for high-pressure gases shall submit the Inspecting Organization a re-inspection application for the said special equipment:\r\n1. The special equipment to be used is imported from foreign countries.\r\n2. The special equipment to be installed or re-used, has been idle for over one (1) year since the last qualification date of its structure inspection, re-inspection, completion inspection or periodic inspection of said vessel. However, this requirement may be exempted subject to the Inspection Organization's acceptance.\r\n3. The pressure vessel to be re-used, has previously been banned by the Inspection Organization.\r\n4 . To relocate and re-install a special equipment at a place different from its original location.\r\n5. To up-rate the maximum operation pressure.\r\n6. To change the category of the contents.\r\nFor those imported special equipment which are documented by the proper corresponding inspection certificates, the Inspecting Organization may grant exemption from all or part of the inspection requirements as stipulated in this Article."
+		},
+		{
+			"number": 13900,
+			"content": "When applying for the reinspection of special equipment for high-pressure gases, the owner or the employer shall fill the Application for reinspection of special equipment for high-pressure gases (Annex 42) and submit the documents shown below:\r\n1. 2 copies of specification of the special equipment for high-pressure gases.\r\n2. Detailed drawing of structure and calculation sheet, each 2 copies. However, those deemed unnecessary by the inspecting organization may be ignored.\r\n3. Aforesaid certificates for qualification of inspections or their photocopies.\r\nStipulations of Paragraph 3 of Article 126 and Article 127 shall apply to the reinspection."
+		},
+		{
+			"number": 14000,
+			"content": "Once the special equipment for high-pressure gases has been qualified through the re-inspection process, the specification of the said special equipment shall be stamped with a qualification mark(Annex 34) and signed by the inspector of the Inspection Organization.One(1) copy of the above-mentioned specification shall then be delivered to the applicant to serve as an evidence of the qualification status of the re-inspection, for use to proceed with the Completion Inspection. However, for those special equipment which have been either idle for over one(1) year after being qualified by the completion /periodic inspection, or prohibited from operation as respectively stipulated in Items 2 and 3 under Paragraph 1 of Article 138, if the said special equipment which either remain at their original locations or are relocated at other places in the factory, are qualified by the inspection, the Inspecting Organization may add the date and result of the inspection as well as the operation expiration duration with one(1) year as a maximum, on the original qualification certificate.\r\nFor those imported the special equipment for high-pressure gases, the qualification mark shall be stamped on the distinct portion of the same after being inspected for identification purpose."
+		},
+		{
+			"number": 14100,
+			"content": "If the alteration of the special equipment for high-pressure gases results in alteration of the towers or tanks, body, end plate, tamina tectalis, pipe sheet, header or reinforcement support, the owner or the employer shall apply at the local inspecting organization for the alteration inspection.\r\nThe inspecting organization shall record the date of inspection, altered parts and results of the inspection on the original qualification certificate of the special equipment for high-pressure gases for the special equipment for high-pressure gases qualified in the completion test\r\nIf over 1/3 of the towers or tanks, body or header of the special equipment for high-pressure gases is to be altered or the end plate and pipe sheet are to be entirely altered, the alteration shall be carried out according to stipulations of Article 120."
+		},
+		{
+			"number": 14200,
+			"content": "When applying for the alteration inspection of special equipment for high-pressure gases, the Manufacturer shall fill the Application for Alteration Inspection of special equipment for high-pressure gases (Annex 43) and submit it the documents as shown below.\r\n1. Qualification certificate of the type inspection of the manufacturing equipment.\r\n2. 2 copies of specification of the special equipment for high-pressure gases.\r\n3. Drawings of the altered parts.\r\n4. Detailed structure drawing and strength calculation sheet, each 2 copies. However, this may be ignored if the inspecting organization deems it unnecessary.\r\n5. Aforesaid certificates for qualification of inspections or their photocopies.\r\nStipulations of Paragraph 3 of Article 126 and Article 127 shall apply to the inspection."
+		},
+		{
+			"number": 14300,
+			"content": "When considering necessary before carrying out the construction inspection, completion inspection, periodic inspection, reinspection or alteration inspection, the inspecting organization may request the Owner, Employer or their designated agent to the measures shown below:\r\n1. Remove all or part of the covering on the inspected object.\r\n2. Pull out the rivet or pipe.\r\n3. Drill holes on the plate or pipes.\r\n4. Other proceedings considered necessary.\r\nFor subparagraph 3 of the previous paragraph, the applicant shall apply for non-destructive inspection and submit supporting documents."
+		},
+		{
+			"number": 14400,
+			"content": "Before manufacturing or modifying vessels for high-pressure gases, the Manufacturer shall fill up the type inspection application form (Annex 31) and submit the same along with the documents listed below tothe local inspecting organization:\r\n1. Type, detailed structure drawings and strength calculation sheet for the vessel for high-pressure gases applying for inspection.\r\n2. Type, capacity and quantity of the manufacturing and inspection equipment.\r\n3. Brief description ofeducational background and working experience of the chief designer.\r\n4. Brief description of educational background and working experience of the construction director.\r\n5. Qualification requirements and number of constructors.\r\n6. Qualification certificate of the welders, specification of welding procedures and qualification records of the welding procedures.\r\nAny alteration of the equipment stipulated 2 or change of personnel stipulated in Items 3 and 4 of the preceding Paragraph shall be reported to the local inspecting organization.\r\nThe inspecting organization shall issue the Qualification Certificate of Type Inspection for Manufacturing Equipment (Annex 2) for qualifiers in the type inspection as stipulated in Paragraph 1.\r\nThe manufacture or modification shall prohibited from implementationt without passing the inspection. However, this shall not apply to the case where the types and conditions that have already passed the type inspection."
+		},
+		{
+			"number": 14500,
+			"content": "For the manufacturing of vessels for high-pressure gases, quality control, quality assurance measures shall be taken, and the equipment of personnel shall be in accordance with the stipulations as shown below except those apply to Article 96.\r\n1. Seamless vessel:\r\n(1) Forging or molding devices.\r\n(2) Those manufactured by connecting the bottoms: bottom-connecting devices.\r\n(3) Those made of heat processed materials: Anneal and temperature measurement devices that can measure the internal temperature of the anneal.\r\n(4) Washing devices.\r\n(5) Thickness confirming instruments.\r\n2. Vessels other than the seamless vessels, , shall be equipped with the necessary devices required for use in manufacture of the vessels according to the stipulations as shown below, besides those mentioned in preceding Items 3 through5:\r\n(1) Forming devices.\r\n(2) Welding or hard brazing devices.\r\n(3) Anti-corrosiont coating equipment. But this shall not apply to the case when using stainless steel, aluminum alloy or non-corrosive materials for manufacturing vessels used for containing liquefied petroleum gas."
+		},
+		{
+			"number": 14600,
+			"content": "Manufacturers of vessels for high-pressure gases manufactured by sealing shall apply for sealing inspection at local inspecting organization before the construction. However, this limitation shall not apply to those meeting any of the cases shown below:\r\n1. Auxiliary equipment or those only weldingg stress parts without stress under compression.\r\n2. Those only sealing the parts shown below:\r\n(1) Circumferential joints of pipes with inside diameter less than 300mm.\r\n(2) Reinforcement materials, pipes, pipe table, flanges and valve bases etc. sealed on the body or the end plates.\r\n(3) welding supporting racks or other objects withstanding no pressure on the body or the end plates.\r\n(4) Leakproof welding.\r\nThe welding inspection items shall include material inspection, surface inspection, mechanical performance test for welded parts, radiation inspection, heat treatment inspection and other necessary inspections."
+		},
+		{
+			"number": 14700,
+			"content": "When applying for welding inspection of pressure vessel s, the Manufacturer shall fill up the Application Form for Welding Inspection of Pressure vessel s (Annex 32) and submit the documents shown below:\r\n1. One (1) copy of Material certificate.\r\n2. Two (2) copies of specification of welding (Annex 33) and one (1) copy of construction locations classification map.\r\n3. Two (2) copies of detailed structure drawing and strength calculation sheet.\r\n4. Welding technician certificate of sealing constructors.\r\n5. One (1) cope each of the qualification certificate for the type inspection of manufacturing facilities, welding procedure and welding procedure qualification examination records."
+		},
+		{
+			"number": 14800,
+			"content": "The welding inspection of vessels for high-pressure gases, shall be carried out at site in accordance with the required inspection items after the documents submitted bythe Manufacturer have been successfully examined by the inspecting organization.\r\nWhen carrying out the site inspection, the Manufacturer or the personnel designated by the Manufacture shall be present on the scene in body and prepare the itemsshown below ahead of time before the inspection：\r\n1. Test pieces used for testing mechanical performances.\r\n2. Readiness for performing radiation inspection."
+		},
+		{
+			"number": 14900,
+			"content": "After being qualified by the welding inspection, the welding specification for the vessels for high-pressure gases shall be stamped with the qualification mark (annex 34) and signed by the Inspector thereon. s The inspecting organization shall then deliver one ( 1 ) copy of the welding specification to the applicant. The qualification mark shall be printed, painted or posted at distinct locationt of the inspected for identification."
+		},
+		{
+			"number": 15000,
+			"content": "Upon completion of the body of the vessel for high-pressure gases, the Upon completion of the vessels for high pressure gages, the Manufacturer shall apply for construction inspection at the local inspecting organization."
+		},
+		{
+			"number": 15100,
+			"content": "When applying for the construction inspection of vessels for high-pressure gases, the Manufacturer shall fill up the Application Form for Construction Inspection pressure vessels (Annex 35) and submit the same along withthe documents as shown below:\r\n1. Two (2) copies of specification of the vessel for high-pressure gases (Annex 44)\r\n2. Two (2) copies each of the detailed construction drawings and strength calculation sheets.\r\n3. Welding check list of the welding inspection, stamped with inspection qualification mark thereon for those manufactured by welding method.\r\n4. Qualification certificate of the type inspection for those manufactured by riveting method.\r\nIn case the welding inspection and the construction inspection are to be carried out by the same inspecting organization, the documents listed under Items 2 and 3 in the preceding Paragraph may be exempted for submittal.\r\nThe construction inspection stipulated in preceding Paragraph 1 consists of construction methods, material thickness, structure, dimensions, maximum operating pressure, strength calculation review as well as air tight test, pressure test, safety devices, accessory parts and devices, as well as adiabatic performance test of the ultra-low-temperature equipment andother inspections as required."
+		},
+		{
+			"number": 15200,
+			"content": "When the inspecting organization is carrying out the construction inspection of the vessels for high-pressure gases, the Manufacture or the personnel designated by the Manufacture shall be on the scene in body and prepare the items shown below in advance:\r\n1. To place the objects of inspection at the location convenient for inspection.\r\n2. To prepare for pressure tests including the hydraulic pressure test."
+		},
+		{
+			"number": 15300,
+			"content": "The inspecting organization shall issue the qualification certification for the inspection (Annex 39, 39-1) and stamp the qualification mark (annex 34) on the Detailed List of vessels for high-pressure gases for vessels for high-pressure gases qualified in the structure test, after signed by the Inspector, 1 copy of the list shall then be delivered to the applicant, and the qualification mark shall be printed, painted or posted at distinct part of the object inspected for identification.\r\nHowever, the qualification certificate for vessels for high-pressure gases mounted on vehicles shall be issued after they are assembled and fixed on the chassis. The period of validation for the qualification certificate of inspection mentioned in the previous subparagraph shall be in accordance with the stipulations in Article 155."
+		},
+		{
+			"number": 15400,
+			"content": "The employer shall fill the Application for Periodic Inspection of Vessels for high-pressure gases (Annex 40) 1 month before the expiry of the qualification certificate for the inspection of vessles for high-pressure gases and apply for periodic inspection at the inspecting organization."
+		},
+		{
+			"number": 15500,
+			"content": "The periodic inspection of the vessels for high-pressure gases shall be performed both internally and externally in accordance with the stipulations as shown below:\r\n1. Internal inspection:\r\n(1) Shall be performed once per five (5) years for those having been qualified by the structure inspection for not exceeding fifteen (15) years elapsed from the approval date of the said inspection; while once per two (2) years for those qualified for more than fifteen(15) years but not exceeding twenty (20) years; and once per year for those qualified for more than twenty (20) years.\r\n(2) Shall be performed once per five (5) years for those seamless high pressure vessels.\r\n2. External inspection:\r\n(1) Shall be performed once per year for high-pressure vessels mounted on vehicles.\r\n(2) Shall be performed once per five(5) years for those seamless high pressure vessels not mounted on vehicles.\r\n(3) The inspection frequency for those high pressure vessels which do not fall within the categories as specified in the above Sub-items(1) and(2) shall be performed in accordance with the requirements as stipulated in the preceding Paragraph 1.\r\nIn case, for those imported vessels for high pressure gases, which have not performed the structure inspection, their manufactured date shall be used as the starting date to count the time duration stated in the preceding Paragraph 1."
+		},
+		{
+			"number": 15600,
+			"content": "If the internal inspection for the following vessels for high-pressure gases cannot be carried out, the Employer shall submit the documents ( including the safety and health management status, the self- inspection plans and their implementation records, detailed condtruction drawing, emergent reponse plans, safety protection devices and the proposal of alternative inspection methods ) to the inspecting organization three (3) months ahead of time before the expiration date of the qualification certificate of inspection for approval in forms of either by extending the time limit of the internal inspection, or by substituting with other means of inspection:\r\n1. Those are free of manholes or cannot be equipped with manholes, cleaning holes or inspection holes either according to related stipulations, or due to restriction from constructional reasons.\r\n2. Vessels used for low-temperature or ultra-low-temperature high-pressure gases.\r\n3. Vessels of Jacket type or others with no concern of corrosion.\r\n4. Other vessels that have difficulty in performing internal inspection."
+		},
+		{
+			"number": 15700,
+			"content": "To proceed with the internal inspection after receipt of the application for periodic inspection, the inspecting organization shall notify the Employer of the inspection date so to allow for recovering the inside of the special equipment for high-pressure gases to the normal temperature and pressure status, by discharging their contents, as well as carrying out ventilation, air change, cleaning works and other required preparation tasks for the periodic inspection."
+		},
+		{
+			"number": 15701,
+			"content": "The coverage of the external inspection of the vessels for high pressure gases shall include the visual examination, detection of the external corrosion, cracks, distortion, dirty and leakage, as well as the necessary non-destructive examination and the ultrasonic measurement of thickness at the specific areas vulnerable to corrosion, as required. Whenever any abnormal phenomenon is found, an internal inspection shall be carried out subsequently.\r\nThe coverage of the internal inspection of the vessels for high pressure gases shall include surface inspection, detection of thickness, corrosion, cracks, distortion, dirty and etc., as well as the necessary non-destructive examination whose results will serve as a basis to justify the necessity for performing the pressure test and other inspections, as required.\r\nAs an alternative, the internal inspection of the vessels for high pressure low-temperature or super-low temperature gases may be replaced by applying a pressure test either at a pressure of above 1.5 times the normal pressure, or above 1.1 times of the normal pressure with contents in the vessels, and followed by an air tight test at a pressure above the normal pressure, as well as a visual examination and etc..\r\nTo proceed with the necessary inspection of vessels for high-pressure gases as specified in the preceding Paragraph 2, those welded vessels shall receive an examination of their anti-corrosive coatings; while those pressure vessels for super-low temperature gases shall go through an air tight test.\r\nThe requirements for the ultrasonic measurement of thickness stipulated in the preceding Paragraph 1 may be exempted, provided that the existence of the one piece /jacket type insulations or super low temperature and etc.leads to a real difficulty in carrying out the said thickness measurement.\r\nIn process of performing the internal/ external inspection of the vessels for high-pressure gases, as required, the Inspecting Organization shall notify the employer of the inspection date.The Employer or his designated personnel shall be present in person at the job site in the course of inspection.\r\nWith respect to those imported vessels for high pressure gages, which are documented with qualified certificates issued by foreign countries, the Inspection Organization may consider exempting all or part of the requirements of inspection as stipulated in the preceding six(6) paragraphs based on the adequacy of the contents of the inspection previously performed."
+		},
+		{
+			"number": 15800,
+			"content": "After the vessels for high-pressure gases have been qualified by the periodic inspection in compliance with the requirements as stipulated in the preceding Article 155, the original qualification certificate of said vessels shall be signed and indicated thereon an extended operation duration with five(5) years as the maximum by the Inspecting Organization. Nevertheless, an new qualification certificate shall be re-issued for those tanked type vessels which are fixed on the vehicles.\r\nHaving completed the periodic inspection of the vessels for high pressure gases as per the preceding Paragraph 1, the Inspector shall fill up a periodic inspection report(Annex 46) to file the results of said periodic inspection, and notify the same to the Employer."
+		},
+		{
+			"number": 15900,
+			"content": "If the vessel of high-pressure gases is deemed unqualified in the periodic inspection, the inspector shall record the disqualification in the record of the qualification certificate of the inspection and notify of the improvement; if the situation is serious and has the possibility of resulting in danger, if shall be reported to the inspection organization for limitation of its max pressure or prohibition of use."
+		},
+		{
+			"number": 16000,
+			"content": "In case any of the following situations exists, the Owner/ Employer of the vessels for high pressure gases shall submit the Inspecting Organization an application for re-inspection:\r\n1. The vessel to be used is imported from foreign countries.\r\n2. The vessel to be installed or re-used, has been idle for over one (1) year since the last qualification date of the structure inspection, re-inspection, completion inspection or periodic inspection of said vessel. However,the above requirements may be exempted for those vessels approved by the Inspection Organization.\r\n3. The vessel intended to be re-used, has previously been prohibited by the Inspection Organization.\r\n4. The maximum bottling pressure is intended to be up-rated.\r\n5. The category of the bottled gases is intended to be changed.\r\nFor those imported vessels which are documented by proper supporting inspection certificates, the Inspecting Organization may grant a full or partial exemption from the requirements as stipulated in this Article."
+		},
+		{
+			"number": 16100,
+			"content": "When applying for the reinspection of special equipment for high-pressure gases, the Owner or the Employer shall fill up the Application Form for Re-inspection of Vessels of High-Pressure Gases (Annex 42) and submit the documents shown below:\r\n1. Two (2) copies of specification of the vessels of high-pressure gases.\r\n2. Two (2) copies eachof the detailed drawings of structure and calculation sheets. However, those documents to be deemed unnecessary by the inspecting organization may be exempted.\r\n3. Original certificates for qualification of inspections or their photocopies.\r\nThe requirements Stipulated in Paragraph 3 of Articles 151 and 152 shall apply mutatis mutandis to the re-inspection."
+		},
+		{
+			"number": 16200,
+			"content": "The inspection organization shall issue the qualification certificate for the special equipment for high-pressure gases, which have been qualified by re-inspection, and remark the operation validity date thereon accordingly. But for those qualified special equipment categorized under Items 2 or 3 of Article 160, the inspection date, inspection results and the extended operation validity date may be remarked on their original qualification certificate instead.\r\nThe requirements stipulated in Article 155 apply mutatis mutandis to the validity time limit with the maximum duration of five (5) years.\r\nFor those imported vessels equipment for high-pressure gases, the qualification mark shall be stamped on the distinct portion of the same after being inspected for identification purpose."
+		},
+		{
+			"number": 16201,
+			"content": "If there is any change to the construction of the vessel for high-pressure gases, the Owner or the Employer shall submit an application for alteration inspection to the inspection organization.\r\nThe Inspector shall remark the date of inspection, altered components and results of the inspection on the original qualification certificate of the special equipment for high-pressure gases for the special equipment for high-pressure gases, which have been qualified by the alteration test."
+		},
+		{
+			"number": 16202,
+			"content": "When applying for the alteration inspection of vessel of high-pressure gases, the Manufacturer shall fill up the Application Form for Alteration Inspection of Vessel of High-Pressure Gases (Annex 43) and submit the documents as shown below.\r\n1. Qualification certificate of the type inspection of the manufacturing equipment.\r\n2. 2 copies of specification of the vessel of high-pressure gases.\r\n3. Drawings of the altered parts.\r\n4. Two (2) copies each of the detailed structure drawing and strength calculation sheets,. However, this requirement may be exempted if the inspecting organization deems it unnecessary.\r\n5. Original certificates for qualification of inspections or their photocopies.\r\nStipulations of Paragraph 3 of Articles 151 and 152 shall apply mutatis mutandis to the inspection."
+		},
+		{
+			"number": 16300,
+			"content": "In regard to those hazardous machinery/equipment which have become either unusable or no longer in use due to some reason, the Employer shall return the Inspection Organization their original qualification certificate accompanied with an application form for revoking the operation license of said machinery/equipment.\r\nOnce the said revoking application process has been completed, the Employer shall in no case be allowed to re-apply for re-use of the above mentioned machinery/ equipment.\r\nThe format of the application form stated in the preceding Paragraph 1 shall be formulated by the central governing authority."
+		},
+		{
+			"number": 16400,
+			"content": "When the dangerous machinery or equipment is to be out of service beyond the period of validity of the qualification certificate of the inspection, the Employer shall report to the inspecting organization for information and record."
+		},
+		{
+			"number": 16500,
+			"content": "When the dangerous machinery or equipment is transferred, the transferee shall apply at local inspecting organization for reissuing of the qualification certificate of inspection."
+		},
+		{
+			"number": 16600,
+			"content": "If the qualification certificate of inspection for dangerous machinery or equipment is lost, the employer shall fill the Application for Reissuing of Qualification Certificate of Inspection (Annex 47) to apply for reissuing at the original issuing authority."
+		},
+		{
+			"number": 16700,
+			"content": "For dangerous machinery or equipment qualified in the periodic inspection, the period of validity for the qualification certificate of inspection shall be counted since the date of qualification. However, if the inspection is completed within 3 months before the expiry of the period of validity of the certificate, the said period shall be counted since the day next to the expiry date of the qualification certificate of inspection."
+		},
+		{
+			"number": 16701,
+			"content": "The inspection of those hazardous machines and equipment, which have/had already been erected either before the date when this Regulation is designated to become applicable later, or prior to the enforcement date of this Regulation, may be proceeded in accordance with the provisions under the Regulations for Safety Inspection of Existing Hazardous Machines and Equipment."
+		},
+		{
+			"number": 16702,
+			"content": "With respect to the duty of the Employer, these regulations apply mutatis Mutandis to the self-supporting labor."
+		},
+		{
+			"number": 16800,
+			"content": "These regulations shall be put in force as of the date of promulgation, except that Articles 9, 22, 32, 42, 52 and 62 shall be put in force 1 year after the promulgation of these Regulations.\r\nThese regulations were revised on June 27, 2014, and enforced on July 3, 2014."
+		}
+	]
+}

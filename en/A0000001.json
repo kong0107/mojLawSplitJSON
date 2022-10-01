@@ -1,0 +1,873 @@
+{
+	"pcode": "A0000001",
+	"LawLevel": "憲法",
+	"EngLawName": "Constitution of the Republic of China (Taiwan)",
+	"LawName": "中華民國憲法",
+	"EngLawModifiedDate": "19470101",
+	"histories": [
+		"Adopted on December 25, 1946, by the National Assembly convened in Nanking;\r\n  Promulgated by the National Government on January 1, 1947, and put into effect on December 25, 1947."
+	],
+	"foreword": "The National Assembly of the Republic of China, by virtue of the mandate received from the whole body of citizens, in accordance with the teachings bequeathed by Dr. Sun Yat-sen in founding the Republic of China, and in order to consolidate the authority of the State, safeguard the rights of the people, ensure social tranquility, and promote the welfare of the people, does hereby establish this Constitution, to be promulgated throughout the country for faithful and perpetual observance by all.",
+	"divisions": [
+		{
+			"type": "chapter",
+			"number": 100,
+			"title": "General Provisions",
+			"start": 100,
+			"end": 600
+		},
+		{
+			"type": "chapter",
+			"number": 200,
+			"title": "Rights and Duties of the People",
+			"start": 700,
+			"end": 2400
+		},
+		{
+			"type": "chapter",
+			"number": 300,
+			"title": "The National Assembly",
+			"start": 2500,
+			"end": 3400
+		},
+		{
+			"type": "chapter",
+			"number": 400,
+			"title": "The President",
+			"start": 3500,
+			"end": 5200
+		},
+		{
+			"type": "chapter",
+			"number": 500,
+			"title": "Administration",
+			"start": 5300,
+			"end": 6100
+		},
+		{
+			"type": "chapter",
+			"number": 600,
+			"title": "Legislation",
+			"start": 6200,
+			"end": 7600
+		},
+		{
+			"type": "chapter",
+			"number": 700,
+			"title": "Judiciary",
+			"start": 7700,
+			"end": 8200
+		},
+		{
+			"type": "chapter",
+			"number": 800,
+			"title": "Examination",
+			"start": 8300,
+			"end": 8900
+		},
+		{
+			"type": "chapter",
+			"number": 900,
+			"title": "Control",
+			"start": 9000,
+			"end": 10600
+		},
+		{
+			"type": "chapter",
+			"number": 1000,
+			"title": "Powers of the Central and Local Governments",
+			"start": 10700,
+			"end": 11100
+		},
+		{
+			"type": "chapter",
+			"number": 1100,
+			"title": "System of Local Government",
+			"start": 11200,
+			"end": 12800,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "The Province",
+					"start": 11200,
+					"end": 12000
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "The Hsien",
+					"start": 12100,
+					"end": 12800
+				}
+			]
+		},
+		{
+			"type": "chapter",
+			"number": 1200,
+			"title": "Election, Recall, Initiative and Referendum",
+			"start": 12900,
+			"end": 13600
+		},
+		{
+			"type": "chapter",
+			"number": 1300,
+			"title": "Fundamental National Policies",
+			"start": 13700,
+			"end": 16900,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "National Defense",
+					"start": 13700,
+					"end": 14000
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Foreign Policy",
+					"start": 14100,
+					"end": 14100
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "National Economy",
+					"start": 14200,
+					"end": 15100
+				},
+				{
+					"type": "section",
+					"number": 400,
+					"title": "Social Security",
+					"start": 15200,
+					"end": 15700
+				},
+				{
+					"type": "section",
+					"number": 500,
+					"title": "Education and Culture",
+					"start": 15800,
+					"end": 16700
+				},
+				{
+					"type": "section",
+					"number": 600,
+					"title": "Frontier Regions",
+					"start": 16800,
+					"end": 16900
+				}
+			]
+		},
+		{
+			"type": "chapter",
+			"number": 1400,
+			"title": "Enforcement and Amendment of the Constitution",
+			"start": 17000,
+			"end": 17500
+		}
+	],
+	"articles": [
+		{
+			"number": 100,
+			"content": "The Republic of China, founded on the Three Principles of the People, shall be a democratic republic of the people, to be governed by the people and for the people."
+		},
+		{
+			"number": 200,
+			"content": "The sovereignty of the Republic of China shall reside in the whole body of citizens."
+		},
+		{
+			"number": 300,
+			"content": "Persons possessing the nationality of the Republic of China shall be citizens of the Republic of China."
+		},
+		{
+			"number": 400,
+			"content": "The territory of the Republic of China according to its existing national boundaries shall not be altered except by resolution of the National Assembly."
+		},
+		{
+			"number": 500,
+			"content": "There shall be equality among the various racial groups in the Republic of China."
+		},
+		{
+			"number": 600,
+			"content": "The national flag of the Republic of China shall be of red ground with a blue sky and a white sun in the upper left corner."
+		},
+		{
+			"number": 700,
+			"content": "All citizens of the Republic of China, irrespective of sex, religion, race, class, or party affiliation, shall be equal before the law."
+		},
+		{
+			"number": 800,
+			"content": "Personal freedom shall be guaranteed to the people. Except in case of flagrante delicto as provided by law, no person shall be arrested or detained otherwise than by a judicial or a police organ in accordance with the procedure prescribed by law. No person shall be tried or punished otherwise than by a law court in accordance with the procedure prescribed by law. Any arrest, detention, trial, or punishment which is not in accordance with the procedure prescribed by law may be resisted.\r\nWhen a person is arrested or detained on suspicion of having committed a crime, the organ making the arrest or detention shall in writing inform the said person, and his designated relative or friend, of the grounds for his arrest or detention, and shall, within 24 hours, turn him over to a competent court for trial. The said person, or any other person, may petition the competent court that a writ be served within 24 hours on the organ making the arrest for the surrender of the said person for trial.\r\nThe court shall not reject the petition mentioned in the preceding paragraph, nor shall it order the organ concerned to make an investigation and report first. The organ concerned shall not refuse to execute, or delay in executing, the writ of the court for the surrender of the said person for trial.\r\nWhen a person is unlawfully arrested or detained by any organ, he or any other person may petition the court for an investigation. The court shall not reject such a petition, and shall, within 24 hours, investigate the action of the organ concerned and deal with the matter in accordance with law."
+		},
+		{
+			"number": 900,
+			"content": "Except those in active military service, no person shall be subject to trial by a military tribunal."
+		},
+		{
+			"number": 1000,
+			"content": "The people shall have freedom of residence and of change of residence."
+		},
+		{
+			"number": 1100,
+			"content": "The people shall have freedom of speech, teaching, writing and publication."
+		},
+		{
+			"number": 1200,
+			"content": "The people shall have freedom of privacy of correspondence."
+		},
+		{
+			"number": 1300,
+			"content": "The people shall have freedom of religious belief."
+		},
+		{
+			"number": 1400,
+			"content": "The people shall have freedom of assembly and association."
+		},
+		{
+			"number": 1500,
+			"content": "The right of existence, the right of work, and the right of property shall be guaranteed to the people."
+		},
+		{
+			"number": 1600,
+			"content": "The people shall have the right of presenting petitions, lodging complaints, or instituting legal proceedings."
+		},
+		{
+			"number": 1700,
+			"content": "The people shall have the right of election, recall, initiative and referendum."
+		},
+		{
+			"number": 1800,
+			"content": "The people shall have the right of taking public examinations and of holding public offices."
+		},
+		{
+			"number": 1900,
+			"content": "The people shall have the duty of paying taxes in accordance with law."
+		},
+		{
+			"number": 2000,
+			"content": "The people shall have the duty of performing military service in accordance with law."
+		},
+		{
+			"number": 2100,
+			"content": "The people shall have the right and the duty of receiving citizens’ education."
+		},
+		{
+			"number": 2200,
+			"content": "All other freedoms and rights of the people that are not detrimental to social order or public welfare shall be guaranteed under the Constitution."
+		},
+		{
+			"number": 2300,
+			"content": "All the freedoms and rights enumerated in the preceding Articles shall not be restricted by law except by such as may be necessary to prevent infringement upon the freedoms of other persons, to avert an imminent crisis, to maintain social order or to advance public welfare."
+		},
+		{
+			"number": 2400,
+			"content": "Any public functionary who, in violation of law, infringes upon the freedom or right of any person shall, in addition to being subject to disciplinary measures in accordance with law, be held responsible under criminal and civil laws. The injured person may, in accordance with law, claim compensation from the State for damage sustained."
+		},
+		{
+			"number": 2500,
+			"content": "The National Assembly shall, in accordance with the provisions of this Constitution, exercise political powers on behalf of the whole body of citizens."
+		},
+		{
+			"number": 2600,
+			"content": "The National Assembly shall be composed of the following delegates:\r\n1. One delegate shall be elected from each hsien, municipality, or area of equivalent status. In case its population exceeds 500,000, one additional delegate shall be elected for each additional 500,000. Areas equivalent to hsien or municipalities shall be prescribed by law;\r\n2. Delegates to represent Mongolia shall be elected on the basis of four for each league and one for each special banner;\r\n3. The number of delegates to be elected from Tibet shall be prescribed by law;\r\n4. The number of delegates to be elected by various racial groups in frontier regions shall be prescribed by law;\r\n5. The number of delegates to be elected by Chinese citizens residing abroad shall be prescribed by law;\r\n6. The number of delegates to be elected by occupational groups shall be prescribed by law; and\r\n7. The number of delegates to be elected by women’s organizations shall be prescribed by law."
+		},
+		{
+			"number": 2700,
+			"content": "The function of the National Assembly shall be as follows:\r\n1. To elect the President and the Vice President;\r\n2. To recall the President and the Vice President;\r\n3. To amend the Constitution; and\r\n4. To vote on proposed Constitutional amendments submitted by the Legislative Yuan by way of referendum.\r\nWith respect to the rights of initiative and referendum, except as is provided in Items 3 and 4 of the preceding paragraph, the National Assembly shall make regulations pertaining thereto and put them into effect, after the above-mentioned two political rights shall have been exercised in one-half of the hsien and municipalities of the whole country."
+		},
+		{
+			"number": 2800,
+			"content": "Delegates to the National Assembly shall be elected every six years.\r\nThe term of office of the delegates to each National Assembly shall terminate on the day on which the next National Assembly convenes.\r\nNo incumbent government official shall, in the electoral area where he holds office, be elected delegate to the National Assembly."
+		},
+		{
+			"number": 2900,
+			"content": "The National Assembly shall be convoked by the President to meet 90 days prior to the date of expiration of each presidential term."
+		},
+		{
+			"number": 3000,
+			"content": "An extraordinary session of the National Assembly shall be convoked in any of the following circumstances:\r\n1. When, in accordance with the provisions of Article 49 of this Constitution, a new President and a new Vice President are to be elected;\r\n2. When, by resolution of the Control Yuan, an impeachment of the President or the Vice President is instituted;\r\n3. When, by resolution of the Legislative Yuan, an amendment to the Constitution is proposed; and\r\n4. When a meeting is requested by not less than two-fifths of the delegates to the National Assembly.\r\nWhen an extraordinary session is to be convoked in accordance with Item 1 or Item 2 of the preceding paragraph, the President of the Legislative Yuan shall issue the notice of convocation; when it is to be convoked in accordance with Item 3 or Item 4, it shall be convoked by the President of the Republic."
+		},
+		{
+			"number": 3100,
+			"content": "The National Assembly shall meet at the seat of the Central Government."
+		},
+		{
+			"number": 3200,
+			"content": "No delegate to the National Assembly shall be held responsible outside the Assembly for opinions expressed or votes cast at meetings of the Assembly."
+		},
+		{
+			"number": 3300,
+			"content": "While the Assembly is in session, no delegate to the National Assembly shall, except in case of flagrante delicto, be arrested or detained without the permission of the National Assembly."
+		},
+		{
+			"number": 3400,
+			"content": "The organization of the National Assembly, the election and recall of delegates to the National Assembly, and the procedure whereby the National Assembly is to carry out its functions, shall be prescribed by law."
+		},
+		{
+			"number": 3500,
+			"content": "The President shall be the head of the State and shall represent the Republic of China in foreign relations."
+		},
+		{
+			"number": 3600,
+			"content": "The President shall have supreme command of the land, sea and air forces of the whole country."
+		},
+		{
+			"number": 3700,
+			"content": "The President shall, in accordance with law, promulgate laws and issue mandates with the counter-signature of the President of the Executive Yuan or with the counter-signatures of both the President of the Executive Yuan and the Ministers or Chairmen of Commissions concerned."
+		},
+		{
+			"number": 3800,
+			"content": "The President shall, in accordance with the provisions of this Constitution, exercise the powers of concluding treaties, declaring war and making peace."
+		},
+		{
+			"number": 3900,
+			"content": "The President may, in accordance with law, declare martial law with the approval of, or subject to confirmation by, the Legislative Yuan. When the Legislative Yuan deems it necessary, it may by resolution request the President to terminate martial law."
+		},
+		{
+			"number": 4000,
+			"content": "The President shall, in accordance with law, exercise the power of granting amnesties, pardons, remission of sentences and restitution of civil rights."
+		},
+		{
+			"number": 4100,
+			"content": "The President shall, in accordance with law, appoint and remove civil and military officials."
+		},
+		{
+			"number": 4200,
+			"content": "The President may, in accordance with law, confer honors and decorations."
+		},
+		{
+			"number": 4300,
+			"content": "In case of a natural calamity, an epidemic, or a national financial or economic crisis that calls for emergency measures, the President, during the recess of the Legislative Yuan, may, by resolution of the Executive Yuan Council, and in accordance with the Law on Emergency Decrees, issue emergency decrees, proclaiming such measures as may be necessary to cope with the situation. Such decrees shall, within one month after issuance, be presented to the Legislative Yuan for confirmation; in case the Legislative Yuan withholds confirmation, the said decrees shall forthwith cease to be valid."
+		},
+		{
+			"number": 4400,
+			"content": "In case of disputes between two or more Yuan other than those concerning which there are relevant provisions in this Constitution, the President may call a meeting of the Presidents of the Yuan concerned for consultation with a view to reaching a solution."
+		},
+		{
+			"number": 4500,
+			"content": "Any citizen of the Republic of China who has attained the age of 40 years may be elected President or Vice President."
+		},
+		{
+			"number": 4600,
+			"content": "The election of the President and the Vice President shall be prescribed by law."
+		},
+		{
+			"number": 4700,
+			"content": "The President and the Vice President shall serve a term of six years. They may be re-elected for a second term."
+		},
+		{
+			"number": 4800,
+			"content": "The President shall, at the time of assuming office, take the following oath:\r\n“I do solemnly and sincerely swear before the people of the whole country that I will observe the Constitution, faithfully perform my duties, promote the welfare of the people, safeguard the security of the State, and will in no way betray the people’s trust. Should I break my oath, I shall be willing to submit myself to severe punishment by the State. This is my solemn oath.”"
+		},
+		{
+			"number": 4900,
+			"content": "In case the office of the President should become vacant, the Vice President shall succeed until the expiration of the original presidential term. In case the office of both the President and the Vice President should become vacant, the President of the Executive Yuan shall act for the President; and, in accordance with the provisions of Article 30 of this Constitution, an extraordinary session of the National Assembly shall be convoked for the election of a new President and a new Vice President, who shall hold office until the completion of the term left unfinished by the preceding President. In case the President should be unable to attend to office due to any cause, the Vice President shall act for the President. In case both the President and Vice President should be unable to attend to office, the President of the Executive Yuan shall act for the President."
+		},
+		{
+			"number": 5000,
+			"content": "The President shall be relieved of his functions on the day on which his term of office expires. If by that time the succeeding President has not yet been elected, or if the President-elect and the Vice-President-elect have not yet assumed office, the President of the Executive Yuan shall act for the President."
+		},
+		{
+			"number": 5100,
+			"content": "The period during which the President of the Executive Yuan may act for the President shall not exceed three months."
+		},
+		{
+			"number": 5200,
+			"content": "The President shall not, without having been recalled, or having been relieved of his functions, be liable to criminal prosecution unless he is charged with having committed an act of rebellion or treason."
+		},
+		{
+			"number": 5300,
+			"content": "The Executive Yuan shall be the highest administrative organ of the State."
+		},
+		{
+			"number": 5400,
+			"content": "The Executive Yuan shall have a President, a Vice President, a certain number of Ministers and Chairmen of Commissions, and a certain number of Ministers without Portfolio."
+		},
+		{
+			"number": 5500,
+			"content": "The President of the Executive Yuan shall be nominated and, with the consent of the Legislative Yuan, appointed by the President of the Republic.\r\nIf, during the recess of the Legislative Yuan, the President of the Executive Yuan should resign or if his office should become vacant, his functions shall be exercised by the Vice President of the Yuan, acting on his behalf, but the President of the Republic shall, within 40 days, request a meeting of the Legislative Yuan to confirm his nominee for the vacancy. Pending such confirmation, the Vice President of the Executive Yuan shall temporarily exercise the functions of the President of the said Yuan."
+		},
+		{
+			"number": 5600,
+			"content": "The Vice President of the Executive Yuan, Ministers and Chairmen of Commissions, and Ministers without Portfolio shall be appointed by the President of the Republic upon the recommendation of the President of the Executive Yuan."
+		},
+		{
+			"number": 5700,
+			"content": "The Executive Yuan shall be responsible to the Legislative Yuan in accordance with the following provisions:\r\n1. The Executive Yuan has the duty to present to the Legislative Yuan a statement of its administrative policies and a report on its administration. While the Legislative Yuan is in session, Members of the Legislative Yuan shall have the right to question the President and the Ministers and Chairmen of Commissions of the Executive Yuan.\r\n2. If the Legislative Yuan does not concur in any important policy of the Executive Yuan, it may, by resolution, request the Executive Yuan to alter such a policy. With respect to such resolution, the Executive Yuan may, with the approval of the President of the Republic, put a request to the Legislative Yuan for reconsideration. If, after reconsideration, two-thirds of the Members of the Legislative Yuan present at the meeting uphold the original resolution, the President of the Executive Yuan shall either abide by the same or resign from office.\r\n3. If the Executive Yuan deems a resolution on a statutory, budgetary, or treaty bill passed by the Legislative Yuan difficult of execution, it may, with the approval of the President of the Republic and within ten days after its transmission to the Executive Yuan, request the Legislative Yuan to reconsider the said resolution. If after reconsideration, two-thirds of the Members of the Legislative Yuan present at the meeting uphold the original resolution, the President of the Executive Yuan shall either abide by the same or resign from office."
+		},
+		{
+			"number": 5800,
+			"content": "The Executive Yuan shall have an Executive Yuan Council, to be composed of its President, Vice President, various Ministers and Chairmen of Commissions, and Ministers without Portfolio, with its President as Chairman.\r\nStatutory or budgetary bills or bills concerning martial law, amnesty, declaration of war, conclusion of peace or treaties, and other important affairs, all of which are to be submitted to the Legislative Yuan, as well as matters that are of common concern to the various Ministries and Commissions, shall be presented by the President and various Ministers and Chairmen of Commissions of the Executive Yuan to the Executive Yuan Council for decision."
+		},
+		{
+			"number": 5900,
+			"content": "The Executive Yuan shall, three months before the beginning of each fiscal year, present to the Legislative Yuan the budgetary bill for the following fiscal year."
+		},
+		{
+			"number": 6000,
+			"content": "The Executive Yuan shall, within four months after the end of each fiscal year, present final accounts of revenues and expenditures to the Control Yuan."
+		},
+		{
+			"number": 6100,
+			"content": "The organization of the Executive Yuan shall be prescribed by law."
+		},
+		{
+			"number": 6200,
+			"content": "The Legislative Yuan shall be the highest legislative organ of the State, to be constituted of members elected by the people. It shall exercise legislative power on behalf of the people."
+		},
+		{
+			"number": 6300,
+			"content": "The Legislative Yuan shall have the power to decide by resolution upon statutory or budgetary bills or bills concerning martial law, amnesty, declaration of war, conclusion of peace or treaties, and other important affairs of the State."
+		},
+		{
+			"number": 6400,
+			"content": "Members of the Legislative Yuan shall be elected in accordance with the following provisions:\r\n1. Those to be elected from the provinces and by the municipalities under the direct jurisdiction of the Executive Yuan shall be five for each province or municipality with a population of not more than 3,000,000, one additional member shall be elected for each additional 1,000,000 in a province or municipality whose population is over 3,000,000;\r\n2. Those to be elected from Mongolian Leagues and Banners;\r\n3. Those to be elected from Tibet;\r\n4. Those to be elected by various racial groups in frontier regions;\r\n5. Those to be elected by Chinese citizens residing abroad; and\r\n6. Those to be elected by occupational groups.\r\nThe election of Members of the Legislative Yuan and the number of those to be elected in accordance with Items 2 to 6 of the preceding paragraph shall be prescribed by law. The number of women to be elected under the various items enumerated in the first paragraph shall be prescribed by law."
+		},
+		{
+			"number": 6500,
+			"content": "Members of the Legislative Yuan shall serve a term of three years, and shall be re-eligible. The election of Members of the Legislative Yuan shall be completed within three months prior to the expiration of each term."
+		},
+		{
+			"number": 6600,
+			"content": "The Legislative Yuan shall have a President and a Vice President, who shall be elected by and from among its Members."
+		},
+		{
+			"number": 6700,
+			"content": "The Legislative Yuan may set up various committees.\r\nSuch committees may invite government officials and private persons concerned to be present at their meetings to answer questions."
+		},
+		{
+			"number": 6800,
+			"content": "The Legislative Yuan shall hold two sessions each year, and shall convene of its own accord. The first session shall last from February to the end of May, and the second session from September to the end of December. Whenever necessary, a session may be prolonged."
+		},
+		{
+			"number": 6900,
+			"content": "In any of the following circumstances, the Legislative Yuan may hold an extraordinary session:\r\n1. At the request of the President of the Republic;\r\n2. Upon the request of not less than one-fourth of its Members."
+		},
+		{
+			"number": 7000,
+			"content": "The Legislative Yuan shall not make proposals for an increase in the expenditures in the budgetary bill presented by the Executive Yuan."
+		},
+		{
+			"number": 7100,
+			"content": "At the meetings of the Legislative Yuan, the Presidents of the various Yuan concerned and the various Ministers and Chairmen of Commissions concerned may be present to give their views."
+		},
+		{
+			"number": 7200,
+			"content": "Statutory bills passed by the Legislative Yuan shall be transmitted to the President of the Republic and to the Executive Yuan. The President shall, within ten days after receipt thereof, promulgate them; or he may deal with them in accordance with the provisions of Article 57 of this Constitution."
+		},
+		{
+			"number": 7300,
+			"content": "No Member of the Legislative Yuan shall be held responsible outside the Yuan for opinions expressed or votes cast in the Yuan."
+		},
+		{
+			"number": 7400,
+			"content": "No Member of the Legislative Yuan shall, except in case of flagrante delicto, be arrested or detained without the permission of the Legislative Yuan."
+		},
+		{
+			"number": 7500,
+			"content": "No Member of the Legislative Yuan shall concurrently hold a government post."
+		},
+		{
+			"number": 7600,
+			"content": "The organization of the Legislative Yuan shall be prescribed by law."
+		},
+		{
+			"number": 7700,
+			"content": "The Judicial Yuan shall be the highest judicial organ of the State and shall have charge of civil, criminal, and administrative cases, and over cases concerning disciplinary measures against public functionaries."
+		},
+		{
+			"number": 7800,
+			"content": "The Judicial Yuan shall interpret the Constitution and shall have the power to unify the interpretation of laws and orders."
+		},
+		{
+			"number": 7900,
+			"content": "The Judicial Yuan shall have a President and a Vice President, who shall be nominated and, with the consent of the Control Yuan, appointed by the President of the Republic.\r\nThe Judicial Yuan shall have a certain number of Grand Justices to take charge of matters specified in Article 78 of this Constitution, who shall be nominated and, with the consent of the Control Yuan, appointed by the President of the Republic."
+		},
+		{
+			"number": 8000,
+			"content": "Judges shall be above partisanship and shall, in accordance with law, hold trials independently, free from any interference."
+		},
+		{
+			"number": 8100,
+			"content": "Judges shall hold office for life. No judge shall be removed from office unless he has been found guilty of a criminal offense or subjected to disciplinary measure, or declared to be under interdiction. No judge shall, except in accordance with law, be suspended or transferred or have his salary reduced."
+		},
+		{
+			"number": 8200,
+			"content": "The organization of the Judicial Yuan and of the law courts of various grades shall be prescribed by law."
+		},
+		{
+			"number": 8300,
+			"content": "The Examination Yuan shall be the highest examination organ of the State and shall have charge of matters relating to examination, employment, registration, service rating, scale of salaries, promotion and transfer, security of tenure, commendation, pecuniary aid in case of death, retirement and old age pension."
+		},
+		{
+			"number": 8400,
+			"content": "The Examination Yuan shall have a President and a Vice President and a certain number of Members, all of whom shall be nominated and, with the consent of the Control Yuan, appointed by the President of the Republic."
+		},
+		{
+			"number": 8500,
+			"content": "In the selection of public functionaries, a system of open competitive examination shall be put into operation, and examinations shall be held in different areas, with prescribed numbers of persons to be selected according to various provinces and areas. No person shall be appointed to a public office unless he is qualified through examination."
+		},
+		{
+			"number": 8600,
+			"content": "The following qualifications shall be determined and registered through examination by the Examination Yuan in accordance with law:\r\n1. Qualification for appointment as public functionaries; and\r\n2. Qualification for practice in specialized professions or as technicians."
+		},
+		{
+			"number": 8700,
+			"content": "The Examination Yuan may, with respect to matters under its charge, present statutory bills to the Legislative Yuan."
+		},
+		{
+			"number": 8800,
+			"content": "Members of the Examination Yuan shall be above partisanship and shall independently exercise their functions in accordance with law."
+		},
+		{
+			"number": 8900,
+			"content": "The organization of the Examination Yuan shall be prescribed by law."
+		},
+		{
+			"number": 9000,
+			"content": "The Control Yuan shall be the highest control organ of the State and shall exercise the powers of consent, impeachment, censure and auditing."
+		},
+		{
+			"number": 9100,
+			"content": "The Control Yuan shall be composed of Members who shall be elected by Provincial and Municipal Councils, the local Councils of Mongolia and Tibet, and Chinese citizens residing abroad. Their numbers shall be determined in accordance with the following provisions:\r\n1. Five Members from each province;\r\n2. Two Members from each municipality under the direct jurisdiction of the Executive Yuan;\r\n3. Eight Members from Mongolian Leagues and Banners;\r\n4. Eight Members from Tibet; and\r\n5. Eight Members from Chinese citizens residing abroad."
+		},
+		{
+			"number": 9200,
+			"content": "The Control Yuan shall have a President and a Vice President, who shall be elected by and from among its Members."
+		},
+		{
+			"number": 9300,
+			"content": "Members of the Control Yuan shall serve a term of six years and shall be re-eligible."
+		},
+		{
+			"number": 9400,
+			"content": "When the Control Yuan exercises the power of consent in accordance with this Constitution, it shall do so by resolution of a majority of the Members present at the meeting."
+		},
+		{
+			"number": 9500,
+			"content": "The Control Yuan may, in the exercise of its powers of control, request the Executive Yuan and its Ministries and Commissions to submit to it for perusal the original orders issued by them and all other relevant documents."
+		},
+		{
+			"number": 9600,
+			"content": "The Control Yuan may, taking into account the work of the Executive Yuan and its various Ministries and Commissions, set up a certain number of committees to investigate their activities with a view to ascertaining whether or not they are guilty of violation of law or neglect of duty."
+		},
+		{
+			"number": 9700,
+			"content": "The Control Yuan may, on the basis of the investigations and resolutions of its committees, propose corrective measures and forward them to the Executive Yuan and the Ministries and Commissions concerned, directing their attention to effecting improvements.\r\nWhen the Control Yuan deems a public functionary in the Central Government or in a local government guilty of neglect of duty or violation of law, it may propose corrective measures or institute an impeachment. If it involves a criminal offense, the case shall be turned over to a law court."
+		},
+		{
+			"number": 9800,
+			"content": "Impeachment by the Control Yuan of a public functionary in the Central Government or in a local government shall be instituted upon the proposal of one or more than one Member of the Control Yuan and the decision, after due consideration, by a committee composed of not less than nine Members."
+		},
+		{
+			"number": 9900,
+			"content": "In case of impeachment by the Control Yuan of the personnel of the Judicial Yuan or of the Examination Yuan for neglect of duty or violation of law, the provisions of Articles 95, 97 and 98 of this Constitution shall be applicable."
+		},
+		{
+			"number": 10000,
+			"content": "Impeachment by the Control Yuan of the President or the Vice President of the Republic shall be instituted upon the proposal of not less than one-fourth of the whole body of Members of the Control Yuan, and the resolution, after due consideration, by the majority of the whole body of Members of the Control Yuan, and the same shall be presented to the National Assembly."
+		},
+		{
+			"number": 10100,
+			"content": "No Member of the Control Yuan shall be held responsible outside the Yuan for opinions expressed or votes cast in the Yuan."
+		},
+		{
+			"number": 10200,
+			"content": "No Member of the Control Yuan shall, except in case of flagrante delicto, be arrested or detained without the permission of the Control Yuan."
+		},
+		{
+			"number": 10300,
+			"content": "No Member of the Control Yuan shall concurrently hold a public office or engage in any profession."
+		},
+		{
+			"number": 10400,
+			"content": "In the Control Yuan, there shall be an Auditor General who shall be nominated and, with the consent of the Legislative Yuan, appointed by the President of the Republic."
+		},
+		{
+			"number": 10500,
+			"content": "The Auditor General shall, within three months after presentation by the Executive Yuan of the final accounts of revenues and expenditures, complete the auditing thereof in accordance with law, and submit an auditing report to the Legislative Yuan."
+		},
+		{
+			"number": 10600,
+			"content": "The organization of the Control Yuan shall be prescribed by law."
+		},
+		{
+			"number": 10700,
+			"content": "In the following matters, the Central Government shall have the power of legislation and administration:\r\n1. Foreign affairs;\r\n2. National defense and military affairs concerning national defense;\r\n3. Nationality law and criminal, civil and commercial law;\r\n4. Judicial system;\r\n5. Aviation, national highways, state-owned railways, navigation, postal and telegraph service;\r\n6. Central Government finance and national revenues;\r\n7. Demarcation of national, provincial and hsien revenues;\r\n8. State-operated economic enterprises;\r\n9. Currency system and state banks;\r\n10. Weights and measures;\r\n11. Foreign trade policies;\r\n12. Financial and economic matters affecting foreigners or foreign countries; and\r\n13. Other matters relating to the Central Government as provided by this Constitution."
+		},
+		{
+			"number": 10800,
+			"content": "In the following matters, the Central Government shall have the power of legislation and administration, but the Central Government may delegate the power of administration to the provincial and hsien governments:\r\n1. General principles of provincial and hsien self-government;\r\n2. Division of administrative areas;\r\n3. Forestry, industry, mining and commerce;\r\n4. Educational system;\r\n5. Banking and exchange system;\r\n6. Shipping and deep-sea fishery;\r\n7. Public utilities;\r\n8. Cooperative enterprises;\r\n9. Water and land communication and transportation covering two or more provinces;\r\n10. Water conservancy, waterways, agriculture and pastoral enterprises covering two or more provinces;\r\n11. Registration, employment, supervision, and security of tenure of officials in Central and local governments;\r\n12. Land legislation;\r\n13. Labor legislation and other social legislation;\r\n14. Eminent domain;\r\n15. Census-taking and compilation of population statistics for the whole country;\r\n16. Immigration and land reclamation;\r\n17. Police system;\r\n18. Public health;\r\n19. Relief, pecuniary aid in case of death and aid in case of unemployment; and\r\n20. Preservation of ancient books and articles and sites of cultural value.\r\nWith respect to the various items enumerated in the preceding paragraph, the provinces may enact separate rules and regulations, provided these are not in conflict with national laws."
+		},
+		{
+			"number": 10900,
+			"content": "In the following matters, the provinces shall have the power of legislation and administration, but the provinces may delegate the power of administration to the hsien;\r\n1. Provincial education, public health, industries and communications;\r\n2. Management and disposal of provincial property;\r\n3. Administration of municipalities under provincial jurisdiction;\r\n4. Province-operated enterprises;\r\n5. Provincial cooperative enterprises;\r\n6. Provincial agriculture, forestry, water conservancy, fishery, animal husbandry and public works;\r\n7. Provincial finance and revenues;\r\n8. Provincial debts;\r\n9. Provincial banks;\r\n10. Provincial police administration;\r\n11. Provincial charitable and public welfare works; and\r\n12. Other matters delegated to the provinces in accordance with national laws.\r\nExcept as otherwise provided by law, any of the matters enumerated in the various items of the preceding paragraph, in so far as it covers two or more provinces, may be undertaken jointly by the provinces concerned.\r\nWhen any province, in undertaking matters listed in any of the items of the first paragraph, finds its funds insufficient, it may, by resolution of the Legislative Yuan, obtain subsidies from the National Treasury."
+		},
+		{
+			"number": 11000,
+			"content": "In the following matters, the hsien shall have the power of legislation and administration:\r\n1. Hsien education, public health, industries and communications;\r\n2. Management and disposal of hsien property;\r\n3. Hsien-operated enterprises;\r\n4. Hsien cooperative enterprises;\r\n5. Hsien agriculture and forestry, water conservancy, fishery, animal husbandry and public works;\r\n6. Hsien finance and revenues;\r\n7. Hsien debts;\r\n8. Hsien banks;\r\n9. Administration of hsien police and defense;\r\n10. Hsien charitable and public welfare works; and\r\n11. Other matters delegated to the hsien in accordance with national laws and provincial Self-Government Regulations.\r\nExcept as otherwise provided by law, any of the matters enumerated in the various items of the preceding paragraph, in so far as it covers two or more hsien, may be undertaken jointly by the hsien concerned."
+		},
+		{
+			"number": 11100,
+			"content": "Any matter not enumerated in Articles 107, 108, 109 and 110 shall fall within the jurisdiction of the Central Government, if it is national in nature; of the province, if it is provincial in nature; and of the hsien, if it concerns the hsien. In case of dispute, it shall be settled by the Legislative Yuan."
+		},
+		{
+			"number": 11200,
+			"content": "A province may convoke a provincial assembly to enact, in accordance with the General Principles of Provincial and Hsien Self-Government, regulations, provided the said regulations are not in conflict with the Constitution.\r\nThe organization of the provincial assembly and the election of the delegates shall be prescribed by law."
+		},
+		{
+			"number": 11300,
+			"content": "The Provincial Self-Government Regulations shall include the following provisions:\r\n1. In the province, there shall be a provincial council. Members of the provincial council shall be elected by the people of the province.\r\n2. In the province, there shall be a provincial government with a provincial governor who shall be elected by the people of the province.\r\n3. Relationship between the province and the hsien. The legislative power of the province shall be exercised by the Provincial Council."
+		},
+		{
+			"number": 11400,
+			"content": "The Provincial Self-Government Regulations shall, after enactment, be forthwith submitted to the Judicial Yuan. The Judicial Yuan, if it deems any part thereof unconstitutional, shall declare null and void the articles repugnant to the Constitution."
+		},
+		{
+			"number": 11500,
+			"content": "If, during the enforcement of the Provincial Self-Government Regulations, there should arise any serious obstacle in the application of any of the articles contained therein, the Judicial Yuan shall first summon the various parties concerned to present their views; and thereupon the Presidents of the Executive Yuan, Legislative Yuan, Judicial Yuan, Examination Yuan and Control Yuan shall form a Committee, with the President of the Judicial Yuan as Chairman, to propose a formula for solution."
+		},
+		{
+			"number": 11600,
+			"content": "Provincial rules and regulations that are in conflict with national laws shall be null and void."
+		},
+		{
+			"number": 11700,
+			"content": "When doubt arises as to whether or not there is a conflict between provincial rules or regulations and national laws, interpretation thereon shall be made by the Judicial Yuan."
+		},
+		{
+			"number": 11800,
+			"content": "The self-government of municipalities under the direct jurisdiction of the Executive Yuan shall be prescribed by law."
+		},
+		{
+			"number": 11900,
+			"content": "The local self-government system of the Mongolian Leagues and Banners shall be prescribed by law."
+		},
+		{
+			"number": 12000,
+			"content": "The self-government system of Tibet shall be safeguarded."
+		},
+		{
+			"number": 12100,
+			"content": "The hsien shall enforce hsien self-government."
+		},
+		{
+			"number": 12200,
+			"content": "A hsien may convoke a hsien assembly to enact, in accordance with the General Principles of Provincial and Hsien Self-Government, hsien self-government regulations, provided the said regulations are not in conflict with the Constitution or with provincial self-government regulations."
+		},
+		{
+			"number": 12300,
+			"content": "The people of the hsien shall, in accordance with law, exercise the rights of initiative and referendum in matters within the sphere of hsien self-government, and shall, in accordance with law, exercise the rights of election and recall of the magistrate and other hsien self-government officials."
+		},
+		{
+			"number": 12400,
+			"content": "In the hsien, there shall be a hsien council. Members of the hsien council shall be elected by the people of the hsien.\r\nThe legislative power of the hsien shall be exercised by the hsien council."
+		},
+		{
+			"number": 12500,
+			"content": "Hsien rules and regulations that are in conflict with national laws, or with provincial rules and regulations, shall be null and void."
+		},
+		{
+			"number": 12600,
+			"content": "In the hsien, there shall be a hsien government with a hsien magistrate who shall be elected by the people of the hsien."
+		},
+		{
+			"number": 12700,
+			"content": "The hsien magistrate shall have charge of hsien self-government and shall administer matters delegated to the hsien by the central or provincial government."
+		},
+		{
+			"number": 12800,
+			"content": "The provisions governing the hsien shall apply mutatis mutandis to the municipality."
+		},
+		{
+			"number": 12900,
+			"content": "The various kinds of elections prescribed in this Constitution, except as otherwise provided by this Constitution, shall be by universal, equal, and direct suffrage and by secret ballot"
+		},
+		{
+			"number": 13000,
+			"content": "Any citizen of the Republic of China who has attained the age of 20 years shall have the right of election in accordance with law. Except as otherwise provided by this Constitution or by law, any citizen who has attained the age of 23 years shall have the right of being elected in accordance with law."
+		},
+		{
+			"number": 13100,
+			"content": "All candidates in the various kinds of elections prescribed in this Constitution shall openly campaign for their election."
+		},
+		{
+			"number": 13200,
+			"content": "Intimidation or inducement shall be strictly forbidden in elections. Suits arising in connection with elections shall be tried by the courts."
+		},
+		{
+			"number": 13300,
+			"content": "A person elected may, in accordance with law, be recalled by his constituency."
+		},
+		{
+			"number": 13400,
+			"content": "In the various kinds of elections, the number of women to be elected shall be fixed, and measures pertaining thereto shall be prescribed by law."
+		},
+		{
+			"number": 13500,
+			"content": "The number of delegates to the National Assembly and the manner of their election from people in interior areas, who have their own conditions of living and habits, shall be prescribed by law."
+		},
+		{
+			"number": 13600,
+			"content": "The exercise of the rights of initiative and referendum shall be prescribed by law."
+		},
+		{
+			"number": 13700,
+			"content": "The national defense of the Republic of China shall have as its objective the safeguarding of national security and the preservation of world peace.\r\nThe organization of national defense shall be prescribed by law."
+		},
+		{
+			"number": 13800,
+			"content": "The land, sea and air forces of the whole country shall be above personal, regional, or party affiliations, shall be loyal to the state, and shall protect the people."
+		},
+		{
+			"number": 13900,
+			"content": "No political party and no individual shall make use of armed forces as an instrument in a struggle for political powers."
+		},
+		{
+			"number": 14000,
+			"content": "No military man in active service may concurrently hold a civil office."
+		},
+		{
+			"number": 14100,
+			"content": "The foreign policy of the Republic of China shall, in a spirit of independence and initiative and on the basis of the principles of equality and reciprocity, cultivate good-neighborliness with other nations, and respect treaties and the Charter of the United Nations, in order to protect the rights and interests of Chinese citizens residing abroad, promote international cooperation, advance international justice and ensure world peace."
+		},
+		{
+			"number": 14200,
+			"content": "National economy shall be based on the Principle of the People’s Livelihood and shall seek to effect equalization of land ownership and restriction of private capital in order to attain a well-balanced sufficiency in national wealth and people’s livelihood."
+		},
+		{
+			"number": 14300,
+			"content": "All land within the territory of the Republic of China shall belong to the whole body of citizens. Private ownership of land, acquired by the people in accordance with law, shall be protected and restricted by law. Privately-owned land shall be liable to taxation according to its value, and the Government may buy such land according to its value.\r\nMineral deposits which are embedded in the land, and natural power which may, for economic purposes, be utilized for the public benefit shall belong to the State, regardless of the fact that private individuals may have acquired ownership over such land.\r\nIf the value of a piece of land has increased, not through the exertion of labor or the employment of capital, the State shall levy thereon an increment tax, the proceeds of which shall be enjoyed by the people in common.\r\nIn the distribution and readjustment of land, the State shall in principle assist self-farming land-owners and persons who make use of the land by themselves, and shall also regulate their appropriate areas of operation."
+		},
+		{
+			"number": 14400,
+			"content": "Public utilities and other enterprises of a monopolistic nature shall, in principle, be under public operation. In cases permitted by law, they may be operated by private citizens."
+		},
+		{
+			"number": 14500,
+			"content": "With respect to private wealth and privately-operated enterprises, the State shall restrict them by law if they are deemed detrimental to a balanced development of national wealth and people’s livelihood.\r\nCooperative enterprises shall receive encouragement and assistance from the State. Private citizens’ productive enterprises and foreign trade shall receive encouragement, guidance and protection from the State."
+		},
+		{
+			"number": 14600,
+			"content": "The State shall, by the use of scientific techniques, develop water conservancy, increase the productivity of land, improve agricultural conditions, plan for the utilization of land, develop agricultural resources and hasten the industrialization of agriculture."
+		},
+		{
+			"number": 14700,
+			"content": "The Central Government, in order to attain balanced economic development among the provinces, shall give appropriate aid to poor or unproductive provinces.\r\nThe provinces, in order to attain balanced economic development among the hsien, shall give appropriate aid to poor or unproductive hsien."
+		},
+		{
+			"number": 14800,
+			"content": "Within the territory of the Republic of China, all goods shall be permitted to move freely from place to place."
+		},
+		{
+			"number": 14900,
+			"content": "Financial institutions shall, in accordance with law, be subject to State control."
+		},
+		{
+			"number": 15000,
+			"content": "The State shall extensively establish financial institutions for the common people, with a view to relieving unemployment."
+		},
+		{
+			"number": 15100,
+			"content": "With respect to Chinese citizens residing abroad, the State shall foster and protect the development of their economic enterprises."
+		},
+		{
+			"number": 15200,
+			"content": "The State shall provide suitable opportunity for work to people who are able to work."
+		},
+		{
+			"number": 15300,
+			"content": "The State, in order to improve the livelihood of laborers and farmers and to improve their productive skill, shall enact laws and carry out policies for their protection.\r\nWomen and children engaged in labor shall, according to their age and physical condition, be accorded special protection."
+		},
+		{
+			"number": 15400,
+			"content": "Capital and labor shall, in accordance with the principle of harmony and cooperation, promote productive enterprises. Conciliation and arbitration of disputes between capital and labor shall be prescribed by law."
+		},
+		{
+			"number": 15500,
+			"content": "The State, in order to promote social welfare, shall establish a social insurance system. To the aged and the infirm who are unable to earn a living, and to victims of unusual calamities, the State shall give appropriate assistance and relief."
+		},
+		{
+			"number": 15600,
+			"content": "The State, in order to consolidate the foundation of national existence and development, shall protect motherhood and carry out the policy of promoting the welfare of women and children."
+		},
+		{
+			"number": 15700,
+			"content": "The State, in order to improve national health, shall establish extensive services for sanitation and health protection, and a system of public medical service."
+		},
+		{
+			"number": 15800,
+			"content": "Education and culture shall aim at the development among the citizens of the national spirit, the spirit of self-government, national morality, good physique, scientific knowledge, and the ability to earn a living."
+		},
+		{
+			"number": 15900,
+			"content": "All citizens shall have equal opportunity to receive an education."
+		},
+		{
+			"number": 16000,
+			"content": "All children of school age from six to 12 years shall receive free primary education. Those from poor families shall be supplied with books by the Government.\r\nAll citizens above school age who have not received primary education shall receive supplementary education free of charge and shall also be supplied with books by the Government."
+		},
+		{
+			"number": 16100,
+			"content": "The national, provincial, and local governments shall extensively establish scholarships to assist students of good scholastic standing and exemplary conduct who lack the means to continue their school education."
+		},
+		{
+			"number": 16200,
+			"content": "All public and private educational and cultural institutions in the country shall, in accordance with law, be subject to State supervision."
+		},
+		{
+			"number": 16300,
+			"content": "The State shall pay due attention to the balanced development of education in different regions, and shall promote social education in order to raise the cultural standard of the citizens in general. Grants from the National Treasury shall be made to frontier regions and economically poor areas to help them meet their educational and cultural expenses. The Central Government may either itself undertake the more important educational and cultural enterprises in such regions or give them financial assistance."
+		},
+		{
+			"number": 16400,
+			"content": "Expenditures of educational programs, scientific studies and cultural services shall not be, in respect of the Central Government, less than 15 percent of the total national budget; in respect of each province, less than 25 percent of the total provincial budgets; and in respect of each municipality or hsien, less than 35 percent of the total municipal or hsien budget. Educational and cultural foundations established in accordance with law shall, together with their property, be protected."
+		},
+		{
+			"number": 16500,
+			"content": "The State shall safeguard the livelihood of those who work in the fields of education, sciences and arts, and shall, in accordance with the development of national economy, increase their remuneration from time to time."
+		},
+		{
+			"number": 16600,
+			"content": "The State shall encourage scientific discoveries and inventions, and shall protect ancient sites and articles of historical, cultural or artistic value."
+		},
+		{
+			"number": 16700,
+			"content": "The State shall give encouragement or subsidies to the following enterprises or individuals:\r\n1. Educational enterprises in the country which have been operated with good record by private individuals;\r\n2. Educational enterprises which have been operated with good record by Chinese citizens residing abroad;\r\n3. persons who have made discoveries or inventions in the fields of learning and technology; and\r\n4. Persons who have rendered long and meritorious services in the field of education."
+		},
+		{
+			"number": 16800,
+			"content": "The State shall accord to the various racial groups in the frontier regions legal protection of their status and shall give them special assistance in their local self-government undertakings."
+		},
+		{
+			"number": 16900,
+			"content": "The State shall, in a positive manner, undertake and foster the development of education, culture, communications, water conservancy, public health, and other economic and social enterprises of the various racial groups in the frontier regions. With respect to the utilization of land, the State shall, after taking into account the climatic conditions, the nature of the soil and the life and habits of the people, adopt measures to protect the land and to assist in its development."
+		},
+		{
+			"number": 17000,
+			"content": "The term “law,” as used in this Constitution, shall denote any legislative bill that shall have been passed by the Legislative Yuan and promulgated by the President of the Republic."
+		},
+		{
+			"number": 17100,
+			"content": "Laws that are in conflict with the Constitution shall be null and void. When doubt arises as to whether or not a law is in conflict with the Constitution, interpretation thereon shall be made by the Judicial Yuan."
+		},
+		{
+			"number": 17200,
+			"content": "Ordinances that are in conflict with the Constitution or with laws shall be null and void."
+		},
+		{
+			"number": 17300,
+			"content": "The Constitution shall be interpreted by the Judicial Yuan."
+		},
+		{
+			"number": 17400,
+			"content": "Amendments to the Constitution shall be made in accordance with one of the following procedures:\r\n1. Upon the proposal of one-fifth of the total number of the delegates to the National Assembly and by a resolution of three-fourths of the delegates present at a meeting having a quorum of two-thirds of the entire Assembly, the Constitution may be amended.\r\n2. Upon the proposal of one-fourth of the Members of the Legislative Yuan and by a resolution of three-fourths of the Members present at a meeting having a quorum of three-fourths of the Members of the Yuan, an amendment may be drawn up and submitted to the National Assembly by way of referendum. Such a proposed amendment to the Constitution shall be publicly published half a year before the National Assembly convenes."
+		},
+		{
+			"number": 17500,
+			"content": "Whenever necessary, enforcement procedures in regard to any matters prescribed in this Constitution shall be separately provided by law.\r\nThe preparatory procedures for the enforcement of this Constitution shall be decided upon by the same National Assembly which shall have adopted this Constitution."
+		}
+	]
+}

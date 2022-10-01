@@ -1,0 +1,358 @@
+{
+	"pcode": "L0030114",
+	"LawLevel": "命令",
+	"EngLawName": "Regulations on Good Clinical Practice for Medical Devices",
+	"LawName": "醫療器材優良臨床試驗管理辦法",
+	"EngLawModifiedDate": "20210409",
+	"histories": [
+		"Full text including 72 articles adopted and promulgated by the Ministry of Health and Welfare per Order Bu-Shou-Shi-Zi No. 1101601721 on April 9, 2021. These Regulations shall enter into force take effect on May 1, 2021.\r\n"
+	],
+	"divisions": [
+		{
+			"type": "chapter",
+			"number": 100,
+			"title": "General Provisions",
+			"start": 100,
+			"end": 400
+		},
+		{
+			"type": "chapter",
+			"number": 200,
+			"title": "Sponsor",
+			"start": 500,
+			"end": 2400
+		},
+		{
+			"type": "chapter",
+			"number": 300,
+			"title": "Clinical Trial Institution and Investigator",
+			"start": 2500,
+			"end": 3600
+		},
+		{
+			"type": "chapter",
+			"number": 400,
+			"title": "Clinical Trial Institutional Review Board",
+			"start": 3700,
+			"end": 4800
+		},
+		{
+			"type": "chapter",
+			"number": 500,
+			"title": "Informed Consent Form",
+			"start": 4900,
+			"end": 5700
+		},
+		{
+			"type": "chapter",
+			"number": 600,
+			"title": "Application, Suspension, Termination, and Close-out of the Clinical Trials",
+			"start": 5800,
+			"end": 6700
+		},
+		{
+			"type": "chapter",
+			"number": 700,
+			"title": "Adverse Events Handling",
+			"start": 6800,
+			"end": 7000
+		},
+		{
+			"type": "chapter",
+			"number": 800,
+			"title": "Supplementary Provisions",
+			"start": 7100,
+			"end": 7200
+		}
+	],
+	"articles": [
+		{
+			"number": 100,
+			"content": "The Regulations are enacted pursuant to Paragraph 3, Article 37 of the Medical Devices Act (hereinafter “this Act”)."
+		},
+		{
+			"number": 200,
+			"content": "Terms used in the present Regulations are defined as follows:\r\n1. Subject/Human Subject: An individual who participates in a clinical trial, either as a recipient of the investigational medical device or as a control.\r\n2. Vulnerable Populations: Individuals who are unable to make decisions because of their age or mental or physical conditions; who are susceptible to harmful influences and threats because of their environment, identity, or socioeconomic conditions; or who cannot make decisions according to their free will.\r\n3. Investigator: An individual responsible for the conduct of a clinical trial at a clinical trial institution.\r\n4. Sponsor: An individual, company, institution, or organization that takes responsibility for the initiation and management of a clinical trial.\r\n5. Contract Research Organization: A person or an organization contracted by the sponsor to perform one or more of the sponsor’s clinical investigation-related duties and functions.\r\n6. Deviations: Instance(s) of failure to follow the requirements of the clinical investigation plan.\r\n7. Adverse Event (AE): Any untoward medical occurrence in a subject to whom an investigational medical device is administered and which does not necessarily have a causal relationship with the investigational medical device.\r\n8. Adverse Device Effect (ADE): Adverse event related to the use of an investigational medical device.\r\n9. Subjects may experience the following severe adverse effects:\r\n(1) Death.\r\n(2) Life-threatening condition.\r\n(3) Temporary or permanent disability.\r\n(4) Congenital anomaly of fetus or infant of the subject.\r\n(5) Requiring hospitalization or prolonged hospitalization.\r\n(6) Other complications that may result in permanent injuries.\r\n10. Serious Adverse Device Effect (SADE): Serious adverse effect related to the use of an investigational medical device."
+		},
+		{
+			"number": 300,
+			"content": "Clinical trials shall be conducted in accordance with the following provisions:\r\n1. Comply with the ethical principles of the Declaration of Helsinki;\r\n2. Conform to scientific principles;\r\n3. Adhere to principles of risk minimization to minimize harm to subjects and ensure that risks and benefits are balanced;\r\n4. Obtain approval from the Institutional Review Board (hereinafter “IRB”);\r\n5. Obtain the consent of subjects; and\r\n6. Protect the autonomy and privacy of subjects."
+		},
+		{
+			"number": 400,
+			"content": "The sponsor shall draft a clinical investigation plan and submit it to the IRB and the central competent authority for approval before conducting the clinical trial.\r\nThe investigator and clinical trial institution shall conduct clinical trial in accordance with clinical investigation plan that has been approved in the preceding paragraph."
+		},
+		{
+			"number": 500,
+			"content": "The sponsor shall develop, implement, and manage the clinical trial(s), ensuring the completeness of the data and the rights, safety, and well-being of the subjects."
+		},
+		{
+			"number": 600,
+			"content": "The sponsor shall complete the following preclinical studies for investigational medical device. The preclinical data and clinical evaluation results shall be comprehensive and adequate to justify the proposed clinical trial:\r\n1. Product design,\r\n2. Safety and functionality testing,\r\n3. Risk analysis, and\r\n4. Other necessary preclinical studies."
+		},
+		{
+			"number": 700,
+			"content": "The sponsor shall register the following information of the clinical trial on the webpage designated by the central competent authority within 30 days of obtaining approval referred to Paragraph 1, Article 4:\r\n1. The name of the clinical trial institution,\r\n2. The name of the sponsor,\r\n3. The name of the investigator,\r\n4. The name of the clinical trial,\r\n5. Serial number of the official document certifying the approval of the clinical trial,\r\n6. The date of approval,\r\n7. The purpose of the clinical trial,\r\n8. The inclusion and exclusion criteria,\r\n9. The number of subjects,\r\n10. The name of the investigational medical device,\r\n11. The stages of the clinical trial, and\r\n12. Other items required to be registered.\r\nThe sponsor shall update registration information within 30 days of receiving approval for the amendments.\r\nDuring the clinical trial period, the sponsor shall regularly update the registration information in June and December every year."
+		},
+		{
+			"number": 800,
+			"content": "The sponsor shall prepare the Investigator’s Brochure, clinical investigation plan, informed consent form, case report forms, relevant standard operating procedure (SOP), and other terms and regulations."
+		},
+		{
+			"number": 900,
+			"content": "The sponsor shall be held liable for medical care, compensation for damages and losses, and other legal responsibilities in the event of injury, death, or other losses of the clinical trial subjects.\r\nUnder any of the following circumstances, the sponsor shall be exempted from the compensation liability for damages and losses specified in the preceding paragraph:\r\n1. The subject consent form has listed the possible adverse reactions, side effects, or risks in the clinical trial.\r\n2. The sponsor can prove that the due care in carrying out a medical procedure has been exercised.\r\n3. The sponsor can prove that such harm is not caused by willful act or negligence.\r\nIf the clinical trial is initiated by the investigator, provisions of the preceding two paragraphs shall apply to the clinical trial institution."
+		},
+		{
+			"number": 1000,
+			"content": "Prior to commencement of the clinical trial, the sponsor shall obtain written agreement with the clinical trial institutions and the investigator regarding division of tasks, related expenses, and the principles by which injuries, death, or other losses shall be dealt with if they result from the trial."
+		},
+		{
+			"number": 1100,
+			"content": "The agreement between the sponsor and the contract research organization shall be established in written form. The ultimate responsibility for the quality and integrity of the clinical trial data shall reside with the sponsor."
+		},
+		{
+			"number": 1200,
+			"content": "When planning a multicenter clinical trial, the sponsor shall designate a coordinating investigator from all investigators. The sponsor shall also delegate tasks among the coordinating investigator and other investigators and produce a written record."
+		},
+		{
+			"number": 1300,
+			"content": "The sponsor shall prepare all investigational medical devices and label them as “for clinical trial use only”.\r\nThe development and manufacture of the devices specified in the preceding paragraph shall comply with the requirements of the Regulations Governing Medical Device Quality Management System."
+		},
+		{
+			"number": 1400,
+			"content": "Before the IRB and central competent authority approve the clinical investigation plan in accordance with Paragraph 1, Article 4, the sponsor shall not supply clinical trial institutions and investigators with investigational medical devices."
+		},
+		{
+			"number": 1500,
+			"content": "The sponsor shall produce and maintain documents and records regarding the investigational medical device; the documents and records shall include the date of production, product batch number, and conditions of product delivery, reception, storage, installation, recycle, and disposal."
+		},
+		{
+			"number": 1600,
+			"content": "The sponsor shall notify all clinical trial institutions and investigators of following information and take corresponding responses:\r\n1. Information that affects the safety and soundness of the clinical trial and other critical information affecting the subjects’ rights,\r\n2. Device deficiencies that could have led to adverse effects, and\r\n3. Other key information related to the clinical trial.\r\nThe sponsor shall amend the clinical investigation plan, the Investigator’s Brochure, the informed consent form, and related regulations, if required, and submit the amendments for IRB’s approval for any of the situations specified in the preceding paragraph."
+		},
+		{
+			"number": 1700,
+			"content": "The sponsor shall perform on-site monitoring visits to verify the following items:\r\n1. Investigation site team, laboratories, equipment and other related facilities are adequate, safely, and properly to conduct the clinical trial.\r\n2. The compliance of the clinical trial institutions and investigators with the approved clinical investigation plan, applicable regulatory requirements, and the present Regulations.\r\n3. Subject recruitment progress and the signed and dated informed consent forms have been obtained from each subject.\r\n4. The accurate and completeness of recording of the following items on the case report form and other trial-related records:\r\n4.1 Cover page/login page, page header or footer/identification number of electronic case report form, items of case report form;\r\n4.2 Trial withdrawals, tests that are not conducted, and examinations or follow ups that are not performed,\r\n4.3 Adverse events or other special reactions and their reporting;\r\n5. The appropriateness of provision, usage, maintenance, delivery, reception, storage, and recycle of the investigational medical device;\r\n6. The regular maintenance and calibration of equipment used in the clinical trial; and\r\n7. Confirmation that the investigators and investigation site team have received the most up-to-date documents related to the clinical trial.\r\nThe sponsor may assign external professionals (hereinafter “the monitor”) to perform monitoring activities specified in the preceding paragraph."
+		},
+		{
+			"number": 1800,
+			"content": "The monitor shall submit a written report containing the following information to the sponsor after each site visit:\r\n1. The date and investigation site of the monitoring,\r\n2. The name of the monitor,\r\n3. The name of the investigator,\r\n4. Progress of the clinical trial,\r\n5. Deviations or drawbacks,\r\n6. Evaluation results of the monitoring, and\r\n7. Recommended actions to be secure compliance."
+		},
+		{
+			"number": 1900,
+			"content": "The sponsor shall appoint institutions or staff members who are independent of the clinical trial team and the monitor to conduct audit. The audit shall verify that the clinical trial conduct and compliance with the clinical investigation plan, SOPs, the present Regulations, applicable regulatory requirements, and ethics."
+		},
+		{
+			"number": 2000,
+			"content": "Audit of a clinical trial referred to in the preceding article shall be conducted in accordance with the following provisions:\r\n1. The sponsor shall formulate an audit plan and standard operating regulations in accordance with the importance of the clinical trial, number of subjects, trial type, complexity of the trial, and degree of risk.\r\n2. Comply with the audit plan and standard operating regulations referred to in the preceding paragraph.\r\n3. The auditor’s observations, findings, and conclusions shall be recorded in writing."
+		},
+		{
+			"number": 2100,
+			"content": "The sponsor shall immediately suspend or terminate the clinical trial under any of the following circumstances, and thereafter shall be handled in accordance with Article 64 of the present Regulations:\r\n1. Changing the content of the clinical trial without obtaining approval from the IRB or the central competent authority, as stipulated by applicable regulations;\r\n2. Obvious evidence that the subjects’ rights or safety have been affected;\r\n3. Obvious abnormal frequency or irregular degree of severity of adverse effects;\r\n4. Events that may affect evaluation of the clinical trial results; and\r\n5. Specific facts exists before the completion of the clinical trial proving that the clinical trial has no substantial benefits, higher risks than potential benefits, or substantial benefits that are disadvantageous to the control group."
+		},
+		{
+			"number": 2200,
+			"content": "The sponsor shall maintain all relevant documents of the clinical trial, including all versions of the documents. The preservation period shall be either 3 years after the completion of the clinical trial, or 3 years after the approval of the marketing application of the investigational medical device in accordance with this Act. Whichever date is later shall prevail."
+		},
+		{
+			"number": 2300,
+			"content": "If the clinical trial uses an electronic data processing system, the followings shall be performed:\r\n1. Set the requirements for the system specifications;\r\n2. Ensure that the system complies with the requirements specified per the previous subsection;\r\n3. Ensure the accuracy, completeness, reliability and consistency of inputted data;\r\n4. Ensure the correctness of the reports outputted;\r\n5. Ensure that all data changes are documented, the raw data and previous data revisions cannot be deleted, and that audit trail, data trail, and edit trail are maintained;\r\n6. Maintain the protection system to prevent unauthorized parties from accessing the data;\r\n7. Maintain a list of individuals authorized who have access to the system as well as records regarding their permissions and period of usage;\r\n8. Ensure that the case report form are signed by the investigator or authorized designee;\r\n9. Regularly backup system information; and\r\n10. Train system users regarding proper use of the system."
+		},
+		{
+			"number": 2400,
+			"content": "For clinical trials initiated by an investigator, the Regulations regarding the sponsor should be applicable to the investigator."
+		},
+		{
+			"number": 2500,
+			"content": "Before conducting the clinical trial, the clinical trial institution shall evaluate the characteristics of the investigational medical device as well as the human resources, space, facilities, and equipment of the clinical trial institution for the proper conduct of the clinical trial and produce an evaluation report based on this information."
+		},
+		{
+			"number": 2600,
+			"content": "Prior to conduct the clinical trial, the clinical trial institution shall be reviewed and approved by the IRB of the clinical trial institution of interest, the IRB of another institution, or any other IRB agreed upon by all interested parties."
+		},
+		{
+			"number": 2700,
+			"content": "An investigator shall possess the following qualifications:\r\n1. Being a licensed physician with 5 or more years of experience in clinical treatment. However, according to Paragraph 1, Article 37 of this Act, clinical trials that do not involve significant risks may be conducted by professional medical personnel who hold a medicine-related professional certificate of the specialist category issued by the Competent Authority and have engaged in related practice for 5 years or more.\r\n2. Having received 30 hours of clinical trials related training within the past 6 years, including at least 9 hours of related training courses each for clinical trial of medical devices, and medical ethics.\r\n3. Possessing necessary ability to operate the investigational medical device and related certificates;\r\nIndividuals who have been subject to medical personnel disciplinary action, or whose license have been suspended for more than 1 month or abolished due to any violation of laws and regulations related to clinical trials shall not serve as an investigator specified in the previous paragraph."
+		},
+		{
+			"number": 2800,
+			"content": "The investigator shall strictly conduct the clinical trial in compliance with the clinical investigation plan, except in cases of emergency where necessary measures must be taken.\r\nSuch proviso demands that the investigator state his or her reason within 7 days of completing the treatment and report the event to the IRB and the sponsor for review."
+		},
+		{
+			"number": 2900,
+			"content": "Clinical trial data shall be accurately, completely, and immediately recorded on the case report form. When revisions are made, the content of the revision and the name of the reviser shall be documented, and information regarding the original content shall be retained. The investigator shall sign the case report form and ensure the data correctness."
+		},
+		{
+			"number": 3000,
+			"content": "The clinical trial institution and the investigator shall maintain clinical trial related records, documents, and information for at least 3 years after the completion of the clinical trial. However, in cases where other laws and regulations stipulate a preservation period longer than 3 years, record preservation shall accord with the longer preservation period."
+		},
+		{
+			"number": 3100,
+			"content": "The clinical trial institution and investigator shall appropriately maintain the investigational medical device and ensure that it is only used in the approved clinical trial."
+		},
+		{
+			"number": 3200,
+			"content": "The investigator or his/her authorized designee shall fully inform the subjects of all pertinent aspects of the clinical trial, the contents of the informed consent form, or any known or potential adverse effects. The investigator, or his/her authorized designee, shall ensure the information was well understood, signed and dated by the subject."
+		},
+		{
+			"number": 3300,
+			"content": "The investigator shall record every adverse event or any investigational medical device deficiency."
+		},
+		{
+			"number": 3400,
+			"content": "The clinical trial institution and investigator shall provide adequate medical care to a subject during and after a subject’s participation in a clinical trial in the case of adverse events."
+		},
+		{
+			"number": 3500,
+			"content": "If the clinical trial institution or the investigator discovers that the risks to the subject outweighing the expected benefits, or identifies any factors that may affect the appropriateness of the clinical trial, they shall immediately suspend or terminate the clinical trial and report to the IRB and the sponsor."
+		},
+		{
+			"number": 3600,
+			"content": "The central competent authority may inspect the clinical trial institution and the investigator and demand clinical trial-related information.\r\nThe clinical trial institution and the investigator shall not obstruct, evade, or refuse the aforementioned inspection or demands."
+		},
+		{
+			"number": 3700,
+			"content": "An IRB review of a clinical trial comprises the following items:\r\n1. Application, amendment, termination, or resumption after suspension of a clinical trial,\r\n2. Regular progress reports,\r\n3. Deviation reports,\r\n4. Serious adverse effect reports,\r\n5. Clinical investigation report,\r\n6. Disclosure of conflicts of interest from investigation site team, and\r\n7. Other key items related to the clinical trial.\r\nThe IRB shall audit ongoing clinical trial at least once per year."
+		},
+		{
+			"number": 3800,
+			"content": "Attention shall be directed to the following items in the IRB’s review of the clinical investigation plan:\r\n1. The design and execution of clinical trials must comply with the principles of risk minimization to minimize harm to subjects and ensure that risks and benefits are balanced.\r\n2. Conduction and content of clinical trial comply with scientific principles;\r\n3. Inclusion and exclusion criteria and recruitment methods;\r\n4. Medical care, damage or loss compensation, and other remedy provide to the subjects;\r\n5. Protection of the subjects’ privacy;\r\n6. The content of the informed consent form and the process of obtaining inform consent;\r\n7. The protection of vulnerable populations; and\r\n8. Necessary management measures protecting the safety of the subjects."
+		},
+		{
+			"number": 3900,
+			"content": "Following the review described in Article 37, a decision shall be made in a written form and shall include the following items:\r\n1. Name of the clinical investigation plan;\r\n2. Version number and development date of the clinical investigation plan, informed consent form, case report form, and other clinical trial-related information;\r\n3. The clinical trial institution, investigator, and sponsor;\r\n4. Review results and rationales; and\r\n5. The date upon which the review decision was made."
+		},
+		{
+			"number": 4000,
+			"content": "The IRB shall have at least five members, including law experts and other persons of disinterested community members; more than 2/5 shall not be affiliated with the clinical trial institution; and members of either gender shall not comprise less than 1/3 of the total number of members."
+		},
+		{
+			"number": 4100,
+			"content": "IRB members shall recuse himself/herself in any of the following situations:\r\n1. Being the investigator, coinvestigator, or sponsor of the clinical trial under review;\r\n2. Being, currently or in the past, the spouse, any relative within the fourth degree of relationship or relative by marriage of third degree of relationship of the investigator;\r\n3. Having an employment relationship with the sponsor; and\r\n4. Other situations deemed necessary by the IRB for the avoidance of conflicts of interest."
+		},
+		{
+			"number": 4200,
+			"content": "IRB members who have not participated in IRB reviews and discussions shall not participate in decision-making."
+		},
+		{
+			"number": 4300,
+			"content": "Without valid reasons, IRB members and other individuals who have participated in reviews shall not disclose any confidential they have obtained from performing their duties."
+		},
+		{
+			"number": 4400,
+			"content": "The list of members of IRB and the meeting minutes shall be published."
+		},
+		{
+			"number": 4500,
+			"content": "When conducting the review or inspection referred to in Article 37, the IRB may demand that the investigator or sponsor improve the clinical trial within a given period of time and may suspend or terminate the trial upon identification of any of the following situations:\r\n1. Changing the content of the clinical trial without obtaining approval from the IRB or the central competent authority, as stipulated by applicable regulations;\r\n2. Obvious evidence that the subjects’ rights or safety have been affected;\r\n3. Obvious abnormal frequency or irregular degree of severity of adverse effects;\r\n4. Evidence verifying that the clinical trial is no longer necessary; and\r\n5. The occurrence of other situations that affect evaluations of the trial’s risks and benefits."
+		},
+		{
+			"number": 4600,
+			"content": "After completion of the clinical trial, the IRB shall conduct an investigation and notify to the clinical trial institution and the central competent authority upon identification of any of the following situations:\r\n1. Violations of laws or regulations or noncompliance with the clinical investigation plan,\r\n2. Severe late onset adverse events, and\r\n3. Severe effect on subjects’ rights."
+		},
+		{
+			"number": 4700,
+			"content": "The IRB shall preserve the clinical investigation plan, meeting minutes, inspection records, and other related documents for at least 3 years after clinical trial completion."
+		},
+		{
+			"number": 4800,
+			"content": "The IRB shall not obstruct, evade, impede, or refuse inspections conducted by the central competent authority."
+		},
+		{
+			"number": 4900,
+			"content": "The informed consent form shall be signed and dated by the subject or the subject’s legal representative, assistant, or guardian as well as the investigator or the coinvestigator.\r\nA copy of the aforementioned informed consent form shall be given to the subject."
+		},
+		{
+			"number": 5000,
+			"content": "The subjects of clinical trial shall comprise only adults with disposing capacity. However, the preceding provision does not apply to clinical trial that is apparently beneficial to the health rights of specific populations or patients with special diseases.\r\nWhere a subject described in the proviso of the preceding paragraph has been judicially declared to be of limited capacity or under assistance, consent shall be obtained from both the subject and his/her legal representative or assistant. Where the subject is a person with no disposing capacity, consent shall be obtained from his/her legal representative or guardian. Situations applicable to Paragraph 3, Article 12 of the Human Subjects Research Act can be handled as per the regulation.\r\nWhen the subject is a person with no disposing capacity as described in the previous paragraph, the investigator shall inform subject of clinical trial-related information within his/her ability to understand.\r\nWhen changes occur in a subject’s legal capacity or status of being under assistance, informed consent shall be reobtained."
+		},
+		{
+			"number": 5100,
+			"content": "Paragraph 2, Article 37 in this Act refers to emergency situations where all of the following situations are fulfilled, and where the clinical investigation plan has specified that the clinical trial may be conducted prior to obtaining informed consent form from the subject, or the subject’s legal representative, assistant, or guardian.\r\n1. The subject in a life-threatening emergency situation,\r\n2. No sufficient clinical benefits are anticipated from the currently available treatment,\r\n3. There is a fair possibility that the life-threatening risk to subject can be avoided if the investigational medical device is used,\r\n4. anticipated risks are outweighed by the potential benefits of applying the investigational medical device, and\r\n5. The subject is inability to communicate with, and their legal representative, assistant, or guardian cannot immediately be contacted for consent.\r\nFor situations specified in the previous paragraph, the informed consent from the subject, or the subject’s legal representative, assistant, or guardian shall be obtained as soon as possible. The subject’s relevant information may not be used if the consent has not been obtained."
+		},
+		{
+			"number": 5200,
+			"content": "The subject, or the subject’s legal representative, assistant, or guardian, referred to the previous article may withdraw their consent at any time.\r\nThe clinical trial institution shall continue to provide standard medical care to patients who decline to participate in the trial or who later withdraw their consent, as stated in the preceding paragraph. These individuals’ legitimate right to medical care shall not be infringed upon."
+		},
+		{
+			"number": 5300,
+			"content": "If the subject or the subject’s legally acceptable representative is unable to read the inform consent form and other written information provided to the subject, an independent witness shall be present throughout the entire discussion of informed consent.\r\nThe witness shall read the previously mentioned informed consent form as well as the other written information and witness the investigator or the investigator’s authorized designee providing a comprehensive explanation to the subject or the subject’s legal representative, assistant, or guardian.\r\nThe witness shall ensure that the subject, or the subject’s legal representative, assistant, or guardian, fully understands the clinical trial and the subject’s rights and obligations as well as that their decisions are made according to their free will.\r\nAfter completing the preceding three procedures, the subject; the subject’s legal representative, assistant, or guardian; and the witness shall personally sign and date the informed consent form. Except for the witness, finger print is an acceptable substitute for signature.\r\nMembers of the investigation site team shall not serve as witnesses."
+		},
+		{
+			"number": 5400,
+			"content": "The informed consent form shall include the following information:\r\n1. The name of the sponsor and the clinical trial institution;\r\n2. The name, title, and contact information of the investigator;\r\n3. The purpose and method of the clinical trial;\r\n4. The expected risks and side effects;\r\n5. The expected result of the clinical trial;\r\n6. Other possible therapeutic methods and explanations;\r\n7. The subject’s right to withdraw their consent at any time;\r\n8. Loss compensation, damage compensation, or insurance mechanisms related to the trial;\r\n9. Prohibition against charging the subjects any fees for the clinical trial;\r\n10. That the subject’s information will be kept confidential, and the right of the sponsor, IRB, and central competent authority to examine the information at any time deemed necessary;\r\n11. The preservation and reutilization of the subject’s biological specimen, personal information, and the derivatives; and\r\n12. The domestic registration status or the license status of the investigational medical device."
+		},
+		{
+			"number": 5500,
+			"content": "If the informed consent form is amended in a manner that affects the rights of the subjects, signed and dated informed consent form shall be obtained from the subjects, or from their legal representative, assistant, or guardian before the trial is conducted in accordance with the amended informed consent form."
+		},
+		{
+			"number": 5600,
+			"content": "The sponsor, clinical trial investigator, and other relevant personnel shall not entice subjects to participate in the clinical trial through unjustifiable means such as coercion or monetary incentives.\r\nThe sponsor, clinical trial investigator, and other relevant personnel responsible for payments to the subjects, such as compensation for transportation and nutrition-related expenses, shall be specified in the inform consent form."
+		},
+		{
+			"number": 5700,
+			"content": "The sponsor or clinical trial institution shall not charge subjects for any fees related to the clinical trial."
+		},
+		{
+			"number": 5800,
+			"content": "The clinical trial institution or the sponsor shall submit an application form and the following documents and information for applying for a clinical approval of medical devices:\r\n1. Medical device business permit,\r\n2. Proposal of the clinical investigation plan and its Chinese-language abstract,\r\n3. Informed consent form,\r\n4. Case report form,\r\n5. Qualification certificate of the investigator and the clinical trial institution,\r\n6. Evaluation report specified in Article 25,\r\n7. Information and related documents for compensation available in the event of injury and loss arising from participation in the clinical trial,\r\n8. Investigator’s Brochure, and\r\n9. Preclinical information and instructions of the investigational medical device.\r\nClinical trial applications from clinical trial institutions need not include the document referred to in item 1 of preceding paragraph."
+		},
+		{
+			"number": 5900,
+			"content": "The following items shall be specified in the clinical investigation plan:\r\n1. The title of the clinical trial;\r\n2. The name and address of the sponsor;\r\n3. The name of the clinical trial institution;\r\n4. The name, title, and contact information of the investigator and the coinvestigator;\r\n5. The purpose of clinical trial;\r\n6. Clinical trial design;\r\n7. Basic information about the investigational medical device,\r\n8. Inclusion and exclusion criteria, recruitment method, and number of subjects;\r\n9. Description of the process for obtaining informed consent;\r\n10. Procedures for data-processing;\r\n11. Statistical considerations;\r\n12. Adverse events, adverse device effects, and medical device deficiencies;\r\n13. Procedures for recording, reporting, and analyzing clinical investigation plan deviations; and\r\n14. Criteria and arrangements for suspension or termination of the clinical trial."
+		},
+		{
+			"number": 6000,
+			"content": "The following items shall be specified in the Investigator’s Brochure:\r\n1. General information of the investigational medical device,\r\n2. Preclinical testing data that has been performed on the investigational medical device,\r\n3. The relevant previous clinical trial data of the investigational medical device, and\r\n4. Risk management of the investigational medical device."
+		},
+		{
+			"number": 6100,
+			"content": "In the case of clinical investigation plan amendments, the sponsor shall submit the application form and attach the following documents and information to the central competent authority:\r\n1. Copies of previous official documents verifying approval from the central competent authority,\r\n2. Documents and information from before and after the amendment, and\r\n3. A list of changes in the clinical investigation plan to compare the content before and after the amendment.\r\nThe amendment can only be conducted after approval has been obtained from the Competent Authority."
+		},
+		{
+			"number": 6200,
+			"content": "During the term of clinical trial conduction, the sponsor, investigator, and clinical trial institution shall present status reports of clinical trial to the central competent authority."
+		},
+		{
+			"number": 6300,
+			"content": "After close-out or premature termination of the clinical trial, the sponsor shall produce and submit a clinical investigation report to the central competent authority for recordation."
+		},
+		{
+			"number": 6400,
+			"content": "In cases where a trial is suspended or prematurely terminated in accordance with Articles 21, 35, or 45 of the present Regulations or Article 39 of this Act, the sponsor shall immediately notify the clinical trial institution, the investigator, the IRB, and the central competent authority.\r\nFor clinical trials initiated by the investigator, the notification shall be conducted by the clinical trial institution."
+		},
+		{
+			"number": 6500,
+			"content": "Suspended clinical trials can only be resumed after approval has been obtained from the IRB and the central competent authority."
+		},
+		{
+			"number": 6600,
+			"content": "The sponsor, clinical trial institution, or investigator shall not publish or promote the results of the clinical trial before the final report is approved for reference or before project closure.\r\nThe restrictions on the publishing and promoting of results specified in the preceding paragraph shall not be circumvented by the sponsor, clinical trial institution, or investigator through interviews or reports."
+		},
+		{
+			"number": 6700,
+			"content": "For the clinical trial that do not involve significant risks specified in the Paragraph 1, Article 37 of this Act, the provisions of Articles 58 and 61–64 do not apply; the requirements for approval from the central competent authority as stipulated in Articles 4 and 65 do also not apply."
+		},
+		{
+			"number": 6800,
+			"content": "The investigator shall immediately report to the clinical trial institution, sponsor, and IRB serious adverse events and event that could have led to a serious adverse device effect. The immediate reports shall be followed by detailed, written reports."
+		},
+		{
+			"number": 6900,
+			"content": "In addition to those provided in Article 38 of this Act, the sponsor shall report to the central competent authority about device deficiencies that could have led to a serious adverse device effects.\r\nThe reporting referred to in the preceding paragraph shall be made within 7 days after becoming aware of the actual happening of the occurrence, and detailed investigation information shall be submitted to the central competent authority within 15 days."
+		},
+		{
+			"number": 7000,
+			"content": "The sponsor specified in Article 12 shall inform all investigators in writing of all the serious adverse events at all medical trial institutions that have been reported to sponsor, and ensure that they are reported to their IRBs."
+		},
+		{
+			"number": 7100,
+			"content": "For clinical trials conducted by the sponsor or the clinical trial institution that have been approved in accordance with other regulations governing medical device clinical trials prior to the implementation of the present Regulations, the previous regulations shall prevail."
+		},
+		{
+			"number": 7200,
+			"content": "The present Regulations shall come into force as of May 1, 2021."
+		}
+	]
+}

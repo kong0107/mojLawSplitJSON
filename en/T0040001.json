@@ -1,0 +1,175 @@
+{
+	"pcode": "T0040001",
+	"LawLevel": "法律",
+	"EngLawName": "Statistics Act",
+	"LawName": "統計法",
+	"EngLawModifiedDate": "20180620",
+	"histories": [
+		"Promulgated on October 19, 1932 by the Government; Enforced on May 1, 1934",
+		"Amended & Promulgated on August 20, 1938 by the Government",
+		"Amended & Promulgated on September 29, 1947 by the Government",
+		"Amended & Promulgated on May 26, 1972 by President Order No.Tai-Zong-Yi-Yi-Tzu-872",
+		"Amended & Promulgated on June 20, 2018 by President Order No.Hwa-Zong-Yi-Yi-Tzu-10700065691"
+	],
+	"divisions": [
+		{
+			"type": "chapter",
+			"number": 100,
+			"title": "General Provisions",
+			"start": 100,
+			"end": 600
+		},
+		{
+			"type": "chapter",
+			"number": 200,
+			"title": "Administrative Statistics",
+			"start": 700,
+			"end": 900
+		},
+		{
+			"type": "chapter",
+			"number": 300,
+			"title": "Statistical Surveys",
+			"start": 1000,
+			"end": 1500
+		},
+		{
+			"type": "chapter",
+			"number": 400,
+			"title": "Management of Statistical Data",
+			"start": 1600,
+			"end": 1900
+		},
+		{
+			"type": "chapter",
+			"number": 500,
+			"title": "Supervision of Statistical Affairs",
+			"start": 2000,
+			"end": 2200
+		},
+		{
+			"type": "chapter",
+			"number": 600,
+			"title": "Penal Provisions",
+			"start": 2300,
+			"end": 2500
+		},
+		{
+			"type": "chapter",
+			"number": 700,
+			"title": "Supplementary Provisions",
+			"start": 2600,
+			"end": 2700
+		}
+	],
+	"articles": [
+		{
+			"number": 100,
+			"content": "This Act is enacted to enhance the efficient operation of government statistics, ensure the objectivity and independence of government statistics, and maintain the quality of government statistics."
+		},
+		{
+			"number": 200,
+			"content": "The statistical affairs of government shall be carried out in accordance with this Act. However, the Act is not applicable to the statistics which are specifically collected and compiled for the survey of intentionality and academic research by any agency."
+		},
+		{
+			"number": 300,
+			"content": "The terms used in this Act are defined as follows:\r\n1. Government agencies: all levels of government agencies (organizations), public schools and public enterprises.\r\n2. BAS (Budget, Accounting and Statistics) Agencies at all levels of government: the Central BAS Agency in the central government, the departments of BAS in the special municipal governments, the departments of BAS in the counties (cities) governments, the BAS offices or the BAS personnel in the townships(cities) offices, or in the mountain indigenous districts of special municipalities.\r\n3. Administrative statistics: the statistics obtained from processes and results of the official duties that are carried out by government agencies.\r\n4. Statistical survey: the survey on individuals, households, business entities, agencies, or groups held by the government agencies for the statistical purpose and operational requirements, including the Basic National Census and Survey,Designated Statistical Survey and General Statistical Survey.\r\n5. The Basic National Census and Survey: the census and survey of the national population, land, resource, economy, society, and other categories that may represent the basic conditions of entire nation.\r\n6. Designated Statistical Survey: the survey published by the Central BAS Agency as required for critical statistics or significant policy of the government. The requirement of critical statistics or significant policy of the government means the fundamental data as necessary reference for formulating the policies, statistics recommended by international organizations, or critical for international comparison, or other statistical surveys recognized by the Central BAS Agency.\r\n7. General Statistical Survey: the statistical survey conducted by the government agency other than the Basic National Census and Survey and Designated Statistical Survey.\r\n8. The party: the person identified in the personal information; the household member responding on behalf of the entire household identified in the household information; the responsible person, representative, or administrator identified in the business entity, agency, or group information."
+		},
+		{
+			"number": 400,
+			"content": "The government shall collect and compile the statistics as follows:\r\n1.The statistics of the the Basic National Census and Survey.\r\n2.The statistics of official duties performed by the government agencies\r\n3.Other statistics that government agencies deem necessary to be collected and compiled.\r\nThe data sources of the preceding paragraph are as follows:\r\n1.Administrative records or reports.\r\n2.Statistical surveys.\r\n3.Relevant data of other agencies or groups."
+		},
+		{
+			"number": 500,
+			"content": "Government statistics shall be collected and compiled by the competent government agency, or in accordance with the rules as follows:\r\n1.The Basic National Census and Survey shall be conducted by the Central BAS Agency.\r\n2.Government statistics not exclusively related to any government agency shall be collected and compiled by the relevant government agency (organization) based on the coordination by the BAS Agencies at all levels of government.\r\nThe central government may commission the local government to conduct the statistical survey."
+		},
+		{
+			"number": 600,
+			"content": "The Central BAS Agency shall draft the scheme on the division of the scope of statistics between all levels of government and the central government agencies, and submit the scheme to the Executive Yuan for approval.\r\nAny amendment to the scheme in preceding paragraph that does not affect the basic principles may be implemented directly by the Central BAS Agency after consulting with relevant government agencies.\r\nAccording to the scheme in the paragraph 1, the BAS Agencies in local government may divide the scope of statistics between their government agencies and subordinate agencies."
+		},
+		{
+			"number": 700,
+			"content": "The government agencies shall fully use the data in subparagraph 1, paragraph 2, Article 4 to compile the administrative statistics."
+		},
+		{
+			"number": 800,
+			"content": "The compilation for administrative statistics shall be jointly carried out by the BAS units in charge of statistical affairs and related persons in other units of the government agencies."
+		},
+		{
+			"number": 900,
+			"content": "The government agencies shall formulate the administrative statistics scheme according to the nature and the needs of their official duties within the scope of statistics confined by the scheme in Article 6."
+		},
+		{
+			"number": 1000,
+			"content": "The Central BAS Agency shall conduct the Basic National Census and Surveys, including the Population and Housing Census at least once every ten years, the Agriculture, Forestry, Fishery and Animal Husbandry Census and the Industry and Service Census at least once every five years."
+		},
+		{
+			"number": 1100,
+			"content": "The Central BAS Agency shall draft the survey scheme for conducting the Basic National Census and Survey and submit it to the Executive Yuan for approval. All levels of government may set up a provisional unit for cooperation.\r\nThe Central BAS Agency may request relevant agencies to provide necessary assistance or officer on secondment as required under its supervision and direction for the preceding survey."
+		},
+		{
+			"number": 1200,
+			"content": "The government agencies shall only conduct the Designated Statistical Survey or General Statistical Survey that are directly related to their duties and as a matter of urgency; no surveys shall be conducted under any of the following circumstances:\r\n1. The information required can be obtained from the data under subparagraph 1, paragraph 2, Article 4\r\n2. The survey can be incorporated with other similar surveys."
+		},
+		{
+			"number": 1300,
+			"content": "The government agencies shall draft the survey implementation programs before conducting Designated Statistical Survey or General Statistical Survey on the civilians that reach or above the certain sample size specified by the Central BAS Agency, and do as follows:\r\n1. The Designated Statistical Survey shall be approved by the Central BAS Agency.\r\n2. The General Statistical Survey shall be approved by the Central BAS Agency in the central government; or approved by the department of BAS in the special municipal government and in the county /city government, and then submit to the Central BAS Agency for recordation.\r\nThe conducting agency shall mark the approval number on the statistical survey questionnaire under the preceding paragraph.\r\nAny modification or suspension of the approved statistical survey implementation program shall be submitted for approval pursuant to paragraph 1; the approving agency or the Central BAS Agency may request the conducting agency to modify the survey implementation program or suspense an approved statistical survey."
+		},
+		{
+			"number": 1400,
+			"content": "While investigate, the enumerators shall present the certificate for identification and shall actively inform the respondents the ways of verification and give opportunities for verification as well.\r\nThe preceding enumerators shall not collect unauthorized information in the guise of performing duties.\r\nIt is prohibited for anyone to evade, obstruct or refuse the enumerators conducting the Basic National Census and Survey or Designated Statistical Survey."
+		},
+		{
+			"number": 1500,
+			"content": "The respondent of the statistical survey, whether an individual, a household, a business entity, an agency or a group , has the duty to provide truthful information in due time."
+		},
+		{
+			"number": 1600,
+			"content": "The statistics released by government agencies shall be confined to the associated scope with their competent official duties.\r\nThe government agencies shall announce the statistics release calendar in advance, which can not be changed except for critical events. The related regulations shall be formulated by the Central BAS Agency."
+		},
+		{
+			"number": 1700,
+			"content": "In order to fully utilize the administrative data-processing (ADP) system to conduct government statistics, the government agencies shall consult with the BAS units in charge of statistical affairs regarding their statistical requirements when constructing or modifying ADP system.\r\nIf constructing or modifying an ADP system involves the affairs of local governments, the central government agencies shall consult with the BAS agencies and relevant agencies of the local government regarding their statistical requirements.\r\nFor overall needs of statistics, the BAS agencies at all levels of government may request their government agencies and subordinate agencies to cooperate on adding or modifying the data categories or relevant functions in the ADP system."
+		},
+		{
+			"number": 1800,
+			"content": "The BAS Agencies at all levels of government, and the first-level BAS Agencies in charge of statistical affairs in the central government may request their government agencies and subordinate agencies to provide the data in subparagraphs 1 and 2, paragraph 2, Article 4 for the statistical purpose or for the intention to reduce the burden on the respondents, except for the data provision prohibited according to the Classified National Security Information Protection Act and other specified laws or regulations."
+		},
+		{
+			"number": 1900,
+			"content": "The government agencies shall properly keep, and fully use the statistical documents and data to carry out the official duties.\r\nThe documents and data in the preceding paragraph, if referring to individual information obtained through statistical surveys, shall be kept confidentially and not be used for any purpose other than statistics, unless the respondent has given a written consent during the implementation of that statistical survey."
+		},
+		{
+			"number": 2000,
+			"content": "The BAS Agencies at all levels of government shall carry out the statistical affairs under the supervision and direction of the BAS Agency of superior government.\r\nThe BAS units in charge of statistical affairs of the government agencies shall carry out the statistical affairs under the supervision and direction of the superior BAS units in charge of statistical affairs, or the BAS Agencies of their government."
+		},
+		{
+			"number": 2100,
+			"content": "Any different opinions on statistical affairs between the chief statistician and the chief officer shall be dealt with by the chief officer and chief statistician of the superior government agency."
+		},
+		{
+			"number": 2200,
+			"content": "The BAS agencies at all levels of government may audit and re-examine the statistical affairs of the subordinate agencies of their government.\r\nThe Central BAS Agency may audit and re-examine the statistical affairs of the local governments."
+		},
+		{
+			"number": 2300,
+			"content": "Anyone who violates paragraph 3, Article 14 by evading, obstructing or refusing the enumerators who carried out the Basic National Census and Survey or Designated Statistical Survey, despite the making efforts of persuasion, shall be dealt with in accordance with the Administrative Execution Act."
+		},
+		{
+			"number": 2400,
+			"content": "Any respondent of the Basic National Census and Survey or Designated Statistical Survey violates Article 15, after being persuaded and still fails to respond in due time or give false answers, shall be dealt with the matter in accordance with the Administrative Execution Act."
+		},
+		{
+			"number": 2500,
+			"content": "Any statistical staff of the government agency in violation of paragraph 2, Article 14, or Article 19 shall be dealt with the matter in accordance with the relevant laws."
+		},
+		{
+			"number": 2600,
+			"content": "The enforcement rules of this Act shall be prescribed by the Central BAS Agency."
+		},
+		{
+			"number": 2700,
+			"content": "This Act shall come into force from the date of promulgation."
+		}
+	]
+}

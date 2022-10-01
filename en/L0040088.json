@@ -1,0 +1,27 @@
+{
+	"pcode": "L0040088",
+	"LawLevel": "命令",
+	"EngLawName": "Sanitation Standard for Aquatic Animal",
+	"LawName": "水產動物類衛生標準",
+	"EngLawModifiedDate": "20190815",
+	"discarded": true,
+	"histories": [
+		"DOH Food No. 0980462399 Announced, 11/30/2009",
+		"DOH Food No. 1021350146, 8/20/2013",
+		"Abolished on August 15, 2019"
+	],
+	"articles": [
+		{
+			"number": 100,
+			"content": "This Standard is prescribed in accordance with the provisions of Article 17 of the Act Governing Food Sanitation."
+		},
+		{
+			"number": 200,
+			"content": "Maximum tolerance of heavy metalsin edibleparts: (wet weight basis)\r\n┌────────────┬───────┬────┬────┐\r\n│        ＼  Heavymetal  │Methyl mercury│Cadmium │Lead    │\r\n│Category  ＼            │              │        │        │\r\n├────────────┼───────┼────┼────┤\r\n│whale, shark, swordfish,│2\tppm       │0.3\tppm │0.3 ppm │\r\n│tuna, oilfish.          │              │        │        │\r\n├────────────┼───────┤        │\t      │\r\n│grenadier, plain bonito,│1\tppm       │        │\t      │\r\n│pandora, atlantic       │              │        │\t      │\r\n│catfish, anglerfish, red│              │        │        │\r\n│seabream, megrim,       │              │        │        │\r\n│mullet, rays, scabbard  │              │        │        │\r\n│fish, red seabream,     │              │        │        │\r\n│snack mackerel,         │              │        │        │\r\n│butterfish, sturgeon,   │              │        │        │\r\n│spotted butter fish,    │              │        │        │\r\n│eel, pike.              │              │        │        │\r\n├────────────┼───────┤        │        │\r\n│other fish              │0.5\tppm       │        │        │\r\n├────────────┼───────┼────┼────┤\r\n│shellfish               │0.5\tppm       │2\tppm │2\tppm   │\r\n├────────────┼───────┼────┼────┤\r\n│Cephalopod (except      │0.5\tppm       │2\tppm │1\tppm   │\r\n│organ)                  │              │        │        │\r\n├────────────┼───────┼────┼────┤\r\n│Crustaceans             │0.5\tppm       │0.5\tppm │0.5 ppm │\r\n└────────────┴───────┴────┴────┘"
+		},
+		{
+			"number": 300,
+			"content": "This Standard shall be implemented from the date of promulgation."
+		}
+	]
+}

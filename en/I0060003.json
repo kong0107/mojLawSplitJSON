@@ -1,0 +1,222 @@
+{
+	"pcode": "I0060003",
+	"LawLevel": "法律",
+	"EngLawName": "The Classified National Security Information Protection Act",
+	"LawName": "國家機密保護法",
+	"EngLawModifiedDate": "20200610",
+	"histories": [
+		"Date：February 06,2003 (Announced)",
+		"Presidential Order Hua-Zong-I-Yi-Zi No. 10800048591 dated May 10 2019 for the promulgation of Articles 26, 32~34, scheduled for enactment on May 12 2019 under Executive Yuan Order Yuan-Tai-Fa-Zi. No. 1080175632 dated May 10 2019.",
+		"Presidential Order Hua-Zong-I-Yi-Zi No. 10900064831 dated June 10 2020 for the promulgation of Articles 24, scheduled for enactment on July 17 2020 under Executive Yuan Order Yuan-Tai-Fa-Zi. No. 1090094235 dated July 13 2020."
+	],
+	"divisions": [
+		{
+			"type": "chapter",
+			"number": 100,
+			"title": "General Principle",
+			"start": 100,
+			"end": 600
+		},
+		{
+			"type": "chapter",
+			"number": 200,
+			"title": "Classification and Declassification Authority",
+			"start": 700,
+			"end": 1200
+		},
+		{
+			"type": "chapter",
+			"number": 300,
+			"title": "Safeguarding",
+			"start": 1300,
+			"end": 2600
+		},
+		{
+			"type": "chapter",
+			"number": 400,
+			"title": "Declassification",
+			"start": 2700,
+			"end": 3100
+		},
+		{
+			"type": "chapter",
+			"number": 500,
+			"title": "Penal Provisions",
+			"start": 3200,
+			"end": 3800
+		},
+		{
+			"type": "chapter",
+			"number": 600,
+			"title": "Supplementary Provisions",
+			"start": 3900,
+			"end": 4100
+		}
+	],
+	"articles": [
+		{
+			"number": 100,
+			"content": "The Classified National Security Information Protection Act are enacted to establish the classified national security information protection system for the purpose of safeguarding the national security and national interest."
+		},
+		{
+			"number": 200,
+			"content": "The term \"classified national security information\" referred to in this Act means information that is owned by, or under the control of the Government of the Republic of China and that has been determined pursuant to this Act to require protection against unauthorized disclosure, and that is so designated according to its level of classification for the purpose of safeguarding the national security or national interest."
+		},
+		{
+			"number": 300,
+			"content": "The term \"agency\" referred to in this Act means all levels of agencies in the Central Government or local government and their subordinated organizations and civilian groups or individuals ordered by Act or commissioned to perform the official duties."
+		},
+		{
+			"number": 400,
+			"content": "Information may be classified in one of the three designations listed below:\r\n(1) Top Secret -- shall be applied only to information, the unauthorized disclosure of which reasonably could be expected to cause exceptionally grave damage to the national security.\r\n(2) Secret -- shall be applied only to information, the unauthorized disclosure of which reasonably could be expected to cause serious damage to the national security.\r\n(3) Confidential -- shall be applied to information, the unauthorized disclosure of which reasonably could be expected to cause identifiable damage to the national security."
+		},
+		{
+			"number": 500,
+			"content": "Classification of information shall be held absolute minimum.\r\nIn no case shall information be classified in order to:\r\n(1)conceal violations of law or administrative error;\r\n(2)restrain competition;\r\n(3)prevent embarrassment to a person, corporate entity, organization, or agency; or\r\n(4) prevent or delay the public release of information that does not require protection in the interest of the national security."
+		},
+		{
+			"number": 600,
+			"content": "When an employee of an agency that does not have original classification authority originates information believed to require classification, the information shall be protected in the manner prescribed by this Act and the Enforcement Rules. The information shall be transmitted promptly under appropriate safeguards to the agency which has appropriate subject matter interest and classification authority. That agency shall decide within 30 days whether to classify that information."
+		},
+		{
+			"number": 700,
+			"content": "The authority for original classification is prescribed as follows:\r\n(1)Authority for original classification of information as Top Secret may be exercised personally on a document-by-document basis only by the following persons:\r\na. the President, the Prime Minister of the Executive Yuan or the Ministers authorized by the President or the Prime Minister of the Executive Yuan;\r\nb. when our country is at war, a troops commander or an official authorized by the Minister who has a ranking higher than the lieutenant general.\r\n(2)Authority for original classification of information as Secret may be exercised personally on a document-by-document basis only by the following persons:\r\na. all persons listed in the preceding subparagraph or any officials to whom such authority is delegated.\r\nb. the Minister of the Legislative Yuan, the Minister of the Judicial Yuan, the Minister of the Examination Yuan, and the Minister of the Control Yuan.\r\nc. the General Secretary of the National Security Council and the Director of the National Security Bureau.\r\nd. the Minister of the National Defense, the Minister of the Foreign Affairs, the Commissioner of the Mainland Affairs Council of the Executive Yuan, or any officials to whom such authority is delegated.\r\ne. when our country is at war, a troops commander or an official authorized by the Minister who has a ranking higher than the major general.\r\n(3) Authority for original classification of information as Confidential may be exercised personally on a document-by-document basis only by the following persons:\r\na. all persons listed in the preceding two subparagraphs and any officials to whom such authority is delegated;\r\nb. all department heads in the Central Government and the equivalent rank of agency heads of division, bureau and office;\r\nc. the diplomatic agency heads in extraterritorial jurisdiction; any officials to whom such authority is delegated by the superior agency if there is no diplomatic agency heads in extraterritorial jurisdiction;\r\nd. when our country is at war, a troops commander or an official authorized by the Minister who has a ranking higher than the lieutenant colonel.\r\nIf any person listed in the preceding three subparagraphs is unable to exercise his or her duty of original classification, the original classification authority will be exercise by his or her official representative."
+		},
+		{
+			"number": 800,
+			"content": "In making a classification, the original classification authority shall also evaluate the need to classify other relevant source materials and drafts of classified information as well."
+		},
+		{
+			"number": 900,
+			"content": "If information which are related to other agencies fall into one of the three classification designations, these relevant agencies shall be consulted before final classification."
+		},
+		{
+			"number": 1000,
+			"content": "Classified information may be declassified or downgraded by the official who authorized the original classification or by the superior official based on his or her authority or upon application. Notice of declassification or downgrading shall be provided to the relevant agencies.\r\nAny individual or group seeking to declassify or downgrade classified information by filing an application prescribed in the preceding paragraph is confined to those individuals or groups whose rights and legal interest are injured or likely to be injured resulting from the classification.\r\nIf an application submitted pursuant to the first paragraph of this Article is denied by the original classification authority, the applicant may petition for administrative relief pursuant to the Act."
+		},
+		{
+			"number": 1100,
+			"content": "At the time of the original classification, each original classification authority shall set a date or event for automatic declassification.\r\nThe declassification date for Top Secret information shall be no more than thirty years after original classification. The declassification date for Secret information shall be no more than twenty years after original classification. The declassification date for Confidential information shall be no more than ten years after original classification.\r\nIf it is necessary to prolong the classification or change the event of declassification, the original classification authority shall submit the matter to the superior agency for determination. The prolonged classification duration shall not exceed the original classification duration.\r\nClassification can only be prolonged two times. Classified information shall be released and make available to the public within 30 years. If there is a special circumstance requiring information to be protected beyond 30 years, an approval of prolonged classification shall be obtained from the Legislative Yuan."
+		},
+		{
+			"number": 1200,
+			"content": "Any national security information involving intelligence lawivities, sources or access shall remain classified permanently. The provisions set forth in the preceding paragraph and Article 22 of the Official Files Act are not applicable to such classified information.\r\nThe classification authority for information involving intelligence lawivities, sources or access prescribed in the preceding paragraph shall be exercised in accordance with the provisions set forth in Article 7 of this Act."
+		},
+		{
+			"number": 1300,
+			"content": "All classified information shall be marked conspicuously to put users on notice of its current classification status and the date or event for declassification."
+		},
+		{
+			"number": 1400,
+			"content": "Except the person who handles the information within his or her scope of official duty, classified information cannot only be known, possessed or used without a written authorization or approval from the original classification authority or its superior agency."
+		},
+		{
+			"number": 1500,
+			"content": "Controls shall be established by each agency to ensure that classified information is used, processed, stored, reproduced, and transmitted only under conditions that will provide adequate protection and prevent access by unauthorized persons. When a emergency occurs or classified information is disclosed, the person handles the above-stated translawion shall immediately notify the agency official and properly protect classified information with necessary measures.\r\nClassified information may not be destroyed pursuant to the Act without proper declassification.\r\nTop Secret information may not be reproduced."
+		},
+		{
+			"number": 1600,
+			"content": "When the only way to protect classified information is by means of destruction in case of emergency including war, riot or rebellion, the head of the possessing agency or its authorized official shall destroy such information and report to its superior agency."
+		},
+		{
+			"number": 1700,
+			"content": "When different classified information are jointly used or processed, the more restrictive classification designation should be used."
+		},
+		{
+			"number": 1800,
+			"content": "All reproduced classified information shall be marked conspicuously its classification status and the date or event for declassification as the original documents. Reproduced copies of classified documents shall be clearly marked and numbered. All original classified information shall be marked conspicuously to show the number of reproduced copies and the place of storage.\r\nReproduced copies of classified documents are subject to the same accountability and controls as the original documents in accordance with this Act.\r\nReproduced classified information which is no longer needed for use, shall be destroyed immediately."
+		},
+		{
+			"number": 1900,
+			"content": "Controls shall be established by each agency to ensure that the storage place or area of classified information is accessed only under conditions that will provide adequate protection and prevent access by unauthorized persons with necessary measures."
+		},
+		{
+			"number": 2000,
+			"content": "Agencies which originate or process classified information shall designate an official to conduct an lawive oversight program to ensure effective protection of classified information against unauthorized disclosure."
+		},
+		{
+			"number": 2100,
+			"content": "An agency shall not use classified information without obtaining an approval from the original classification authority."
+		},
+		{
+			"number": 2200,
+			"content": "The Legislative Yuan shall not provide or reply any classified information during legislative process unless such information is properly declassified. However, if the legislative process is conducted at the closed meeting or in camera, classified information involved may be provided for in camera inspection or replied in a designated place.\r\nThe rules governing the provision and reply referred to in the preceding paragraph shall be enacted by the Legislative Yuan."
+		},
+		{
+			"number": 2300,
+			"content": "When classified information is provided, replied or stated in accordance with the provisions set forth in the preceding two Articles or other Acts, each classified document shall indicate clearly which portions are classified with the applicable classification designation."
+		},
+		{
+			"number": 2400,
+			"content": "When classified information is provided, replied or stated by one agency to other agencies or their officials, it shall be restricted to the officials processing such information to know, possess, or to use the information.\r\nWhen classified information is provided, replied or stated by the Control Yuan, all levels of courts, the Disciplinary Court, the prosecuting agencies and martial agencies to other agencies or their officials, a separate safeguarding rules shall be enacted pursuant to this Act respectively by the Control Yuan, the Judicial Yuan, the Department of Justice and the Department of National Defense, within six months after this Act is promulgated."
+		},
+		{
+			"number": 2500,
+			"content": "Any legal proceeding accepted by the prosecution and the court shall not be adjudicated in public if classified information is involved.\r\nThe prosecutor or judge may, in accordance with his or her authority or upon motions, deny or restrict the scope of confrontation or examination if classified information is likely to be disclosed during the confrontation or examination process."
+		},
+		{
+			"number": 2600,
+			"content": "To depart from this country, the following personnel shall be subject to the approval of the head of the (original) institution employing the personnel or the entrusted institution, or the authorized personnel of the head of the institution:\r\nI. Personnel who may approve classified national security information.\r\nII. Personnel engaged in handling classified national security information and related matters.\r\nIII. Personnel who were discharged from the duties as mentioned in the previous 2 sub-paragraphs or who have handled over classified national security information for less than 3 years.\r\nThe duration as mentioned in sub-paragraph III of the previous paragraph may be extended by the classified national security information approval institution where necessary. The period of extension shall not exceed 3 years and only one extension is permitted unless the situations as prescribed in Paragraph 1 in Article 12 are applicable."
+		},
+		{
+			"number": 2700,
+			"content": "Upon reaching the date of declassification, classified information shall be automatically declassified.\r\nEven when a declassification event has not occurred before the duration of classification expires, the declassification event will be treated as occurred upon reaching the date of declassification and such information is thus automatically declassified."
+		},
+		{
+			"number": 2800,
+			"content": "Except as provided in the second paragraph of the preceding Article, classified information may be declassified by the official who authorized the original classification or his or her superior official on the occurrence of a declassification event."
+		},
+		{
+			"number": 2900,
+			"content": "Classified information may be declassified by the official who authorized the original classification or his or her superior official based on the loss of the information's sensitivity even when the declassification event has not occurred or the duration of classification has not expired."
+		},
+		{
+			"number": 3000,
+			"content": "When information which are related to other agencies meet declassification requirements, these relevant agencies shall be consulted before final declassification."
+		},
+		{
+			"number": 3100,
+			"content": "After information is declassified, the original declassification authority shall publish the reason for declassification and notify the relevant agencies.\r\nAll original and reproduced classified information shall be marked conspicuously to put users on notice of its current declassification status and necessary declassifying measures."
+		},
+		{
+			"number": 3200,
+			"content": "Disclosing or delivering of classified national security information as approved by this law shall be imprisoned from 1 to 7 years.\r\nThose who divulge or deliver classified national security information as mentioned in the previous paragraph to a foreign country, Mainland China, Hong Kong, Macao, foreign hostile power, or their appointees shall be imprisoned from 3 to 10 years.\r\nThose who violate the offense as prescribed in the preceding 2 paragraphs due to negligence shall be imprisoned not more than 2 years, jailed, or fine, or a combination of a fine up to NT$200,000.\r\nAn attempt to commit an offense specified in the first and the second paragraphs shall be liable to punishment of the attempted offense.\r\nThose who prepare or conspire to commit offenses as prescribed in the first or the second paragraph shall be imprisoned not more than 2 years.\r\nIf commitment of the aforementioned 5 types of offenses involved the divulging or delivering of classified national security information, the penalty will be intensified by one-half of the punishment."
+		},
+		{
+			"number": 3300,
+			"content": "Disclosing or delivering of classified national security information petitioned for approval as classified national security information under Article 6 shall be imprisoned not more than 5 years.\r\nDisclosing or delivering of classified national security information petitioned for approval as classified national security information under Article 6 to a foreign country, Mainland China, Hong Kong, Macao, foreign hostile power, or their appointees shall be imprisoned from 1 to 7 years.\r\nThose who violate the offense as prescribed in the preceding 2 paragraphs due to negligence shall be imprisoned not more than 1 year, jailed, or fine, or a combination of a fine up to NT$100,000.\r\nAn attempt to commit an offense specified in the two preceding paragraphs is punishable.\r\nThose who prepare or conspire to commit offenses as prescribed in the first or the second paragraph shall be imprisoned not more than 1 year.\r\nIf commitment of the aforementioned 5 types of offenses involving the disclosing or delivery of classified national security information, the penalty will be intensified by one-half of the punishment."
+		},
+		{
+			"number": 3400,
+			"content": "Spying or collecting of classified national security information approved under this law shall be imprisoned not more than 5 years.\r\nSpying or collecting of classified national security information approved under Article 6 shall be imprisoned not more than 3 years.\r\nSpying or collecting of classified national security information for a foreign country, Mainland China, Hong Kong, Macao, foreign hostile power, or their appointees shall be imprisoned from 1 to 7 years.\r\nAn attempt to commit an offense specified in the preceding three paragraphs shall be punishable.\r\nThose who prepare or conspire to commit offenses as prescribed in the first, second, or third paragraphs shall be imprisoned not more than 1 year.\r\nIf commitment of the aforementioned 5 types of offenses involving the spying or collecting of classified national security information, the penalty will be intensified by one-half of the punishment."
+		},
+		{
+			"number": 3500,
+			"content": "Whoever destroys, damages or conceals information properly classified under this Act, making such information unavailable, shall be imprisoned not more than five years, in addition thereto, be fined not more than NT$100,000.\r\nWhoever negligently destroys, damages or loses information properly classified under this Act, making such information unavailable, shall be imprisoned not more than one year, be jailed, or be fined not more than NT$100,000."
+		},
+		{
+			"number": 3600,
+			"content": "Whoever departs the country without an approval or goes to other counties without permission, in violation of the provisions set forth in Article 26, Paragraph 1 of this Act, shall be imprisoned not more than two years, be jailed, or be fined not more than NT$200,000, or both."
+		},
+		{
+			"number": 3700,
+			"content": "If there are provisions set forth in other Acts which provide more severe punishment for the offense sanctioned under this Act, those provisions set forth in other Acts govern."
+		},
+		{
+			"number": 3800,
+			"content": "Any civil servant who violates the provisions set forth in this Act, shall be disciplined or punished under the Act in accordance with the severity of the violation."
+		},
+		{
+			"number": 3900,
+			"content": "Information previously classified under other Act before this Act comes into effect, shall be reclassified under this Act at the time this Act has come into effect for two years."
+		},
+		{
+			"number": 4000,
+			"content": "The Enforcement Rules of this Act shall be enacted by the Executive Yuan."
+		},
+		{
+			"number": 4100,
+			"content": "The effective date of this Act shall be set by the Executive Yuan."
+		}
+	]
+}

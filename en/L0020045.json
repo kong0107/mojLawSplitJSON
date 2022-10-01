@@ -1,0 +1,315 @@
+{
+	"pcode": "L0020045",
+	"LawLevel": "法律",
+	"EngLawName": "Emergency Medical Services Act",
+	"LawName": "緊急醫療救護法",
+	"EngLawModifiedDate": "20130116",
+	"histories": [
+		"Formulated and promulgated in 55 articles under Presidential Decree (84) Hua Tsung (1) Yi Tzu No. 5893 on August 9th, 1995",
+		"Articles 4, 5, 8~11, 15, 20, 24, 30, 31, 41, 52 amended and promulgated under Presidential Decree (89) Hua Tsung (1) Yi Tzu No. 8900031580 on February 9th, 2000",
+		"Articles 15, 41, 48~50 amended and Articles 48-1, 53-1 added, all with promulgation under Presidential Decree (91) Hua Tsung (1) Yi Tzu No. 09100017030 on January 30th, 2002",
+		"Article 6 amended and Article 22-1 added, all with promulgation under Presidential Decree Hua Tsung (1) Yi Tzu No. 09400016861 on February 5th, 2005",
+		"Amended and promulgated in 58 articles under Presidential Decree Hua Tsung (1) Yi Tzu No. 09600089581 on July 11th, 2007",
+		"Articles 3, 5, 8, 12, 17, 22, 24, 25, 30, 32 and 33 amended and promulgated, and Articles 14-1 and 14-2 added under Presidential Decree Hua Tsung (1) Yi Tzu No. 10200003971 on January 16, 2013."
+	],
+	"divisions": [
+		{
+			"type": "chapter",
+			"number": 100,
+			"title": "General Provisions",
+			"start": 100,
+			"end": 400
+		},
+		{
+			"type": "chapter",
+			"number": 200,
+			"title": "Emergency Medical Services System",
+			"start": 500,
+			"end": 1402
+		},
+		{
+			"type": "chapter",
+			"number": 300,
+			"title": "Rescue Transportation Means",
+			"start": 1500,
+			"end": 2300
+		},
+		{
+			"type": "chapter",
+			"number": 400,
+			"title": "Rescue Technicians",
+			"start": 2400,
+			"end": 2800
+		},
+		{
+			"type": "chapter",
+			"number": 500,
+			"title": "Rescue Services",
+			"start": 2900,
+			"end": 3500
+		},
+		{
+			"type": "chapter",
+			"number": 600,
+			"title": "Hospital Emergency Medical Services",
+			"start": 3600,
+			"end": 4000
+		},
+		{
+			"type": "chapter",
+			"number": 700,
+			"title": "Penalties",
+			"start": 4100,
+			"end": 5200
+		},
+		{
+			"type": "chapter",
+			"number": 800,
+			"title": "Supplementary Provisions",
+			"start": 5300,
+			"end": 5800
+		}
+	],
+	"articles": [
+		{
+			"number": 100,
+			"content": "This Act is specifically formulated to ensure the sound development of emergency medical services system, promote the qualities of emergency medical services, and secure life and health of the injured and ill patients in emergency."
+		},
+		{
+			"number": 200,
+			"content": "The competent health authorities mentioned in this Act are the Department of Health, the Executive Yuan at the central level, the municipality governments at the municipality level, and county (city) governments at the county (city) level.\r\nThe competent fire-fighting authorities mentioned in this Act are the Ministry of the Interior at the central level, the municipality governments at the municipality level, and county (city) governments at the county (city) level."
+		},
+		{
+			"number": 300,
+			"content": "Emergency medical services mentioned in this Act include the following matters:\r\n1. On-site emergency rescue and medical treatment for injured or ill patients in emergencies, mass casualty events or in the wilderness areas;\r\n2. Emergency rescue en route to hospital;\r\n3. Referral of severely injured patients or critically ill patients on offshore islands or remote areas that are difficult to treat;\r\n4. Emergency medical care at medical care institutions."
+		},
+		{
+			"number": 400,
+			"content": "The emergency medical services personnel (hereinafter referred to as care personnel) refer to physicians, nursing personnel, and rescue technicians."
+		},
+		{
+			"number": 500,
+			"content": "In order to promote the balanced development of emergency medical services facilities and manpower, the central competent health authority shall, in collaboration with the central competent fire-fighting authority, demarcate the emergency medical services regions and formulate a national emergency medical services plan. Emergency medical services in the wilderness areas shall also be included in the plan.\r\nThe central competent health authority shall establish coordination and command systems in emergency medical services regions in order to integrate emergency medical service resources and consolidate emergency response mechanisms and shall announce statistical reports annually pertaining to the quality of emergency medical services."
+		},
+		{
+			"number": 600,
+			"content": "Municipality and county (city) governments shall formulate implementation plans for emergency medical services and implement matters concerning emergency medical services in accordance with the emergency medical service resources available under its respective jurisdiction, and in coordination with the national emergency medical services plan mentioned in Paragraph 1 of the preceding Article."
+		},
+		{
+			"number": 700,
+			"content": "Health competent authorities at various levels shall, with regards to prevention and response measures of disasters and wars, implement matters concerning emergency medical services; when necessary, the national mobilization defense system may be combined to implement emergency medical services."
+		},
+		{
+			"number": 800,
+			"content": "The central competent health authority may invite medical care institutions, representatives of organizations or government agencies, and experts and scholars for advice or review on the following matters:\r\n1. Advice on the establishment of emergency medical services systems and demarcation of emergency medical services regions;\r\n2. Advice on special emergency medical services in the event of chemical disasters, radiation disasters, burns, air rescues and emergency rescues in the wilderness areas;\r\n3. Advice on first-aid education training and propagation;\r\n4. Review of the hospital accreditation standards and reconsideration of accreditation decisions pursuant to Article 38;\r\n5. Advice on other matters relating to the central or emergency medical services regions concerning emergency medical services."
+		},
+		{
+			"number": 900,
+			"content": "The central competent health authority shall entrust medical care institutions to establish regional emergency medical services response centers (hereinafter referred to as the regional response centers) in all regions according to the coordination and command systems of emergency medical services regions as set forth in Paragraph 2 of article 5 for the following matters:\r\n1.Real-time monitoring of incidents of disasters in the region pertaining to emergency medical services;\r\n2.Real-time control of regional emergency medical services information and resources;\r\n3.Establishment of database for regional emergency medical resources;\r\n4.Assistance in planning the rehabilitation of medical care incidents related to disasters;\r\n5.Regularly holding annual emergency medical services drills concerning severe disasters;\r\n6.In the case of cross-municipality or cross-county (city) disasters, responsive measures shall be employed to assist the central competent health authority in allocating emergency medical service resources within the region;\r\n7.Assisting the central competent health authority in supervising the emergency care responsibility hospitals in the region in personnel deployment to attend to massive casualties;\r\n8.Other disaster-responsive matters of regional emergency medical service.\r\nRequirements to activate personnel deployment and commanding, framework of the commanding system, responsive procedures and other coordination matters as per Subparagraph 6 and Subparagraph 7 of the preceding Paragraph shall be decided by the central competent health authority."
+		},
+		{
+			"number": 1000,
+			"content": "The competent health authorities at the municipality or county (city) levels  may invite medical care institutions, representatives of organizations or government agencies, and experts and scholars for counseling or review on the following matters:\r\n1.Counseling on the planning of emergency medical services resource and implementation plans;\r\n2.Counseling on the designation and assessment of emergency responsibility hospitals;\r\n3.Review on patient referral disputes;\r\n4.Counseling on the operational procedures for the rescue of injured or ill patients in emergency;\r\n5.Counseling on the supervision and assessment of emergency medical technicians;\r\n6.Counseling on other matters related to emergency medical services."
+		},
+		{
+			"number": 1100,
+			"content": "The central competent health authority shall include the hospital and pre-hospital emergency medical services in hospital accreditation.\r\nThe municipality or county (city) competent health authorities shall regularly supervise and assess the emergency medical services provided by the medical care institutions in each own jurisdiction."
+		},
+		{
+			"number": 1200,
+			"content": "The medical and disaster command centers in the municipality or county (city) fire-fighting agencies shall be deployed with rescue personnel who are on shift duty round the clock to deal with the following emergency medical matters:\r\n1. Establish emergency medical services information;\r\n2. Provide emergency medical counseling for patients before arriving at a medical care institution;\r\n3. Accept applications for emergency medical services\r\n4. Supervise the medical care unit or fire department carrying out pre-hospital emergency medical care;\r\n5. Contact medical care institutions for admission of patients in emergencies;\r\n6. Contact agencies (institutions) equipped with medical transportation for carrying out emergency medical services;\r\n7. Coordinate relevant agencies in carrying out emergency medical services;\r\n8. In the case of medical services for patients in emergencies, mass casualty events or in the wilderness areas, dispatch ambulance and rescue personnel from local ambulance deployment agencies (institutions), and notify the municipality or county (city) competent health authorities."
+		},
+		{
+			"number": 1300,
+			"content": "Municipality and county (city) competent fire-fighting authorities shall demarcate medical services regions on the bases of distribution of population, geographical environment, traffic, and existing medical care facilities in each own jurisdiction; and the pre-hospital emergency medical services shall be carried out by medical care unit or fire brigade."
+		},
+		{
+			"number": 1400,
+			"content": "Each medical care unit or fire brigade as prescribed in the preceding article shall at least be equipped with one ambulance and seven rescue personnel; of them, full-time personnel shall not be fewer than one half."
+		},
+		{
+			"number": 1401,
+			"content": "Public places designated by the central competent health authority shall be installed with an automated external defibrillator (AED) or other necessary emergency rescue equipment.\r\nAfter acquiring the equipment, the venue manager or legal entity in charge shall send it to the competent health authority to be recorded for future reference, and be registered in the medical and disaster command centers.\r\nRegulations concerning the items, installation methods, management, usage training and other matters relating to the necessary emergency rescue equipment mentioned in the preceding two paragraphs shall be prescribed by the central competent health authority.\r\nPublic places that acquire the AED or other necessary emergency rescue equipment as mentioned in the first paragraph may be awarded funds or subsidized if required."
+		},
+		{
+			"number": 1402,
+			"content": "Except for the rescue personnel, the indemnification clause for emergency evacuation in the Civil Code and Criminal Code shall apply to people using the emergency rescue equipment or performing first aid measures for saving others from immediate life-threatening danger.\r\nThe abovementioned provision is also applicable to rescue personnel who are off duty."
+		},
+		{
+			"number": 1500,
+			"content": "Ambulances include general ambulance and intensive care ambulance; rules governing their specification standards, applications, and other relevant matters shall be decided by the central competent health authority."
+		},
+		{
+			"number": 1600,
+			"content": "Ambulances shall only be deployed through application submitted to the local municipality or county (city) competent health authorities for registration and license as well as application submitted to the local motor vehicle office for special vehicle license plate for ambulance; for changes of registration and license, the aforementioned rules shall also apply.\r\nAmbulance shall only be deployed by the following agencies (institutions):\r\n1.Fire-fighting agencies;\r\n2.Health agencies;\r\n3.Military agencies;\r\n4.Medical care institutions;\r\n5.Nursing institutions;\r\n6.Ambulance operation institutions;\r\n7.Institutions or public interest organizations in need of deploying ambulance as decided by the municipality or county (city) competent health authority.\r\nMedical or nursing institutions delegating the aforementioned ambulance deployed agencies (institutions) as prescribed in the preceding Paragraph for transportation of patients shall bear liability severely and jointly with the consignee.\r\nFor Subparagraph 3 to Subparagraph 7 of Paragraph 2 concerning the agencies (institutions) deployed with ambulance, the conditions and procedures of ambulance deployment license, management of cross-municipality or cross-county (city) operations, duration of license and conditions of license extension, license revocation, establishment of ambulance operation institution, and other matters to complied with shall be decided by the central competent health authority. For the deployment and management of military ambulance in military agencies, regulations of the Ministry of National Defense shall apply."
+		},
+		{
+			"number": 1700,
+			"content": "Ambulances shall be equipped with sirens, in-vehicle and external CCTV cameras and red flashlight, coated with white paint on the vehicle shell, painted with red crosses on both sides and the name of the agency (institution), and marked with license numbers at the rear. There shall be no other marks unless otherwise approved by the local municipality or county (city) competent health authority.\r\nOutside of emergency situations, the abovementioned ambulance sirens and red flashlights shall not be turned on."
+		},
+		{
+			"number": 1800,
+			"content": "Two and more on-duty rescue personnel shall be in presence when providing medical care and transportation for patients in an ambulance; of rescue personnel on intensive care ambulance, there shall be at least one physician, nursing personnel, or emergency medical technician above intermediate level."
+		},
+		{
+			"number": 1900,
+			"content": "Ambulance shall be disinfected regularly and kept clean.\r\nAmbulances  when transporting patients of communicable diseases or suspected communicable diseases, or patients contaminated with chemical or radioactive substances shall accordingly be subject to necessary disinfection and decontamination processes after the transportation.\r\nHospitals admitting patients of communicable diseases or suspected communicable diseases as prescribed in the preceding Paragraph shall notify the agency (institution) providing ambulance services to carry out necessary measures upon reporting to the competent authority pursuant to the Communicable Disease Control Act and confirmation of certain communicable diseases; the scope of certain communicable diseases shall be announced by the central competent health authority considering epidemic control, safety of personnel providing protection and medical services, and safety of third party persons."
+		},
+		{
+			"number": 2000,
+			"content": "Fees of ambulance services shall be collected according to the standards of fees set forth by the local municipality or county (city) authorities."
+		},
+		{
+			"number": 2100,
+			"content": "The municipality and county (city) authorities shall perform annual regular inspection on the personnel allocation, facilities, and medical services of ambulance under each own jurisdiction; when necessary, the aforementioned inspection may be performed on an irregular basis.\r\nAmbulance deploy agencies (institutions) shall not evade, obstruct, or refuse the inspection as set forth in the preceding Paragraph."
+		},
+		{
+			"number": 2200,
+			"content": "The scope of medical services, necessary equipment, inspection and examination, application and dispatch procedures of medical services, stopping/landing spots and shuttle methods, qualifications and training of rescue personnel, number of on-duty personnel, making, preservation and inspection of roster records, and other matters to be complied with for emergency medical helicopters, emergency medical airplanes, emergency vessels and other emergency medical transportation vehicles besides ambulances shall be decided by the central competent health authority in collaboration with other agencies concerned."
+		},
+		{
+			"number": 2300,
+			"content": "The central competent health authority may plan and set forth aprons for emergency medical helicopter in collaboration with other agencies concerned for the needs of emergency medical services in offshore islands and remote areas."
+		},
+		{
+			"number": 2400,
+			"content": "Rescue technicians are classified into junior, middle, and senior levels.\r\nThe eligibility for training, the training itself, continuing education, medical services allowed to be performed, obligatory cooperative measures, and other matters to be complied with for different levels of rescue technicians as prescribed in the preceding paragraph shall be decided by the central competent health authority.\r\nCourses of the abovementioned training shall include medical services and rescue training in the wilderness areas."
+		},
+		{
+			"number": 2500,
+			"content": "The municipality and county (city) competent fire-fighting authorities shall appoint medical advisory physicians, including those with wilderness medical care expertise, and establish a medical advisory system for the following matters:\r\n1. Emergency medical services education, training, supervision and assessment for rescue technicians at all levels;\r\n2. Formulation of quality criteria for rescue technicians at all levels and execution of quality monitoring;\r\n3. Approval of the rescue records made by senior rescue technicians for the emergency medical services, performed according to pre-established medical services procedures.\r\nRegulations governing the qualifications, training and other relevant matters of the appointed medical advisory physicians as prescribed in the preceding paragraph shall be decided by the central competent health authority in collaboration with the central competent fire-fighting authority."
+		},
+		{
+			"number": 2600,
+			"content": "Rescue technicians shall perform emergency medical services only at the following sites:\r\n1.On-site of patients in emergency or mass casualties;\r\n2.On way to hospital or referral;\r\n3.Arrival at the destined medical care institution and before any disposal made by medical staff."
+		},
+		{
+			"number": 2700,
+			"content": "Rescue technicians shall perform emergency medical services according to the emergency medical services operational procedures.\r\nThe emergency medical services operational procedures for patients in emergency as prescribed in the preceding Paragraph shall be decided by the municipality or county (city) competent health authorities."
+		},
+		{
+			"number": 2800,
+			"content": "Persons not qualified as rescue technicians shall not use the title of rescue technician."
+		},
+		{
+			"number": 2900,
+			"content": "Rescue personnel shall proceed to perform on-site services by the order of medical and disaster command center and transport the patients in emergency to the appropriate medical care institution in the vicinity."
+		},
+		{
+			"number": 3000,
+			"content": "The municipality and county (city) health authorities shall formulate regulations governing emergency medical services for mass casualty events (including emergency medical services in the wilderness areas) and hold regular drills.\r\nThe drills as prescribed in the preceding paragraph may be co-held by fire-fighting agencies in collaboration with the local medical care institutions and ambulance deployment agencies (institutions)."
+		},
+		{
+			"number": 3100,
+			"content": "The municipality and county (city) competent authorities of health and fire-fighting shall assist the mass casualties in the neighboring regions."
+		},
+		{
+			"number": 3200,
+			"content": "The municipality and county (city) governments, when facing mass casualties or wilderness emergency rescue tasks, shall establish on-site coordination and command systems and provide medical related services according to the scale and nature of the disaster and injuries.\r\nWhen the emergency medical services for mass casualty events or in the wilderness areas as prescribed in the preceding paragraph involve military confidentiality, the military agencies shall be notified for further action."
+		},
+		{
+			"number": 3300,
+			"content": "In the event of mass casualty events or wilderness emergency rescues, the participating on-site rescue personnel and ambulance deployment agencies (institutions) shall carry out medical services according to the instructions of the on-site coordination and command system."
+		},
+		{
+			"number": 3400,
+			"content": "When carrying out emergency medical services, the rescue personnel shall fill out the rescue records and submit copies to the ambulance deploy agencies (institutions) and patient-admitting medical care institutions for keep for at least 7 years.\r\nThe medical care institutions prescribed in the preceding Paragraph shall preserve the rescue records together with the medical records."
+		},
+		{
+			"number": 3500,
+			"content": "Rescue technicians and other personnel under the participating agencies (institutions) of emergency medical services shall not disclose, without permission, the information, known or held from performing their own duties."
+		},
+		{
+			"number": 3600,
+			"content": "Hospitals, in order to effectively allocate manpower and facilities, shall establish emergency medical services operational procedures for patients in emergency and internal coordination and command system, conduct inspection in the face of patients in emergency, and perform treatment or employ necessary measures according to the medical capacities without unreasonable delay; where the appropriate treatment cannot be performed, other appropriate measures shall be immediately taken in addition to help arrange patient referral to other appropriate medical care institution or make request for assistance from the medical and disaster command center.\r\nConcerning the patient referral prescribed in the preceding Paragraph, the conditions, communication and coordination among hospitals across municipality and county (city) administrations, referral methods, medical care, and other matters to be complied with shall be decided by the central competent health authority."
+		},
+		{
+			"number": 3700,
+			"content": "The municipality and county (city) competent health authorities shall appoint emergency responsibility hospitals according to the emergency medical facilities and expertise available in the hospitals under each own jurisdiction.\r\nHospitals not appointed as emergency responsibility hospitals shall not use the title of emergency responsibility hospital."
+		},
+		{
+			"number": 3800,
+			"content": "The central competent health authority shall hold hospital emergency capacity accreditation by level; hospitals shall provide medical services according to the accreditation without unreasonable delay.\r\nThe accreditation by level standards mentioned in the preceding Paragraph shall be decided by the central competent health authority according to the types of emergency medical services."
+		},
+		{
+			"number": 3900,
+			"content": "Emergency responsibility hospitals shall carry out the following matters:\r\n1.Providing 24 hour medical care to patients in emergency;\r\n2.Admitting patients in emergency by means of referral between hospitals;\r\n3.Designating attending physicians to supervise the emergency medical services carried out by the rescue personnel;\r\n4.Providing training in emergency medical services;\r\n5.Providing emergency medical services information pursuant to the decisions made by the central competent health authorities;\r\n6.Providing other operations relating to emergency medical services consigned by the competent health authorities.\r\nRegulations governing the information items, communication methods, time, and other relevant matters of emergency medical services, as prescribed in Subparagraph 5 of the preceding Paragraph, shall be decided by the central competent health authority."
+		},
+		{
+			"number": 4000,
+			"content": "Medical and disaster command center may dispatch ambulance and rescue personnel from the local hospital medical services to patients in emergency and mass casualties or assisting patient referral; hospitals shall not refuse such instruction without reasons."
+		},
+		{
+			"number": 4100,
+			"content": "For any of the following conditions, the ambulance deploy agencies (institutions) shall be fined NT$ 100,000 up to NT$ 500,000 as well as notified to make corrections within deadline; if corrections are not made in due time, the aforementioned punishments may be consecutively imposed:\r\n1.Violation of article 15 prescribing rules governing ambulance specification standards and applications decided by the central competent health authority upon authorization;\r\n2.Violation of article 16 Paragraph 4 prescribing rules governing ambulance deployment and operation management, and establishment of ambulance operation institution decided by the central competent health authority under upon authorization;\r\n3.Violation of regulations of article 18.\r\nFor serious violations of all Subparagraphs of the preceding Paragraph, the license of ambulance deployment may be revoked directly and the ambulance license of all ambulances may be cancelled by the motor vehicle offices through notification made by the local municipality or county (city) competent health authorities; for ambulance operation institutions, the institution establishment licenses may be revoked.\r\nAgencies (institutions), other than those set forth in article 16 Paragraph 2, deploying ambulance in private shall be fined NT$ 100,000 up to NT$ 500,000; the vehicle license plates may be cancelled by the motor vehicle offices through notification made by the local municipality or county (city) competent health authorities."
+		},
+		{
+			"number": 4200,
+			"content": "For any of the following violations, a fine of NT$ 60,000 up to NT$ 300,000 shall be disposed:\r\n1.Violations of article 17 Paragraph 2, article 34 Paragraph 1 and article 20 for the overcharge of prescribed ambulance services fees;\r\n2.Violation of article 36 Paragraph 1 where hospitals directly proceed to patient referral without performing immediate medical care based on the medical capacity or appropriate disposal on patients in emergency;\r\n3.Violation of article 38 Paragraph 1 where hospitals provide medical services against the hospital emergency accreditation by level decided by the central competent health authority."
+		},
+		{
+			"number": 4300,
+			"content": "For any of the following violations, a fine of NT$ 50,000 up to NT$ 250,000 shall be imposed:\r\n1.Ambulance deploy agencies (institutions) in violation of article 21 Paragraph 2 or article 33;\r\n2.Hospitals in violation of article 40."
+		},
+		{
+			"number": 4400,
+			"content": "For any of the following violations, a fine of NT$ 10,000 up to NT$ 50,0000 shall be imposed and mandatory correction in due time shall be notified; if correction is not made in due time, the aforementioned punishments may be consecutively imposed on:\r\n1.Medical care institutions in violation of article 34 Paragraph 2;\r\n2.Emergency responsibility hospitals in violation of article 39 Paragraph 1."
+		},
+		{
+			"number": 4500,
+			"content": "For any of the following violations, a fine of NT$ 10,000 up to NT$ 50,000 shall be imposed:\r\n1.Rescue technicians in violation of article 26 or article 27 Paragraph 1;\r\n2.Rescue personnel in violation of article 29 or article 33;\r\n3.Rescue technicians and other personnel under the participating agencies (institutions) of emergency medical services in violation of article 35;\r\n4.Violation of article 36 Paragraph 2 where hospitals are subject to the prescribed referral conditions, methods, and responsible communication and coordination matters, or violation of article 37 Paragraph 2."
+		},
+		{
+			"number": 4600,
+			"content": "Ambulance deploy agencies (institutions) in violation of article 17 Paragraph 1 or article 19 Paragraph 1 or Paragraph 2 shall be fined NT$ 5,000 up to NT$ 25,000 as well as notified to make mandatory correction in due time; if correction is not made in due time, the aforementioned punishments may be consecutively imposed on."
+		},
+		{
+			"number": 4700,
+			"content": "For any of the following violations, a fine of NT$ 5,000 up to NT$ 25,000 shall be imposed:\r\n1.Violation of article 28;\r\n2.Rescue personnel in violation of article 34 Paragraph 1."
+		},
+		{
+			"number": 4800,
+			"content": "Violators of article 18, article 36, article 38 Paragraph 1 or article 40 shall be fined accordingly in addition to the punishments set forth in article 41 Paragraph 1, article 42, article 43, or article 45. For violators who are physicians-in-charge of private medical care physicians, the punishments shall not be imposed additionally."
+		},
+		{
+			"number": 4900,
+			"content": "Ambulance deploy agencies (institutions) pursuant to article 16 Paragraph 4 committing any of the following violations shall be revoked of all of the ambulance deployment licenses; for ambulance operation institutions, the institution establishment licenses shall also be revoked:\r\n1.Allowing ineligible personnel to perform emergency medical services at will;\r\n2.Unjustifiable performance against good custom and hazardous to human health;\r\n3.Criminal conduct by means of ambulance;\r\n4.Violation of article 20 and failure to return the overcharge to the patients after the overcharge of ambulance fees being approved."
+		},
+		{
+			"number": 5000,
+			"content": "The municipality and county (city) competent health authorities revoking the ambulance deployment licenses according to the preceding articl eshall notify the motor vehicle offices to cancel the vehicle license plates."
+		},
+		{
+			"number": 5100,
+			"content": "Ambulance deploy agencies (institutions) subject to the disposition of ambulance deployment license revocation shall not apply for the deployment within three years."
+		},
+		{
+			"number": 5200,
+			"content": "The fines and revocation of license for public and private ambulance deployment institutions set forth in this Act shall be decided by the municipality and county (city) competent health authorities."
+		},
+		{
+			"number": 5300,
+			"content": "The municipality and county (city) competent authorities of health and fire-fighting shall budget the expenditure and perform the emergency medical services as prescribed in this Act."
+		},
+		{
+			"number": 5400,
+			"content": "In order to balance the qualities of regional emergency medical services, the central health and fire-fighting competent authorities may subsidize the regional health and fire-fighting competent authorities for the expenditures of implementing emergency medical services within each district."
+		},
+		{
+			"number": 5500,
+			"content": "The municipality and county (city) competent health authorities shall collect examination fees, registration fees, and license fees for the registration of ambulance deployment and establishment license of ambulance operation institutions under this Act; the standards of fee collection shall be decided by the central competent health authority."
+		},
+		{
+			"number": 5600,
+			"content": "The central competent health authority shall adopt rewarding measures for the areas in short of emergency medical services resources to balance the emergency medical services resources and elevate the quality and efficiency of the emergency medical services.\r\nRegulations governing the recognition of areas in short of emergency medical services resources, items and methods of rewarding measures, and other matters to be complied with, as prescribed in the preceding Paragraph, shall be decided by the central competent health authority."
+		},
+		{
+			"number": 5700,
+			"content": "The Enforcement Regulations of this Act shall be decided by the central competent health authority in collaboration with the central competent fire-fighting authority."
+		},
+		{
+			"number": 5800,
+			"content": "This Act shall be implemented on the date of promulgation."
+		}
+	]
+}

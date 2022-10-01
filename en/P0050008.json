@@ -1,0 +1,370 @@
+{
+	"pcode": "P0050008",
+	"LawLevel": "法律",
+	"EngLawName": "Cable Radio and Television Act",
+	"LawName": "有線廣播電視法",
+	"EngLawModifiedDate": "20180613",
+	"histories": [
+		"71 Articles promulgated in full by the Presidential Order on Aug.11,1993. Ref：Hua-Zong -(1)- Yi Tze No.3912",
+		"76 Articles amended and promulgated in full by the Presidential Order on Feb. 3, 1999. Ref：Hua -Zong -(1) -Yi Tze No. 8800021600",
+		"The amendment of Article 3 promulgated by the Presidential Order on Jan. 19, 2000.Ref： Hua-Zong-(1)-Yi Tze No. 8900011900",
+		"The amendment of Articles 19,51and 63 promulgated by the Presidential Order on May 30, 2001. Ref：Hua-Zong-(1)-Yi Tze No. 9000106640",
+		"The amendment of Articles 16, 19, 23 and 39 promulgated by Presidential Order on Jan. 15, 2003. Ref：Hua-Zong-(1)-Yi Tze No. 09200006880",
+		"The amendment of Articles 19, 20, 24 and 68,and addition of Article 37-1 promulgated by the Presidential Order on Dec. 24, 2003. Ref： Hua-Zong-(1)-Yi Tze No. 09200239041",
+		"The addition of Article 35-1 promulgated by Presidential Order on Jan. 29, 2007. Ref：Hua-Zong-(1)-Yi No. 09600011661",
+		"The entire 77 articles were modified, published and executed on 6 January 2016 by Order Hua-Zong-1-Yi No.10400154521",
+		"The amendment of Articles 33 and 61 promulgated by the Presidential Order on Dec. 6, 2017. Ref：Hua-Zong-(1)-Yi Tze No. 10600146591",
+		"The amendment of Article 75-1 promulgated by the Presidential Order on June 13, 20018. Ref：Hua-Zong-(1)-Yi No. 10700062331"
+	],
+	"divisions": [
+		{
+			"type": "chapter",
+			"number": 100,
+			"title": "General Provisions",
+			"start": 100,
+			"end": 400
+		},
+		{
+			"type": "chapter",
+			"number": 200,
+			"title": "Permission of Operation",
+			"start": 500,
+			"end": 2200
+		},
+		{
+			"type": "chapter",
+			"number": 300,
+			"title": "Regulations of Operations",
+			"start": 2300,
+			"end": 5500
+		},
+		{
+			"type": "chapter",
+			"number": 400,
+			"title": "Penal Provisions",
+			"start": 5600,
+			"end": 7200
+		},
+		{
+			"type": "chapter",
+			"number": 500,
+			"title": "Supplementary Provisions",
+			"start": 7300,
+			"end": 7700
+		}
+	],
+	"articles": [
+		{
+			"number": 100,
+			"content": "This Act is enacted to promote the sound development of the cable radio and television industry, to safeguard the audio-visual rights and interests of the public, to enhance public interest and well-being, and to maintain the audiovisual diversity,"
+		},
+		{
+			"number": 200,
+			"content": "The terms used in this Act shall be defined as follows:\r\n1. Cable Radio and Television Service: Refers to the service of transmitting images, sound or data through the installed cable radio and television system for direct viewing, listening or receiving by the public\r\n2. Cable Radio and Television System (referred to hereinafter as \"system\"): Refers to the facility formed by head-ends, cable transmission network and other related equipments with available technology and equipments.\r\n3. Cable Radio and Television System Operator (referred to hereinafter as \"system operator\"): Refers to a business which provides cable radio and television services by law;\r\n4. Channel Provider: Refers to a program and advertisement supplier business which authorizes, under a specific name, program and advertisement transmission to cable television operators;\r\n5. Subscriber: Refers to those who have signed a contract with the system operator to use the cable radio and/or television service;\r\n6. Basic Channel: Refers to a channel whose visual and/or audio reception can be made upon regular payment of basic subscription fees;\r\n7. Encryption: Refers to the technique adopted by the system operator that makes descrambling necessary for subscribers to watch and/or listen the program;\r\n8. Head-ends: Refers to facilities and locations for receiving, processing, and transmitting cable radio and/or television signals, which are then transmitted to the cable transmission network;\r\n9. Inserted Characters: Refers to words and graphics appearing on the TV screen which have been edited and compiled, and which are not part of the original contents being transmitted;"
+		},
+		{
+			"number": 300,
+			"content": "The regulatory agency referred to in this Act is National Communications Commission at the central government level; municipal government at the municipality level; and county (city) government at the county (city) level."
+		},
+		{
+			"number": 400,
+			"content": "System operator is eligible to offer telecommunication and other value-added services with its system. However, according to Telecommunications Act, operators with the franchise or permission to run the operations shall acquire operation permit or franchise license by law.\r\nSystem operators engaged in telecommunications operations shall abide by relevant provisions of the Telecommunications Act."
+		},
+		{
+			"number": 500,
+			"content": "Applications shall be filed with the central regulatory agency for approval and permits to provide cable radio and/or television services."
+		},
+		{
+			"number": 600,
+			"content": "To provide cable radio/television services, an applicant shall explicitly specify the service area in the application form and operations plan.\r\nTo expand the service area, the system operator shall firstly submit its application of the amendment of operations plan to the regulatory agency.\r\nThe service area mentioned in preceding two Paragraphs shall be provided based on municipality/county/city as the minimum service area, except for the following situations:\r\n1. Existing system operator continues to carry out the operations in original service area\r\n2. A merger among existing system operators or with other system operators.\r\nAbovementioned existing system operator refers to the legal system operator that runs operations before the implementation of the provisions amended on the 18th of December 2015.\r\nThe minimum service area defined in Paragraph 3 shall be adjusted and announced by the central regulatory agency according to the change of administration area."
+		},
+		{
+			"number": 700,
+			"content": "After the implementation of the provisions amended on the 18th of December 2015, applicant of cable radio/television service shall provide the said service with digitization technology and the operation shall be initiated only if system’s service area exceeds 15% the area’s total administrative households declared by the Ministry of the Interior. The same rule applies to system operators with expanded service area.\r\nThe radio/television services provided through abovementioned digitalization technology refers to the system’s function of receiving digital program signals. For example, the head-ends shall process the program signal with digitalization technology and the processed digital program signals may be transmitted to subscribers’ digital terminal facilities through the cable transmission network."
+		},
+		{
+			"number": 800,
+			"content": "System operators shall install head-ends by themselves.\r\nAny head-end installed by the system operator with service coverage above two of the municipality/county/city shall have a head-end featured with a back-up mechanism.\r\nSystem operator may lease transmission equipments of the first type telecommunication business or other system operators to assemble a system.\r\nProvisions of preceding three Paragraphs shall be applied when the founder install the system."
+		},
+		{
+			"number": 900,
+			"content": "The organization of system operator shall be a company limited by shares.\r\nThe number system operator’s directors with ROC nationality shall not less than two-third of the total number of directors. The same rule shall apply to the supervisors.\r\nThe chairman of the system operator shall possess the ROC nationality.\r\nTotal direct and indirect foreign investment in a company operating a cable radio and/or television system shall be less than 60 percent of the total shares issued by the company. Direct foreign shareholding is limited to legal entities; the total shares directly held by foreign shareholders shall not exceed 20 percent of the total shares issued.\r\nThe indirect foreign investment stipulated in preceding Paragraph shall be computed by multiplying the percentage of shares or investment of the company operating a cable and/or radio system owned by domestic legal entities with the percentage of foreign shares of said domestic legal entities.\r\nSystem operator’s minimum paid-in capital shall be specified by the central regulatory agency.\r\nSystem operator or applicant of cable radio/television services engaged in Type I telecommunications business, wireless radio/television business or satellite radio/television business with restrictions on minimum paid-in capital shall have the minimum paid-in capital calculated separately according to the minimum paid-in capital of that business.\r\nSystem operator whose capital is above a certain amount shall submit its application of public offering to the securities regulatory authority.\r\nThe amount defined in preceding Paragraph shall be announced by the central regulatory agency"
+		},
+		{
+			"number": 1000,
+			"content": "The government, political parties, and foundations established with their endowments, and those commissioned by them, may not directly or indirectly invest in privately system operator. Existing situations for the government, political parties, and foundations established with their endowments, and those commissioned by them, that do not meet the provisions of the preceding paragraph prior to the implementation of the revision of this Act, shall be corrected within two years of the implementation of the revision of this Act.\r\nPolitical party workers, political appointees, and elected public officials may not invest in system operators. Total shareholdings by their spouses, relatives by blood within the second degree of relationship, and lineal relatives by marriage, may not hold more than 1 percent of the issued shares of the said business. System operators that have existing situations that do not meet these provisions prior to the implementation of the revision of this Act shall have them corrected within two years of the implementation of the revision of this Act.\r\nThe government, political parties, political party workers, and elected public officials may not be promoters, directors, supervisors, or managerial officers of system operator. For those who already hold these positions prior to the implementation of the revision of this Act, the system operator shall relieve them of their duties within six months of the implementation of the revision of this Act.\r\nThe scope of political party workers, political appointees, and elected public officials mentioned in the preceding two paragraphs shall be defined in the Enforcement Rules of this Act."
+		},
+		{
+			"number": 1100,
+			"content": "To establish cable radio and/or television, an applicant shall complete and submit an application form, along with an operations plan, to the central regulatory agency within the publicly announced period.\r\nThe operations plan shall explicitly include the following details:\r\n1. Service area\r\n2. Timetable for setting up the system and the scheduled starting date of operation;\r\n3. Financial structure;\r\n4. Structure of the organization;\r\n5. Channel plan and types;\r\n6. Proposals of broadcasting programs that promote our nation’s culture\r\n7. Rates and their calculation formula;\r\n8. Subscriber service;\r\n9. market analysis of the service area\r\n10. Descriptions of the system architecture, engineering technology and facilities;\r\n11. Planning towards the self-installed system, lease of the type I telecommunication business or other system operator’s transmission equipments, head-end backup mechanism.\r\n12. Plan for business promotion;\r\n13. Plan for personnel education and training;\r\n14. Plan for technological development;\r\n15. Chairman, supervisors, managers, shareholders possessing more than five percent of share, or promoter, names of over five percent of subscribers and relevant information. Over five percent of shareholders and subscribers include parties related to the natural person and juristic person. The identification and application of related party shall refer to Article 4 of Financial Holding Company Act.\r\n16. Other items, as specified by the central regulatory agency.\r\nAnyone who has operated the cable radio and/or television business prior to the amendment of this Act made on the 18th of December 2015 shall apply for a change of operations plan in accordance with Subparagraph 6 of Paragraph 2 within a year after the implementation of the amendment of this Act.\r\nThe application mentioned in Paragraph 1 may be conducted at anytime.\r\nShould the application or operations plan of cable radio and/or television business be incomplete, the regulatory agency shall notify the applicant to make up the documents in time. If an applicant fails to do so by the given time, the application shall be rejected.\r\nThe document format, acceptance procedures and other regulatory matters related to the applications of establishment and preparation shall be enacted by the central regulatory agency."
+		},
+		{
+			"number": 1200,
+			"content": "Where an applicant of cable radio and/or television business is having any one of the following situations, the application shall be rejected:\r\n1. Violation of Paragraph 3 of Article 6\r\n2. Violation of Paragraph 1 of Article 7\r\n3. Violation of Paragraph 1 or Paragraph 2 of Article 8\r\n4. Violation of Paragraph 1 through 4, Paragraph 6 or Paragraph 7 of Article 9\r\n5. Violation of Paragraph 1 through Paragraph 3 of Article 10\r\n6. Violation of Paragraph 1 of Article 15\r\n7. The applicant had its establishment permit or operating license revoked or abolished less than two years due to the violation of this Act.\r\n8. The applicant’s director, supervisor, manager or the applicant is a company in preparation; the promoter violates Article 30 of Company Act.\r\nRegarding the eligibility of persons mentioned in Subparagraph 15 of Paragraph 2 of Article 11, the central regulatory agency shall summon public hearing for the discussion on the promotion of effective market competition, protection of consumers’ rights and benefits, and other matters required for public interests. Should there be any adverse effects, the application shall be rejected.\r\nThe applications shall be reviewed according to Paragraph 5 of Article 11 and preceding two Paragraphs. The central regulatory agency shall also enact the review items and standards."
+		},
+		{
+			"number": 1300,
+			"content": "Before issuing the establishment permit, the central regulatory agency shall command the applicant to pay the performance bond. If an applicant fails to establish the business in accordance with provisions or fails to do so during the validity of the establishment permit, the central regulatory agency shall not return a part or the whole of the performance bond and shall revoke the establishment approvals.\r\nProvisions of the preceding Paragraph shall apply to system operators who apply for changes of operations plan for expanding the service area.\r\nThe amount of performance bond, payment deadline, payment methods, conditions of refund of a performance bond, and other regulatory matters shall be enacted by the central regulatory agency."
+		},
+		{
+			"number": 1400,
+			"content": "The central regulatory agency shall issue the establishment permit to applicant who has received approval for establishing the cable radio and/or television business.\r\nThe establishment permit may not be leased out, loaned out, transferred or designated with guarantee burden to any individual.\r\nShould the founder violate the preceding Paragraph, the central regulatory agency shall abolish its establishment approval and revoke its permit without returning part or the whole of the performance bond.\r\nThe founder shall conduct the establishment in accordance with the operations plan. Should the founder wish to change the content of application form and operations plan after obtaining the establishment approval, an application of the change of approval shall be submitted to the central regulatory agency, except where the changes are made pursuant to Subparagraph 4, Subparagraph 12 and Subparagraph 13 of Paragraph 2 of Article 11."
+		},
+		{
+			"number": 1500,
+			"content": "Foreign applicant of investing cable radio and/or television business shall not affect national security, impair or disadvantage the overall industrial development, hinder fair competition or make competition restraints.\r\nShould the applicant violate preceding Paragraph, the regulatory agency may reject the application.\r\nRegarding the examination mentioned in Paragraph 1, the regulatory agency shall command the applicant to provide explanations and other supporting documents in term of following matters:\r\n1. Openness of public accessing\r\n2. Diversity of channel content\r\n3. Protection and feedback of consumers’ benefits\r\n4. Enhancement of operating efficiency\r\n5. Influence to media relevant market\r\n6. Other matters that the regulatory agency deemed to facilitate the public interest"
+		},
+		{
+			"number": 1600,
+			"content": "The validity of the establishment permit is three years and the founder shall complete establishment matters and obtain operating license within the validity. Those who are unable to complete the establishment on time shall state the reason and file a request with the central regulatory agency to seek for an extension within a one-month period at three months prior to the expiry date. The extension shall not exceed two years and is limited to one time only.\r\nThe abovementioned establishment matters include corporate establishment registration or change of registration, system installation and system examination.\r\nSystem operators who wish to expand the service area shall complete additional system installation within three years. Those who fail to do so within three years shall state the reason and file a request with the central regulatory agency to seek for an extension within a one-month period at three months prior to the expiry date. The extension shall not exceed two years and is limited to one time only.\r\nFounder’s paid-in capital shall correspond to Paragraph 6 and Paragraph 7 of Article 9 upon the completion of corporate establishment registration or change of registration"
+		},
+		{
+			"number": 1700,
+			"content": "If there is a change in the content of the establishment permit, an application for permit renewal shall be filed with the central regulatory agency by the founder within 15 days after the change. If the establishment permit has been lost, an application for reissuing an establishment permit shall be filed within 15 days."
+		},
+		{
+			"number": 1800,
+			"content": "Applications of the network established by the founder or system operator through constructions shall be submitted to the right-of-way management agency; through attachment the said applications shall be submitted to relevant telecommunication businesses, electricity enterprises and other agencies.\r\nFounders or system operators who wish to construct the network may lease existing underground system. The network constructed or attached by the said party shall be carried out according to relevant regulations."
+		},
+		{
+			"number": 1900,
+			"content": "If the network of the founder or system operator must pass through other people’s land or building in order to be constructed or to save the enormous construction expenses, the founder or system operator may conduct the establishment by choosing locations or methods with the least damages and shall make a compensation with equal amount.\r\nRegarding abovementioned network construction, a written notification shall be sent to the owners or occupants of the land or the buildings thirty days before the construction.\r\nAfter the network construction is implemented according to Paragraph 1, the owners or occupants of the land or the buildings may request to make changes on the construction due to changes of circumstances.\r\nThose who are against of circumstances mentioned in preceding three Paragraphs may request the mediation committee within the jurisdiction to mediate or file a complaint for civil action."
+		},
+		{
+			"number": 2000,
+			"content": "Regarding the system’s service range, the founder or system operator shall have its service range covered at least fifty percent of the administrative households in applied service area within the validity of the establishment permit.\r\nWhere the service range of installed system is more than fifteen percent of the total administrative households in applied service area, the founder may apply for system examination.\r\nOnce the system’s qualification is approved through the examination, the founder may request the regulatory agency to issue the operation approval and permit.\r\nSystem operators shall initiate the operations within three months after obtaining the operation permit and license, unless system operator provides justifications and except those who have received approvals from the central regulatory agency.\r\nSystem operators who have obtained operation permit and license according to Paragraph 3 shall, while initiating the operations, complete system installation for a service range that is fifty percent the total administrative household in applied increasing service area. Within the period prescribed in Paragraph 1 of Article 16 if its system service range is less than fifty percent of the total administrative household in service area as regulated.\r\nSystem operator, who attempts to expand the service area and whose service range of additionally installed systems is more than fifteen percent of the total administrative household in applied increasing service area, shall submit its application of system examination to the central regulatory agency. The said system operator is then allowed to expand its service area once its qualification is approved through the examination.\r\nSystem operators who apply for examination according to preceding Paragraph shall have its paid-in capital complied with Paragraph 6 and Paragraph 7 of Article 9.\r\nWhen the system operator mentioned in Paragraph 6 initiates the operations and its service range fails to reach fifty percent of the total administrative households in applied increasing service area, it shall increase the system installation to enlarge the system’s service range to fifty percent of the total administrative household in applied increasing service area by the deadline prescribed in Paragraph 3 of Article 16.\r\nSystem installation conducted by system operator, implementations of the head-end backup mechanism, system examination, technical standards, engineering assessment, system maintenance, and other engineering and technical regulatory matters shall be enacted by the central regulatory agency.\r\nFor system examination applied in accordance with Paragraph 2 and Paragraph 6, its transmission facilities of leased type I telecommunications business or other system operators, and head-ends leased from or shared with other system operators as its backup head-ends shall be equipped with leasing or sharing evidentiary documents."
+		},
+		{
+			"number": 2100,
+			"content": "The operating license of a system operator shall be valid for nine years.\r\nIf there is a change in the contents of the aforementioned operating license, an application for a new license shall be filed with the central regulatory agency within 15 days of the change. If the operating license has been lost, an application for reissuing an operating license shall be filed within 15 days.\r\nIf the operation approval remains valid after the amendment of this Act is made on the 18th of December 2015, the validity of the operation approval shall be 12 years starting from the date of issuance."
+		},
+		{
+			"number": 2200,
+			"content": "Terminal equipments for connection to the system shall conform to technical specifications, and be certified and approved before the use and sale. The technical specifications shall be prescribed and announced by the central regulatory agency.\r\nThe central regulatory agency shall enact regulations regarding the compliance approval mode and procedure of the terminal equipment mentioned in preceding Paragraph, the issuance / renewal / replacement / termination of the certificate of approval, and the embossment, marking and use of Approval Label, as well as the regulations with respect to the supervision and administration of compliance approval.\r\nThe examination of terminal equipment shall be carried out by the central regulatory agency or certification body commissioned by the central regulatory agency.\r\nRules governing the qualifications of the certification body as stipulated in preceding paragraph, the delegated authority, cancellation or termination of the engagement, and supervision related to the engagement shall be enacted by the central regulatory agency. The terminal equipment that has to be examined as mentioned in Paragraph 1 shall be announced by the central regulatory agency.\r\nWhen system operators install the system in the building to provide the cable radio and television service, the equipments and space to be installed by the building constructor or the owner shall refer to Article 38 and Article 38-1 of Telecommunication Act."
+		},
+		{
+			"number": 2300,
+			"content": "System operators shall not commission the operations to a third party.\r\nSystem operators shall submit application form and operations plan after the change to the central regulatory agency for approval in the event of one of the following:\r\n1. Transfer of business or accepting the transfer of business\r\n2. Merger with other system operators\r\n3. Investment made to other system operators. The same rule applies to investment made through affiliates, where the definition of affiliate shall be refer to the Company Act\r\nAfter the merger among system operators, the validity of the operating license shall be calculated based on the validity of surviving entity’s operating license. However, if all of the original system operators are extinguished after the merger, the validity of the new company’s operating license shall be calculated by merged company’s operating license, the one that has a longer validity.\r\nWhile making approval / rejection of the application mentioned in Paragraph 2, the central regulatory agency shall take the requirement of the promotion of effective market competition, protection of consumers’ benefits and rights and other public interests into consideration. The approval / rejection standards shall be enacted by the central regulatory agency."
+		},
+		{
+			"number": 2400,
+			"content": "The number of subscribers of the system operators, their affiliates, and their directly or indirectly controlled system operators shall not exceed one-third of the total number of subscribers in the nation.\r\nThe said total number of subscribers in the nation shall be announced by the central regulatory agency.\r\nSystem operators shall report the number of their subscribers for the previous three months in January, April, July, and October of each year to the central regulatory agency.\r\nThe affiliates referred to in this Act shall be determined in accordance with provisions of affiliated enterprises in Company Act."
+		},
+		{
+			"number": 2500,
+			"content": "Programs shall maintain their completeness and be distinguishable from advertisements.\r\nWithout prior agreements, system operators shall not, on their own, combine channels or terminate transmission channels.\r\nPrograms provided by system operators and their affiliated enterprises shall not exceed 25 percent of the usable channels.\r\nSystem operators shall display their system logo on the screen of the programs transmitted by the said operators."
+		},
+		{
+			"number": 2600,
+			"content": "During the transmission and processing of cable radio and/or television signals by a system operator, the radiation leakage shall not exceed the maximum amount allowed by the central regulatory agency."
+		},
+		{
+			"number": 2700,
+			"content": "To broadcast specific programs that shall be encrypted by law, system operators shall report the encryption method to the central regulatory agency for approval."
+		},
+		{
+			"number": 2800,
+			"content": "System operators shall install the broadcast channel programs in locations designated by the regulatory agency without changing the content and format of channel program. The encrypted channel programs shall be installed together with deciphering equipments.\r\nThe abovementioned designated location shall be limited to two locations only."
+		},
+		{
+			"number": 2900,
+			"content": "System operators shall carry out the operations according to its operations plan. When a change is made to an application form and/or operations plan after the issuance of operating license, system operator shall submit its application for approval change to or report it to the central regulatory agency. The approval / reporting items and approval standards shall be enacted by the central regulatory agency.\r\nWhen the content of abovementioned changes is classified as company registration, the system operator shall carry out the corporate establishment or registration of changes upon the change of approval or notification made to the central regulatory agency.\r\nWhen a system operator applies for a channel planning and a change on its classification according to Paragraph 1, the approval regulations shall be enacted by the central regulatory agency."
+		},
+		{
+			"number": 3000,
+			"content": "Once every three years, the central regulatory agency shall assess the execution of the operations plan submitted by a system operator. No assessment shall be conducted on the year of license renewal.\r\nWhere the assessment result shows underachievement and a must to make corrections, the central regulatory agency shall command the system operator to make corrections by a prescribed deadline. If the system operator fails to do so, the central regulatory agency shall abolish a part or the whole of its operating approval.\r\nThe assessment procedures and examination standards mentioned in preceding two Paragraphs shall be enacted by the central regulatory agency."
+		},
+		{
+			"number": 3100,
+			"content": "After the expiry date of the operating license, a system operator shall, if it wishes to carry on the operations, submit its application of license renewal to the central regulatory agency within a six-month period at a year prior to the expiry date.\r\nTo review system operator’s applications of operating license renewal, the central regulatory agency shall take below items into considerations:\r\n1. Evaluation of the execution of the operations plan and any improvements;\r\n2. Future operations plan\r\n3. Financial status\r\n4. Whether the operations conform to local residents’ interests and demand.\r\n5. System operator’s reward / punishment record and other matters that can affect the operations.\r\nRegarding the results of abovementioned review, a written notification shall be sent to the system operator to request it to make corrections by a prescribed deadline if the central regulatory agency sees a malfunctioned operation or a necessity to make improvements on the system operator’s future operations plan. If no correction is made by the prescribed deadline, the application shall be rejected.\r\nDuring the review and improvement period, the central regulatory agency may issue a temporary license to the system operator, where the maximum validity of the said license shall not exceed a year and is limited to one time only.\r\nFor system operator who obtains temporary license in accordance with preceding Paragraph, the central regulatory agency shall, upon the completion of review or corrections, issue the operating license and the validity of the license shall be counted from the next day after the expiry date of original operating license.\r\nThe items and standards of review mentioned in preceding Paragraph 2 shall be enacted by the central regulatory agency.\r\nA system operator whose application of operating license renewal is rejected shall submit written documents mentioned in Subparagraph 3 through Subparagraph 7 of Paragraph 3 of Article 32 to the central regulatory agency one month prior to the termination of the operation.\r\nUpon the acceptance of system operator’s submission mentioned in preceding Paragraph, the central regulatory agency may adopt the approval / rejection standards of Paragraph 4 of Article 23 for system operator’s subscribers undertaken by other system operators."
+		},
+		{
+			"number": 3200,
+			"content": "When a system operator plans to suspend or terminate the operation of the cable radio and/or television system, it shall submit a written report to the central regulatory agency, and a copy to the local regulatory agency (municipality or county / city government), six months in advance. It shall also notify its subscribers three months in advance.\r\nThe maximum period of abovementioned operation suspension is six months.\r\nThe written documents for suspending or terminating the operations mentioned in Paragraph 1 shall include below information:\r\n1. Reasons of suspending or terminating the operations\r\n2. Period of suspending the operations\r\n3. Subscribers’ right and benefit protection plan and transfer plan\r\n4. Cable television network and cable processing plan\r\n5. Suspending or terminating business promotion plan\r\n6. Other system operators’ letter of undertaking subscribers’ benefits and rights\r\n7. Other items, as specified by the central regulatory agency\r\nWhile accepting system operator’s application mentioned in Paragraph 1, the central regulatory agency shall, regarding the approval of other system operators undertaking the subscribers as mentioned in Subparagraph 3 and Subparagraph 6 of preceding Paragraph, adopt the approval / rejection standards specified in Paragraph 4 of Article 23."
+		},
+		{
+			"number": 3300,
+			"content": "A system operator shall concurrently re-transmit programs and advertisements of legally established terrestrial television stations. The system operator shall not alter the forms, contents, and channel positions of these programs and advertisements and shall include these channels in its basic channels; however, the channel positions may be altered with approval by the central regulatory agency.\r\nNo licensing fees shall be paid for the aforementioned re-transmission, which shall not constitute copyright infringement by the system operator.\r\nTo protect the languages and cultures of the Hakka and indigenous peoples, the central regulatory agency may designate, as conditions require, cable radio and/or television systems to provide free of charge specific channels for broadcasting programs in Hakka and indigenous languages.\r\nIn order to ensure transparency of proceedings and safeguard the rights of the citizens, the system operator shall broadcast parliamentary proceedings of the Legislative Yuan free of charge, subject to the channel location as designated by the competent authority, and shall not change their form; the programs shall be listed as a basic channel.\r\nThe broadcasting of parliamentary proceedings referred to in the preceding paragraph refers to television programs broadcast in accordance with Article 5, paragraph 3, of the Organic Law of the Legislative Yuan."
+		},
+		{
+			"number": 3400,
+			"content": "System operators shall not broadcast the programs or advertisements of a channel provider without permission from the central regulatory agency."
+		},
+		{
+			"number": 3500,
+			"content": "System operators shall transmit programs and advertisements of channel providers completely and shall not change its formats and contents. However, this is not limited to the broadcast of advertisements if both parties have made a written agreement in advance. Besides, the advertisement content shall not violate compulsory or prohibitive regulation, impair the physical or mental health of children or juvenile, and disrupt public order or adversely affect good social customers."
+		},
+		{
+			"number": 3600,
+			"content": "Programs and advertisements transmitted by cable radio and/or television shall acquire legal authorization in accordance with Copyright Act or other relevant regulations.\r\nIf the system operator and channel provider have taken household as the calculation basis for discussing the authorization terms, their discussion shall be based on the number of household announced by the central regulatory agency."
+		},
+		{
+			"number": 3700,
+			"content": "System operators shall set up fair, reasonable, and unbiased on / off shelf standards for satellite channel program provider, other type channel program provider, foreign satellite broadcasting business, and wireless television business, and implementations shall be carried out according to the said standards.\r\nThe aforementioned on / off shelf standards shall be submitted and reported to the central regulatory agency three months prior to the implementation. Any amendment shall also adopt the same rule.\r\nShould the on / off shelf standards mentioned in Paragraph 1 disrupt the fair competition or consumers’ rights and benefits, the central regulatory agency shall command system operators to make corrections by a prescribed deadline.\r\nSystem operators, their affiliated enterprises or directly or indirectly controlled operators shall not, with improper means, cause satellite channel program business, other type channel program business, foreign satellite broadcasting business and wireless television business to discriminate against other system operators or other broadcasting platforms business for public audio-visual reception.\r\nThe scope of the broadcasting platforms for public audio-visual reception mentioned in preceding Paragraph shall be announced by the central regulatory agency."
+		},
+		{
+			"number": 3800,
+			"content": "A system operator who has established its own shopping channel shall acquire the satellite channel program business or other type channel program business license in accordance with Satellite Broadcasting Act.\r\nLimit to the number of shopping channels within system operator’s broadcasting system shall be enacted by the central regulatory agency.\r\nSystem operators who provide cable radio and television services with digitization technology shall not charge subscribers any fees for the shopping channel within its broadcasting system."
+		},
+		{
+			"number": 3900,
+			"content": "System operators shall not use inserted characters, except under the following circumstances:\r\n1. To report a natural disaster or emergency;\r\n2. To publicize public service information;\r\n3. To announce a change of channel;\r\n4. As stipulated by other laws or regulations.\r\nSpecific use principles and methods of abovementioned inserted characters, the scope of public service information and other regulatory matters shall be enacted by the central regulatory agency."
+		},
+		{
+			"number": 4000,
+			"content": "In the event of a natural disaster or emergency, the regulatory agencies may direct system operators to stop transmitting programs or designate specific programs or messages to be transmitted, in order to safeguard public safety and welfare.\r\nWhen the situation mentioned in the preceding Paragraph no longer exists, the regulatory agencies shall immediately notify the system operators to revert to transmission of regular programming.\r\nMeasures for dealing with natural disasters and emergencies mentioned in Paragraph 1 shall be established by the central regulatory agency."
+		},
+		{
+			"number": 4100,
+			"content": "System operators shall provide government agencies, schools, groups and citizens more than one public channel to transmit public welfare, artistic, cultural and social educational programs without any charge. The planning and use of public channels shall be enacted by the central regulatory agency.\r\nThe public channel provided by a system operator shall not have any one of the following actions:\r\n1. To broadcast a program or advertisement that is financed, produced or sponsored by the government and is related to persons planning to participate in campaign.\r\n2. To broadcast a program or advertisement that is financed, produced or sponsored by the government and is based on the topics of persons planning to participate in campaign.\r\n3. To broadcast a placement marketing program commissioned by the government.\r\n4. To broadcast a program that is commissioned by the government and does not reveal messages financed, produced, sponsored or subsidized by the government.\r\n5. To broadcast commercial advertisements."
+		},
+		{
+			"number": 4200,
+			"content": "System operators shall arrange at least one local channel, which provides local residents the programs that conform to their interest and demand in areas designated by the central regulatory agency.\r\nOperators of abovementioned local channels shall obtain satellite channel program business or other channel program business license in accordance with the Satellite Broadcasting Act."
+		},
+		{
+			"number": 4300,
+			"content": "System operators shall set up an exclusive channel that will carry the system operator's name, logo, license number, telephone number of subscribers' complaint hotline, business address, a list of all channels, the license period for each channel, and the programs transmitted on each channel."
+		},
+		{
+			"number": 4400,
+			"content": "System operators shall report the subscription fees to special municipality or county (city) government within a month after the 1st of August every year. The special municipality or county (city) government will examine it in accordance with the standards of service fees enacted by the central regulatory agency and then make an announcement accordingly.\r\nSpecial municipality and county (city) government shall establish fee review committee to approve abovementioned subscription fees. If special municipality or county (city) government has not established fee review committee, it shall then be exercise by the central regulatory agency.\r\nThe accounting system and its standard procedures shall be enacted by the central regulatory agency."
+		},
+		{
+			"number": 4500,
+			"content": "System operators shall set aside 1 percent of their annual operating revenues and submit it to the central regulatory agency for the establishment of a special fund.\r\nThe amount of money provided by the system operator, as mentioned in the preceding Paragraph, shall be used by the central regulatory agency for the following purposes:\r\n1. Thirty percent shall be used by the central regulatory agency for the popularization and development of cable radio and television;\r\n2. Forty percent shall be allocated to the local governments of special municipalities or counties/cities for the construction and maintenance of radio and television relevant piping, popularization service in remote countries, subsidy for disadvantaged minority groups’ television fees, and cable radio and television related local cultural and public facilities.\r\n3. Thirty percent shall be donated to the Public Television Service Foundation.\r\nThe date of suspending the implementation of Subparagraph 3 of preceding Paragraph shall be established by Executive Yuan. Starting from the date of suspending the implementation, the amount originally donated to the Public Television Service Foundation shall be transferred to the central regulatory agency for the use mentioned Subparagraph 1 of preceding Paragraph.\r\nRegulations governing the establishment, payment, use, and management of the special fund mentioned in Paragraph 1 shall be established by the Executive Yuan."
+		},
+		{
+			"number": 4600,
+			"content": "System operators that provide or broadcast content services, with exception to channel programs, shall follow below rules:\r\n1. To provide the name, summary, rating and fees of the content service;\r\n2. Restricted content services shall be encrypted or be offered with other appropriate protection measures.\r\nIf the content service, with exception to channel programs, provided or broadcasted by the system operator may disrupt public order or adversely affect good social customs, the system operator shall stop offering or broadcasting the content service upon receipt of the notification of the respective regulatory agency.\r\nIf the content services provided by the system operator or other content service provider other than channel programs violate compulsory or prohibitive regulations under the law, the respective regulatory agency shall handle it by law."
+		},
+		{
+			"number": 4700,
+			"content": "To facilitate the provision of cable broadcasting digital service, the central regulatory agency may announce its digital service upgrades plan.\r\nThe central regulatory agency may seek for or designate system operators to, within specific experiment area, provide cable radio and / or television business or other emerging services with its digitization technology. The area and period of conducting digitization experiment, experiment plan, category of basic digital channels, examination of quantity and fees, evaluation of experiment plans and other relevant matters shall be enacted by the central regulatory agency."
+		},
+		{
+			"number": 4800,
+			"content": "System operator shall provide all subscribers the cable radio and/or television service with digitization technology while applying for the renewal of operating license for the first time after the implementation of the amendment of this Act on the 18th of December 2015. The central regulatory agency shall not issue renewed operating license to those who fail to do so.\r\nSystem operators shall, within three months after the implementation of the amendment of this Act on the 18th of December 2015, submit phased implementation plan of providing subscribers the cable radio and/or television service with digitization technology and apply for a change of operations plan to the central regulatory agency."
+		},
+		{
+			"number": 4900,
+			"content": "System operators shall not reject, without justification, requests from the local populace to pay for the visual and/or audio reception of cable radio and/or television."
+		},
+		{
+			"number": 5000,
+			"content": "System operators shall sign written contracts with their subscribers for visual and audio services.\r\nThe written contracts mentioned in the preceding Paragraph shall be printed on the reverse side of the receipts issued by the system operators to their subscribers.\r\nThe central regulatory agency shall publicly announce matters that should or should not be included in the standard subscription contract.\r\nGeneral clauses that violate the published standard contract are invalid. The validity of such standard contract shall be determined in accordance with Article 16 of the Consumer Protection Act.\r\nThe contents of the contract mentioned in Paragraph 1 shall include:\r\n1. Rates and restrictions on fee adjustment;\r\n2. Numbers and names of channels, and the expiration date of each channel contract;\r\n3. Selectable payment method and deadline, and the methods of handling delayed payments.\r\n4. Protection measure for subscribers who already pre-paid the television fees.\r\n5. Restrictions on the use of subscribers' basic data;\r\n6. Conditions for giving compensation to subscribers whose rights to visual and audio reception are impaired in the event that the system operator is penalized with termination of transmission, abolishment or revocation of operating permit, or confiscation of facilities;\r\n7. Conditions for giving compensation to subscribers whose rights to visual and audio reception are likely to be impaired in the event that the signals of the subscribed channels are interrupted without justification;\r\n8. Validity of the contract;\r\n9. Subscribers’ complaint hotlines, and;\r\n10. Other items, as specified by the central regulatory agency.\r\nSystem operators who provide channels other than the basic channels and other value-added services shall set up fair and reasonable price and service conditions. Should the said party damage subscribers’ rights and benefits, the central regulatory agency may command it to make changes.\r\nSystem operators shall promptly handle subscribers’ complaints and shall retain the files of such complaints for six months. The regulatory agency may request system operator to respond to the subscribers in writing or in relevant programs.\r\nFor subscribers who have purchased system operators’ visual and audio reception services or other value-added service through digital terminal equipment, system operators shall send notable messages to subscribers before commencing the charging."
+		},
+		{
+			"number": 5100,
+			"content": "A system operator may terminate program transmission to any subscriber who does not pay the subscription fee by the due date and still does not pay after being given periodic past-due notification.\r\nThe right of claim for preceding fees is valid for five years."
+		},
+		{
+			"number": 5200,
+			"content": "When contracts of audio-visual services are terminated, system operators shall remove all related cables within one month. If the cables are not removed within the specified period of time, the owners or occupants of the land or the buildings may remove the cables and request reimbursement for the cost of dismantling and other necessary expenditures from the system operators."
+		},
+		{
+			"number": 5300,
+			"content": "Should the regulatory agency determine that a cable radio and/or television system is inappropriately operated so as to impair, or be likely to impair, the rights and interests of the subscribers, it shall notify the said system operator to make corrections within a specified period of time or take other necessary measures."
+		},
+		{
+			"number": 5400,
+			"content": "A person who intercepts or receives content transmitted by a system without the agreement of the system operator shall pay the basic subscription fee and be liable for civil damages compensation.\r\nIn the event that the time period of unauthorized reception cannot be proven, the fees referred to in the preceding Paragraph shall be calculated as two years of the basic rate."
+		},
+		{
+			"number": 5500,
+			"content": "Regarding dispute over the channel transmission, terms of authorization and determination of the number of households between system operator and channel provider, or disputes among system operators, an adjustment request may be sent to the central regulatory agency. Civil litigation can be made by law for the failure of adjustment."
+		},
+		{
+			"number": 5600,
+			"content": "All the penal provisions of this Act shall be enacted by the central regulatory agency, except under the following circumstances:\r\n1. Article 62, Subparagraph 5 of Article 66, Subparagraph 7 and Subparagraph 9 of Article 69, Subparagraph 2, Subparagraph 4 and Subparagraph 5 of Article 70, and Subparagraph 2 of Paragraph 1 of Article 72 shall be enacted by the special municipality or county (city) government.\r\n2. Article 63, Subparagraph 6 of Article 66, Article 68 and Subparagraph 3 of Article 69 shall be enacted by the central regulatory agency or municipality or county (city) government.\r\nIf the municipality or county (city) government is unable to exercise the authority, the central regulatory agency shall do so in lieu."
+		},
+		{
+			"number": 5700,
+			"content": "Anyone who has operated cable radio and/or television business without approval as violating Article 5 shall be fined an amount from NT$ 1,000,000 up to NT$10,000,000 and be commanded to suspend the operations. If the suspension of operations is rejected, the fine may be imposed consecutively and enforcement of dismantling or confiscating the facilities will be conducted accordingly.\r\nSystem operators who has made changes on the operations plan and expanded the service area without regulatory agency’s approval as violating Paragraph 2 of Article 6 shall be fined an amount from NT$300,000 up to NT$6,000,000 and be commended to make corrections by a prescribed deadline. If no correction is made by the deadline, the fine may be imposed consecutively or the operation permit will be abolished and license will be revoked. Besides, an enforcement of dismantling or confiscating the facilities will be conducted accordingly.\r\nFacilities confiscated according to preceding two Paragraphs shall all be confiscated regardless of the owners."
+		},
+		{
+			"number": 5800,
+			"content": "System operators shall be fined an amount from NT$200,000 up to NT$4,000,000 and be commanded to make corrections by a prescribed deadline in the event of one of the following. If the said system operators fail to do so, the fine may be imposed consecutively or their operation permit and license shall be abolished and revoked.\r\n1. Violation of making corrections by a prescribed deadline as stated in Paragraph 1 through Paragraph 4, and Paragraph 8 of Article 9.\r\n2. Violation of the minimum paid-in capital set by the regulatory agency in accordance with Paragraph 6 of Article 9.\r\n3. Violate Paragraph 4 or Paragraph 6 of Article 20\r\n4. Violate Paragraph 1 or Paragraph 2 of Article 23\r\n5. Violate Paragraph 1 of Article 24\r\n6. Violate Paragraph 3 of Article 25\r\n7. Violation of Paragraph 3 of Article 37, where the system operator refuses to follow central regulatory agency’s command to amend the on / off shelf standards.\r\n8. Violate Paragraph 4 of Article 37\r\n9. Violate Paragraph 1 of Article 44\r\n10. Violate Paragraph 1 of Article 45\r\n11. Violate Paragraph 1 or Paragraph 2 of Article 46\r\nSystem operators violating Paragraph 1 through Paragraph 3 of Article 10 shall be fined an amount from NT$200,000 up to NT$2,000,000 and be commanded to make corrections by a prescribed deadline. If no correction is made by the deadline, the fine may be imposed consecutively or the operation permit will be abolished and license will be revoked."
+		},
+		{
+			"number": 5900,
+			"content": "System operators violating Paragraph 5 of Article 20 shall be fined an amount of NT$ 200,000 up to NT$4,000,000 and be commended to make corrections by a prescribed deadline. If no correction is made by the deadline, the fine may be imposed consecutively or the operation permit will be abolished and license will be revoked.\r\nSystem operators violating Paragraph 8 of Article 20 shall be fined an amount from NT$200,000 up t NT$o 4,000,000 and be commanded to make corrections by a prescribed deadline. If no correction is made by the deadline, the fine may be imposed consecutively or the approval of the changes of the operations plan shall be abolished."
+		},
+		{
+			"number": 6000,
+			"content": "Founders who have obtained the establishment permit and launched the operations before obtaining the operating license shall be fined an amount from NT$200,000 up to NT$4,000,000 and be commanded to make corrections by a prescribed deadline. If no correction is made by the deadline, the fine may be imposed consecutively or the establishment approval and permit will be abolished and revoked."
+		},
+		{
+			"number": 6100,
+			"content": "System operators shall be fined an amount from NT$200,000 up to NT$4,000,000 and be commanded to make corrections by a prescribed deadline in the event of one of the following. If no correction is made by the deadline, the fine may be imposed consecutively:\r\n1.Violation of Paragraph 1 or Paragraph 4 of Article 33;\r\n2.Violation of the central regulatory agency’s designation as stated in Paragraph 3 of Article 33.\r\n3.Violation of Article 34."
+		},
+		{
+			"number": 6200,
+			"content": "System operators shall be fined an amount from NT$200,000 up to NT$4,000,000 in the event of one of the following:\r\n1. Violation of the use of inserted characters as stated in Paragraph 1 of Article 39\r\n2. Violation of the specific use principles, methods, scope of public service of information and other regulatory matters"
+		},
+		{
+			"number": 6300,
+			"content": "System operators who fail to make corrections by a prescribed deadline or take other necessary measures as commended by the regulatory agency according to Article 53 shall be fined an amount from NT$60,000 up to NT$3,000,000 and be commanded to make corrections by a prescribed deadline. If no correction is made by the deadline, the fine may be imposed consecutively or the operation permit will be abolished and license will be revoked."
+		},
+		{
+			"number": 6400,
+			"content": "System operators shall be fined an amount from NT$100,000 up to NT$2,000,000 and be commanded to make corrections by a prescribed deadline in the event of one of the following. If no correction is made by the deadline, the fine may be imposed consecutively or the operation permit will be abolished and license will be revoked. ：\r\n1. Violation of Paragraph 1 or Paragraph 2 of Article 8\r\n2. Violation of central regulatory agency’s command of making corrections as stated in Paragraph 2 of Article 30.\r\n3. Violate Paragraph 1 or Paragraph 2 of Article 37.\r\n4. The number of broadcast shopping channel exceeds the limit set by the central regulatory agency in accordance with Paragraph 2 of Article 38.\r\n5. Violate Paragraph 2 of Article 48"
+		},
+		{
+			"number": 6500,
+			"content": "Founds shall be fined an amount from NT$100,000 up to NT$ 2,000,000 and be commanded to make corrections by a prescribed deadline in the event of one of the following. The fine may be imposed consecutively if no correction is made on time:\r\n1. Violation of Paragraph 4 of Article 14\r\n2. Violation of Article 17"
+		},
+		{
+			"number": 6600,
+			"content": "System operators shall be fined an amount from NT$100,000 up to NT$2,000,000 and be commanded to make corrections by a prescribed deadline in the event of one of the following. The fine may be imposed consecutively if no correction is made on time:\r\n1. Violation of Paragraph 3 of Article 11\r\n2. Violation of Paragraph 2 of Article 21\r\n3. Violation of Paragraph 3 of Article 24, without making a report or the reported content is untrue.\r\n4. Violation of Paragraph 1 of Article 29\r\n5. Violation of Article 35\r\n6. Violation of command made by the regulatory agency in accordance with Paragraph 1 or Paragraph 2 of Article 40\r\n7. Violation of Paragraph 1 of Article 41, fail to provide free public channel\r\n8. Violation of Paragraph 2 of Article 41\r\n9. Violation of Paragraph 1 of Article 42\r\n10. Violation of Paragraph 3 of Article 44"
+		},
+		{
+			"number": 6700,
+			"content": "Anyone who operates the cable television program broadcast system upon receipt of the registration certificate issued by the central regulatory agency before the implementation of the amendment of this Act on the 18th of December 2015 and violates Paragraph 1 of Article 73 shall be fined an amount from NT$100,000 up to NT$2,000,000 and be commanded to make corrections by a prescribed deadline. The fine may be imposed consecutively if no correction is made on time."
+		},
+		{
+			"number": 6800,
+			"content": "Founders or system operators who evade, disturb or refuse examination or command conducted by the central regulatory agency in accordance with Paragraph 2 of Article 74 shall be fined an amount from NT$100,000 up to NT$2,000,000 and be commanded to make corrections by a prescribed deadline. The fine may be imposed consecutively if no correction is made on time."
+		},
+		{
+			"number": 6900,
+			"content": "Founders or system operators shall be fined an amount from NT$60,000 up to NT$1,200,000 and be commanded to make corrections by a prescribed deadline in the event of one of the following. The fine may be imposed consecutively if no correction is made on time:\r\n1. Violation of Paragraph 1 of Article 18\r\n2. Violation of Article 27\r\n3. Violation of Paragraph 1 of Article 28\r\n4. Violation of Paragraph 7 of Article 31\r\n5. Violation of Paragraph 1 of Article 32\r\n6. Violations of the planning and use of public channels stated in Paragraph 1 of Article 41.\r\n7. Violation of Paragraph 1, Paragraph 2, Paragraph 5 or Paragraph 8 of Article 50.\r\n8. Failure to follow regulatory agency’s command to change its service terms as violating provisions of Paragraph 6 of Article 50.\r\n9. Failure to remove the cable by a prescribed deadline as violating provisions of Paragraph 52."
+		},
+		{
+			"number": 7000,
+			"content": "System operators shall be fined an amount from NT$60,000 up to NT$1,200,000 and be commanded to make corrections by a prescribed deadline in the event of one of the following. The fine may be imposed consecutively if no correction is made on time:\r\n1. Violation of system examination, technical standards, system maintenance and other regulatory matters stated in Paragraph 9 of Article 20.\r\n2. Violation of Article 43\r\n3. Violation of Article 49\r\n4. Violation of Paragraph 1 of Article 51, where the visual and radio services are suspended without summon."
+		},
+		{
+			"number": 7100,
+			"content": "Anyone who provides the use or sells terminal equipments without approved qualifications as violating provisions of Paragraph 1 of Article 22 shall be warned or fined an amount from NT$30,000 up to NT$600,000 and be commanded to make corrections by a prescribed deadline. The fines may be imposed consecutively and the equipments may be confiscated if the system operator fails to make corrections on time.\r\nAbovementioned equipments shall be confiscated regardless of the owner."
+		},
+		{
+			"number": 7200,
+			"content": "System operators shall be fined an amount from NT$30,000 up to NT$600,000 NT$ and be commanded to make corrections by a prescribed deadline in the event of one of the following. The fine may be imposed consecutively if no correction is made on time:\r\n1. Violation of Article 26\r\n2. Violation of Paragraph 7 of Article 50\r\nIf the radiation leakage stated in Subparagraph 1 of preceding Paragraph may affect the flight safety and important telecommunication system, the regulatory agency may command the system operator to suspend the transmission until correction is made."
+		},
+		{
+			"number": 7300,
+			"content": "Anyone who has received registration certificate from the central regulatory agency that allows it to continue the operations of cable television transmission system prior to the amendment of this Act made on the 18th of December 2015 shall apply for the issuance of cable radio and television operation permit and license in lieu within two years after the implementation of the amendment of this Act made on the 18th of December 2015.\r\nProvisions of Chapter II shall apply to abovementioned application."
+		},
+		{
+			"number": 7400,
+			"content": "The regulatory agency may dispatch personnel with identity documents to inspect a system and may ask the founder or system operator to provide reports or materials or to take coordinating measures with regard to the facilities or other related matters regulated by this Act. The founder or system operator shall not evade, disturb or refuse it.\r\nTo supervise and manage matters regulated in this Act, the regulatory agency may command the founder, system operator or its affiliate, and other parties regulated in this Act to provide account book, documents and other necessary information, or to notify the party to appear and state his/her opinions."
+		},
+		{
+			"number": 7500,
+			"content": "The central regulatory agency shall charge the applicants review, examination and license fees for processing the applications for review, examination, issuance and renewal of license, in accordance with this act. The standards for the said fees shall be enacted by the central regulatory agency."
+		},
+		{
+			"number": 7501,
+			"content": "Where disposition made by the competent authority pursuant to this Act are objected or challenged, the procedures for administrative litigation shall apply directly. where disposition or decisions made by the competent authority pursuant to other Acts are objected or challenged,the same rule shall apply.\r\nWhere administrative appeal cases are not concluded prior to the enactment of the amendment of this Act, they shall be concluded in accordance with the Administrative Appeal Act."
+		},
+		{
+			"number": 7600,
+			"content": "The Enforcement Rules for this Act shall be established by the central regulatory agency."
+		},
+		{
+			"number": 7700,
+			"content": "This Act shall take effect from the date of promulgation."
+		}
+	]
+}

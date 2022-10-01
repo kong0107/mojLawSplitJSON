@@ -1,0 +1,163 @@
+{
+	"pcode": "N0060025",
+	"LawLevel": "命令",
+	"EngLawName": "Standards governing Prevention of Industrial Robots Hazards",
+	"LawName": "工業用機器人危害預防標準",
+	"EngLawModifiedDate": "20180214",
+	"histories": [
+		"Promulgated on January 19, 1987",
+		"Amended on June 30, 1998",
+		"Amended on June 30, 2014",
+		"Amended on February 14, 2018"
+	],
+	"articles": [
+		{
+			"number": 100,
+			"content": "This Standards are stipulated based on Paragraph 3 of Article 6 of the Occupational Safety and Health Act."
+		},
+		{
+			"number": 200,
+			"content": "The terms used in this Standards are defined as follows:\r\n1. Industrial Robot (hereinafter referred to as “Robots”): refers machine with manipulator and memory device (including variable sequence control device and fixed sequence control device), and automatically perform stretching, flexion and extension, moving, rotating or combination movements of the aforesaid each single movements according to the information from the memory device.\r\n2. Manipulator: refers to devices with the function similar to human upper limbs which can automatically perform stretching, flexion and extension, moving, rotating or combination movements of the aforesaid each single movements to engage any of the following operations:\r\n(1) Holding objects with robotic arms or a suction cups installed at the front end(end-effector) thereof, and making spatial movement.\r\n(2) Performing operations such as spraying or welding with tools installed at the front end(end-effector) thereof such as spray guns for spray coating and welding torches for welding.\r\n3. Range of Motion: refers to the designed maximum range of motion of manipulators and the various parts of Robots (including the tools installed at the front end(end-effector) of manipulators) according to the information from the memory device.\r\n4. Teaching-related Work: refers to the setting, change or confirmation of the designed action programs, positions or speeds of Robots manipulators.\r\n5. Inspection-related Work: refers to the inspection, repair, adjustment, cleaning, oiling, and confirmation of the results of the aforesaid works for Robots.\r\n6. Collaborative Work: refers to the works conducted by human workers and the fixed or mobile Robots.\r\n7. Collaborative Workspace: refers to the specific area of safeguarding for human workers and fixed or mobile Robots."
+		},
+		{
+			"number": 300,
+			"content": "Employers shall take measures to avoid the following hazards upon the decision of adopting the usage of Robots:\r\n1. Damage caused by misoperations, wrong actions and failure.\r\n2. Damage caused by abnormalities from power source.\r\n3. Damage caused by unexpected entry of people or objects into the range of motion.\r\n4. Damage caused by the failure of other connected machines."
+		},
+		{
+			"number": 400,
+			"content": "Robots set by employers shall be equipped with emergency stop devices for immediate shut-down to maintain safety upon any abnormality occurrence."
+		},
+		{
+			"number": 500,
+			"content": "To prevent the damage caused by the physical contact between human workers and Robots, the following functions shall be available for Robots:\r\n1. When switching from the operating mode to the teaching mode, the operating speed of the manipulator shall be automatically reduced. However, such requirement does not include fixed-sequence Robots.\r\n2. If the manipulator is adjustable, the output quantity may be reduced when switching from the operating mode to the teaching mode.\r\n3. Automatic stop operation shall be available upon occurrence if any following conditions, and the indicator signal light shall be set:\r\n(1) Any concerns of failure due to abnormal changes in oil pressure, air pressure or voltage.\r\n(2) Breakage of power source due to power failure.\r\n(3) Malfunction from any the connected machine.\r\n(4) Abnormalities occurred in the control device.\r\n4. Unless manually, Robots shall not be reactivated after the emergency stop or shut-down due to any situations described in the preceding Item.\r\n5. Robots shall be able to automatically stop operation when there is impact to the manipulator caused by human workers’ physical contact."
+		},
+		{
+			"number": 600,
+			"content": "Robots shall be able to hold the objects tightly and firmly upon the shut-down caused by situations of Article 4 or Item 3 of the preceding Article."
+		},
+		{
+			"number": 700,
+			"content": "The control panel of Robots set by employers shall be regulated as follows:\r\n1. The position and usage status of the switch shall be clearly marked when the control panel has the following functions:\r\n(1) The “On/Off” sign of machinery power switch.\r\n(2) The “On/Off” sign of oil pressure or air pressure switch.\r\n(3) “Start” and “Stop”.\r\n(4) Signs indicating the switching between the operating modes such as automatic, manual, teaching or confirmation.\r\n(5) Signs indicating the setting of the operating speed of the manipulator.\r\n(6) The action of the manipulator.\r\n(7) The action of the emergency stop device.\r\n2. The switch for emergency stop device shall be constructed with easy-to-operate approach, located at an easy-to-operate position and shall be marked with the color red.\r\n3. No other switches which may cause confusion or risk of misoperation shall be set near the proximity of the switch for emergency stop device."
+		},
+		{
+			"number": 800,
+			"content": "The fixed control panel of Robots set by employers shall be regulated as follows:\r\n1. Switch allowing mode changing between automatic and manual shall be set. However, such requirement does not include fixed-sequence Robots.\r\n2. Signal light available to indicate the action status under the manual mode. However, such requirement does not include fixed-sequence Robots.\r\n3. Signal light available to indicate the action status under the automatic mode.\r\n4. Terminals for grounding shall be equipped.\r\n5. Switches other than the one for the emergency stop device shall be designed with guard or as countersunk head type."
+		},
+		{
+			"number": 900,
+			"content": "The mobile control panel of Robots set by employers shall be regulated as follows:\r\n1. Robot operated using the control panel shall not be operated by any other devices except for the operation of the emergency stop device.\r\n2. Under the teaching mode, the switch controlling the panel shall be able to automatically shut-down the actions of Robots immediately when releasing such switch.\r\n3. Mobile cables connected to the control panel shall have necessary strength and wear resistance."
+		},
+		{
+			"number": 1000,
+			"content": "Robots used by employers shall be equipped with the following terminals contacts:\r\n1. The terminal contacts able to provide signals displaying the activation of the emergency stop device or automatic stop operation described in Subparagraph 3 of Article 5, and stop operation of the connected machinery.\r\n2. The terminal contacts able to input the signals required for shutting down Robots upon malfunction of connected machinery.\r\n3. The terminal contacts able to provide signals required to operate the emergency stop device which may be input from the switch described in Paragraph 5 of Article 18."
+		},
+		{
+			"number": 1100,
+			"content": "Robots set by employers shall have the ability to easily and safely carry out teaching-related works and inspection-related works."
+		},
+		{
+			"number": 1200,
+			"content": "Robots set by employers shall not have hazardous parts such as protrusions, sharp corners or gears exposed except for the necessary parts in use."
+		},
+		{
+			"number": 1300,
+			"content": "Pneumatically driven Robots used by employers shall have the structure allowing the residual pressure in the driving cylinder to be easily and safely discharged."
+		},
+		{
+			"number": 1400,
+			"content": "For Robots set by employers, motion direction of the joint parts of the manipulator may be marked, and the marked motion direction shall be consistent with the marked direction of the action on the control panel."
+		},
+		{
+			"number": 1500,
+			"content": "Robots set by employers shall have the following functions to adapt the environment:\r\n1. Resistant to the temperature, humidity, dust, vibration, etc. of the installation location.\r\n2. Appropriate explosion proof structure for Robots’ electrical equipment used if installed at the locations where flammable liquid vapor, flammable gas, flammable dust, etc. are retained or dust with deflagration nature is piled which generate high risk of fire outbreak or explosion."
+		},
+		{
+			"number": 1600,
+			"content": "Employers shall indicate the following items at the clear and visible parts of Robots:\r\n1. The name of the manufacturer.\r\n2. The manufacturing year and month.\r\n3. The type.\r\n4. The rated output power of the driving motor."
+		},
+		{
+			"number": 1700,
+			"content": "Robots set by employers shall be checked for the following items according to the instructions:\r\n1. The type.\r\n2. The structure (including the name of the main parts) and the principle of action (control mode or driving mode, etc.).\r\n3. The rated output power of the driving motor.\r\n4. The rated load capacity.\r\n5. The maximum operating speed of the front end(end-effector) of the manipulator during automatic mode and the action speed at the front end(end-effector) of the manipulator during the teaching mode.\r\n6. The maximum force or torque of the manipulator and the force or torque of the manipulator during the teaching mode operation.\r\n7. The range of motion.\r\n8. The allowable range of variation of oil pressure, air pressure and voltage.\r\n9. Noise sound pressure level.\r\n10. Types and performance of safety functions.\r\n11. Installation methods and safety notice during installation.\r\n12. Lifting methods and safety notice during lifting.\r\n13. Safety notice for operation of automatic mode (including start and abnormality occurrence).\r\n14. Operation methods for teaching-related works and related notice during teaching.\r\n15. Operation methods for inspection-related works and related notice during inspection so as to ensure the reserved safety workspace.\r\n16. Pre-operation checkpoints, periodic inspection and the methods, criteria and implementation period.\r\n17. Other matters related to Robots Installation."
+		},
+		{
+			"number": 1800,
+			"content": "Configuration of Robots by employers shall be regulated by the following requirements:\r\n1. Ensuring necessary space for safe implementation of operations.\r\n2. The fixed control panel shall be set outside the range of motion, and allow the operator to visually observe the position of Robots comprehensively.\r\n3. Pressure gauges, oil pressure gauges and other measuring instruments shall be located in a clearly visible position and indicate the safe working area.\r\n4. Electrical wiring, hydraulic piping, and pneumatic piping shall be located to prevent damage from the manipulator and tools could affect.\r\n5. The emergency stop device switch shall be installed at an appropriate spot outside the control panel.\r\n6. The emergency stop device and indicator signal light shall be set at the location where Robots could be is clearly observed from."
+		},
+		{
+			"number": 1900,
+			"content": "Robots limiting device set by employers shall be regulated by the following requirements:\r\n1. The mechanical limiting device shall have sufficient strength.\r\n2. The action circuit of the electrical limiting device shall be set separately from the program circuit controlling Robots."
+		},
+		{
+			"number": 2000,
+			"content": "The status of motion and performance of limiting device between the action of Robots and connected machine shall be clearly confirmed after the setting of Robots which shall not be used until no abnormality is detected."
+		},
+		{
+			"number": 2100,
+			"content": "Employers shall set fences or barriers around the range of motion of Robots according to the following regulations:\r\n1.Workers shall not be easy to enter the range of motion except entrances and exits.\r\n2. The entrances and exits of the installation site shall be marked and informed to the workers for prohibiting any entry during operation, and one of the following measures shall be taken:\r\n(1) Opto-electronic safety devices, safety mats or other devices with equivalent functions shall be provided at the entrances and exits.\r\n(2) Door or pillars for stabling, ropes or chains which are easy to identify from the periphery of the entrances and exits, and when the door are opened or ropes (or chains) are detached, the emergency stop device shall be able to react immediately.\r\nEmployers using Collaborative Robots shall comply with Chinese National Standards CNS14490 series, International Organization for Standardization ISO10218 series or any equivalent standards, and carry out evaluations on the following matters. After the produced safety evaluation report is retained, it is available not to be subject to the requirements of the preceding Paragraph:\r\n1. The brief introduction to the operation or process of Collaborative Robots.\r\n2. Safety management plan.\r\n3. Safety certification report or declaration of conformity.\r\n4. Safety procedures and reports of the Commissioning test.\r\n5. Safety Procedures and reports of the Initial start-up.\r\n6. Automatic inspection plan and inspection record form.\r\n7. Emergency response plan.\r\nEmployers using Collaborative Robots shall re-evaluate the information provided required by the preceding Paragraph when the design changed or every five years, and record and save relevant reports for the minimum period of five years.\r\nIn the evaluations set out in the preceding two Paragraphs, employers shall convene the following personnel to form the evaluation team for assessment implementation:\r\n1. The person in charge of the workplace.\r\n2. Professionals of the designing, manufacture or installation of Robots. However, personnel familiar the process of collaborative robots may be assigned for the re-evaluation for every five years in the preceding Paragraph.\r\n3. Occupational safety and health personnel dispatched in accordance with assign lines for Occupational Safety and Health Management.\r\n4. Workplace supervisors.\r\n5. Workers familiar with the workplace."
+		},
+		{
+			"number": 2200,
+			"content": "The opto-electronic safety device of the preceding Article shall comply with the following requirements:\r\n1. When it is detected that a worker is closing to the range of motion, the emergency stop device shall immediately react.\r\n2. The sufficient optical axes necessary to detect workers entering the range of motion.\r\n3. Measures to prevent the receiver from being exposed to other light source that not from the transmitter."
+		},
+		{
+			"number": 2300,
+			"content": "Employers shall dispatch monitoring personnel at the sites not reached by the range of motion of Robots to prevent any workers from entering the range of motion of Robots with not necessary purpose.\r\nEmployers shall prohibit workers who are not permit to work with Collaborative Robots from entering the collaborative workspace."
+		},
+		{
+			"number": 2400,
+			"content": "Employers should establish safety standards for the following matters and enable workers to perform operations in accordance such standards:\r\n1. Operation methods and steps of Robots, including the necessary methods such as the starting and switching operation.\r\n2. The operation speed of the manipulator under teaching-related works.\r\n3. The communication signal when two or more workers are working together.\r\n4. The contingency measures taken by the workers in the event of abnormal.\r\n5. The method of confirming the elimination of abnormal situation and resuming safety before restarting Robots due to the activation of emergency stop device."
+		},
+		{
+			"number": 2500,
+			"content": "The start and mode switch, etc. shall be labeled “Operation now” or the cover of control panel shall be lock out to prevent irrelevant personnel from accidentally touching or operating when employers assign workers to operate Robots."
+		},
+		{
+			"number": 2600,
+			"content": "Employer assign workers operating tasking within the range of motion of Robots shall take at least one of the following measures or the equivalent actions to have Robots shut-down immediately when abnormal situations occur:\r\n1. Dispatching monitoring personnel at the sites not reached by the range of motion of Robots to conduct the following tasks:\r\n(1) Immediately operate the emergency stop device in the event of an abnormal conditions.\r\n(2) Strictly prohibit irrelevant personnel entering the range of motion.\r\n2. Deliver the emergency stop device switch to workers who are engaged in the work within the range of motion.\r\n3. Use the mobile control panel specified in Items 1 and 2 of Article 9 to conduct related tasks.\r\nIf workers engaging in the operation Robot are unable to handle the overall operating state of the movable parts of Robots, the measures specified in Item 1 of the preceding Paragraph shall be adopted."
+		},
+		{
+			"number": 2700,
+			"content": "Employers assign workers engage in teaching-related works shall in advance confirm the following matters and take any necessary measures to improve the detected abnormalities:\r\n1. Whether the exterior casing of cables is damaged.\r\n2. Whether there are any abnormal situations of the operation of the manipulator.\r\n3. Whether the function of the control device and the emergency stop device is normal.\r\n4. Whether air or oil leaks from the pipes.\r\nThe confirmation tasks specified in Item 1 of the preceding Paragraph shall be implemented after the operation stop; the ones specified in Items 2 and 3 shall be carried out in the area not reached by the range of motion."
+		},
+		{
+			"number": 2800,
+			"content": "Employers equipping Robots with tools such as welding torch or spray gun at the front end(end-effector) of the manipulator shall adopt automatic cleaning mechanism to clean the tools to prevent workers from entering the range of motion. However, such requirement does not include those who have difficulty to implement."
+		},
+		{
+			"number": 2900,
+			"content": "Employers assign workers working on the decomposition of the pneumatic system and the replacement of spare parts shall fully discharge the residual pressure in the driving cylinder in advance."
+		},
+		{
+			"number": 3000,
+			"content": "Employers assign workers performing the operation check for Robots shall have such tasks implemented in the area not reached by the range of motion. However, such requirement does not include those who have difficulty to implement."
+		},
+		{
+			"number": 3100,
+			"content": "Employers assign workers performing the teaching-related works or inspection-related works in the range of motion shall take necessary measures of Articles 24 to 30. However, the provisions of Articles 24 and 26 shall not be applied when implementing teaching-related works under the driving source is closed or inspection-related works when machine is fully shut down."
+		},
+		{
+			"number": 3200,
+			"content": "Employers shall confirm the following matters and specify certain communication signals prior to assign workers activating Robots:\r\n1. No one is at presence within the range of motion.\r\n2. The mobile control panel or tools have been placed in proper positions.\r\n3. No abnormality is indicated in the abnormal indicator of Robots or connected machine."
+		},
+		{
+			"number": 3300,
+			"content": "Employers shall confirm the indicator light is displayed during the automatic operation after activating of Robots for automatic operation. When Robots or connected machine have any abnormality and workers are required to enter the range of motion for repair, robot shall be shut down in advance before workers enter the range of motion by emergency stop device. The marked sign as “No Touching!” shall be placed at the start switch by the personnel in addition to safety plugs."
+		},
+		{
+			"number": 3400,
+			"content": "Employers shall set appropriate safeguarding based on the features of weight, temperature or chemical properties of each object or workpiece to prevent flying or falling objects or workpiece held by Robots."
+		},
+		{
+			"number": 3500,
+			"content": "Employers shall mark the contents of the operation programs of Robots on the tapes, FDs, disks, CDs or perforated tapes storing them and the containers storing these memory devices, respectively to prevent the selection error."
+		},
+		{
+			"number": 3600,
+			"content": "Employers shall take measures to prevent dust, temperature, humidity, or magnetic force from affecting tapes, FDs, disks, CDs or perforated tapes storing operation programs of Robots which may cause irregular operations."
+		},
+		{
+			"number": 3700,
+			"content": "This Standards take effect on the date of promulgation.\r\nThe amended articles of the Standards shall take effect on July 3, 2014.\r\nThe amended articles of the Standards promulgated on February 14, 2018 shall take effect on the date of promulgation."
+		}
+	]
+}

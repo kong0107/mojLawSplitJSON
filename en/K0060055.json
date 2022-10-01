@@ -1,0 +1,288 @@
+{
+	"pcode": "K0060055",
+	"LawLevel": "命令",
+	"EngLawName": "Accounting Standards and Regulations for the Type I Telecommunications Enterprises",
+	"LawName": "第一類電信事業會計制度及會計處理準則",
+	"EngLawModifiedDate": "20081120",
+	"histories": [
+		"59 Articles promulgated in full by the Ministry of Transportation and Communications（MOTC）on Aug. 7,1999. Ref： Jiao-Yu-Fa Tze  No.8941",
+		"The amendment of Article 51 promulgated by  MOTC on July 16, 2002, Ref：Jiao-Yu-Fa Tze .No. 091B000065",
+		"The amendment of Articles 2,3,5,7,10,11,30,41,43,48,51 to 55 and 58  promulgated by   National Communications Commission（NCC） on July 5, 2007. Ref： Tung-Chuan-Fa Tze No. 09605096211",
+		"The amendment of Articles 11 and  21  promulgated by NCC  on Nov. 20, 2008.  Ref：Tung-Chuan-Chi Tze No. 09740033580"
+	],
+	"divisions": [
+		{
+			"type": "chapter",
+			"number": 100,
+			"title": "General Provisions",
+			"start": 100,
+			"end": 300
+		},
+		{
+			"type": "chapter",
+			"number": 200,
+			"title": "Entity Accounting",
+			"start": 400,
+			"end": 1000
+		},
+		{
+			"type": "chapter",
+			"number": 300,
+			"title": "Separations Accounting",
+			"start": 1100,
+			"end": 5000
+		},
+		{
+			"type": "chapter",
+			"number": 400,
+			"title": "Administrative Management",
+			"start": 5100,
+			"end": 5600
+		},
+		{
+			"type": "chapter",
+			"number": 500,
+			"title": "Miscellaneous Provisions",
+			"start": 5700,
+			"end": 5900
+		}
+	],
+	"articles": [
+		{
+			"number": 100,
+			"content": "These regulations are enacted under paragraph 2 of Article 19 of the Telecommunications Act."
+		},
+		{
+			"number": 200,
+			"content": "The terms of these Regulations are defined as follows:\r\na. \"An Operator\": A Type I telecommunications enterprise that holds the franchise and the license granted by the Ministry of Transportation and Communications for operation of telecommunications services.\r\nb. \"Licensed Segment\": The segment, within an Operator, that provides telecommunication services; including both First Category Segment and Second Category segment.\r\nc. \"First Category Segment\": The segment of the Operator installs telecommunications line facilities and equipment in order to provide telecommunications services.\r\nd. \"Second Category Segment\": The segment of the Operator does not install telecommunications line facilities and equipment in the provision of telecommunications services.\r\ne. \"Other Segment\": It refers to any non-telecom services segment run by the Operator.\r\nf. \"Related parties\": As defined under Statements of Financial Accounting Standards (SFAS) No. Six Accounting for Related Parties, issued by the Financial Accounting Standards Committee of the Accounting Research and Development Foundation of the Republic of China.\r\ng. \"Entity Accounting\": The accounting principles, accounting policies, and Chart of Accounts prescribed for an Operator to classify and report financial transactions for the Operator as a whole.\r\nh. \"Separations Accounting\": The concepts, methodologies, as well as practices prescribed for an Operator to attribute its revenues, costs, and assets to individual Licensed Service segments within the Licensed Segment or to Other Segment.\r\ni. \"Procedure Manual\": A document illustrating the detailed steps an Operator has adopted to implement the requirements of this Code.\r\nj. \"Capital cost\": The opportunity cost of the funds invested for the provision of telecommunications services.\r\nk. \"Jointly acquired asset\": An asset that is purchased or constructed with an intention of it being used by an Operator and its related parties, and has limited alternative uses.\r\nl. \"Data pool\": A mechanism collects data for allocating costs, revenues, and assets, based on their relation to the intermediate activities of providing telecommunication services, or to individual Licensed Service segments.\r\nm. \"Driver\": A factor that causes costs, assets, and revenues to arise; it is used to measure the extent to which individual Licensed Services consume various economic resources.\r\nn. \"Attributable Cost Method\": A cost allocation method by which costs are allocated in proportion to the attributable costs of individual Licensed Service segments, including direct and directly attributable as well as indirectly attributable costs."
+		},
+		{
+			"number": 300,
+			"content": "The authority governing telecommunications accounting matters is the Directorate General of Telecommunications (herein after the DGT) of the Ministry of Transportation and Communications."
+		},
+		{
+			"number": 400,
+			"content": "In preparing financial reports, an Operator shall follow the guidance about accounting policies, system, procedures, methods, process, and principles prescribed in this Code. Those issues not explicitly prescribed in this Code shall follow generally accepted accounting principles."
+		},
+		{
+			"number": 500,
+			"content": "Unless otherwise approved by DGT, asset transfers between an Operator and its related parties shall be recorded at the fair market value. If the fair market value of an asset transferred is not available, the transfer shall be recorded at the book value of the asset transferred."
+		},
+		{
+			"number": 600,
+			"content": "Except for the use of a jointly acquired asset under Article 8, the receipt and provision of products, services, and use of property between an Operator and its related parties shall be recorded at product of actual transaction volume and unit price.\r\nThe unit charges shall be determined in the following order:\r\na. Tariffs.\r\nb. Prevailing market prices.\r\nc. Full costs, including capital cost, incurred in providing the products, services, or use of property."
+		},
+		{
+			"number": 700,
+			"content": "Unless otherwise approved by DGT, the acquisition of a jointly acquired asset shall be recorded, based on respective anticipated usage, by the Operator and its related parties.\r\nAnticipated usage is the usage anticipated at the effective date of this Code or at the time of asset acquisition, whichever is later."
+		},
+		{
+			"number": 800,
+			"content": "The periodic costs of a jointly acquired asset shall be allocated to an Operator as follows:\r\na. When the total actual usage of all users（i.e. the Operator and its related parties） is greater than or equal to the total anticipated usage of all users, the periodic costs shall be allocated to the Operator based on the Operator's actual usage.\r\nb. When the total actual usage of all users is smaller than the total anticipated usage of all users, the periodic costs shall be allocated to the Operator as follows:\r\n1. If the actual usage of the Operator is greater than or equal to its anticipated usage, the periodic costs shall be allocated to the Operator based on its actual usage.\r\n2. If the actual usage of the Operator is less than its anticipated usage, the Operator's allocation base equals the Operator's anticipated usage less the usage discrepancy adjustment. The usage discrepancy adjustment is the product of \"the difference between the total actual usage and total anticipated usage of all \"over-used\" operators (meaning those users whose actual usage is greater than anticipated usage)\" and \"the ratio of dividing the difference between the operator's anticipated usage and actual usage by the difference between the total anticipated usage and total actual usage of all \"under-used\" operators, including the operator, (meaning those users whose anticipated usage is greater than actual usage)\". Under this condition the allocation of the periodic costs is illustrated in an example below.\r\nanticipated  usage                     actual usage\r\nA            60                               40\r\nB            30                               15\r\nC            10                               20\r\nTotal        100                              75\r\nthe periodic costs of  A =  60 – (20 – 10) x   ( 60-40 )/[(60-40)+(30-15) ]\r\nthe periodic costs of  B =  30 – (20 – 10) x   ( 30-15 )/[(60-40)+(30-15) ]\r\nThe allocation of the periodic costs to a related party may follow the same methodology.\r\nThe periodic costs of a jointly acquired asset, as referred to in the first paragraph, comprises all asset-related charges such as operating costs and capital costs."
+		},
+		{
+			"number": 900,
+			"content": "Depreciation shall be charged on a straight-line basis over the estimated economic useful life for a depreciable asset. The estimated economic useful life shall be more than or equal to the life allowed in \"Table of Useful Life of Depreciable Asset\" prescribed by the Executive Yuan."
+		},
+		{
+			"number": 1000,
+			"content": "An Operator shall follow the classification and coding scheme prescribed in this Code to maintain its accounting records and other books of accounts. The Chart of Accounts is prescribed separately in a supplement to this Code by the DGT."
+		},
+		{
+			"number": 1100,
+			"content": "An Operator shall attribute all costs, assets and revenues recorded under Entity Accounting to First Category Segments, Second Category Segments, and Other Segment. The Operator shall further attribute the data items under the First Category Segment into its constituting Licensed Service segments.\r\nLicensed Service segments include \"Local Network Business\", \"Long Distance Network Business\", \"International Network Business\", \"Leased-Circuit Business\", \"Cellular Phone services\",” Third Generation Mobile Telecommunications Service”,” Wireless Broadband Access Services”, \"Digital Low-powered Cordless Phone services\", \"Radio Paging services\", \"Mobile Data services\", \"Trunked Radio services\", \"Mobile Satellite Services\", \"Fixed Satellite Services\", and \" Satellite TV programs uplink services\".\r\nThe DGT may require the Operator to disaggregate the financial data of aforementioned Licensed Service segments by operational items.\r\nThe separations accounting-related information provided by the Operator must be consistent with its Entity Accounting-related information."
+		},
+		{
+			"number": 1200,
+			"content": "The costs, assets, and revenues unrelated to the operation of Licensed Segment shall be recorded separately, from those associated with the operation of Licensed Segment, in an Operator's records, subsidiary ledgers and general ledgers. When recording separately is infeasible, the separation methodologies prescribed shall apply."
+		},
+		{
+			"number": 1300,
+			"content": "In implementing accounting separation, an Operator shall adhere to the following principles:\r\na. Costs, assets, and revenues shall be attributed to Licensed Service segments in accordance with the activities that cause those costs, assets, or revenues to arise.\r\nb. The attribution of cost, assets, and revenues shall be objective and unbiased.\r\nc. There shall be consistency of separation treatments from year to year.\r\nd. The attribution methods used for costs, assets and revenues shall be reasonable and transparent.\r\ne. Where sampling is used, it shall be based on generally accepted statistical techniques or methods."
+		},
+		{
+			"number": 1400,
+			"content": "Accounting separation shall be performed based on the financial information resident in the Operators' accounting systems that meet the requirements of this Code, and operational information.\r\nOperational information shall include information relating to network architecture, network capacity, network usage, service and business volumes and other measures of activity."
+		},
+		{
+			"number": 1500,
+			"content": "The methods for recording internal transactions shall be documented in an Operator's Procedure Manual.\r\nThe internal transactions between individual Licensed Service segments, such as receipt and provision of products, services, and use of property, as well as asset transfers shall be recorded in an Operator's accounting system."
+		},
+		{
+			"number": 1600,
+			"content": "An Operator shall classify each item of costs, assets, and revenues, based on its relevance to Licensed Service segments, into following categories:\r\na. Direct and directly attributable items: those items which can be directly and unambiguously related to individual Licensed Service segments and can be traced against the relevant Licensed Service segments in the Operator's records, subsidiaries ledgers and general ledgers.\r\nb. Indirectly attributable items: those items which can be related to individual Licensed Service segments on a non-arbitrary basis, but cannot be traced against the relevant Licensed Service segments in the Operator's records, subsidiaries ledgers and general ledgers.\r\nc. Unattributable items: those items for which no direct or indirect method of apportionment can be identified.\r\nTo the extent possible, those items which can be determined to be directly and unambiguously related to individual segments shall be recorded against the relevant Licensed Service segments in the Operator's records, subsidiaries ledgers and general ledgers."
+		},
+		{
+			"number": 1700,
+			"content": "After classifying costs, assets, and revenues under Article 16, an Operator shall perform separation procedures in the following ways:\r\na. Direct and directly attributable items shall be directly allocated to those Licensed Service segments that are identified to cause those items to arise.\r\nb. Indirectly attributable items shall be allocated to the relevant segments using appropriate drivers.\r\nc. Unattributable items shall be allocated to Licensed Service segments using the Attributable Cost Method."
+		},
+		{
+			"number": 1800,
+			"content": "In implementing Separations Accounting under Article 17 for an indirectly attributable item, an Operator shall follow the following procedures and methods of driver analysis and data collection:\r\na. The Operator shall first review the indirectly attributable item's relation to the intermediate activities of providing services, and then review the relation between the intermediate activities and Licensed Service segments, to identify the drivers.\r\nb. The Operator shall set up data pools to collect data associated with each of the intermediate activities, and allocate the items in each pool to individual Licensed Service segments, using the drivers identified earlier."
+		},
+		{
+			"number": 1900,
+			"content": "In allocating indirectly attributable costs, assets, and revenues, an Operator may adopt sampling techniques to estimate the measures required by the driver analysis."
+		},
+		{
+			"number": 2000,
+			"content": "Operating costs shall be attributed, under Articles 16 through 19, either directly to individual Licensed Service segments or to cost pools called Network Components, Supporting Functions, and General Administrative and Miscellaneous Functions. These are defined as follows:\r\na. Services cost pool: This pool contains the costs that can be directly identified with a particular Licensed Service segment, including those costs of network components, supporting functions, as well as general administrative and miscellaneous functions that can be directly attributed to a particular Licensed Service segment.\r\nb. Network Components cost pool: This pool contains the costs relating to the various components of transmission, switching, local loop and other network plant and systems. The costs will be in respect of network components that cannot be attributed directly to a particular Licensed Service segment as they are utilized in the provision of a number of services.\r\nc. Supporting Functions cost pool: This pool contains the costs of functions necessary for the provision of services to the customers and for supporting the network components, excluding those functions which can be directly attributed to a particular Licensed Service segment. Examples of supporting functions include network planning, power plant, billing, maintenance, and customer services.\r\nd. General Administrative and Miscellaneous Functions cost pool: This pool contains the costs of functions that are not related to the provision of a particular service but are an important part of the operations of an Operator. Examples of such costs include planning, personnel, and general finance.\r\nOperating costs are those direct and indirect costs necessary and reasonable for an Operator to provide services. Examples of such costs include depreciation, personnel costs, and advertising expenditures.\r\nOperating costs with similar drivers may be combined in the attribution process."
+		},
+		{
+			"number": 2100,
+			"content": "The network components shall be unbundled into local loops, exchange equipment, transmission equipment, trunks, network interfaces, directory equipment and services,  signaling network equipment and base stations.\r\nThe unbundled network components shall be assigned to individual Licensed Service segments, to the extent possible."
+		},
+		{
+			"number": 2200,
+			"content": "The supporting functions shall be decomposed into network management, power, materials management, billing and collection, customer service, marketing, sales commission, installation, product development, and other supporting functions. For those functions that can not be classified into these items, additional categories shall be employed."
+		},
+		{
+			"number": 2300,
+			"content": "The general administrative and miscellaneous functions shall be decomposed into executive and planning, procurement, finance and accounting, information technology, research and development, regulatory affairs, other general administrative functions, and miscellaneous functions."
+		},
+		{
+			"number": 2400,
+			"content": "After the cost pool decompositions under Articles 21 through 23, each of those decomposed cost pools whose constituent cost items are related to individual Licensed Service segments through multiple cost drivers shall be further decomposed according its cost drivers."
+		},
+		{
+			"number": 2500,
+			"content": "In the cost data collection process, costs incurred shall first be attributed to individual operational units that directly causes the costs to arise, and then follow the Separations Accounting methodologies prescribed under Articles 20 through 24.\r\nThe cost data collection process could involve a number of detailed sub-processes, depending on how the cost information is initially captured in an Operator's accounting system. The attribution of costs shall follow the Separations Accounting methodology prescribed in this Code."
+		},
+		{
+			"number": 2600,
+			"content": "The personnel related costs shall be allocated to activities that have a more causal relationship with Licensed Service segments, based on work time distribution studies for individuals performing each intermediate activity, and weighted average hourly rate of the individuals performing the intermediate activity. The Separations Accounting methodology prescribed under Section 25 shall then apply."
+		},
+		{
+			"number": 2700,
+			"content": "Depreciation charges shall be allocated to individual operational units using the Separations Accounting methodologies prescribed under Articles 35 through 43 for related assets. The Separations Accounting methodology prescribed under Article 25 shall then apply."
+		},
+		{
+			"number": 2800,
+			"content": "After classifying operating costs under Articles 20 through 24, an Operator shall perform cost allocation in the following tiered steps:\r\na. To allocate the costs of General Administrative and Miscellaneous Functions across Services, Network Components, and Supporting Functions cost pools, using Attributable Cost Method.\r\nb. To allocate the Supporting Functions costs to Services cost pools, and Network Components cost pools, based on appropriate cost drivers.\r\nc. To allocate the Network Components costs to Services cost pools based on appropriate cost drivers.\r\nd. To group Services costs into Licensed Service segments."
+		},
+		{
+			"number": 2900,
+			"content": "In the cost driver analysis, network components shall be first disaggregated into traffic sensitive and non-traffic sensitive network components using equipment records.\r\n\"Traffic sensitive network components\" means the components of the network which are used by a number of customers in common. \"Non-traffic sensitive network components\" means the components of the network which are dedicated to a particular customer.\r\nThe costs of traffic sensitive network components shall be allocated to individual Licensed Service segments on the basis of network usage.\r\nThe costs of non-traffic sensitive network components are allocated to individual Licensed Service segments on the basis of network resources used.\r\nThe network component cost data shall be prepared to the extent of seperate exchange office or exchange area."
+		},
+		{
+			"number": 3000,
+			"content": "Detailed guidelines on cost allocation bases under Article 28 are prescribed separately in a supplement to this Code by the DGT."
+		},
+		{
+			"number": 3100,
+			"content": "The costs associated with spare capacity shall be allocated to individual Licensed Service segments, based on the same allocation methodology as working facilities of plant and equipment.\r\nThe costs associated with spare capacity, as referred to in the first paragraph, such as network equipment, land, and buildings, results from economies in the provisioning for current and future communications plant and equipment needs."
+		},
+		{
+			"number": 3200,
+			"content": "Except for the use of an internal jointly acquired asset under Article 33, the receipt and provision of products, services, and use of property between Licensed Service segments shall be accounted for using the Separations Accounting methodology prescribed under Article 6."
+		},
+		{
+			"number": 3300,
+			"content": "The periodic costs of an internal jointly acquired asset shall be allocated to individual Licensed Service segments, using the Separation Accounting methodology prescribed under Article 8.\r\nAn internal jointly acquired asset is an asset that is purchased or constructed with an intention of it being used by two or more Licensed Service segments, and has limited alternative uses."
+		},
+		{
+			"number": 3400,
+			"content": "In the process of cost separation, a cost item shall preserve the same account title as it is shown in the Operator's entity statement of income."
+		},
+		{
+			"number": 3500,
+			"content": "Assets shall be attributed, using the Separation Accounting methodologies prescribed under Articles 20 through 24."
+		},
+		{
+			"number": 3600,
+			"content": "In performing the data collection for asset attribution, an Operator shall follow the data collection process prescribed under Article 25."
+		},
+		{
+			"number": 3700,
+			"content": "After being classified into data pools under Article 35, assets shall be allocated to individual Licensed Service segments, using the allocation process prescribed under Article 28."
+		},
+		{
+			"number": 3800,
+			"content": "An asset transferred between individual Licensed Service segments shall be recorded as prescribed under Article 5."
+		},
+		{
+			"number": 3900,
+			"content": "Spare capacity shall be attributed to individual Licensed Service segments, using the Separations Accounting methodology prescribed under Article 31 for the associated costs."
+		},
+		{
+			"number": 4000,
+			"content": "Internal jointly acquired assets shall be allocated to individual Licensed Service segments, using the Separations Accounting methodology prescribed under Article 8."
+		},
+		{
+			"number": 4100,
+			"content": "Unless otherwise approved by the DGT, an asset associated with the receipt and provision of non-telecommunications services or the use of property between Licensed Service segments, shall be allocated to individual Licensed Service segments using the same separations accounting methodology for its associated operating costs."
+		},
+		{
+			"number": 4200,
+			"content": "In the process of asset separation, an asset shall preserve the same account title as shown in the Operator's entity balance sheet."
+		},
+		{
+			"number": 4300,
+			"content": "Detailed guidelines on Asset Separations Accounting methodology are prescribed separately in a supplement to this Code by the DGT."
+		},
+		{
+			"number": 4400,
+			"content": "The capital cost allowed for the investment in a Licensed Service segment or in an activity shall be the product of the Operator's cost of capital multiplied by the value of capital employed by the Licensed Service segment or the activity."
+		},
+		{
+			"number": 4500,
+			"content": "The capital employed by a Licensed Service segment or an activity shall be its associated assets attributed under Articles 35 through 43. It shall include fixed assets and working capital directly employed, as well as other assets attributed by allocation."
+		},
+		{
+			"number": 4600,
+			"content": "The cost of capital of an Operator shall reflect the Operator's opportunity cost of funds invested.\r\nTo the extent possible, the cost of capital applicable to a Licensed Service segment shall reflect the different financial and operating risks faced by the Licensed Service segment."
+		},
+		{
+			"number": 4700,
+			"content": "The cost of capital applicable to a network component or an activity shall be the cost of capital of the Licensed Service segment with which the network component or the activity is associated. A network component or an activity shared among various Licensed Service segments shall be subject to several applicable cost of capital, depending on how the network component or the activity is attributed into individual Licensed Service segments."
+		},
+		{
+			"number": 4800,
+			"content": "Detailed guidelines on computing the capital cost are prescribed separately in a supplement to this Code."
+		},
+		{
+			"number": 4900,
+			"content": "In the case of a revenue stream that relates to only one Licensed Service segment, the revenue shall be directly assigned to the Licensed Service segment to which it relates, based on accounting records and billing system information."
+		},
+		{
+			"number": 5000,
+			"content": "In the case of a bundled revenue stream that relates to more than one Licensed Service segments, the revenue shall be unbundled and allocated to the relevant Licensed Service segments, in relation to the costs associated with individual elements in the bundled revenue stream."
+		},
+		{
+			"number": 5100,
+			"content": "Unless otherwise prescribed by paragraphs 2 and 3, an operator shall file its Accounting Procedure Manual with the review report of a certified public accountant for the DGT's reference before its operations. The same process shall apply to manual revision.\r\nA market dominator shall file its Accounting Procedure Manual with the review report of a certified public accountant for the DGT's approval. The manual will come into force after approved. The same process shall apply to manual revision.\r\nAfter the revision of this Code comes into effect, a market dominator shall revise its Procedure Manual and file its Procedure Manual to the DGT within four months from the date that it is designated by the MOTC as a market dominator. The market dominator shall revise all required financial reports according to its Procedure Manual approved by the DGT in the same fiscal year.\r\nWhen changes in the operations make the steps in Procedure Manual obsolete in meeting the requirements of this Code, the Operator shall make changes to its accounting systems and Procedure Manual. Before the execution, the Operator shall file those changes to its Procedure Manual with the DGT for an approval.\r\nThe DGT may request an Operator to change the Operator's Procedure Manual when necessary.\r\nThe Procedure Manual shall record and illustrate the detailed steps that an Operator has adopted to implement the requirements of this Code."
+		},
+		{
+			"number": 5200,
+			"content": "Detailed guidelines on the content, format, frequency, timing, and audit requirements of financial reports submitted to the DGT are prescribed separately in a supplement to this Code by the DGT."
+		},
+		{
+			"number": 5300,
+			"content": "An audit report from a certified public accountant is required for certain financial reports submitted to DGT. An Operator shall be responsible for arranging the independent audit and ensuring its completion. If the DGT is not satisfied with the audit work that will be or has been conducted, the DGT may appoint another certified public accountant to carry out the audit.\r\nThe guidelines for performing the audit are prescribed separately in a supplement to this code by the DGT."
+		},
+		{
+			"number": 5400,
+			"content": "Tripartite meetings between the Operator, the appointed certified public accountant and the DGT are to be held at the request of the DGT to discuss the audit work. The DGT may request the certified public accountant to make the audit working paper available for the DGT's review, or to provide additional explanations regarding the audit work."
+		},
+		{
+			"number": 5500,
+			"content": "The DGT may request an Operator to provide supporting documents, and additional financial and operational data that are relevant to the Operator's financial reports submitted to the DGT. The Operator cannot refuse the request without justified reason."
+		},
+		{
+			"number": 5600,
+			"content": "An Operator shall make available supporting documents for at least five years since the final statements process terminates. An Operator shall make available financial reports and related operational data for at least ten years. The above limitation does not apply to the documents of permanent records and of unresolved accounting issues."
+		},
+		{
+			"number": 5700,
+			"content": "Any violation of this Code shall be sanctioned under the Telecommunications Act."
+		},
+		{
+			"number": 5800,
+			"content": "With respect to the DGT' examining the Operators' Procedure Manuals pursuant to Article 51, an Operator may be charged an examination fee according to the fee schedule established by the DGT."
+		},
+		{
+			"number": 5900,
+			"content": "This Code is effective from its released date."
+		}
+	]
+}

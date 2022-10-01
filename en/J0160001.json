@@ -1,0 +1,214 @@
+{
+	"pcode": "J0160001",
+	"LawLevel": "法律",
+	"EngLawName": "The English Text of Atomic Energy Law of The Republic of China",
+	"LawName": "原子能法",
+	"EngLawModifiedDate": "19711224",
+	"histories": [
+		"Promulgated by Presidential Decree on May 9, 1968",
+		"Amendments of the Law Promulgated on December 24, 1971"
+	],
+	"divisions": [
+		{
+			"type": "chapter",
+			"number": 100,
+			"title": "General Provisions",
+			"start": 100,
+			"end": 200
+		},
+		{
+			"type": "chapter",
+			"number": 200,
+			"title": "Atomic Energy Authority",
+			"start": 300,
+			"end": 600
+		},
+		{
+			"type": "chapter",
+			"number": 300,
+			"title": "Research and Development on Nuclear Science and Technology",
+			"start": 700,
+			"end": 1400
+		},
+		{
+			"type": "chapter",
+			"number": 400,
+			"title": "Exploitation and Utilization of Nuclear Resources",
+			"start": 1500,
+			"end": 2000
+		},
+		{
+			"type": "chapter",
+			"number": 500,
+			"title": "Control of Nuclear Source Material, Nuclear Fuel and Reactors",
+			"start": 2100,
+			"end": 2300
+		},
+		{
+			"type": "chapter",
+			"number": 600,
+			"title": "Protection against Ionizing Radiations",
+			"start": 2400,
+			"end": 2600
+		},
+		{
+			"type": "chapter",
+			"number": 700,
+			"title": "Award, Patent and Compensation",
+			"start": 2700,
+			"end": 2900
+		},
+		{
+			"type": "chapter",
+			"number": 800,
+			"title": "Penal Provisions",
+			"start": 3000,
+			"end": 3200
+		},
+		{
+			"type": "chapter",
+			"number": 900,
+			"title": "Supplementary Provisions",
+			"start": 3300,
+			"end": 3400
+		}
+	],
+	"articles": [
+		{
+			"number": 100,
+			"content": "In order to promote the research and development of nuclear science and technology, the exploitation of nuclear resources, and the peaceful utilization of nuclear energy, this law is specifically enacted."
+		},
+		{
+			"number": 200,
+			"content": "The technical terms used in this law shall be defined as follows:\r\n(1)'Atomic Energy' means all forms of energy released in the course of nuclear transformation.\r\n(2)'Nuclear source material' means uranium ore, thorium ore and any other material designated by the Executive Yuan as nuclear source material.\r\n(3)'Nuclear Fuel' means fissionable material capable of self-sustaining chain reaction with the release of energy, and any other material designated by the Executive Yuan as nuclear fuel.\r\n(3)'Ionizing Radiation' means any electromagnetic radiation or particle radiation that directly or indirectly causes ionization of any material substance.\r\n(5)'Nuclear Reactor' means any facility with proper arrangement of nuclear fuel capable of self-sustaining chain reaction as a result of nuclear fission.\r\n(6)'Radioactive Material' means any material emitting one or several kinds of ionizing radiation by spontaneous nuclear transformation"
+		},
+		{
+			"number": 300,
+			"content": "The administrative authority of atomic energy is the Atomic Energy Council directly under the Executive Yuan, the organization of which shall be determined by law."
+		},
+		{
+			"number": 400,
+			"content": "For the purpose of promoting research and development of nuclear science and technology, exploiting nuclear energy resources and expanding nuclear applications to agriculture, industry and medicine, the Atomic Energy Council may establish research organizations."
+		},
+		{
+			"number": 500,
+			"content": "For the purpose of promoting peaceful uses of atomic energy, the Atomic Energy Council may request an executive order of Executive Yuan urging relevant ministries or councils to establish atomic energy undertakings.\r\nPrior approval by the Atomic Energy Council is required for any private person to establish any research organ or business in atomic energy."
+		},
+		{
+			"number": 600,
+			"content": "The Atomic Energy Council may represent the Government to engage in relevant international cooperation affairs."
+		},
+		{
+			"number": 700,
+			"content": "Regarding research and development on nuclear science and technology, the Atomic Energy Council is authorized to raise special funds, invite technical experts, formulate plans, and integrate their administration."
+		},
+		{
+			"number": 800,
+			"content": "The Atomic Energy Council shall assist national universities and, research institutions to establish additional departments in nuclear science, to procure equipment and to develop nuclear science education."
+		},
+		{
+			"number": 900,
+			"content": "The Atomic Energy Council shall, in coordination with educational authorities and science research institutions, make selection of gifted scientists for pursuing advanced studies abroad in nuclear science."
+		},
+		{
+			"number": 1000,
+			"content": "The Atomic Energy Council may request the approval of the Executive Yuan to establish departments of research and development for nuclear science and technology at relevant science research institutions."
+		},
+		{
+			"number": 1100,
+			"content": "As for the research of nuclear science and its practical application, all national scientific research institutions shall cooperate in compliance with the plan set forth in article 7 of this law to insure effective management of research personnel and equipment."
+		},
+		{
+			"number": 1200,
+			"content": "All universities and nuclear science research institutions intending to establish any research cooperative arrangement in nuclear science and application thereof with friendly nations or relevant international organizations, shall apply to the Atomic Energy Council for approval."
+		},
+		{
+			"number": 1300,
+			"content": "Atomic energy scientific research institutions shall build up their radiation detecting, analyzing, and experimental equipment and strengthen research in radiation protection.\r\nThe Atomic Energy Council shall designate the above-mentioned research institutes to carry out training courses in radiation protection."
+		},
+		{
+			"number": 1400,
+			"content": "Ail scientific research institutions may report to the Atomic Energy Council to request special funds, or to invite experts to assist in the development of nuclear science and technology."
+		},
+		{
+			"number": 1500,
+			"content": "Mining and leasing rights of nuclear source materials shall be governed by the mining law, rules for exploration, mining, storage, purchase, supervision etc, shall be stipulated by the Executive Yuan."
+		},
+		{
+			"number": 1600,
+			"content": "For the production of nuclear source material and nuclear fuel the Atomic Energy Council shall request approval of the Executive Yuan to establish professional organizations."
+		},
+		{
+			"number": 1700,
+			"content": "For the purpose of nuclear research and the production of radioactive material for peaceful uses, besides improving the existing research reactor, the Atomic Energy Council may, according to the practical needs, request the Executive Yuan to allocate special funds to set up additional nuclear reactors and other facilities."
+		},
+		{
+			"number": 1800,
+			"content": "Any fissionable material produced from nuclear reactors shall be reported to the Atomic Energy Council."
+		},
+		{
+			"number": 1900,
+			"content": "As for the application of atomic energy in agriculture, industry and medicine, the Atomic Energy Council shall supervise and guide related organizations to proceed cooperatively."
+		},
+		{
+			"number": 2000,
+			"content": "All equipment that have to be imported for nuclear research, development, mining, production and protection, as well as for use relating to nuclear power generation shall, according to rules stipulated by the Executive Yuan, be reduced of or exempted from customs duties."
+		},
+		{
+			"number": 2100,
+			"content": "Control of nuclear source material shall be governed by the following regulations:\r\n(1)Any applicant for the production of nuclear source material shall present a filled-out application to the Atomic Energy Council for approval and the issuance of a license.\r\n(2)The commencement, alternation, stoppage or resumption of the production of nuclear source material shall be reported to the Atomic Energy Council for approval.\r\n(3)Complete records of the production of nuclear source material shall be kept and submitted to the Atomic Energy Council periodically, the Council shall send inspectors for inspection from time to time.\r\n(4)Import or export of nuclear source material, unless approved by the Atomic Energy Council and implemented in compliance with related laws, is not allowed.\r\n(5)Transportation and storage of nuclear source material shall be carried out in compliance with the regulations of the Atomic Energy Council, which shall send inspectors for inspection.\r\n(6)Upon the completion of the facility for the production of nuclear source material, reports shall be submitted to the Atomic Energy Council, upon which the Council and appropriate authorities shall inspect the premises. This shall also apply to any change of establishments.\r\n(7)Utilization, abandonment or transfer of nuclear source material shall be reported to the Atomic Energy Council for approval, which shall send inspectors for inspection."
+		},
+		{
+			"number": 2200,
+			"content": "Control of nuclear fuel shall be governed by the following regulations:\r\n(1)Any applicant for the production of nuclear fuel shall present a filled-out application form to the Atomic Energy Council for approval and the issuance of a license.\r\n(2)If the production of nuclear fuel, as stated in the application form, is to be changed, another approval shall be required.\r\n(3)The commencement, stoppage or resumption of the production of nuclear fuel shall be reported to the Atomic Energy council for approval.\r\n(4)Complete records of the production of nuclear fuel shall be kept and submitted periodically to the Atomic Energy Council, which shall send inspector for inspections from time to time.\r\n(5)Import or export of nuclear fuel, unless approved by the Atomic Energy Council and implemented in compliance with related laws, is not allowed.\r\n(6)Transportation and storage of nuclear fuel shall be carried out in compliance with the regulations of the Atomic Energy Council, which shall send inspectors for inspection.\r\n(7)Upon the completion of a facility for the production of nuclear fuel, reports shall be submitted to the Atomic Energy Council for inspection. This shall also apply to any change of the facility.\r\n(8)Utilization, abandonment or transfer of nuclear fuel shall be reported to the Atomic Energy Council for approval, which shall send inspectors for inspection."
+		},
+		{
+			"number": 2300,
+			"content": "Control of nuclear reactors shall be governed by the following regulations:\r\n(1)Any applicant for the construction of a nuclear reactor shall present a filled-out application to the Atomic Energy Council for approval and the issuance of a construction permit.\r\n(2)Upon the completion of the construction of a nuclear reactor, a request shall be submitted to the Atomic Energy Council for inspection.\r\n(3)Prior to operation of any nuclear reactor, a safety analysis report of the reactor shall be submitted to the Atomic Energy Council for review, approval, and the issuance of an operating license.\r\n(4)Operation of nuclear reactors shall be in compliance with the regulations of the Atomic Energy Council which shall send inspectors for inspection.\r\n(5)Any design change to be made during the construction phase of any nuclear reactor or any change of equipment due to up dating of the design after operation of the reactor shall be reported in advance to the Atomic Energy Council for approval.\r\n(6)Without the approval of the Atomic Energy Council, a licensee shall not transfer the license or the privilege granted by the license to any other person.\r\n(7)The transfer or removal of any nuclear reactor, unless approved by the Atomic Energy Council, is not allowed.\r\n(8)For the operation of nuclear reactors, the utilization of nuclear fuel and the production of radioactive materials complete records shall be kept and submitted periodically to the Atomic Energy Council, and for auditing purpose the Atomic Energy Council may dispatch personnel for inspection from time to time."
+		},
+		{
+			"number": 2400,
+			"content": "For the purpose of preventing hazards arising out of ionizing radiations and ensuring the health and security of the public, the Atomic Energy Council shall stipulate standards for protection against ionizing radiations to be reported to the Executive Yuan for promulgation and enforcement."
+		},
+		{
+			"number": 2500,
+			"content": "To detect radioactive fallouts, the Atomic Energy Council conjunction with the Ministries of Interior and Defense shall set up plans, purchase equipments and distribute them to relevant agencies for use, and the Atomic Energy Council shall review and consolidate all detection records for promulgation."
+		},
+		{
+			"number": 2600,
+			"content": "The protection against ionizing radiations shall be governed by the following regulations:\r\n(1)Any person in possession of any radioactive material or of any equipment capable of ionizing radiation shall apply to the Atomic Energy Council for a license.\r\n(2)Upon completion of installment or reinstallment of equipment capable of ionizing radiation, application shall be submitted to the Atomic Energy Council for safety inspection and radiation measurement.\r\n(3)Operators of radioactive material or of equipment capable of ionizing radiation shall receive ionizing radiation protection training and obtain license from the Atomic Energy Council.\r\n(4)Equipment capable of ionizing radiation shall, before their use, be subjected to safety inspection.　Inspection records shall be kept for further investigation.\r\n(5)The Atomic Energy Council shall set forth safety regulations for equipment capable of ionizing radiation and dispatch personnel to conduct inspection from time to time.\r\n(6)The commencement, stoppage or resumption of the production of radioactive material or equipment capable of ionizing radiation shall be subject to approval of the Atomic Energy Council.\r\n(7)Production records of radioactive material and of equipment capable of ionizing radiation should be reported periodically to the Atomic Energy Council, and the Atomic Energy Council for auditing purpose shall conduct inspection from time to time.\r\n(8)Radioactive material and equipment capable of ionizing radiation shall not be imported or exported unless a certificate has been obtained from the Atomic Energy Council and relevant regulations of law are complied with.\r\n(9)Transportation and storage of radioactive material shall be carried out in accordance with the regulations of the Atomic Energy Council which may send inspectors for inspection.\r\n(10)Any transfer and abandonment of radioactive material or of equipment capable of ionizing radiation as well as the disposal of radioactive waste are subject to approval of the Atomic En6rgy Council, and to audit, inspection may be made by the Atomic Energy Council.\r\n(11)Radioactive materials within certain limited quantity may be exempted from control with the exact amount to be set forth by the Atomic Energy Council."
+		},
+		{
+			"number": 2700,
+			"content": "Research and inventions in nuclear science and technology shall be encouraged by award and award means shall be set forth by the Executive Yuan."
+		},
+		{
+			"number": 2800,
+			"content": "For inventions in nuclear science and technology, provisions of the patent law will apply.　For the ceding of patent rights or the signing of contracts concerning nuclear science and technology with foreigners, however, approval of the Atomic Energy Council shall be required."
+		},
+		{
+			"number": 2900,
+			"content": "For damage to property or injury to health of the public arising out of any nuclear accident, appropriate compensation shall be given which shall be determined by law."
+		},
+		{
+			"number": 3000,
+			"content": "Any person who violates article 23 of this law in constructing, transferring, receiving or removing a nuclear reactor, shall be punished with imprisonment for not more than three years or detention; in lieu thereof, or addition thereto, a fine of not more than 10,000 dollars may be imposed."
+		},
+		{
+			"number": 3100,
+			"content": "Any person who violates article 28 of this law in transferring patent rights or signing contracts concerning nuclear science and technology with foreigners without approval, shall be punished with imprisonment for not more than three years or detention; in lieu thereof, or addition thereto, a fine of not more than 5,000 dollars may be imposed."
+		},
+		{
+			"number": 3200,
+			"content": "Any person who violates one of the following regulations shall be punished with imprisonment for not more than one year or detention; in lieu thereof, or addition thereto, a fine of not more than 3,000 dollars may be imposed: and the nuclear source material, nuclear fuel or radioactive materials shall be confiscated.\r\n(1)Any person who violates the regulations of article 21 of this law by producing, importing, exporting, transporting, storing, utilizing, abandoning or transferring nuclear source material.\r\n(2)Any person who violates the regulations of article 22 of this law by producing, importing, exporting, transporting, storing, utilizing, abandoning or transferring nuclear fuel.\r\n(3)Any person who violates the regulations of article 23 of this law by utilizing nuclear reactors.\r\n(4)Any person who violates the regulations of article 26 of this law."
+		},
+		{
+			"number": 3300,
+			"content": "The detailed regulations of implementation of this law shall be stipulated by the Executive Yuan. In order to execute the control specified in this law, the Atomic Energy Council may impose necessary expenses, the standard of which will be stipulated in the detailed regulation of implementation."
+		},
+		{
+			"number": 3400,
+			"content": "This law shall come into force upon the date of promulgation."
+		}
+	]
+}

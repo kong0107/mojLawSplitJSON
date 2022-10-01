@@ -1,0 +1,28 @@
+{
+	"pcode": "L0040020",
+	"LawLevel": "命令",
+	"EngLawName": "Standard for the Tolerance of Heavy Metals in Rice",
+	"LawName": "食米重金屬限量標準（93.03.05訂定）",
+	"EngLawModifiedDate": "20190815",
+	"discarded": true,
+	"histories": [
+		"Promulgated on March 5, 2004",
+		"Amended on August 29, 2007",
+		"Amended on August 20, 2013",
+		"Abolished on August 15, 2019"
+	],
+	"articles": [
+		{
+			"number": 100,
+			"content": "This Standard is prescribed in accordance with the provisions of Article 17 of the Act Governing Food Sanitation."
+		},
+		{
+			"number": 200,
+			"content": "Maximum tolerance of heavy metals:\r\n┌───────┬────────────┐\r\n│Heavy metal   │Maximumtolerance（ppm） │\r\n├───────┼────────────┤\r\n│Mercury       │0.05                    │\r\n├───────┼────────────┤\r\n│Cadmium       │0.4                     │\r\n├───────┼────────────┤\r\n│Lead          │0.2                     │\r\n└───────┴────────────┘"
+		},
+		{
+			"number": 300,
+			"content": "This Standard shall be implemented from the date of promulgation."
+		}
+	]
+}

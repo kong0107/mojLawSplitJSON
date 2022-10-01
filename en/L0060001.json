@@ -1,0 +1,519 @@
+{
+	"pcode": "L0060001",
+	"LawLevel": "法律",
+	"EngLawName": "National Health Insurance Act",
+	"LawName": "全民健康保險法",
+	"EngLawModifiedDate": "20210120",
+	"histories": [
+		"Promulgated on August 9,1994 by the President’s Order of Hua Chung (1) Yi Tze No.4705",
+		"Amended and Promulgated Articles 11-1, 69-1 and 87 by the President’s Order of Hua Chung (1) Yi Tze No.5865 on October 3, 1994\r\n  This Act is effective from March 1, 1995 by the Excutive Yuan's Order of Tai Wei Tze No.06956 on February 27, 1995",
+		"Amendment and Promulgation of Articles 8 to12, 14, 19, 24, 26, 30, 32, 36, 69, 88 and the Addition of Articles 87-1 to 87-3 by the President’s Order of Hua Chung (1) Yi Tze No.8800162120 on July 15, 1999",
+		"Amendment and Promulgation of Articles 8, 9, 11, 13, 14, 18, 19, 21, 22, 24, 25, and 27-29 by the President’s Order of Hua Chung (1) Yi Tze No. 9000014910 on January 30, 2001",
+		"Amendment and Promulgation of Articles 21, 27, 29, 32, 55, 87-1, 87-2, and the Addition of Article 22-1 by the President’s Order of Hua Chung (1) Yi Tze No. 09100142270 on July 17, 2002",
+		"Amendment and Promulgation of Articles 30, 87-1 ~ 87-3, and the Addition of Articles 87-4 and 87-5 by the President’s Order of Hua Chung (1) Yi Tze No. 09200113970 on June 18, 2003",
+		"Amendment and Promulgation of Articles 64 and 82 by the President’s Order of Hua Chung (1) Yi Tze No. 09400072571 on May 18, 2005",
+		"Amendment and Promulgation of Articles 24 and 83 by the President’s Order of Hua Chung (1) Yi Tze No. 09900019971 on January 27, 2010",
+		"Amendment of the National Health Insurance Act by the President’s Order of Hua Chung (1) Yi Tze No. 10000011861 on January 26, 2011; the Executive Yuan shall decide upon the date of implementation of this Act\r\n  Amendment and Promulgation of Articles 27, 28 and 35 by the Executive Yuan's Order of Yuan Tai Wei Tze No. 1010024941 on May 21, 2012, and Articles 27, 28 and 35 are effective from July 1, 2012.\r\n  Promogation of all articles other than those which have already taken effect by the Executive Yuan's Order of Yuan Tai Wei Tze No. 1010144186 on October 9, 2012, and the said articles are effective from January 1, 2013.",
+		"Amendment and Promulgation of Article 11 of the National Health Insurance Act by the President’s Order of Hua Chung (1) Yi Tze No. 10000132401 on June 29, 2011; the Executive Yuan shall decide upon the date of implementation of Article 11；Article 11 is effective from September 1, 2011 by the Executive Yuan's Order of Yuan Tai Wei Tze No.1000041163 on August 12, 2011",
+		"Amendment and Promulgation of Articles 6, 9, 95 and 104 by the President’s Order of Hua Chung (1) Yi Tze No. 10600142271 on November 29,2017.",
+		"Amendment and Promulgation of Articles 4,and 7 by the President's Order of Hua Chung (1) Yi Tze No. 10900003901 on January 15,2020.",
+		"Amendment and Promulgation of Articles 2 by the President's Order of Hua Chung (1) Yi Tze No. 11000003521 on January 20,2021.\r\n"
+	],
+	"divisions": [
+		{
+			"type": "chapter",
+			"number": 100,
+			"title": "General Principles",
+			"start": 100,
+			"end": 600
+		},
+		{
+			"type": "chapter",
+			"number": 200,
+			"title": "The Insurer, The Beneficiary, and The Group Insurance Applicant",
+			"start": 700,
+			"end": 1600
+		},
+		{
+			"type": "chapter",
+			"number": 300,
+			"title": "Insurance Finance",
+			"start": 1700,
+			"end": 2600
+		},
+		{
+			"type": "chapter",
+			"number": 400,
+			"title": "Collection and Calculation of Premiums",
+			"start": 2700,
+			"end": 3900
+		},
+		{
+			"type": "chapter",
+			"number": 500,
+			"title": "Insurance Benefits",
+			"start": 4000,
+			"end": 5900
+		},
+		{
+			"type": "chapter",
+			"number": 600,
+			"title": "Payment of Medical Expense",
+			"start": 6000,
+			"end": 6500
+		},
+		{
+			"type": "chapter",
+			"number": 700,
+			"title": "Contracted Medical Care Institutions",
+			"start": 6600,
+			"end": 7500
+		},
+		{
+			"type": "chapter",
+			"number": 800,
+			"title": "Reserve Fund and Administrative Expenses",
+			"start": 7600,
+			"end": 7800
+		},
+		{
+			"type": "chapter",
+			"number": 900,
+			"title": "Collecting and Gathering of Relevant Information and Documents",
+			"start": 7900,
+			"end": 8000
+		},
+		{
+			"type": "chapter",
+			"number": 1000,
+			"title": "Penal Provisions",
+			"start": 8100,
+			"end": 9200
+		},
+		{
+			"type": "chapter",
+			"number": 1100,
+			"title": "Supplementary Provisions",
+			"start": 9300,
+			"end": 10400
+		}
+	],
+	"articles": [
+		{
+			"number": 100,
+			"content": "This Act is enacted to promote the health of all nationals, to administer national health insurance (hereinafter referred to as “this Insurance”) and to provide health services.\r\nThis Insurance is compulsory social insurance. Benefits shall be provided during the insured term under the provisions of this Act, in case of illness, injury, or maternity occurred to the beneficiary."
+		},
+		{
+			"number": 200,
+			"content": "Terms used in this Act are defined as follows:\r\n1.Beneficiary: refers to the insured and his/her dependents.\r\n2.Dependents:\r\n(1)The insured’s spouse who is not employed.\r\n(2)The insured’s lineal blood ascendants who are not employed.\r\n(3)The insured’s lineal blood descendants within second degree of relationship who are either minor and not employed, or majority but incapable of making a living, including those who are in school without employment.\r\n3.Premium withholder: Refers to the individual from whom premium is withheld according to the Taxation Law.\r\n4.Benefit payments: refers to the remainder of total medical benefit payments minus the self-bearing medical fees of the Insured based on the Act.\r\n5.Insurance budget: Refers to the insurance benefit expenditures and reserve funds that should be established or added.\r\n6.Medical Visit Advice: Refers to understanding the insured’s medical visit practices, providing appropriate medical and health education, and arrangement and assistance of medical visit when the insured has been found to duplicate medical visits, undergo repetitive visits, and use inappropriate treatment."
+		},
+		{
+			"number": 300,
+			"content": "The government should at least shoulder 36 percent of the remainder of the annual insurance budget minus promulgated revenues.\r\nAccording to law, the government should include in the budget 36 percent of the deficit remainder of the annual insurance budget minus promulgated revenues, wherein the Competent Authority shall draw up a budget to cover the deficit."
+		},
+		{
+			"number": 400,
+			"content": "The Competent Authority of this Insurance shall be the Ministry of Health and Welfare."
+		},
+		{
+			"number": 500,
+			"content": "The National Health Insurance Committee (hereinafter referred to as the “NHIC”) shall be in charge of the following tasks:\r\n1.Review of premiums;\r\n2.Review of the scope of benefits;\r\n3.Coordination of drafting and allocation of medical benefit payments;\r\n4.Study and interpretation of insurance laws and policies;\r\n5.Other supervisory functions pertaining to the insurance matters.\r\nWhen the review and coordination done by the NHIC in the previous paragraph find a reduction in insurance revenues or increase in insurance expenditures, it should as the Insurer to present a proposal for resource allocation and financial balance to reviewed or coordinated jointly.\r\nWhen the NHIC reviews and coordinates matters relevant to the Insurances, it should make public its agenda seven days before the meeting and the meeting minutes within ten days after the meeting. Before reviewing and coordinating major matters, it should gather information on public opinion and if necessary, organize related activities involving the public.\r\nthe NHIC is made up of the insured, employers, insurance medical service providers, experts, reputable public figures, and representatives from relevant agencies. Representatives from premium payers should not be less than one-half of the total number of NHIC members, while representatives from the beneficiaries should not be less than one-third.\r\nThe Competent Authority shall determine the number of members, how they are selected, meeting regulations, self-disclosure of representative’s interest, and disclosure to the public.\r\nMatters reviewed and coordinated by the NHIC should be approved by the Competent Authority or presented to the Executive Yuan for approval. Matters approved by the Executive Yuan should be sent to the Legislative Yuan for future reference."
+		},
+		{
+			"number": 600,
+			"content": "The insured, the group insurance applicant, premium withholder and the contracted medical institution should apply for a review to settle disputes against the insurer. They may file administrative appeal or administrative lawsuit if they disagree with the review results.\r\nThe National Health Insurance Dispute Mediation Committee shall perform the task of reviewing such disputes.\r\nThe Competent Authority shall determine the scope of the abovementioned disputes, application for review or deadline for submission of documents, procedures, as well as the review methods and process.\r\nThe National Health Insurance Dispute Mediation Committee shall publicize the dispute review results periodically via publication of government gazette, Internet or other proper methods.\r\nThe publication of the dispute review results referred to in the preceding paragraph shall be made only after the information of individuals, juridical persons or groups has been de-identified through coding, anonymizing, masking part of the information or other methods, and no longer identifiable."
+		},
+		{
+			"number": 700,
+			"content": "The Insurer of this Insurance shall be the National Health Insurance Administration, Ministry of Health and Welfare, which will administer the insurance business."
+		},
+		{
+			"number": 800,
+			"content": "Any national of the Republic of China must meet one of the following requirements in order to become the beneficiaries of this Insurance:\r\n1.Those who have previously subscribed to this Insurance within the last two years and have a registered domicile in Taiwan, or having established a registered domicile for at least six consecutive months in the Taiwan area prior to subscription of this Insurance;\r\n2.The following individuals who have established a registered domicile in the Taiwan area at the time of becoming a subscriber:\r\n(1)Civil servants or full-time and regularly paid personnel in governmental agencies and public/private schools;\r\n(2)Employees of publicly or privately owned enterprises or institutions;\r\n(3)Employees other than the insured prescribed in the preceding two items but are otherwise employed by particular employers;\r\n(4)Newborns in the Taiwan area;\r\n(5)Spouse and offspring of government officials assigned abroad.\r\nIndividuals who have previously subscribed to this Insurance and have gone abroad before this revision was promulgated on January 4, 2011 should immediately established residency and subscribed to this Insurance the first time they return to the country one year after the revision has been implemented. They will not be subject to the six-month restriction of subparagraph 1 of the previous paragraph."
+		},
+		{
+			"number": 900,
+			"content": "With the exception of individuals mentioned in the previous article, any person who has an alien resident certificate in the Taiwan area must meet one of the following requirements in order to become the beneficiaries of this Insurance:\r\n1. Those who have established a registered domicile in Taiwan for at least six months.\r\n2. Those with a regular employer.\r\n3. Newborns in the Taiwan area."
+		},
+		{
+			"number": 1000,
+			"content": "The insured shall be classified into the following six categories:\r\n1.Category 1\r\n(1)Civil servants or full-time and regularly paid personnel in governmental agencies and public/private schools;\r\n(2)Employees of publicly or privately owned enterprises or institutions;\r\n(3)Employees other than the insured prescribed in the preceding two items but are otherwise employed by particular employers;\r\n(4)Employers or self-employed owners of business;\r\n(5)Independently practicing professionals and technicians.\r\n2.Category 2\r\n(1)Members of an occupational union who have no particular employers, or who are self-employed;\r\n(2)Seamen serving on foreign vessels, who are members of the National Seamen’s Union or the Master Mariners’ Association.\r\n3.Category 3\r\n(1)Members of the Farmers’ Association or the Irrigation Association, or workers aged over fifteen who are actually engaged in agricultural activities;\r\n(2)Class A members of the Fishers Association who are either self-employed or have no particular employers, or workers aged over fifteen who are actually engaged in fishery activities.\r\n4.Category 4\r\n(1)Military servicemen whose compulsory service terms are over two months or who are summoned to serve in military for more than two months, military school students who receive grants from the government, military servicemen’s dependents who lost their support recognized by the Ministry of Defense, and military decedent’s families who are receiving pensions due to the death of their decedents.\r\n(2)Men at age for enlisting in the military, who are currently in military-substitute service.\r\n(3)Those who are serving sentences in correctional institutions or receiving punishments from police and military court-martial. However, this is not applicable to those who are serving sentences of less than two months or are under parole.\r\n5.Category 5\r\nMembers of a household of low-income families as defined by the Social Support Law\r\n6.Category 6\r\n(1)Veterans, household representatives of survivors of veterans;\r\n(2)Representatives or heads of household other than the insured or their dependents prescribed in subparagraphs 1 to 5 and the preceding item of this subparagraph.\r\nThe standard for identification and qualification of the workers actually engaged in agricultural activities under item (1) of subparagraph 3 and the workers actually engaged in fishery activities under item (2) of subparagraph 3 shall be established jointly by the central agricultural competent authority and the Competent Authority."
+		},
+		{
+			"number": 1100,
+			"content": "The insured classified in Category 1 may not opt for classification in Category 2 or Category 3. The insured classified in Category 2 may not opt for classification in Category 3. The insured classified in Categories 1 to 3 may not opt for classification in Category 4 to 6. However, Class A members of the Fishers Association who hire 10 or less than10 laborers for ocean fishing and are actually engaged in fishery activities starting from January 21, 2002, should be classified as Category 3.\r\nThose who qualified as the insured shall not subscribe to this Insurance as dependents."
+		},
+		{
+			"number": 1200,
+			"content": "The dependents of the insured in Article 2 shall subscribed to or withdraw from this Insurance together with the insured. However, this rule shall be inapplicable to situations including but not limited to domestic abuse, which are recognized by the Competent Authority as  difficult for dependents to subscribe to or withdraw from this Insurance together with the insured."
+		},
+		{
+			"number": 1300,
+			"content": "The following persons are not covered by this Insurance and shall be withdrawn from it if they have subscribed to this Insurance:\r\n1.Those who have been missing for six months or more;\r\n2.Those who are not qualified under Articles 8 or 9."
+		},
+		{
+			"number": 1400,
+			"content": "The commencement of the insurance shall take effect from the date of occurrence of such qualifications specified in Articles 8 or 9.\r\nThe termination of the insurance shall take effect from the date of occurrence of the previous article."
+		},
+		{
+			"number": 1500,
+			"content": "The group insurance applicants for the different Categories of the insured are as follows:\r\n1.For the insured in Categories 1 and 2, the group insurance applicants shall be the agencies, schools, enterprises, institutions, or employers, which they work for, or unions where they hold membership. Nonetheless, the group insurance applicants that cover the insured in the Ministry of Defense shall be designated by the Ministry of Defense.\r\n2.For the insured in Category 3, the group insurance applicants shall be the lowest-level Farmers Association, Irrigation Association or Fishers Association to which they belong, or located at the place where the insured have their household registered.\r\n3.For the insured in Category 4, the group insurance applicants are as follows:\r\n(1)For the insured in item 1, subparagraph 4, paragraph 1, article 10, the group insurance applicants shall be designated by the Ministry of Defense.\r\n(2)For the insured in item 2, subparagraph 4, paragraph 1, article 10, the group insurance applicants shall be designated by the Ministry of Interior.\r\n(3)For the insured in item 3, subparagraph 4, paragraph 1, article 10, the group insurance applicants shall be designated by the Ministry of Justice and by the Ministry of Defense.\r\n4.For the insured in Categories 5 and 6, the group insurance applicants shall be the village (township, municipal, district) administration offices of their registered domiciles; provided, however, the public or private social welfare service institutions may be the group insurance applicants for the insured who lives therein.\r\nThe insured prescribed in item 2, subparagraph 6, paragraph 1 of Article 10, and their dependents may, upon consent of the group insurance applicants of the insured in another category who live together with the above insured and their dependents, use such units as their group insurance applicants, provided that the premium shall be calculated separately according to the provision of Article 23.\r\nThe group insurance applicants prescribed in subparagraph 4, paragraph 1 of this Article shall set up special units or agents to administer relevant matters of this Insurance.\r\nFor anyone who is covered under Category 6 and undergoing vocational training or exam-taking training at a government-registered institution, such training institution or agency shall be the group insurance applicant.\r\nThe group insurance applicant has failed to make the premium payments for more than two months, the Insurer may contact another group insurances applicant to administer matters related to this Insurance.\r\nThe group insurance applicants shall subscribe to the Insurer for coverage within three days from the date on which the beneficiaries meet the conditions of this Insurance and shall withdraw from the coverage within three days from the date of occurrence of the cause of the withdrawal."
+		},
+		{
+			"number": 1600,
+			"content": "The Insurer must produce and distribute a national health insurance card with electronic information processing function to store and send information on the insured. However, the card may not store any information not used for medical care purposes as well as those unrelated to the insured receiving insurance medical services.\r\nThe Insurer shall charge a fee for changing or replacing the abovementioned card; it shall also determine the production, replacement, changing, type and use of stored and sent information, management of the card’s use as well as other relevant matters, which shall be announced after being approved by the Competent Authority."
+		},
+		{
+			"number": 1700,
+			"content": "The Central Government, the group insurance applicant, and the insured shall jointly shoulder the insurance budget after promulgated revenues have been deducted."
+		},
+		{
+			"number": 1800,
+			"content": "The premium payable by the insured in Categories 1 to 3 and their dependents shall be calculated according to the insured payroll-related amount and the premium rate of the insured. The premium rate shall be set a maximum of 6 percent.\r\nThe premium payable by the dependents articulated in the previous paragraph shall be paid by the insured. When the number of dependents exceeds three, the premium shall be calculated on the basis of only three dependents."
+		},
+		{
+			"number": 1900,
+			"content": "The insured payroll-related amount for the insured in Categories 1 to 3 shall be subject to a grading table drafted by the Competent Authority and be reported to the Executive Yuan for approval.\r\nThe minimum in the said Grading Table of insured payroll-related amount shall be equal to the base salary promulgated by the central competent authority in charge of labor affairs. Upon adjustment of the base salary, such minimum shall be adjusted accordingly.\r\nThe insured payroll-related amount of the top level of the Grading Table of insured pay-roll related amount has to be kept fivefold higher than the amount in the bottom level, and the said Grading Table has to be revised in one month after the basic salary is adjusted. In case that the number of the insured applicable to the highest level of insured payroll-related amount exceeds three percent of the total number of the insured for twelve consecutive months, the Competent authority shall readjust the Grading table of the insured payroll-related amount to advance a higher level starting from the following month."
+		},
+		{
+			"number": 2000,
+			"content": "The insured payroll-related amount for the insured in Categories 1 and 2 is determined on the following basis:\r\n1.Employees:  the payroll;\r\n2.Employers and self-employed:  the business income;\r\n3.Self-employed individuals and independently practicing professionals and technicians:  the income from professional practice.\r\nIf the insured prescribed in Categories 1 and 2, has no stable income, the insured shall select the proper insured payroll-related amount from the Grading Table of insured payroll-related amount and such insured payroll-related amount shall be examined by the Insurer, who may make adjustment at its own discretion if the insured payroll-related amount is found inappropriate."
+		},
+		{
+			"number": 2100,
+			"content": "In case that the income of the insured in Categories 1 and 2 as prescribed in the previous article is adjusted between February and July of the current year, the group insurance applicants shall notify the Insurer the adjusted insured payroll-related amount by the end of August of the same year, or notify the Insurer by the end of February of the following year if the adjustment is made between August of the current year and January of the following year, which shall become effective on the first day of the following month after notification.\r\nUnless the insured payroll-related amount as prescribed in the preceding paragraph has reached the highest level of this Insurance, such amount shall not be lower than the monthly labor pension reserve deposit or the insured salary of other social insurance schemes to which the insured subscribes. In case that the insured payroll-related amount of this Insurance is lower, the group insurance applicant shall at the same time notify the Insurer to adjust accordingly, or the Insurer may also make adjustment at its own discretion."
+		},
+		{
+			"number": 2200,
+			"content": "The insured payroll-related amount applicable to the insured in Category 3 shall be the average amount for those specified under items 2, 3 of subparagraph 1, and subparagraph 2 of paragraph 1, Article 10; provided, that the Insurer may adjust the level of insured payroll-related amount according to the financial viability of the insured and their dependents."
+		},
+		{
+			"number": 2300,
+			"content": "The premium of the beneficiaries in Categories 4 to 6 shall be calculated according to the averaged actuarial premium based on the total number of the beneficiaries in accordance with Article 18.\r\nThe premium of the dependents stated in the previous paragraph shall be paid by the insured. When the number of the dependents exceeds 3, the payment shall be calculated on the basis of only three dependents."
+		},
+		{
+			"number": 2400,
+			"content": "The Insurer should apply for a review one month after the premium rate of beneficiaries and each dependent in Article 18 is determined in a meeting of the NHIC coordinating the total amount of medical benefit payments. However, when premiums using the maximum rate are unable to balance with the medical benefit payments approved for that year, there should be new negotiations regarding the total amount of medical benefit payments.\r\nBefore the review from the previous paragraph, the NHIC should invite actuaries, insurance and finance experts, economists, and reputable public figures to provide opinions.\r\nThe review of Paragraph 1 should draft the total amount of medical benefit payments in accordance with the negotiations one month before the start of the year, completing the review of balance of payment rates. This shall be reported to the Competent Authority, which will in turn report to the Executive Yuan for approval before announcing it publicly. If review cannot be completed within the specified time, the Competent Authority shall report this matter to the Executive Yuan for approval before public announcement."
+		},
+		{
+			"number": 2500,
+			"content": "The Insurer shall make the actuarial process at least once every five years for the premium finance, with each such actuarial process covering a period of 25 years."
+		},
+		{
+			"number": 2600,
+			"content": "Upon the occurrence of any of the following events in this Insurance, the Insurer shall readjust the premium rate and present it to the NHIC which shall report it to the Competent Authority and then to the Executive Yuan for approval, after which the Competent Authority shall make the public announcement:\r\n1.The reserve fund of this Insurance drops below total insurance benefit amount for a month.\r\n2.Any addition to or reduction in benefit items, contents or payment schedules that affects the financial balance of this Insurance."
+		},
+		{
+			"number": 2700,
+			"content": "This Insurance contribution rates shall be calculated according to the following provisions of Articles 18 and 23:\r\n1.For the insured in Category 1:\r\n(1)The insured and their dependents referred to item 1, subparagraph 1, paragraph 1 of Article 10 shall pay 30 percent of the premium, with the other 70 percent of it paid by the group insurance applicants.  Nonetheless, for the premiums charged for the employees of private schools, the insured and their dependents shall pay 30 percent of the premiums, with 35 percent of them paid by their schools; the remaining 35 percent shall be subsidized by the central government.\r\n(2)The insured and their dependents referred to in items 2 and 3 of subparagraph 1, paragraph 1 of Article 10 pay 30 percent of the premiums, the group insurance applicants pay 60 percent of them, and the remaining 10 percent shall be subsidized by the central government.\r\n(3)The insured and their dependents referred to in items 4 and 5 of subparagraph 1, paragraph 1 of Article 10 shall pay the full premium.\r\n2.The insured and their dependents in Category 2 pay 60 percent of the premiums, with the other 40 percent subsidized by the central government.\r\n3.The insured and their dependents in Category 3 pay 30 percent of the premiums, with the other 70 percent subsidized by the central government.\r\n4.For the insured in Category 4:\r\n(1)For the insured in item 1, subparagraph 4, paragraph 1 of Article 10, the institutions they belong shall subsidize their premiums in full.\r\n(2)For the insured in item 2, subparagraph 4, paragraph 1, Article 10, the central military training administrative authority shall subsidize the premium in full.\r\n(3)For the insured in item 3, subparagraph 4, paragraph 1 of Article 10, the central correctional authority and the Ministry of Defense shall subsidize the premium in full.\r\n5.For the insured in Category 5, the central competent authority in charge of social welfare shall subsidize the premium in full.\r\n6.The premium payable by the insured referred to in item 1, subparagraph 6, paragraph 1 of Article 10 shall be subsidized by the Veterans Affairs Commission, Executive Yuan. Whereas 30 percent of the premium of the insured dependents shall be self-covered and 70 percent subsidized by the Veterans Affairs Commission, Executive Yuan.\r\n7.The insured and their dependents referred to in item 2, subparagraph 6, paragraph 1 of Article 10, shall pay 60 percent of the premium and the central government shall subsidize 40 percent."
+		},
+		{
+			"number": 2800,
+			"content": "Before the promulgation of this amendment on January 4, 2011, every level of government, which has been unable to appropriate funds to pay the Insurer in accordance with Article 29 (pre-amendment), should present a payback plan to the Insurer. Timeframe for the payback should not exceed eight years and Insurer shall request interest payments in accordance with Article 30 (pre-amendment)."
+		},
+		{
+			"number": 2900,
+			"content": "The number of dependents in items 1 to 3 of Category 1 , for whom the group insurance applicants or the government subsidize premium, shall be the average number of the dependents that the insured in items 1 to 3 of Category 1 actually have."
+		},
+		{
+			"number": 3000,
+			"content": "The premium of this Insurance shall be paid monthly according to the following provisions in Articles 18 and 23:\r\n1.The premium to be contributed by the insured in Category 1 shall be deducted from the pay roll and paid by the group insurance applicants to the Insurer, together with the group insurance applicant’s contributions, by the end of the following month.\r\n2.The premium to be contributed by the insured in Categories 2, 3 and 6 shall be paid monthly to the group insurance applicants to which they belong, and the group insurance applicants shall forward the accumulated premiums to the Insurer no later than the end of the following month.\r\n3.The premium payable by the insured in Category 5 shall be paid by the central competent authority regarding social welfare to the Insurer no later than the fifth day of the current month.\r\n4.For the insured in Categories 1 to 4 and 6, the premiums shall be partly subsidized by the various levels of governments and shall be paid in advance to the Insurer twice a year by the end of January and of July.  The account shall be settled at the end of the year.\r\nThe premium of the Insurance for the month in the previous paragraph when the insured subscribes to coverage shall be fully paid; and that for the month when the insured withdraw from coverage shall be exempted."
+		},
+		{
+			"number": 3100,
+			"content": "The insured belonging to Categories 1 to 4 and 6 should pay supplementary insurance premium based on the supplementary insurance rate according to law, which shall be deducted by the premium withholder upon payment and given to the Insurer before the end of the following month after payment. However, single benefit payments in excess of ten million as well as those not reaching a certain amount are exempted from deductions:\r\n1.Accumulated annual bonus given by group insurance applicant in excess of four times the monthly premium ratable wages.\r\n2.Salary earnings outside of those from the group insurance applicant. However, this is not applicable for the salary earnings of Category 2 individuals.\r\n3.Income from professional practice; however income from professional practice designated by Article 20 as insured payroll-related amount is not to be included in the calculation of premium ratable wages;\r\n4.Stock earnings; however this is not applicable to premium already included in the premium ratable wages;\r\n5.Interest earnings;\r\n6.Earnings from rentals.\r\nThe premium withholder shall pay first if he is unable to deduct within the specified time.\r\nThe Competent Authority shall determine the amount referred to in Paragraph 1, the method of deduction and payment of supplementary premium, as well as other relevant matters."
+		},
+		{
+			"number": 3200,
+			"content": "Those who are not eligible, who have lost their eligibility, or who are deemed as not requiring premium withholder to deduct supplementary premium should notify premium withholder prior to receiving benefit payments so that no supplementary premium will be deducted."
+		},
+		{
+			"number": 3300,
+			"content": "The supplementary premium rates of Article 31 shall be calculated at 2 percent one year after the implementation of the amendment of the Act on January 4, 2011. On the second year, it should be adjusted in accordance with the growth rate of the insurance premium rate, which shall be announced by the Competent Authority."
+		},
+		{
+			"number": 3400,
+			"content": "For the group insurance applicant of items 1 to 3 of Category 1, when the total amount of salary paid exceeds the insured payroll-related amount for that month, supplementary premium should be calculated based on the difference as well as the rate in the previous article and paid jointly per month in accordance with payment structure in Article 27."
+		},
+		{
+			"number": 3500,
+			"content": "A grace period of fifteen days shall be allowed in case that the group insurance applicants, the insured, or the premium withholder do not pay the premium during the period provided in this Act.  If payment is not made by the end of the grace period, an overdue charge of 0.1 percent of the amount payable shall be levied for each day of delay after the expiry day of the said grace period until the premium is fully paid up with the maximum amounts as follows:\r\n1.15 percent of the payment to be made by the group insurance applicant and premium withholder.\r\n2.5 percent of the payment to be made by the insured.\r\nThe overdue charge mentioned in the previous paragraph may be waived if it is less than the amount to be fixed by the Competent Authority.\r\nIf the premium and the overdue charge referred to in Paragraph 1 payable by the group insurance applicant/premium withholder remains unpaid for thirty days, the Insurer may refer the case to the court for compulsory execution under the law; the same shall apply to the insured [who has failed to pay either the premium or the overdue charge] for one hundred and fifty days."
+		},
+		{
+			"number": 3600,
+			"content": "Those who are unable to pay the premium, overdue charge, or full self-covered premium due to economic difficulties should apply for installment payments with the Insurer or apply for loans or subsidies according to Article 99. The Insurer should provide assistance and, if necessary, work with social agencies or relevant private professional groups to look for assistance within the society.\r\nThe Insurer shall determine the conditions of applications, review procedures, installment payment schedule, and other relevant matters in the previous paragraph and report to the Competent Authority for approval and announcement."
+		},
+		{
+			"number": 3700,
+			"content": "The Insurer may temporarily suspend benefits for those group insurance applicants or those insured that have been proven to have the ability to pay the premium and the overdue charge through investigation and supervision, but have chosen not to do so. However such restrictions do not apply to portion of the premium payable withheld by or paid to the group insurance applicants, those approved by the Insurer as having to be paid in installments according to the previous article, or the premium payable during the period of time the insured is receiving protection under the Domestic Violence Prevention Act.\r\nThe premium during the temporary suspension of benefits should still be collected."
+		},
+		{
+			"number": 3800,
+			"content": "Whenever the group insurance applicants or premium withholder owe premium or the overdue charge, but have no property for execution or do not have property to pay off their debts, the persons in charge or the persons dealing with the businesses should be responsible for clearing the debts."
+		},
+		{
+			"number": 3900,
+			"content": "Premiums and overdue charges of this Insurance take precedence over general claims."
+		},
+		{
+			"number": 4000,
+			"content": "In case the beneficiaries encounter illness, injury, or maternity, the contracted medical care institutions shall provide medical services, drafting fee schedules, drug dispensing items, and regulations governing fee schedule pursuant to Paragraph 2 of the Medical Benefit Regulations, as well as Paragraphs 1 and 2 of Article 41.\r\nThe Competent Authority shall determine the procedure of medical visit, medical visit advice, provision of insurance medical services, and other regulations concerning medical services of the preceding paragraph. If the insured is in a correctional facility, the restrictions on treatment schedule and venue, as well as matters relating to guarding, transferring, and method of providing insurance medical services shall be determined jointly by the Competent Authority and the Ministry of Justice"
+		},
+		{
+			"number": 4100,
+			"content": "The Fee Schedule and Reference List for Medical Services shall be established jointly by the Insurer and the relevant agencies, experts, beneficiaries, employers, and contracted medical care institutions, and reported to the Competent Authority for approval.\r\nDrug dispensing and fee schedule should be established jointly by the Insurer and the relevant agencies, experts, beneficiaries, employers, and contracted medical care institutions; drug providers and relevant experts as well as patients, should also be invited to voice their opinions and reported to the Competent Authority for approval.\r\nThe drafting of the two-abovementioned standards should be in accordance with the medical needs of the insured as well as the quality of medicine. The meeting should be accurately recorded; self-disclosure of the representatives’ interests and other relevant information should be made public. The results of the Insurer’s medical technology evaluation should be made public before the drafting process begins.\r\nThe joint drafting of the procedures in Paragraphs 1 and 2 as well as the drawing up of the list of representatives, its selection process, term of office, disclosure of interests, and other relevant information should be determined by the Competent Authority."
+		},
+		{
+			"number": 4200,
+			"content": "The fee schedule and reference list of medical services described in the preceding paragraph shall follow the principle of \"equal payment for same nature of illness\" and the relative points shall reflect the cost of each medical service. It should be drafted taking into account volume, cases, quality, individuals, and number of days.\r\nThe Insurer may first conduct a medical technology evaluation before drafting the medical service items and fee schedule in the preceding paragraph and consider human health, medical ethics, cost-effectiveness of the treatment, and the finances of the Insurance. The same applies for the drafting of the drug dispensing items and fee schedule.\r\nMedical services and drugs are expensive and pose great danger to inappropriate users, which must be presented to the Insurer for review and approval before use, except in emergency situations.\r\nThe review items before use as well as the definition and review of emergency situations, standards, and other relevant fee schedules should be drafted in the medical service items and fee schedule and in the drug dispensing items and fee schedule."
+		},
+		{
+			"number": 4300,
+			"content": "The beneficiaries are required to pay 20 percent of the expenses of either ambulatory or emergency care and 5 percent of home nursing care expenses; 30 percent, 40 percent, and 50 percent of the expenses if they visit outpatient departments of district hospitals, regional hospitals, and medical centers respectively directly without referral.\r\nThe insured in areas with inadequate medical resources will be exempted from paying self-bearing expenses.\r\nThe Competent Authority may, when necessary, sanction the collection of a fixed amount of expenses, which the beneficiaries mentioned in Paragraph 1 shall pay for and promulgate such amount every year; such amount is to be determined in accordance with the average ambulatory care expense of the preceding year and the ratio prescribed in the Paragraph 1.\r\nThe implementation of the referral procedure and regulations in Paragraph 1, as well as the  conditions for areas with inadequate medical resources in Paragraph 2, shall be regulated by the Competent Authority."
+		},
+		{
+			"number": 4400,
+			"content": "To promote preventive medicine, implement the referral system, and to improve the quality of medicine and treatment, the Insurer should draft the family physicians system.\r\nThe benefits of the family physicians system should be paid out on a per person basis; annual benefit payment should be based on the patient’s age, gender, illness, and other individual expenses after correction.\r\nThe Competent Authority shall determine the implementation regulations and schedule of the family physicians system in Paragraph 1."
+		},
+		{
+			"number": 4500,
+			"content": "The Insurer shall fix a maximum amount for special materials as well as the maximum amount charged by contracted medical care institutions as difference. The Insurer should pay the same amount for special materials with the same functional type.\r\nThe Insured should choose the special material designated by the Insurer as the maximum benefit when deemed necessary by the doctor from the contracted medical care institution and pay for the difference.\r\nFor the special material items, in which the Insured pays the difference, the permit holder should apply to the Insurer, and upon agreement of the Insurer, present jointly with implementation date to the NHIC for discussion before submission to the Competent Authority for approval."
+		},
+		{
+			"number": 4600,
+			"content": "The Insurer should adjust drug prices based on prevailing market conditions; prices for drugs with patents, which have expired for a year, should start being lowered; gradual adjustment to reasonable prices should be done within five years based on prevailing market conditions.\r\nThe Competent Authority shall determine the operating procedure for the adjustment in the preceding paragraph as well as the relevant rules."
+		},
+		{
+			"number": 4700,
+			"content": "The ratio of hospitalization expenses to be borne by the beneficiaries is as follows:\r\n1.For acute care ward, 10 percent for the first thirty days; 20 percent from the thirty-first to the sixtieth day; and 30 percent from the sixty-first day onward;\r\n2.For chronic care ward, 5 percent for the first thirty days; 10 percent from the thirty-first to the ninetieth day; 20 percent from the ninety-first to the one hundred and eightieth day; and 30 percent from the one hundred and eighty-first day onward.\r\nThe maximum amount to be borne by the insured for hospitalization in acute care ward for not more than thirty days, or in chronic ward for not more than one hundred and eighty days for the same illness and the maximum amount for the accumulated self-bearing expenses shall be determined by the Competent Authority."
+		},
+		{
+			"number": 4800,
+			"content": "In case of the following circumstances, the beneficiaries shall be exempted from payment of the expenses prescribed in Article 43 and the previous article:\r\n1.Major illness and injury;\r\n2.Child delivery;\r\n3.Receiving medical care in mountain regions and outlying islands.\r\nThe rules relating to the exemption from the payment of expenses as well as major illnesses and injuries referred to in the preceding paragraph, the procedure for applying for proof of major illness and injury, and other relevant regulations shall be determined by the Competent Authority."
+		},
+		{
+			"number": 4900,
+			"content": "In case where the low-income households eligible under the Public Assistance Act make medical visit, the central competent authority in charge of social affairs shall prepare budget to pay for that, according to Articles 43 and 47. However, those who do not abide by referral provisions may not receive subsidies except for those in special situations."
+		},
+		{
+			"number": 5000,
+			"content": "The beneficiaries shall pay to the contracted medical care institutions for the self- bearing expenses prescribed in Article 43 and 47.\r\nThe Insurer should be notified in cases where the beneficiaries fail to pay the expenses according to the preceding paragraph after being notified and duly demanded by the contracted medical care institutions; the Insurer may suspend benefits to the beneficiaries when necessary and when it has been determined, through investigation and supervision, that the Insured is capable of paying but is unwilling to pay premiums. However, this is not applicable to individuals who are under protection in accordance with the Domestic Violence Prevention Act."
+		},
+		{
+			"number": 5100,
+			"content": "Expenses arising from the following service items are not covered in this Insurance:\r\n1.Medical service items on which the expenses shall be borne by the each level of government according to other laws or regulations;\r\n2.Immunization and other medical services on which the expenses shall be borne by the government;\r\n3.Treatment of drug addiction, cosmetic surgery, non-post-traumatic orthodontic treatment, preventative surgery, artificial reproduction, and sex conversion surgery;\r\n4.Over-the-counter drugs and non-prescription drugs which should be used under the guidance of a physician or pharmacist;\r\n5.Services provided by specially designated doctors, specially registered nurses and senior registered nurses;\r\n6.Blood, except for blood transfusion necessary for emergent injury or illness according to the diagnosis by the doctor;\r\n7.Human-subject clinical trials;\r\n8.Hospital day care, except for psychiatric care;\r\n9.Food other than those which are to be tube feeding and balance billing for wards;\r\n10.Transportation, registration fee, and certificate for the patient;\r\n11.Dentures, artificial eyes, spectacles, hearing aids, wheelchairs, canes, and other treatment equipment not required for positive therapy;\r\n12.Other treatments and drugs as stipulated by the Insurer, reviewed by the NHIC, and promulgated by the Competent Authority."
+		},
+		{
+			"number": 5200,
+			"content": "This Insurance shall not apply to a contingency incurred by war, riot, or major plague and act of God, such as severe earthquake, wind storm, flood, fire, that has been identified by the Executive Yuan and provided by all levels of the government with special aids."
+		},
+		{
+			"number": 5300,
+			"content": "No insurance benefits shall be paid by the Insurer for any one of the following events:\r\n1.Excessive hospitalization after being notified of discharge from the hospital but refused to do so;\r\n2.Expenses incurred from inappropriate repetitive medical visits or other improper use of medical resources; undergo treatment in medical care institutions not designated by the Insurer. This restriction does not apply in medical emergencies;\r\n3.Treatment and drug which are not medically necessary according to the pre-examination;\r\n4.Violating relevant medical procedures of this Insurance."
+		},
+		{
+			"number": 5400,
+			"content": "If medical services provided by the contracted medical care institutions to the beneficiaries were determined by the Insurer to be incompatible with the provisions of this Act, the expenses may not charged to the Insured."
+		},
+		{
+			"number": 5500,
+			"content": "The following may apply for reimbursement of self-advanced medical expenses from the Insurer:\r\n1.Those within the Taiwan area who avail of medical visit from non-contracted medical institutions due to emergency or childbirth;\r\n2.Those outside of the Taiwan area who are afflicted with special illness as determined by the Insurer and requiring local medical care due to unforeseen illnesses or emergency childbirth. The reimbursement amount should not be higher than the maximum amount set by the Competent Authority;\r\n3.Those who received medical care services at contracted medical care institutions when their coverage was temporarily suspended but have already paid their premium in full. Those who get medical visits in non-contracted medical care institutions shall fall under the preceding two subparagraphs;\r\n4.Those who receive treatment or who give birth in contracted medical institutions and have to self-advance medical expenses due it is non-attributable to the insured;\r\n5.Those who have covered their own expenses according to Article 47, the annual accumulation of which has already exceeded the maximum amount set by the Competent Authority."
+		},
+		{
+			"number": 5600,
+			"content": "The Insured should apply for reimbursement of self-advanced medical expenses according to the preceding article in the following deadlines:\r\n1.Insured persons under subparagraphs 1, 2, or 4 must apply for reimbursement of medical expenses within six months from the day of emergency treatment, or outpatient treatment, or discharge from the hospital. After the deadline, no application will be accepted.  Sailors on an ocean-going fishing ship shall apply for reimbursement within six months from the date they come back from the sea.\r\n2.Insured persons under subparagraph 3 should apply for reimbursement within six months from the day relevant expenses are paid in full; this is applicable for cases within the last five years.\r\n3.Insured persons under subparagraph 5 should apply for reimbursement before June 30 of the following year.\r\nThe Competent Authority shall determine the documents required of insured persons applying for reimbursement of self-advanced medical expenses, reimbursement standards and procedure, and other relevant matters."
+		},
+		{
+			"number": 5700,
+			"content": "The Insured may not make repetitive application or receive duplicated payment in cash of benefits under this Insurance for the same incident."
+		},
+		{
+			"number": 5800,
+			"content": "From the date of withdrawal, no benefits shall be payable for the beneficiaries who withdraw from coverage according to Article 13; the Insurer should return all extra premium. If the benefits have already been received, the beneficiaries shall return them to the Insurer."
+		},
+		{
+			"number": 5900,
+			"content": "The right of the beneficiaries to receive cash reimbursement for self-advanced medical expenses should not be transferred, offset, seized or object to security interest."
+		},
+		{
+			"number": 6000,
+			"content": "The range of the total amount of the medical payment of this Insurance each year shall be proposed by the Competent Authority no later than six months prior to the commencement of the fiscal year and reported to the Executive Yuan for approval after consultation with the NHIC."
+		},
+		{
+			"number": 6100,
+			"content": "the NHIC shall negotiate and reach the agreement on, no later than 3 months prior to the commencement of each fiscal year, the aggregate amount of the medical payment and the method of allocation, within the range of the total amount of the medical payment approved by the Executive Yuan under the previous article, and report to the Competent Authority for approval. The Competent Authority shall make decision at its own discretion in case the NHIC does not reach an agreement in time.\r\nThe allotment for ambulatory care and hospitalization expenses of the budget for the aggregate payment described in the preceding paragraph may be specified by district.\r\nThe allocation ratio and a system of separating accounts for medical and pharmaceutical expenses may be established in regard to the budget for payment of the ambulatory care described in the preceding paragraph, according to the ambulatory care services provided by physicians, Chinese medicine doctors and dentists, pharmaceutical services and expense of drugs.\r\nAfter the benefit expense package in Paragraph 1 has been drafted, the Insurer should ask premium payer representatives, insurance medical care provider representatives, and experts to study and promote the global budget payment system.\r\nThe agenda for the study process in the preceding paragraph should be announced seven days before and the list of attendees and minutes of the meeting made public within ten days after the meeting.\r\nThe scope of district mentioned in Paragraph 2 shall be determined by the Insurer and submitted to the Competent Authority for approval."
+		},
+		{
+			"number": 6200,
+			"content": "The contracted medical care institutions shall declare to the Insurer the points of the medical services rendered and expense of drugs, based on the Fee Schedule and Reference List for Medical Services and the Reference List for Drugs.\r\nContracted medical care institutions should declare the medical expenses in the preceding paragraph within the first day of month following the treatment to six months. However, should there be unavoidable circumstances, another six months after the fact will be provided.\r\nThe Insurer shall calculate the value of each point based on the budget allocated according to in the preceding article and the total points of medical service as reviewed by the Insurer. The Insurer shall pay each contracted medical care institution according to the reviewed points.\r\nThe drug expenses shall be paid to the contracted medical care institutions after being examined by the Insurer. In case the payment of expense exceeds the preset total of drug expense ratio target, exceeding the targeted amount, the Insurer shall adjust the drug expense payment and payment schedule for the following year. The amount in excess shall be deducted from the budget for the medical benefit payment for the current season and adjust the payment to contracted medical care institutions according to expenditure targets."
+		},
+		{
+			"number": 6300,
+			"content": "The Insurer, in order to examine the item, quantity and quality of the medical service of this Insurance provided by the contracted medical care institutions, shall appoint medical and pharmaceutical specialists who have clinical or relevant experiences to conduct the review, which should be based on the approved payment; the review work should be assigned to the relevant professional agency or group.\r\nReview of the medical services in the preceding paragraph shall be done before, during, and after the matter; sampling or case analysis will be the methods used.\r\nThe Competent Authority shall establish the procedure and schedule for medical expense application and payment, as well as rules for reviewing medical services.\r\nThe Insurer shall be responsible for drafting the contract items of Paragraph 1, the contracted institutions, qualifications of the group, selection and revision of procedure, supervision and relevant pertaining to rights and responsibilities and reporting these matters to the Competent Authority for approval."
+		},
+		{
+			"number": 6400,
+			"content": "In case the other contracted medical care institutions fill the prescription, conduct lab tests or diagnostic examinations in accordance with the physician's instruction, and the Insurer, after the examination determines not to pay the benefits due to the physician's improper instruction, such expenses incurred thereof shall be borne by the medical institution where the physician practices by applying for reduction of medical expenses."
+		},
+		{
+			"number": 6500,
+			"content": "Paragraph 3 of Article 61, and Paragraph 4 of Article 62 may be implemented in stages, with the respective implementation dates to be set by the Competent Authority. Before the implementation date, the amount of payment for each point in the Fee Schedule and Reference List for Medical Services shall be decided by the Competent Authority."
+		},
+		{
+			"number": 6600,
+			"content": "Medical care institutions should apply to the Insurer to become contracted medical care institutions. The Competent Authority shall determine the qualifications, procedure, review standards, disqualification, resolution of violations, and other relevant matters pertaining to contracted medical care institutions.\r\nThe medical care institutions of the preceding paragraph are limited to those in Taiwan, Penghu, Kinmen, and Matsu."
+		},
+		{
+			"number": 6700,
+			"content": "Provisions of ward in a contracted hospital shall comply with the criteria for establishment of the insurance ward. The criteria for establishment of insurance ward and the ratio of the insurance ward to the aggregate number of hospital wards shall be established by the Competent Authority.\r\nContracted hospitals should announce the status of their insurance wards daily.\r\nThe Insurer should announce the ratio of insurance ward monthly and conduct quarterly checks."
+		},
+		{
+			"number": 6800,
+			"content": "With regard to the medical benefit provided by this Insurance, unless provided otherwise by this Act, the contracted medical care institutions shall not make up items to charge the beneficiaries."
+		},
+		{
+			"number": 6900,
+			"content": "The contracted medical care institutions shall check the qualification of the insured when they visit, matching it to the information on the health insurance card. The Insurer may refuse to pay medical expenses for those who have not been checked and shall seek reimbursement if the medical expenses have been paid. This is inapplicable to matters not attributable to contracted medical care institutions."
+		},
+		{
+			"number": 7000,
+			"content": "Upon occurrence of an incident under coverage to the insured, the contracted medical care institutions shall provide proper medical service based on their specialties and facilities or assist in referral without any unreasonable refusal due to the status of the insured."
+		},
+		{
+			"number": 7100,
+			"content": "Contracted medical care institutions should give the Insured a prescription after treatment, which shall be according to the dosage, lab tests, and diagnostic examinations.\r\nThe Insured’s drug prescription from ambulatory treatment and major lab test items should be stored in the health insurance IC card."
+		},
+		{
+			"number": 7200,
+			"content": "To reduce cases of ineffective treatment and other inappropriate use of insurance medical resources, the Insurer shall draft an annual proposal for controlling inappropriate use of resources; present it to the NHIC for discussion, and submitting it to the Competent Authority afterwards for approval."
+		},
+		{
+			"number": 7300,
+			"content": "Contracted medical care institutions which have received medical insurance payments in excess of a specific amount should present to the Insurer financial reports signed by a CPA or reports from audit institutions on national health insurance business, which the Insurer should make public.\r\nThe Insurer shall draft the rules pertaining to the amount, deadline, procedure for providing financial reports, the format, and contents to be presented to the NHIC for discussion and submitted to the Competent Authority for approval afterwards\r\nThe financial report of Paragraph 1 should at least include the following reports:\r\n1.Asset-liability statement\r\n2.Surplus balance sheet\r\n3.Changes in net report\r\n4.Cash flow report\r\n5.Medical revenue schedule\r\n6.Medical cost schedule"
+		},
+		{
+			"number": 7400,
+			"content": "The Insurer and the contracted medical care institutions should regularly make public information pertaining to quality of care of the Insurance.\r\nThe Insurer shall draft the content scope of the quality of care information, how it is made public, and other rules pertaining to it to be presented to the NHIC for discussion and submitted to the Competent Authority for approval afterwards."
+		},
+		{
+			"number": 7500,
+			"content": "When drug expenses applied for by contracted medical care institutions exceeds the amount designated by the Competent Authority, contracts for all transactions with pharmaceutical firms should be signed to define rights and responsibilities, except if purchase of drugs is for rare diseases or other special cases.\r\nThe Competent Authority should meet with the Fair Trade Commission, Executive Yuan to draft the definitive contract format for the written contract in the preceding paragraph and other recorded or unrecorded matters."
+		},
+		{
+			"number": 7600,
+			"content": "In order to balance the insurance finances, this Insurance shall set aside a reserve fund from the following sources:\r\n1.Surplus from each fiscal year;\r\n2.Premium overdue charges of this Insurance;\r\n3.Profits generated from the management of the reserve fund.\r\n4.Social health and welfare surcharge on tobacco and alcoholic products imposed by the government.\r\n5.Incomes from sources with statutory grounds other than this Act.\r\nDeficiency in the balance of insurance revenue and expenditure of each fiscal year shall be recovered by the reserve fund first."
+		},
+		{
+			"number": 7700,
+			"content": "The funds of this Insurance may be managed in the following ways:\r\n1.To invest in treasury bonds, treasury bills, and corporate bonds;\r\n2.To deposit in government owned banks or financial institutions designated by the Competent Authority;\r\n3.To invest in any other program which is beneficial to this Insurance and as approved by the Competent Authority."
+		},
+		{
+			"number": 7800,
+			"content": "In principle, the aggregate amount of the reserve fund shall be equal to the aggregate amount of benefit payments in the most recent one to three months based on actuarial principles."
+		},
+		{
+			"number": 7900,
+			"content": "The Insurer may require relevant agencies to provide the necessary information it needs to carry out the business of the Insurance, which the agencies may not refuse.\r\nThe information obtained by the Insurer in accordance with the preceding paragraph should be handled responsibly and prudently. The storage and use of relevant information should be carried out according to the Personal Information Protection Act."
+		},
+		{
+			"number": 8000,
+			"content": "The Competent Authority may, to review insurance disputes or for administrative reasons, ask the insured, the group insurance applicants, the premium withholders, and contracted medical care institutions to provide relevant documents, such as account records, receipts, medical history, diagnosis records, or cost of medical expenses, and other documents or relevant information. The beneficiaries, the group insurance applicants, premium withholders, and contracted medical care institutions shall not elude, reject, obstruct, or misrepresent, misreport or misstate.\r\nThe Competent Authority shall determine the scope, accessing procedure and rules for interviewing and inquiry pertaining to the relevant information in the preceding paragraph."
+		},
+		{
+			"number": 8100,
+			"content": "The person who apply for reimbursements or claims medical expenses through improper conduct, or makes false certification, report, misrepresentation, shall be fined equivalent to two to twenty times the benefits or medical expenses received. If criminal offense is involved, he/she shall also be referred to the court. Any medical expenses so received by contracted medical care institutions may be deductible from the expenses claimed or receivable by it.\r\nIf a contracted medical institution behaves in the way mentioned by the preceding paragraph, the Insurer may announce the name of the institution, responsible medical personnel, or the name of the individual and the nature of the violation, depending on the severity of the situation."
+		},
+		{
+			"number": 8200,
+			"content": "The person who violates the provision of Article 68 shall return the amount received and shall be fined five times of the expenses received."
+		},
+		{
+			"number": 8300,
+			"content": "When contracted medical care institutions violate Article 68 or act as described in Paragraph 1 Article 81, aside from the punishment provided for in Paragraph 1 Article 81, the Insurer must study the severity of the situation and decide whether to suspend the contract indefinitely or within a period of time."
+		},
+		{
+			"number": 8400,
+			"content": "If a group insurance applicant fails to carry out subscription to this Insurance pursuant to Article 15 for the insured or their dependents, it shall be punished with an amount equivalent to two to four times of the payable premiums in addition to the unpaid premium.\r\nThe preceding paragraph is not applicable if the failure is not attributable to the group insurance applicant.\r\nIf a group insurance applicant fails to pay the premiums for the insured and his/her dependents, and the premiums were paid by the insured, in addition to returning the premiums paid, the group insurance applicant shall be punished with an amount equivalent to two to four times of the payable premiums."
+		},
+		{
+			"number": 8500,
+			"content": "If the premium withholder does not deduct supplementary premium from the Insured according to Article 31, the Insurer shall impose a deadline for covering the payment as well as a fine that is double the deducted amount. Those who do not pay within the specified deadline will be fined three times the amount."
+		},
+		{
+			"number": 8600,
+			"content": "If the contracted hospital fails to attain the criteria and the specified ratio of the insurance ward to the aggregate number of hospital ward as provided in Article 67, it shall be fined no less than ten thousand and no more than fifty thousand New Taiwan Dollars based on the inadequate number of beds, and shall be ordered to improve within a given period of time. The Insurer should make improvements within the specified time; the fine shall be continuously imposed for each violation if not improved within the time given."
+		},
+		{
+			"number": 8700,
+			"content": "Contracted medical care institutions violating Paragraph 1 of Article 75 which have not signed contracts or have violated the rule set by the Competent Authority according to Paragraph 2 of Article 75 regarding what and what not to record shall be fined not less than twenty thousand and not more than one hundred thousand New Taiwan Dollars. Improvements should be made by the Insurer within the specified time; the fine shall be continuously imposed for each violation if not improved within the time given."
+		},
+		{
+			"number": 8800,
+			"content": "If a beneficiary subscribes to this Insurance in violation of the provision of Article 11, he/she shall be subject to a penalty of no less than three thousand and no more than fifteen thousand New Taiwan Dollars in addition to the payment of premium shortfall.\r\nThe payment of the premium shortfall described in the preceding paragraph is limited to those payable within the most recent five years."
+		},
+		{
+			"number": 8900,
+			"content": "In any of the following cases, a fine in the amount of two to four times of the payment of different premium shall be imposed in addition to the payment of premium differential:\r\n1.The insured payroll-related amount of the insured in Category 1 declared by the group insurance applicants for the insured is less than the regulated insured payroll-related amount;\r\n2.The insured payroll-related amount of the insured in Categories 2, and 3 declared by the insured are less than the regulated insured payroll-related amount."
+		},
+		{
+			"number": 9000,
+			"content": "Persons who violate the provisions of Article 70 or Paragraph 1 of Article 80 shall be subject to a fine of no less than twenty thousand and no more than one hundred thousand New Taiwan Dollars."
+		},
+		{
+			"number": 9100,
+			"content": "If a beneficiary who, in violation of the provision of this Act, has not subscribed to this Insurance, he or she shall be subject to a fine of no less than three thousand and no more than fifteen thousand New Taiwan Dollars and shall subscribe to this Insurance retroactively from the date on which the beneficiary is qualified for insurance. The benefits shall be suspended before the fines and premium are fully paid."
+		},
+		{
+			"number": 9200,
+			"content": "The fines prescribed in this Act shall be imposed by the Insurer."
+		},
+		{
+			"number": 9300,
+			"content": "The Insurer may apply for provisional seizure of assets from the court and may be exempted from providing a guarantee to group insurance applicants, insured, or contracted medical care institutions, which owe the Insurance relevant payments, or are hiding or transferring assets or avoiding implementing matters."
+		},
+		{
+			"number": 9400,
+			"content": "For those insured that are covered by the occupational injury insurance, the medical expenses incurred from the occupational injury contingency shall be paid by the occupational injury insurance.\r\nThe Insurer shall be tasked by the Insurer of the Labor Insurance to provide medical benefits for occupational injury insurance.\r\nThe Competent Authority shall determine the scope, payment compensation, and other relevant regulations of package and meets with central labor competent authority for approval."
+		},
+		{
+			"number": 9500,
+			"content": "If the Insurer has paid insurance benefits to a beneficiary for any car traffic accident, the Insurer may claim against the insurer of the compulsory automobile liability insurance to recover the benefits paid.\r\nIf a beneficiary has a indemnity claim against a third party arising out of an incident covered by this Insurance, the Insurer of this Insurance may, after paying insurance benefits to the beneficiary, exercise the right of subrogation in accordance with the following subparagraphs:\r\n1. Public safety incidents: The Insurer shall claim against the insurer of the liability insurance carried by the third party as required by the laws and regulations. However, if the indemnity amount is deficient in settlement, the Insurer then claims against the third party for the deficit amount.\r\n2. Other serious traffic accidents, public nuisance or food poisoning incidents: When the third party has carried his liability insurance, the Insurer shall claim against the third party’s insurer. If there is any deficit in settlement or no such insurance being carried, the Insurer shall claim against the third party for the deficit amount or the indemnity.\r\nThe regulations governing the minimum compensation amount, the compensation scope, methods and procedures of the public safety incidents, serious traffic accidents, public nuisance or food poisoning incidents referred to in the preceding paragraph shall be prescribed by the competent authority."
+		},
+		{
+			"number": 9600,
+			"content": "The revenues and expenditures of this Insurance shall be administered by the Insurer as Operation Fund in the annual fiscal budget."
+		},
+		{
+			"number": 9700,
+			"content": "All account records, receipts and revenue and expenditure under this Insurance shall be exempted from taxation."
+		},
+		{
+			"number": 9800,
+			"content": "The overdue charge, the temporary suspension of benefits, or the fines provided in Articles 35, 37, Paragraph 2 of Article 50, and Article 91 are not applicable to insured qualified as being in financial difficulty."
+		},
+		{
+			"number": 9900,
+			"content": "The Competent Authority may work out a budget to establish a fund for the insured, who have financial difficulty in paying premiums to apply for loans without interest in the amount of the premiums of this insurance and the fees they have to pay.\r\nThe monthly repayment may not be higher than twice the personal premium set at the time when the borrowers began applying for the loans, unless the borrowers want to repay it earlier at their own will.\r\nThe Competent Authority shall determine the loan application, conditions, loan repayment schedule and methods, as well as other relevant matters of the reserve fund of this Insurance referred to in Paragraph 1."
+		},
+		{
+			"number": 10000,
+			"content": "Standards for financial difficulties defined in the two previous articles shall be interpreted by the competent authority in reference to relevant standards for social subsidies."
+		},
+		{
+			"number": 10100,
+			"content": "The Insurer should check, on a regular basis, the ability to pay of the insured who have either applied for premium payment postponement or loan clearing pursuant to Paragraphs 1 and 2 of Article 87-4 (prior to the Act’s amendment on January 4, 2011)."
+		},
+		{
+			"number": 10200,
+			"content": "All accumulated deficits incurred before the amendment of this Act on January 4, 2011, shall be shouldered by the central competent authority through annual incremental amounts in the national budget."
+		},
+		{
+			"number": 10300,
+			"content": "The Competent Authority shall prepare the Enforcement Rules of this Act."
+		},
+		{
+			"number": 10400,
+			"content": "The Executive Yuan shall decide upon the date of implementation of this Act.\r\nThe amendments to articles of this Act shall come into force as of the date of promulgation, with the exception that the implementation date of Article 11 amended on June 29, 2011, shall be determined by the Executive Yuan."
+		}
+	]
+}

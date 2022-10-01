@@ -1,0 +1,164 @@
+{
+	"pcode": "G0400044",
+	"LawLevel": "命令",
+	"EngLawName": "Regulations Governing the Issuance of Call (Put) Warrants by Issuers",
+	"LawName": "發行人發行認購（售）權證處理準則",
+	"EngLawModifiedDate": "20220426",
+	"histories": [
+		"Full text of 14 articles issued per 3 January 2000 Order No. (89)-Taiwan-Finance-Securities-(II) 82828 of the Securities and Futures Commission, for implementation from the date of promulgation.",
+		"Articles 3, 4, 6, 7, and 9 amended and issued per 19 September 2001 Order No. (90)-Taiwan-Finance-Securities-(II) 155697 of the Securities and Futures Commission, for implementation from the date of promulgation.",
+		"Articles 2, 4, 6, 7, 8, 10, 11, 12, and 13 amended and issued per 25 February 2003 Order No. (92)-Taiwan-Finance-Securities-II-0920000754 of the Securities and Futures Commission, for implementation from the date of promulgation.",
+		"Articles 7 and 8 amended and issued and Article 9 was deleted per 31 December 2003 Order No. Taiwan-Finance-Securities-II-0920005374 of the Securities and Futures Commission, Ministry of Finance",
+		"Article 2 amended and issued per 26 May 2004 Order No. Taiwan-Finance-Securities-II-0930002252 of the Securities and Futures Commission, Ministry of Finance",
+		"Article 2 amended and issued per 29 August 2006 Order No. Financial-Supervisory-Securities-II-0950004045 of the Financial Supervisory Commission, Executive Yuan",
+		"Full text of 24 articles amended and titles of Chapters 1 to 4 added, with said changes issued per 28 December 2007 Order No. Financial-Supervisory-Securities-II-0960070907 of the Financial Supervisory Commission, Executive Yuan; for implementation from the date of issuance",
+		"Articles 8, 16, and 22 amended and issued per 29 December 2008 Order No. Financial-Supervisory-Securities-II-0970068927 of the Financial Supervisory Commission, Executive Yuan",
+		"Article 8 amended and issued per 22 July 2009 Order No. Financial-Supervisory-Securities-SITC-0980036050 of the Financial Supervisory Commission, Executive Yuan",
+		"Articles 8 and 15 to17 amended and issued per 7 April 2010 Order No. Financial-Supervisory-Securities-Firms-0990014380 of the Financial Supervisory Commission, Executive Yuan",
+		"Title and Articles 1, 5 to 8, 10, 13, and 16 amended and issued, Article 9-1 added, and Articles 11 and 12 deleted per 10 July 2012 Order No. Financial-Supervisory-Securities-Firms-1010030243 of the Financial Supervisory Commission (Original title: Regulations Governing Applications for Issuance of Call (Put) Warrants by Issuers)",
+		"Article 8 amended per 25 April 2014 Order No. Financial-Supervisory-Securities-Futures-1030012154 of the Financial Supervisory Commission",
+		"Articles 5, 9 and 23, and Appendix to Article 5 amended and issued per 29 May 2014 Order No. Financial-Supervisory-Securities-Firms-10300133222 of the Financial Supervisory Commission",
+		"Articles 5, 7, 8, 9-1, 10, 15, and 23 amended, Article 23-1 added, and Article 9 deleted per 8 July 2016 Order No. Financial-Supervisory-Securities-Firms-1050025009 of the Financial Supervisory Commission",
+		"Article 7 amended per 26 April 2022 Order No. Financial-Supervisory-Securities-Firms-1110381663 of the Financial Supervisory Commission"
+	],
+	"divisions": [
+		{
+			"type": "chapter",
+			"number": 100,
+			"title": "General Principles",
+			"start": 100,
+			"end": 400
+		},
+		{
+			"type": "chapter",
+			"number": 200,
+			"title": "Issuance of Domestic Call (Put) Warrants by Domestic and Foreign Issuers",
+			"start": 500,
+			"end": 1300
+		},
+		{
+			"type": "chapter",
+			"number": 300,
+			"title": "Issuance of Offshore Call (Put) Warrants by Domestic Issuers",
+			"start": 1400,
+			"end": 2301
+		},
+		{
+			"type": "chapter",
+			"number": 400,
+			"title": "Supplementary Provisions",
+			"start": 2400,
+			"end": 2400
+		}
+	],
+	"articles": [
+		{
+			"number": 100,
+			"content": "These Regulations are adopted pursuant to Article 22, paragraph 4 of the Securities and Exchange Act (the \"Act\")."
+		},
+		{
+			"number": 200,
+			"content": "The issuance of call (put) warrants, except for where otherwise provided for by law or regulation, shall be governed by these Regulations.\r\nThe term \"call (put) warrant\" as used in these Regulations means a security which is issued by a third party other than the company issuing the underlying security, and which represents that the holder is entitled to buy from or sell to such third party the underlying security at the exercise price during the option period or on a specified maturity date, or to collect a spread by settlement in cash."
+		},
+		{
+			"number": 300,
+			"content": "The term \"issuer\" as used in these Regulations means a third party, other than the issuing company of the underlying security, that is concurrently engaged in the following three businesses: securities underwriting, proprietary dealing, and brokerage or intermediary services.\r\nAn issuer that is a foreign institution shall submit an approval letter or a performance undertaking from its board of directors, after which a branch unit within the territory of the Republic of China (ROC) or a branch unit established in ROC territory by a directly or indirectly wholly-owned subsidiary shall submit an application in the name of the foreign entity. The business operated by the aforementioned subsidiary or ROC-based branch unit shall comply with the provisions of the preceding paragraph.\r\nIf a foreign institution as referred to in the preceding paragraph has established a branch office within ROC territory through its directly or indirectly wholly owned subsidiary, the branch office shall be designated to be responsible for carrying out matters related to the issuance and exercise of the warrants and disclosure of relevant information."
+		},
+		{
+			"number": 400,
+			"content": "The fact that it has received accreditation as a qualified issuer of call (put) warrants may not be cited by an issuer in its publicity either as proof of the veracity of its application particulars, or as guarantee of the value of its call (put) warrants."
+		},
+		{
+			"number": 500,
+			"content": "To issue call (put) warrants, an issuer shall first apply to the Financial Supervisory Commission (FSC) for accreditation as a qualified issuer of call (put) warrants.\r\nWhen a domestic issuer applies to the FSC for accreditation as a qualified issuer of call (put) warrants, it shall meet the following qualifications. This provision shall not apply, however, in the case of failure to meet requirements of subparagraphs 3 to 7 if there has been concrete improvement of the circumstances and it has been accredited by the competent authority..\r\n1. The CPA-audited and attested financial report for the most recent period states net worth of not less than NT$3 billion and not lower than the paid-in capital. Its financial condition meets the requirements of the Regulations Governing Securities Firms.\r\n2. Regulatory capital adequacy ratio during the half-year period preceding the date of application was not less than 200 percent.\r\n3. It has not been issued a warning by the FSC under Article 66, subparagraph 1 of the Act within the last 3 months.\r\n4. It has not been subject to any sanction imposed by the FSC ordering dismissal of a director, supervisor, or managerial officer of the issuer, or any disposition to dismiss and replace its responsible person or other relevant personnel in the most recent half year.\r\n5. It has not been subject to any sanction imposed by the FSC during the most recent year involving suspension of business activities.\r\n6. It has not been subject to any sanction imposed by the FSC during the most recent 2 years involving voidance or revocation of any part of its permission for business.\r\n7. It has not been subject to any sanction imposed by the Taiwan Stock Exchange Corporation(\"TWSE\"), Taipei Exchange (\"TPEx\"), or the Taiwan Futures Exchange Corporation (\"TAIFEX \" ) pursuant to the bylaws of those exchanges suspending or restricting its trading in the past year.\r\nWhen a foreign issuer applies to the FSC for accreditation as a qualified issuer of call (put) warrants, it shall meet the following qualifications.\r\n1. The CPA-audited and attested financial report for the most recent period states net worth of not less than NT$3 billion and not lower than the paid-in capital.\r\n2. It has a credit rating of a specific level or higher issued by a credit rating agency recognized by the FSC.\r\n3. It has experience in operating international call (put) warrant businesses.\r\n4. It has not been sanctioned by the competent authority in its home country in the preceding 2 years.\r\n5. The net value of its branch unit in the territory of the ROC, or branch unit established in the territory of the ROC by its directly or indirectly wholly-owned subsidiary shall reach NT$150 million, and shall meet the provisions in subparagraphs 2 to 7 of the preceding paragraph.\r\nIf an issuer engages a foreign institution to act as a risk management institution or as a foreign issuer, it shall first obtain a consent letter from the competent authority in charge of foreign exchange.\r\nIn order to apply to the FSC for accreditation as a qualified issuer of call (put) warrants, an issuer shall submit an Application for Accreditation as a Qualified Call (Put) Warrants Issuer furnishing all required particulars, together with duplicate copies of all other required documents, to the TWSE or TPEx. After the TWSE or TPEx examines and approves the application, the applicant shall file the examination opinion with the FSC for final review and approval.\r\nIn carrying out final review and approval of an application for accreditation of qualifications to issue call (put) warrants as referred to in the first paragraph of this article, the FSC shall act on the basis of a financial report duly audited and attested by a certified public accountant (CPA), a licensed attorney's opinion regarding legal and regulatory compliance, credit rating information, related documents, and an examination opinion issued by the TWSE or the TPEx."
+		},
+		{
+			"number": 600,
+			"content": "If, at any time on or after the date on which an issuer applies to the FSC for accreditation as a qualified issuer of call (put) warrants, an event occurs which has a material impact on shareholders' equity or securities prices as contemplated in Article 36, paragraph 3, subparagraph 2 of the Act, in addition to duly making a public announcement and filing with the TWSE or TPEx within two days of the date of the occurrence of the fact, the issuer shall also provide the CPA who attested to its financial report with a professional opinion from an appropriate expert, as dictated by the nature of the event, and retain the CPA to provide an opinion regarding the effect of the event upon the financial report, and shall then file the opinion with the TWSE or TPEx. The TWSE or TPEx shall then provide an opinion on how to handle the matter and file it with the FSC."
+		},
+		{
+			"number": 700,
+			"content": "When any one of the following circumstances applies to an issuer that has applied for accreditation as a qualified issuer of call (put) warrants, the FSC may deny accreditation; for an issuer that has obtained accreditation, the FSC may void or revoke the accreditation:\r\n1. It has made incomplete submission of required application documents, and has failed to supplement those documents by the deadline prescribed by the FSC.\r\n2. Particulars of the application do not conform to laws and regulations, or the application contains misrepresentations or nondisclosures.\r\n3. There is a major loss of creditworthiness which has yet to be settled, or four years have not elapsed since settlement.\r\n4. There is a lack of appropriate risk management measures.\r\n5. The issuer has been incapable of meeting obligations in connection with a previous issue of call (put) warrants.\r\n6. In the most recent year the issuer has failed to comply with TWSE or TPEx regulations applicable to call (put) warrants, and improvement within a specified time period was not possible.\r\n7. The issuer fails to prepare financial reports in accordance with generally accepted accounting principles, or effective enforcement of its internal control system is not possible.\r\n8. The issuer violates the preceding Article, or an assessment shows that its filed particulars might have material impact on its financial status.\r\n9. There is a major dispute with respect to rights and interests that could influence the issuer's finances or business, and there is no resolution or improvement.\r\n10. There is factual evidence of material irregularities with the issuer's finances or business.\r\n11. The issuer does not comply with the conditions Article 5, paragraph 2 or 3.\r\n12. The FSC otherwise considers it necessary to deny accreditation in order to protect the public interest."
+		},
+		{
+			"number": 800,
+			"content": "The underlyings to which call (put) warrants issued by an issuer are linked are limited to the following:\r\n1. Stocks, baskets of stocks, exchange-traded securities investment trust funds, futures exchange-traded funds, offshore exchange-traded funds, and Taiwan depositary receipts that are listed on the TWSE or TPEx and meet conditions prescribed by the TWSE or the TPEx.\r\n2. Indexes as publicly announced by the TWSE or TPEx.\r\n3. Foreign securities markets designated by the FSC, and furthermore the foreign securities or indexes thereof that meet the requirements set forth by the TWSE or the TPEx.\r\n4. Other linked underlyings as approved by the FSC."
+		},
+		{
+			"number": 801,
+			"content": "When an issuance by the issuer of call (put) warrants linked with any foreign security or index as specified in Article 8, paragraph 1, subparagraph 3, involves inward or outward remittance of funds, permission shall be obtained from the Central Bank.\r\nWhere an issuer issues call (put) warrants as specified in the preceding paragraph, payment at exercise shall be limited to cash settlement.\r\nWhen an issuer issues call (put) warrants as specified in paragraph 1 and undertakes related hedging transactions, foreign exchange settlement matters shall be carried out in accordance with the Regulations Governing the Declaration of Foreign Exchange Receipts and Disbursements or Transactions."
+		},
+		{
+			"number": 900,
+			"content": "(Deleted)"
+		},
+		{
+			"number": 901,
+			"content": "If an issuer that has been accredited by the FSC as a qualified issuer of call (put) warrants fails to issue any call (put) warrants for 1 year or more, or if the issuer has been suspended from issuance of call (put) warrants by the TWSE or TPEx for 1 year or more, the FSC may revoke its accreditation."
+		},
+		{
+			"number": 1000,
+			"content": "After an issuer has been accredited by the FSC as a qualified issuer of call (put) warrants, matters related to the issuance and suspension of issuance of call (put) warrants shall comply with relevant rules of the TWSE or TPEx.\r\nThe issuer of the call (put) warrants referred to in the preceding paragraph shall enter into a contract with the TWSE or the TPEx for exchange listing or over-the-counter listing of call (put) warrants. The TWSE or the TPEx shall report the contract for exchange listing or over-the-counter listing to the FSC for recordation."
+		},
+		{
+			"number": 1100,
+			"content": "(Deleted)"
+		},
+		{
+			"number": 1200,
+			"content": "(Deleted)"
+		},
+		{
+			"number": 1300,
+			"content": "An issuer issuing call (put) warrants may contract with a securities underwriter to underwrite the call (put) warrants, or it may sell the warrants by itself. The issuer shall deliver a prospectus to subscribers.\r\nMatters to be stated in the prospectus referred to in the preceding paragraph shall be formulated by the TWSE or the TPEx and reported to the FSC for approval."
+		},
+		{
+			"number": 1400,
+			"content": "Before issuing offshore call (put) warrants, an issuer shall first obtain accreditation as a qualified issuer of call (put) warrants from the FSC, and from the competent authority or an exchange in the place where the warrants will trade.\r\nAfter obtaining accreditation as a qualified issuer of call (put) warrants from the competent authority or an exchange in the place where the warrants will trade, the issuer shall file relevant documents with the FSC for recordation."
+		},
+		{
+			"number": 1500,
+			"content": "The securities exchange where offshore call (put) warrants are issued by an issuer shall meet the following conditions:\r\n1. It must be organized as either a securities exchange or over-the-counter market subject to regulation by the local competent authority.\r\n2. The sovereign rating of the country where the warrants are to trade shall have a rating of a certain grade or higher from a credit rating institution recognized by the FSC."
+		},
+		{
+			"number": 1600,
+			"content": "If an issuer issues offshore call (put) warrants for which the linked underlying is a domestic security or index, the scope of the underlyings shall comply with the provisions of Article 8; if the linked underlying is a foreign security or index, the scope of the underlyings shall be handled pursuant to the requirements of the competent authority or exchange where the warrants are traded, provided that the mainland China stock price indices and securities listed on mainland China securities markets  may not be included."
+		},
+		{
+			"number": 1700,
+			"content": "Where an issuance by an issuer of offshore call (put) warrants involves inward or outward remittance of funds, permission shall be obtained from the Central Bank.\r\nWhen an issuer issues offshore call (put) warrants and undertakes related hedging transactions, foreign exchange settlement matters shall be carried out in accordance with the Regulations Governing the Declaration of Foreign Exchange Receipts and Disbursements or Transactions."
+		},
+		{
+			"number": 1800,
+			"content": "The total amount of offshore call (put) warrants issued by an issuer shall be the combined total of the offshore call (put) warrants and the domestic call (put) warrants that it has issued, and is governed by the applicable requirements of the TWSE or TPEx."
+		},
+		{
+			"number": 1900,
+			"content": "If an issuer issues offshore call (put) warrants for which the underlying security is a domestic security, the total amount of warrants written on a single underlying security shall be governed by the applicable requirements of the TWSE or TPEx."
+		},
+		{
+			"number": 2000,
+			"content": "After it has issued offshore call (put) warrants and filed with the FSC for recordation pursuant to Article 14, but before it has applied to the competent authority or an exchange in the place where the warrants will trade, an issuer shall file the relevant documents as required by the TWSE or TPEx."
+		},
+		{
+			"number": 2100,
+			"content": "An issuer that issues offshore call (put) warrants shall establish a special account for hedging operations, and shall handle it in compliance with the applicable requirements of the TWSE or TPEx."
+		},
+		{
+			"number": 2200,
+			"content": "If an issuer issues offshore call (put) warrants for which the linked underlying is a domestic security or index, payment at exercise shall be limited to cash settlement; if the linked underlying is an offshore security or index, payment at exercise shall comply with the requirements of the competent authority or exchange where the warrants are traded."
+		},
+		{
+			"number": 2300,
+			"content": "After an issuer has issued offshore call (put) warrants and filed with the FSC for recordation pursuant to Article 14, the FSC may suspend its issuance of offshore call (put) warrants if the TWSE or TPEx suspends its issuance of call (put) warrants.\r\nWhen an issuer is suspended from issuance of offshore call (put) warrants in accordance with the provisions the preceding paragraph, it shall act in compliance with the requirements of the competent authority or exchange where the warrants are traded to suspend the issue of warrants that it has received permission to issue but has not yet issued. However, call (put) warrants already issued shall remain valid."
+		},
+		{
+			"number": 2301,
+			"content": "The format of the application for accreditation of qualification for issuance of call (put) warrants as provided under these Regulations shall be prescribed by the FSC."
+		},
+		{
+			"number": 2400,
+			"content": "These Regulations shall enter into force from the date of issuance."
+		}
+	]
+}
