@@ -16,43 +16,228 @@
 	"articles": [
 		{
 			"number": 100,
-			"content": "本準則依國土測繪法第三十條規定訂定之。"
+			"content": [
+				{
+					"text": "本準則依國土測繪法第三十條規定訂定之。"
+				}
+			]
 		},
 		{
 			"number": 200,
-			"content": "標準地名之譯寫，以音譯為原則。\r\n標準地名含有屬性名稱時，該屬性名稱採英文意譯方式譯寫。\r\n屬性名稱與標準地名整體視為一專有名稱時，仍採音譯方式譯寫。\r\n前項屬性名稱，指描述標準地名性質之名稱。"
+			"content": [
+				{
+					"text": "標準地名之譯寫，以音譯為原則。"
+				},
+				{
+					"text": "標準地名含有屬性名稱時，該屬性名稱採英文意譯方式譯寫。"
+				},
+				{
+					"text": "屬性名稱與標準地名整體視為一專有名稱時，仍採音譯方式譯寫。"
+				},
+				{
+					"text": "前項屬性名稱，指描述標準地名性質之名稱。"
+				}
+			]
 		},
 		{
 			"number": 300,
-			"content": "標準地名中具有方向性者，採英文意譯方式譯寫；具有代碼或序數者，以阿拉伯數字譯寫。"
+			"content": [
+				{
+					"text": "標準地名中具有方向性者，採英文意譯方式譯寫；具有代碼或序數者，以阿拉伯數字譯寫。"
+				}
+			]
 		},
 		{
 			"number": 400,
-			"content": "標準地名之譯寫，因當地歷史、語言、風俗習慣、宗教信仰、國際慣用或其他特殊原因，經中央主管機關核定者，不受第二條之限制。"
+			"content": [
+				{
+					"text": "標準地名之譯寫，因當地歷史、語言、風俗習慣、宗教信仰、國際慣用或其他特殊原因，經中央主管機關核定者，不受第二條之限制。"
+				}
+			]
 		},
 		{
 			"number": 500,
-			"content": "標準地名之譯寫，採第一個字母大寫，其餘字母小寫，除下列情形外，各單字間應以連續不間斷之方式書寫：\r\n一、非首字之中文譯寫後第一個字母為 a、o、e  時，與前單字間以隔音符號「’」連接。\r\n二、採音譯與意譯不同方式譯寫時，單字間以空格相隔。"
+			"content": [
+				{
+					"text": "標準地名之譯寫，採第一個字母大寫，其餘字母小寫，除下列情形外，各單字間應以連續不間斷之方式書寫：",
+					"children": [
+						{
+							"text": "一、非首字之中文譯寫後第一個字母為 a、o、e  時，與前單字間以隔音符號「’」連接。"
+						},
+						{
+							"text": "二、採音譯與意譯不同方式譯寫時，單字間以空格相隔。"
+						}
+					]
+				}
+			]
 		},
 		{
 			"number": 600,
-			"content": "行政區域及行政編組屬性名稱之譯寫方式，例示如下：\r\n一、省：Province。\r\n二、市：City。\r\n三、縣：County。\r\n四、鄉、鎮：Township。\r\n五、區：District。\r\n六、村（里）：Village 。\r\n七、鄰：Neighborhood。"
+			"content": [
+				{
+					"text": "行政區域及行政編組屬性名稱之譯寫方式，例示如下：",
+					"children": [
+						{
+							"text": "一、省：Province。"
+						},
+						{
+							"text": "二、市：City。"
+						},
+						{
+							"text": "三、縣：County。"
+						},
+						{
+							"text": "四、鄉、鎮：Township。"
+						},
+						{
+							"text": "五、區：District。"
+						},
+						{
+							"text": "六、村（里）：Village 。"
+						},
+						{
+							"text": "七、鄰：Neighborhood。"
+						}
+					]
+				}
+			]
 		},
 		{
 			"number": 700,
-			"content": "自然地理實體屬性名稱之譯寫方式，例示如下：\r\n一、平原：Plain 。\r\n二、盆地：Basin 。\r\n三、島嶼：Island。\r\n四、群島：Islands 。\r\n五、列嶼：Archipelago 。\r\n六、礁：Reef。\r\n七、沙洲：Sand Bar。\r\n八、岬角： Cape 。\r\n九、山：Mountain。\r\n十、山脈：Mountains 。\r\n十一、峰：Peak。\r\n十二、河、溪：River 。\r\n十三、湖、潭：Lake。"
+			"content": [
+				{
+					"text": "自然地理實體屬性名稱之譯寫方式，例示如下：",
+					"children": [
+						{
+							"text": "一、平原：Plain 。"
+						},
+						{
+							"text": "二、盆地：Basin 。"
+						},
+						{
+							"text": "三、島嶼：Island。"
+						},
+						{
+							"text": "四、群島：Islands 。"
+						},
+						{
+							"text": "五、列嶼：Archipelago 。"
+						},
+						{
+							"text": "六、礁：Reef。"
+						},
+						{
+							"text": "七、沙洲：Sand Bar。"
+						},
+						{
+							"text": "八、岬角： Cape 。"
+						},
+						{
+							"text": "九、山：Mountain。"
+						},
+						{
+							"text": "十、山脈：Mountains 。"
+						},
+						{
+							"text": "十一、峰：Peak。"
+						},
+						{
+							"text": "十二、河、溪：River 。"
+						},
+						{
+							"text": "十三、湖、潭：Lake。"
+						}
+					]
+				}
+			]
 		},
 		{
 			"number": 800,
-			"content": "街道屬性名稱之譯寫方式，例示如下：\r\n一、大道：Boulevard 或縮寫為 Blvd.。\r\n二、路：Road  或縮寫為 Rd.。\r\n三、街：Street  或縮寫為 St.。\r\n四、巷：Lane  或縮寫為 Ln.。"
+			"content": [
+				{
+					"text": "街道屬性名稱之譯寫方式，例示如下：",
+					"children": [
+						{
+							"text": "一、大道：Boulevard 或縮寫為 Blvd.。"
+						},
+						{
+							"text": "二、路：Road  或縮寫為 Rd.。"
+						},
+						{
+							"text": "三、街：Street  或縮寫為 St.。"
+						},
+						{
+							"text": "四、巷：Lane  或縮寫為 Ln.。"
+						}
+					]
+				}
+			]
 		},
 		{
 			"number": 900,
-			"content": "具地標意義公共設施屬性名稱之譯寫方式，例示如下：\r\n一、政府：Hall。\r\n二、公所、事務所：Office。\r\n三、橋：Bridge。\r\n四、寺、廟、庵、觀、堂、宮、道院：Temple。\r\n五、教堂：Church。\r\n六、祠：Shrine。\r\n七、機場：Airport 。\r\n八、港：Port。\r\n九、水庫：Reservoir 。\r\n十、車站：Station 。\r\n十一、停車場：Parking Lot 。\r\n十二、醫院：Hospital。\r\n十三、公園：Park。\r\n十四、圳：Canal 。\r\n十五、溝：Ditch 。\r\n十六、池、塘、埤、陂： Pond 。"
+			"content": [
+				{
+					"text": "具地標意義公共設施屬性名稱之譯寫方式，例示如下：",
+					"children": [
+						{
+							"text": "一、政府：Hall。"
+						},
+						{
+							"text": "二、公所、事務所：Office。"
+						},
+						{
+							"text": "三、橋：Bridge。"
+						},
+						{
+							"text": "四、寺、廟、庵、觀、堂、宮、道院：Temple。"
+						},
+						{
+							"text": "五、教堂：Church。"
+						},
+						{
+							"text": "六、祠：Shrine。"
+						},
+						{
+							"text": "七、機場：Airport 。"
+						},
+						{
+							"text": "八、港：Port。"
+						},
+						{
+							"text": "九、水庫：Reservoir 。"
+						},
+						{
+							"text": "十、車站：Station 。"
+						},
+						{
+							"text": "十一、停車場：Parking Lot 。"
+						},
+						{
+							"text": "十二、醫院：Hospital。"
+						},
+						{
+							"text": "十三、公園：Park。"
+						},
+						{
+							"text": "十四、圳：Canal 。"
+						},
+						{
+							"text": "十五、溝：Ditch 。"
+						},
+						{
+							"text": "十六、池、塘、埤、陂： Pond 。"
+						}
+					]
+				}
+			]
 		},
 		{
 			"number": 1000,
-			"content": "本準則自發布日施行。"
+			"content": [
+				{
+					"text": "本準則自發布日施行。"
+				}
+			]
 		}
 	]
 }
