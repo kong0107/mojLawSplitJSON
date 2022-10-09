@@ -49,7 +49,16 @@
 					"text": "寵物食品不得含有下列病原微生物：",
 					"children": [
 						{
-							"text": "一、沙門氏菌（Salmonella）二、李斯特菌（Listeria monocytogenes）三、致病性大腸桿菌（Pathogenic Escherichia coli）四、產氣莢膜梭菌（Clostridium perfringens）"
+							"text": "一、沙門氏菌（Salmonella）"
+						},
+						{
+							"text": "二、李斯特菌（Listeria monocytogenes）"
+						},
+						{
+							"text": "三、致病性大腸桿菌（Pathogenic Escherichia coli）"
+						},
+						{
+							"text": "四、產氣莢膜梭菌（Clostridium perfringens）"
 						}
 					]
 				}
@@ -70,16 +79,16 @@
 					"text": "寵物食品之重金屬含量不得超過下列基準：",
 					"children": [
 						{
-							"text": "一、砷："
-						}
-					]
-				},
-				{
-					"text": "1.含有水產動物或藻類及其產品者，於百分之十二含水率時：無機砷2ppm，總砷 10ppm。"
-				},
-				{
-					"text": "2.未含前目產品者：總砷 2ppm 。",
-					"children": [
+							"text": "一、砷：",
+							"children": [
+								{
+									"text": "1.含有水產動物或藻類及其產品者，於百分之十二含水率時：無機砷2ppm，總砷 10ppm。"
+								},
+								{
+									"text": "2.未含前目產品者：總砷 2ppm 。"
+								}
+							]
+						},
 						{
 							"text": "二、鎘：2ppm。"
 						},

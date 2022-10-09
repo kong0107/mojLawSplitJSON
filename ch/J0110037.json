@@ -206,33 +206,37 @@
 							"text": "二十五、氫離子濃度指數（PH）：六．○至八．五。"
 						},
 						{
-							"text": "二十六、農藥。"
+							"text": "二十六、農藥。",
+							"children": [
+								{
+									"text": "（一）有機磷劑（巴拉松 Parathion、大利松 Diazinon、達馬松 Met-hamidophos、亞素靈Monocrotophos、一品松EPN）加氨基甲酸鹽（滅必蝨Isoprocarb、加保扶Carbofuran、納乃得Meth-omyl）：○．○五毫克／公升。"
+								},
+								{
+									"text": "（二）靈丹（Lindane）：○．○○○二毫克／公升。"
+								},
+								{
+									"text": "（三）安殺番（Endosulfan）：○．○○三毫克／公升。"
+								},
+								{
+									"text": "（四）除草劑：",
+									"children": [
+										{
+											"text": "1.丁基拉草（Butachlor）：○．○二毫克／公升。"
+										},
+										{
+											"text": "2.巴拉刈（Paraquat）：○．○一毫克／公升。"
+										},
+										{
+											"text": "3.２-４ 地（2,4-D）：○．○七毫克／公升。"
+										}
+									]
+								},
+								{
+									"text": "（五）其他有害水質之農藥，其容許量由中央主管機關訂定並公告之。"
+								}
+							]
 						}
 					]
-				},
-				{
-					"text": "（一）有機磷劑（巴拉松 Parathion、大利松 Diazinon、達馬松 Met-hamidophos、亞素靈Monocrotophos、一品松EPN）加氨基甲酸鹽（滅必蝨Isoprocarb、加保扶Carbofuran、納乃得Meth-omyl）：○．○五毫克／公升。"
-				},
-				{
-					"text": "（二）靈丹（Lindane）：○．○○○二毫克／公升。"
-				},
-				{
-					"text": "（三）安殺番（Endosulfan）：○．○○三毫克／公升。"
-				},
-				{
-					"text": "（四）除草劑："
-				},
-				{
-					"text": "1.丁基拉草（Butachlor）：○．○二毫克／公升。"
-				},
-				{
-					"text": "2.巴拉刈（Paraquat）：○．○一毫克／公升。"
-				},
-				{
-					"text": "3.２-４ 地（2,4-D）：○．○七毫克／公升。"
-				},
-				{
-					"text": "（五）其他有害水質之農藥，其容許量由中央主管機關訂定並公告之。"
 				}
 			]
 		},
