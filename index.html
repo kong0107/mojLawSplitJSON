@@ -10,13 +10,20 @@
     main {
       min-height: 80vh;
     }
+    #searchResults > li {
+      list-style-type: none;
+      cursor: pointer;
+    }
+    #searchResults > li:hover {
+      text-decoration: underline;
+    }
   </style>
 </head>
 <body>
 <div id="app" class="container">
   <header>
     <h1 class="d-inline-block">中央法規查詢</h1>
-    <button v-if="theLaw" class="btn btn-primary" @click="setLaw()">←</button>
+    <button type="button" v-if="theLaw" class="btn btn-primary" @click="setLaw()">←</button>
   </header>
 
   <main>
@@ -58,8 +65,18 @@
           <division-list :list="theLaw.divisions"></division-list>
         </nav>
         <dl v-for="article in theLaw.articles">
-          <dt>{{ article.number }}</dt>
-          <dd>{{ article }}</dd>
+          <dt>
+            第
+            {{ Math.ceil(article.number / 100) }}
+            條
+            <template v-if="article.number % 100">
+              之
+              {{ article.number % 100 }}
+            </template>
+          </dt>
+          <dd>
+            <article-item-list :list="article.content"></article-item-list>
+          </dd>
         </dl>
       </section>
       <footer>
@@ -83,8 +100,8 @@
     </template>
     <template v-else>
       <input v-model="search" class="form-control" placeholder="搜尋">
-      <ul>
-        <li v-for="law in laws" :key="law.pcode" @click="setLaw(law.pcode)">
+      <ul id="searchResults">
+        <li v-for="law in searchResults" :key="law.pcode" @click="setLaw(law.pcode)">
           {{ law.pcode }}
           {{ law.name }}
           <span v-if="law.discarded">（已廢止）</span>
@@ -140,19 +157,53 @@
       })
     }
   }
+  const ArticleItemList = {
+    name: 'article-item-list',
+    props: {list: Array},
+    beforeCreate() {
+      this.list?.forEach(item => {
+        const match = item.text.match(/^[\x28（]?[一二三四五六七八九十\d]+[\x29）\x2e、：]?\s*/)
+          || item.text.match(/^第[一二三四五六七八九十]+類：/)
+        if(match) {
+          let indent = 0
+          for(let p = 0; p < match[0].length; ++p)
+            indent += (match[0].charCodeAt(p) > 0xff) ? 1 : .5
+
+          item.style = {
+            textIndent: `-${indent}em`,
+            paddingLeft: `${indent}em`
+          }
+        }
+        else {
+          item.style = {
+            marginLeft: '2em',
+            listStyleType: this.list.length > 1 ? 'upper-roman' : 'disc'
+          }
+        }
+      })
+    },
+    template: `
+      <ol v-if="list" class="list-unstyled">
+        <li v-for="item in list" :style="item.style">
+          {{ item.text }}
+          <article-item-list :list="item.children"></article-item-list>
+        </li>
+      </ol>
+    `
+  }
 
   const app = vue.createApp({
     components: {
       'division-list': DivisionList,
-      'ps': Paragraphs
+      'ps': Paragraphs,
+      'article-item-list': ArticleItemList
     },
 
     data() {
       return {
         laws: [],
         theLaw: null,
-        search: '',
-        console
+        search: ''
       }
     },
     computed: {
