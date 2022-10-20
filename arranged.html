@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="zh-tw">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>mojLawSplit</title>
+  <link rel="icon" href="https://kong0107.github.io/images/favicon.ico" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" crossorigin="anonymous">
+  <style>
+    main {
+      min-height: 80vh;
+    }
+    #searchResults > li {
+      list-style-type: none;
+      cursor: pointer;
+    }
+    #searchResults > li:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+<div id="app" class="container">
+  <header>
+    <h1 class="d-inline-block">中央法規查詢</h1>
+    <button type="button" v-if="theLaw" class="btn btn-primary" @click="setLaw()">←</button>
+  </header>
+
+  <main>
+    <template v-if="theLaw">
+      <header>
+        <h2>
+          {{ theLaw.name }}
+          <span v-if="theLaw.discarded">（已廢止）</span>
+          <p v-if="theLaw.EngLawName">{{ theLaw.EngLawName }}</p>
+        </h2>
+        <dl>
+          <dt>位階</dt>
+          <dd>{{ theLaw.LawLevel }}</dd>
+        </dl>
+        <dl v-if="theLaw.category">
+          <dt>類別</dt>
+          <dd>{{ theLaw.category.join('、') }}</dd>
+        </dl>
+        <dl>
+          <dt>最後異動</dt>
+          <dd>{{ theLaw.LawModifiedDate }}</dd>
+        </dl>
+        <dl v-if="theLaw.LawEffectiveDate">
+          <dt>生效日期與內容</dt>
+          <dd>
+            {{ (theLaw.LawEffectiveDate === '99991231') ? '生效日未定' : theLaw.LawEffectiveDate }}
+          </dd>
+          <dd v-if="theLaw.effectiveNote">
+            <ps :raw="theLaw.effectiveNote"></ps>
+          </dd>
+        </dl>
+      </header>
+      <section>
+        <dl v-if="theLaw.foreword">
+          <dt>前言</dt>
+          <dd>{{ theLaw.foreword }}</dd>
+        </dl>
+        <nav v-if="theLaw.divisions">
+          <division-list :list="theLaw.divisions"></division-list>
+        </nav>
+        <dl v-for="article in theLaw.articles">
+          <dt>
+            第
+            {{ Math.ceil(article.number / 100) }}
+            條
+            <template v-if="article.number % 100">
+              之
+              {{ article.number % 100 }}
+            </template>
+          </dt>
+          <dd>
+            <article-item-list :list="article.content"></article-item-list>
+          </dd>
+        </dl>
+      </section>
+      <footer>
+        <details v-if="theLaw.attachments">
+          <summary>附件 （{{ attachmentCount }}）</summary>
+          <ul>
+            <li v-for="(name, id) in theLaw.attachments" :key="id">
+              <a :href="'https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=' + id">
+                {{ name }}
+              </a>
+            </li>
+          </ul>
+        </details>
+        <details>
+          <summary>沿革</summary>
+          <ol class="list-unstyled">
+            <li v-for="line in theLaw.histories">{{ line }}</li>
+          </ol>
+        </details>
+      </footer>
+    </template>
+    <template v-else>
+      <input v-model="search" class="form-control" placeholder="搜尋">
+      <ul id="searchResults">
+        <li v-for="law in searchResults" :key="law.pcode" @click="setLaw(law.pcode)">
+          {{ law.pcode }}
+          {{ law.name }}
+          <span v-if="law.discarded">（已廢止）</span>
+        </li>
+      </ul>
+    </template>
+  </main>
+
+  <footer class="d-flex justify-content-between mt-3">
+    <div>
+      資料來源：
+      <a href="https://law.moj.gov.tw/">法務部全國法規資料庫</a>
+    </div>
+    <div>
+      程式：
+      <a href="https://facebook.com/kong.sex2/">阿空</a>
+    </div>
+  </footer>
+</div>
+<script type="module">
+  import * as vue from 'https://unpkg.com/vue@3/dist/vue.esm-browser.js'
+  import kongUtilWeb from 'https://cdn.jsdelivr.net/npm/kong-util@0.5/mod/web.mjs'
+  kongUtilWeb.use()
+
+  const Paragraphs = {
+    name: 'ps',
+    props: {raw: String},
+    data() {
+      return {
+        ps: this.raw.split('\n')
+      }
+    },
+    template: `<p v-for="p in ps">{{ p }}</p>`
+  }
+  const DivisionList = {
+    name: 'division-list',
+    props: {list: Array},
+    template: `
+      <ol v-if="list" class="list-unstyled border-start ms-4 ps-1 pt-1">
+        <li v-for="item in list" class="pb-1">
+            {{ item.numberText }}
+            {{ item.title }}
+            （{{ item.startText }}～{{ item.endText }}）
+            <division-list :list="item.children"></division-list>
+        </li>
+      </ol>
+    `,
+    beforeCreate() {
+      this.list?.forEach(item => {
+        item.numberText = titleNumber(item.number, item.type),
+        item.startText = titleNumber(item.start, '條'),
+        item.endText = titleNumber(item.end, '條')
+      })
+    }
+  }
+  const ArticleItemList = {
+    name: 'article-item-list',
+    props: {list: Array},
+    beforeCreate() {
+      this.list?.forEach(item => {
+        const match = item.text.match(/^[\x28（]?[一二三四五六七八九十\d]+[\x29）\x2e、：]?\s*/)
+          || item.text.match(/^第[一二三四五六七八九十]+類：/)
+        if(match) {
+          let indent = 0
+          for(let p = 0; p < match[0].length; ++p)
+            indent += (match[0].charCodeAt(p) > 0xff) ? 1 : .5
+
+          item.style = {
+            textIndent: `-${indent}em`,
+            paddingLeft: `${indent}em`
+          }
+        }
+        else {
+          item.style = {
+            marginLeft: '2em',
+            listStyleType: this.list.length > 1 ? 'upper-roman' : 'disc'
+          }
+        }
+      })
+    },
+    template: `
+      <ol v-if="list" class="list-unstyled">
+        <li v-for="item in list" :style="item.style">
+          {{ item.text }}
+          <article-item-list :list="item.children"></article-item-list>
+        </li>
+      </ol>
+    `
+  }
+
+  const app = vue.createApp({
+    components: {
+      'division-list': DivisionList,
+      'ps': Paragraphs,
+      'article-item-list': ArticleItemList
+    },
+
+    data() {
+      return {
+        laws: [],
+        theLaw: null,
+        search: ''
+      }
+    },
+    computed: {
+      searchResults() {
+        if(!this.search) return this.laws
+        const keywords = this.search.trim().split(/\s+/)
+        return this.laws.filter(law => keywords.some(word => law.name.includes(word)))
+      },
+      attachmentCount() {
+        return this.theLaw?.attachments ? Object.keys(this.theLaw.attachments).length: 0
+      }
+    },
+    methods: {
+      setLaw(pcode, pushState = true) {
+        let state = {};
+        this.theLaw = this.laws.find(law => law.pcode === pcode)
+
+        if(this.theLaw) {
+          state.pcode = pcode
+
+          if(!this.theLaw.articles) {
+            fetchJSON(`https://cdn.jsdelivr.net/gh/kong0107/mojLawSplitJSON@arranged/ch/${pcode}.json`)
+            .then(law => this.theLaw = law)
+          }
+        }
+
+        if(pushState) {
+          const hp = new URLSearchParams(location.hash.substring(1))
+          if(this.theLaw) hp.set('pcode', pcode)
+          else hp.delete('pcode')
+          const hash = hp.toString()
+          const url = location.pathname + (hash ? `#${hash}` : '')
+          history.pushState(state, '', url)
+        }
+      }
+    },
+
+    mounted() {
+      const sp = new URLSearchParams(location.hash.substring(1))
+      fetchCSV('https://cdn.jsdelivr.net/gh/kong0107/mojLawSplitJSON@arranged/ch/index.csv')
+      .then(laws => {
+        laws.forEach(law => law.category = law.category.split(','))
+        this.laws = laws
+        this.setLaw(sp.get('pcode'), false)
+      })
+    }
+  })
+  app.config.errorHandler = console.error
+  app.mount('#app')
+
+  function titleNumber(number, type) {
+    const r = number % 100
+    let text = '第 ' + Math.ceil(number / 100) + ' ' + type
+    if(r) text += '之 ' + r
+    return text
+  }
+</script>
+</body>
+</html>
