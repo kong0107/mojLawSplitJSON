@@ -3,8 +3,8 @@
 	"英文法規名稱": "Control Act",
 	"中文法規名稱": "監察法",
 	"法規網址": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=A0030199",
-	"最新英文異動日期": "19921113",
-	"沿革內容": "1. Promulgated by presidential decree on July 17, 1948\r\n2. Articles 9, 13, 17, 18, 22 amended, Article 23 added, article numbers changed thereafter and promulgated by presidential decree on June 11, 1949\r\n3. Articles 16, 17, 19, 20, 22, and 25 amended and promulgated by presidential decree on December 7, 1950\r\n4. Article 9 amended, Article 31 added, and original Article 31 changed to Article 32 and promulgated by presidential decree on September 26, 1951\r\n5. Articles 3, 4, 6, 8, 14, 17, 18, 19, 20, 21, 22, 23, 25, 26, and 27 amended by presidential decree on April 30, 1953\r\n6. Articles 7, 8, and 9 amended and promulgated by presidential decree on August 28, 1967\r\n7. Articles 1, 2, 5, 6, 22, 32 amended and promulgated by presidential decree on November 13, 1992",
+	"最新英文異動日期": "20210120",
+	"沿革內容": "1.Promulgated by presidential decree on July 17, 1948\r\n2.Articles 9, 13, 17, 18, 22 amended, Article 23 through 31 added and promulgated by presidential decree on June 11, 1949\r\n3.Articles 16, 17, 19, 20, 22, and 25 amended and promulgated by presidential decree on December 7, 1950\r\n4.Article 9 amended, Article 31 added, and original Article 31 changed to Article 32 and promulgated by presidential decree on September 26, 1951\r\n5.Articles 3, 4, 6, 8, 14, 17, 18, 19, 20, 21, 22, 23, 25, 26, and 27 amended by presidential decree on April 30, 1953\r\n6.Articles 7, 8, and 9 amended and promulgated by presidential decree on August 28, 1967\r\n7.Articles 1, 2, 5, 6, 22, 32 amended and promulgated by presidential decree on November 13, 1992\r\n8.Article 5 removed and Articles 8 and 13 amended by presidential decree on June 19, 2019\r\n9.Article 17 removed by presidential decree on January 20, 2021",
 	"法規內容": [
 		{
 			"編章節": "Chapter I: General Provisions"
@@ -30,7 +30,7 @@
 		},
 		{
 			"條號": "Article 5",
-			"條文內容": "In case the Control Yuan impeaches the President or the Vice President, it shall do it in accordance with Article 30 of the Constitution and paragraph five of Article 15 of the Additional Articles of the Constitution."
+			"條文內容": "(Deleted)"
 		},
 		{
 			"條號": "Article 6",
@@ -42,7 +42,7 @@
 		},
 		{
 			"條號": "Article 8",
-			"條文內容": "If a case of impeachment is established after being examined by nine or more members, excluding the initiators of the case, the Control Yuan shall turn over the case to a competent disciplinary organ for action. If a new fact or evidence is found, it shall, after examination, be turned over to the disciplinary organ."
+			"條文內容": "If a case of impeachment is established after being examined by nine or more members, excluding the initiators of the case, the Control Yuan shall turn over the case to a competent disciplinary organ for action. If a new fact or evidence is found, it shall, after examination, be turned over to the disciplinary organ.\r\nImpeachment examination committee decisions shall be rendered by signed vote, with the decision rendered by a majority in agreement."
 		},
 		{
 			"條號": "Article 9",
@@ -54,7 +54,7 @@
 		},
 		{
 			"條號": "Article 11",
-			"條文內容": "Members of the Control Yuan who are involved in an impeachment case shall removed themselves from its examination."
+			"條文內容": "Members of the Control Yuan who are involved in an impeachment case shall remove themselves from its examination."
 		},
 		{
 			"條號": "Article 12",
@@ -62,7 +62,7 @@
 		},
 		{
 			"條號": "Article 13",
-			"條文內容": "Members of the Control Yuan and its staff shall not disclose a case of impeachment to the public before it is turned over to the competent dis-ciplinary organ.\r\nThe Control Yuan may promulgate an impeachment case when it is turned to the disciplinary organ."
+			"條文內容": "Members of the Control Yuan and its staff shall not disclose a case of impeachment to the public before a decision has been rendered by examination.\r\nThe Control Yuan shall promulgate an impeachment case when a decision has been rendered by examination. Where a case involved issues of national security, diplomacy, or any other area where confidentiality is legally mandated, such confidential information shall be redacted."
 		},
 		{
 			"條號": "Article 14",
@@ -74,15 +74,15 @@
 		},
 		{
 			"條號": "Article 16",
-			"條文內容": "When an impeachment case is turned over to the disciplinary organ and the law court or court martial, the competent organs shall take action immediately and inform, through the Control Yuan, as soon as possible the initiating members of the case of the actions taken.\r\nAny defense statement made by the impeached public functionary shall be forwarded through the Control Yuan to the members who have initiated the case without delay. The initiating members shall forward their opinion, if any, to the disciplinary organ within ten days of receipt of the statement."
+			"條文內容": "When an impeachment case is turned over to the disciplinary organ and the law court or court martial, the competent organs shall take action immediately and inform, through the Control Yuan, as soon as possible, the initiating members of the case of the actions taken.\r\nAny defense statement made by the impeached public functionary shall be forwarded through the Control Yuan to the members who have initiated the case without delay. The initiating members shall forward their opinion, if any, to the disciplinary organ within ten days of receipt of the statement."
 		},
 		{
 			"條號": "Article 17",
-			"條文內容": "The Control Yuan may inquire about any impeachment case that is not settled within three months after it has been turned over to the disciplinary organ. If an investigation finds the case has been deliberately delayed, the Control Yuan may take action against the personnel of the disciplinary organ responsible for the delay in compliance with Articles 6 and 19."
+			"條文內容": "(Deleted)"
 		},
 		{
 			"條號": "Article 18",
-			"條文內容": "A person who has been punished as a result of impeachment shall not be employed by any government organization during the period of suspension of duty. Any promotion he or she is entitled by law during the proceeding of the case of punishment shall be canceled after a decision on the punishment is made.\r\nIf a superior or official in charge does not handle a censure case in accordance with the previous article, or if the action taken is considered inappropriate by two or more members of the Control Yuan, the censured public functionary may be impeached. If the superior or the official in charge of the censured public functionary does not, after receiving the censure notice, punish him or her in accordance with the provision of the previous article or decides not to punish him or her, the superior official or the official in charge shall be held responsible for dereliction of duty, if the censured person is punished with impeachment. The promotion shall be valid, if the punishment is a reprimand."
+			"條文內容": "A person who has been punished as a result of impeachment shall not be employed by any government organization during the period of suspension of duty.\r\nAny promotion he or she is entitled by law during the proceeding of the case of punishment shall be canceled after a decision on the punishment is made. The promotion shall be valid, if the punishment is a reprimand."
 		},
 		{
 			"編章節": "Chapter III: The Power of Censure"
@@ -123,15 +123,15 @@
 		},
 		{
 			"條號": "Article 26",
-			"條文內容": "To carry out the power of control, a Control Yuan member with a control certificate or the personnel assigned by the Control Yuan with the investigation certificates, may go to public or private organizations to investigate the files, records and relevant documents. The heads of these organizations and other related personnel shall not refuse, and shall be responsible for making de-tailed replies if they are interrogated and shall sign the papers of interrogation records. In investigating a case, the investigators may notify the signatory of the written complaint and the investigated to appear at a designated place for interrogation.\r\nThe investigator shall not disclose the content of the case to the public.\r\nRules governing the use of the control certificate and the investigation certificate shall be stipulated by the Control Yuan."
+			"條文內容": "To carry out the power of control, a Control Yuan member with a control certificate or the personnel assigned by the Control Yuan with the investigation certificates, may go to public or private organizations to investigate the files, records and relevant documents. The heads of these organizations and other related personnel shall not refuse, and shall be responsible for making detailed replies if they are interrogated and shall sign the papers of interrogation records.\r\nIn investigating a case, the investigators may notify the signatory of the written complaint and the investigated to appear at a designated place for interrogation.\r\nThe investigator shall not disclose the content of the case to the public.\r\nRules governing the use of the control certificate and the investigation certificate shall be stipulated by the Control Yuan."
 		},
 		{
 			"條號": "Article 27",
-			"條文內容": "The investigator may temporarily impound the related documents of evidence or take away the whole or a part of them if necessary. In doing so, they should first obtain the permission of the chief of the organization. Unless such action will impair the national interests, the chief of the organization shall not refuse.\r\nThe chief of the organization shall affix his or her seal on the documents of evidence to be taken away by the investigator and get a receipt in return."
+			"條文內容": "The investigator may temporarily impound the related documents of evidence or take away the whole or a part of them if necessary.\r\nIn doing so, they should first obtain the permission of the chief of the organization. Unless such action will impair the national interests, the chief of the organization shall not refuse.\r\nThe chief of the organization shall affix his or her seal on the documents of evidence to be taken away by the investigator and get a receipt in return."
 		},
 		{
 			"條號": "Article 28",
-			"條文內容": "The investigator may request the local government, local court or other agencies concerned to provide assistance. The investigator may also inform the police authorities to help take necessary measures when he or she encounters resistance or finds it necessary to protect evidence."
+			"條文內容": "The investigator may request the local government, local court or other agencies concerned to provide assistance.\r\nThe investigator may also inform the police authorities to help take necessary measures when he or she encounters resistance or finds it necessary to protect evidence."
 		},
 		{
 			"條號": "Article 29",
@@ -139,7 +139,7 @@
 		},
 		{
 			"條號": "Article 30",
-			"條文內容": "The Control Yuan may entrust an-other agency to investigate a designated case or mat-ter. After accepting the case, the agency shall pro-ceed with the investigation immediately and reply to the Control Yuan in writing."
+			"條文內容": "The Control Yuan may entrust another agency to investigate a designated case or matter. After accepting the case, the agency shall proceed with the investigation immediately and reply to the Control Yuan in writing."
 		},
 		{
 			"編章節": "Chapter VI: Supplementary Provisions"
@@ -150,7 +150,7 @@
 		},
 		{
 			"條號": "Article 32",
-			"條文內容": "Articles 1, 2, 5, and 6 and paragraph one of Article 22 shall be effective as of February 1, 1993."
+			"條文內容": "This Act shall be effective on the date of promulgation.\r\nArticles 1, 2, 5, and 6 and paragraph one of Article 22 shall be effective as of February 1, 1993."
 		}
 	]
 }
