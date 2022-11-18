@@ -3,8 +3,8 @@
 cd json_split
 copy ../aliases.json .
 git add .
-git commit -m "UpdateDate 20221104"
-git tag 20221104_swagger
+git commit -m "UpdateDate 20221111"
+git tag 20221111_swagger
 git push
 git push --tags
 cd ..
@@ -12,8 +12,8 @@ cd ..
 cd json_arrange
 copy ../aliases.json .
 git add .
-git commit -m "UpdateDate 20221104"
-git tag 20221104_arrange
+git commit -m "UpdateDate 20221111"
+git tag 20221111_arrange
 git push
 git push --tags
 cd ..
