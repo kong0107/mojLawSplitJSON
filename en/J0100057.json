@@ -3,7 +3,7 @@
 	"LawLevel": "命令",
 	"EngLawName": "Fee-charging Standards for Measuring Instruments",
 	"name": "度量衡規費收費標準",
-	"EngLawModifiedDate": "20220315",
+	"EngLawModifiedDate": "20221103",
 	"attachments": {
 		"0000006791": "Annex 1 Verification Fees for Weighing Instruments.pdf",
 		"0000006792": "Annex 2 Verification Fees for Metal Graduated Measuring Pails and Tanks.pdf",
@@ -13,7 +13,7 @@
 		"0000006796": "Annex 6 Verification Fees for Electricity Meters.pdf",
 		"0000006797": "Annex 7 Verification Fees for Transformers Matched with Active Electrical Energy Meters.pdf",
 		"0000006798": "Annex 8 Appraisal Fees for Water Meters.pdf",
-		"0000007155": "Annex 9 Calibration Fees for National Measurement Laboratories.pdf",
+		"0000007632": "Annex 9 Calibration Fees for National Measurement Laboratories.pdf",
 		"0000006800": "Annex 10 Fees for Calibration Conducted by the Dedicated Weights and Measures authority and Its Branches.pdf",
 		"0000006801": "Annex 11 Calibration Fees for Weights.pdf",
 		"0000006802": "Annex 12 Certification Fees for Reference Material by National Measurement Laboratories.pdf"
@@ -45,7 +45,8 @@
 		"Table 4,Table 9 and Table 12 amended and promulgated by Ministerial Order on 21 November 2019",
 		"Articles 22-3 amended and promulgated by Ministerial Order on 17 November 2020.",
 		"Articles 12-1 amended and promulgated by Ministerial Order on 20 August 2021.",
-		"Table 9 referred to in Article 28 amended and promulgated by Ministerial Order on 15 March 2022."
+		"Table 9 referred to in Article 28 amended and promulgated by Ministerial Order on 15 March 2022.",
+		"Articles 14 ,14-1 and Table 9 referred to in Article 28 amended and promulgated by Ministerial Order on 3 November 2022."
 	],
 	"divisions": [
 		{
@@ -150,7 +151,11 @@
 		},
 		{
 			"number": 1400,
-			"content": "The verification fees for electricity meters are shown in Annex 6, and the verification fees for transformers matched with electricity meters are shown in Annex 7."
+			"content": "The verification fees for general electricity meters are shown in Annex 6, and the verification fees for transformers matched with electricity meters are shown in Annex 7."
+		},
+		{
+			"number": 1401,
+			"content": "The verification fee for Electric Vehicle Supply Equipment each time is NTD 12,000 for base fee for each site and NTD 700 for each set at the same site."
 		},
 		{
 			"number": 1500,
