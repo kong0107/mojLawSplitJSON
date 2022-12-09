@@ -1,13 +1,14 @@
 {
 	"pcode": "J0160060",
 	"LawLevel": "命令",
-	"EngLawName": "Enforcement Rules for the Implementation of the Nuclear Emergency Response Act",
+	"EngLawName": "Enforcement Rules for the Nuclear Emergency Response Act",
 	"name": "核子事故緊急應變法施行細則",
-	"EngLawModifiedDate": "20171002",
+	"EngLawModifiedDate": "20221005",
 	"histories": [
 		"Original 17 Articles promulgated by Atomic Energy Council, Executive Yuan on March 3, 2005 under Decree No. Huieh-Chi-Tze-0940009724.",
 		"Article 16 and 17, as amended on March 28, 2012 by the Atomic Energy Council, Executive Yuan under Decree No. Huieh-Chi-Tze-1010004679.",
-		"Article 10, 14, 16 and 17, as amended on October 2, 2017 by the Atomic Energy Council, Executive Yuan under Decree No. Huieh-Chi-Tze-10600128351.\r\n"
+		"Article 10, 14, 16 and 17, as amended on October 2, 2017 by the Atomic Energy Council, Executive Yuan under Decree No. Huieh-Chi-Tze-10600128351.",
+		"Article 4, 5 and 17, as amended on October 5, 2022 by the Atomic Energy Council, Executive Yuan under Decree No. Huieh-Chi-Tze-11100135201."
 	],
 	"articles": [
 		{
@@ -20,15 +21,15 @@
 		},
 		{
 			"number": 300,
-			"content": "Paragraph 3.1\r\nPursuant to Paragraph 13.1 of the NER Act, when licensees define the Emergency Planning Zone (EPZ) in the area surrounding a nuclear reactor facility, they shall conduct according to the following rules:\r\n1. The predicted radiation dose outside the EPZ resulting from design basis accidents shall not exceed the evacuation intervention criteria stipulated in the Nuclear Emergency Public Protective Action Guides.\r\n2. The annual probability of the predicted radiation dose outside the EPZ resulting from a core meltdown accident exceeding evacuation intervention criteria stipulated in the Nuclear Emergency Public Protective Action Guides shall be less than three in 100,000.\r\n3. The annual probability of the predicted radiation dose outside the EPZ resulting from a core meltdown accident exceeding 2 Sv shall be less than three in 1,000,000.\r\nParagraph 3.2\r\nWhen licensees define the EPZ in accordance with the rules stipulated in the previous\r\nparagraph, the EPZ radius (with the nuclear reactor facility as its center) shall be no less than five kilometers, and shall be defined on the basis of village (neighborhood) administrative areas."
+			"content": "Paragraph 3.1\r\nPursuant to Paragraph 13.1 of the NER Act, when licensees define the Emergency Planning Zone (EPZ) in the area surrounding a nuclear reactor facility, they shall conduct according to the following rules:\r\n1. The predicted radiation dose outside the EPZ resulting from design basis accidents shall not exceed the evacuation intervention criteria stipulated in the Nuclear Emergency Public Protective Action Guides.\r\n2. The annual probability of the predicted radiation dose outside the EPZ resulting from a core meltdown accident exceeding evacuation intervention criteria stipulated in the Nuclear Emergency Public Protective Action Guides shall be less than three in 100,000.\r\n3. The annual probability of the predicted radiation dose outside the EPZ resulting from a core meltdown accident exceeding 2 Sv shall be less than three in 1,000,000.\r\nParagraph 3.2\r\nWhen licensees define the EPZ in accordance with the rules stipulated in the previous paragraph, the EPZ radius (with the nuclear reactor facility as its center) shall be no less than five kilometers, and shall be defined on the basis of village (neighborhood) administrative areas."
 		},
 		{
 			"number": 400,
-			"content": "Paragraph 4.1\r\nPursuant to Paragraph 13.1 of the NER Act, licensees shall, when applying for initial loading of the nuclear fuel, or within six months after the NER Act comes into force, submit the EPZ that they have defined in accordance with the previous paragraph to the central Competent Authority for approval.\r\nParagraph 4.2\r\nAfter the preceding EPZ is aproved and publicly announced by the central Competent Authority, the licensee shall review and revise said EPZ once every five years, and submit revisions to the central Competent Authority for approval and public announcement six to nine months prior to the stipulated deadline."
+			"content": "Paragraph 4.1\r\nPursuant to Paragraph 13.1 of the NER Act, licensees shall, when applying for initial loading of the nuclear fuel, or within six months after the NER Act comes into force, submit the EPZ that they have defined in accordance with the previous paragraph to the central Competent Authority for approval.\r\nParagraph 4.2\r\nAfter the preceding EPZ is approved and publicly announced by the central Competent Authority, the licensee shall review and revise said EPZ every three years, and submit revisions to the central Competent Authority for approval prior to the stipulated deadline.\r\nParagraph 4.3\r\nThe review and revision prescribed in the preceding paragraph may be conducted anytime if required."
 		},
 		{
 			"number": 500,
-			"content": "Paragraph 5.1\r\nPursuant to Paragraph 13.2 of the NER Act, licensees shall, when applying for initial loading of the nuclear fuel, or within six months after the NER Act comes into force, submit the analysis and planning of the public protective measures within the EPZ to the central Competent Authority for approval.\r\nParagraph 5.2\r\nThe preceding analysis and planning of the public protective measures shall include the following items:\r\n1. Population distribution\r\n2. Radiation detection plan\r\n3. Public siren system\r\n4. Public assembly, evacuation and accommodation\r\nParagraph 5.3\r\nAfter the preceding analysis and planning of the public protective measures is approved by the central Competent Authority, the licensee shall review and revise said measures once every five years, and submit revisions to the central Competent Authority for approval six to nine months prior to the stipulated deadline."
+			"content": "Paragraph 5.1\r\nPursuant to Paragraph 13.2 of the NER Act, licensees shall, when applying for initial loading of the nuclear fuel, or within six months after the NER Act comes into force, submit the analysis and planning of the public protective measures within the EPZ to the central Competent Authority for approval.\r\nParagraph 5.2\r\nThe preceding analysis and planning of the public protective measures shall include the following items:\r\n1. Population distribution\r\n2. Radiation detection plan\r\n3. Public siren system\r\n4. Public assembly, evacuation and accommodation\r\nParagraph 5.3\r\nAfter the preceding analysis and planning of the public protective measures is approved by the central Competent Authority, the licensee shall review and revise said measures every three years, and submit revisions to the central Competent Authority for approval.\r\nParagraph 5.4\r\nThe review and revision prescribed in the preceding paragraph may be conducted anytime if required."
 		},
 		{
 			"number": 600,
@@ -52,7 +53,7 @@
 		},
 		{
 			"number": 1100,
-			"content": "Paragraph 11.1\r\nFor each nuclear reactor facility, licensees shall, in accordance with Paragraph 15.4 of the NER Act, carry out exercises based on the Nuclear Reactor Facility Emergency Response Plan each year.\r\nParagraph 11.2\r\nPrior to conducting the exercises in the preceding paragraph, licensees shall determine\r\nwhich of the following items (all or part) will be included in said exercises, draw up a exercises plan, and submit said plan to the central Competent Authority for approval. However, exercises including all of the following items shall be carried out for each nuclear reactor facility once every four years:\r\n1. Accident reporting and information transmission.\r\n2. Mobilization of emergency response organizations.\r\n3. Accident control and emergency repair.\r\n4. Accident impact assessment.\r\n5. Nuclear security and anti-terrorism.\r\n6. Radiation detection and dose evaluation.\r\n7. Facility personnel protection (first aid) actions.\r\n8. Press release."
+			"content": "Paragraph 11.1\r\nFor each nuclear reactor facility, licensees shall, in accordance with Paragraph 15.4 of the NER Act, carry out exercises based on the Nuclear Reactor Facility Emergency Response Plan each year.\r\nParagraph 11.2\r\nPrior to conducting the exercises in the preceding paragraph, licensees shall determine which of the following items (all or part) will be included in said exercises, draw up a exercises plan, and submit said plan to the central Competent Authority for approval. However, exercises including all of the following items shall be carried out for each nuclear reactor facility once every four years:\r\n1. Accident reporting and information transmission.\r\n2. Mobilization of emergency response organizations.\r\n3. Accident control and emergency repair.\r\n4. Accident impact assessment.\r\n5. Nuclear security and anti-terrorism.\r\n6. Radiation detection and dose evaluation.\r\n7. Facility personnel protection (first aid) actions.\r\n8. Press release."
 		},
 		{
 			"number": 1200,
@@ -76,7 +77,7 @@
 		},
 		{
 			"number": 1700,
-			"content": "Paragraph 17.1\r\nThese Enforcement Rules shall come into force on the date of the promulgation of the NER Act.\r\nParagraph 17.2\r\nThe amendments to the Enforcement Rules amended on March 28, 2012 would come into force on January 1, 2013. The amendments to the Enforcement Rules amended on October 2, 2017 shall come into force on January 1, 2018.\r\n\r\nNote: In case of any discrepancy between the English version and the Chinese text of these Provisions, the Chinese shall govern."
+			"content": "Paragraph 17.1\r\nThese Enforcement Rules shall come into force on the date of the promulgation of the NER Act.\r\nParagraph 17.2\r\nThe amendments to the Enforcement Rules amended on March 28, 2012 would come into force on January 1, 2013. The amendments to the Enforcement Rules amended on October 2, 2017 shall come into force on January 1, 2018.\r\nParagraph 17.3\r\nUnless otherwise specified, the amendments of the Rules shall come into force as from the date of promulgation."
 		}
 	]
 }
