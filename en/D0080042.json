@@ -3,19 +3,20 @@
 	"LawLevel": "法律",
 	"EngLawName": "Act Governing the Use of Police Weapons",
 	"name": "警械使用條例",
-	"EngLawModifiedDate": "20020626",
+	"EngLawModifiedDate": "20221019",
 	"histories": [
 		"Enacted and Promulgated by the Nationalist Government on Sep. 25, 1933",
 		"Amended and promulgated by President Order Tai-Tong (1)-Yi-Tzu No.721on Nov.22, 1968.",
 		"Amended and promulgated by President Order Hua-Tsung (1)-Yi-Tzu No.0242 on Jan.18, 1985.",
 		"Amended and promulgated by President Order Hua-Tsung (1)-Yi-Tzu No. 09100093810 on May.15, 2002.",
 		"Amended and promulgated by President Order Hua-Tsung (1)-Yi-Tzu No. 09100108330 on May.29, 2002.",
-		"Amended and promulgated by President Order Hua-Tsung (1)-Yi-Tzu No. 09100125230 on Jun.26, 2002."
+		"Amended and promulgated by President Order Hua-Tsung (1)-Yi-Tzu No. 09100125230 on Jun.26, 2002.",
+		"Amended and promulgated by President Order Hua-Tsung (1)-Yi-Tzu No. 11100088431 on Oct.19, 2022."
 	],
 	"articles": [
 		{
 			"number": 100,
-			"content": "Weapons used by the police while performing duties are batons, knives, guns, and other approved items.\r\nWhen the police use weapons in accordance with this Act, they must wear uniforms or present identifiable badges or ID to prove their identity except for in an emergency situation.\r\nThe type and specification of police weapons prescribed in paragraph 1 shall be regulated by the Executive Yuan."
+			"content": "Police officers may use police weapons while performing duties in accordance with this Act. When the police use weapons, they must wear uniforms or present identifiable badges or any documents supporting their duties except in an emergency.\r\nThe police weapons as referred to in the preceding Paragraph include batons, police knives, firearms, and other items; the types of police weapons shall be regulated by the Ministry of the Interior."
 		},
 		{
 			"number": 200,
@@ -23,11 +24,11 @@
 		},
 		{
 			"number": 300,
-			"content": "While performing duties, the police may use batons to control situations under the following situations:\r\n1. When it is necessary to use coercive force to help a criminal investigation or conducting a   search, seizure, arrest with a warrant, detention, and apprehension.\r\n2. When they are under threat of attack while performing statutory duties.\r\n3. When it is considered more appropriate to use batons to stop one of the circumstances prescribed in paragraph 1 of Article 4."
+			"content": "While performing duties, the police may use batons to control situations under the following situations:\r\n1. When it is necessary to use coercive force to help a criminal investigation or conducting a search, seizure, arrest with a warrant, detention, and apprehension.\r\n2. When they are under threat of attack while performing statutory duties.\r\n3. When it is considered more appropriate to use batons to stop one of the circumstances prescribed in paragraph 1 of Article 4."
 		},
 		{
 			"number": 400,
-			"content": "While performing duties, the police may use knives or firearms under the following circumstances:\r\n1. When an extreme mishap is imminent and it is urgent to maintain the public order.\r\n2. When the uproar is reaching the point of causing social disorder.\r\n3. When the person to be arrested or detained by law resists arrest or escapes, or anyone helps him/her resist the arrest or escape.\r\n4. When either the land, building, tools and supplies, vehicles, boats, aircrafts under police’s protection or people’s lives, bodies, freedom, or properties is  endangered or under threat.\r\n5. When the police’s lives, bodies, freedom or equipments are endangered or threatened, or there is enough evidence to believe that the foresaid parts will be endangered.\r\n6. When a person carrying a weapon is believed to cause trouble, and he/ she refuses to be at the police’s command after being ordered to drop the weapon.\r\n7. If there is no alternative to the use of deadly force to stop the situations prescribed in subparagraph 1 and 2 of the preceding article.\r\nOther approved weapons may also be used in the circumstances, prescribed in the preceding paragraph, if necessary."
+			"content": "While performing duties, the police may use police knives or firearms in the following circumstances:\r\n1. When an extreme mishap is imminent and it is urgent to maintain the public order.\r\n2. When the uproar is reaching the point of causing social disorder.\r\n3. When the person to be arrested or detained by law resists arrest or escapes, or anyone helps him/her resist the arrest or escape.\r\n4. When either the land, building, tools and supplies, vehicles, boats, aircrafts under police’s protection or people’s lives, bodies, freedom, or properties is endangered or under threat.\r\n5. When the police’s lives, bodies, freedom or equipment are endangered or threatened, or there is sufficient evidence to believe that the foresaid parts will be endangered.\r\n6. When a person carrying a weapon is believed to cause trouble, and he/ she refuses to be at the police’s command after being ordered to drop the weapon.\r\n7. If there is no alternative to the use of deadly force to stop the situations prescribed in the Subparagraph 1 and 2 of the preceding article.\r\nOther approved weapons prescribed in the Paragraph 2 of Article 1 may also be used in the circumstances prescribed in the preceding Paragraph, when necessary.\r\nIn the circumstances prescribed in Subparagraph 4 or Subparagraph 5 of Paragraph 1, police officers who carry out their duties but fail to use police weapons effectively may use other items--which shall be regarded as “police weapons” while in use--that are sufficient to achieve the needed results.\r\nIn the circumstances prescribed in Paragraph 1, police officers in the process of carrying out their duties and who deem criminal suspects or perpetrators as having one of the following behaviors that may endanger the lives or bodies of police officers or others are entitled to use their firearms and fire directly:\r\n1. When attacking or harming others, holding a hostage or threatening police officers or others with lethal weapons, dangerous objects or vehicles.\r\n2. When sufficient evidence shows that he/she possesses a deadly weapon or dangerous object with the intent of attacking police officers or others.\r\n3. When attempting to seize a police officer’s gun or other equipment that may cause harm or casualties.\r\n4. Other acts that threaten the lives or bodies of police officers or others in urgent situations."
 		},
 		{
 			"number": 500,
@@ -39,7 +40,7 @@
 		},
 		{
 			"number": 700,
-			"content": "Once the reason for the use of  police weapons doesn’t exist, the police shall cease their use immediately."
+			"content": "Once the reason for the use of police weapons doesn’t exist, the police shall cease their use immediately."
 		},
 		{
 			"number": 800,
@@ -54,12 +55,24 @@
 			"content": "After using the police weapons, the police officer must report his/her use to his/her immediate supervisors except for using a batons as a way to give directions."
 		},
 		{
+			"number": 1001,
+			"content": "The Ministry of the Interior shall form an investigation panel by appointing representatives from associated organizations (institutions), experts and scholars to investigate controversial incidents--, ex officio or at police agencies’ request, over the timing, process, and relevant administrative liability resulted from the use of police weapons by its subordinates that caused casualties or severe injuries -- and to give professional opinions.\r\nThe investigation panel prescribed in the preceding Paragraph may consider the officers’ reasonable perception at the time when judging the appropriateness of the use of police weapons.\r\nThe investigation panel prescribed in Paragraph 1 may provide law enforcement agencies with suggestions on education and training programs covering the use of police weapons, ethics awareness, etc. The organization and operation of the investigation panel shall be regulated by the Ministry of the Interior."
+		},
+		{
+			"number": 1002,
+			"content": "When using police weapons and causing casualties, the police officer should immediately notify paramedics to the scene or transport the injured to hospital, and meanwhile, provide necessary protection or guard from harm."
+		},
+		{
+			"number": 1003,
+			"content": "After receiving the repot from police officer prescribed in the preceding Article, the organization with which the police officer work shall conduct an investigation and provide him/her with litigation aid and counseling."
+		},
+		{
 			"number": 1100,
-			"content": "When the police use police weapons in accordance with the provisions of this Act and result in a third party’s injury, death, or loss of property,  the respective government shall offer the medical expenses, consolation money, compensation, or funeral expenses.\r\nIn the performance of duty, if the police violate the regulations of using police weapons prescribed in this Act and result in injuries, deaths, or property losses to any person, the respective government shall offer the medical expenses, consolation money, compensation, or funeral expenses. If the injuries, deaths, or property losses are caused intentionally by the police, the respective government may seek indemnification from the officer found liable for compensation.\r\nThe criteria for the medical expenses, consolation money, compensation, or funeral expenses prescribed in the preceding two paragraphs shall be regulated by the Ministry of the Interior."
+			"content": "Police officers using police weapons in violation of the provisions of this Act when carrying out their duties, which results in breach of people's freedom or rights, shall be dealt with in accordance with the State Compensation Law.\r\nIf the circumstances prescribed in the preceding Paragraph is caused by the intentional conduct of the police officers, from whom the obligated organization may claim compensation for it has paid.\r\nWhen police officers use police weapons in accordance with this Act and cause loss of life, body or property of a third party, the third party may claim compensation. However, if there are faults attributable to the third party, the compensation may be reduced or exempted.\r\nRegulations on compensatory items, standards, procedures and other related matters in the preceding Paragraph shall be regulated by the Ministry of the Interior."
 		},
 		{
 			"number": 1200,
-			"content": "The use of police weapons by the police in accordance with this Act is defined as a lawful conduct."
+			"content": "（Deleted）"
 		},
 		{
 			"number": 1300,
