@@ -3,19 +3,20 @@
 	"LawLevel": "命令",
 	"EngLawName": "Standards for the Usage Fees of Radio Frequency",
 	"name": "頻率使用費收費標準",
-	"EngLawModifiedDate": "20200825",
+	"EngLawModifiedDate": "20221103",
 	"attachments": {
-		"0000006390": "Annex 1 Adjustment factor d (due to elements of specialized usage,nature of business, remote areas, non-crowded frequency areas, and the price index, etc).pdf",
-		"0000006391": "Annex 2 Frequency table of maritime and land distress communications.pdf",
 		"0000006392": "Appendix 1 CALCULATION STANDARDS TABLE OF FREQUENCY FOR MOBILE TELECOMMUNICATIONS.pdf",
 		"0000006393": "Appendix 2 CALCULATION STANDARDS TABLE OF FREQUENCY FOR DEDICATED MOBILE TELECOMMUNICATIONS.pdf",
 		"0000006394": "Appendix 3 CALCULATION STANDARDS TABLE OF FREQUENCY FOR FIXED TELECOMMUNICATIONS.pdf",
-		"0000006395": "Appendix 4 CALCULATION STANDARDS TABLE OF FREQUENCY FOR SATELLITE COMMUNICATIONS.pdf",
+		"0000007724": "Appendix 4 CALCULATION STANDARDS TABLE OF FREQUENCY FOR SATELLITE COMMUNICATIONS.pdf",
 		"0000006396": "Appendix 5 CALCULATION STANDARDS TABLE OF FREQUENCY FOR RADIO AND TELEVISION.pdf",
-		"0000006397": "Appendix 6 CALCULATION STANDARDS TABLE OF FREQUENCY FOR EXPERIMENTAL RESEARCH TELECOMMUNICATIONS.pdf"
+		"0000006397": "Appendix 6 CALCULATION STANDARDS TABLE OF FREQUENCY FOR EXPERIMENTAL RESEARCH TELECOMMUNICATIONS.pdf",
+		"0000006390": "Annex 1 Adjustment factor d (due to elements of specialized usage,nature of business, remote areas, non-crowded frequency areas, and the price index, etc).pdf",
+		"0000006391": "Annex 2 Frequency table of maritime and land distress communications.pdf"
 	},
 	"histories": [
-		"8 Articles promulgated in full by the National Communications Commission（NCC） on August 25, 2020. Ref：Tung-Chuan-Tz Tze No. 10943021150"
+		"8 Articles promulgated in full by the National Communications Commission（NCC） on August 25, 2020. Ref：Tung-Chuan-Tz Tze No. 10943021150.",
+		"Amended and promulgated Article 5, Article 8 and Appendix 4 of Article 2 by Ministry of Digital Affairs Order No. 1116000304 on November 3, 2022."
 	],
 	"articles": [
 		{
@@ -44,11 +45,11 @@
 		},
 		{
 			"number": 700,
-			"content": "The party shall remit payment for the determined fees within a prescribed period unless other applicable laws allows for remittance to be made in installments, as stipulated in Article 16 of the Charges and Fee Act.\r\n1. The determined amount aforementioned shall be as follows:\r\n2. Mobile Telecommunications: NT$200,000,000.\r\n3. Other usage: NT$1,000,000."
+			"content": "The party shall remit payment for the determined fees within a prescribed period unless other applicable laws allows for remittance to be made in installments, as stipulated in Article 16 of the Charges and Fee Act.\r\nThe determined amount aforementioned shall be as follows:\r\n1. Mobile Telecommunications: NT$200,000,000.\r\n2. Other usage: NT$1,000,000."
 		},
 		{
 			"number": 800,
-			"content": "These Standards shall become effective on July 1, 2020."
+			"content": "These Standards shall become effective on July 1, 2020.\r\nThe amendments to these Standards shall become effective on the date of promulgation."
 		}
 	]
 }
