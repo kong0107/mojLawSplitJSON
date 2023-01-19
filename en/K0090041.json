@@ -3,7 +3,7 @@
 	"LawLevel": "命令",
 	"EngLawName": "Aircraft Flight Operation Regulations",
 	"name": "航空器飛航作業管理規則",
-	"EngLawModifiedDate": "20211103",
+	"EngLawModifiedDate": "20221017",
 	"attachments": {
 		"0000007059": "ATTACHMENT 1 Safety Management System Implementation Framework.pdf",
 		"0000007060": "ATTACHMENT 2 Operations Specifications.PDF",
@@ -23,10 +23,11 @@
 		"0000007073": "Attachment 18-1 Transport category airplane widespread fatigue damage inspection compliance requirements and limit of validity.pdf",
 		"0000007074": "ATTACHMENT 19 Check Airman Qualifications.pdf",
 		"0000007075": "ATTACHMENT 20 Control Manual Contents.pdf",
-		"0000007076": "ATTACHMENT 20-1 The Operations of Spraying and Dusting (Agriculture aircraft).pdf",
-		"0000007077": "ATTACHMENT 20-2 The Operations of External-load (Helicopter).pdf",
-		"0000007078": "ATTACHMENT 20-3 Free balloon flight operations and tethered activities..pdf",
-		"0000007079": "ATTACHMENT 20-4 Additional Requirements for Approved Operations by Single-engine Turbine-powered Airplanes at Night and or In Instrument Meteorological conditions (IMC).pdf",
+		"0000007737": "ATTACHMENT 20-1 The Operations of Spraying and Dusting (Agriculture aircraft).pdf",
+		"0000007738": "ATTACHMENT 20-2 The Helicopter external-load operations.pdf",
+		"0000007739": "ATTACHMENT 20-3 Free balloon flight operations and tethered activities..pdf",
+		"0000007740": "ATTACHMENT 20-4 Additional Requirements for Approved Operations by Single-engine Turbine-powered Airplanes at Night and／or In Instrument Meteorological conditions（IMC）.pdf",
+		"0000007741": "ATTACHMENT 20-5 The Helicopter Offshore Flight Operations.pdf",
 		"0000007080": "ATTACHMENT 21 Numbers of Portable Fire Extinguishers Required in General Aviation Aircraft.pdf",
 		"0000007081": "ATTACHMENT 22 Pilot-in-command Proficiency Check and Recent Flight Experience..pdf",
 		"0000007082": "ATTACHMENT 23 The Instruments, Equipment and Flight Documentations meets the Requirements of an Aircraft.pdf",
@@ -59,7 +60,8 @@
 		"Amendment to Article 7, 17, 109, 111, 112, 113-1, 114, 118, 142, 144-1, 146, 150, 152, 161, 163, 164, 167 to 169, 173, 177, 187, 244, 246, 247, 248-1, 273, 276, 279, 285-24, 285-25, 343, attachment 2, 5, 17, 18-1, 20 and 31,addition of Articles 8-2, 8-3, deletion of Article 145, 184 and attachment 12 promulgated on July 13, 2018.",
 		"Amendment to Article 351-1 promulgated on May 20, 2020.",
 		"Amendment to Article 199 and 284 promulgated on March 12, 2021.",
-		"Amendment to Article 2, 8-2, 8-3, 9, 20, 29, 36-1, 76, 109, 113-1, 116, 128, 131, 132, 133, 136, 139, 140, 141, 150, 154, 160, 163, 173, 177, 191, 193, 199, 202-1, 204, 210, 215, 227-1, 244, 248-1, 261, 262, 263, 268, 269, 276, 279, 284, 285-2, 285-26, 290, 305, 314, 316, 330, 346, attachment 1, 2, 3, 8, 20, 20-4, 22, 23, and 33, addition of Articles 8-4, 11-1, 55-1, 77-1, 79-1, 80-1, 80-2, 113-2, 113-3, 118-1, 131-1, 138-1, 138-2, 201-1 to 201-5, 203-1, 221-1, 229-1, 229-2, 248-2, 248-3, 261-1, 267-1, 267-2, 290-1, 290-2, 345-1, 345-2, 346-2, and 346-3, and attachment 12-1, deletion of Article 162, 285-9 and attachment 4, 15 promulgated on November 3, 2021."
+		"Amendment to Article 2, 8-2, 8-3, 9, 20, 29, 36-1, 76, 109, 113-1, 116, 128, 131, 132, 133, 136, 139, 140, 141, 150, 154, 160, 163, 173, 177, 191, 193, 199, 202-1, 204, 210, 215, 227-1, 244, 248-1, 261, 262, 263, 268, 269, 276, 279, 284, 285-2, 285-26, 290, 305, 314, 316, 330, 346, attachment 1, 2, 3, 8, 20, 20-4, 22, 23, and 33, addition of Articles 8-4, 11-1, 55-1, 77-1, 79-1, 80-1, 80-2, 113-2, 113-3, 118-1, 131-1, 138-1, 138-2, 201-1 to 201-5, 203-1, 221-1, 229-1, 229-2, 248-2, 248-3, 261-1, 267-1, 267-2, 290-1, 290-2, 345-1, 345-2, 346-2, and 346-3, and attachment 12-1, deletion of Article 162, 285-9 and attachment 4, 15 promulgated on November 3, 2021.",
+		"Amendment to Article 202-1, addition of Article 57-1 promulgated on October 17, 2022."
 	],
 	"divisions": [
 		{
@@ -599,6 +601,10 @@
 		{
 			"number": 5700,
 			"content": "For a flight to be conducted in accordance with the instrument flight rules, at least one destination alternate aerodrome shall be selected and specified in the operational flight plan, unless:\r\n1. The duration of the flight is less than 6 hours flight time and the meteorological conditions prevailing are such that at the estimated time of arrival at the aerodrome of intended landing, and for a period one hour before and one hour after such time, approach and landing may be made under visual meteorological conditions; or\r\n2. The aerodrome of intended landing is isolated and there is no suitable destination alternate aerodrome.\r\nHelicopters operating under the conditions aforementioned in the subparagraph 2 of the preceding paragraph shall have a point of no return selected and filed in the operational flight plan."
+		},
+		{
+			"number": 5701,
+			"content": "An operator engaged in helicopter offshore operations shall operate in compliance with Attachment 20-5."
 		},
 		{
 			"number": 5800,
@@ -1258,7 +1264,7 @@
 		},
 		{
 			"number": 20201,
-			"content": "An operator engaged in spraying and dusting operations shall operate in compliance with Attachment 20-1.\r\nAn operator engaged in rotorcraft external-load operations shall operate in compliance with Attachment 20-2.\r\nAn operator engaged in free balloon flight operations and free balloon tethered operations shall operate in compliance with Attachment 20-3.\r\nAn operator using single-engine turbine-powered airplanes engaged in operations shall operate in compliance with Article 234, Article 249, Article 251, Article 271 and Attachment 20-4."
+			"content": "An operator engaged in spraying and dusting operations shall operate in compliance with Attachment 20-1.\r\nAn operator engaged in rotorcraft external-load operations shall operate in compliance with Attachment 20-2.\r\nAn operator engaged in free balloon flight operations and free balloon tethered operations shall operate in compliance with Attachment 20-3.\r\nAn operator using single-engine turbine-powered airplanes engaged in operations shall operate in compliance with Article 234, Article 249, Article 251, Article 271 and Attachment 20-4.\r\nAn operator engaged in helicopter offshore operations shall operate in compliance with Attachment 20-5."
 		},
 		{
 			"number": 20300,

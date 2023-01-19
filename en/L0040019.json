@@ -3,10 +3,11 @@
 	"LawLevel": "命令",
 	"EngLawName": "Sanitation Standard for Food Utensils, Containers and Packages",
 	"name": "食品器具容器包裝衛生標準",
-	"EngLawModifiedDate": "20130820",
+	"EngLawModifiedDate": "20230111",
 	"attachments": {
-		"0000004606": "Article 6.PDF",
-		"0000002075": "Article 6.doc"
+		"0000007733": "Appendix table 1. General requirements.pdf",
+		"0000007734": "Appendix table 2. Requirements for plastic materials.pdf",
+		"0000007735": "Appendix table 3. Materials requirements for dairy products.pdf"
 	},
 	"histories": [
 		"DOH Food No.0920402784, 11/26/2003",
@@ -16,16 +17,17 @@
 		"DOH Food No.1001303928, 1/18/2012",
 		"DOH Food No.1011302926, 9/21/2012",
 		"DOH Food No.1021300776, 4/9/2013",
-		"DOH Food No.1021350146, 8/20/2013"
+		"DOH Food No.1021350146, 8/20/2013",
+		"MOHW Food No. 1111303439 Amended, 1/11/2023\r\n"
 	],
 	"articles": [
 		{
 			"number": 100,
-			"content": "This Standard is prescribed in accordance with the provisions of Article 17 of the Act Governing Food Sanitation."
+			"content": "This Standard is prescribed in accordance with the provisions of Article 17 of the Act Governing Food Safety and Sanitation."
 		},
 		{
 			"number": 200,
-			"content": "Plastic food containers and packages shall not be recycled for re-use."
+			"content": "Plastic food containers and packages shall not be recycled to repackage food then sell."
 		},
 		{
 			"number": 300,
@@ -33,7 +35,7 @@
 		},
 		{
 			"number": 400,
-			"content": "The food utensils and containers which use for children under the age of three,shall not add di-(2-ethylhexyl) phthalate(DEHP), Di-n-octhl phthalate(DNOP), di-n-butyl phthalate (DBP) and Butylbenzyl phthalate(BBP)."
+			"content": "The food utensils and containers which use for children under the age of three, shall not add di-(2-ethylhexyl) phthalate (DEHP), Di-n-octyl phthalate (DNOP), dibutyl phthalate (DBP) and Benzyl butyl phthalate (BBP)."
 		},
 		{
 			"number": 500,
@@ -41,11 +43,11 @@
 		},
 		{
 			"number": 600,
-			"content": "Food utensils, containers and packages shall meet the requirements according to the following standard tests："
+			"content": "Food utensils, containers and packages shall meet the requirements according to the following standard tests：\r\n1. General requirements as Appendix table 1.\r\n2. The plastic materials listed in the Appendix table 2, shall also comply with the Appendix table 1.\r\n3. The containers and packages for dairy products shall comply with the Appendix table 3."
 		},
 		{
 			"number": 700,
-			"content": "This Standard shall be implemented from the date of promulgation.\r\nThe amended articles shall be implemented from September 1, 2013 for manufacturing and importing the plastic infant feeding bottles (since the MIT product's manufacture date or import product's estimated time of departure), and from March 1, 2014 for selling the plastic infant feeding bottles."
+			"content": "This Standard shall be implemented from the date of promulgation."
 		}
 	]
 }
