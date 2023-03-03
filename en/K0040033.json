@@ -3,13 +3,14 @@
 	"LawLevel": "法律",
 	"EngLawName": "Parking Facility Act",
 	"name": "停車場法",
-	"EngLawModifiedDate": "20161109",
+	"EngLawModifiedDate": "20221130",
 	"histories": [
 		"Promulgated on July 10,1991.",
 		"Amended Articles 3,4,7,11,16,23,24,29,31,added Articles 5-1,16-1,32-1,39-1 deleted Article 5. promulgated on January 19, 2000.",
 		"Amended Articles 35, 36, 37, 39-1 promulgated on May 30, 2001.",
 		"Amended Articles 14, 17 promulgated on June 29, 2011.",
-		"Amended Article 32, and added Article 40-1 on Nov 29, 2016."
+		"Amended Article 32, and added Article 40-1 on Nov 29, 2016.",
+		"Added Article 27-1, and amended Article 32 on Nov 30, 2022."
 	],
 	"divisions": [
 		{
@@ -173,6 +174,10 @@
 			"content": "Parking facility operators shall follow traffic regulations set necessary signs, traffic signals, designate vehicle parking lines as well as direction symbols, and post announcement regarding the parking fee and management matters at entrances or other appropriate locations."
 		},
 		{
+			"number": 2701,
+			"content": "Public parking facilities should be equipped with dedicated spaces and charging facilities for electric vehicles.\r\nThe central competent authority shall determine the proportion of the said parking spaces for electric vehicle charging, charging facility installation standards, promotional guidance, subsidy methods, and other implementation regulations to be complied with in the preceding paragraph."
+		},
+		{
 			"number": 2800,
 			"content": "One month prior to name or organization change and partial or full business operation termination, the registered off-street public parking facility shall report to the local government authority. Likewise, before the resumption of business."
 		},
@@ -190,7 +195,7 @@
 		},
 		{
 			"number": 3200,
-			"content": "Motorists shall comply with regulations when parking their vehicles in designated locations. Vehicles violating the parking regulations and obstructing other vehicles from traveling or parking shall be towed to a proper place by the government authorities, police authorities, or parking operators.\r\nParking facility operators shall inform government authorities, police authorities, or parking operators when motorists violate parking regulations and/or obstruct parking lots reserved for people with disabilities.\r\nOnly people with disabilities who have an exclusive identification card or other relevant certification allowing disabled parking may use disabled parking spaces.To confirm with regulation violation checking, municipal and county (city) government authorities must make a request to the Directorate General of Highways for Vehicle Registration."
+			"content": "Motorists shall comply with regulations when parking their vehicles in designated locations. Vehicles violating the parking regulations and obstructing other vehicles from traveling or parking shall be towed to a proper vehicle pound by the government authorities, police authorities, or parking operators.\r\nParking facility operators shall inform government authorities, police authorities, or parking operators when motorists violate parking regulations and/or obstruct parking lots reserved for people with disabilities, pregnant women, drivers with children aged under 6, and electric vehicles.\r\nOnly people with disabilities, pregnant women, drivers with children aged under 6 who have an exclusive identification card, vehicle, or other relevant certification allowing using parking spaces for the disabled, pregnant women, and drivers with children aged under 6, and electric vehicles. To confirm with regulation violation checking, municipal and county (city) government authorities must make a request to the Directorate General of Highways for Vehicle Registration."
 		},
 		{
 			"number": 3201,
