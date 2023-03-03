@@ -3,7 +3,7 @@
   "LawName": "全國性教育財團法人會計處理及財務報告編製準則",
   "LawURL": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=H0080101",
   "LawCategory": "行政＞教育部＞終身教育目",
-  "LawModifiedDate": "20210709",
+  "LawModifiedDate": "20230223",
   "LawEffectiveDate": "",
   "LawEffectiveNote": "",
   "LawAbandonNote": "",
@@ -15,31 +15,27 @@
       "FileURL": "https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000243704"
     },
     {
-      "FileName": "附件二 會計項（科）目.PDF",
-      "FileURL": "https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000295144"
+      "FileName": "附件二財產清冊.PDF",
+      "FileURL": "https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000335368"
     },
     {
-      "FileName": "附件三 全國性教育財團法人（○○○○基金會）財產清冊.PDF",
-      "FileURL": "https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000295145"
+      "FileName": "附件三之一資產負債表.PDF",
+      "FileURL": "https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000335369"
     },
     {
-      "FileName": "附件四之一 全國性教育財團法人（○○○○基金會）資產負債表.PDF",
-      "FileURL": "https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000295146"
+      "FileName": "附件三之二收支營運表.PDF",
+      "FileURL": "https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000335370"
     },
     {
-      "FileName": "附件四之二  全國性教育財團法人（○○○○基金會）收支營運表.PDF",
-      "FileURL": "https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000243708"
+      "FileName": "附件三之三淨值變動表.PDF",
+      "FileURL": "https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000335371"
     },
     {
-      "FileName": "附件四之三 全國性教育財團法人（○○○○基金會）淨值變動表.PDF",
-      "FileURL": "https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000295147"
-    },
-    {
-      "FileName": "附件四之四 全國性教育財團法人（○○○○基金會）現金流量表.PDF",
-      "FileURL": "https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000295148"
+      "FileName": "附件三之四現金流量表.PDF",
+      "FileURL": "https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000335372"
     }
   ],
-  "LawHistories": "1.中華民國一百零八年三月十二日教育部臺教社（三）字第 1080021003B\r\n  號令訂定發布全文 39 條；並自發布日施行\r\n2.中華民國一百十年七月九日教育部臺教社（三）字第 1100084093B  號\r\n  令修正發布第 3、7、11、12 條條文及第 30 條條文之附件二、第 31 \r\n  條條文之附件三、第 33 條條文之附件四之一、附件四之三、附件四之\r\n  四",
+  "LawHistories": "1.中華民國一百零八年三月十二日教育部臺教社（三）字第 1080021003B\r\n  號令訂定發布全文 39 條；並自發布日施行\r\n2.中華民國一百十年七月九日教育部臺教社（三）字第 1100084093B  號\r\n  令修正發布第 3、7、11、12 條條文及第 30 條條文之附件二、第 31 \r\n  條條文之附件三、第 33 條條文之附件四之一、附件四之三、附件四之\r\n  四\r\n3.中華民國一百十二年二月二十三日教育部臺教社（三）字第 112240081\r\n  6A  號令修正發布第 29～31、33、34、36 條條文",
   "LawForeword": "",
   "LawArticles": [
     {
@@ -215,7 +211,7 @@
     {
       "ArticleType": "A",
       "ArticleNo": "第 29 條",
-      "ArticleContent": "會計憑證，除應永久保存或有關未結會計事項者外，應自年度決算報本部備查之日起計算，至少保存五年。\r\n會計帳簿及財務報表，應自年度決算報本部備查之日起計算，至少保存十年。但有關未結會計事項者，不在此限。\r\n前二項保管期限屆滿，應經董事會議決議後，始得銷毀。其中涉及政府機關之補助委辦案件，應依各補助及委辦機關定頒之相關規定辦理。"
+      "ArticleContent": "會計憑證，除應永久保存或有關未結會計事項者外，應自年度決算報本部備查之日起計算，至少保存五年。\r\n會計帳簿及財務報表，應自年度決算報本部備查之日起計算，至少保存十年。但有關未結會計事項者，不在此限。\r\n前二項保管期限屆滿，應經董事會議決議後，始得銷毀。其中涉及政府機關之委辦案件，應依各委辦機關定頒之相關規定辦理。"
     },
     {
       "ArticleType": "C",
@@ -230,7 +226,7 @@
     {
       "ArticleType": "A",
       "ArticleNo": "第 30 條",
-      "ArticleContent": "會計要素分為資產、負債、淨值、收益及費損五類，其相關之會計項目、科目代碼及名稱，如附件二。\r\n前項會計項目及科目，教育法人得視其業務特性及實際需要，於會計制度中增訂之。"
+      "ArticleContent": "會計要素分為資產、負債、淨值、收益及費損五類。"
     },
     {
       "ArticleType": "C",
@@ -240,7 +236,7 @@
     {
       "ArticleType": "A",
       "ArticleNo": "第 31 條",
-      "ArticleContent": "財務報告，係指財務報表、重要會計科目明細表及其他有助於使用人決策之揭露事項及說明。\r\n前項其他有助於使用人決策之揭露事項及說明，應包括財產清冊，格式如附件三。"
+      "ArticleContent": "財務報告，係指財務報表、重要會計科目明細表及其他有助於使用人決策之揭露事項及說明。\r\n前項其他有助於使用人決策之揭露事項及說明，應包括財產清冊，格式如附件二。"
     },
     {
       "ArticleType": "A",
@@ -250,12 +246,12 @@
     {
       "ArticleType": "A",
       "ArticleNo": "第 33 條",
-      "ArticleContent": "財務報表之內容如下：\r\n一、資產負債表。\r\n二、收支營運表。\r\n三、淨值變動表。\r\n四、現金流量表。\r\n五、附註或附表。\r\n前項財務報表格式，如附件四之一至附件四之四。"
+      "ArticleContent": "財務報表之內容如下：\r\n一、資產負債表。\r\n二、收支營運表。\r\n三、淨值變動表。\r\n四、現金流量表。\r\n五、附註或附表。\r\n前項財務報表格式，如附件三之一至附件三之四。"
     },
     {
       "ArticleType": "A",
       "ArticleNo": "第 34 條",
-      "ArticleContent": "資產負債表之內容如下：\r\n一、資產：\r\n（一）流動資產。\r\n（二）準備金及長期投資。\r\n（三）投資性不動產。\r\n（四）不動產、廠房及設備。\r\n（五）無形資產。\r\n（六）其他資產。\r\n二、負債：\r\n（一）流動負債。\r\n（二）長期負債。\r\n（三）其他負債。\r\n三、淨值：\r\n（一）基金餘額。\r\n（二）公積。\r\n（三）累積餘絀。\r\n（四）淨值其他項目。"
+      "ArticleContent": "資產負債表之內容如下：\r\n一、資產：\r\n（一）流動資產。\r\n（二）基金、投資及準備金。\r\n（三）投資性不動產。\r\n（四）不動產、廠房及設備。\r\n（五）無形資產。\r\n（六）其他資產。\r\n二、負債：\r\n（一）流動負債。\r\n（二）長期負債。\r\n（三）其他負債。\r\n三、淨值：\r\n（一）基金總額。\r\n（二）公積。\r\n（三）累積餘絀。\r\n（四）淨值其他項目。"
     },
     {
       "ArticleType": "A",
@@ -265,7 +261,7 @@
     {
       "ArticleType": "A",
       "ArticleNo": "第 36 條",
-      "ArticleContent": "淨值變動表，係指表示淨值組成項目變動情形之報表。\r\n前項淨值變動表之內容，應包括基金餘額、公積、累積餘絀及淨值其他項目之上期與本期增減情形及期末餘額。"
+      "ArticleContent": "淨值變動表，係指表示淨值組成項目變動情形之報表。\r\n前項淨值變動表之內容，應包括基金總額、公積、累積餘絀及淨值其他項目之上期與本期增減情形及期末餘額。"
     },
     {
       "ArticleType": "A",
