@@ -3,9 +3,9 @@
   "LawName": "行政訴訟閱卷規則",
   "LawURL": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0030240",
   "LawCategory": "司法＞院本部＞行懲及智財目",
-  "LawModifiedDate": "20151030",
-  "LawEffectiveDate": "",
-  "LawEffectiveNote": "",
+  "LawModifiedDate": "20230223",
+  "LawEffectiveDate": "20230815",
+  "LawEffectiveNote": "本規則 112.02.23  修正之第 8、11、22、28  條條文，自中華民國一百\r\n十二年八月十五日施行。",
   "LawAbandonNote": "",
   "LawHasEngVersion": "N",
   "EngLawName": "",
@@ -35,7 +35,7 @@
       "FileURL": "https://law.moj.gov.tw/LawClass/LawGetFile.ashx?FileId=0000168490"
     }
   ],
-  "LawHistories": "1.中華民國九十九年十一月四日司法院院台廳行一字第 0990026731 號令\r\n  訂定發布全文 28 條；並自發布日施行\r\n2.中華民國一百零四年十月三十日司法院院台廳行一字第 1040027736 號\r\n  令修正發布第 4、6、13～17、23 條條文",
+  "LawHistories": "1.中華民國九十九年十一月四日司法院院台廳行一字第 0990026731 號令\r\n  訂定發布全文 28 條；並自發布日施行\r\n2.中華民國一百零四年十月三十日司法院院台廳行一字第 1040027736 號\r\n  令修正發布第 4、6、13～17、23 條條文\r\n3.中華民國一百十二年二月二十三日司法院院台廳行一字第 1120300186 \r\n  號令修正發布第 8、11、22、28  條條文；並自一百十二年八月十五日\r\n  施行",
   "LawForeword": "",
   "LawArticles": [
     {
@@ -76,7 +76,7 @@
     {
       "ArticleType": "A",
       "ArticleNo": "第 8 條",
-      "ArticleContent": "聲請人以電子傳送方式聲請閱卷時，行政法院應將其聲請書列印依第十條規定辦理。"
+      "ArticleContent": "聲請人以電子傳送方式聲請閱卷時，行政法院得將其聲請書列印依第十條規定辦理。"
     },
     {
       "ArticleType": "A",
@@ -91,7 +91,7 @@
     {
       "ArticleType": "A",
       "ArticleNo": "第 11 條",
-      "ArticleContent": "承辦書記官收到閱卷聲請書後，除有依法不得交閱之情形外，應即指定閱卷時間，通知聲請人及閱卷室承辦人員。"
+      "ArticleContent": "承辦書記官收到閱卷聲請書後，除有依法不得交閱之情形或經聲請人請求寄送卷宗影本外，應即指定閱卷時間，通知聲請人及閱卷室承辦人員。"
     },
     {
       "ArticleType": "A",
@@ -146,7 +146,7 @@
     {
       "ArticleType": "A",
       "ArticleNo": "第 22 條",
-      "ArticleContent": "聲請人閱卷，除閱覽、抄錄或攝影外，並得繳納費用請求影印。"
+      "ArticleContent": "聲請人閱卷，除閱覽外，得繳納費用請求抄錄、影印、列印、攝影、電子掃描或交付光碟。並得預付費用，請求行政法院承辦人影印該案卷宗之全部或一部，由行政法院寄送與聲請人。"
     },
     {
       "ArticleType": "A",
@@ -176,7 +176,7 @@
     {
       "ArticleType": "A",
       "ArticleNo": "第 28 條",
-      "ArticleContent": "本規則自發布日施行。"
+      "ArticleContent": "本規則自發布日施行。\r\n本規則中華民國一百十二年二月二十三日修正發布之條文，自一百十二年八月十五日施行。"
     }
   ]
 }
