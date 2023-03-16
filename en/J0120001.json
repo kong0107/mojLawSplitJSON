@@ -3,14 +3,15 @@
 	"LawLevel": "法律",
 	"EngLawName": "Administrative Law of State-Owned Enterprise",
 	"name": "國營事業管理法",
-	"EngLawModifiedDate": "20111228",
+	"EngLawModifiedDate": "20230119",
 	"histories": [
 		"Enacted and promulgated by the President on January 20, 1949",
 		"Article 23 and 38 of this law were amended on January 7, 1998.",
 		"Article 35 of this law was amended on July 19, 2000.",
 		"Article 35 of this law was amended on June 19, 2002.",
 		"Article 3 of this law was amended on January 9, 2008.",
-		"Article 15, 31, 33 and 37 of this law were amended on December 28, 2011."
+		"Article 15, 31, 33 and 37 of this law were amended on December 28, 2011.",
+		"Article 21-1 and 21-2 of this law were amended on January 19, 2023 by Presidential Decree\r\n  Effective on February 20, 2023 as determined by the Executive Yuan"
 	],
 	"divisions": [
 		{
@@ -60,7 +61,7 @@
 		},
 		{
 			"number": 300,
-			"content": "State-owned enterprise as referred to in this Law are of the following types:\r\n1) Enterprises which are solely owned by the State;\r\n2) Enterprises, which, in accordance with special regulations, are jointly owned by the State and private individuals;\r\n3) Enterprises, which, in accordance with the Company Law, are jointly owned by the State and private individuals, and in which the State holds more than 50% of the capital.\r\nThose enterprises, which, in accordance with separate contracts, are jointly owned by the State and foreigners shall be governed by such contracts.\r\nThe chairperson or general manager and president of the enterprises, which the state holds less than 50% of the shares,are appointed by the government.Those chairpersons and presidents on behalf of the state shares may be requested to report to and to be interrogated by the Legislative Yuan, concerning budget and operation examined by the shareholders congress"
+			"content": "State-owned enterprise as referred to in this Law are of the following types:\r\n1. Enterprises which are solely owned by the State;\r\n2. Enterprises, which, in accordance with special regulations, are jointly owned by the State and private individuals;\r\n3. Enterprises, which, in accordance with the Company Law, are jointly owned by the State and private individuals, and in which the State holds more than 50% of the capital.\r\nThose enterprises, which, in accordance with separate contracts, are jointly owned by the State and foreigners shall be governed by such contracts.\r\nThe chairperson or general manager and president of the enterprises, which the state holds less than 50% of the shares,are appointed by the government.Those chairpersons and presidents on behalf of the state shares may be requested to report to and to be interrogated by the Legislative Yuan, concerning budget and operation examined by the shareholders congress."
 		},
 		{
 			"number": 400,
@@ -80,11 +81,11 @@
 		},
 		{
 			"number": 800,
-			"content": "The competent authorities shall have the following functions:\r\n1) To establish, consolidate, reorganize, and dissolve the subordinate state-owned enterprise\r\n2) To approve the operating plans and guidelines of the subordinate state-owned enterprise\r\n3) To appoint and remove important persons of the subordinate state-owned enterprise\r\n4) To set up the administrative framework of the subordinate state-owned enterprise\r\n5) To inspect and evaluate the operations of the subordinate state-owned enterprise\r\n6) To make the financial plans for the subordinate state-owned enterprise.\r\nWhere special regulations exist, the aforementioned appointment and removal of important persons referred to in paragraph 3 shall be governed by such regulations."
+			"content": "The competent authorities shall have the following functions:\r\n1. To establish, consolidate, reorganize, and dissolve the subordinate state-owned enterprise\r\n2. To approve the operating plans and guidelines of the subordinate state-owned enterprise\r\n3. To appoint and remove important persons of the subordinate state-owned enterprise\r\n4. To set up the administrative framework of the subordinate state-owned enterprise\r\n5. To inspect and evaluate the operations of the subordinate state-owned enterprise\r\n6. To make the financial plans for the subordinate state-owned enterprise.\r\nWhere special regulations exist, the aforementioned appointment and removal of important persons referred to in paragraph 3 shall be governed by such regulations."
 		},
 		{
 			"number": 900,
-			"content": "Chief managerial agencies may be set up as appropriate for the purpose of administering the following state-owned enterprise:\r\n1) State-owned enterprise of the same nature\r\n2) State-owned enterprise sharing a close operating relationship"
+			"content": "Chief managerial agencies may be set up as appropriate for the purpose of administering the following state-owned enterprise:\r\n1. State-owned enterprise of the same nature\r\n2. State-owned enterprise sharing a close operating relationship"
 		},
 		{
 			"number": 1000,
@@ -135,6 +136,14 @@
 			"content": "Unless otherwise authorized by the competent authorities, state-owned enterprise shall not purchase equipment or facilities deemed irrelevant to their operations."
 		},
 		{
+			"number": 2101,
+			"content": "Where a state-owned enterprise constructs or operates, outside a port or wharf area, the loading and unloading facilities and other special facilities for the specifically selected goods, the state-owned enterprise shall submit it to and acquire approval of the competent authority in consultation with the Ministry of Transportation and Communications.\r\nThe area for the loading and unloading facilities and other special facilities for the specifically selected goods constructed or operated outside a port or wharf area by a state-owned enterprise shall be drafted by the state-owned enterprise, and shall be submitted to and delimited by the competent authority in consultation with the Ministry of Interior Affairs and relevant authorities.\r\nArticle 13, Article 15, Article 16, Articles 18 to 22, Articles 24 to 29, Article 31, Article 32, Articles 34 to 40, Article 54 and Article 75 of the Commercial Port Law shall apply mutatis mutandis to ship entry and exit, safety management, port management and pollution prevention of the loading and unloading facilities and other special facilities provided in Paragraph 1 of this Article.\r\nIn order to maintain public order within the area provided in Paragraph 2 of this Article and to handle violation of the provisions of the Commercial Port Law applicable mutatis mutandis under the preceding Paragraph, where assistance of a port police force is necessary, the state-owned enterprise may request approval of the competent authority in consultation with the Ministry of Interior Affairs for applying mutatis mutandis of Paragraph 1 of Article 5 of the Commercial Port Law."
+		},
+		{
+			"number": 2102,
+			"content": "Anyone who violates the relevant provisions of the Commercial Port Law applicable mutatis mutandis under Paragraph 3 of the preceding Article shall be punished, depending upon the committed violation, by the competent authority in accordance with Articles 61 to 64, Subparagraphs 1 to 4 of Article 65, Subparagraphs 2, 4 of Paragraph 1, Paragraph 2 of Article 66, Subparagraphs 1 to 3, 5 to 8, 10, 11 of Article 67, Article 69 and Article 71 of the Commercial Port Law."
+		},
+		{
 			"number": 2200,
 			"content": "State-owned enterprise shall obtain authorization from the competent authorities before signing contracts involving large transactions or long-term trading.\r\nThe criteria for determining the size of a transaction or the length of trading shall be prescribed by the competent authorities."
 		},
@@ -148,7 +157,7 @@
 		},
 		{
 			"number": 2500,
-			"content": "During the trading or constructing processes, state-owned enterprise shall follow all bidding and contracting procedures in accordance with the regulations prescribed by the competent authorities.\r\nRelated auditing procedures are prescribed in Article 17."
+			"content": "During the trading or constructing processes, state-owned enterprise shall follow all bidding and contracting procedures in accordance with the regulations prescribed by the competent authorities. Related auditing procedures are prescribed in Article 17."
 		},
 		{
 			"number": 2600,
