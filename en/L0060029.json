@@ -3,17 +3,16 @@
 	"LawLevel": "命令",
 	"EngLawName": "Regulations Governing the Production and Issuance of the National Health Insurance IC Card and Data Storage",
 	"name": "全民健康保險保險憑證製發及存取資料管理辦法",
-	"EngLawModifiedDate": "20180518",
+	"EngLawModifiedDate": "20230104",
 	"attachments": {
-		"0000004557": "Table 1  Data which may be stored and retrieved from the NHI IC Card.PDF",
-		"0000001652": "Table 1  Data which may be stored and retrieved from the NHI IC Card.doc",
-		"0000004838": "Table 2  Medical records which shall be uploaded to the insurer by the contracted medical care institutions.PDF",
-		"0000003205": "Table 2  Medical records which shall be uploaded to the insurer by the contracted medical care institutions.doc"
+		"0000007898": "Table 1　Data which may be stored and retrieved from the NHI IC Card.pdf",
+		"0000007899": "Table 2　Medical records which shall be uploaded to the insurer by the contracted medical care institutions.pdf"
 	},
 	"histories": [
 		"A total of 17 articles of these Regulations, Order Wei-Shu-Chien-Pao No. 1012660262, October 30, 2012 by the Department of Health, Executive Yuan.",
 		"Articles 2~4, 8, 11, 15, 17 as well as Table 2 of Article 10 of the Regulations were amended, and Article 4-1 was added to the Regulations in accordance with Ministry of Health and Welfare Order Wei-Pu-Pao-Tzu No. 1051260303 dated May 17, 2016; Effective as of the promulgation date.",
-		"Articles 4 and 4-1 were amended and promulgated on May 18, 2018, in accordance with the Ministry of Health and Welfare Order Wei-Pu-Pao Tzu No. 1071260237."
+		"Articles 4 and 4-1 were amended and promulgated on May 18, 2018, in accordance with the Ministry of Health and Welfare Order Wei-Pu-Pao Tzu No. 1071260237.",
+		"Articles 3, 5, 9, 10, 12~15 as well as Table 1 of Article 6 of the Regulations were amended and promulgated on January 4, 2023, in accordance with the Ministry of Health and Welfare Order Wei-Pu-Pao Tzu No. 1111260251.\r\n"
 	],
 	"articles": [
 		{
@@ -26,7 +25,7 @@
 		},
 		{
 			"number": 300,
-			"content": "A beneficiary shall file an application for production and issuance of NHI IC Card to the insurer from the date the beneficiary meets the subscription requirements set forth by the Act and completes the declaration of insurance subscription.\r\nA beneficiary who has damaged or lost his or her NHI IC Card, or wishes to change his or her photos or identification information thereon shall apply to the insurer for change or replacement of his or her NHI IC Card.\r\nThe insurer may entrust relevant institution(s), or with the help of government institutions (or agencies), to receive the application prescribed in the two preceding paragraphs on behalf of the insurer.\r\nNHI IC Cards applications set forth in the first and second paragraphs shall be publicized on the insurer’s global website, and may be made widely known through other proper means."
+			"content": "A beneficiary shall file an application for production and issuance of NHI IC Card to the insurer from the date the beneficiary meets the subscription requirements set forth by the Act and completes the declaration of insurance subscription.\r\nA beneficiary who has damaged or lost his or her NHI IC Card, or wishes to change his or her photos or identification information thereon shall apply to the insurer for change or replacement of his or her NHI IC Card.\r\nThe insurer may entrust a private institution or government institution (agency) to receive the application data on behalf of the insurer.\r\nAfter the insurer issues an NHI IC Card prescribed in Paragraphs 1 and 2, a beneficiary may apply to the insurer, through the mobile health insurance identity verification mechanism, for the virtual version of the said NHI Card (a virtual NHI Card), which may be used for medical care under certain conditions determined by the insurer.\r\nThe insurer shall publish the information on how to apply for an NHI IC Card referred to in Paragraphs 1 and 2 or a virtual NHI Card referred to in the preceding paragraph on the insurer’s global website and may also use other appropriate means to make such information widely known to the public.\r\nThe provisions of the Regulations relating to an NHI IC Card apply mutatis mutandis to a virtual NHI Card."
 		},
 		{
 			"number": 400,
@@ -38,7 +37,7 @@
 		},
 		{
 			"number": 500,
-			"content": "Where a beneficiary applies to the insurer for the NHI IC Card, he or she shall pay a fee according to the requirement. Nonetheless, the above fee should be exempted if any of the following circumstances occurs:\r\n1. The beneficiary applies for his or her first NHI IC Card; or\r\n2. The basic information stored in the NHI IC Card cannot be accessed because there is an error in its production by the insurer, the card and the chip are bent, cracked due to scratch or undue pressure or deformed, or detachment, change of color or wear and tear of the chip occurs, which is not caused by human conduct."
+			"content": "Where a beneficiary applies to the insurer for the NHI IC Card, he or she shall pay a fee according to the requirement. Nonetheless, the above fee should be exempted if any of the following circumstances occurs:\r\n1.The beneficiary applies for his or her first NHI IC Card; or\r\n2.The basic information stored in the NHI IC Card cannot be accessed because there is an error in its production by the insurer, the card and the chip are bent, cracked due to scratch or undue pressure or deformed, or detachment, change of color or wear and tear of the chip occurs, which is not caused by human conduct.\r\nThere is no charge for a beneficiary’s application to the insurer for a virtual NHI Card."
 		},
 		{
 			"number": 600,
@@ -54,11 +53,11 @@
 		},
 		{
 			"number": 900,
-			"content": "After the contracted medical care institution provides medical services for a beneficiary or verifies the NHI IC Card of such beneficiary, it shall key in the medical records of the current medical visit in the NHI IC Card of the beneficiary. Notwithstanding, the above may not apply in the case stipulated in Note 3 of Table 1."
+			"content": "After the contracted medical care institution provides medical services for a beneficiary or verifies the NHI IC Card of such beneficiary, it shall enter the data of medical records of the current medical visit into the NHI IC Card of the beneficiary; when using a virtual NHI Card for medical care, a beneficiary shall upload the data of his or her medical records to the insurer. Notwithstanding, the above may not apply in the case stipulated in Note 3 of Table 1."
 		},
 		{
 			"number": 1000,
-			"content": "The contract medical care institutions shall upload the medical records to the insurer for future reference through the Virtual Private Network within 24 hours after they key in the medical records in the NHI IC Cards of the beneficiaries. Notwithstanding, the above may not apply in the event of force majeure or special circumstance approved by the insurer.\r\nThe medical records in the preceding paragraph which are required to be uploaded to the insurer are set forth in Table 2."
+			"content": "After a contracted medical care institution enters the data of medical records into an NHI IC Card or uses a virtual NHI Card in accordance with the preceding Article, the contracted medical care institution shall upload the beneficiary’s medical records to the insurer on the Virtual Private Network within 24 hours for future reference. Notwithstanding, the above may not apply in the event of force majeure or special circumstance approved by the insurer.\r\nThe medical records which are required to be uploaded to the insurer are set forth in Table 2.\r\nFor the data of medical records required to be entered into an NHI IC Card or be uploaded to the insurer as prescribed by the preceding Article or Paragraph 1, the insurer may, after considering the storage capacity of an NHI IC Card or the time required for the production of medical records, request a contracted medical care institution to upload the data of medical records to the insurer within a designated period of time and exempt the said contracted medical care institution from entering the data of medical records into an NHI IC Card or uploading the data of medical records within 24 hours for future reference."
 		},
 		{
 			"number": 1100,
@@ -66,19 +65,19 @@
 		},
 		{
 			"number": 1200,
-			"content": "The NHI IC Card shall contain six credits for medical treatments which will expire on the next birthday of a beneficiary.\r\nA beneficiary may update the credits for medical treatments at a NHI IC Card reader which the insurer has installed within one month from his or her birthday every year or, alternatively, the contracted medical care institution takes initiative to update the beneficiary’s NHI IC Card when he or she seeks medical services during that period of time."
+			"content": "In the event that a beneficiary’s benefits are temporarily suspended or not payable under the Act, the insurer may place restrictions on the NHI IC Card of such beneficiary, restricting such beneficiary from using his or her NHI IC Card to obtain medical treatment.\r\nAfter the cause of the restrictions prescribed in the preceding paragraph has ceased to exist, a beneficiary may update the data stored in his or her NHI IC Card in accordance with Article 13 and use his or her NHI IC Card to obtain medical treatment."
 		},
 		{
 			"number": 1300,
-			"content": "Where any of the following circumstances occurs, the NHI IC Card of a beneficiary shall be updated at the NHI IC Card reader installed in the contracted medical care institutions or the insurer:\r\n1. The NHI IC Card expires or has zero credit for medical treatment;\r\n2. The beneficiary acquires or loses the status of a low-income household member, veteran, household representative of survivors of veterans;\r\n3. The proof of major illness and injury of the beneficiary is acquired, revoked or cancelled upon the notice of the insurer;\r\n4. The registration and change of organ donation or hospice palliative care; or\r\n5. Any other medical need which is recorded.\r\nWhere the insurer provides medical visit advice to a beneficiary, it may request the beneficiary to update his or her credits for medical treatment at a designated place."
+			"content": "Where any of the following circumstances occurs, a beneficiary may update his or her NHI IC Card data by using card reader equipment installed by the insurer, or update the data with the assistance of a contracted medical care institution when obtaining medical treatment:\r\n1.The completion of subscription or resumption (of subscription) to the National Health Care Insurance;\r\n2.The beneficiary acquires or loses the status of a low-income household member, veteran, household representative of survivors of veterans;\r\n3.The proof of major illness and injury of the beneficiary is acquired, revoked or cancelled upon the notice of the insurer;\r\n4.The registration and change of organ donation or hospice palliative care;\r\n5.The cause of the restrictions referred to in the preceding Article ceases to exist;\r\n6.The insurer revokes the annotations for medical visit advice; or\r\n7.Any other medical need which is recorded."
 		},
 		{
 			"number": 1400,
-			"content": "After a beneficiary receives the replaced NHI IC Card, his or her original NHI IC Card is automatically revoked and is no longer valid.\r\nWhere a beneficiary withdraws from the NHI according to Article 13 of the Act, the NHI IC Card held by the beneficiary should no longer be used. When the cause for the withdrawal from the NHI ceases to exist and the beneficiary is required to re-subscribe to the NHI according to the law, his or her NHI IC Card can be reinstated for use after being updated according to the preceding Article."
+			"content": "After a beneficiary receives a replacement NHI IC Card, the beneficiary’s original NHI IC Card is automatically revoked, and the beneficiary may no longer use the beneficiary’s original NHI IC Card."
 		},
 		{
 			"number": 1500,
-			"content": "The insurer may only use the data keyed in and uploaded from the contracted medical care institutions for the following purposes:\r\n1.\tManagement and audit of medical visits of beneficiaries or diagnosis and treatment behaviors of physicians;\r\n2.\tReal-time advice for beneficiaries who are high users of medical services;\r\n3.\tManagement of drug use by beneficiaries; and\r\n4.\tCoordination with disease prevention and health related policies."
+			"content": "The insurer may only use the data entered and uploaded by the contracted medical care institutions for the following purposes:\r\n1.Management and audit of medical visits of beneficiaries or diagnosis and treatment behaviors of physicians;\r\n2.Real-time advice for beneficiaries who are high users of medical services;\r\n3.Management of drug use by beneficiaries;\r\n4.Coordination with disease prevention and health related policies; and\r\n5.Improving the data integrity of medical treatment information and the quality of medical services."
 		},
 		{
 			"number": 1600,
