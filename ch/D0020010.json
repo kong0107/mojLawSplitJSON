@@ -65,7 +65,7 @@
 			"number": 300,
 			"title": "選舉及罷免",
 			"start": 1400,
-			"end": 9200,
+			"end": 7400,
 			"children": [
 				{
 					"type": "節",
@@ -122,7 +122,16 @@
 					"title": "選舉結果",
 					"start": 6700,
 					"end": 7400
-				},
+				}
+			]
+		},
+		{
+			"type": "章",
+			"number": 400,
+			"title": "（刪除）",
+			"start": 7500,
+			"end": 9200,
+			"children": [
 				{
 					"type": "節",
 					"number": 900,

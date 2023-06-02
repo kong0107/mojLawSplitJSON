@@ -60,7 +60,7 @@
 			"number": 300,
 			"title": "Election and Recall",
 			"start": 1400,
-			"end": 9200,
+			"end": 7400,
 			"children": [
 				{
 					"type": "section",
@@ -117,7 +117,16 @@
 					"title": "Results of Elections",
 					"start": 6700,
 					"end": 7400
-				},
+				}
+			]
+		},
+		{
+			"type": "chapter",
+			"number": 400,
+			"title": "(Deleted)",
+			"start": 7500,
+			"end": 9200,
+			"children": [
 				{
 					"type": "section",
 					"number": 900,
