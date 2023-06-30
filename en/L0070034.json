@@ -1,63 +1,96 @@
 {
   "LawLevel": "命令",
-  "EngLawName": "Regulations Governing Reporting of Tobacco Product Information",
+  "EngLawName": "Regulations Governing the Declaration of Tobacco Product Information",
   "LawName": "菸品資料申報辦法",
   "EngLawURL": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=L0070034",
-  "EngLawModifiedDate": "20120808",
+  "EngLawModifiedDate": "20230322",
   "EngLawAbandonNote": "",
-  "EngLawAttachements": [],
-  "EngLawHistories": "1.Promulgated on December 4,2008\r\n2.Amended on August 8, 2012",
+  "EngLawAttachements": [
+    {
+      "FileName": "Schedule 1.pdf",
+      "FileURL": "https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007968"
+    },
+    {
+      "FileName": "Schedule 1.doc",
+      "FileURL": "https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007969"
+    },
+    {
+      "FileName": "Schedule 2.pdf",
+      "FileURL": "https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007970"
+    },
+    {
+      "FileName": "Schedule 2.doc",
+      "FileURL": "https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007971"
+    },
+    {
+      "FileName": "Schedule 3.pdf",
+      "FileURL": "https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007972"
+    },
+    {
+      "FileName": "Schedule 3.doc",
+      "FileURL": "https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007973"
+    },
+    {
+      "FileName": "Schedule 4.pdf",
+      "FileURL": "https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007974"
+    },
+    {
+      "FileName": "Schedule 4.doc",
+      "FileURL": "https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007975"
+    }
+  ],
+  "EngLawHistories": "1. Promulgated on December 4, 2008.\r\n2. Amended on August 8, 2012.\r\n3. Amended on March 22, 2023.\r\n",
   "EngLawForeword": "",
   "EngLawArticles": [
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 1",
-      "EngArticleContent": "These Regulations are stipulated in accordance with Article 8, Paragraph 3 of the Tobacco Hazards Prevention and Control Act (hereinafter referred to as the \"Act\")."
+      "EngArticleContent": "These Regulations are enacted in accordance with Article 11 Paragraph 3 of the Tobacco Hazards Prevention Act (hereinafter referred to as \"the Act\")."
     },
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 2",
-      "EngArticleContent": "The ingredients of tobacco products that shall be declared under the Act is as follows:\r\n1.The types and weights of tobacco leaf;\r\n2.The raw materials, printing ink and glue of roll paper;\r\n3.The raw materials, printing ink, glue of filters and the amount of activated carbon contained therein;\r\n4.Other chemicals:\r\na.Nicotine/free nicotine;\r\nb.Heavy metal (As, Cd, Cr, Pb, Hg, Ni and Se);\r\nc.Nitrosamines (NNN, NNK, NAT, and NAB).\r\nThe average weight of the ingredients listed in the preceding paragraph contained in each tobacco product shall be declared according to the type of tobacco products. At the same time, the method of testing for chemicals shall also be declared.\r\nTobacco products other than cigarettes are exempt from the declaration required by Paragraph 1, Subparagraph 4."
+      "EngArticleContent": "According to Paragraph 1 of Article 11 of the Act, information on domestically manufactured tobacco products shall be declared by the manufacturer, while information on tobacco products manufactured abroad shall be declared by the importer.\r\nThe aforesaid manufacturer and importer (hereinafter referred to as \"the operators\") shall provide data as listed in Schedule 1 to 4 (\"the schedules\") when declaring information on tobacco products (\"the declared information\"); however, tobacco products that do not generate emissions during use can be exempted from filling Schedule 4."
     },
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 3",
-      "EngArticleContent": "The list of additives which shall be declared under the Act is as follows:\r\n1.Addictiveness enhancer;\r\n2.Flavor;\r\n3.Preservative;\r\n4.Humectants;\r\n5.Color;\r\n6.Other additives.\r\nThe average weight of the ingredients listed in the preceding paragraph contained in each tobacco product shall be declared according to the type of tobacco products."
+      "EngArticleContent": "When filling in the substance content in Schedule 2 to 4, the used testing methods shall be specified, and the test for declaration shall be conducted on the minimum unit of use or sale in accordance with the notes therein.\r\nThe aforesaid testing methods shall conform to applicable national standards, or to applicable international standards should no national standard is applicable."
     },
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 4",
-      "EngArticleContent": "The emissions of tobacco products that shall be declared under the Act is as follows:\r\n1.Nicotine/free nicotine;\r\n2.Tar;\r\n3.Carbon monoxide;\r\n4.Benzo[α]pyrene;\r\n5.Benzene;\r\n6.Formaldehyde;\r\n7.Hydrogen cyanide.\r\nThe average weight of the ingredients listed in the preceding paragraph contained in each tobacco product shall be declared according to the type of tobacco products. Tobacco products other than cigarettes are exempt from the declaration required by Paragraph 1."
+      "EngArticleContent": "Should any field in the schedules is not applicable or deemed impossible to be filled in, the operator shall explain the reasons and provide relevant evidence.\r\nThe declaration shall be filed in electronic forms, hard copies or other forms designated by the central competent authority by announcements."
     },
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 5",
-      "EngArticleContent": "Any known toxic information in the ingredients of tobacco products, additives and emissions shall be declared accurately and in detail and shall not be concealed."
+      "EngArticleContent": "The operator shall complete the initial declaration for the brand, item, or identifier of any tobacco product initially manufactured or imported within thirty days after the payment of taxes under the Tobacco and Alcohol Tax Act and the Act.\r\nIn case of any change to the declared data following the initial declaration, the operator shall declare the change within thirty days after the date of the change.\r\nFrom a year following the completion of the aforesaid declarations, the operator shall conduct update declaration on an annual basis, unless no manufacturing activity or importing transaction has been conducted in the preceding two years.\r\nThe operator shall engage in the initial declaration for tobacco products manufactured or imported following being suspended for more than two years."
     },
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 6",
-      "EngArticleContent": "The method of testing of ingredients, additives, and emissions of tobacco products shall conform to the relevant standards enacted by the governing agency in charge of standards inspection or other international standards; any method of testing not meeting such standards shall conform to the relevant standards adopted by a manufacturer or an importer of tobacco products (hereinafter as the \"Producer\")."
+      "EngArticleContent": "The central competent authority may, if necessary, request the operator to provide supporting documents or samples related to the declared information, in quantities sufficient for the respective inspection/testing.\r\nWhen the national standards apply to the aforesaid testing method and the declared information exceeds the allowable margin of error under the standard, the central competent authority shall request the operator to provide an explanation within 30 days of the date of submission, and make the necessary corrections within a certain period."
     },
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 7",
-      "EngArticleContent": "The declaration of ingredients, additives, and emissions of tobacco products shall be made in Chinese, accompanied with the English or chemical formula. The declaration of the known toxic information and other related information may be made in either Chinese or English.\r\nThe declaration of the preceding paragraph shall be made in electronic or written form, or in the format required and announced by the central competent authority."
+      "EngArticleContent": "Should any declared information fails to meet the provisions of the Regulations, the central competent authority shall notify the operator to make corrections within 30 days from the date of declaration. Failure to make such corrections or to provide complete information shall be deemed as failing the declaration requirement."
     },
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 8",
-      "EngArticleContent": "The Producer shall make the first declaration within six months after these Regulations have been announced. Any new addition or changes of the types of tobacco products or any changes in content shall be declared within thirty days after the addition or changes have been made.\r\nStarting from the year following the first declaration made pursuant to these Regulations, the Producer shall renew the declaration in December of each year."
+      "EngArticleContent": "Operators may be exempted from declaration should the tobacco products are:\r\n(1)\tIntended for quality control or testing purposes;\r\n(2)\tNot packaged or intended for commercial sale, with a label clearly stating its purpose attached to the container; or\r\n(3)\tIntended for any specific purpose approved by the central financial authority and planned to be returned or destroyed within 30 days after the purpose is fulfilled."
     },
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 9",
-      "EngArticleContent": "The central competent authority may, if necessary, request to review and inspect any information relating to the declaration made and may also take samples for testing. The Producer shall not refuse, avoid or hinder such testing. However, the amount of the sample to be obtained for testing shall be limited to the amount needed.\r\nIf the inspection (test) results of the preceding paragraph are inconsistent or missing from the information previously declared, the information declared shall be rectified within thirty days. Failure to rectify or the information rectified is still found to be inconsistent shall be considered as no declaration has been made.\r\nThe central competent authority may authorize related professional institutions, agency or group to execute the application, inspection, and data management of reporting tobacco product information set forth in the preceding article of this Article. Regulations or the related matter of the inspection (test) set forth in the preceding first paragraph of this Article."
+      "EngArticleContent": "The central competent authority may delegate matters required by the Regulations to relevant professional authorities, institutions, legal persons or organizations."
     },
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 10",
-      "EngArticleContent": "These Regulations shall come into effect on January 11, 2009.\r\nThe amendment to this Regulations shall take effect on the date of promulgation."
+      "EngArticleContent": "These Regulations shall enter into force on January 1, 2024."
     }
   ]
 }
