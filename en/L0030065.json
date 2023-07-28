@@ -1,12 +1,12 @@
 {
   "LawLevel": "命令",
-  "EngLawName": "Regulation of Bioavailability and Bioequivalence Studies",
+  "EngLawName": "Regulations of Bioavailability and Bioequivalence Studies",
   "LawName": "藥品生體可用率及生體相等性試驗作業準則",
   "EngLawURL": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=L0030065",
-  "EngLawModifiedDate": "20200611",
+  "EngLawModifiedDate": "20230427",
   "EngLawAbandonNote": "",
   "EngLawAttachements": [],
-  "EngLawHistories": "1.Promulgated on April 02, 2009\r\n2.Amended on January 31, 2013\r\n3.Amended on March 6, 2014. Revised articles include Article 9, 11-14, 17, 18, 26. This amendment takes effect on January 1, 2016.\r\n4.Amended on June 11, 2020. Revised the name of regulation and Article 21.",
+  "EngLawHistories": "1.Promulgated on April 02, 2009\r\n2.Amended on January 31, 2013\r\n3.Amended on March 6, 2014. Revised articles include Article 9, 11-14, 17, 18, 26. This amendment takes effect on January 1, 2016.\r\n4.Amended on June 11, 2020. Revised the name of regulation and Article 21.\r\n5.Promulgared by Ministry of Health and Welfare Order Bu-Shou-Shi Zi No. 1121401768, on April 27,2023.",
   "EngLawForeword": "",
   "EngLawArticles": [
     {
@@ -47,12 +47,12 @@
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 7",
-      "EngArticleContent": "Bioavailability and bioequivalence studies should be performed for non-intravenous administrated drug products that cause systemic action under any of the following circumstance:\r\n1.Studies should be performed if requested by new drug application or the Regulation for Registration of Medicinal Products. However, studies can be waived with the approval of central competent health authority if the applicants have submitted relevant information for assessment.\r\n2.Studies should be performed for drugs not under pharmacovigilance that requested by the central competent health authority.\r\nAll generic drugs with active ingredients under pharmacovigilance (include those pharmacovigilance period has expired) should submit bioequivalence study reports when applying for registration. However, submission of the study results could be waived with the approval of central competent health authority."
+      "EngArticleContent": "(Delete)"
     },
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 8",
-      "EngArticleContent": "Bioequivalent study can be waived if the drug product meet any of the following circumstance:\r\n1.Intravenous administrated injection product.\r\n2.Oral administrated generic drug with excipients that do not affect absorption of the active ingredient.\r\n3.Extravascular administrated injection product, i.e. the injectable solution of generic drug that have same pH value as compendia or brand products. Except for the preservatives and buffers, its formulation should be the same as the brand drugs.\r\n4.Drug products as inhaled gases or vapors.\r\n5.Generic drugs with topical uses that are not subcutaneously or intradermally absorbed.\r\n6.Ophthalmic and otic generic drugs.\r\n7.For same oral solid drug products with different strength applying for registration, or drug products with approved bioequivalence reports submitting for post-approval changes, the bioequivalence study can be replaced by dissolution profile comparisons if approved by the central competent health authority.\r\n8.Others that are approved by the central competent health authority according to information provided by the applicants."
+      "EngArticleContent": "Bioequivalence study may be waived if the drug product meets any of the following circumstances:\r\n1. For injection product that is administered as solution where has same pH value as that of reference product or the specifications set forth in the pharmacopoeia, and contain qualitative the same excipients, except preservatives, buffers and antioxidants, and the quantity of the excipients should be within 5% of the amount in the reference product.\r\n2. For orally administered product that is delivered in solution form, as well as the reference product, does not contain any excipient which may affect absorption of active ingredient(s).\r\n3. For orally administered product that is delivered in solution form contain excipient(s) that may affect absorption of active ingredient, these excipient(s) are qualitative the same and quantitative similar as reference product.\r\n4. Drug products as inhaled gases or vapors.\r\n5. Topical solution product for application to the skin where the composition of excipients are qualitative the same as the reference product, the quantity of these excipients should be within 5% of the amount in the reference product, and the quality attributes are similar to the reference product.\r\n6. Ophthalmic and otic generic drugs.\r\n7. For same oral solid drug products with different strength applying for registration, or drug products with approved bioequivalence reports submitting for post-approval changes, the bioequivalence study may be replaced by dissolution profile comparisons if approved by the central competent health authority.\r\n8. Others that are approved by the central competent health authority according to information provided by the applicants."
     },
     {
       "EngArticleType": "C",
@@ -87,7 +87,7 @@
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 14",
-      "EngArticleContent": "A randomized two or more way crossover designs or Latin Square Designs is recommended to reduce the intersubject differences for bioavailability and bioequivalence studies. Under certain circumstances, parallel designs can be adopted and the number of subjects in each arm should be properly determined.\r\nHealthy subjects should abstain from any medicines for at least two weeks before the study.\r\nSubjects should fast for at least 10 hours prior to administration of the drug except for a food-effect bioavailability or bioequivalence study. If Food Effect study is conducted, subjects should fast at least 10 hours before food intake.\r\nA standard meal should be provided no less than 4 hours after drug administration.\r\nIn addition to the preceding Subparagraph 1, for immediate-release products, a single dose-fasting study should be conducted. In the case of the administration with food is recommended according to package insert of the reference/innovator products, a single dose-fed study should be conducted instead.\r\nIn addition to paragraph 1 in this article, for modified-release products, both single dose-fasting and single dose-fed studies should be conducted, unless otherwise justified."
+      "EngArticleContent": "A randomized two or more way crossover designs or Latin Square Designs is recommended to reduce the intersubject differences for bioavailability and bioequivalence studies. Under certain circumstances, parallel designs can be adopted and the number of subjects in each arm should be properly determined.\r\nHealthy subjects should abstain from any medicines for at least two weeks before the study.\r\nSubjects should fast for at least 10 hours prior to administration of the drug except for a food-effect bioavailability or bioequivalence study. If Food Effect study is conducted, subjects should fast at least 10 hours before food intake.\r\nA standard meal should be provided no less than 4 hours after drug administration.\r\nIn addition to the preceding Subparagraph 1, for immediate-release products, a single dose-fasting study should be conducted. In the case of the administration with food is recommended according to package insert of the reference/innovator products, a single dose-fed study should be conducted instead, unless otherwise justified.\r\nIn addition to paragraph 1 in this article, for modified-release products, both single dose-fasting and single dose-fed studies should be conducted, unless otherwise justified."
     },
     {
       "EngArticleType": "A",
