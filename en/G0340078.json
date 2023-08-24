@@ -3,10 +3,10 @@
   "EngLawName": "Securities Transaction Tax Act",
   "LawName": "證券交易稅條例",
   "EngLawURL": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0340078",
-  "EngLawModifiedDate": "20211229",
+  "EngLawModifiedDate": "20230510",
   "EngLawAbandonNote": "",
   "EngLawAttachements": [],
-  "EngLawHistories": "1.Full text (16 articles) promulgated on 19 June 1965 by Presidential Decree.\r\n2.Amendment to Article 2 promulgated on 27 November 1978 by Presidential Decree.\r\n3.Amendments to Articles 2, 8 and 9 promulgated on 30 December 1989 by Presidential Decree.\r\n4.Amendments to Article 2 promulgated on 30 January 1993 by Presidential Decree.\r\n5.Deletion of Article 14 promulgated on 30 July 1993 by Presidential Decree.\r\n6.Amendment to Article 2-1 promulgated on 30th December, 2009 by Presidential Decree.\r\n7.Article 3 to 5, 9, 9-1, 9-2 and 11 amended, and Article 13 deleted on 29 December 2010 by Presidential Decree No. Hua-Tsung-1-Yi 09900353421.\r\n8.Amendment to Article 2-1 promulgated on 30th December, 2016 by Presidential Decree No. Hua-Tsung-1-Yi 10500165221.\r\n9.Addendum to Article 2-2 promulgated on 26th April, 2017 by Presidential Decree No. Hua-Tsung-1-Yi 10600050391.\r\n10.Amendment to Article 2-2 promulgated on 27th April, 2018 by Presidential Decree No. Hua-Tsung-1-Yi 10700047611.\r\n11.Amendment to Article 2-2 and 3 promulgated on 29th December, 2021 by Presidential Decree No. Hua-Tsung-1-Jing 11000116321.",
+  "EngLawHistories": "1.Full text (16 articles) promulgated on 19 June 1965 by Presidential Decree.\r\n2.Amendment to Article 2 promulgated on 27 November 1978 by Presidential Decree.\r\n3.Amendments to Articles 2, 8 and 9 promulgated on 30 December 1989 by Presidential Decree.\r\n4.Amendments to Article 2 promulgated on 30 January 1993 by Presidential Decree.\r\n5.Deletion of Article 14 promulgated on 30 July 1993 by Presidential Decree.\r\n6.Amendment to Article 2-1 promulgated on 30th December, 2009 by Presidential Decree.\r\n7.Article 3 to 5, 9, 9-1, 9-2 and 11 amended, and Article 13 deleted on 29 December 2010 by Presidential Decree No. Hua-Tsung-1-Yi 09900353421.\r\n8.Amendment to Article 2-1 promulgated on 30th December, 2016 by Presidential Decree No. Hua-Tsung-1-Yi 10500165221.\r\n9.Addendum to Article 2-2 promulgated on 26th April, 2017 by Presidential Decree No. Hua-Tsung-1-Yi 10600050391.\r\n10.Amendment to Article 2-2 promulgated on 27th April, 2018 by Presidential Decree No. Hua-Tsung-1-Yi 10700047611.\r\n11.Amendment to Article 2-2 and 3 promulgated on 29th December, 2021 by Presidential Decree No. Hua-Tsung-1-Jing 11000116321.\r\n12.Amendments to Article 2-3, 3, 11, and 16 promulgated on 10th May, 2023 by Presidential Decree No. Hua-Tsung-1-Jing 11200038311.(Article 2-3 and 3 amended on 21 April 2023 shall become effective six months after the promulgation)",
   "EngLawForeword": "",
   "EngLawArticles": [
     {
@@ -31,8 +31,13 @@
     },
     {
       "EngArticleType": "A",
+      "EngArticleNo": "Article 2-3",
+      "EngArticleContent": "Issuers with the call (put) warrants approved by the competent authority, who sell stocks from the warrant hedging account for quotation obligation and risk management purposes, and whose daily transaction amounts fall within the necessary hedging range, shall be taxed at the rate of 0.1%. This tax rate will apply instead of the provisions set out in item 1 of Article 2 and the preceding article, within five years from the effective date of this Article. However, when selling the underlying stocks to the warrant holder at the contracted exercise price, they shall be subject to the tax rate specified in item 1 of Article 2 or the preceding Article.\r\nRegulations governing the requirements for fulfilling quotation obligations and risk management purposes, the criteria for determining the scope, the necessary scope for hedging, internal control, and other related matters referred to in the preceding paragraph shall be prescribed by the Ministry of Finance in consultation with the Financial Supervisory Commission."
+    },
+    {
+      "EngArticleType": "A",
       "EngArticleNo": "Article 3",
-      "EngArticleContent": "Transaction tax shall be collected by the collecting agent on the date of transaction according to the specified tax rate and paid to the national treasury on the following day along with a filled payment slip.\r\nThe collecting agent shall give the securities seller a receipt for the transaction tax collected. The receipt can be in the form of a monthly account reconciliation statement when the tax collecting agent is a securities underwriter.\r\nTransaction tax shall be paid to the national treasury by the securities dealer who sells its own securities on the following day along with a completed payment slip. The provisions as provided in Paragraph 1 herein do not apply.\r\nThe collecting agent and the securities dealer specified in the former paragraph shall produce a list daily, which documents the names and addresses of sellers of securities, name, quantity, unit price and total price of securities sold, and tax, and file the same with the local tax authority on the following day."
+      "EngArticleContent": "Transaction tax shall be collected by the collecting agent on the date of transaction according to the specified tax rate and paid to the national treasury on the following day along with a filled payment slip.\r\nThe collecting agent shall give the securities seller a receipt for the transaction tax collected. The receipt can be in the form of a monthly account reconciliation statement when the tax collecting agent is a securities underwriter.\r\nTransaction tax shall be paid to the national treasury by the securities dealer who sells its own securities on the following day along with a completed payment slip. The provisions as provided in Paragraph 1 herein do not apply.\r\nThe collecting agent and the securities dealer specified in the former paragraph shall produce a list daily, which documents the names and addresses of sellers of securities, name, quantity, unit price and total price of securities sold, tax and transaction details of the warrant hedging accounts prescribed in Paragraph 1 of the preceding article, and file the same with the local tax authority on the following day."
     },
     {
       "EngArticleType": "A",
@@ -82,7 +87,7 @@
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 11",
-      "EngArticleContent": "A collecting agent or a securities dealer who fails to surrender the transaction tax collected within the time limit as stipulated in Paragraph 1 and 3, Article 3 shall be subject to a delinquency charge in an amount equal to one percent of the amount in arrears for every two days of delay. If the payment of tax is in arrears for thirty days or longer, the case shall be referred for compulsory enforcement."
+      "EngArticleContent": "A collecting agent or a securities dealer who fails to surrender the transaction tax collected within the time limit as stipulated in Paragraphs 1 and 3, Article 3 shall be subject to a delinquency charge."
     },
     {
       "EngArticleType": "A",
@@ -97,7 +102,7 @@
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 14",
-      "EngArticleContent": "(deleted)"
+      "EngArticleContent": "（deleted）"
     },
     {
       "EngArticleType": "A",
@@ -107,7 +112,7 @@
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 16",
-      "EngArticleContent": "This Act shall be implemented upon promulgation."
+      "EngArticleContent": "This Act shall be implemented upon promulgation. However, the amendment of Article 2-3 and 3 on 21 April 2023 shall become effective six months after the promulgation."
     }
   ]
 }
