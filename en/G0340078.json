@@ -3,7 +3,7 @@
 	"LawLevel": "法律",
 	"EngLawName": "Securities Transaction Tax Act",
 	"name": "證券交易稅條例",
-	"EngLawModifiedDate": "20211229",
+	"EngLawModifiedDate": "20230510",
 	"histories": [
 		"Full text (16 articles) promulgated on 19 June 1965 by Presidential Decree.",
 		"Amendment to Article 2 promulgated on 27 November 1978 by Presidential Decree.",
@@ -15,7 +15,8 @@
 		"Amendment to Article 2-1 promulgated on 30th December, 2016 by Presidential Decree No. Hua-Tsung-1-Yi 10500165221.",
 		"Addendum to Article 2-2 promulgated on 26th April, 2017 by Presidential Decree No. Hua-Tsung-1-Yi 10600050391.",
 		"Amendment to Article 2-2 promulgated on 27th April, 2018 by Presidential Decree No. Hua-Tsung-1-Yi 10700047611.",
-		"Amendment to Article 2-2 and 3 promulgated on 29th December, 2021 by Presidential Decree No. Hua-Tsung-1-Jing 11000116321."
+		"Amendment to Article 2-2 and 3 promulgated on 29th December, 2021 by Presidential Decree No. Hua-Tsung-1-Jing 11000116321.",
+		"Amendments to Article 2-3, 3, 11, and 16 promulgated on 10th May, 2023 by Presidential Decree No. Hua-Tsung-1-Jing 11200038311.(Article 2-3 and 3 amended on 21 April 2023 shall become effective six months after the promulgation)"
 	],
 	"articles": [
 		{
@@ -35,8 +36,12 @@
 			"content": "In the case when a buy order and a sell order for a listed or OTC-listed stock are of the same kind and equal quantity, and are executed on the spot market through the same brokerage account on the same day during the period from April 28, 2017 to December 31, 2024, or in the case a securities firm buys and sells listed or OTC-listed stock of the same kind and equal quantity through the same account on the same day during the period from April 28, 2018 to December 31, 2024, the securities transaction tax shall be levied at the rate of 1.5％o based on the transaction amount for each sell order, instead of applying the provisions set out in Item 1, Article 2.\r\nTransaction qualified for the tax rate described in the preceding paragraph shall be conducted according to the regulations and directions governing day trades of securities by the Financial Supervisory Commission, Taiwan Stock Exchange, and Taipei Exchange."
 		},
 		{
+			"number": 203,
+			"content": "Issuers with the call (put) warrants approved by the competent authority, who sell stocks from the warrant hedging account for quotation obligation and risk management purposes, and whose daily transaction amounts fall within the necessary hedging range, shall be taxed at the rate of 0.1%. This tax rate will apply instead of the provisions set out in item 1 of Article 2 and the preceding article, within five years from the effective date of this Article. However, when selling the underlying stocks to the warrant holder at the contracted exercise price, they shall be subject to the tax rate specified in item 1 of Article 2 or the preceding Article.\r\nRegulations governing the requirements for fulfilling quotation obligations and risk management purposes, the criteria for determining the scope, the necessary scope for hedging, internal control, and other related matters referred to in the preceding paragraph shall be prescribed by the Ministry of Finance in consultation with the Financial Supervisory Commission."
+		},
+		{
 			"number": 300,
-			"content": "Transaction tax shall be collected by the collecting agent on the date of transaction according to the specified tax rate and paid to the national treasury on the following day along with a filled payment slip.\r\nThe collecting agent shall give the securities seller a receipt for the transaction tax collected. The receipt can be in the form of a monthly account reconciliation statement when the tax collecting agent is a securities underwriter.\r\nTransaction tax shall be paid to the national treasury by the securities dealer who sells its own securities on the following day along with a completed payment slip. The provisions as provided in Paragraph 1 herein do not apply.\r\nThe collecting agent and the securities dealer specified in the former paragraph shall produce a list daily, which documents the names and addresses of sellers of securities, name, quantity, unit price and total price of securities sold, and tax, and file the same with the local tax authority on the following day."
+			"content": "Transaction tax shall be collected by the collecting agent on the date of transaction according to the specified tax rate and paid to the national treasury on the following day along with a filled payment slip.\r\nThe collecting agent shall give the securities seller a receipt for the transaction tax collected. The receipt can be in the form of a monthly account reconciliation statement when the tax collecting agent is a securities underwriter.\r\nTransaction tax shall be paid to the national treasury by the securities dealer who sells its own securities on the following day along with a completed payment slip. The provisions as provided in Paragraph 1 herein do not apply.\r\nThe collecting agent and the securities dealer specified in the former paragraph shall produce a list daily, which documents the names and addresses of sellers of securities, name, quantity, unit price and total price of securities sold, tax and transaction details of the warrant hedging accounts prescribed in Paragraph 1 of the preceding article, and file the same with the local tax authority on the following day."
 		},
 		{
 			"number": 400,
@@ -76,7 +81,7 @@
 		},
 		{
 			"number": 1100,
-			"content": "A collecting agent or a securities dealer who fails to surrender the transaction tax collected within the time limit as stipulated in Paragraph 1 and 3, Article 3 shall be subject to a delinquency charge in an amount equal to one percent of the amount in arrears for every two days of delay. If the payment of tax is in arrears for thirty days or longer, the case shall be referred for compulsory enforcement."
+			"content": "A collecting agent or a securities dealer who fails to surrender the transaction tax collected within the time limit as stipulated in Paragraphs 1 and 3, Article 3 shall be subject to a delinquency charge."
 		},
 		{
 			"number": 1200,
@@ -88,7 +93,7 @@
 		},
 		{
 			"number": 1400,
-			"content": "(deleted)"
+			"content": "（deleted）"
 		},
 		{
 			"number": 1500,
@@ -96,7 +101,7 @@
 		},
 		{
 			"number": 1600,
-			"content": "This Act shall be implemented upon promulgation."
+			"content": "This Act shall be implemented upon promulgation. However, the amendment of Article 2-3 and 3 on 21 April 2023 shall become effective six months after the promulgation."
 		}
 	]
 }

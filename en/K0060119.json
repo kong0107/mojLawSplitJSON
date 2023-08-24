@@ -3,14 +3,15 @@
 	"LawLevel": "命令",
 	"EngLawName": "Regulations for Allocating and Governing Telecommunications Numbers",
 	"name": "電信號碼核配及管理辦法",
-	"EngLawModifiedDate": "20200701",
+	"EngLawModifiedDate": "20230801",
 	"attachments": {
 		"0000006319": "Annex 1 Format of Telecommunications Number.pdf",
 		"0000006320": "Annex 2 Minimum usage rate of subscriber numbers and calculation method of the  quantity to be recovered.pdf",
 		"0000006321": "Tables Basic number selection principles.pdf"
 	},
 	"histories": [
-		"Promulgated on July 1, 2020"
+		"Promulgated on July 1, 2020",
+		"Amended on August 1 ,2023"
 	],
 	"divisions": [
 		{
@@ -91,7 +92,7 @@
 		},
 		{
 			"number": 500,
-			"content": "Those which apply for the allocation of identification codes to establish public telecommunication networks, signaling point codes, or subscriber numbers shall first conduct telecommunications enterprise registration with the competent authority in accordance with the provisions of Article 5 of the Act."
+			"content": "Those which apply for the allocation of identification codes to establish public telecommunication networks, signaling point codes, or subscriber numbers, unless otherwise prescribed in this Act, shall conduct telecommunications enterprise registration in accordance with the provisions of Article 5 of the Act."
 		},
 		{
 			"number": 600,
@@ -175,7 +176,7 @@
 		},
 		{
 			"number": 2600,
-			"content": "Prior to the telecommunications enterprise assigns subscribers to use telecommunication numbers, they should verify and register subscribers’ information."
+			"content": "Prior to the telecommunications enterprise assigns subscribers to use telecommunication numbers, they should verify and register subscribers’ information.\r\nThe preceding provision shall be handled by the National Communications Commission in accordance with relevant regulations."
 		},
 		{
 			"number": 2700,
@@ -191,7 +192,7 @@
 		},
 		{
 			"number": 3000,
-			"content": "The Regulations shall be implemented from the date of promulgation of the Act. 8"
+			"content": "The Regulations shall be implemented from the date of promulgation of the Act.\r\nThe amendments to these Regulations shall take effect on the date of promulgation."
 		}
 	]
 }
