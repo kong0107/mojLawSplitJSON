@@ -3,11 +3,12 @@
 	"LawLevel": "法律",
 	"EngLawName": "Natural Gas Enterprise Act",
 	"name": "天然氣事業法",
-	"EngLawModifiedDate": "20200527",
+	"EngLawModifiedDate": "20230628",
 	"histories": [
 		"Enacted and Promulgated on February 1, 2011 per Order ref. Hwa-Tzong-1-Yi-Tze-No. 10000018911",
 		"Article 3、34、44、52、58～63 is Amended and Promulgated on May 25, 2016 per Order ref. Hwa-Tzong-1- Yi-Tze-No. 10500046011",
-		"Article 58-1 is added and promulgated by Presidential Order Hua-Tsung on May 27, 2020 per Order ref. Hwa-Tzong-1- Yi-Tze-No. 10900056511"
+		"Article 58-1 is added and promulgated by Presidential Order Hua-Tsung on May 27, 2020 per Order ref. Hwa-Tzong-1- Yi-Tze-No. 10900056511",
+		"Article 55-1 、55-2 are added and promulgated by Presidential Order Hua-Tsung on June 28, 2023 per Order ref. Hwa-Tzong-1- Yi-Tze-No. 11200053981"
 	],
 	"divisions": [
 		{
@@ -56,7 +57,7 @@
 			"type": "chapter",
 			"number": 700,
 			"title": "Penalty",
-			"start": 5600,
+			"start": 5501,
 			"end": 6400
 		},
 		{
@@ -287,6 +288,14 @@
 		{
 			"number": 5500,
 			"content": "If a natural gas utility enterprise has operational difficulty due to poor management or insufficient amounts of transmission and storage equipment, which could lead to its incapability of maintain a sufficient full-day normal gas supply prescribed in Article 37, Section 1, authorities of the municipal government or the county (city) governments should ask natural gas utility enterprise to take improvement measures within a limited period. If the natural gas utility enterprise is unwilling or unable to improve effectively to the standard, authorities of the municipal government or the county (city) governments may report to the central competent authorities and suggest to replace responsible personnel or revoke their gas supply operation license; the central competent authorities may coordinate other natural gas utility enterprises to take over in advance when they regard it as necessary."
+		},
+		{
+			"number": 5501,
+			"content": "Anyone who engages in stealing, damaging, or using other unlawful means to jeopardize the proper functioning of unloading facilities, storage facilities, regasification facilities, blending facilities, high pressure transmission and distribution facilities, or dispatching centers related to Natural Gas Import Enterprises shall be sentenced to imprisonment for a term of not less than 1 years and not more than 7 years, and may also be fined up to NT$ 10,000,000.\r\nThose who commit the offenses specified in the preceding paragraph with the intent to harm national security or social stability shall be sentenced to imprisonment for a term of not less than 3 years and not more than 10 years, and may also be fined up to NT$ 50,000,000.\r\nIf the offenses specified in the preceding two paragraphs result in disasters, the punishment shall be increased by half; if the offenses result in death, the offender shall be sentenced to life imprisonment or imprisonment for a term of not less than 7 years, and may also be fined up to NT$ 100,000,000; if the offenses result in serious injury, the offender shall be sentenced to imprisonment for a term of not less than 5 years and not more than 12 years, and may also be fined up to NT$ 80,000,000.\r\nAttempted offenses under paragraph 1 and 2 shall be subject to punishment."
+		},
+		{
+			"number": 5502,
+			"content": "Anyone who, by any of the following methods, jeopardizes the proper functioning of the core information and communication system of the facilities specified in paragraph 1 of the preceding article shall be subject to imprisonment for a term of not less than 1 years and not more than 7 years, and may also be fined up to NT$ 10,000,000:\r\nUnjustifiably intrude into others’ computer or related equipment by entering others’ account username and password, cracking computer security measures, or exploiting computer system vulnerabilities.\r\nUnjustifiably interferes with others’ computer or related equipment by using computer programs or other electromagnetic methods.\r\nUnjustifiably obtains, deletes, or alters electromagnetic records of others’ computer or related equipment.\r\nProducing computer programs specifically intended for committing the offenses specified in the preceding paragraph and providing such programs to oneself or others for committing the offenses specified in the preceding paragraph shall be subject to the same punishment.\r\nThose who commit the offenses specified in the preceding two paragraphs with the intent to harm national security or social stability shall be sentenced to imprisonment for a term of not less than 3 years and not more than 10 years, and may also be fined up to NT$ 50,000,000.\r\nIf the offenses specified in the preceding three paragraphs result in disasters, the punishment shall be increased by half; if the offenses result in death, the offender shall be sentenced to life imprisonment or imprisonment for a term of not less than 7 years, and may also be fined up to NT$ 100,000,000; if the offenses result in serious injury, the offender shall be sentenced to imprisonment for a term of not less than 5 years and not more than 12 years, and may also be fined up to NT$ 80,000,000.\r\nAttempted offenses under paragraph 1 to 3 shall be subject to punishment."
 		},
 		{
 			"number": 5600,
