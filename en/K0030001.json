@@ -3,7 +3,7 @@
 	"LawLevel": "法律",
 	"EngLawName": "Railway Act",
 	"name": "鐵路法",
-	"EngLawModifiedDate": "20220622",
+	"EngLawModifiedDate": "20230628",
 	"histories": [
 		"Promulgated by the Presidential Decree on January 3, 1958",
 		"Amended on January 21, 1959",
@@ -14,7 +14,8 @@
 		"Amended on June 18, 2014",
 		"Amended on November 19, 2016",
 		"Amended and promulgated article 19-1, article 40, article 56-4 and article 56-5 by Presidential Order No. 10900053571 and effective on May 19, 2020.",
-		"Amendment to Articles 4, 20, 32, 34-1, 36, 40, 41, 56-5, 57, 66-1, 67, 67-2, 70, and addition of Articles 21-1, 47-1, 56-6 and deletion of Article 23 promulgated on June 22, 2022."
+		"Amendment to Articles 4, 20, 32, 34-1, 36, 40, 41, 56-5, 57, 66-1, 67, 67-2, 70, and addition of Articles 21-1, 47-1, 56-6 and deletion of Article 23 promulgated on June 22, 2022.",
+		"Amended on June 28, 2023"
 	],
 	"divisions": [
 		{
@@ -425,11 +426,19 @@
 		},
 		{
 			"number": 6800,
-			"content": "Unauthorized occupation of and destruction to railway land, or damage to railway facilities, in addition to punishment for violations under Criminal Act, the damage or hirer shall also be demanded to restore the land to its original state, reimburse restoration fees, or compensate under laws.\r\nUnauthorized construction on railway land assigned under Article 7 after announcement and boundary marking, prohibiting or restricting construction may be demolished by railway authorities jointly with relative authorities."
+			"content": "In the event of occupation or destruction of railway land or damage to railway facilities without authorization, the offense shall be prosecuted for investigation of the involved criminal liabilities; in addition, the offender(s) or their employer(s) shall be notified to complete restitution, to provide reimbursement for the restoration cost, or to provide compensation in accordance with the law.\r\nWhen land is designated for railway use in accordance with Article 7 via announcement or marking with boundary markers, and is prohibited or restricted from construction, and if construction is still arbitrarily carried out, the railway authorities may demolish the construction in consultation with the relevant authorities."
 		},
 		{
 			"number": 6801,
-			"content": "In case of any of the following occur, the violator shall be fined a minimum of NT$ 10,000, not to exceed NT$ 50,000:\r\n(1) Stacking placing or throwing objects onto railway track or relevant equipment that could jeopardize operational safety.\r\n(2) Carrying dangerous or combustible goods into railway route, depot, station or vehicle without allowance, without informing authorities or giving false information.\r\n(3) Arbitrarily manipulation of a railway station, depot equipment or jeopardizing the normal working of railway system and equipment in any manner.\r\n(4) Throwing or discharging objects onto the running train.\r\n(5) Arbitrarily locking the carriage, or obstructing railway personnel from executing his/her duty, or jeopardizing public safety in any method."
+			"content": "In the event of any of the following circumstances, a fine of at least NT$10,000 but no more than NT$1 million shall be imposed:\r\n1. Stacking, placing, or throwing objects onto railway tracks or related equipment in a way that could obstruct safe vehicle operation.\r\n2. Carrying hazardous or flammable materials into railway routes, depots, stations, or vehicles without permission; consigning hazardous goods without notification or with false information.\r\n3. Arbitrarily manipulating railway stations or vehicle equipment, or hindering the normal operation of system equipment in any other way.\r\n4. Tossing or discharging objects at running trains.\r\n5. Arbitrarily locking carriages, or in any other way obstructing railway personnel from executing their duties or endangering public safety."
+		},
+		{
+			"number": 6802,
+			"content": "Any person who endangers the normal functioning of important railway stations, depots, facilities, or equipment via theft, destruction, or other illegal methods shall be subject to a prison sentence of at least one year but no more than seven years, which may be combined with a fine of up to NT$10 million.\r\nAny person who attempts to endanger national security or social stability and commits the preceding offense shall be subject to a prison sentence of at least three years but no more than ten years, which may be combined with a fine of up to NT$50 million.\r\nIn the event that the circumstances in either of the preceding paragraphs result in a disaster, the sentence shall be increased by one half. If such circumstances result in the death of another person, the offender shall be subject to life imprisonment or a prison sentence of at least seven years, which may be combined with a fine of up to NT$100 million; if such circumstances lead to serious injury to another person, the offender shall be subject to a prison sentence of at least five years but no more than twelve years, which may be combined with a fine of up to NT$80 million.\r\nAny person attempting to commit a crime described in paragraph 1 or 2 shall be punished."
+		},
+		{
+			"number": 6803,
+			"content": "Any person who obstructs the normal functioning of the core information and communications system(s) of important railway stations, depots, facilities, or equipment via any of the following methods shall be subject to a prison sentence of at least one year, but no more than seven years, which may be combined with a fine of up to NT$10 million:\r\n1. Entering their account password without due reason, cracking the protection measures for the used computer, or taking advantage of faults in the computer system to invade the computer or its related devices.\r\n2. Without due reason, interfering with the computer or its related devices via computer programs or other electromagnetic means.\r\n3. Without due reason, acquiring, deleting, or altering the electromagnetic records of the computer or its related devices.\r\nThe same shall also apply to any person who produces a computer program for themselves or any other person for the dedicated purpose of committing a crime in the preceding paragraph.\r\nAny person who commits the crimes referred to in the above two paragraphs with the intention to endanger national security or social stability shall be subject to a prison sentence of at least three years but no more than ten years, which may be combined with a fine of up to NT$50 million.\r\nIn the event that the circumstances in any of the preceding three paragraphs result in a disaster, the sentence shall be increased by one half. If such circumstances result in the death of another person, the offender shall be subject to life imprisonment or a prison sentence of at least seven years, which may be combined with a fine of up to NT$100 million; if such circumstances lead to serious injury to another person, the offender shall be subject to a prison sentence of at least five years but no more than twelve years, which may be combined with a fine of up to NT$80 million.\r\nAny person attempting to commit a crime described in paragraphs 1 to 3 shall be punished.\r\nThe scope of the important railway stations, depots, facilities, and equipment referred to in paragraph 1 of this article and paragraph 1 of the preceding article shall be announced by the competent authority."
 		},
 		{
 			"number": 6900,

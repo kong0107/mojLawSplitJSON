@@ -1,9 +1,9 @@
 {
 	"pcode": "K0120001",
 	"LawLevel": "法律",
-	"EngLawName": "The Mass Rapid Transit Act",
+	"EngLawName": "Mass Rapid Transit Act",
 	"name": "大眾捷運法",
-	"EngLawModifiedDate": "20140604",
+	"EngLawModifiedDate": "20230628",
 	"histories": [
 		"Promulgated on July 1,1988.",
 		"Amendment to Articles 4,5,7,10,12~15,17,19,21,22,24,25,28,32,38,50,51,52,and addition of Articles 24-1,24-2,32-1,38-1,50-1,51-1 promulgated on May 28, 1997.",
@@ -11,7 +11,8 @@
 		"Amendment to Articles 3, 42,44 promulgated on May 21, 2003.",
 		"Amendment to Articles 5,7,7-1,13~15,19,25,45,50,50-1,52,53 and addition of Articles 13-1,45-1~45-3 promulgated on May 12, 2004.",
 		"Amendment to Articles 3,11~13,15,19,24,24-1,25,31,38,40,44,47,49~50-1,51-1,52,and addition of Articles 32-1,38-1 and deletion of Articles 32-1,38-1 promulgated on June 5, 2013. ",
-		"Amendment to Articles 24-2, 28 promulgated on June 4, 2014"
+		"Amendment to Articles 24-2, 28 promulgated on June 4, 2014",
+		"Amended on June 28, 2023"
 	],
 	"divisions": [
 		{
@@ -302,7 +303,15 @@
 		},
 		{
 			"number": 4800,
-			"content": "The construction or operation organization of a mass rapid transit system shall inform and request the individual or the person who hired the individual who occupies or destroys any land, vehicle or other facility of the mass rapid transit system to take responsibility for paying the repair costs or compensation in accordance with regulations. In cases where a criminal act is involved, the individuals shall be handed over to judicial authorities."
+			"content": "In the event of occupation or destruction of mass rapid transit system land, vehicles, or other facilities without authorization, the offense shall be prosecuted for investigation of the involved criminal liabilities; in addition, the mass rapid transit system shall notify the offender(s) or their employer(s) to complete restitution, to provide reimbursement for the restoration cost, or to provide compensation in accordance with the law"
+		},
+		{
+			"number": 4801,
+			"content": "Any person who endangers the normal functioning of important mass rapid transit system-operated stations, depots, facilities, or equipment via theft, destruction, or other illegal methods shall be subject to a prison sentence of at least one year but no more than seven years, which may be combined with a fine of up to NT$10 million.\r\nAny person who attempts to endanger national security or social stability and commits the preceding offense shall be subject to a prison sentence of at least three years but no more than ten years, which may be combined with a fine of up to NT$50 million.\r\nIn the event that the circumstances in either of the preceding paragraphs result in a disaster, the sentence shall be increased by one half. If such circumstances result in the death of another person, the offender shall be subject to life imprisonment or a prison sentence of at least seven years, which may be combined with a fine of up to NT$100 million; if such circumstances lead to serious injury to another person, the offender shall be subject to a prison sentence of at least five years but no more than twelve years, which may be combined with a fine of up to NT$80 million.\r\nAny person attempting to commit a crime described in paragraph 1 or 2 shall be punished."
+		},
+		{
+			"number": 4802,
+			"content": "Any person who obstructs the normal functioning of the core information and communications system(s) of important mass rapid transit system-operated stations, depots, facilities, or equipment via any of the following methods shall be subject to a prison sentence of at least one year, but no more than seven years, which may be combined with a fine of up to NT$10 million:\r\n1. Entering their account password without due reason, cracking the protection measures for the used computer, or taking advantage of faults in the computer system to invade the computer or its related devices.\r\n2. Without due reason, interfering with the computer or its related devices via computer programs or other electromagnetic means.\r\n3. Without due reason, acquiring, deleting, or altering the electromagnetic records of the computer or its related devices.\r\nThe same shall also apply to any person who produces a computer program for themselves or any other person for the dedicated purpose of committing a crime in the preceding paragraph.\r\nAny person who commits the crimes referred to in the above two paragraphs with the intention to endanger national security or social stability shall be subject to a prison sentence of at least three years but no more than ten years, which may be combined with a fine of up to NT$50 million.\r\nIn the event that the circumstances in any of the preceding three paragraphs result in a disaster, the sentence shall be increased by one half. If such circumstances result in the death of another person, the offender shall be subject to life imprisonment or a prison sentence of at least seven years, which may be combined with a fine of up to NT$100 million; if such circumstances lead to serious injury to another person, the offender shall be subject to a prison sentence of at least five years but no more than twelve years, which may be combined with a fine of up to NT$80 million.\r\nAny person attempting to commit a crime described in paragraphs 1 to 3 shall be punished.\r\nThe scope of the important mass rapid transit system-operated stations, depots, facilities, and equipment referred to in paragraph 1 of this article and paragraph 1 of the preceding article shall be as announced by the central competent authority."
 		},
 		{
 			"number": 4900,
@@ -314,7 +323,7 @@
 		},
 		{
 			"number": 5001,
-			"content": "1. Offenders shall be subject to a fine of more than NT$10,000 and less than NT$50,000 in any of the following situations:\r\n(1) Bringing hazardous or combustible substances into mass rapid transit routes, depots, stations or trains without permission\r\n(2) Tamper with station or train facilities, hindering normal operation of trains or power and security systems\r\n(3) Violate Paragraph 3 of Article 44, by crossing mass rapid transit routes without using overpasses or underground passages\r\n2. Paragraph 2 of the preceding article shall apply to all persons who commit any of the violations listed in the preceding paragraph.\r\n3.For persons under fourteen years of age violating the regulations referred to  Paragraph 1 of this article due to lack of oversight from their legal representatives or guardians, their legal representatives or guardians shall be punished."
+			"content": "In the event of any of the following circumstances, a fine of at least NT$10,000 but no more than NT$1 million shall be imposed:\r\n1. Carrying materials announced as hazardous or flammable into the routes, depots, stations, or vehicles of a mass rapid transit system without permission.\r\n2. Arbitrarily manipulating stations or vehicle equipment, or obstructing normal functioning of vehicle operations, electric power, or security system equipment.\r\n3. Violating Article 44, Paragraph 3 by not using overpasses or underground passages when crossing a mass rapid transit system route with exclusive right-of-way.\r\nIn any of the preceding circumstances, Paragraph 2 of the preceding Article shall apply.\r\nIn the event that any person under the age of 14 commits an offense as referred to in the preceding paragraph 1, due to negligence in supervision by their legal representative or guardian, then punishment shall be imposed on said person’s legal representative or guardian."
 		},
 		{
 			"number": 5100,

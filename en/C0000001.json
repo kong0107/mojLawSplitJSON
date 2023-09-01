@@ -3,7 +3,7 @@
 	"LawLevel": "法律",
 	"EngLawName": "Criminal Code of the Republic of China",
 	"name": "中華民國刑法",
-	"EngLawModifiedDate": "20220218",
+	"EngLawModifiedDate": "20230531",
 	"histories": [
 		"387 clauses established and published on march 10, 1928 and promulgated on September 1, 1928.\r\n  357 clauses amended and published on January 1, 1935 and promulgated on July 1, 1935",
 		"Amendment to Article 5 promulgated on November 7, 1948",
@@ -53,7 +53,9 @@
 		"Deletion of Article 239；amendment to Article 245 promulgated on June 16, 2021",
 		"Amendment to Article 78、79、140、141、266 promulgated on January 12, 2022",
 		"Amendment to Article 185-3 promulgated on January 28, 2022",
-		"Amendment to Article 87、98 promulgated on February 18, 2022"
+		"Amendment to Article 87、98 promulgated on February 18, 2022",
+		"Amendment to Articles 10,91-1 ; addition of Articles 319-1,319-2, 319-3,319-4,319-5,319-6 and Chapter 28-1 promulgated on February 8,2023",
+		"Amendment to Articles 303,339-4 ; addition of Articles 302-1 promulgated on May 31, 2023"
 	],
 	"divisions": [
 		{
@@ -375,6 +377,13 @@
 				},
 				{
 					"type": "chapter",
+					"number": 2801,
+					"title": "Offense against Sexual Privacy and Synthetic Sexual Videos",
+					"start": 31901,
+					"end": 31906
+				},
+				{
+					"type": "chapter",
 					"number": 2900,
 					"title": "Offense of Larceny",
 					"start": 32000,
@@ -471,7 +480,7 @@
 		},
 		{
 			"number": 1000,
-			"content": "The term “not less than,” “not more than,” or “within” includes the given figure.\r\nThe term “public official” means the following persons:\r\n1. Those who empowered with legal function and power serve an organization of the state or a local autonomous body; and engaged in public affairs in accordance with law.\r\n2. Those who, entrusted by an organ of the state or a local autonomous body, are engaged in the public affairs within the authority of the entrusting organization.\r\nThe term “official document” means a document made by a public official in the course of his duty.\r\nThe term “serious physical injury” means one of the following listed injuries:\r\n1. Destruction of or seriously damage to the sight of one eye or both eyes.\r\n2. Destruction of or serious damage to the hearing of one eye or both ears.\r\n3. Destruction of or serious damage to the function of speech, taste, or smell.\r\n4. Destruction of or serious damage to the function of one limb or more limbs.\r\n5. Destruction of or serious damage to the function of reproduction.\r\n6. Other serious injury to body or to health that is either impossible or difficult to cure (is either not or unlikely curable).\r\nThe term “sexual intercourse” means the following listed sexual acts that are not based on rightful purposes:\r\n1. Insertion of a reproductive organ into the reproductive organ, anus or mouth of another person or an act of making them connected.\r\n2. Insertion of a body part or an object other than a reproductive organ into the reproductive organ or anus of another person or an act of making them connected.\r\nThe term “electromagnetic recording” means records for computer processing made through the use of electronic, magnetic, optical or other similar means.\r\nThe term “abuse” means any act of abuse or maltreatment of another person in a violent, coercive or inhumane way."
+			"content": "The term “not less than,” “not more than,” or “within” includes the given figure.\r\nThe term “public official” means the following persons:\r\n1. Those who empowered with legal function and power serve an organization of the state or a local autonomous body; and engaged in public affairs in accordance with law.\r\n2. Those who, entrusted by an organ of the state or a local autonomous body, are engaged in the public affairs within the authority of the entrusting organization.\r\nThe term “official document” means a document made by a public official in the course of his duty.\r\nThe term “serious physical injury” means one of the following listed injuries:\r\n1.Destruction of or seriously damage to the sight of one eye or both eyes.\r\n2.Destruction of or serious damage to the hearing of one eye or both ears.\r\n3.Destruction of or serious damage to the function of speech, taste, or smell.\r\n4.Destruction of or serious damage to the function of one limb or more limbs.\r\n5.Destruction of or serious damage to the function of reproduction.\r\n6.Other serious injury to body or to health that is either impossible or difficult to cure (is either not or unlikely curable).\r\nThe term “sexual intercourse” means the following listed sexual acts that are not based on rightful purposes:\r\n1.Insertion of a reproductive organ into the reproductive organ, anus or mouth of another person or an act of making them connected.\r\n2.Insertion of a body part or an object other than a reproductive organ into the reproductive organ or anus of another person or an act of making them connected.\r\nThe term “electromagnetic recording” means records for computer processing made through the use of electronic, magnetic, optical or other similar means.\r\nThe term “abuse” means any act of abuse or maltreatment of another person in a violent, coercive or inhumane way.\r\nThe term “sexual image” means any image or electromagnetic record that has the contents prescribed in any of the following Subparagraphs:\r\n1.Acts prescribed in Subparagraphs 1 or 2 of Paragraph 5.\r\n2.Genitals or private parts of the body that are able to objectively arouse sexual desire or shame.\r\n3.Acts that are able to objectively arouse sexual desire or shame by touching the part prescribed in the preceding paragraph with the body or utensils.\r\n4.Other sex-related acts that are able to objectively arouse sexual desire or shame."
 		},
 		{
 			"number": 1100,
@@ -839,7 +848,7 @@
 		},
 		{
 			"number": 9101,
-			"content": "Any person committing an offense specified in Articles 221 to 227, 228, 229 , 230, 234, item 2 of paragraph 2 of Article 332, item 2 of Article 334, and item 1of paragraph 2 of Article 348 and its special laws and has one of the following conditions may be ordered to a suitable establishment for compulsory treatment:\r\n1. To be found through appraisal and evaluation during the period of receiving counseling or cure and before the expiration of the execution as having the danger of committing the offense again.\r\n2. To be found through appraisal and evaluation while receiving physical and mental cure or counseling education under the provisions of other separate law as having the danger of committing the offense again.\r\nDuring the period of the execution specified in the preceding paragraph, appraisal and evaluation shall be performed annually until the danger of recommitting the offense has been remarkably reduced to see whether it is necessary to stop the cure."
+			"content": "Any person committing an offense specified in Articles 221 to 227, 228, 229 , 230, 234, item 2 of paragraph 2 of Article 332, item 2 of Article 334, and item 1of paragraph 2 of Article 348 and its special laws and has one of the following conditions may be ordered to a suitable establishment for compulsory treatment:\r\n1.To be found through appraisal and evaluation during the period of receiving counseling or cure and before the expiration of the execution as having the danger of committing the offense again.\r\n2.To be found through appraisal and evaluation while receiving physical and mental cure or counseling education under the provisions of other separate law as having the danger of committing the offense again.\r\nThe period of execution prescribed in the preceding paragraph shall be five years utmost; and before the expiration of the execution period, the prosecutor, if deeming it necessary to extend, may apply to the court for permission to extend such period. The first extension period shall be three years utmost, and the second and subsequent extension periods shall be one year utmost, respectively. However, if it is deemed unnecessary to continue the execution period, the court may suspend the execution of the treatment.\r\nIf one of the circumstances prescribed in paragraph 1 occurs after the execution of the treatment is suspended, the court may issue the order of attending any suitable premise to continue the compulsory treatment.\r\nThe period of compulsory treatment prescribed in the preceding paragraph shall be calculated altogether with the period already executed before the suspension of treatment.\r\nDuring the execution or extension period prescribed in the three paragraphs above, it shall be assessed and evaluated annually to determine whether it is necessary to continue the treatment."
 		},
 		{
 			"number": 9200,
@@ -1770,8 +1779,12 @@
 			"content": "A person who without authority takes another into custody or by other illegal means deprives him of his freedom of movement shall be sentenced to imprisonment for not more than five years, short-term imprisonment, or a fine of not more than nine thousand dollars.\r\nIf death results from the commission of the offense, the offender shall be sentenced to life imprisonment or imprisonment for not less than seven years; if aggravated injury results, the offender shall be sentenced to imprisonment for not less than three years but not more than ten years.\r\nAn attempt to commit an offense specified in paragraph 1 is punishable."
 		},
 		{
+			"number": 30201,
+			"content": "A person who commits the offense prescribed in paragraph 1 of the preceding Article under any of the following circumstances shall be sentenced to an imprisonment for not less one year but not more than seven years, and may also be fined not more than one million dollars:\r\n1.Offense committed by three or more persons.\r\n2.Offense committed by carrying weapons.\r\n3.Offense against a mentally, physically or otherwise handicapped person.\r\n4.Abuse against the victim.\r\n5.Depriving the victim of freedom of movement for seven days or more.\r\nA person who causes death shall be sentenced to life imprisonment or an imprisonment of not less than ten years; anyone who causes severe injuries shall be sentenced to an imprisonment for not less five years but not more than twelve years.\r\nAn attempt to commit an offense specified in subparagraphs 1 to 4 of paragraph 1 is punishable."
+		},
+		{
 			"number": 30300,
-			"content": "A person who commits an offense specified in paragraph 1 or 2 of the preceding article against his lineal blood ascendant shall be subject to the punishment prescribed for such an offense by increasing it up to one half."
+			"content": "A person who commits an offense specified in paragraph 1 or 2 of the preceding two Articles against his lineal blood ascendant shall be subject to the punishment prescribed for such an offense by increasing it up to one half."
 		},
 		{
 			"number": 30400,
@@ -1856,6 +1869,30 @@
 		{
 			"number": 31900,
 			"content": "Prosecution for an offense specified in Articles 315, 315-1, and 316 through 318-2 may be instituted only upon complaint."
+		},
+		{
+			"number": 31901,
+			"content": "A person who takes photos, videos, electromagnetic records, or use other technological means to record sexual images of the victims without consent shall be sentenced to an imprisonment of not more than three years.\r\nA person who intends to make profits by providing premises, tools or equipment to facilitate others to perform the acts prescribed in the preceding paragraph shall be sentenced to an imprisonment of not more than five years and may also be fined not more than five hundred thousand dollars.\r\nA person that commits the offense prescribed in paragraph 1 with the intention of making profits, distributing, broadcasting, displaying publicly, or using other means for viewing by others shall be punished according to the provisions of the preceding paragraph.\r\nAn attempt to commit an offense specified in one of the preceding three paragraphs is punishable."
+		},
+		{
+			"number": 31902,
+			"content": "A person who records sexual images by means of violence, coercion, intimidation or other means against the will of the victims by taking photos, videos, electromagnetic records or other technological methods or make the victims record such images by themselves shall be sentenced to an imprisonment of not more than five years and may also be fined not more than five hundred thousand dollars.\r\nA person who intends to make profits by providing premises, tools, or equipment to facilitate others to perform the acts prescribed in the preceding paragraph shall be sentenced to an imprisonment for not less than six months but not more than five years, and may also be fined not more than five hundred thousand dollars.\r\nA person that commits the offense prescribed in paragraph 1 with the intention of making profits, distributing, broadcasting, displaying publicly, or using other means for viewing by others shall be punished according to the provisions of the preceding paragraph.\r\nAn attempt to commit an offense specified in one of the preceding three paragraphs is punishable."
+		},
+		{
+			"number": 31903,
+			"content": "A person who reproduces, distributes, broadcasts, delivers, displays publicly, or uses other means to allow others to view sexual images without the consent of victims shall be sentenced to an imprisonment of not more than five years, and may also be fined not more than five hundred thousand dollars.\r\nA person who commits the offense of the preceding paragraph and the sexual images concerned contained the contents prescribed in paragraphs 1 to 3 of Article 319-1 shall be sentenced to an imprisonment for not less than six months but not more than five years, and may also be fined not more than five hundred thousand dollars.\r\nA person who commits the offense prescribed in paragraph 1 and the sexual images concerned contained the contents prescribed in paragraphs 1 to 3 of the preceding Article shall be sentenced to an imprisonment for not less than one year but not more than seven years, and may also be fined not more than seven hundred thousand dollars.\r\nA person who commits the offense of the preceding three paragraphs with the intention of making profit shall be subject to the punishment prescribed for such an offense by increasing it up to one half. The same applies to those who sell sexual images prescribed in the preceding three paragraphs.\r\nAn attempt to commit an offense specified in one of the preceding four paragraphs is punishable."
+		},
+		{
+			"number": 31904,
+			"content": "A person who intends to distribute, broadcast, deliver, display publicly, or use other means to allow others to view the victims’ synthetic sexual images generated using computer synthesis or other technological methods, which is able to cause harm to such victims, shall be sentenced to an imprisonment of not more than five years, detention, or fined not more than five hundred thousand dollars.\r\nThe same applies to distribution, broadcast, delivery, public display, or using other methods to allow others to view the aforementioned sexual images, which is able to cause harm to victims.\r\nA person who commits the crimes mentioned in the preceding two paragraphs with the intention of gaining profit shall be sentenced to the imprisonment of not more than seven years, and may also be fined not more than seven hundred thousand dollars. The same applies to those who sell sexual images in the preceding two paragraphs."
+		},
+		{
+			"number": 31905,
+			"content": "The attachments to the sexual images and objects prescribed in Articles 319-1 to the preceding Article, regardless of whether they belong to the perpetrator or not, shall be confiscated."
+		},
+		{
+			"number": 31906,
+			"content": "The prosecution for offenses prescribed in paragraph 1 of Article 319-1 and its attempt, and paragraph 1 of Article 319-3 and its attempt may be instituted only upon complaint."
 		},
 		{
 			"number": 32000,
@@ -1955,7 +1992,7 @@
 		},
 		{
 			"number": 33904,
-			"content": "A person who commits the offense of fraud under Article 339 and who has any of the following events shall be sentenced to imprisonment for no less than one year and no more than seven years; in addition thereto, a fine of no more than one million yuan may be imposed:\r\n1. Offense in the name of a government agency or public official without authorization.\r\n2. Offense by three or more persons.\r\n3. Offense by dissemination of false information to the general public through broadcasting TV, electronic communication, Internet or other media.\r\nAn attempt to commit an offense specified in the preceding paragraph is punishable."
+			"content": "A person who commits the offense of fraud under Article 339 and who has any of the following events shall be sentenced to imprisonment for no less than one year and no more than seven years; in addition thereto, a fine of no more than one million yuan may be imposed:\r\n1.Offense in the name of a government agency or public official without authorization.\r\n2.Offense by three or more persons.\r\n3.Offense by dissemination of false information to the general public through broadcasting TV, electronic communication, Internet or other media.\r\n4.The offense by using computer synthesis or other technological methods to produce synthetic images, sounds, or electromagnetic records about others is punishable.\r\nAn attempt to commit an offense specified in the preceding paragraph is punishable."
 		},
 		{
 			"number": 34000,
