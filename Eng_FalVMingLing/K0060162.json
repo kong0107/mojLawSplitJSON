@@ -1,0 +1,217 @@
+{
+	"法規性質": "命令",
+	"英文法規名稱": "Regulations Governing the Establishment and Use of Mobile Broadband Dedicated Telecommunications Networks",
+	"中文法規名稱": "行動寬頻專用電信網路設置使用管理辦法",
+	"法規網址": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0060162",
+	"最新英文異動日期": "20230601",
+	"沿革內容": "1.Promulgated on June 1,2023",
+	"法規內容": [
+		{
+			"編章節": "Chapter I General Provisions"
+		},
+		{
+			"條號": "Article 1",
+			"條文內容": "The Regulations are formulated in accordance with the Telecommunications Management Act（hereinafter referred to as the Act）, Article 50, Paragraph 7."
+		},
+		{
+			"條號": "Article 2",
+			"條文內容": "The competent authority herein referred to is the Ministry of Digital Affairs."
+		},
+		{
+			"條號": "Article 3",
+			"條文內容": "The terms used herein are defined as follows:\r\n1. Mobile broadband dedicated network: Refers to a network established for private use in the domain approved for installation, utilizing the 4.8–4.9 GHz frequency band distributed to the installer and the 5th generation communications technology released by the International Telecommunication Union（ITU）or the 3rd Generation Partnership Project（3GPP）. Its network architecture is a telecommunications network composed of a core network, access network, and transmission network.\r\n2. Core network: Refers to the software or hardware components equipped with the Access Management Function（AMF）, Session Management Function（SMF）, Authentication Server Function（AUSF）, Unified Data Management（UDM）, Policy Control Function（PCF）, User Plane Function（UPF）, among others.\r\n3. Access network: Refers to the software or hardware components connecting terminal equipment with the core network or other telecommunications networks by transmitting and receiving radio signals through the base station or access point.\r\n4. Base station: Refers to the radio station used to transmit and receive radio wave signals on the mobile broadband dedicated telecommunications network, as well as for communications of the mobile broadband dedicated telecommunications network’s terminal equipment.\r\n5. Terminal equipment: Refers to the equipment interconnecting with the terminal point of the mobile broadband dedicated telecommunications network via a radio transmission medium and communicating through electromagnetic waves.\r\n6. Indoor: Refers to a space above ground, below ground, or in transport vehicles that is enclosed except for doors, windows, and passages."
+		},
+		{
+			"條號": "Article 4",
+			"條文內容": "Mobile broadband dedicated telecommunications networks are categorized as public service networks or private networks in accordance with their established application.\r\nA mobile broadband dedicated telecommunications network shall be established only after the competent authority issues the letter of approval for the network establishment plan and the frequency use certificate.\r\nAfter the establishment of a mobile broadband dedicated telecommunications network is completed, unless otherwise required by the Regulations, prior to the use of the network, the competent authority shall inspect it and issue the mobile broadband dedicated telecommunications network license if the inspection is passed."
+		},
+		{
+			"條號": "Article 5",
+			"條文內容": "Those who establish a mobile broadband dedicated telecommunications network（hereinafter referred to as the installer）shall establish the network in their own name.\r\nEstablished mobile broadband dedicated telecommunications network may merge the core network of others or access other networks.\r\nThe mobile broadband dedicated telecommunications networks established by different installers shall not be interconnected. The same applies to the mobile broadband dedicated telecommunications networks of a single installer but with varying establishment purposes."
+		},
+		{
+			"條號": "Article 6",
+			"條文內容": "Those who are approved by the competent authority for the use of the mobile broadband dedicated telecommunications network shall comply with the following requirements:\r\n1. No violation of the established purpose, application scenario, and established application.\r\n2. No offer of public communications service."
+		},
+		{
+			"條號": "Article 7",
+			"條文內容": "Established mobile broadband dedicated telecommunications networks that merge the core network of others or access other networks shall comply with the following requirements:\r\n1. No mutual access shall be made to the telecommunication networks established by others through the core network or access networks, except under the circumstances referred to in the proviso of the Act, Article 50, Paragraph 5.\r\n2. It shall have the capacity to manage and control the core network or access networks.\r\n3. The provider of the core network or access networks shall not be a Mainland China investor.\r\n4. Core network installers shall comply with the relevant laws and regulations of the Republic of China in their data collection, processing, and utilization, and have complete control over the content of the stored data. In principle, the core network data center shall be established within the territory of the Republic of China.  For those established outside the territory of the Republic of China, their operators shall have a fixed business site within the Republic of China."
+		},
+		{
+			"條號": "Article 8",
+			"條文內容": "A mobile broadband dedicated telecommunications network that connects to cloud services shall have an endpoint and meet the following requirements:\r\n1. No mutual communications shall be made with the telecommunications network terminal equipment established by others.\r\n2. No access shall be made to the telecommunications network established by others.\r\n3. No other person shall access the mobile broadband dedicated telecommunications network set up by the installer.\r\n4. No connections shall be made to public telecommunications networks through cloud services.\r\nThe endpoint referred to above is software and hardware devices that control and manage the traffic and routing of the mobile broadband dedicated telecommunications network connecting to cloud services to ensure the independence and closure of the mobile broadband dedicated telecommunications network.\r\nThe restrictions in Paragraph 1 of this Article shall not apply to any of the circumstances referred to in the proviso of the Act, Article 50, Paragraph 5."
+		},
+		{
+			"條號": "Article 9",
+			"條文內容": "Those who apply for the establishment of a mobile broadband dedicated telecommunications network（hereafter referred to as the applicant）shall have the access right to the establishment domain.\r\nBoth the applicant and installer shall not be a Mainland China Investor."
+		},
+		{
+			"條號": "Article 10",
+			"條文內容": "If two or more applicants file an application for the same domain, unless otherwise provided by laws or contracts, the applicants shall coordinate their harmonious sharing of the frequency spectrum on their own.\r\nIn the case that an applicant sets up a base station and its radio wave coverage is adjacent to or overlaps with the scope of an established network domain or an established microwave radio station interference protection coordination area, the applicant shall obtain the consent of the established network installer or established microwave radio station installer in the installation domain, and submit the frequency spectrum harmonious sharing agreement or other consent documents when filing their application."
+		},
+		{
+			"編章節": "Chapter II Application for Establishment Review"
+		},
+		{
+			"編章節": "Section 1 Documents required for the establishment application"
+		},
+		{
+			"條號": "Article 11",
+			"條文內容": "Applicants shall prepare the following documents and file their application with the competent authority:\r\n1. The establishment application form.\r\n2. The network establishment plan.\r\n3. Documents proving the access right to the establishment domain（including but not limited to the notarized contracts and land and building registration transcripts as supporting evidence）. However, the applicant that is a government agency, public school, state-owned business, or non-departmental public body is not required to submit such documents.\r\n4. The frequency spectrum harmonious sharing agreement or other consent documents referred to in the preceding Article.\r\n5. Except for government agencies, public schools, state-owned businesses, and non-departmental public bodies, those that apply for the establishment of a public service network shall attach a letter issued by the industry competent authority or the agency providing public services to confirm that the establishment meets the purpose and application of public services.\r\n6. Other documents designated by the competent authority."
+		},
+		{
+			"條號": "Article 12",
+			"條文內容": "The following items shall be specified in the network establishment plan referred to in the preceding Article, Paragraph 1, Subparagraph 2:\r\n1. Establishment purpose, establishment application, and application scenario.\r\n2. Scope of the establishment domain（including the description of the indoor or outdoor scope and surface area）.\r\n3. Radio frequency use plan:\r\n(1) The radio frequency, bandwidth, transmission power, and radio wave coverage area to be used in respective areas of the installation domain. The topographic map or electronic map with latitude and longitude information of the radio wave coverage area shall be available.\r\n(2) Deployment of Time-Division Duplexing Uplink-Downlink（TDD UL-DL）and subcarrier spacing.\r\n4. Necessary anti-interference plans.\r\n5. Network architecture.\r\n6. Network cyber security detection and protection planning.\r\n7. Those that connect to cloud services shall attach the description of the application scenario plan and the cyber security maintenance plan. The content of the cyber security maintenance plan shall at least include cyber security objectives and maintenance scope, risk assessment, protection and control measures, and the event reporting mechanism.\r\n8. Brands, models, functions, capacity, manufacturer’s company name and nationality of the major telecommunications equipment（including the core network, base station, and other control components）.\r\n9. Confirmation that the use of the telecommunications equipment meets the national security concerns of relevant agencies.\r\n10. Base station establishment plan（including the base station type, frequency, bandwidth, transmission power, establishment area distribution diagram）.\r\n11. Network identifier establishment plan.\r\n12. Network maintenance management and physical security plan.\r\n13. Other matters specified by the competent authority.\r\nThose that merge the core network of others or access other networks in their network architecture as referred to in the preceding Paragraph, Subparagraph 5 shall comply with the requirements of Article 7, and submit the agreement documents concerning the merged core network of others or access to other networks. Those that apply for the establishment of a public service network shall additionally submit a letter of consent issued by the industry competent authority or the agency providing public services.\r\nIf those that process the procurement of the major telecommunications equipment referred to in Paragraph 1, Subparagraph 8 in accordance with the Government Procurement Act or other regulations do not specify relevant information in their application, instead of providing such information, they may issue an affidavit. However, after completing the procurement, they shall report to the competent authority for future reference.\r\nThe network identifier establishment plan referred to in  Paragraph 1, Subparagraph 11 shall include the management of the Public Land Mobile Network Identifier（PLMN ID）and the Network Identifier（NID）.\r\nThe aforementioned PLMN ID is composed of the Mobile Country Code（MCC）and Mobile Network Code（MNC）, in which the MCC code shall be set to be 999, whereas the MNC code shall be determined by the applicant."
+		},
+		{
+			"編章節": "Section 2 Review of establishment applications"
+		},
+		{
+			"條號": "Article 13",
+			"條文內容": "The standards for review of mobile broadband dedicated telecommunication network establishment applications are as follows:\r\n1. The planning in respect to the established purpose, establishment area, and domain scope shall be rational.\r\n2. The distributed frequency shall not have obstructive interference.\r\n3. The network architecture and its establishment shall be consistent with the established purpose.\r\n4. The telecommunications equipment shall meet the national security considerations of relevant agencies.\r\n5. The network maintenance management and physical security plans are complete.\r\n6. The network cyber security detection and protection plan shall be rational.\r\n7. The application scenario for connecting to cloud services shall meet the established purpose and application, and the mobile broadband dedicated telecommunications network shall not form a part of the public telecommunication network after the connection.\r\n8. The combined core network or access network shall meet the requirements of Article 7.\r\n9. The base station plan shall meet the requirements of relevant laws and regulations.\r\n10. Other matters required by the Regulations or specified by the competent authority."
+		},
+		{
+			"條號": "Article 14",
+			"條文內容": "In case of any of the following circumstances occurring to the network establishment plan, the competent authority shall conduct a special review:\r\n1. Those that submit scenario planning for connecting to cloud services in accordance with Article 12, Paragraph 1, Subparagraph 7.\r\n2. Other cases considered necessary by the competent authority.\r\nThe competent authority shall invite relevant agencies, experts, and academics to join the special review."
+		},
+		{
+			"條號": "Article 15",
+			"條文內容": "If the network establishment plan passes the review, the competent authority will issue the letter of approval and the frequency use certificate for the network establishment plan."
+		},
+		{
+			"編章節": "Chapter III Establishment and Inspection of Mobile Broadband Telecommunications Networks"
+		},
+		{
+			"編章節": "Section 1 Base station establishment rules"
+		},
+		{
+			"條號": "Article 16",
+			"條文內容": "The applicant shall complete the base station registration and establishment within 6 months after receiving the letter of approval for the network establishment plan and the frequency use certificate.\r\nIn the event that the applicant fails to complete the establishment within the period stipulated in the preceding paragraph, they may give an account of the reasons and apply to the competent authority for extension within 2 weeks from the day that is 2 month before the expiration. The extension period shall be a maximum of 6 months and is limited to one time only, and the extension period shall not exceed the valid period of the frequency use certificate.\r\nAny change of the base station shall be registered.\r\nIn case of the circumstance referred to in Article 10, Paragraph 2 occurring while processing base station registration, the applicant shall submit the documents below in accordance with the establishment location:\r\n1. When the radio wave coverage of the base station is adjacent to or overlaps with the scope of an established network domain: the document showing the consent of the existing installer to the establishment.\r\n2. When the radio wave coverage of the base station is adjacent to or overlaps with the scope of an established microwave radio station interference protection coordination area: the document showing the consent of the established microwave radio station owner to the establishment."
+		},
+		{
+			"條號": "Article 17",
+			"條文內容": "The establishment of base station antennas shall not violate the Regulations Governing Management of Height Restrictions on Buildings and Other Obstacles Surrounding the Navigation Aid Equipment of Airport’s Flight Field.\r\nIf the height of the outdoor structure of the aforementioned antenna exceeds 60 meters above ground, the antenna shall be painted with aviation color marks and equipped with marker beacons, and shall maintain a safety clearance from high voltage lines for public safety."
+		},
+		{
+			"條號": "Article 18",
+			"條文內容": "If the antenna of the base station is covered by outdoor radio waves, its height and orientation shall ensure that no lawful buildings higher than the antenna are within the following distances from the front direction of the antenna:\r\n1. Base station with radio frequency equipment maximum output power greater than 10 watts: 15 meters\r\n2. Base station with radio frequency equipment maximum output power greater than 1.26 watts but less than 10 watts: 8 meters\r\nTo establish a mobile broadband dedicated telecommunications network, the radio wave power intensity of the establishment area boundary shall be less than -125 decibel-milliwatts（dBm）."
+		},
+		{
+			"條號": "Article 19",
+			"條文內容": "The radio frequency equipment of the base station shall be established and used only after receiving the inspection certificate issued by the National Communications Commission."
+		},
+		{
+			"條號": "Article 20",
+			"條文內容": "Establishment of the base station shall comply with the statutory laws and regulations of the Building Act, Civil Aviation Act, Urban Planning Act, Regional Planning Act, and Fire Services Act."
+		},
+		{
+			"條號": "Article 21",
+			"條文內容": "The transmission power of the base station shall meet the following requirements:\r\n1. The carrier output power shall comply with the Technical Specifications for Base Station Radio Frequency Equipment of Mobile Communications.\r\n2. The maximum electromagnetic wave power density of respective frequency bands shall comply with the exposure reference level of restricted time-varying electric fields, magnetic fields and electromagnetic fields of respective frequency bands exposed to the public in non-occupational sites, as referred to in the “Exposure Guidelines for Restricted Time-varying Electric Fields, Magnetic Fields, and Electromagnetic Fields”."
+		},
+		{
+			"條號": "Article 22",
+			"條文內容": "In case of any of the following circumstances occurring during the establishment and use of the base station, the competent authority may notify the installer and request correction within a prescribed deadline. The use of the base station shall be suspended prior to the completion of the correction:\r\n1. The municipal, county（city）government, or other government agency has determined by law that the base station shall not be established.\r\n2. Interference occurring after the establishment of the base station.\r\n3. Violation of Articles 17 to 21.\r\nThe aforementioned base station radio frequency equipment and affiliated facilities shall be handled in accordance with the Administrative Regulations on Manufacturing, Import and Report of the Controlled Telecommunications Radio-Frequency Devices."
+		},
+		{
+			"編章節": "Section 2 Inspection of mobile broadband dedicated telecommunications networks"
+		},
+		{
+			"條號": "Article 23",
+			"條文內容": "After completing the establishment of the base station and network, the applicant shall conduct the test in accordance with the following requirements before applying for inspection:\r\n1. To register the start and end dates for the test implementation at least 5 days prior to conducting the test.\r\n2. Each test shall last no longer than 5 days\r\nThe applicant shall attach the letter of approval for the network establishment plan, frequency use certificate, and the following documents to apply to the competent authority for inspection:\r\n1. Base station items:\r\n(1) The inspection application form.\r\n(2) Self-assessment of the inspection items designated by the competent authority and the inspection record list.\r\n(3) The base station equipment inspection detailed list.\r\n2. Network items:\r\n(1) The inspection application form.\r\n(2) Self-assessment of the inspection items designated by the competent authority and the inspection record list."
+		},
+		{
+			"條號": "Article 24",
+			"條文內容": "In the event that the administrator of a dedicated telecommunications network for experiments, research, and  development adapts the telecommunications equipment in the same installation place for use as a mobile broadband dedicated telecommunications network and there is no change in the network establishment plan, an application attaching the documents below for exemption from the inspection may be applied. The competent authority shall issue a mobile broadband dedicated telecommunications network license if the application is approved:\r\n1. Documents regarding approval of the establishment of the dedicated telecommunications network for experiments, research, and development.\r\n2. Frequency use certificate and network inspection approval certificate.\r\n3. Other documents designated by the competent authority.\r\nAn applicant may apply for exemption from inspection if they meet the following requirements. If the application is approved, the competent authority shall not issue the mobile broadband dedicated telecommunications network license; instead, the applicant is eligible to use the network during the valid period of the frequency use certificate:\r\n1. The establishment period is no more than 30 days.\r\n2. The total establishment period applied by the same applicant in the same year for the same domain is no more than 60 days."
+		},
+		{
+			"條號": "Article 25",
+			"條文內容": "In principle, the competent authority shall conduct document inspection, but, if necessary, onsite inspection will be implemented.\r\nWhen applying for inspection to the competent authority, the applicant shall provide the test equipment and necessary assistance required for the inspection.\r\nFor the onsite inspection, the competent authority shall notify the applicant of the scheduled inspection date, and the applicant shall cooperate with the competent authority to conduct the inspection in accordance with the inspection date.\r\nThose that fail to pass the onsite inspection may request reinspection. The reinspection date shall be set in cooperation with the competent authority and the reinspection is limited to one time only.\r\nIn case of failure to pass the inspection, the competent authority shall reject the application."
+		},
+		{
+			"條號": "Article 26",
+			"條文內容": "The competent authority will issue a mobile broadband dedicated telecommunications network license to those that pass the inspection.\r\nThe valid period of the mobile broadband dedicated telecommunications network license shall not exceed the effective date of the frequency use certificate.\r\nIn case of loss or damage of the mobile broadband dedicated telecommunication network license, the applicant shall give an account of the reasons and apply to the competent authority for reissuance. If there is any change in the items stated in the license, the applicant shall apply to the competent authority for renewal.\r\nIn case of reissuance or revision of the mobile broadband dedicated telecommunications network license in accordance with the preceding requirements, the valid period of the reissued or renewed license shall be same as that of the original license.\r\nAfter the expiration of the mobile broadband dedicated telecommunications network license, if the installer still needs to continue to use the mobile broadband dedicated telecommunications network, they shall attach the renewal application form and apply to the competent authority to renew the mobile broadband dedicated telecommunications network license within 2 months from the day that is 3 months before the expiration of the license.\r\nUnless otherwise provided by laws and regulations, the mobile broadband dedicated telecommunications network license shall not be leased, lent, transferred, or pledged to others."
+		},
+		{
+			"編章節": "Section 3 Terminal equipment management"
+		},
+		{
+			"條號": "Article 27",
+			"條文內容": "The inspection certificate issued by the National Communications Committee is required for terminal equipment. The installer shall follow the method and format specified by the competent authority to submit or transmit the data covering the specifications and brand of the terminal equipment for registration. The same shall apply in case of any change.\r\nWhen the installer terminates the use of the terminal equipment, they shall cancel the registration."
+		},
+		{
+			"條號": "Article 28",
+			"條文內容": "The access of the terminal equipment to the mobile broadband dedicated telecommunications network shall be authorized and managed by the installer."
+		},
+		{
+			"編章節": "Chapter IV Use Management"
+		},
+		{
+			"編章節": "Section 1 Frequency use certificate management"
+		},
+		{
+			"條號": "Article 29",
+			"條文內容": "Unless otherwise provided by the Regulations, the valid period of the frequency use certificate shall be no more than 10 years.\r\nThe valid period of the frequency use certificate shall not exceed the following time limits:\r\n1. The time limit specified in the supporting evidence regarding the installer’s access right or management right to the established domain.\r\n2. The use time limit specified in the Table of Radio Frequency Allocations of the Republic of China."
+		},
+		{
+			"條號": "Article 30",
+			"條文內容": "The frequency use certificate shall not be transferred, leased, pledged, mortgaged, or otherwise disposed.\r\nIn the event that the frequency use certificate is lost or damaged or there is any change in the recorded items, the applicant shall attach relevant supporting documents and apply to the competent authority for reissuance, renewal, or correction."
+		},
+		{
+			"條號": "Article 31",
+			"條文內容": "After the change of the network establishment plan is approved by the competent authority, for those that require renewal of the frequency use certificate, the valid period of the renewed frequency use certificate shall be same as that of the original frequency use certificate.\r\nIn case of the installer’s early loss of his or her total right to use the establishment domain for any reason, the competent authority shall revoke his or her frequency use certificate. If this is the case, the installer shall notify the competent authority at least 1 month in advance and return the frequency use certificate."
+		},
+		{
+			"條號": "Article 32",
+			"條文內容": "After the expiration of the frequency use certificate, if the installer still needs to continue to use the mobile broadband dedicated telecommunications network, they shall attach the following documents and apply to the competent authority for renewal of the frequency use certificate within 2 months from the day that is 3 months before the expiration of the certificate:\r\n1. The renewal application form.\r\n2. The data proving the access right to the established domain（government agencies, public schools, state-owned businesses, and non-departmental public bodies are not required to attach such data）.\r\n3. Other documents specified by the competent authority."
+		},
+		{
+			"編章節": "Section 2 Changes of the network establishment plan"
+		},
+		{
+			"條號": "Article 33",
+			"條文內容": "In case of any of the following changes to the network establishment plan, the applicant shall give an account of the reasons, attach the pre and post change comparison table along with the explanation and the changed network establishment plan and report to the competent authority for approval:\r\n1. Establishment purpose, establishment application, and application scenario.\r\n2. Scope of the established domain.\r\n3. Radio frequency use plan.\r\n4. Necessary anti-interference plan.\r\n5. Network architecture.\r\n6. Network cyber security detection and protection plan.\r\n7. The application scenario plan for connecting to cloud services and the cyber security maintenance plan.\r\n8. The brands, models, functions, capacity, manufacturer’s company name and nationality of the major telecommunications equipment.\r\n9. Base station establishment plan（including the base station type, frequency, bandwidth, transmission power, and establishment area distribution diagram）.\r\n10. Network identifier establishment plan.\r\n11. Network maintenance management and physical security plan.\r\nProvided that the base station’s transmitter frequency, bandwidth, and transmission power do not exceed the scope approved by the frequency use certificate, those that change the base station establishment plan are not required to apply for the change of the network establishment plan. However, they shall attach the pre and post change comparison table along with the explanation, send it to the competent authority for future reference, and process the registration for the data change.\r\nIn case of loss of part of the right to use the establishment domain, the installer shall notify the competent authority at least 1 month in advance and register the change of the network establishment plan."
+		},
+		{
+			"條號": "Article 34",
+			"條文內容": "In case of any change to the following items, in addition to applying for the change of the network establishment plan as per the requirement of the preceding Article, the applicant shall also follow Article 23 to apply for the inspection of the network items:\r\n1. Network architecture.\r\n2. The application scenario plan for connecting to cloud services, and the cyber security maintenance plan.\r\n3. The brands, models, functions, capacity, manufacturer’s company name and nationality of the major telecommunications equipment（the part of the core network and control components）.\r\n4. Network identifier establishment plan.\r\n5. Network maintenance management and physical security plan.\r\nIn the event that the change of any of the following items involves the establishment or change of the outdoor base station, in addition to applying for the change of the network establishment plan as per the requirement in the preceding Article, the applicant shall follow Article 23 to apply for the inspection of the base station items and network items:\r\n1. Radio frequency use plan.\r\n2. Necessary anti-interference plan.\r\n3. The brands, models, functions, capacity, manufacturer’s company name and nationality of the major telecommunications equipment（the part of the outdoor base station）.\r\n4. Base station establishment plan."
+		},
+		{
+			"編章節": "Section 3 Frequency use management and inspection"
+		},
+		{
+			"條號": "Article 35",
+			"條文內容": "If the radio frequency used by the installer suffers interference from the radio frequencies of other established legal stations, the installer shall deal with it by negotiating and coordinating with the existing legal station installers.\r\nIf no agreement over the circumstance referred to in the preceding paragraph is reached, the installer shall report to the competent authority and deal with it in accordance with the priority sequence below:\r\n1. In the mobilization implementation phase, the military radio frequency shall be the priority.\r\n2. The missions of flight and boat navigation safety.\r\n3. The missions of disaster prevention and rescue.\r\n4. The order of importance of the nature of each business\r\n5. The sequence of approval and distribution of the radio frequency.\r\nThe installer shall provide the test equipment, contact channels, and relevant assistance required for the competent authority to take on the radio frequency interference issue and deal with the frequency interference related matters.\r\nIf the base station established by the installer interferes with the radio frequencies of other established legal stations, the installer shall use effective technology to improve it. If necessary, the installer shall suspend operation of the base station until the improvement has been made."
+		},
+		{
+			"條號": "Article 36",
+			"條文內容": "The competent authority shall conduct irregular inspections of the items in respect to mobile broadband dedicated networks, for which the installer shall cooperate."
+		},
+		{
+			"編章節": "Chapter 5 Supplementary Provisions"
+		},
+		{
+			"條號": "Article 37",
+			"條文內容": "If the documents required to be attached to an application are incomplete or the contents which should have been stated in the documents are incomplete, the competent authority shall request the applicant to make corrections within a prescribed deadline. If the corrections are not made or completed before the deadline, the application will not be accepted."
+		},
+		{
+			"條號": "Article 38",
+			"條文內容": "The installer shall pay the radio frequency use fee to the competent authority in accordance with the frequency use fee-charging standards."
+		},
+		{
+			"條號": "Article 39",
+			"條文內容": "The competent authority may commission legal persons or organizations to accept, review, inspect, and manage applications for mobile broadband dedicated telecommunications networks, and coordinate frequency interference matters.\r\nDuring the commissioned period, the aforementioned legal persons or organizations shall comply with the competent authority’s requirements for elaborating on the progress of the commissioned business and reporting the execution status and results."
+		},
+		{
+			"條號": "Article 40",
+			"條文內容": "Should any of the following circumstances occur during the establishment, use, or management of mobile broadband dedicated telecommunications networks, it shall be processed in accordance with the Act, Article 77, Paragraph 1, Subparagraph 5:\r\n1. Violation of Article 4, Paragraph 3 or Article 34 by using a mobile broadband dedicated telecommunications network without passing the inspection.\r\n2. Violation of Article 7; Article 8, Paragraph 1; or Article 9, Paragraph 2 in respect of network establishment and use, and failure to make corrections within a prescribed deadline after notification by the competent authority.\r\n3. Violation of Article 26, Paragraph 6 by leasing, lending, transferring, or pledging the mobile broadband dedicated telecommunication network license to others.\r\n4. Violation of Article 30, Paragraph 1 by transferring, leasing, pledging, or mortgaging the frequency use certificate or disposing of it in other ways.\r\n5. Violation of Article 35, Paragraph 4 in respect of base station’s interference with the radio frequencies of other established legal radio stations, in which no improvement is made within a prescribed deadline after notification by the competent authority or the base station remains in use after being ordered to suspend use.\r\n6. Violation of Article 36 by failing to cooperate with the competent authority in the implementation of the inspection.\r\nThose that violate Article 4, Paragraph 2 or Article 33 by establishing, adding, or changing a mobile broadband dedicated telecommunications network without approval shall be subject to the Act, Article 80, Paragraph 1, Subparagraph 3."
+		},
+		{
+			"條號": "Article 41",
+			"條文內容": "In case of any change or business transfer of the organization of the public service network installer, if the radio frequency, bandwidth, transmission power, and establishment location of the mobile broadband dedicated telecommunications network license remain unchanged, the installer shall attach the network establishment plan and apply to the competent authority for renewal of the frequency use certificate and mobile broadband dedicated telecommunications network license, with which the competent authority may directly renew the certificate and license."
+		},
+		{
+			"條號": "Article 42",
+			"條文內容": "The Regulations shall be enforced as of the date of promulgation."
+		}
+	]
+}
