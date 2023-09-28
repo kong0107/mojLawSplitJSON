@@ -3,18 +3,22 @@
 	"英文法規名稱": "Management Regulations on the Reuse of Transportation Industrial Waste",
 	"中文法規名稱": "交通事業廢棄物再利用管理辦法",
 	"法規網址": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=O0050071",
-	"最新英文異動日期": "20150105",
+	"最新英文異動日期": "20230621",
 	"附件": [
 		{
-			"檔案名稱": "Schedule 3 specified in Article 7.PDF",
-			"下載網址": "https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000004715"
+			"檔案名稱": "Schedule 1.pdf",
+			"下載網址": "https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008121"
 		},
 		{
-			"檔案名稱": "Schedule 3 specified in Article 7.doc",
-			"下載網址": "https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000002651"
+			"檔案名稱": "Schedule 2：Application Form for Permission for Transportation Industrial Waste Reuse Individual Case.pdf",
+			"下載網址": "https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008122"
+		},
+		{
+			"檔案名稱": "Schedule 3 specified in Article 7.PDF",
+			"下載網址": "https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008123"
 		}
 	],
-	"沿革內容": "1.Ministry of Transportation and Communications Promulgated on June 11,2003.\r\n2.Amended on April 20,2015",
+	"沿革內容": "1.Ministry of Transportation and Communications Promulgated on June 11,2003.\r\n2.Amended on April 20,2015\r\n3.Amendment to Article 2, 5～7, 8, 9, 14, and addition of Article 7-1 promulgated on June 21, 2023.",
 	"法規內容": [
 		{
 			"條號": "Article 1",
@@ -22,7 +26,7 @@
 		},
 		{
 			"條號": "Article 2",
-			"條文內容": "Definition:\r\n1.Industry: refer to those whose supervisor designated as Ministry of Transportation and Communications (the Ministry hereinafter) by central responsible authority according to Paragraph 4 of Article 2 of the Act.\r\n2.Reuse: refer to that operation self treats or sends to the recycling institutes to treat wastes into raw materials, admixture, materials, fuels, construction stuff, land improvement, or others approved by the Ministry.\r\n3.Recycling institute: limit to those factories (sites) registered in governmental files or legally waived from registration."
+			"條文內容": "Definition:\r\n1.Industry: refers to those whose supervisor designated as Ministry of Transportation and Communications (the Ministry hereinafter) by central responsible authority according to Paragraph 4 of Article 2 of the Act.\r\n2.Reuse: refers to that operation self treats or sends to the recycling institutes to treat wastes into raw materials, admixture, materials, fuels, construction stuff, land improvement, or others approved by the Ministry.\r\n3. Recycling institute: refers to agricultural, industrial and commercial factories (sites) that have been registered with government agencies or legally exempted from registration for collecting industrial waste to recycle."
 		},
 		{
 			"條號": "Article 3",
@@ -34,23 +38,27 @@
 		},
 		{
 			"條號": "Article 5",
-			"條文內容": "Before sent to recycling institutes for reuse, clearance of industry wastes shall be:\r\n1.self clearance by the industry .\r\n2.clearance by recycling institutes.\r\n3.authorized to legal transporters.\r\n4.authorized to legal transporters by recycling institute.\r\n5.authorized to public or private clearance institutes qualified by clearance proof.\r\n6.authorized to responsible authority"
+			"條文內容": "Before the industry wastes are sent to recycling institutes for reuse, the clearance of such wastes shall be done by the industry or the recycling institute in the following manner:\r\n1.self clearance\r\n2.authorized to public or private clearance institutes qualified by clearance proof."
 		},
 		{
 			"條號": "Article 6",
-			"條文內容": "The record of date, classification, title, amount, use, industry , recycling institute, recycling method, and treatment proof by industry and recycling institute for waste clearance and reuse, shall be preserved for over 3 years for later check.\r\nInstitutes which are designated to apply internet transporting by central responsible authority of the Act, shall be completed based on Subparagraph 2 of Paragraph 1 in Article 31 hereinbelow."
+			"條文內容": "The record of date, classification, title, amount, use, industry, recycling institute, recycling method, and treatment proof by industry and recycling institute for waste clearance and reuse shall be preserved.\r\nRelevant information such as the sales flow and quantity of reuse products and the inventory at the end of the previous month of the recycling institute shall be kept in operational records.\r\nThe records mentioned in the previous two paragraphs shall be properly kept for three years for later check.\r\nThe declaration of the records in the first paragraph, the industries and recycling institutes that are designated to apply internet transporting by central responsible authority of the Act shall be completed based on Subparagraph 2 of Paragraph 1 in Article 31 hereinbelow.\r\nRecycling institutes should take the initiative to report operational records in the second paragraph to the Industrial Waste Report and Management System of the central responsible authority on or before the 10th of each month.\r\nIn the event that a failure of the related software or hardware facilities occurs during the reporting of the operational record prescribed in the second paragraph and affects its completion by the time specified in the preceding paragraph, a supplemental report shall be made within one day of the completion of the repairing."
 		},
 		{
 			"條號": "Article 7",
-			"條文內容": "Waste reuse with some mature and largely applied technology may be conducted directly based on the classification and management listed in Schedule 3.\r\nWaste reuse may be conducted based on regulations set up by central competent authorities, or industrial waste reuse approved by central competent authorities may be conducted based on the content of management regulated by central competent authorities or based on the content described in the approved document.\r\nThose not listed in the classification and management described in the previous two paragraphs may be individually applied by co-work of recycling institutes for approval of the Ministry, then into legal reuse."
+			"條文內容": "Waste reuse with some mature and largely applied technology may be conducted directly based on the classification and management listed in Schedule 1.\r\nWaste reuse may be conducted based on regulations set up by central competent authorities, or industrial waste reuse approved by central competent authorities may be conducted based on the content of management regulated by central competent authorities or based on the content described in the approved document.\r\nThose not listed in the classification and management described in the previous two paragraphs may be individually applied by co-work of recycling institutes for approval of the Ministry, then into legal reuse.\r\nThe Ministry may suspend the reuse of the types and uses of industrial wastes listed in Schedule 1 of the First Paragraph if there is a risk of pollution of the environment; the reuse of such wastes may be resumed only when the cause of the pollution has eliminated."
+		},
+		{
+			"條號": "Article 7-1",
+			"條文內容": "If a recycling institute receives waste from an industry and the source, the use of the waste for reuse, or the item of the reuse product, the equipment in the plant, or the storage of the reuse product does not comply with the management method or the content of the permit document in Schedule 1, or if the inventory of the reuse product exceeds the cumulative output of the previous six months, the Ministry or the enforcement agency of this Act may order the institute to stop collecting the waste.\r\nIf a recycling institute sells reuse products and is qualified as a sales target for reuse products, or if the use of the reuse products does not comply with the management methods or the contents of the permit document in Schedule 1, the Ministry or the enforcement agency of this Act may order the institute to stop selling the reuse products.\r\nIn the event that the Ministry or the enforcement agency of this Act requests that the collecting of waste into the plant or the sale of reuse products be stopped, it shall submit documents or explanatory information proving the improvement of the situation for the approval of the original sanctioning agency before the collecting of waste into the plant or the sale of reuse products can be resumed."
 		},
 		{
 			"條號": "Article 8",
-			"條文內容": "For individually applied reuse, ten copies of application form and plan shall be co-prepared by industry and recycling institute, and sent for approval of the Ministry.\r\nReuse plan will include the followings:\r\n1.Introductory data of waste.\r\n2.Clearance method.\r\n3.Reuse method.\r\n4.Pollution control plan, such as clearance plan of waste remains after reuse.\r\n5.Relevant proofs and domestic and oversea records targeting on reuse feasibility.\r\n6.Marketing plan for reuse product.\r\n7.Emergency management plan.\r\n8.Others assigned by the Ministry"
+			"條文內容": "For individually applied reuse, ten copies of reuse application form (as shown in Schedule 2) and plan shall be co-prepared by industry and recycling institute, and sent for approval of the Ministry.\r\nReuse plan will include the followings:\r\n1.Introductory data of waste.\r\n2.Clearance method.\r\n3.Reuse method.\r\n4.Pollution control plan, such as clearance plan of waste remains after reuse.\r\n5.Relevant proofs and domestic and oversea records targeting on reuse feasibility.\r\n6.Marketing plan for reuse product.\r\n7.Emergency management plan.\r\n8.Others assigned by the Ministry."
 		},
 		{
 			"條號": "Article 9",
-			"條文內容": "Industry and recycling institutes without any proof or domestic and oversea records mentioned as Subparagraph 5 of Paragraph 2 in previous article, may co-work to propose reuse application form and test plan for approval of the Ministry to implement testing.  The test results may be files as domestic records for application provided in previous article.\r\nThe test plan includes:\r\n1.introductory data of waste, test amount, and test period.\r\n2.technology theory, equipment, and facility in waste reuse.\r\n3.methodology, process, and steps of test.\r\n4.clearance and pollution control in reuse."
+			"條文內容": "Industry and recycling institutes without any proof or domestic and oversea records mentioned as Subparagraph 5 of Paragraph 2 in previous article, may co-work to propose reuse application form (as shown in Schedule 3) and test plan for approval of the Ministry to implement testing. The test results may be files as domestic records for application provides in previous article.\r\nThe test plan includes:\r\n1.introductory data of waste, test amount, and test period.\r\n2.technology theory, equipment, and facility in waste reuse.\r\n3.methodology, process, and steps of test.\r\n4.clearance and pollution control in reuse."
 		},
 		{
 			"條號": "Article 10",
@@ -70,7 +78,7 @@
 		},
 		{
 			"條號": "Article 14",
-			"條文內容": "Based on announcement of classification and management and individual reuse program, recycling institute shall settle down the contract with industry  before waste reuse process, and send it to administrative unit of specially designated municipal government or country (city) government in municipality industry and recycling institute located, for check within 30 days after contract signing, and also informed to central responsible authority of the Act.  The same for any change or termination of the contract.\r\n           Contents of the contract mentioned in previous paragraph shall include:\r\n1.classification, gradients, and amount of operation waste.\r\n2.equipment, application, facility, and site in reuse.\r\n3.pricing, valid term, and adjustment methods.\r\n4.when unable to proceed for any reasons, disposal for remain reuse wastes.\r\n5.risk management to accidents."
+			"條文內容": "Based on announcement of classification and management and individual reuse program, recycling institute shall settle down the contract with industry before waste reuse process, and send it to administrative unit of specially designated municipal government or country (city) government in municipality industry and recycling institute located, for check within 30 days after contract signing, and also informed to central responsible authority of the Act. The same for any change or termination of the contract.\r\nContents of the contract mentioned in previous paragraph shall include:\r\n1.classification, gradients, and amount of operation waste.\r\n2.equipment, application, facility, and site in reuse.\r\n3. Validity period.\r\n4.when unable to proceed for any reasons, disposal for remain reuse wastes.\r\n5.risk management to accidents."
 		},
 		{
 			"條號": "Article 15",
