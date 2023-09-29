@@ -5,8 +5,21 @@
   "EngLawURL": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0090036",
   "EngLawModifiedDate": "20080519",
   "EngLawAbandonNote": "",
-  "EngLawAttachements": [],
-  "EngLawHistories": "1. Promulgated on January 6, 2000.\r\n2. Amendment to all Articles promulgated on May 19, 2008.",
+  "EngLawAttachements": [
+    {
+      "FileName": "附件一  Republic of China Ministry of Transportation & Communications Civil Aeronautics Administration Certificate of Designation for Aviation Products Certification.odt",
+      "FileURL": "https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008133"
+    },
+    {
+      "FileName": "附件二  Republic of China Ministry of Transportation & Communications Civil Aeronautics Administration Certificate of Designated Engineering Representative.odt",
+      "FileURL": "https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008134"
+    },
+    {
+      "FileName": "附件三  Republic of China Ministry of Transportation & Communications Civil Aeronautics Administration Certificate of Designated Manufacturing Inspection Representative.odt",
+      "FileURL": "https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008135"
+    }
+  ],
+  "EngLawHistories": "1.Promulgated on January 6, 2000.\r\n2.Amendment to all Articles promulgated on May 19, 2008.",
   "EngLawForeword": "",
   "EngLawArticles": [
     {
@@ -17,12 +30,12 @@
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 2",
-      "EngArticleContent": "The Civil Aeronautics Administration (hereinafter referred to as CAA) may delegate a qualified agency, body or individual to perform the certification of aviation products, appliances and parts (hereinafter referred to as certification functions)."
+      "EngArticleContent": "The Civil Aviation Administration (hereinafter referred to as CAA) may delegate a qualified agency, body or individual to perform the certification of aviation products, appliances and parts (hereinafter referred to as certification functions)."
     },
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 3",
-      "EngArticleContent": "The terms used in the Regulations herein are defined as below:\r\n1)“Appliance” means the major components of the aviation products, the failure of which will endanger the operation safety of the product.\r\n2)“Part” means parts and components that are used on aviation products and appliances.\r\n3)“Delegated Organization” means an agency or a body which conducts certification functions delegated by CAA.\r\n4)“Designated Representative” means an individual who conducts certification functions delegated by CAA. There are two kinds of designated representative: Designated Engineering Representative and Designated Manufacturing Inspection Representative."
+      "EngArticleContent": "The terms used in the Regulations herein are defined as below:\r\n1) “Appliance” means the major components of the aviation products, the failure of which will endanger the operation safety of the product.\r\n2) “Part” means parts and components that are used on aviation products and appliances.\r\n3) “Delegated Organization” means an agency or a body which conducts certification functions delegated by CAA.\r\n4) “Designated Representative” means an individual who conducts certification functions delegated by CAA. There are two kinds of designated representative: Designated Engineering Representative and Designated Manufacturing Inspection Representative."
     },
     {
       "EngArticleType": "A",
