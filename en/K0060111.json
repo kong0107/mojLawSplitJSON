@@ -3,10 +3,10 @@
   "EngLawName": "Telecommunications Management Act",
   "LawName": "電信管理法",
   "EngLawURL": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0060111",
-  "EngLawModifiedDate": "20190626",
+  "EngLawModifiedDate": "20230628",
   "EngLawAbandonNote": "",
   "EngLawAttachements": [],
-  "EngLawHistories": "1.Full 95 Articles enacted and promulgated per 26 June 2019 Presidential Order No. Hua-Zong-I-Jing-10800065091",
+  "EngLawHistories": "1. Full 95 Articles enacted and promulgated per 26 June 2019 Presidential Order No. Hua-Zong-I-Jing-10800065091 \r\n2. Amendment of Articles 72 , 95 and addition of Article 72-1 enacted and promulgated per 28 June 2023 Presidential Order No. Hua-Zong-I-Jing-11200054141",
   "EngLawForeword": "",
   "EngLawArticles": [
     {
@@ -467,7 +467,12 @@
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 72",
-      "EngArticleContent": "Those who endanger public safety by damaging the submarine cable landing station, international switchboard center or satellite communications center shall be sentenced to imprisonment for not less than 3 years but not more than 10 years.\r\nThose who negligently commit an offense specified in the preceding paragraph shall be sentenced to imprisonment not more than 6 months, short-term imprisonment, or a fine of not more than NT$2 hundred thousand.\r\nAn attempt to commit an offense specified in Paragraph 1 is punishable."
+      "EngArticleContent": "Those who endanger the normal functioning of the submarine cable landing station and cables extending from the submarine cable landing station, the transmission and switching sites of a domestic sea cable system and cables extending from the transmission and switching sites, international gateway sites or satellite communications center by means of theft, destruction, or other illegal means shall be subject to a term of imprisonment of at least one year but no more than seven years, and may also be fined a maximum of NT$10 million.\r\nThose who commit the aforesaid offense with the intent to endanger national security or social stability shall be subject to a term of imprisonment of at least three years but no more than ten years, and may also be fined a maximum of NT$50 million.\r\nThose who commit the offenses specified in the preceding two paragraphs resulting in a disaster shall be subject to an increased term of imprisonment of up to one-half; if the offense results in death, the offender shall be sentenced to life imprisonment or imprisonment of more than seven years, and in addition may be subject to a fine of no more than NT$100 million; if the offense results in serious physical injury, the offender shall be sentenced to imprisonment between five and twelve years, and in addition may be subject to a fine of no more than NT$80 million.\r\nThose who negligently endanger the normal functioning of the submarine cable landing station and cables extending from the submarine cable landing station, the transmission and switching sites of the domestic sea cable system and cables extending from the transmission and switching sites, international gateway sites or satellite communications center by means of destruction or other illegal means shall be subject to a term of imprisonment of no more than six months, short-term imprisonment, or a fine of no more than NT$2 million.\r\nAn attempt to commit an offense specified in paragraphs 1 or 2 shall also be punishable.\r\n“The cables” in the first paragraph refers to cables extending toward the sea from the submarine cable landing station, cables extending toward the sea from the transmission and switching sites of the domestic sea cable system, and cables between the submarine cable landing station and the island gateway."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 72-1",
+      "EngArticleContent": "Those who endanger the normal functioning of the core information and communications system of the submarine cable landing station, the transmission and switching sites of the domestic sea cable system, international gateway sites or satellite communications center by any of the following means shall be subject to a term of imprisonment of at least one year but no more than seven years, and may also be fined a maximum of NT$10 million:\r\n1. Infiltrating the computer or related communications equipment by entering a password of the account, infiltrating the protection measures of the computer, or exploiting the loopholes of the computer system without a valid reason.\r\n2. Interfering with the computer or related communications equipment by computer programs or other electromagnetic means without a valid reason.\r\n3. Obtaining, deleting, or altering the electromagnetic records of the computer or related communications equipment without a valid reason.\r\nThe same shall apply for those who create computer programs specifically for the perpetration of the aforesaid crimes in the preceding paragraph for their own use or for the use of others.\r\nThose who commit any crime specified in the preceding two paragraphs with the intent to endanger national security or social stability shall be subject to a term of imprisonment of at least three years but no more than ten years, and may be subject to a fine of NT$50 million.\r\nThose who commit the offenses specified in the preceding three paragraphs resulting in a disaster shall be subject to an increased term of imprisonment of up to one-half; if the offense results in death, the offender shall be sentenced to life imprisonment or imprisonment for more than seven years, and in addition may be subject to a fine of no more than NT$100 million; if the offense results in serious physical injury, the offender shall be subject to a term of imprisonment of between five and twelve years, and in may be subject to a fine of no more than NT$80 million.\r\nAn attempt to commit an offense specified in paragraphs 1 to 3 shall also be punishable."
     },
     {
       "EngArticleType": "A",
@@ -587,7 +592,7 @@
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 95",
-      "EngArticleContent": "The effective date of the Act shall be set by the Executive Yuan."
+      "EngArticleContent": "The effective date of the Act shall be set by the Executive Yuan.\r\nThe amendment of the Act shall come into force on the date of its promulgation."
     }
   ]
 }
