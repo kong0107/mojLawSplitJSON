@@ -3,7 +3,7 @@
 	"LawLevel": "法律",
 	"EngLawName": "Water Supply Act",
 	"name": "自來水法",
-	"EngLawModifiedDate": "20210203",
+	"EngLawModifiedDate": "20230628",
 	"histories": [
 		"Promulgated on November 17, 1966",
 		"Addition of Article 12-1 promulgated on June 29, 1995.",
@@ -20,7 +20,8 @@
 		"Amendment to Article 93 on January 29, 2014 by Presidential Decree No. Hua-Zhong-Yi-Yi-Zi- 10300011811.",
 		"Amendment to Articles 12-1, 12-2 & 50, addition of Chapter 6-1 and Articles 95-1, 95-2 & 98-1, and deletion of Articles 60-1 promulgated on May 4, 2016 by Presidential Decree No. Hua-Zhong-Yi-Yi-Zi- 10500037371.",
 		"Addition of Articles 61-2 on December 4, 2019 by Presidential Decree No. Hua-Zhong-Yi-Yi-Zi- 10800130961.",
-		"Addition of Articles 61-1 on February 3, 2021 by Presidential Decree No. Hua-Zhong-Yi-Yi-Zi- 11000008921."
+		"Addition of Articles 61-1 on February 3, 2021 by Presidential Decree No. Hua-Zhong-Yi-Yi-Zi- 11000008921.",
+		"Amendment to Articles 8, 97 and Addition of Articles 97-1 and 97-2 on June 28, 2023 by Presidential Decree No. Hua-Zhong-Yi-Jing-Zi- 11200054071"
 	],
 	"divisions": [
 		{
@@ -118,7 +119,7 @@
 		},
 		{
 			"number": 800,
-			"content": "A water supply enterprise operated by the public utility shall be organized as a juristic person as determined by the central authority-in-charge and operated as a business to facilitate its development."
+			"content": "A water supply enterprise operated by the public utility shall be organized as a juristic person or an enterprise established by the government as determined by the authority-in-charge and operated as a business to facilitate its development."
 		},
 		{
 			"number": 900,
@@ -538,7 +539,15 @@
 		},
 		{
 			"number": 9700,
-			"content": "Any person who vandalizes the main water supply facilities or engages in other actions causing the main water supply facilities to break down and become unable to supply water shall be punished with a sentence of imprisonment of no more than five years.\r\nAny person who turns on water supply facilities without the permission of the water supply enterprise and thereby impedes water supply shall be punished with a fine of no more than five hundred yuan.\r\nAny person who violates Paragraph 1 hereof due to negligence shall be punished with a sentence of imprisonment of no more than half a year, detention, or a fine of no more than five hundred yuan."
+			"content": "Any person who steals, or damages, or by other means, endangers the normal functionalities of essential water supply equipment specified under Articles 43 herein shall be punished with a sentence of imprisonment of no more than five years, detention, or a fine of no more than NT$1,000,000, or a combination thereof.\r\nIf the damage or theft under the preceding paragraph causes disasters, the punishment of the offender shall be increased by a half. If the aforesaid act causes the death of others, the offender shall be punished with a sentence of imprisonment of more than five years and less than 12 years, or fined up to NT$10,000,000, or a combination thereof. If the act leads to severe injury of others, the offender shall be punished with a sentence of imprisonment of more than three years and less than 10 years, or fined up to NT$5,000,000, or a combination thereof.\r\nAny attempt of the offense under paragraph 1 shall be punished."
+		},
+		{
+			"number": 9701,
+			"content": "Any person who steals, or damages, or by other means, endangers the normal functionalities of the essential facilities or equipment of water collection, storage, diversion, treatment, conveyance, and distribution of water supply enterprise related to public safety herein shall be punished with a sentence of imprisonment of more than one year and less than seven years, or fined up to NT$10,000,000, or a combination thereof.\r\nAny person who commits the offense specified in the preceding paragraph with the intention of endangering national security or social stability shall be punished with a sentence of imprisonment of more than three years and less than 10 years, or fined up to NT$50,000,000, or a combination thereof.\r\nIf the damage or theft under the preceding two paragraphs causes disasters, the punishment of the offender shall be increased by a half. If the aforesaid act causes the death of others, the offender shall be punished with a sentence of life imprisonment or imprisonment of more than seven years, or fined up to NT$100,000,000, or a combination thereof. If the act leads to severe injury of others, the offender shall be punished with a sentence of imprisonment of more than five years and less than 12 years, or fined up to NT$80,000,000, or a combination thereof.\r\nAny attempt of the offenses under paragraph 1 and paragraph 2 shall be punished.\r\nFor the essential facilities and equipment of water collection, storage, diversion, treatment, conveyance, and distribution of water supply enterprise related to public safety specified in paragraph 1, the central authority-in-charge shall discuss with the relevant agencies and water supply enterprises to contemplate and announce the factors of scale, water supply volume, location, the degrees of impacts on people's life, health, and property safety, and the impacts on the economy and industry. The same shall apply for amendments made."
+		},
+		{
+			"number": 9702,
+			"content": "Any person jeopardizes the normal functionalities of core information and communications systems of the facilities or equipment specified in paragraph 1 of the preceding article by any of the following means shall be punished with a sentence of imprisonment of more than one year and less than seven years, or fined up to NT$10,000,000, or a combination thereof:\r\nI.Entering the accounts and passwords, cracking the protection measures of computers, or exploiting loopholes in computer systems to hack into the computers or related equipment without justifiable reason.\r\nII.Interfering with the computers or relevant equipment via computer programs or other electromagnetic means without justifiable reason.\r\nIII.Acquiring, deleting, or changing the electromagnetic records of the computers or relevant equipment without justifiable reason.\r\nThe same shall apply to those who produce computer programs exclusively for themselves or others to commit the crimes in the preceding paragraph.\r\nAny person who commits the offenses specified in the preceding two paragraphs with the intention of endangering national security or social stability shall be punished with a sentence of imprisonment of more than three years and less than 10 years, or fined up to NT$50,000,000, or a combination thereof.\r\nIf the damage under the preceding three paragraphs causes disasters, the punishment of the offender shall be increased by a half. If the aforesaid act causes the death of others, the offender shall be punished with a sentence of life imprisonment or imprisonment of more than seven years, or fined up to NT$100,000,000, or a combination thereof. If the act leads to severe injury of others, the offender shall be punished with a sentence of imprisonment of more than five years and less than 12 years, or fined up to NT$80,000,000, or a combination thereof.\r\nAny attempt of the offenses under paragraph 1 to paragraph 3 shall be punished."
 		},
 		{
 			"number": 9800,
