@@ -3,10 +3,11 @@
 	"LawLevel": "命令",
 	"EngLawName": "Regulations for Permission and Supervision of Private Employment Services Institution",
 	"name": "私立就業服務機構許可及管理辦法",
-	"EngLawModifiedDate": "20210602",
+	"EngLawModifiedDate": "20230904",
 	"attachments": {
 		"0000006150": "Schedule 1.pdf",
-		"0000006151": "Schedule 2.pdf"
+		"0000008206": "Schedule 2.pdf",
+		"0000008207": "Schedule 2.doc"
 	},
 	"histories": [
 		"Promulgated by the Council of Labor Affairs, Executive Yuan on July 27, 1992",
@@ -23,7 +24,8 @@
 		"Amended on October 8, 2014\r\n   Amendment of Articles 1, 15, 19, 33, 42, and attachment 2 of Article 31; and the addition of Article 15-1 under the Regulations for Permission and Supervision of Private Employment Services Institution according to ROC Ministry of Labor Directive No. 10318067141.",
 		"Amended on February 14, 2020",
 		"Amended on March 23, 2021",
-		"Amended on June 2, 2021"
+		"Amended on June 2, 2021",
+		"Amended on September 4, 2023"
 	],
 	"divisions": [
 		{
@@ -31,7 +33,7 @@
 			"number": 100,
 			"title": "General Provisions",
 			"start": 100,
-			"end": 1000
+			"end": 1001
 		},
 		{
 			"type": "chapter",
@@ -99,6 +101,10 @@
 		{
 			"number": 1000,
 			"content": "The private employment services institution unless permitted shall not establish branch(s) in any forms to carry on business activities of employment services."
+		},
+		{
+			"number": 1001,
+			"content": "When a private employment services institution or branch organization applies for a permit or employment services professionals apply for certification, the competent authority is required to announce which application items can be sent online.\r\nWhen a private employment services institution or branch organization applies for a permit or employment services professionals apply for certification, they should send document online based on the items announced in the previous paragraph. However, this does not apply when just cause for not doing so is provided and the competent authority agrees."
 		},
 		{
 			"number": 1100,
@@ -193,6 +199,10 @@
 			"content": "The recognition of the foreign manpower service agency or its employees engaged in employment services business defined in Article 16 with one of the following circumstances will not be endorsed or will be annulled or revoked by the central competent authorities:\r\nI. Failed to comply with the requirements and make corrections in time.\r\nII. Late in applying for recognition renewal.\r\nIII. The business license or service permit is annulled or revoked by the mother nation.\r\nIV. Violated Article 16 Section 2.\r\nV. Stated false information or provided forged document in the application filed.\r\nVI. Commissioned to arrange employment services business in violation of Article 45 of this Act, or providing false information or foreigner’s health check report.\r\nVII. Commissioned to arrange employment service business but failed to exercise due diligence that causes the employer violating Article 44 or Article 57 of this Act.\r\nVIII. Commissioned to arrange citizens or foreigners to work in Taiwan, or, introduce residents of Hong Kong or Macau and Mainland China to work in Taiwan but failed to exercise due diligence that causes foreigner’s whereabouts to be unknown and loss of contact.\r\nIX. Arrange employment services business in violation of the employer's instructions and with the permit and other relevant documents detained.\r\nX. Committed a crime of intimidation, fraud, conversion, or embezzlement in processing employment service business and is found guilty by the courts of the first instance.\r\nXI. Request, contract, or accept fees, wages affidavit, or excessive charges from the foreigners working in Taiwan while process employment service business.\r\nXII. Demand, contract, or deliver illegal profits in processing employment services business.\r\nXIII. Commissions unauthorized individuals or accepts commission to arrange foreigners to work in the R.O.C.\r\nXIV. Received the employment service business related punishment in the mother nation.\r\nXV. Commissioned to arrange local citizens or foreigners to work in Taiwan within two years from the application date; also, the number and ratio of mission foreigners in the country within three months reaches the standards stipulated in Table 2.\r\nXVI. Committed other severe illegal act or obstruction to public interest.\r\nThe recognition that is not endorsed or is annulled or revoked by the central competent authorities referring to above must be announced."
 		},
 		{
+			"number": 3101,
+			"content": "The Central Competent Authority will conduct regular inspections every March, June, September and December based on the provisions in Schedule 2 of Article 31, to determine the number and percentage of foreign workers brought into the Republic of China to work by foreign manpower service agencies whose whereabouts are unknown within the first month of being in the country.\r\nAfter conducting inspections in accordance with regulations detailed in the previous paragraph, if the Central Competent Authority discovers that the number and percentage of foreign workers pertaining to foreign manpower service agencies reach the level detailed in Schedule 2, Article 31, it will notify the Ministry of Foreign Affairs, and the overseas missions in question to temporarily refused the processing of visa applications for foreign nationals from designated manpower service agencies for a stipulated number of days:\r\n1. First time: 7 days pause on issuing of visas.\r\n2. Second time or more: The length of the temporary pause is increased by 7 days for each occurrence, to a maximum of 28 days."
+		},
+		{
 			"number": 3200,
 			"content": "(Deleted)"
 		},
@@ -242,7 +252,7 @@
 		},
 		{
 			"number": 4400,
-			"content": "These Regulations shall be take effect on the date of promulgation.\r\nRegulations on the Permission and Administration of the Employment of Foreign Workers\r\nPromulgated by the Council of Labor Affairs, Executive Yuan on January 13, 2004, Amended by the Council of Labor Affairs, Executive Yuan on December 30, 2005, October 3, 2006 and January 3, 2008"
+			"content": "These Regulations shall be take effect on the date of promulgation.\r\nArticle 31-1 and Article 31 Schedule 2 of the Regulations for Permission and Supervision of Private Employment Services Institution were amended on September 4, 2023 and implemented on December 16, 2023."
 		}
 	]
 }
