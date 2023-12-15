@@ -3,13 +3,14 @@
 	"LawLevel": "法律",
 	"EngLawName": "Public Television Act",
 	"name": "公共電視法",
-	"EngLawModifiedDate": "20091230",
+	"EngLawModifiedDate": "20230621",
 	"histories": [
 		"Promulgated by Presidential Order Hua Tsung (1) I No. 8600139050 on June 18, 1997",
 		"Revised Articles 2 and 24 promulgated by Presidential Order Hua Tsung (1) I No. 9000203930 on October 17,2001",
 		"Revised Articles 4 promulgated by Presidential Order Hua Tsung (1) I No. 09300117601 on June 23,2004",
 		"Revised Articles 13 promulgated by Presidential Order Hua Tsung (1) I No. 09800166551 on July 8,2009",
-		"Revised Articles 18、26 and 49 promulgated by Presidential Order Hua Tsung (1) I No. 09800323241 on December 30,2009, and take effect on November 23, 2009"
+		"Revised Articles 18、26 and 49 promulgated by Presidential Order Hua Tsung (1) I No. 09800323241 on December 30,2009, and take effect on November 23, 2009",
+		"In accordance with Presidential Proclamation No. Huazong Yi Yi 1200051201, Articles 1 to 3, 7, 10, 13, 14, 16, 18 to 21, 26, 28, 32, and 40 are hereby amended; Article 12-1 is added; Articles 6 and 8 are repealed.\r\n"
 	],
 	"divisions": [
 		{
@@ -17,7 +18,7 @@
 			"number": 100,
 			"title": "General Provisions",
 			"start": 100,
-			"end": 1200
+			"end": 1201
 		},
 		{
 			"type": "chapter",
@@ -58,15 +59,15 @@
 	"articles": [
 		{
 			"number": 100,
-			"content": "This Law is enacted to promote the effective development of public television, establish a public service mass media system, compensate for the inadequacy of commercial television, and safeguard the citizens' freedom of expression and right to know, raise cultural and educational standards, advance the development of democratic society, and enhance social wellbeing through diversified planning."
+			"content": "This Law is enacted to promote the effective development of public television, ensure that broadcast content conforms to the needs of a multicultural society, best utilize digital technology, and safeguard the citizens' freedom of expression and right to know, provide news and information services,  advance the development of broadcast industry and democratic society, and enhance social wellbeing through diversified planning."
 		},
 		{
 			"number": 200,
-			"content": "In order to realize the objectives of this Law, the Public Television Service Foundation (referred to hereinafter as the \"PTS Foundation\") shall be established to operate the Public Television Service (referred to hereinafter as \"PTS\"). In addition to the provisions of this Law, the provisions of the Civil Code relating to corporations are applicable to the establishment, organization, and operation of the PTS Foundation.\r\nGovernment contributions to the PTS Foundation in accordance with this Law, shall be annually reduced by 10 percent of the initial allocation until the third fiscal year."
+			"content": "In order to realize the objectives of this Law, the Public Television Service Foundation (referred to hereinafter as the \"PTS Foundation\") shall be established to operate the Public Television Service (referred to hereinafter as \"PTS\").\r\nIn addition to the provisions of this Law, the provisions of the Foundations Act, the Civil Code, and regulations concerning communications and related matters are applicable to the establishment, organization, and operation of the PTS Foundation.\r\nA budget for the PTS Foundation shall be made by the government as a budgetary donation in accordance with this Act.\r\nIn addition to the aforementioned donation, the government should discuss adjusting its budget every year in line with the PTS Foundation’s operational needs, annual work plans, and medium and long-term plans."
 		},
 		{
 			"number": 300,
-			"content": "The regulatory agency of the PTS Foundation shall be the Government Information Office (GIO)."
+			"content": "The competent authority for the PTS  Foundation shall be the Ministry of Culture."
 		},
 		{
 			"number": 400,
@@ -78,15 +79,15 @@
 		},
 		{
 			"number": 600,
-			"content": "Examination and approval of PTS's principal facilities and engineering techniques; the qualification standards of technical personnel; the supervision and management of electromagnetic waves, such as the broadcast frequencies, the call sign, and electric power; and the issuance and renewal of the station license shall follow related regulations published by the Ministry of Transportation and Communications (MOTC)."
+			"content": "(Repealed)"
 		},
 		{
 			"number": 700,
-			"content": "The required electromagnetic wave frequencies for PTS shall be planned and designated by the GIO in coordination with the MOTC. The aforesaid frequencies shall not be leased, loaned, or transferred."
+			"content": "The required electromagnetic wave frequencies for PTS shall be planned and designated by the Ministry of Culture in coordination with the competent authority for over-the-air frequencies.\r\nThe aforesaid frequencies shall not be leased, loaned, or transferred."
 		},
 		{
 			"number": 800,
-			"content": "The PTS Foundation shall file an application for station installations with the GIO, which shall refer it to the MOTC for the issuance of the installation permit, before the PTS Foundation sets up the installations. The completed installations shall be inspected by the MOTC, which shall issue a station license after the requirements are met. The GIO shall then issue a television license before PTS begins broadcasting.\r\nThe provisions of the preceding paragraph shall apply to the establishment of any PTS branch station, transmitting station, repeater station, or relay station."
+			"content": "(Repealed)"
 		},
 		{
 			"number": 900,
@@ -94,7 +95,7 @@
 		},
 		{
 			"number": 1000,
-			"content": "The PTS Foundation operations shall include the following:\r\n1. Establishing and operating PTS\r\n2. Broadcasting TV programs\r\n3. Producing and distributing TV and video programs and issuing relevant publications\r\n4. Training staff\r\n5. Researching and promoting television theories, techniques, and programs\r\n6. Other operations that contribute to the objectives in Article 1."
+			"content": "The PTS Foundation operations shall include the following:\r\n1.     Plan and operate television channels\r\n2.     Produce and distribute broadcast content\r\n3.     Provide broadcast services that meet the needs of varied groups and locales\r\n4.     Offer international broadcast services and conduct international exchanges\r\n5.     Produce, distribute, and promote audiovisual products and publications related to broadcast content\r\n6.     Train broadcast professionals\r\n7.     Research, innovate, and promote broadcast technology and content production\r\n8.     Other operations that contribute to the objectives in Article 1.\r\nThe PTS Foundation shall establish dedicated channels via which to perform the operations listed in Items 3 and 4 and shall ensure that its budget and special funds are earmarked.\r\nThe PTS Foundation shall establish dedicated channels to perform the operations listed in Item 3 of Paragraph 1 and ensure that their operation remains independent and safeguards the subjectivity of different groups."
 		},
 		{
 			"number": 1100,
@@ -105,12 +106,16 @@
 			"content": "If techniques and budget permit, the PTS Foundation shall offer complete TV reception of the same quality to viewers nationwide."
 		},
 		{
+			"number": 1201,
+			"content": "Operators of cable television systems that provide multimedia content streaming services shall provide channel location free of charge and broadcast content from the PTS Foundation’s over-the-air channels, community-specific channels, and international broadcast channels. Operators may not change the format, content, or channel. Cable television system operators shall offer these as basic channels.\r\nNo costs shall ascribe to cable television system operators offering multimedia streaming services that provide the broadcasting services mentioned in the preceding Paragraph and their provision of said services does not connote copyright infringement."
+		},
+		{
 			"number": 1300,
-			"content": "The PTS Foundation shall set up a board of directors, consisting of 17 to 21 people. The procedures for selection are as follows:\r\n1. The Legislative Yuan shall recommend 11 to 15 just and fair people from society to form the PTS Directors and Supervisors Review Committee.\r\n2. Candidates for PTS directors and supervisors shall be nominated by the Executive Yuan and then submitted to the premier for appointment with the consent of more than three-fourths of the members of the Review Committee.\r\nThe selection of PTS directors shall consider gender and ethnic representation and a balanced representation from education, arts, literature, academics, communications, and other professional fields.\r\nNot more than a quarter of PTS directors shall be of the same political party affiliation. Directors may not participate in political activities during their tenures."
+			"content": "The PTS Foundation shall set up a board of directors, consisting of 11 to 15 people. One director shall be an employee representative. The PTS Foundation shall also have a Board of Supervisors of between three and five people.\r\nDirectors and supervisors shall be selected as follows:\r\n1.     The Legislative Yuan shall recommend 11 to 15 just and fair people from society to form the PTS Directors and Supervisors Review Committee.\r\n2.     Candidates for PTS directors and supervisors (not including the employee representative) shall be nominated by the Executive Yuan and then submitted to the premier for appointment with the consent of more than two-thirds of the members of the Review Committee.\r\n3.     A candidate for the director representing appointees shall be nominated by the PTS enterprise union and provided to the competent authority for submission to the premier for appointment.\r\nWhen the Executive Yuan nominates candidates for director or supervisor in line with Item 2, it shall ensure that each gender accounts for at least one-third of nominees for each position.\r\nThe selection of PTS directors shall consider  ethnic representation and a balanced representation from education, arts, literature, academics, communications, and other professional fields.\r\nNot more than a quarter of PTS directors shall be of the same political party affiliation; no more than one-third of supervisors may be members of the same political party. Directors and supervisors may not participate in political activities during their tenures."
 		},
 		{
 			"number": 1400,
-			"content": "The following persons shall not serve as PTS directors:\r\n1. Public officials, exclusive of educators and researchers at all levels of public schools and academic institutions\r\n2. Political party workers\r\n3. Responsible persons and executives of over-the-air and cable radio and television enterprises\r\n4. Manufacturers, importers, and dealers of transmitting equipment and facilities\r\n5. Persons whose total investments in the enterprises of the preceding two items exceed 5 percent of the capitalization of the enterprises\r\n6. Members of the Review Committee\r\n7. Non-ROC citizens."
+			"content": "The following persons shall not serve as PTS directors or supervisors:\r\n1.     Public officials, exclusive of educators and researchers at all levels of public schools and academic institutions\r\n2.     Political party workers\r\n3.     Responsible persons and executives of over-the-air and cable radio and television enterprises\r\n4.     Manufacturers, importers, and dealers of transmitting equipment and facilities\r\n5.     Persons whose total investments in the enterprises of the preceding two items exceed 5 percent of the capitalization of the enterprises\r\n6.     Members of the Review Committee\r\n7.     Non-ROC citizens\r\n8.     Those who have received a bankruptcy declaration or who are in the process of clearing debt under the Consumer Debt Clearance Statute and have not resumed their rights\r\n9.     Those not yet released from guardianship or assistance where such has been announced."
 		},
 		{
 			"number": 1500,
@@ -118,7 +123,7 @@
 		},
 		{
 			"number": 1600,
-			"content": "A director shall serve a term of three years and is eligible for re-appointment when the term of service expires."
+			"content": "A director shall serve a term of three years and is eligible for re-appointment when the term of service expires.\r\nIn accordance with Article 13, a new director shall be hired six months prior to the expiration of a sitting director’s term. Where no new director has been chosen by the expiration of the term, the term may be extended until a new director has taken up the position."
 		},
 		{
 			"number": 1700,
@@ -126,19 +131,19 @@
 		},
 		{
 			"number": 1800,
-			"content": "The board of directors shall ask the premier to remove a director from office, when any of the following situations are applicable to that particular director:\r\n1. Any situation as stipulated in Article 14\r\n2. The director is declared to be under guardianship, requiring assistance or bankrupt\r\n3. The director is sentenced to imprisonment for a definite period of time or a more severe punishment and the decision has become final, unless the punishment is suspended or commuted to a fine\r\n4. The director is diagnosed by a public hospital to be mentally or physically impaired to the extent that he is incapable of exercising his powers\r\n5. The director's conduct is determined through a board resolution to have violated the duties of a director or acted in such a way that is improper for a director."
+			"content": "The PTS Foundation shall request that the premier remove a director from office when any of the following situations are applicable to that particular director:\r\n1.     Any situation as stipulated in Items 1 through 7 of Article 14\r\n2.     Where a director has resigned\r\n3.     Where a director has been sentenced to imprisonment with possibility of parole (save where a sentence is suspended or in cases of negligence).\r\n4.     Where regulations or the organization’s charter have been violated during the execution of the director’s duty such that the public interest or the rights and interests of the PTS Foundation have suffered\r\n5.     Where the director representing employees has lost the standing of a member of the PTS enterprise union\r\n6.     The director's conduct is determined through a board resolution to have violated the duties of a director or acted in such a way that is improper for a director.\r\nWhere the PTS Foundation fails to request a dismissal in accordance with the above, the competent authority shall require that it act within a prescribed time. Where the PTS Foundation fails to do so within the prescribed time, the competent authority shall request the premier to order a dismissal.\r\nWhere the circumstances of Items 8 or 9 of Article 14 apply, this shall result in automatic dismissal.\r\nWhere a director is dismissed or leaves office, the central competent authority shall inform the local district court to register the fact."
 		},
 		{
 			"number": 1900,
-			"content": "In the event that one-third of the directors have vacated their offices, new directors shall immediately be selected pursuant to Article 13 to fill the vacancies. The new directors shall serve until the original term expires.\r\nWhen the chairperson has vacated office, one of the directors shall be elected by the directors to exercise the chairperson's powers until the original term expires."
+			"content": "In the event that one-third of the directors or the seat for the director representing employees have vacated their offices, new directors shall immediately be selected pursuant to Article 13 to fill the vacancies. The new directors shall serve until the original term expires.\r\nWhen the chairperson has vacated office, one of the directors shall be elected by the directors to exercise the chairperson's powers until the original term expires."
 		},
 		{
 			"number": 2000,
-			"content": "The chairperson shall be a full-time paid position, but directors shall receive no compensation other than fees for attending board meetings.\r\nThe board of directors shall meet at least once per month. Special meetings shall be called at such times as deemed necessary by the chairperson or upon request by at least one-third of the directors.\r\nExcept as otherwise provided herein, the board shall adopt no resolution unless the meeting is attended by two-thirds of the directors and a majority of the votes are cast in favor of the resolution."
+			"content": "The chairperson shall be a full-time paid position. Individuals serving as chair are not to be receiving other salary, monthly pension, monthly severance pay, or other like remuneration. Directors shall receive no compensation other than fees for attending board meetings.\r\nThe board of directors shall meet at least once per month. Special meetings shall be called at such times as deemed necessary by the chairperson or upon request by at least one-third of the directors.\r\nExcept as otherwise provided herein, the board shall adopt no resolution unless the meeting is attended by two-thirds of the directors and a majority of the votes are cast in favor of the resolution."
 		},
 		{
 			"number": 2100,
-			"content": "The PTS Foundation shall establish a board of three to five supervisors, who shall elect a standing supervisor from among themselves.\r\nSupervisors shall have relevant knowledge and experience in mass media, law, or accounting. Related provisions regarding the directors in this Law shall apply to the term and termination of service of the supervisors.\r\nThe board of supervisors shall audit the use of funds by the PTS Foundation and determine whether there has been a violation of the PTS Foundation's Financial Auditing Procedures and other laws.\r\nThe board of directors shall prescribe the PTS Foundation's Financial Auditing Procedures mentioned in the preceding paragraph."
+			"content": "Supervisors shall elect from among themselves one individual to serve as standing supervisor at meetings.\r\nSupervisors shall have relevant knowledge and experience in mass media, law, or accounting. Related provisions regarding the directors in this Law shall apply to the hiring, dismissal, replacement, term extension, and automatic dismissal of the supervisors.\r\nThe board of supervisors shall audit the use of funds by the PTS Foundation and determine whether there has been a violation of the PTS Foundation's Financial Auditing Procedures and other laws.\r\nThe board of directors shall prescribe the PTS Foundation's Financial Auditing Procedures mentioned in the preceding paragraph."
 		},
 		{
 			"number": 2200,
@@ -158,7 +163,7 @@
 		},
 		{
 			"number": 2600,
-			"content": "The president or vice president shall be dismissed by the board of directors, if he:\r\n1. has violated any item in Paragraph 1 of Article 24;\r\n2. The person has been declared commencement of guardianship, assistantship or bankrupt;\r\n3. has been diagnosed by a public hospital to be mentally or physically impaired to the extent that he is incapable of exercising his powers; or\r\n4. has been determined by a board resolution to have violated his duties or acted in such a way that is improper for his position."
+			"content": "The president or vice president shall be dismissed by the board of directors, if he:\r\n1.     has violated any item in Paragraph 1 of Article 24;\r\n2.     in receipt of a bankruptcy declaration or in the process of clearing debt under the Consumer Debt Clearance Statute and rights have not been resumed;\r\n3.     not yet released from guardianship or assistance where such has been announced; or\r\n4.     has been determined by a board resolution to have violated his duties or acted in such a way that is improper for his position."
 		},
 		{
 			"number": 2700,
@@ -166,7 +171,7 @@
 		},
 		{
 			"number": 2800,
-			"content": "The funds for the PTS Foundation shall come from:\r\n1. government contributions allocated from the annual national budget;\r\n2. interest from operating the funds;\r\n3. contributions from the public and private institutions, organizations, or individuals at home and abroad;\r\n4. income from public television cultural businesses and activities;\r\n5. income from producing programs on commission; and\r\n6. other sources of income."
+			"content": "The funds for the PTS Foundation shall come from:\r\n1.     The Cultural Development Fund;\r\n2.     donations and grants out of the government’s general budget;\r\n3.     interest from operating the PTS Foundation’s funds;\r\n4.     operating income;\r\n5.     income from investment in other businesses;\r\n6.     contributions from the public and private institutions, organizations, or individuals at home and abroad;\r\n7.     other sources of income."
 		},
 		{
 			"number": 2900,
@@ -182,7 +187,7 @@
 		},
 		{
 			"number": 3200,
-			"content": "At the end of the business year, the PTS Foundation shall prepare an annual business report detailing its performance and final revenue and expenditure accounts for review by the board of supervisors and approval by the board of directors, whereupon it shall be sent to the regulatory agency for the required final accounting procedure."
+			"content": "At the end of the business year, the PTS Foundation shall prepare an annual business report detailing its performance and final revenue and expenditure accounts for review and approval by the board of directors, individual review by each supervisors, whereupon it shall be sent to the regulatory agency for the required final accounting procedure."
 		},
 		{
 			"number": 3300,
@@ -214,7 +219,7 @@
 		},
 		{
 			"number": 4000,
-			"content": "Public television may not broadcast programs that are unsuitable for viewing by children and juveniles at any time. At least half an hour each of programming for children and juveniles shall be scheduled between 17:00 and 20:00 hours daily from Monday through Friday. At least one hour each of programming for children and juveniles shall be broadcast on weekends and holidays, in time slots determined by PTS according to the daily routine of the children and juveniles."
+			"content": "The PTS Foundation shall assign ratings to programming broadcast on its television channels in accordance with related laws and regulations, or it shall take other related measures.\r\nAt least half an hour each of programming for children and juveniles shall be scheduled between 17:00 and 20:00 hours daily from Monday through Friday. At least one hour each of programming for children and juveniles shall be broadcast on weekends and holidays, in time slots determined by PTS according to the daily routine of the children and juveniles."
 		},
 		{
 			"number": 4100,
