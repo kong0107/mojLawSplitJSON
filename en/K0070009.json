@@ -1,0 +1,911 @@
+{
+  "LawLevel": "命令",
+  "EngLawName": "The Regulations for Administrating Passenger Ship",
+  "LawName": "客船管理規則",
+  "EngLawURL": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0070009",
+  "EngLawModifiedDate": "20191029",
+  "EngLawAbandonNote": "",
+  "EngLawAttachements": [
+    {
+      "FileName": "Appendix 1  Specifications for Accessible Facilities and Equipment on Passenger Ships.odt",
+      "FileURL": "https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003518"
+    },
+    {
+      "FileName": "Attachment 1.pdf",
+      "FileURL": "https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003097"
+    },
+    {
+      "FileName": "Attachment 2 Passenger Ship Safety Inspection List of the R.O.C..pdf",
+      "FileURL": "https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006026"
+    },
+    {
+      "FileName": "Attachment 3.pdf",
+      "FileURL": "https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003099"
+    },
+    {
+      "FileName": "Attachment 4.pdf",
+      "FileURL": "https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003100"
+    },
+    {
+      "FileName": "Attachment 5.pdf",
+      "FileURL": "https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003101"
+    },
+    {
+      "FileName": "Attachment 6.pdf",
+      "FileURL": "https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003517"
+    },
+    {
+      "FileName": "Attachment 7.pdf",
+      "FileURL": "https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000003103"
+    }
+  ],
+  "EngLawHistories": "1. Promulgated on August 28, 1965\r\n2. Amended on March 17, 1972\r\n3. Amended on May 24, 1972\r\n4. Amended on June 16, 1976\r\n5. Amended on April 15, 2002\r\n6. Amended on May 26, 2009\r\n7. Amended on January 14, 2010\r\n8. Amended on February 11, 2011\r\n9. Amended on March 02, 2016\r\n10. Amended on January 09, 2017\r\n11. Amendment to Articles 37、116、Articles 36 Attachment 2, and deletion of Article 3 was promulgated by order of the Ministry of Transportation and Communications No. jiao-Hang-Zi-10850135211 dated October 29, 2019.",
+  "EngLawForeword": "",
+  "EngLawArticles": [
+    {
+      "EngArticleType": "C",
+      "EngArticleNo": "",
+      "EngArticleContent": "   Chapter 1 General Principles"
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 1",
+      "EngArticleContent": "The present Regulations are prescribed pursuant to Article 56 of the Law of Ships."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 2",
+      "EngArticleContent": "The term \"passenger ship\" when used herein shall mean a ship carrying more than twelve passengers on board, except small ship."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 3",
+      "EngArticleContent": "(Deleted)"
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 4",
+      "EngArticleContent": "Children less than one year of age shall not be counted in the prescribed number of passengers.\r\nAges of children mentioned in the previous paragraph shall be computed based on the actual, full ages at the time they go on board and as proven by legal documents."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 5",
+      "EngArticleContent": "The term \"international passenger ship\" when used herein shall mean Republic of China (R.O.C.)-flagged passenger ships, navigating in international routes or shorter international routes."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 6",
+      "EngArticleContent": "The term \"international route\" when used herein shall mean the route, other than shorter international routes, which a ship navigates between ports of the R.O.C. and foreign ports, or between foreign ports."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 7",
+      "EngArticleContent": "The term \"shorter international route\" when used herein shall mean an international route in the course of which a ship is not more than 200 nautical miles distant from a port or place where passengers and crew could be placed in safety. Meanwhile, neither the distance between the last port of call in the R.O.C where the route begins and the final port of destination in a foreign country, nor the return route, shall exceed 600 nautical miles."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 8",
+      "EngArticleContent": "The term \"domestic passenger ship\" when used herein shall mean R.O.C. flagged passenger ships navigating in the outer sea, coastal or inland water routes."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 9",
+      "EngArticleContent": "The term \"outer sea route\" when used herein shall mean routes on outer seas or between islands in possession of the R.O.C, which are not the coastal route."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 10",
+      "EngArticleContent": "The term \"coastal route\" when used herein shall mean a route along the sea coast or between islands in possession of the R.O.C, which is less than 30 nautical miles distant from the coast."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 11",
+      "EngArticleContent": "The term \"inland route\" when used herein shall mean a route in a river, lake and other inland waters or port areas of the R.O.C."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 12",
+      "EngArticleContent": "If a coastal route in which a passenger ship navigates does not have severe sea conditions due to natural shields, the owner of the ship may apply to the shipping administration authority for determining such route as an inland water route."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 13",
+      "EngArticleContent": "The term \"ferryboat\" when used herein shall mean passenger ships that shuttle regularly between certain domestic ports or ferries to link the land transportation, with regular schedules every day or every other day."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 14",
+      "EngArticleContent": "The term \"voyages\" when used herein shall mean the voyages on which ships sail from the first port of departure to the final port of destination."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 15",
+      "EngArticleContent": "The term \"passenger cabin\" when used herein shall mean the cabins, steerage cabins, lobbies, halls, public lounge, medical rooms, hospitals, lavatory, toilets and service places, together with passages, corridors and stairways, used exclusively for passengers."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 16",
+      "EngArticleContent": "The term \"cabin\" when used herein shall mean cabins with not more than twelve fixed berths provided for accommodation of passengers."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 17",
+      "EngArticleContent": "The term \"steerage cabin\" when used herein shall mean cabins with more than twelve fixed berths or ground berths, movable berths, reclining chairs, sitting chairs and benches or open cabins used exclusively for passengers."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 18",
+      "EngArticleContent": "The term \"cabin passenger\" when used herein shall mean passengers who hold cabin passenger tickets and use passenger cabins.\r\nThe term \"steerage passenger\" when used herein shall mean passengers who hold steerage passenger tickets and use steerage cabins.\r\nThe term \"deck passenger\" when used herein shall mean passengers who are carried on tween decks or weather decks without designated seats or sleeping places."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 19",
+      "EngArticleContent": "The term \"passenger deck\" when used herein shall mean every tier or every part of the decks above the lowest passenger deck used for passengers."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 20",
+      "EngArticleContent": "The term \"the lowest passenger deck\" when used herein shall mean the lowest deck below the summer load line used for passengers."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 21",
+      "EngArticleContent": "No non-power-driven passenger ship shall be operated beyond inland waters."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 22",
+      "EngArticleContent": "In no case shall any passenger ship be allowed to carry passengers on weather decks when the ship navigates any outer sea route unless approved by the shipping administration authority or ship register institute commissioned by the administration authority (hereinafter referred to as “ship register institute”)."
+    },
+    {
+      "EngArticleType": "C",
+      "EngArticleNo": "",
+      "EngArticleContent": "   Chapter 2 Inspection of Passenger Ships and Pre-sailing Inspections"
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 23",
+      "EngArticleContent": "Passenger ships shall be inspected in accordance with the provisions prescribed herein, in addition to the regulations for inspection of ships, for ships load lines, for equipment of ships, and other relevant laws.\r\nPassenger ships navigating in international waters shall also be inspected pursuant to the international provisions set forth in the International Convention for the Safety of Life at Sea.\r\nPassenger ships navigating on fixed routes, schedules, stations and rates shall set up accessible facilities and equipment according to Specifications for Accessible Facilities and Equipment of Passenger Ships as attached in Appendix 1."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 24",
+      "EngArticleContent": "Application for the initial inspection of a passenger ships navigating on international routes shall be made to the shipping administration authority or ship register institute on the form, together with three copies of each of the following documents:\r\n1. Principal specifications of the ship;\r\n2. Business plan;\r\n3. Main drawings and calculations; and\r\n4. Other information and drawings the shipping administration authority or ship register institute deems necessary.\r\nThe initial inspection includes imported existing ships, ships under construction, and the intended use or type is changed."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 25",
+      "EngArticleContent": "The principal specifications of ships shall enumerate:\r\n1. General information:\r\n(1) Principal dimensions;\r\n(2) Speed of ships;\r\n(3) Capacity and deadweight;\r\n(4) Construction standards;\r\n(5) Number of passengers of every class and the allotment thereof;\r\n(6) Number of crew and the allotment thereof; and\r\n(7) Stability.\r\n2. Hull:\r\n(1) Description of materials used,\r\n(2) Description of subdivision,\r\n(3) Description of fire zone and the constructions thereof,\r\n(4) Description of side scuttles, watertight doors, fire doors, drain ports and all sewage and other discharge holes and mechanical gears and the remote control systems thereof on the shell plates below the boundary lines,\r\n(5) Descriptions of passenger decks, and\r\n(6) Passenger cabin and sanitary facilities.\r\n3. Machinery:\r\n(1) Outline of main engines,\r\n(2) Outline of boilers and the pressure vessels thereof,\r\n(3) Outline of generators, and\r\n(4) Outline of water pumps.\r\n4. Equipment:\r\n(1) Category of equipment and accessories,\r\n(2) Outline of fire prevention, detection, extinguishing and fire alarm device, and\r\n(3) Outline of firefighting equipment."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 26",
+      "EngArticleContent": "Except as otherwise specified in laws and regulations, the business plan shall enumerate:\r\n1. Outline of planned routes,\r\n2. Outline of planned passenger-carrying ports and calling ports,\r\n3. Planned business periods and the number of passengers carried in each period, and\r\n4. Cargo-carrying plan if cargoes are to be carried concurrently."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 27",
+      "EngArticleContent": "Principal drawings and calculations shall be approved by qualified naval architects or ship register institute and shall include:\r\n1. General information:\r\n(1) General arrangement,\r\n(2) Longitudinal sections of interior and exterior of the hull,\r\n(3) Lines,\r\n(4) Floodable length curve,\r\n(5) Stability curve,\r\n(6) Intact and damaged stability calculations,\r\n(7) Volumes and horizontal/vertical centers of gravity of cargo holds, oil tanks and ballast tanks,\r\n(8) Detailed layouts of gangways, ventilation, lighting, medical and sanitary facilities of passenger and crew cabins, and\r\n(9) Capacity and layout of lifeboats, life rafts and davits.\r\n2. Hull:\r\n(1) Midship section,\r\n(2) Longitudinal section,\r\n(3) Shell expansion and framing plan,\r\n(4) Construction of bow, stern and rudder,\r\n(5) Construction of all decks,\r\n(6) Drawings of pillars and longitudinal girders,\r\n(7) Drawings of watertight and oil-tight bulkheads,\r\n(8) Drawings of main engine and boiler seats,\r\n(9) Drawings of doors, windows and side scuttles,\r\n(10) Drawings of hatch covers and cover plates of watertight decks,\r\n(11) Drawings of watertight doors and control gears, and\r\n(12) Drawing of drain holes on shell plates.\r\n3. Engines and machines:\r\n(1) General arrangement of engine room,\r\n(2) Layouts of main and auxiliary boilers and pressure vessels,\r\n(3) Layout and capacity of bilge pumps,\r\n(4) Layout of water feed piping,\r\n(5) Layout of bilge piping,\r\n(6) Layout of ballast water piping,\r\n(7) Layout of drainage fittings below bulkhead decks,\r\n(8) Layout of ventilation,\r\n(9) Layout and capacity of main generators and emergency generators,\r\n(10) Electric power switch circuits, and\r\n(11) Drawings of lighting fixtures and other electrical systems of all decks.\r\n4. Fire control:\r\n(1) Fire zones and the construction thereof,\r\n(2) List of fire control systems,\r\n(3) List of fire alarm systems,\r\n(4) List of fire detection systems, and\r\n(5) List of fire extinguishing systems."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 28",
+      "EngArticleContent": "In case of unavailability of all drawings and specifications specified in the three preceding articles, the shipowner may elaborate reasons in writing to apply for exemption from the submission of the drawings and specifications with the shipping administration authority or ship register institute.\r\nIf the shipowner has furnished the drawings and specifications mentioned above to the shipping administration authority or ship register institute pursuant to other relevant laws and regulations, such drawings and specifications may be exempted from submission or the number of copies may be reduced."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 29",
+      "EngArticleContent": "In case an existing ship is converted to a passenger ship, or a passenger ship undergoes substantial modification, the drawings and specifications of modification thereof shall be furnished, together with other drawings and specifications that the shipping administration authority or ship register institute may deem necessary."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 30",
+      "EngArticleContent": "Before the shipping administration authority approves the certified number of passengers, it shall inspect the passenger cabins, and exclude those that are not in compliance with the present Regulations from use as passenger cabins."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 31",
+      "EngArticleContent": "Before the shipping administration authority or ship register institute issues passenger ship safety certificates, it shall inspect the lighting, ventilation, sanitary, escape and protection facilities before conducting the inspection according to the drawings and specifications as specified in Article 27 or 29 herein. If drinking water and meals are supplied, the facilities thereof shall also be inspected."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 32",
+      "EngArticleContent": "In case of any alteration of the facilities mentioned in the preceding article, the shipowner shall report to the shipping administration authority or ship register institute for inspection. If the authority deems, after inspection, that it is necessary to change the certified number of passengers or some entries on the passenger ship safety certificate, it may so renew such certificate."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 33",
+      "EngArticleContent": "An application for passenger ship inspection shall be made to the shipping administration authority or ship register institute before the valid period of the passenger ship safety certificate expires."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 34",
+      "EngArticleContent": "Any passenger ship navigating abroad may only depart from the domestic port where she calls after she is inspected and verified by the inspector of the shipping administration authority or ship register institute for the following:\r\n1. Various certificates are valid;\r\n2. Lifesaving, fire extinguishing and rescue facilities are readily prepared;\r\n3. Hull, and machinery are in normal state;\r\n4. The facilities for lighting, ventilation, sanitation, drinking water, and food comply with requirements;\r\n5. The passenger List is complete and shows an excessive number of passengers are not carried on board;\r\n6. The category and quantity of cargoes carried concurrently comply with requirements and the cargoes are suitably stowed; and\r\n7. The stowage and ballast provide proper stability at all times for the ship.\r\nThe shipping administration authority may only inspect Item 1, 5, 6 and 7 in the previous paragraph, while making a spot inspection on the remaining items before the departure of a passenger ship navigating shorter international routes."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 35",
+      "EngArticleContent": "For a ship navigating the outer sea or coastal route up to 1,000 nautical miles or more than five days, the shipping administration authority at the port the route begins shall send the inspector to verify Items 1 through 7, the first paragraph of the preceding article. The ship may be allowed to depart only after being inspected and verified.\r\nIf the ship mentioned above carries or discharges passengers at some other port of call on its route, the shipping administration authority at such port shall inspect and verify Item 5, the first paragraph of the preceding article. While, if the ship loads or discharges cargoes, she shall be subject to inspection and verification of Items 6 and 7, the first paragraph of the preceding article."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 36",
+      "EngArticleContent": "On the date of navigation, the master of a domestic passenger ship shall confirm preparations for navigation and sign the Passenger Ship Pre-Departure Checklist of (Attachment 1) before navigation.\r\nFor the safety of the public, the shipping administration authority may carry out spot inspections of seaworthiness from time to time according to the Passenger Ship Safety Inspection List of the R.O.C. (Attachment 2). For domestic passenger ships, the shipping administration authority shall send the inspector on board to make spot inspection on Items 1 through 7, the first paragraph, Article 34 herein, at least three times every year.Where passenger ships's hull materials are aluminum, the abovementioned spot inspection shall be carried out six times every year.\r\nIf if after inspection the shipping administration authority doubts the seaworthiness or finds that the certified number of passengers exceeds what is specified, it shall order them corrected and approved.\r\nAfter the shipping administration authority approves the inspection, the responsible inspector and the master of the passenger ship shall execute the report in two counterparts and retain one as a record."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 37",
+      "EngArticleContent": "The master of a passenger ship that is exempted from providing a passenger list in accordance with Subparagraph 7, Paragraph 2, Article 11 of the Law of Ships shall report the number of passengers when the shipping administration authority checks such number."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 38",
+      "EngArticleContent": "Upon inspecting for the requirements set forth in Articles 34 through 36, a shipping administration authority may require conducting tests or drills on some equipment or facilities, if necessary, in order to be aware of the conditions thereof. The owner or master of the ship shall not reject such request."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 39",
+      "EngArticleContent": "The rates and charges specified in the ship inspection tariff shall be levied and collected for the inspection of passenger ships by the shipping administration authority."
+    },
+    {
+      "EngArticleType": "C",
+      "EngArticleNo": "",
+      "EngArticleContent": "   Chapter 3 Stability"
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 40",
+      "EngArticleContent": "After a passenger ship is completely constructed, she shall receive the inclining experiment under the supervision of the shipping authority or ship register institute. The information data relating to the results of the experiment and the calculations of stability shall be submitted for examination and approval by the shipping administration authority or ship register institute."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 41",
+      "EngArticleContent": "The information of stability approved by the shipping administration authority or ship register institute mentioned in the preceding article shall be kept onboard the ship for use."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 42",
+      "EngArticleContent": "In case of modification of a passenger ship that may substantially affect the stability, the ship shall undergo the inclining experiment once again. In addition, the revised information shall be sent to the shipping administration authority or ship register institute for approval."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 43",
+      "EngArticleContent": "If a passenger ship's basic stability information is obtained from another same type ship's inclining experiment results that have been confirmed by the shipping administration authority or ship register institute to be reliably applicable to the ship, she may be exempted from undergoing the inclining experiment pursuant to Article 40 according to the application of the shipowner."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 44",
+      "EngArticleContent": "The minimum height of metacentric height aweather required for a passenger ship according to the weather conditions of navigating areas and drafts shall be computed according to the equation specified in Attachment 3."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 45",
+      "EngArticleContent": "The min. metacentric height required for a passenger ship when it carries passengers shall be computed according to the equation specified in Attachment 4."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 46",
+      "EngArticleContent": "The intact stability of a passenger ship shall be computed according to the weather conditions in the navigation area and the carriage of passengers and considering the free surface effect of normally, non-fully filled liquid tank under any normal carriage condition. The standard shall be one of the net metacentric heights as specified in the two preceding articles; whichever is the greater."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 47",
+      "EngArticleContent": "The stability of a damaged passenger ship shall comply with the provisions for the subdivision of passenger ships set forth in relevant laws and regulations."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 48",
+      "EngArticleContent": "In case of a passenger ship of special proportion and type, to which the provisions set forth in Articles 44 to 46 do not apply, the calculations of its stability shall be otherwise submitted to the shipping administration authority or ship register institute for approval."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 49",
+      "EngArticleContent": "The ballast for a passenger ship with a length of less than 24 meters needed to comply with stability specifications shall be the permanent ballast."
+    },
+    {
+      "EngArticleType": "C",
+      "EngArticleNo": "",
+      "EngArticleContent": "   Chapter 4 Passenger Cabins"
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 50",
+      "EngArticleContent": "Any passenger ship shall establish passenger cabins in accordance with the provisions prescribed in this chapter, except:\r\n1. A passenger ship which navigates an inland water route which does not exceed three hours; or\r\n2. A passenger ship which is approved by the shipping administration authority or ship register institute to carry passengers on weather decks."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 51",
+      "EngArticleContent": "Safety shall be ensured adequately for the locations, passages and construction of passenger cabins, and the spaces between them and other compartments; such passenger cabins shall be isolated from cold, heat, noise and odor. The following places shall in no case be used for passenger cabins:\r\n1. The lowest point of the cabin's top deck is below the max load line;\r\n2. The places before collision bulkheads;\r\n3. The places less than 60 cm in width or length;\r\n4. The places wherein the net height is less than 182 cm; however, for passenger ships navigating coastal, inland waters or shorter inland water routes, the height may be reduced to 140 cm if the shipping administration authority or ship register institute deems that there will be no obstruction to escape in an emergency;\r\n5. The places within 60 cm of the outer circumference of boiler spaces where heat insulation is not provided; and\r\n6. Other places where the shipping administration authority or ship register institute deems unsuitable for passenger dwelling and activities."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 52",
+      "EngArticleContent": "Passenger cabins shall be isolated from the crew accommodations. When it is impossible on account of the tonnage, type, construction or intended use of the ship, both cabins shall be clearly divided or restricted as much as possible."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 53",
+      "EngArticleContent": "Each space of the passenger cabin shall be marked with the use, class and number on the front of the door. Markings shall be made in characters or signs when cabins are separated for men’s and women’s use."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 54",
+      "EngArticleContent": "The floor decks of passenger cabins shall not be placed onto movable beams; they must have proper strength. If they are wood decks, they shall be firmly secured and the seams thereof shall be caulked; while, if steel decks, they shall be covered with wood boards or other materials that are approved by the shipping administration authority or ship register institute.\r\nThe steel weather open decks above passenger cabins and such steel weather decks carrying passengers shall be covered in accordance with the requirement set forth in the previous paragraph; however, the shipping administration authority or ship register institute may give an allowance for a ship that carries deck passengers."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 55",
+      "EngArticleContent": "All passenger cabins of any passenger ship shall be installed with stairways and vertical stairways for passengers to promptly escape to the lifeboat deck in accordance with the following provisions:\r\n1. Each watertight compartment or similarly restricted space or group of spaces located below the bulkhead deck shall be equipped with two escape routes of which at least one shall not go through the watertight door. However, one of the escape routes may be exempted if the shipping administration authority or ship register institute approves according to the characteristics and locations of compartments, and the number of passengers.\r\n2. Each main vertical zone or similarly restricted space or group of spaces located above the bulkhead deck shall have at least two practicable escape routes, of which at least one shall allow access to a stairway forming a vertical escape.\r\n3. The escape routes prescribed in the two preceding paragraphs shall have at least one enclosed stairway readily accessible, which shall have as much as possible continuous fire shelter from the level of its origin to the lifeboat embarkation deck. The width, number, and continuity of each stairways shall be approved by the shipping administration authority or ship register institute."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 56",
+      "EngArticleContent": "There shall be entrances provided for passenger cabins in compliance with the requirements shown below. More than two entrances shall be established if the certified number of passengers exceeds 50. Except as otherwise approved by the shipping administration authority or ship register institute, there shall keep as much as possible a suitable space between the entrances.\r\n1. Total width of each entrance shall be computed based on the certified number of passengers, 1cm for one person.\r\nHowever, every entrance shall be at least 80cm wide; and\r\n2. Every entrance shall not be directly intruded on by rain or waves."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 57",
+      "EngArticleContent": "If there are emergency exits in passenger cabins that are in compliance with the following requirements, they may be deemed and counted as specified in the preceding article:\r\n1. The net width is at least 60cm;\r\n2. It is easily opened or closed from both sides by one person; and\r\n3. Signs indicating the location are easily identifiable by cabin passengers.\r\nIf the passenger cabins mentioned in Item 1 of the preceding paragraph are designed for passengers with disabilities, the net width of the emergency exit shall be at least 80cm."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 58",
+      "EngArticleContent": "If the entrances prescribed in the two preceding articles are far above passenger cabin floors, stairways accessing such entrances shall be provided in compliance with the following requirements:\r\n1. The width of the stairways shall be greater than that of the entrances. However, in case of winding stairs or other difficult stairs or the upper or lower stairs near which there are obstructions, the shipping administration authority or ship register institute may grant a width slightly narrower than that of the entrances;\r\n2. The entrance shall as much as possible be established in the fore and aft directions of the ship;\r\n3. The angle between the entrance and the floor deck shall be within 45 degrees; and\r\n4. There shall be handrails on stairs, with fender boards at the back.\r\nThe shipping administration authority or ship register institute may slightly loosen the requirements of Item 3 and 4 in the previous paragraph for stairs in emergency exits."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 59",
+      "EngArticleContent": "The locations of the passages in steerage cabins accessible to entrances shall be subject to approval of the shipping administration authority or classification societies, and the net width thereof shall comply with the following requirements:\r\n1. For a passenger ship with the gross tonnage above 100 tons or carrying more than 100 passengers:\r\n(1) The net width of an accessible passage shall be at least 80cm.\r\n(2) A passage 4.5 m and over in length shall have a net width of at least 80 cm; and\r\n(3) A passage less than 4.5 m in length shall have a net width of at least 75 cm.\r\n2. For a passenger ship with the gross tonnage less than 100 tons or carrying less than 100 passengers:\r\n(1) The net width of an accessible passage shall be at least 80cm.\r\n(2) A passage 4.5 m and over in length shall have a net width of at least 70 cm; and\r\n(3) A passage less than 4.5 m in length shall have a net width of at least 60 cm.\r\nSteerage cabins less than 15 ㎡, subject to approval of shipping administration authority or classification societies, may be exempted from establishing the passages in accordance with the requirements set out in the previous paragraph."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 60",
+      "EngArticleContent": "The entrances of the places such as the paint rooms and combustible oil storerooms shall not connect with the passenger cabin doors, or be established at the places where they may endanger the safety of passengers."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 61",
+      "EngArticleContent": "When passenger cabins are adjacent to cargo holds, coal holds, storerooms, paint rooms and combustible oil storerooms, they shall be isolated with steel airtight bulkheads and steel decks."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 62",
+      "EngArticleContent": "Passenger cabins shall not adjoin oil tanks, except those in compliance with the following requirements:\r\n1. The passenger cabins, which are additionally installed with a steel airtight bulkhead; and, besides the wall ventilation, the space between the two bulkheads is accessible; and\r\n2. There shall no manholes or other openings on the top plate of oil tanks, and the plate shall be laid with non-combustible materials at least 38 mm in thickness, and there shall be sufficient ventilation for the passenger cabins."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 63",
+      "EngArticleContent": "Passenger cabins shall have sufficient windows for catching light and ventilation. However the number of windows may be reduced if the shipping administration authority or ship register institute deems that the lighting and ventilation facilities are adequate."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 64",
+      "EngArticleContent": "Passenger cabins of a passenger ship navigating through frigid zones shall be equipped with efficient heating equipment; however, such equipment may be exempted if the shipping administration authority or ship register institute deems unnecessary, or they cannot practicably be equipped in the ship."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 65",
+      "EngArticleContent": "The steerage cabins on the upper and lower decks of a passenger ship navigating international or outer sea routes shall be installed with ventilation windows in each tier of passenger deck individually. The cross-section of the ventilation window, and the inlet and outlet thereof shall be computed based on the certified number of passengers, 16 c㎡ allotted for every passenger; the cross-section of the ventilator of the steerage cabins located at both sides of the engine room shall be computed on the basis of 21 c㎡ for every passenger.\r\nIf the ventilator mentioned above is bent, the cross-section thereof shall be increased by an additional quantum of 5% to 10% for every bend according to the bending curvature. If it is a deflected ventilator, the cross-section shall be added with a 6% to 36% additional quantum to each deflection according to the deflecting curvature.\r\nNotwithstanding the requirements set forth in the two previous paragraphs, the cross-section of the ventilator may be properly reduced by the shipping administration authority or ship register institute, provided that:\r\n(1) The steerage cabin can be ventilated through the deck head openings of the superstructure; or\r\n(2) The deck house, or there is a mechanical ventilation device; or\r\n(3) There is redundant space in it; or\r\n(4) The air can flow between it and other cabins."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 66",
+      "EngArticleContent": "A passenger ship navigating in the tropical zone shall have her shell plates around the passenger cabins or the uncovered weather decks laid with proper heat-resistant materials as a protection."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 67",
+      "EngArticleContent": "Cabins and steerage cabins shall be classified according to the following requirements:\r\n1. Cabins:\r\n(1) Class A cabins shall have no more than two fixed berths in one cabin;\r\n(2) Class B cabins shall have no more than four fixed berths in one cabin; and\r\n(3) Class C cabins shall have no more than twelve fixed berths in one cabin.\r\n2. Steerage cabins:\r\n(1) Class A steerage cabins shall have fixed or movable berths, or reclining facilities;\r\n(2) Class B steerage cabins shall have board or matting berths;\r\n(3) Class C steerage cabins shall have seats or benches; and\r\n(4) Class D steerage cabins do not have the seats and sleeping facilities mentioned above.\r\nIf various class facilities mentioned in the second subparagraph of the previous paragraph are mixed in a steerage cabin without fixed partitions, the lowest class facility shall designate the class of the cabin."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 68",
+      "EngArticleContent": "Each cabin passenger shall be provided with a fixed berth. It shall not be substituted with a temporary berth or a sofa, nor an additional temporary berth or a sofa placed beside it for the passenger to sit or sleep on unless approved by the shipping administration authority or ship register institute for special reasons."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 69",
+      "EngArticleContent": "Berths in cabins shall be secured, and the arrangement and size thereof shall be made in accordance with the following requirements:\r\n1. The number of tiers of the berth shall not be more than two;\r\n2. Two berths shall not lean together closely, and shall have a passage of at least 75cm in-between;\r\n3. The top of the lower berth of a double-tier berth shall be no less than 30cm above the floor; the distance between the tops of the upper and lower berths, and the overhead space above the top of the upper berth shall be no less than 76cm.\r\n4. At least one side of every berth shall face a passage accessing the entrance; and\r\n5. The length and width of the inner edge of a berth in an international passenger ship shall be no less than 182cm and 60cm respectively, or, in a domestic passenger ship, no less than 180cm and 56cm respectively."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 70",
+      "EngArticleContent": "Fixed or movable berths in steerage cabins shall be arranged and sized in accordance with the following requirements:\r\n1. The number of tiers of berths shall not be more than three;\r\n2. When two berths are placed side by side, a partition board of at least 45cm in height shall be installed. When using either of them, there will be no need to cross over the other;\r\n3. The top of the lower berth of a double-tier one shall be no less than 30cm above the floor; the distance between the tops of the upper and the lower, berth and the overhead space above the top of the upper berth shall be no less than 76cm;\r\n4. The top of the lower tier of a triple-tier berth shall be no less than 30cm above the floor. The distance between the tops of the lower and the middle or the middle and the upper, or the overhead space above the top of the upper shall be no less than 66cm;\r\n5. The length of the inner edge of the berth shall be no less than 180cm, and the width, no less than 53cm; and\r\n6. Movable berths shall be installed with seat braces, which shall be firmly secured with bolts or other methods."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 71",
+      "EngArticleContent": "When a passenger ship is equipped with fixed berths for the exclusive use of children, which are smaller than the requirements prescribed in the two preceding articles, the following provisions shall be observed:\r\n1. The berths shall be clearly labeled \"Exclusively for children\"; and\r\n2. The length and width of the inner edge of the berth for children of less than three years of age shall be no less than 100cm and 50cm respectively, or, for children less than twelve years old, no less than 110cm and 50cm respectively."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 72",
+      "EngArticleContent": "Every berth shall have suitable facilities to maintain the safety of passengers."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 73",
+      "EngArticleContent": "Every cabin shall be segregated with compact, firm bulkhead, and shall directly access public passages."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 74",
+      "EngArticleContent": "Every cabin shall be installed with a strong door and lock, which shall be able to be opened from both sides of the door."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 75",
+      "EngArticleContent": "Reclining chairs in steerage cabins shall be arranged and sized as follows:\r\n1. One chair for one passenger only;\r\n2. The chairs shall have arms, and backrests that shall be easily adjusted backward to recline properly;\r\n3. The width and depth of the inner edges of each chair shall be no less than 50cm and 55cm for international passenger ships, and no less than 45cm, and 48cm for domestic passenger ships;\r\n4. The space in front of the chair shall be no less than 35cm;\r\n5. The distance between the side of the aisle and the center of any chair shall not exceed 2m; and\r\n6. The chairs shall be secured on decks, preventing them from moving due to rolling or pitching of the ship."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 76",
+      "EngArticleContent": "The board and matting ground berths in steerage cabins shall comply with the following requirements:\r\n1. The ground berths shall be at least 10cm above the top of the deck;\r\n2. The overhead space of the berths shall be kept at least 170cm, but may be properly reduced if approved by the shipping administration authority or ship register institute;\r\n3. The distance between the side of aisle and the center of the farthest berth shall not exceed 370cm; and\r\n4. The berths shall be firmly secured to avoid floating due to flooding."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 77",
+      "EngArticleContent": "Chairs and benches in steerage cabins shall be arranged and sized as follows:\r\n1. The depth of inner edges shall be no less than 40cm;\r\n2. Except for benches provided for a route of less than three hours, any chair shall have proper arms and a backrest, with one chair for each passenger only;\r\n3. The width of the inner edges of a chair and bench that each passenger occupies shall be no less than the requirements as follows:\r\n(1) For a voyage of less than one and a half hours: 40cm;\r\n(2) For a voyage of one and a half hours up to less than six hours: 45cm;\r\n(3) For a voyage of six hours up to less than twenty four hours: 50cm;\r\n4. The space in front of chairs and benches shall be no less than 15cm, except passenger ships built or imported prior to the promulgation of this amendment on March 2, 2016;\r\n5. The distance between the center of the farthest seat and the aisle shall not exceed 2m; and\r\n6. The chairs and benches shall be firmly secured to prevent movement due to rolling or pitching of the ship."
+    },
+    {
+      "EngArticleType": "C",
+      "EngArticleNo": "",
+      "EngArticleContent": "   Chapter 5 Certified Number of Passengers"
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 78",
+      "EngArticleContent": "The certified number of passengers of a passenger ship shall comply with the calculations as specified in Attachment 5 annexed hereto; in addition, it shall be approved by the shipping administration authority or ship register institute according to the equipment, stability, watertight compartments, passenger cabins, and capacities of provisions and fresh water."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 79",
+      "EngArticleContent": "If the certified number of passengers is computed based on the deck area, the computation shall only include the deck areas that are provided for their exclusive use."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 80",
+      "EngArticleContent": "When computing the area of passenger cabins, the following places shall be excluded:\r\n1. Passages,\r\n2. The areas above hatchways,\r\n3. Hatches and places within 60cm of the circumference thereof, and\r\n4. Cargo ports and places within 35cm in front and rear thereof, within a width of 60cm from the circumference of the ports.\r\nThe shipping administration authority or ship register institute may include the areas mentioned in Item 2 to 4 of the previous paragraph into calculations when requested by the owner of a passenger ship navigating inland water routes."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 81",
+      "EngArticleContent": "Upper decks and other unenclosed places of a passenger ship shall not be included for computing the certified number of passengers. However, a passenger ship that navigates an inland water route and is approved to carry deck passengers by the shipping administration authority or ship register institute, which deems that there is no fear of severe sea conditions, may include said places for the computation. Nonetheless, the following places shall be excluded:\r\n1. Areas of hatches, skylights, ship-side drains or other obstructions;\r\n2. Places between deckhouses, hatches, skylights and ship-side drains, with a width less than 60cm;\r\n3. Forecastle decks;\r\n4. The upper deck or forecastle deck between the bow stem and a place one-eighth of the ship’s length from the stem;\r\n5. Any place where the shipping administration authority or ship register institute deems necessary to be used for gathering passengers in an emergency; and\r\n6. Any place the shipping administration authority or ship register institute deems inappropriate for carrying passengers."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 82",
+      "EngArticleContent": "The area of passenger cabins or decks shall be computed as follows:\r\n1. For well-shaped places: average width * length;\r\n2. For well-shaped places: take the fore, mid and aft widths; add the sum of the fore and aft widths with 4 times of the mid width; therewith, the grand total obtained * length/6;\r\n3. For inclined and bending areas in the stern behind the spot having a length (from the stern equals to one half of the breadth: 2/3 of the length * the fore breadth of the areas.\r\n4. The area obtained from the above computation shall deduct the areas that shall not be included as specified in the two preceding articles."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 83",
+      "EngArticleContent": "The certified number of passengers of an international passenger ship shall be approved pursuant to Attachment 5;in addition, a promenade of at least 0.46 ㎡ for each passenger shall be provided. The shipping administration authority or ship register institute may reduce the certified number if the area of promenade decks is less than the said area, except for passenger ships navigating in shorter international routes."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 84",
+      "EngArticleContent": "The certified number of passengers of a passenger ship navigating in the outer sea route, on which the voyage takes 48 hours or more, shall be approved pursuant to Attachment 4;in addition, a promenade of at least 0.18 ㎡ for each passenger shall be provided. The shipping administration authority or ship register institute may reduce the certified number if the area of promenade decks is less than the said area, unless there are any specialcircumstances."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 85",
+      "EngArticleContent": "The certified number of passengers of a passenger ship navigating in the inland water route in daytime only may be properly increased as the shipping administration authority or ship register institute may deem appropriate. However, the minimum area occupied exclusively by a passenger shall be no less than 0.21 ㎡."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 86",
+      "EngArticleContent": "If the upper deck or other unenclosed places of a passenger ship are permitted to be used to carry passengers by the shipping administration authority or ship register institute, the certified number of deck passengers shall be computed as follows:\r\n1. For a ferryboat, the area of deck occupied by every deck passenger shall be no less than 0.40 ㎡;\r\n2. On a passenger ship whose voyage takes 12 hours or more, the area of deck occupied by every deck passenger shall be no less than 1.10 ㎡; and\r\n3. On a passenger ship whose voyage takes less than 12 hours, the area of deck occupied by every deck passenger shall be no less than 0.85 ㎡.\r\nIf the shipping administration authority or ship register institute deems it necessary, the weather decks used to carry deck passengers as mentioned in the previous paragraph shall be provided with awnings and shelter facilities."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 87",
+      "EngArticleContent": "The owner of a passenger ship shall publish the certified number of passengers in every part of the ship approved by the shipping administration authority or ship register institute in all conspicuous places."
+    },
+    {
+      "EngArticleType": "C",
+      "EngArticleNo": "",
+      "EngArticleContent": "   Chapter 6 Fresh Water; Board and room"
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 88",
+      "EngArticleContent": "Any passenger ship shall provide sufficient fresh water for all crew members and passengers to the next port where the fresh water are available.\r\nThe supply of fresh water for crew members and passengers each day shall be as follows:\r\n1. For crew and cabin passengers: no less than 20 liters; and\r\n2. For steerage passengers: no less than 12 liters.\r\nThe shipping administration authority or ship register institute may reduce the supply of fresh water mentioned in the preceding paragraph depending on the actual situation."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 89",
+      "EngArticleContent": "Besides the provision of fresh water pursuant to the standards mentioned in the preceding article, any seagoing passenger shall provide additional drinking water according to the days and the number of personnel of the route, based on a volume of 25 liters per 100 persons per day."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 90",
+      "EngArticleContent": "Besides the provision of water pursuant to the standards mentioned in the two preceding articles, any seagoing passenger ship shall provide additional fresh water in at least the three-day volume as emergency water."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 91",
+      "EngArticleContent": "If a passenger ship is equipped with the fresh water generator machine, which is approved by the shipping administration authority or ship register institute and is inspected before departure, two-thirds of the capacity of the generator may be excluded from computing the required volume of the fresh water in stock. Nevertheless, the ship shall provide emergency water even though its fresh water generator has a greater capacity than required for all persons on board."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 92",
+      "EngArticleContent": "Fresh water exclusively used for drinking shall be stored in tanks or drums, which shall not be made of materials that would cause deterioration of taste or quality of the water; nor shall any coating that would cause deterioration of taste or quality of water be used for painting the interior of such tanks or drums."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 93",
+      "EngArticleContent": "There shall be boiling equipment provided in a passenger ship that cannot supply clean, drinking water for timely supply of water. The equipment shall have a capacity computed according to the certified number of passengers, length of voyage, and condition of voyage, and shall be subject to the approval of the shipping administration authority or ship register institute."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 94",
+      "EngArticleContent": "A passenger ship voyaging 24 hours or more shall be provided with proper refrigerating and cooking equipment."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 95",
+      "EngArticleContent": "All cabin passengers on board an international passenger ship whose voyage would take up three days or more shall take meals in the mess room, which shall have a capacity of accommodating not less than half of the total cabin passengers to take meals at a time.\r\nThe mess room need not be set up for an international passenger ship whose voyage is less than three days, and for steerage passengers."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 96",
+      "EngArticleContent": "All cabin and steerage passengers on board an international passenger ship whose voyage would last seven days or more shall take meals in the mess room. The mess room of cabin passengers shall have the same capacity as specified in the preceding article, and that for steerage passengers shall have a capacity of accommodating not less than one-third of total steerage passengers to take meals at a time."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 97",
+      "EngArticleContent": "Except as otherwise stipulated in the two preceding articles, the passenger ship furnishing meals for cabin or steerage passengers in the mess room shall provide a mess room capable of accommodating no less than one-third of the total number of passengers on board. While, if none of such mess room in the ship, there shall be an adequate passage in front of galleys or pantries accessible to passengers, except for passenger ships navigating shorter voyages, which do not furnish meals."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 98",
+      "EngArticleContent": "The berths in passenger cabins of a passenger ship shall be furnished with clean sleeping accommodations such as bed blankets, mattresses, coversheets and pillows, as well as a proper quantity of clean sleeping accommodations for steerage passengers to rent."
+    },
+    {
+      "EngArticleType": "C",
+      "EngArticleNo": "",
+      "EngArticleContent": "   Chapter 7 Sanitary Equipment"
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 99",
+      "EngArticleContent": "(Deleted)"
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 100",
+      "EngArticleContent": "(Deleted)"
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 101",
+      "EngArticleContent": "An international passenger ship whose voyage spans midnight shall provide at least one public bath room, for men and women separately. Partition boards shall be set up for bathing facilities of the public bath room. The number of bathing facilities shall be calculated based on the passenger quota, and at least one for every 100 passengers. When the number of passengers is less than 100, it shall be deemed as 100. If there are bathing facilities in passenger cabins, the passenger quota could be excluded from the calculation of the number of bathing facilities."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 102",
+      "EngArticleContent": "When a bathroom mentioned in the preceding article is combined with a washroom, there shall be a partition board to separate them. All bathtubs and shower spaces shall be of the single type and shall be installed with partition boards for individual use."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 103",
+      "EngArticleContent": "A domestic passenger ship whose voyage spans midnight shall provide at least one public bath room, for men and women separately. Partition boards shall be set up for bathing facilities of the public bath room. The number of bathing facilities shall be calculated based on the certified number of passengers as follows:\r\n1. For a domestic passenger ship whose voyage takes less than 12 hours, at least one bathing facility for every 200 passengers shall be set up. When the number of passengers is less than 200, it shall be deemed as 200.\r\n2. For a domestic passenger ship whose voyage takes more than 12 hours, at least one bathing facility for every 100 passengers shall be set up. When the number of passengers is less than 100, it shall be deemed as 100.\r\nIf there are bathing facilities in passenger cabins, the certified number of cabin passengers may be excluded from the calculation of the number of bathing facilities.\r\nA domestic passenger ship of under 1,000 gross tonnage or special navigating route and conditions, subject to approval of the shipping administration authority or classification societies, may be exempted from setting up the public bath rooms in accordance with the requirements set out in the previous paragraphs."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 104",
+      "EngArticleContent": "An international passenger ship shall provide public rest rooms, for men and women separately, with flush toilets and partition boards. The number of flush toilets shall be calculated based on the passenger quota as follows; there shall also be some urinals provided for male passengers:\r\n1. For an international passenger ship whose voyage takes less than 12 hours, at least one flush toilet for every 75 passengers shall be set up. When the number of passengers is less than 75, it shall be deemed as 75.\r\n2. For an international passenger ship whose voyage takes more than 12 hours but less than 24 hours, at least one flush toilet for every 50 passengers shall be set up. When the number of passengers is less than 50, it shall be deemed as 50.\r\n3. For an international passenger ship whose voyage takes more than 24 hours, at least one flush toilet for every 25 passengers shall be set up. When the number of passengers is less than 25, it shall be deemed as 25.\r\nIf there are flush toilets in passenger cabins, the certified number of cabin passengers may be excluded from the calculation of the number of flush toilets."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 105",
+      "EngArticleContent": "Except for a domestic passenger ship whose voyage takes less than 30 minutes and is exempted from setting up flush toilets upon approval of the shipping administration authority, a domestic passenger ship shall provide public rest rooms, for men and women separately, with flush toilets and partition boards. The number of flush toilets shall be calculated based on the certified number of passengers as follows; there shall also be some urinals provided for male passengers:\r\n1. For a domestic passenger ship whose voyage takes more than 30 minutes but less than 2 hours, at least one flush toilet for every 100 passengers shall be set up. When the number of passengers is less than 100, it shall be deemed as 100.\r\n2. For a domestic passenger ship whose voyage takes more than 2 hours but less than 12 hours, at least one flush toilet for every 75 passengers shall be set up. When the number of passengers is less than 75, it shall be deemed as 75.\r\n3. For a domestic passenger ship whose voyage takes more than 12 hours but less than 24 hours, at least one flush toilet for every 50 passengers shall be set up. When the number of passengers is less than 50, it shall be deemed as 50.\r\n4. For a domestic passenger ship whose voyage takes more than 24 hours, at least one flush toilet for every 50 passengers shall be set up. When the number of passengers is less than 50, it shall be deemed as 50.\r\nIf there are flush toilets, including accessible flush toilets, in passenger cabins, the certified number of cabin passengers may be excluded from the calculation of the number of flush toilets. If only one flush toilet is set up in a restroom with a latch, the rest room is available for both male and female passengers."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 106",
+      "EngArticleContent": "(Deleted)"
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 107",
+      "EngArticleContent": "An international passenger ship whose voyage would take seventy-two hours or more shall provide exclusive sick bays, of which the deck area shall be no less than 3.4 ㎡. If the certified number of passengers is 15, an additional area of 1.67 ㎡ shall be required for every additional 50 persons, with the number of less than 50 to be counted as 50 persons."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 108",
+      "EngArticleContent": "The sick bay prescribed in the preceding article shall be built on the top passenger deck and properly segregated from other passenger cabins."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 109",
+      "EngArticleContent": "In addition to the sick bay to be built as prescribed above, an international passenger ship whose voyage would take seven days or more shall establish one isolated sick bay to be used exclusively for patients who suffer from an epidemic disease or serious illness. If more than four sick bays are built, two them shall be used as isolated sick bays, for men and women separately."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 110",
+      "EngArticleContent": "There shall be in every such sick bay a supply of beds, toilet utensils and flush toilets; and a bathroom in every isolated sick bay additionally."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 111",
+      "EngArticleContent": "An international passenger ship whose voyage would take seventy two hours or more shall provide a medical room, which shall be supplied with medicine stands, diagnostic beds, and different necessary medical supplies and apparatus."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 112",
+      "EngArticleContent": "Any sick bay and medical room shall in no case be used to store other utensils or cargoes.\r\nExcept as used exclusively for patient passengers, any sick bay shall in no case be used for any other purpose.\r\nAny medical room shall in no case be used as a bedroom for any person."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 113",
+      "EngArticleContent": "Any passenger ship in which a medical room is established shall carry some duly qualified and competent surgeons and nurses; the number thereof shall be specified by the shipping administration authority."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 114",
+      "EngArticleContent": "A domestic passenger ship whose voyage would take seventy-two hours or more shall provide a proper number of exclusive sick bays and at least one nurse. A medical room and a qualified surgeon shall be provided additionally if there are over three hundred passengers on board; however, the surgeon may be not required if approved by the shipping administration authority due to extraordinary circumstances."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 115",
+      "EngArticleContent": "Any passenger ship having neither medical rooms nor sick bays shall keep on board simple and convenient medical apparatus and medical supplies for emergencies. The number and category thereof shall be prescribed by the medical authority after coordination is made between the shipping administration authority and such authority. The apparatus and supplies shall be in the custody of the officer from the deck department designated by the master of the ship."
+    },
+    {
+      "EngArticleType": "C",
+      "EngArticleNo": "",
+      "EngArticleContent": "   Chapter 8 Concurrent Carriage of Cargoes"
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 116",
+      "EngArticleContent": "When a passenger ship carries cargoes concurrently, the stability of the ship shall be in compliance with the provisions set forth in Chapter 3 and the access to escape routes and ship equipment shall not be compromised."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 117",
+      "EngArticleContent": "When a passenger ship carries concurrently a large volume of bulk cargoes, the ship shall have a loading plan approved by the shipping administration authority or ship register institute.\r\nThe loading plan shall comprise stowage arrangements and stability computations."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 118",
+      "EngArticleContent": "Except where there is special equipment and safe, reliable measures, which are approved by the shipping administration authority or ship register institute, no passenger ship shall in any case be allowed to carry dangerous cargoes concurrently."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 119",
+      "EngArticleContent": "Except as otherwise approved by shipping administration authority or ship register institute, any passenger ship shall in no case be allowed to carry deck cargoes concurrently.\r\nWhen granting the approval mentioned in the previous paragraph, the shipping administration authority or ship register institute shall re-compute the certified number of passengers by deducting the spaces where the concurrent deck cargoes are stowed."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 120",
+      "EngArticleContent": "When livestock and live poultry are carried on a passenger ship, there shall be proper spacing and appropriate facilities for feeding and cleaning."
+    },
+    {
+      "EngArticleType": "C",
+      "EngArticleNo": "",
+      "EngArticleContent": "   Chapter 9 Discipline On Ship"
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 121",
+      "EngArticleContent": "Passengers on board a passenger ship shall obey the command of the master and observe the order of the ship."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 122",
+      "EngArticleContent": "Any passenger on board a passenger ship shall not drink excessive wine, gamble or do any unlawful behavior. The master of the ship may order to stop such a behavior if it is done willfully. Or, he may enforce obedience to his order against those who do not obey and may ask some other passengers to act as the witnesses."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 123",
+      "EngArticleContent": "In case of a birth, death, missing person or injury occurring on board a passenger ship, the master shall record the same in the logbook and issue a certificate to that effect."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 124",
+      "EngArticleContent": "Any restricted area and inaccessible or untouchable equipment shall be clearly labeled."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 125",
+      "EngArticleContent": "No berth of a crewmember shall under any circumstances be provided for passenger use unless granted by the master owing to special incidents."
+    },
+    {
+      "EngArticleType": "C",
+      "EngArticleNo": "",
+      "EngArticleContent": "   Chapter 10 Emergency Preparedness"
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 126",
+      "EngArticleContent": "Before a passenger ship departs, the master of the ship shall appoint officers to inspect and check the hull and machinery to ensure that they are in normal state, and to have the equipment and accessories thereof readily available. Specific persons shall be designated to take up tasks for emergencies, such as life saving, fire fighting, and rescuing."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 126-1",
+      "EngArticleContent": "For newly purchased or built passenger ships, the operators shall complete the following training before operation and submit the list of trainees, the training result, and the report on muster drill to the shipping administration authority:\r\n1. Training related to equipment, operating procedures, and responsibilities.\r\n2. Muster drill."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 127",
+      "EngArticleContent": "Apart from the requirements stipulated in the preceding article, the master shall post up, before the passenger ship departs, the muster list in crew compartments."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 128",
+      "EngArticleContent": "The muster list mentioned in the preceding article shall include:\r\n1. All crewmembers' assigned duties and the positions where they shall be for different emergencies;\r\n2. Assembling passengers and directing passengers to take actions and the positions where they shall be; and\r\n3. Markings and Indications of different emergency sounds and signals."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 129",
+      "EngArticleContent": "The assigned duties mentioned in the preceding article shall include:\r\n1. Shutting side scuttles, watertight doors, fire doors, drain ports, and all sewage or other discharge holes on shell plates below the bulkhead deck line of compartment;\r\n2. Stopping fans and ventilation systems;\r\n3. Operating all lifesaving, fire fighting, lights, sound signals, flag signals, and rescue equipment;\r\n4. Preparing and launching lifeboats, life rafts and other lifesaving equipment;\r\n5. Fire patrolling and extinguishing fires;\r\n6. Designating deck crew to assemble passengers and pay attention to:\r\n(1) giving passenger warnings;\r\n(2) inspecting passengers' clothes, footwear, and life vests to ensure that they have donned them suitably;\r\n(3) gathering passengers and directing them to the places where they shall be;\r\n(4) directing passengers to move and keeping order in the passageways and on the stairways;\r\n(5) helping the old, the weak, women and children passengers as much as possible; and\r\n(6) checking that blankets are taken to the survival craft.\r\n7. Appointing specific persons to keep the portable radio equipment;\r\n8. Designating a rescue team and setting up a damage control center;\r\n9. Designating a qualified life-saving crew to take charge of operation of each survival craft; and\r\n10. Any task with regard to emergency that the master deems necessary."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 130",
+      "EngArticleContent": "Each lifeboat shall be controlled by a designated deck officer who is a qualified lifeboat operator, with a designated deputy officer assigned. The controller shall keep in his hand the name list of lifeboat crewmembers and shall be responsible for familiarizing them with all tasks."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 131",
+      "EngArticleContent": "Each lifeboat shall be manned with qualified crewmembers based on the carrying capacity of persons as follows:\r\n1. For a capacity of under 41: two members;\r\n2. For a capacity of 41 and under 62: three members;\r\n3. For a capacity of 62 and under 86: four members; or\r\n4. For a capacity of 86 and over: five members."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 132",
+      "EngArticleContent": "Every motor lifeboat shall be manned by a person able to manage and operate the machinery therein."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 133",
+      "EngArticleContent": "Every lifeboat that carries radio and search light equipment shall be manned by a person able to operate such equipment."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 134",
+      "EngArticleContent": "Every life raft shall be manned by a person that is familiar with management and operation of such raft. However, the requirement may be relieved for passenger ships navigating in the coastal or inland water routes if approved by the shipping administration authority."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 135",
+      "EngArticleContent": "All watertight doors on the bulkheads of compartments of a passenger ship during navigation shall be shut. However, if they are opened due to a work need, they shall be able to be shut any time."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 136",
+      "EngArticleContent": "A drill of operation of all shutoffs of watertight doors, side scuttles, active live valves and drain ports, soot and garbage chutes shall be made at least once a week. However, one full drill shall be conducted on a ship navigating a voyage of seven days or more before she leaves a port and at least once every seven days thereafter during the voyage.\r\nAll power watertight doors and hinged doors located on the main transverse bulkheads shall be operated every day during the voyage."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 137",
+      "EngArticleContent": "All watertight doors and connecting accessories and indicators thereof, and all active valves that shall be shut off as required for keeping watertightness and those in the connecting pipes required for damage control, shall be inspected periodically at least once every seven days during navigation."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 138",
+      "EngArticleContent": "The public address system shall be tested at least once every seven days."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 139",
+      "EngArticleContent": "Steering gear, steam horn, and communicating systems between the navigation bridge, wheel house and machinery space shall be inspected and tested once before departure."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 140",
+      "EngArticleContent": "Before a passenger ship leaves sheltered waters, the cargo hatches, manholes and air pipes on weather decks shall be inspected and kept closed tightly."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 141",
+      "EngArticleContent": "The line-throwing device of a passenger ship, if any, shall be test operated once every six months."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 142",
+      "EngArticleContent": "The emergency lights and the power system thereof of a passenger ship, if any, shall be tested once every seven days."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 143",
+      "EngArticleContent": "The master of an international passenger ship shall direct his crew through lifesaving and fire drills once every seven days, and once after the ship leaves the last port; except for the ship navigating a shorter international route.\r\nThe master of a domestic passenger ship shall direct his crew through a lifesaving and fire drill once every fourteen days."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 144",
+      "EngArticleContent": "The master of a passenger ship navigating in the international or outer sea route for a voyage that takes fourteen days or more shall command every class of crew members to gather and direct passengers to carry out lifesaving and fire drills within 24 hours after the ship leaves the port of departure."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 145",
+      "EngArticleContent": "In the drills for lifeboats that are conducted consecutively, each group of lifeboats shall be lifted overboard by turn, and shall be lowered at least once every three months."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 146",
+      "EngArticleContent": "The time, place and condition of each of the inspections, tests, operations, drills provided in Article 136 through 145, together with any defect found and corrective measures thereof, shall be recorded in the logbook."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 147",
+      "EngArticleContent": "Every watertight door, side scuttle, side door, fire door and any other opening that shall be shut during navigation pursuant to regulations shall be so shut before the ship leaves a port, and the exact time of opening and closing shall be recorded in the logbook."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 148",
+      "EngArticleContent": "In a passenger ship there shall be the descriptions of various signals to gather passengers and the responsive actions for passengers to take against emergent cases, which shall be elaborated in proper words, figures, tables and lists and posted up in eye-catching places in every passenger cabin and explained via TV, a broadcasting system, or the crew before sailing."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 149",
+      "EngArticleContent": "In a passenger ship there shall be a clearly prepared Damage Control Plan illustrating for each deck and hold the boundaries of the watertight compartments, the openings therein with the means of closure and position of any control thereof, and the arrangements for the correction of any list due to flooding. The plan shall be posted permanently in proper places, and the manuals elaborating such information shall be also provided for the crew's use."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 150",
+      "EngArticleContent": "In a passenger ship there shall be a clearly prepared Fire Control Plan illustrating fire control stations, zones, alarms, the detection system, sprinkler system and extinguishing equipment on decks; the methods accessing different compartments and decks; and the ventilation system, including the positions of the control device and switch board of the main fan and the number of each fan in the compartments. The plan shall be posted where crew may read them.\r\nThe plan mentioned in the previous paragraph may be substituted with manuals if approved by the shipping administration authority or ship register institute; such manuals shall be distributed to key persons on board the ship, with one copy kept where it is accessible at all times."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 151",
+      "EngArticleContent": "The plans or manuals mentioned in the two preceding articles shall be updated from time to time to ensure that they are the latest editions."
+    },
+    {
+      "EngArticleType": "C",
+      "EngArticleNo": "",
+      "EngArticleContent": "   Chapter 11 Passenger Ship Safety Certificate"
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 152",
+      "EngArticleContent": "Any passenger ship without a passenger ship safety certificate shall in no case carry passengers, nor shall so carry after the certificate of the ship expires."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 153",
+      "EngArticleContent": "When the shipping administration authority or classification society approves a passenger ship after inspection, it shall issue a passenger ship safety certificate.\r\nThe passenger ship safety certificate shall have the format as set forth in Attachment 6 and Attachment 7 annexed hereto."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 154",
+      "EngArticleContent": "In case the number of and the classes for passengers carried on board a passenger ship vary with the regular state of seasonal climate on her voyage, the carrier may apply for indicating such variations with the seasons and districts in the safety certificate."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 155",
+      "EngArticleContent": "Before making an increase, decrease or modification of the passenger cabin arrangement of a passenger ship that would affect the certified number of passengers or the compliance of the entries of the passenger ship safety certificate, the owner shall furnish revised plans and drawings and specifications to the shipping administration authority or ship register institute for approval. No work for such purpose shall be done unless approval is granted. The passenger ship certificate of the ship shall be renewed after such work is inspected and approved."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 156",
+      "EngArticleContent": "Before a passenger ship safety certificate expires or any entry thereof is altered, the shipowner shall apply in writing to renew the safety certificate. If the business plan of the ship is changed, the revised plan and necessary drawings and specifications shall be attached to the application."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 157",
+      "EngArticleContent": "If the passenger ship safety certificate of an international passenger ship expires during navigation abroad, the shipowner or the master of a ship shall apply for inspection and renewal of the certificate with the ship register institute."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 158",
+      "EngArticleContent": "The passenger ship safety certificate and the layout of deck passengers shall be posted the conspicuous places on the ship."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 159",
+      "EngArticleContent": "A certificate fee of NT$300 shall be levied and collected from the shipowner for each application for issuing, renewing, reissuing a passenger ship safety certificate."
+    },
+    {
+      "EngArticleType": "C",
+      "EngArticleNo": "",
+      "EngArticleContent": "   Chapter 12 Supplementary Provision"
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 160",
+      "EngArticleContent": "The present Regulations shall come into force on the day of promulgation."
+    }
+  ]
+}
