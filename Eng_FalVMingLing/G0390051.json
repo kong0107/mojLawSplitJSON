@@ -3,8 +3,8 @@
 	"英文法規名稱": "Regulations Governing Capital Adequacy of Insurance Companies",
 	"中文法規名稱": "保險業資本適足性管理辦法",
 	"法規網址": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0390051",
-	"最新英文異動日期": "20210930",
-	"沿革內容": "1.Promulgated by Ministry of Finance (90-tai-tsai-pao No. 0900751413) in total of 6 articles on 2001.12.20; the law comes into force on 2003.7.9.\r\n2.Amended on December 28, 2007\r\n3.Articles 5 and 9 amended on November 2, 2011; Enforce from January 1, 2012.\r\n4.Amended on 18 May 2015 per Order Ref. Jin-Kuan-Bao-Tsai 10402503001 of the Financial Supervisory Commission \r\n5.Amendment to Article 5, 6, 9 and 10 promulgated per Order No. Jin-Guan-Bao-Cai-Zi 10804960001 dated Dec 4, 2019; Enforce from April 1, 2020.\r\n6.Amended on 30 September 2021 per Order No. Jin-Guan-Bao-Cai-Zi 11004937871 of the Financial Supervisory Commission.",
+	"最新英文異動日期": "20230804",
+	"沿革內容": "1.Promulgated by Ministry of Finance (90-tai-tsai-pao No. 0900751413) in total of 6 articles on 2001.12.20; the law comes into force on 2003.7.9.\r\n2.Amended on December 28, 2007\r\n3.Articles 5 and 9 amended on November 2, 2011; Enforce from January 1, 2012.\r\n4.Amended on 18 May 2015 per Order Ref. Jin-Kuan-Bao-Tsai 10402503001 of the Financial Supervisory Commission \r\n5.Amendment to Article 5, 6, 9 and 10 promulgated per Order No. Jin-Guan-Bao-Cai-Zi 10804960001 dated Dec 4, 2019; Enforce from April 1, 2020.\r\n6.Amended on 30 September 2021 per Order No. Jin-Guan-Bao-Cai-Zi 11004937871 of the Financial Supervisory Commission.\r\n7.Article 2, 4, and 10 are amended, and 2-1 is added by the Financial Supervision Commission order Jin-Guan-Bao-Cai-Zi 11204924051 on August 4, 2023; The regulations shall become effective on the date of promulgation except for Article 2, 2-1, and 4 which shall become effective from December 31, 2023",
 	"法規內容": [
 		{
 			"條號": "Article 1",
@@ -12,7 +12,11 @@
 		},
 		{
 			"條號": "Article 2",
-			"條文內容": "The term \"adjusted net capital\" as used in the Act means the total capital of an insurance company as recognized by the competent authority in accordance with these Regulations, and includes:\r\n1.Owners' equity recognized; and\r\n2.Other adjustment items prescribed by the competent authority."
+			"條文內容": "The term \"adjusted net capital\" as used in the Act is classified into Tier 1 unlimited capital, Tier 1 limited capital and Tier 2 capital.\r\nTier 1 unlimited capital covers common share, capital surplus, retained earnings and other comprehensive income that comprise authorized capital recognized by the competent authority and adjustment items set out in the relevant reports and fill-in manuals using the scope and calculation methods for adjusted net capital and risk-based capital of insurance companies (referred to as the “fill-in manuals” hereunder) as stipulated in these Regulations.\r\nTier 1 limited capital covers the sum of the following items and adjustment items set out in the fill-in manuals:\r\n1.Non-cumulated preferred shares liability that do not contain interest rate step-up condition or other incentives to redeem.\r\n2.Non-cumulative subordinated bonds that do not contain interest rate step-up condition or other incentives to redeem.\r\nTier 2 capital covers the sum of the following items and adjustment items set out in the fill-in manuals:\r\n1.Cumulative Preferred shares liability that may contain interest rate step-up conditions or other incentives to redeem.\r\n2.Cumulative subordinated bonds that may contain interest rate step-up conditions or other incentives to redeem.\r\n3.Subordinated bonds that have an initial maturity of at least ten years.\r\n4.Convertible subordinated bonds with an initial maturity of at least five years but less than ten years.\r\n5.When first adopting the International Financial Reporting Standards for real estate, special reserve funds and special reserves set aside for real estate property using fair value or re-estimated value as the deemed cost.\r\n6.Fair value adjustments of investment real estate."
+		},
+		{
+			"條號": "Article 2-1",
+			"條文內容": "The common shares, preferred shares and subordinated bonds issued by an insurance company in 2024 and thereafter shall be deemed not issuing such capital instruments when calculating the adjusted net capital if the following circumstances occur:\r\n1.Upon or after issuance, the insurance company provides relevant financing to the holders of such capital instruments, which impairs the actual effect of such capital instruments.\r\n2.The insurance company has significant influence to whom hold such capital instruments.\r\n3.Subsidiaries of the insurance company or its parent financial holding company hold such capital instruments.\r\nIf a capital instrument issued by an insurance company in 2024 and thereafter is invested by its parent financial holding company with external sources of finance, the insurance company should determine the tier of the capital instrument based on the classification of capital instruments issued by it and by its parent company, whichever is lower, unless it is otherwise approved by the competent authority."
 		},
 		{
 			"條號": "Article 3",
@@ -20,7 +24,7 @@
 		},
 		{
 			"條號": "Article 4",
-			"條文內容": "The term \"An insurance company's ratio of total adjusted net capital to risk-based capital (hereinafter referred to as the \"capital adequacy ratio\") and the net worth ratio shall not be less than a certain ratio\" as used in the Article 143-4 of the Act means shall not be less than the grade of adequate capital as used in the Article 5.\r\nAn insurance company's capital adequacy ratio shall be calculated according to the following formula:\r\nCapital adequacy ratio = (adjusted net capital / risk-based capital) X 100%\r\nAdjusted net capital of Article 2 and the risk-based capital of Article 3 must be calculated in accordance with the relevant reports and filled-in manuals using the scope and calculation method for the adjusted net capital and risk-based capital of insurance companies as stipulated by the competent authorities.\r\nThe term “the net worth ratio” as used in the Paragraph 1 means that the owner's equity divided by total assets excluding separate accounts for investment-linked insurance specified in the financial report audited by a certified public accountant, except as otherwise provided by the competent authority."
+			"條文內容": "The term \"An insurance company's ratio of total adjusted net capital to risk-based capital (hereinafter referred to as the \"capital adequacy ratio\") and the net worth ratio shall not be less than a certain ratio\" as used in the Article 143-4 of the Act means shall not be less than the grade of adequate capital as used in the Article 5.\r\nAn insurance company's capital adequacy ratio shall be calculated according to the following formula:\r\nCapital adequacy ratio = (adjusted net capital / risk-based capital) X 100%\r\nAdjusted net capital of Article 2 and the risk-based capital of Article 3 must be calculated in accordance with the fill-in manual.\r\nThe term “the net worth ratio” as used in the Paragraph 1 means that the owner's equity divided by total assets excluding separate accounts for investment-linked insurance specified in the financial report audited by a certified public accountant, except as otherwise provided by the competent authority."
 		},
 		{
 			"條號": "Article 5",
@@ -44,7 +48,7 @@
 		},
 		{
 			"條號": "Article 10",
-			"條文內容": "These Regulations shall enter into force from the date of issuance."
+			"條文內容": "These Regulations shall enter into force on the date of promulgation, except for Article 2, Article 2-1, and Article 4 that are amended and promulgated on August 4, 2023 will enter into force on December 31, 2023."
 		}
 	]
 }
