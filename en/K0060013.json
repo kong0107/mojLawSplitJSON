@@ -1,0 +1,278 @@
+{
+	"pcode": "K0060013",
+	"LawLevel": "命令",
+	"EngLawName": "Administrative Regulations on Radio Waves",
+	"name": "電波監理業務管理辦法",
+	"EngLawModifiedDate": "20180605",
+	"attachments": {
+		"0000004223": "Appendix 1 Radio Frequency Assignment Application Form.pdf",
+		"0000004224": "Appendix 2 Classification of emissions and necessary bandwidths.pdf",
+		"0000004225": "Appendix 3 Table of Transmitter Frequency Tolerances.pdf",
+		"0000004226": "Appendix 4 Table of Maximum Permitted Spurious Emissions Power Levels.pdf",
+		"0000004227": "Appendix 5 Radio Frequency Interference Complaint Form.pdf"
+	},
+	"histories": [
+		"43 Articles promulgated in full by the Ministry of Transportation and Communications（MOTC） on Jan. 24, 1970. Ref ： Jiao-Yu 59 Tze No. 00886, and by Ministry of Nation Defense （MND）on Jan. 24, 1970. Ref ：59 Ge-Fei Tzu No. 0274",
+		"The Articles amended and promulgated by MOTC on Oct. 18, 1979. Ref ： Jiao-Yu （68） Tze No. 17691, and by MND on Oct. 18, 1979. Ref ：（68） Jia-Zuo Tzu No. 1941",
+		"55 Articles and the title amended and promulgated in full by MOTC on Jan. 20, 1997. Ref：Jiao-Yu- Fa Tze No.8605",
+		"The amendment of Articles 26 and 46-1 promulgated by MOTC on Jan.3, 2003. Ref： Jiao-Yu-fa Tze No. 091B000171",
+		"The amendment of Articles 2,3,5,24~26, 45,46-1,49,50,52~54 promulgated by National Communications Commission (NCC) on July 23, 2007. Ref: Tung-Chuan-Fa Tze No. 09605106271",
+		"The amendment of Articles 1, 3~5, 10, 12, 14, 16, 17, 22, 23, 29~31, 36, 42, 44, 51 and Attachments 1 of Articles 18, Attachments 2 of Articles 19, Attachments 3 of Articles 20, promulgated by National Communications Commission (NCC) on June 14, 2013. Ref: Tung-Chuan-Tz-Ji Tze No. 10243021200",
+		"Amendments to 54 articles of the Regulations by National Communications Commission on June 5 of 2018 (Order Tong-Chuan-Zi-Yuan-Zi No. 10743011980)"
+	],
+	"divisions": [
+		{
+			"type": "chapter",
+			"number": 100,
+			"title": "General Provisions",
+			"start": 100,
+			"end": 300
+		},
+		{
+			"type": "chapter",
+			"number": 200,
+			"title": "Allocation, Assignment and Abolishment of Radio Frequency",
+			"start": 400,
+			"end": 1300
+		},
+		{
+			"type": "chapter",
+			"number": 300,
+			"title": "The Use of Radio Frequency and Handling of Radio Interference",
+			"start": 1400,
+			"end": 3000
+		},
+		{
+			"type": "chapter",
+			"number": 400,
+			"title": "Identification of Station",
+			"start": 3100,
+			"end": 5000
+		},
+		{
+			"type": "chapter",
+			"number": 500,
+			"title": "Supplementary Provisions",
+			"start": 5100,
+			"end": 5400
+		}
+	],
+	"articles": [
+		{
+			"number": 100,
+			"content": "The regulations are formulated in accordance with Paragraph 1, Article 48 of the Telecommunications Act (hereinafter referred to as the Act)."
+		},
+		{
+			"number": 200,
+			"content": "National Communications Commission is the competent authority of the Regulations."
+		},
+		{
+			"number": 300,
+			"content": "The terms used in the regulations are defined as follows:\r\n1. Radio and TV broadcast: refers to radio and television signals broadcast by radio or television stations for public video or audio receptions.\r\n2. Maritime communications: refers to radiocommunications between coast stations and ship stations, or between ship stations but does not include maritime satellite communications.\r\n3. Maritime satellite communications: refers to satellite radiocommunications of a mobile earth station on maritime vessels.\r\n4. Land mobile satellite communications: refers to mobile satellite communications of mobile earth station on land.\r\n5. Radio navigation communications: refers to radio communications for navigation.\r\n6. Bandwidth: refers to the band of necessary radio frequency emitted under certain conditions and circumstances.\r\n7. User: refers to those who have installed radio equipment that emits radio frequency.\r\n8. Harmful interference: refers to interference to radio communications; such interference can endanger the functions of radio navigation or other safety communications, or seriously affect, interfere or repeatedly block radiocommunications."
+		},
+		{
+			"number": 400,
+			"content": "Radio frequency between 8.3 kHz and 3 THz shall be assigned in accordance with the “Table of Radio Frequency Allocations of the Republic of China” (hereinafter referred to as the Table of Radio Frequency Allocations) promulgated by the agency designated by the Executive Yuan."
+		},
+		{
+			"number": 500,
+			"content": "Radio equipment shall adopt the latest telecommunications technology, and the number and bandwidth of its radio frequency shall be used in the most effective way."
+		},
+		{
+			"number": 600,
+			"content": "Under the premise of not causing harmful interference, the competent authority may assign the same radio frequency to more than one user."
+		},
+		{
+			"number": 700,
+			"content": "According to Table of Radio Frequency Allocations, users of radio frequencies within a specific band who commit to not being the cause of any harmful interference shall not request to be protected from harmful interference."
+		},
+		{
+			"number": 800,
+			"content": "Radio communications frequencies shall not cause harmful interference to frequencies of radio navigation and other safety communications."
+		},
+		{
+			"number": 900,
+			"content": "The emission of radio frequency shall not cause harmful interference to international distress frequencies.\r\nThe aforesaid international distress frequencies are 490 kHz, 518 kHz, 2.182 MHz, 2.1875 MHz, 121.5 MHz, 156.525 MHz, 156.8 MHz, 406.1 MHz and other distress, warning, emergency or safety signals."
+		},
+		{
+			"number": 1000,
+			"content": "Radio frequencies shall be assigned by the competent authority prior to use, except for frequency of the following stations or equipment:\r\n1. Industrial, scientific and medical radio wave radiation device;\r\n2. Low-power radio wave radiation device;\r\n3. Amateur station;\r\n4. Ship station;\r\n5. Aircraft station."
+		},
+		{
+			"number": 1100,
+			"content": "Those who apply for assignment of radio frequency shall submit Appendix 1 “Radio Frequency Assignment Application Form” to the competent authority, unless otherwise specified by laws. The same shall apply for amendments thereto.\r\nWhere the aforesaid document or its content is deemed incomplete, the competent authority shall notify the applicant to undertake corrective action within a specified period. Applications of those that fail to undertake corrective action or the application is deemed incomplete shall be rejected."
+		},
+		{
+			"number": 1200,
+			"content": "When examining the assignment of radio frequency or amendment thereto, the competent authority shall examine the following matters:\r\n1. Whether it complies with provisions of Table of Radio Frequency Allocations.\r\n2. Whether harmful interference occurs with an assigned radio frequency.\r\n3. Whether it complies with provisions of Independent Telegraphic Convention or International Telecommunications Union Radio Regulations (hereinafter referred to as the ITU Radio Regulations).\r\n4. Whether harmful interference occurs with radio frequency planned or registered by International Telecommunications Union.\r\nApplications of those who are not eligible for the assignment as deemed by the competent authority shall be rejected."
+		},
+		{
+			"number": 1300,
+			"content": "Should the user fall in any of the following circumstances, the competent authority may abolish partial or the entire assignment of radio frequency thereto.\r\n1. Fails to use the radio frequency for six months after the date of assignment without justifiable reasons.\r\n2. The concession or license has been abolished by the competent authority.\r\n3. The competent authority refuses to reissue the concession, television or broadcast license.\r\n4. Applies to return partial or all radio frequencies.\r\n5. The radio frequency has been provided for a third party without the approval of competent authority.\r\n6. Terminated the use of assigned radio frequency for more than six months without justifiable reasons.\r\n7. Fails to pay for the radio frequency usage fee and the said fee remains unpaid after the prescribed deadline."
+		},
+		{
+			"number": 1400,
+			"content": "Land mobile earth stations for land mobile satellite communications shall be permitted to, whenever necessary, communicate with maritime and aeronautical mobile satellite stations."
+		},
+		{
+			"number": 1500,
+			"content": "Ship stations shall be permitted to, upon receipt of the communications request of a coast station, transmit the signal via the same radio frequency and frequency tolerance as that of the coast station."
+		},
+		{
+			"number": 1600,
+			"content": "Aircraft stations shall be permitted to, in the case of distress call and rescue communications, use the radio frequency for maritime communications in accordance with Chapter 30 to Chapter 34 and Chapter 51 of ITU Radio Regulations."
+		},
+		{
+			"number": 1700,
+			"content": "Aeronautical earth stations shall be permitted to use the radio frequency for maritime satellite communications to access the public telecommunications network via satellite system."
+		},
+		{
+			"number": 1800,
+			"content": "Emission designation and used bandwidth shall comply with Appendix 2 “Classification of emissions and necessary bandwidths”."
+		},
+		{
+			"number": 1900,
+			"content": "The emission of radio frequency shall be as precise and stable as possible, and shall conform to the requirements stated in Appendix 3 “Table of transmitter frequency tolerances”."
+		},
+		{
+			"number": 2000,
+			"content": "Emission of radio frequency shall conform to the requirements stated in Appendix 4 “Table of Maximum Permitted Spurious Emissions Power Levels.”"
+		},
+		{
+			"number": 2100,
+			"content": "Damped waves are forbidden in the emission of radio frequency."
+		},
+		{
+			"number": 2200,
+			"content": "Any emission that can harm legal radiocommunications shall be deemed as interference."
+		},
+		{
+			"number": 2300,
+			"content": "In order to prevent and reduce interference, users shall pay attention to and adhere to the following rules:\r\n1. Avoid unnecessary communications and superfluous signals.\r\n2. Pay special attention to possible interference when selecting the location of installing radio equipment.\r\n3. Effective use of directional antenna so as to reduce transmission towards undesired directions.\r\n4. The type of emission of the radio equipment should choose the smallest bandwidth.\r\n5. Avoid radio receivers being placed too close to the equipment that produces radio frequency.\r\n6. Avoid poorly designed radio reception equipment.\r\n7. Avoid poor grounding of radio equipment.\r\n8. Adequate safeguards and proper grounding must be adopted in the manufacturing, installation and use of various communication and non-communication equipment to avoid interference to radiocommunications."
+		},
+		{
+			"number": 2400,
+			"content": "To avoid interferences, users must not carry out any of the following acts:\r\n1. The emitted frequency and power of radio equipment do not conform to the assignment of the competent authority.\r\n2. The radio equipment produces spurious (including harmonic) emission that does not conform to the regulations.\r\n3. The radio equipment does not conform to technical specifications.\r\n4. Other factors that can harm legal radiocommunications."
+		},
+		{
+			"number": 2500,
+			"content": "The following circumstances shall be deemed as illegally using radio frequency to interfere with legal radio communications:\r\n1. Use equipment of legal radiocommunications system to receive perceivable sounds or images of illegally used radio frequency.\r\n2. Use measuring equipment to measure identifiable messages of illegally used radio frequency, which can affect system operations, in the legal radiocommunications system.\r\n3. In more than five different points within the transmission radius of the antenna of legal stations (i.e. conform to the “Administrative Regulations on the Establishment of Radio and TV Broadcast Station”), the electric field strength between illegally used radio frequency and legal station exceeds any of the following standards: 34 decibel microvolts per meter for a co-channel; 48 decibel microvolts per meter for a first adjacent channel; 64 decibel microvolts per meter for a second adjacent channel; or 74 decibel microvolts per meter for a third adjacent channel.\r\n4. The electric field strength of illegally used radio frequency has been measured using the equipment of competent authority’s fixed monitoring station, where the electric field strength of frequency between 9 kHz and 174 MHz exceeds 80 decibel microvolts per meter, or that of frequency between 174 MHz and 3GHz exceeds 90 decibel microvolts per meter."
+		},
+		{
+			"number": 2600,
+			"content": "Subparagraph 1 to Subparagraph 3 of the preceding Article may be applied mutatis mutandis to the determination of interference between radiocommunications stations, unless otherwise specified by laws.\r\nWhere the electric field strength of radiocommunications exceeds Paragraph 4 of the preceding Article it shall be deemed as interference.\r\nIn regard to applications of establishing a new station or relocating the station, if the electric field strength exceeds the standards as prescribed in Subparagraph 4 of the preceding Paragraph, the competent authority shall require the user to submit a plan outlining improvement procedures.\r\nAn application of users who fail to submit an improvement plan as prescribed in the preceding Paragraph, shall be rejected."
+		},
+		{
+			"number": 2700,
+			"content": "Prior to submitting a complaint about radio frequency interference, users shall determine the source of interference and submit Appendix 5 “Radio Frequency Interference Complaint Form” and relevant documents; the complaint shall be handled in accordance with the following procedures:\r\n1. Complaints concerning interference to military communications shall be accepted, checked and excluded by Ministry of National Defense. Where the source of interference signal cannot be verified, users may contact the competent authority for investigating the source of interference and resolving actions to handle the interference.\r\n2. Complaints concerning interference to non-military communications and interference complaints from overseas shall be accepted, checked and excluded by the competent authority. Where the source of interference signal cannot be verified, users may contact the Ministry of National Defense for resolving actions."
+		},
+		{
+			"number": 2800,
+			"content": "Competent authority’s principles of handling interference are as follows:\r\n1. Interference occurring between military and non-military radiocommunications shall be coordinated and handled by the Ministry of National Defense and competent authority.\r\n2. Where used radio frequency is interfered, the radio frequency assigned by the competent authority shall be protected.\r\n3. Where the measurement of radio frequency is disputable, the results of measurements undertaken by the competent authority shall be taken as the criterion.\r\n4. Where interference unavoidably occurs among legal radiocommunications, the competent authority shall contact and negotiate with involved users respectively to adjust their use time or assign other suitable radio frequency.\r\n5. Where interference occurs between domestic and foreign users, the competent authority shall coordinate with relevant units to solve the problem, whether the interference occurs within or outside the country.\r\n6. Where the source of interference is from overseas, the competent authority shall collect relevant information and handle the issue in accordance with ITU Radio Regulations."
+		},
+		{
+			"number": 2900,
+			"content": "The competent authority shall handle the interference according to the following priorities and order:\r\n1. Military radio frequency shall be deemed highest first priority in the mobilization implementation phase;\r\n2. Aviation safety mission;\r\n3. Disaster prevention and rescue mission;\r\n4. Importance of the nature of business;\r\n5. Radio frequency assigning date."
+		},
+		{
+			"number": 3000,
+			"content": "Those who use radio equipment to emit radio frequency and result in interference shall undertake corrective action using effective technology upon receipt of the competent authority’s notification. Whenever necessary, the user shall suspend the operations of said equipment. Where the interference cannot be eliminated, transmissions must cease immediately."
+		},
+		{
+			"number": 3100,
+			"content": "The emission of radio frequency shall be identified using identification signals or other methods.\r\nThe aforesaid identification signals must not be easily misunderstood or mistaken."
+		},
+		{
+			"number": 3200,
+			"content": "Identification signal shall be a call sign, maritime mobile service identity or other recognizable identification methods.\r\nMaritime mobile service identity (MMSI), which is a series of digits designed for maritime mobile services and maritime mobile-satellite services as prescribed in ITU Radio Regulations, is sent to uniquely identify ship stations, ship earth stations, coast stations, coast earth stations or other stations.\r\nThe recognizable identification methods provided in Paragraph 1 may be one or more of the following: station name, station location, operation agency, official registration mark, the flight identification number, selective calling number or signal, the selective calling identification number or signal, the characteristic signals, the characteristic of the emission or other clearly distinguishing features readily recognized internationally."
+		},
+		{
+			"number": 3300,
+			"content": "The user shall transmit identification signals in one of the following formats:\r\n1. Speech, using simple amplitude or frequency modulation;\r\n2. International Morse code transmitted at manual speed;\r\n3. A telegraph code compatible with conventional printing equipment;\r\n4. By using any other format recommended by International Telecommunications Union."
+		},
+		{
+			"number": 3400,
+			"content": "Identification signals shall be automatically transmitted unless otherwise specified by laws."
+		},
+		{
+			"number": 3500,
+			"content": "The emission of the following radio frequency shall carry identification signals:\r\n1. Amateur radio;\r\n2. Radio and TV broadcast;\r\n3. Relay stations with a bandwidth below 28 MHz;\r\n4. Mobile communications;\r\n5. Standard frequency and time signal;\r\n6. Radio beacon station."
+		},
+		{
+			"number": 3600,
+			"content": "The emission of satellite emergency position-indicating radio beacon shall carry identification signals.\r\nThe aforesaid satellite emergency position-indicating radio beacon uses digital selective calling technology, or frequency between 406 MHz and 406.1 MHz and between 1.6455 GHz and 1.6465 GHz."
+		},
+		{
+			"number": 3700,
+			"content": "In regard to the transmission of identification signals, the transmission of identification signals must be undertaken at least once every hour and within five minutes before or after each hour. Where the said transmission results in an unreasonable interruption of communications, it shall be undertaken at the beginning and at the end of the transmission.\r\nThe transmission rules as prescribed in the preceding Paragraph shall be applied mutatis mutandis to the test, adjustment or experiment."
+		},
+		{
+			"number": 3800,
+			"content": "Where a number of stations work simultaneously in a common circuit, each station shall, either as relay stations or in parallel on different frequencies, transmit its own identification signal or identification signals of all stations that work in the common circuit."
+		},
+		{
+			"number": 3900,
+			"content": "All ship and ship earth stations for maritime communications and maritime satellite communications, as well as coast or coast earth stations with which they communicate shall adopt maritime mobile service identify as their identification signals."
+		},
+		{
+			"number": 4000,
+			"content": "The allocation of identified maritime radiocommunications, a station which can be identified with other methods, or those whose transmission characteristics have been published in an international document may be exempted from “Table of Allocation of International Call Sign Series”."
+		},
+		{
+			"number": 4100,
+			"content": "Where a fixed station uses more than two radio frequencies, each radio frequency may use the identification signal of that frequency."
+		},
+		{
+			"number": 4200,
+			"content": "Where a broadcasting station uses more than two radio frequencies, each radio frequency may use the call sign used solely for this frequency, or adopt an appropriate identification method, such as reporting its location and used radio frequency."
+		},
+		{
+			"number": 4300,
+			"content": "Where a land station uses more than two radio frequencies, each frequency may use its respective identification signal."
+		},
+		{
+			"number": 4400,
+			"content": "In principle, coast stations shall use the same call sign to each frequency series."
+		},
+		{
+			"number": 4500,
+			"content": "The allocation of the call sign shall be made in accordance with the Allocation Table of the Call Sign of Radio Stations as established by the competent authority after considering the International Radio Regulations, and shall use the following three parts:\r\n1. BAA-BZZ\r\n2. XSA-XSZ\r\n3. 3HA-3UZ"
+		},
+		{
+			"number": 4600,
+			"content": "Call signs shall be composed of English letters and Arabic numbers. The first two characters of international call sign series shall be two English letters; one letter and one Arabic number; or one Arabic number followed by one English letter.\r\nThe composition of call signs shall adhere to the following rules. Combinations that can potentially be confused with distress signals or signals of the same nature, or combinations that leave radio communications messages shall not be used:\r\n1. Land and fixed stations: the first two characters shall be followed by one letter, or the first two characters shall be followed by one letter and then no more than three digits. Fixed communications shall, in principle, have two characters followed by one letter and then two digits.\r\n2. Ship stations: the first two characters shall be followed by two letters; the first two characters shall be followed by two letters and then one digit; the first two characters (should the second character be a letter) shall be followed by four digits; or the first two characters shall be followed by one letter and then four digits.\r\n3. Aircraft stations: the first two letters shall be followed by three letters.\r\n4. Ship survival craft stations: the call sign of carrier ship shall end with two digits.\r\n5. Emergency position-indicating radio beacon stations: shall use the Morse letter B or call sign of the carrier ship, on which the radio beacon station is located.\r\n6. Aircraft rescue stations: the full call sign of mother aircraft followed by one digit.\r\n7. Land mobile stations: the first two characters (should the second character be a letter) followed by four digits, or the first two characters followed by one or two letters and then four digits\r\n8. Test stations:\r\na. One character (B, F, G, I, K, M, N, R or W) followed by one digit (except 0 and 1) and then a series of no more than four characters, where the last character must be a letter; or two characters followed by one digit (except 0 and 1) and then a series of no more than four characters, where the last character must be a letter.\r\nb. In special cases, the competent authority may, for the purpose of temporary use, provide a call sign of less than four digits in according to the preceding item.\r\n9. Space service stations: the first two characters followed by two or three digits.\r\nThe first digit following the letter as prescribed in the preceding paragraphs shall not include 0 and 1."
+		},
+		{
+			"number": 4700,
+			"content": "The call signs of international public communications, amateur radio communications and other radio communications which are capable of causing harmful interference beyond the boundaries of the territory or geographical area in which they are located, shall have call signs from the international series in accordance with “Table of Allocation of International Call Sign Series” of ITU Radio Regulations."
+		},
+		{
+			"number": 4800,
+			"content": "The use of voice radio communications shall be identified in accordance with the following rules.\r\n1. Coast stations: the call sign or geological location of coast station followed by the word “RADIO” or other appropriate identification.\r\n2. Ship stations: the call sign or the vessel’s official name may, under the circumstances of not being mixed up with distress, emergency and safety signals, be added to the vessel’s owner or company name, or its selective calling number of signal whenever necessary.\r\n3. Ship survival craft stations: the identification signals formed by the call sign or the carrier ship’s name shall be followed by two digits.\r\n4. Emergency position-indicating radio beacon stations: name or call sign of the carri-er ship.\r\n5. Aeronautical stations: name of the airport or its geological location. Whenever necessary, it may be followed by appropriate characters that indicate the communications mission.\r\n6. Aircraft stations: call sign, by which the name of aircraft owner or type may be followed; characters that are identical with the aircraft’s official registration identification; or characters that indicate the airline’s name followed by flight identification number.\r\n7. Aircraft survival stations: call sign.\r\n8. Base stations: call sign, or the name of its geological location. Whenever necessary, it may be followed by other appropriate identifications.\r\n9. Land mobile stations: call sign, or the identification of the vehicle or any other suitable identification.\r\n10. Test stations: call sign.\r\nThe language used for identification as referred in the preceding paragraph must be clear; Mandarin shall be used for domestic communications."
+		},
+		{
+			"number": 4900,
+			"content": "Where selective calling equipment is used in maritime communications, selective calling number composed of Arabic numbers must be used. The composition of call signs and identification numbers of coast stations are as follows:\r\n1. The identification number of coast station shall be composed of four digits and shall not start with two zeros (“00”).\r\n2. Selective calling identification number of ship station shall be composed of five digits.\r\n3. Predetermined group of ship stations shall be composed of five digits: one digit that has been repeated five times or two different digits repeated alternately."
+		},
+		{
+			"number": 5000,
+			"content": "The assignment of selective calling identification numbers of ship stations and identification number of coast stations shall accord with the following rules:\r\n1. Selective calling identification number of ship stations and identification number of coast stations shall be used in maritime communications.\r\n2. When the selective calling system conforms to the selective calling system of international maritime mobile service of Radio Regulations of the International Telecommunication Union, the selective calling number and the coast station identification number shall be selected from the allocated international series numbers and allocate them to the ship station and coast station.\r\n3. Selective calling identification numbers of ship station shall be set in narrow-band printing equipment."
+		},
+		{
+			"number": 5100,
+			"content": "To effectively utilize radio wave resources, the competent authority may charge a usage fee from users of radio frequencies according to a fee schedule enacted by the competent authority."
+		},
+		{
+			"number": 5200,
+			"content": "With respect to the administration of military’s usage in radio frequencies, power, emission method, station identification call sign that exclusively assigned to the military, the Ministry of National Defense shall base on a need basis to prepare drafts of administrative rules or reports for the review and approval of the competent authority before any enforcement or administration action is taken."
+		},
+		{
+			"number": 5300,
+			"content": "For matters and items not covered by this regulation, the competent authority may use the standards or recommendation as set forth in the International Telecommunication Union Radio Regulations as a reference for its enforcement action."
+		},
+		{
+			"number": 5400,
+			"content": "These Regulations shall become effective from the date of promulgation."
+		}
+	]
+}

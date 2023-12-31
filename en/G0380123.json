@@ -1,0 +1,263 @@
+{
+	"pcode": "G0380123",
+	"LawLevel": "命令",
+	"EngLawName": "Implementation Rules for Bank Internal Audit and Internal Control System",
+	"name": "銀行內部控制及稽核制度實施辦法",
+	"EngLawModifiedDate": "20100329",
+	"discarded": true,
+	"attachments": {
+		"0000004390": "Attachment.PDF",
+		"0000000258": "Attachment.doc"
+	},
+	"histories": [
+		"Promulgated on 2001.10.31",
+		"Amended on 2002.01.31",
+		"Amended on 2005/06/14 per Order No. Jin-Kuan-Yin (2)-Zi-No.0942000051",
+		"Amended on September 06, 2007",
+		"Abolished on March 29, 2010"
+	],
+	"divisions": [
+		{
+			"type": "chapter",
+			"number": 100,
+			"title": "General Provisions.",
+			"start": 100,
+			"end": 300
+		},
+		{
+			"type": "chapter",
+			"number": 200,
+			"title": "Internal Control System.",
+			"start": 400,
+			"end": 2800,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Principles and Scope.",
+					"start": 400,
+					"end": 700
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Compliance System.",
+					"start": 800,
+					"end": 1000
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Risk Management Mechanism.",
+					"start": 1100,
+					"end": 1300
+				},
+				{
+					"type": "section",
+					"number": 400,
+					"title": "Internal Audit System and Inspection.",
+					"start": 1400,
+					"end": 2400
+				},
+				{
+					"type": "section",
+					"number": 500,
+					"title": "Audits by the Accountant.",
+					"start": 2500,
+					"end": 2800
+				}
+			]
+		},
+		{
+			"type": "chapter",
+			"number": 300,
+			"title": "Audit Tracking.",
+			"start": 2900,
+			"end": 3100
+		},
+		{
+			"type": "chapter",
+			"number": 400,
+			"title": "File and Notification.",
+			"start": 3200,
+			"end": 3700
+		},
+		{
+			"type": "chapter",
+			"number": 500,
+			"title": "Supplemental Provisions.",
+			"start": 3800,
+			"end": 4200
+		}
+	],
+	"articles": [
+		{
+			"number": 100,
+			"content": "These Rules are enacted pursuant to Paragraph 1, Article 45-1 of the Banking Act of The Republic of China."
+		},
+		{
+			"number": 200,
+			"content": "A bank shall establish internal control and audit systems and ensure the continuing and effective implementation of such systems to promote the sound development of the bank and uphold financial stability."
+		},
+		{
+			"number": 300,
+			"content": "The basic purpose of internal controls is to promote the sound operations of a bank. The board of directors, supervisors and all employees of the bank shall comply with such internal controls to ensure the attainment of following objectives:\r\n1. Operational performance and efficiency.\r\n2. Reliability of financial reporting.\r\n3. Compliance with relevant laws and regulations.\r\nThe objective of “operational performance and efficiency” depicted in subparagraph 1 of the preceding paragraph pertains to profit, business performance and assurance of asset security."
+		},
+		{
+			"number": 400,
+			"content": "A bank’s internal control system shall be based on the following principles:\r\n1. Management’s supervisory and control culture: The board of directors (the board) shall be responsible for approving and periodically reviewing overall business strategies and major policies, and the board has the ultimate responsibility for ensuring the establishment and maintenance of a suitable and effective internal control system. Senior management shall be responsible for carrying out the business strategies and policies approved by the board, developing procedures for identifying, measuring, supervising and controlling the bank’s risks, setting up proper internal control policies and supervising the efficiency and adequacy thereof;\r\n2. Risk identification and evaluation: An effective internal control system shall facilitate the identification and continuous evaluation of material risks that may adversely affect the likelihood of bank achieving its goals, and determine how to respond to related risk to keep it within acceptable range;\r\n3. Control activities and segregation of duties: Control activities shall be a part of a bank’s daily overall operations. A complete control structure should be established with internal control processes defined at every level. An effective internal control system should contain appropriate segregation of duties, and management and employees shall not be given conflicting responsibilities;\r\n4. Information and communication: A bank shall keep pertinent and complete financial, operations and compliance information; such information shall be reliable, up to date, easily accessible, and provided in a uniform format. An effective internal control system shall have effective communication channels; and\r\n5. Monitoring activities and remediation of deficiencies: A bank should continuously monitor the overall effectiveness of its internal control system. The business units, internal auditors and other internal control personnel shall, upon the discovery of deficiencies in such system, report to the appropriate management. Material internal control deficiencies shall be reported to senior management and the board, and be addressed promptly."
+		},
+		{
+			"number": 500,
+			"content": "A bank’s internal control system shall cover all business activities with the following policies and operating procedures established and timely reviewed:\r\n1. Organization charter or management rules, which shall include a clear organizational system, functions and responsibility of respective department, and clear rules governing authorizations and hierarchy responsibilities.\r\n2. Related business rules, procedures and operational manuals, including:\r\n(1) Cashiers, deposits and remittances, extension of credit, foreign exchange, trust business and new financial products.\r\n(2) Investment guidelines and equity management.\r\n(3) Confidentiality of customer data.\r\n(4) Transactions with stakeholders.\r\n(5) Accounting and financial statement preparation process, general affairs, information and human resources (including rules for rotation and vacation).\r\n(6) Management of information disclosure.\r\n(7) Management of outsourcing operation.\r\n(8) Other business rules and operating procedures.\r\nWhere necessary, the bank’s compliance and internal audit units should participate in the drafting, revision or abolishing of operational and management rules and procedures mentioned above."
+		},
+		{
+			"number": 600,
+			"content": "A bank shall set up a compliance system, a risk management mechanism, an internal audit system, and a self-inspection system to maintain the effective and proper operations of its internal control system."
+		},
+		{
+			"number": 700,
+			"content": "A bank’s internal control system shall be approved by its board of directors. If any of the directors expresses a dissenting view which is documented or comes with a written statement, the bank shall submit the dissenting view together with the internal control system approved by the board to its supervisors; the preceding provisions apply when the bank revises its internal control system.\r\nIf the bank has independent director(s), the views of respective independent director should be taken into account fully when the internal control system is submitted to the board for discussion. The specific consenting or opposing views of the independent director(s) and reasons for the opposition shall be recorded in the board meeting minutes."
+		},
+		{
+			"number": 800,
+			"content": "For the purpose of regulatory compliance, a bank shall designate a head office administration unit directly under the board of directors or president to take charge of the planning, management and implementation of a compliance system, and appoint a senior executive to be the chief compliance officer in charge of the compliance issues. The chief compliance officer shall report to the board of directors and supervisors at least once every half a year.\r\nThe bank’s head office, its business units at home and abroad, asset management unit, and other administrative units shall each appoint a compliance officer in charge of compliance matters.\r\nThe bank shall file the namelist of its compliance officers as mentioned in the preceding paragraph with the competent authority via the Internet information system for reference."
+		},
+		{
+			"number": 900,
+			"content": "With respect to compliance issues, a bank’s head office and branch offices shall establish a counseling and communication channel to effectively convey regulatory requirements so any of employee’s questions concerning compliance issue is quickly clarified, and laws and regulations are vigorously observed."
+		},
+		{
+			"number": 1000,
+			"content": "The bank’s regulatory compliance unit shall undertake the following tasks:\r\n1. Establishing a system for clear and adequate conveyance, consultation, coordination and communication of compliance matters;\r\n2. Keeping operating and management rules and procedures updated in line with relevant regulations to make sure all business activities comply with regulatory requirements;\r\n3. Drafting the content and procedure for evaluating regulatory compliance and overseeing the periodic implementation of self-evaluation by respective units;\r\n4. Providing pertinent regulatory training to employees; and\r\n5. Overseeing the compliance of local laws and regulations by overseas branches.\r\nSelf-evaluation of regulatory compliance shall be conducted at least once every half a year and the results thereof shall be submitted to the regulatory compliance unit for reference. The head of each unit shall designate a staff to take charge of the self-evaluation operation.\r\nThe working papers and data on the aforementioned self-evaluation work shall be kept for at least five (5) years."
+		},
+		{
+			"number": 1100,
+			"content": "A bank shall draw up pertinent risk management policy and process and set up an independent and effective risk management mechanism to evaluate and monitor its risk bearing capacity, current status of risk exposures, risk response strategies and compliance with risk management process.\r\nThe aforementioned risk management policy and process shall be approved by the board of directors, and reviewed and modified at opportune time."
+		},
+		{
+			"number": 1200,
+			"content": "A bank shall set up an independent risk control unit that submits a risk control report to the board of directors on a regular basis, and take prompt and proper measures and report to the board of directors upon discovery of material exposure that might imperil the bank’s finance, business or compliance."
+		},
+		{
+			"number": 1300,
+			"content": "A bank’s risk control mechanism shall contain the following principles:\r\n1. Monitoring of capital adequacy by scale of business, the status of credit risk, market risk and operational risk, and future business trends;\r\n2. Establishment of management mechanism for measuring and monitoring liquidity position to measure, monitor and control liquidity risk;\r\n3. Carrying out asset allocation and establishing risk management for each business in consideration of overall exposure, own capital and liability characteristics;\r\n4. Establishing methods for assessing the quality and classification of bank assets, calculating and controlling large-sum exposures, and periodically examining and truthfully setting aside loss provisions; and\r\n5. Establishing information security mechanism and emergency response plan for bank’s businesses, transactions, and use of information."
+		},
+		{
+			"number": 1400,
+			"content": "The purposes of the internal audit system are to inspect and evaluate the effectiveness of internal control system and provide timely suggestions for improvement to ensure that the system will continue to be effective and to assist the board of directors and the management in performing their duties."
+		},
+		{
+			"number": 1500,
+			"content": "A bank shall establish an internal audit unit under its board of directors that performs its duties with independent spirit and objectivity, and reports to the board of directors regularly at least once every half a year.\r\nA bank shall establish the position of chief auditor who oversees the audit business. The chief auditor should have leadership and the capability to effectively oversee the audit work. The qualifications of chief auditor shall comply with the Regulations Governing Qualification Requirements for Responsible Persons of Banks, and such position shall be equivalent to a vice president. The chief auditor shall not hold concurrent position that may conflict with or impede his or her audit duties.\r\nThe appointment, dismissal or transfer of the chief auditor shall have the consent of at least two third (2/3) of the members of the board of directors and the prior approval of the competent authority. The appointment, discharge, promotion, reward, punishment, transfer and performance review of audit personnel will be handled by the chief auditor and take effect after approval by the chairman of the board. Where such action involves the personnel of other administrative or business units, the chief auditor shall first consult the personnel office to seek the consent of the president and then final approval from the chairman of the board."
+		},
+		{
+			"number": 1600,
+			"content": "Internal auditors shall perform their duties based on the principles of honesty and credibility and stay free of the following conducts:\r\n1. Concealing knowledge of bank’s business activity, financial reporting and compliance status that directly impairs the interests of stakeholders, or making untruthful or improper disclosure.\r\n2. Engaging in conduct exceeding the bounds of audit authority or other illicit activity by disclosing privileged information to others for personal gain or damaging the interests of the bank.\r\n3. Not withdrawing from audit cases involving business he or she used to perform or is having an interest in.\r\n4. Accepting unjustified entertainment or gratuity or other illicit benefits from bank employee or customer.\r\n5. Failing to carry out audit or provide related information as instructed by the competent authority.\r\n6. Engaging in activities that violate laws and regulations or is prohibited by the competent authority."
+		},
+		{
+			"number": 1700,
+			"content": "The internal audit unit shall undertake the following tasks:\r\n1. A bank should outline the organization, organizational structure and responsibility of its internal audit unit, and draft the internal audit manual and working papers. The internal audit manual shall contain at least the evaluation of established internal control requirements and business procedures to determine whether the existing requirements and procedures are properly controlled and whether the administrative units and business units faithfully implement internal control and the outcome of implementation is reasonably effective, and to make suggestions for improvement whenever needed.\r\n2. Drawing up the content and procedure for self-inspection and overseeing the self-inspection carried out by respective units.\r\n3. Drafting an annual audit plan and audit plans for individual units in view of the risk exposures and internal audit implementation of respective units.\r\nThe bank should urge respective units to undertake self-inspection. The internal audit unit will review the self-inspection reports produced by respective units, which, together with the internal control deficiencies discovered by the internal audit unit and results of improvement actions taken, will be used as basis for the board of directors, president, chief auditor and chief compliance officer to assess the effectiveness of the bank’s internal control system and issue an internal control statement."
+		},
+		{
+			"number": 1800,
+			"content": "A bank’s internal audit report in general audit shall, by the nature of the audited unit, disclose the following:\r\n1. The scope of audit, summary evaluation, financial status, capital adequacy, business performance, asset quality, regulatory compliance, internal control, transactions with related parties, procedural control and internal management for respective business, security management of customer data, information management, employee’s education concerning confidentiality, and status of self-inspection; and\r\n2. A status report with regard to status of improvement and inactions by each business unit in response to the examination opinions of or deficiencies found by banking examiner, accountant, or internal auditor (including the internal auditor of the financial holding company) or self-inspection personnel, and recommendations enumerated in the internal control statement."
+		},
+		{
+			"number": 1900,
+			"content": "The internal audit unit shall conduct general audit and target audit of the domestic business, asset management, and information units at least once a year, and conduct target audit of other administrative units at least once each year, and general audit of operations centers and oversees business units at least once a year. The internal audit unit may conduct document audit of the overseas liaison offices or adjust the frequency of their field audit.\r\nThe bank’s internal audit unit should include the implementation of regulatory compliance system into the general audit or target audit of business and administrative units.\r\nThe internal audit report, working papers and relevant data in the first paragraph shall be retained for at least five years."
+		},
+		{
+			"number": 2000,
+			"content": "A bank shall allocate qualified and a suitable number of full time internal auditors commensurate with the number of business units and the size of such businesses, and such auditors should include computer auditors who perform their duties in an independent, objective and impartial manner.\r\nThe bank’s internal auditors shall meet the following requirements:\r\n1. Having minimum two years of experience in financial examination; or having graduated from a collage or university; or have passed the Higher Civil Service Examination or any examination equivalent thereto and with minimum two years of experience in the financial business; or having minimum five years of experience in financial business; or having minimum two years of professional experience as an auditor in a accounting firm, or a programmer or systems analyst in a computer firm and having received minimum three months of training in financial business and management;\r\n2. Free of any record of demerit from employer in the last three years, unless the demerit record was a result of joint disciplinary action on account of the violation or offense of a colleague, and the demerit has been offset by other merits; and\r\n3. The lead auditor shall have minimum three years of experience in audit or insurance examination, or minimum one year of audit experience and five years of experience in financial business."
+		},
+		{
+			"number": 2100,
+			"content": "The auditors, lead auditor, and chief and assistant chief of the internal audit unit shall attend at least one session of auditor training class, computer auditing training class, lead auditor training class or chief and assistant chief training class sponsored by a training institution designated by the competent authority. New auditors shall pass the examination of aforesaid training institution and receive a certificate of class completion.\r\nInternal auditors shall attend more than thirty (30) hours of finance-related professional training sponsored by a training institution designated by the competent authority, or the financial holding company or the employer bank each year.\r\nThe hours of finance-related professional training received from training institutions designated by the competent authority shall make up at least half of the required training hours specified in the foregoing paragraph.\r\nA bank shall have a plan for continuous and proper training of personnel involved in self-inspection."
+		},
+		{
+			"number": 2200,
+			"content": "A bank shall affirm that its internal auditors meet the qualifications as stipulated in the Rules herein. The affirmation documents and records shall be filed and saved for future reference."
+		},
+		{
+			"number": 2300,
+			"content": "To enhance internal check and balance so as to prevent the occurrence of fraud, a bank shall establish a self-inspection system. The business, asset management and information units of the bank shall conduct general self-inspection at least once every half a year, and special self-inspection at least once every month. Notwithstanding the foregoing, special self-inspection is not required in the month when a general self-inspection has been conducted, or when a general business audit has been conducted by the internal audit unit of the bank or the financial holding company, or when a general business examination has been conducted by the financial examiner, or when the audit department has conducted a full business audit, or when a self-evaluation of regulatory compliance has been conducted.\r\nWhen conducting self-inspection, the chief of the business, asset management or information units shall assign a personnel other than the one who handles the work to carry out self-inspection, and keep the self-inspection operation confidential beforehand.\r\nThe self-inspection report, its working papers and related data shall be retained for at least five years."
+		},
+		{
+			"number": 2400,
+			"content": "Bank officers at various levels with the authority to approve bank business or transactions shall meet any of the requirements below prior to taking office:\r\n1. Having minimum one year of practical experience in conducting internal audits as an employee of the internal audit unit;\r\n2. Having passed the examination and received a certification of course completion in an auditor or computer auditor training course offered by an institution designated by the competent authority.\r\n3. Having passed the test for of banking internal control and internal audit and received a certificate therefore from an institution designated by the competent authority. The content of the test should be comparable to the training course and examination mentioned in the preceding subparagraph.\r\nBank officers at various levels in overseas business office with the authority to approval bank business or transactions may attend professional audit training sponsored by foreign institutions or obtain similar examination credential in lieu of the requirements specified in paragraph 1 hereof.\r\nFirst-time business unit manager of a domestic bank shall, in addition to meeting a requirement as provided in the first paragraph hereof, participate in the audit internship of the internal audit unit at least four times in the first half year of appointment, provided he or she is qualified for the job by meeting the requirement specified in subparagraph 2 or 3 in the first paragraph hereof. The aforesaid internship shall cover at least one audit item in each audit and at least four audit items cumulatively. The intern shall also produce an internship report for the perusal of the chief auditor. The chief auditor, after approving the report, will issue a certificate and preserve it along with other documents for future reference.\r\nOfficers of the branch of a foreign bank in Taiwan with the authority to approve bank business or transactions may be exempted from the requirements in this article provided he or she has completed the training required by the foreign bank for its internal auditor and such training requirement is at par with the requirements specified in the first paragraph hereof.\r\nIf a foreign bank has already set up a branch in Taiwan when the amended Rules herein were promulgated on June 14, 2005, its officers having the authority to approve bank business or transactions shall possess the qualification as provided in the first paragraph hereto or complete the training described in the foregoing paragraph in one year from the promulgation date of the amended Rules herein on June 14, 2005."
+		},
+		{
+			"number": 2500,
+			"content": "When a bank engages an accountant to audit its annual financial statements, it shall also ask the same accountant to audit its internal control system and express opinion regarding the accuracy of information provided in the financial statements as well as the implementation of the bank’s internal control system, regulatory compliance system, and the appropriateness of bank’s bad debt reserve policy.\r\nThe accountant’s audit fees will be at the expense of the bank as agreed between the bank and the accountant.\r\nParagraph 1 does not apply to a bank which is taken over by the competent authority pursuant to laws."
+		},
+		{
+			"number": 2600,
+			"content": "Where necessary, the competent authority may invite the bank and its accountant to a discussion meeting regarding the audit as described in the preceding article, and ask the bank to replace its accountant to conduct another audit if the competent authority deems that the accountant is incompetent for the audit work."
+		},
+		{
+			"number": 2700,
+			"content": "In carrying out audit as described in Article 25 herein, the accountant shall inform the competent authority immediately in case of any of the following situations:\r\n1. In the process of audit, the accountant was unable to continue the audit work because the bank did not provide the statements, supporting documents, account books or meeting minutes asked by the accountant or refuse to provide explanation to the inquires of the accountant, or due to the other objective circumstances.\r\n2. The bank under audit is found to contain untruthful information in its accounting or other records, falsify, or omit accounting or other records, and the situation is of serious nature.\r\n3. The bank under audit does not have adequate assets to cover its liabilities or its financial conditions markedly deteriorate.\r\n4. Evidence indicates that a transaction of the bank might bring about material loss to its net assets.\r\nWhere the bank under audit is found to be in any of the situations described in subparagraphs 2 ~ 4 of the preceding paragraph, the accountant shall first submit a summary report to the competent authority based on the audit results."
+		},
+		{
+			"number": 2800,
+			"content": "A bank shall file the previous year’s audit report of its accountant regarding the audits described in Article 25 herein to the competent authority before the end of April every year. Such audit report shall contain at least information on the scope and basis of audit, audit procedure and results.\r\nThe accountant of a bank is obliged to provide relevant information and explanations to the questions raised by the competent authority regarding the audit report."
+		},
+		{
+			"number": 2900,
+			"content": "A bank shall specify in its internal control system necessary control operations for its subsidiaries and urge its subsidiaries to establish internal control system in consideration of the local regulations that govern the subsidiary and the nature of its business.\r\nThe chief auditor of a bank shall examine the internal audit operation of the bank’s subsidiaries on a regular basis and report the examination results to the board of directors, and send a copy of the report to the subsidiary’s board of director as basis for personnel performance evaluation."
+		},
+		{
+			"number": 3000,
+			"content": "If a bank conceals the fact about its poor internal management, lack of internal control, inadequate implementation of its internal audit system and regulatory compliance system, or results of improvement actions taken in response to the comments of financial examiner, or its internal audit unit conceals the audit findings that results in material fraud, relevant personnel involved shall take the responsibility for negligence of duties. The bank should commend internal auditors whose discovery of major fraud or omission saves the bank from material loss.\r\nWhere the administrative unit or business unit of a bank is found to commit major omission or fraud, the internal audit unit has the right to recommend disciplinary actions and shall make full disclosure in the internal audit report personnel responsible for the major omission."
+		},
+		{
+			"number": 3100,
+			"content": "The internal audit unit of a bank should continuously follow up on the examination opinions of or deficiencies found by banking examiner, accountant, internal auditor (including the internal auditor of financial holding company) or business unit, and recommendations enumerated in the internal control statement, and report the status of improvement actions taken to the board of directors and supervisors in writing, and include them as major items in the performance review of the administrative units and business units.\r\nThe competent authority will set forth guidelines for evaluating the audit work of a bank."
+		},
+		{
+			"number": 3200,
+			"content": "The general manager of a bank shall evaluate carefully and review the enforcement of the internal control system. The bank’s chairman, together with the general manager, the chief auditor, and the chief compliance officer of the head office, shall jointly sign and issue an internal control statement (see attached form), which, subsequent to the approval of the board of directors, shall be disclosed on the bank’s website and filed with the competent authority through a designated website in four months after the end of each fiscal year.\r\nThe internal control statement in the foregoing paragraph shall be published in the annual report, the public offering prospectus and the company prospectus as required by laws.\r\nParagraph 1 does not apply to a bank which is taken over by the competent authority pursuant to laws."
+		},
+		{
+			"number": 3300,
+			"content": "The internal audit report shall be given to the supervisors for perusal, and given to the independent directors or the audit committee if applicable, and filed with the competent authority in two months from the date the audit ends."
+		},
+		{
+			"number": 3400,
+			"content": "The bank shall file the data on the name, age, education, work experience, years of service of its internal auditors and training received by them with the competent authority via the Internet information system before the end of January every year in a format specified by the competent authority."
+		},
+		{
+			"number": 3500,
+			"content": "Where their suggestions regarding material deficiencies or violation in internal control were not accepted by the management that the inaction might bring about material losses to the bank, the internal auditor or chief compliance officer shall immediately produce a report and inform the supervisors and the competent authority."
+		},
+		{
+			"number": 3600,
+			"content": "A bank shall file the audit plan for the following year before the end of each fiscal year and file a report on the implementation status of the previous year’s audit plan in two months after the end of each fiscal year with the competent authority through the Internet information system in a format specified by the competent authority."
+		},
+		{
+			"number": 3700,
+			"content": "A bank shall file a report with the competent authority on the deficiencies of internal control system found in previous year’s internal audit and status of corrective actions taken in five months after the end of each fiscal year through the Internet information system in a format specified by the competent authority."
+		},
+		{
+			"number": 3800,
+			"content": "Where an internal audit conducted under the direction of the chief auditor has any of the following situations, the competent authority may, depending on the severity of the case, demand rectification by ordering the bank to remedy the situation within a prescribed time period or to discharge its chief auditor:\r\n1. Factual evidence shows that the chief auditor has engaged in improper lending practice, grossly violated the guidelines for extension of credit or has improper financial relationship with customer.\r\n2. Factual evidence shows that the chief auditor abuses his/her authority to engage in illicit activity or profit self or others, or takes advantage of his/her position to damage the interests of the bank or others.\r\n3. Disclosing or delivering information or making public the whole or any part of the financial examination report to people unrelated to the execution of audit work without the approval of the competent authority.\r\n4. Failing to notify the competent authority regarding major fraud inside the bank due to poor management.\r\n5. Failing to disclose in the internal audit report serious deficiencies in bank’s finance or business.\r\n6. Issuing an untruthful audit report on findings in internal audit.\r\n7. Failing to discover serious deficiencies in the finance or business of the bank due to the inadequate assignment or incompetence of internal auditor.\r\n8. Failing to follow the instructions of competent authority in handling the audit work or providing relevant information.\r\n9. Engaging in other conduct that impairs the reputation or interest of the bank."
+		},
+		{
+			"number": 3900,
+			"content": "A bank shall specify punishment to be meted out to manager and relevant personnel for violating the Rules herein or the internal control rules of the bank.\r\nThe bank should constantly examine the incident of violation of Article 16 herein by internal auditors, and any transgression is discovered, reassign the violator to another position within one month from the date of discovery.\r\nThe bank should check whether its internal auditors comply with the provisions in Article 20 and Article 21 when filing the basic information of internal auditors in accordance with Article 34 herein, and if non-compliance is found, demand remediation in two months or else immediately reassign the non-complying auditor to another position."
+		},
+		{
+			"number": 4000,
+			"content": "The competent authority will set forth formats specified in the Rules herein."
+		},
+		{
+			"number": 4100,
+			"content": "The branch of a foreign bank in Taiwan shall carry out internal control and audit in compliance with the Rules herein. But if the internal control and audit system of a foreign bank branch is set out according to the relevant system adopted by its head office which is at least at par with the provisions of the Rules herein, the foreign bank branch may submit a statement signed by its responsible person to the competent authority which describes in detail the internal control and audit system of its head office and cross reference with the system adopted in Taiwan, and carry out internal control and audit according to the system adopted by its head office.\r\nA foreign bank that has already set up a branch in Taiwan when the amended Rules herein were promulgated on June 14, 2005 shall bring its existing internal control and audit system in compliance with the Rules herein or submit a statement provided in the preceding paragraph to the competent authority within six months following the promulgation of the Rules herein.\r\nIf the head office of a foreign bank branch makes changes to its internal control and audit system that apply to the branch in Taiwan, the foreign bank branch shall promptly submit a cross-reference statement signed by its responsible person to the competent authority.\r\nIf the branch of a foreign bank in Taiwan violates the internal control and audit system accepted by the competent authority in accordance with three preceding paragraphs hereof, it shall be deemed as violating the Rules herein."
+		},
+		{
+			"number": 4200,
+			"content": "The Rules herein shall be in force on the date of promulgation."
+		}
+	]
+}
