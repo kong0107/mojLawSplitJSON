@@ -1,7 +1,7 @@
 {
 	"pcode": "F0150001",
 	"LawLevel": "法律",
-	"EngLawName": "The ROC Veterans Assistance Act",
+	"EngLawName": "The Veterans Assistance Act",
 	"name": "國軍退除役官兵輔導條例",
 	"EngLawModifiedDate": "20230524",
 	"histories": [
@@ -29,7 +29,7 @@
 		{
 			"type": "chapter",
 			"number": 200,
-			"title": "Vocational Assistance",
+			"title": "Employment Assistance",
 			"start": 500,
 			"end": 1300
 		},
@@ -43,21 +43,21 @@
 		{
 			"type": "chapter",
 			"number": 400,
-			"title": "Home Care",
+			"title": "Home-Care",
 			"start": 1600,
 			"end": 1700
 		},
 		{
 			"type": "chapter",
 			"number": 500,
-			"title": "Schooling",
+			"title": "Educational Assistance",
 			"start": 1800,
 			"end": 1900
 		},
 		{
 			"type": "chapter",
 			"number": 600,
-			"title": "Privileges, Relief and Aids",
+			"title": "Privileges, Aids",
 			"start": 2000,
 			"end": 3000
 		},
@@ -71,7 +71,7 @@
 		{
 			"type": "chapter",
 			"number": 800,
-			"title": "",
+			"title": "Supplementary Provisions",
 			"start": 3300,
 			"end": 3400
 		}
@@ -79,35 +79,35 @@
 	"articles": [
 		{
 			"number": 100,
-			"content": "The placement of veterans and the benefits they deserve shall be made in accordance with this Act. Matters not specified in this Act shall be dealt with according to the provisions prescribed in other laws."
+			"content": "The placement of veterans and their benefits shall be made in accordance with this Act. Matters not specified in this Act shall be dealt with according to the provisions prescribed in other laws."
 		},
 		{
 			"number": 200,
-			"content": "The veterans referred to in this Act shall include:\r\n1.Officers, non-commissioned officers, and enlisted men who have completed the contracted length of service and are retired legally.\r\n2.Officers, non-commissioned officers, and enlisted men who are physically or mentally disabled because of the military service connection and are retired, then are unable to earn a living and need lengthy hospitalization or home care after the retirement.\r\n3.Officers, non-commissioned officers, and enlisted men who have participated in the August 23rd Taiwan Strait Bombardment Campaign in 1958, and/or other important campaigns considered critical to the national security by the Ministry of National Defense.\r\nThe Kinmen and Matsu Militia members who have participated in the important campaigns provided by Subparagraph 3 of the preceding Paragraph, are considered veterans. The effective date shall be prepared by Veterans Affairs Council (hereinafter referred to as VAC), and submitted to the Executive Yuan for approval. However, for those who have participated in the August 23rd Taiwan Strait Bombardment Campaign in 1958 ,the effective date is January 1, 2001.\r\nThe period of compulsory service could be merged with the service years of Subparagraph 1, Paragraph 1 when transferring to voluntary military service during the compulsory service.\r\nThe contracted length of service referred to in section 1 of this article shall be suggested by the VAC, and approved by the Executive Yuan."
+			"content": "The veterans referred to in this Act shall include:\r\n1.Officers, non-commissioned officers, and enlisted men who have completed the contracted length of service and are retired legally.\r\n2. Officers, non-commissioned officers, and enlisted men who encounter difficulty in living and need long-term medical care or home-care after discharge from the services due to illness, injury or physical or mental disabilities caused by war or service.\r\n3.Officers, non-commissioned officers, and enlisted men who have participated in the August 23rd Taiwan Strait Bombardment Campaign in 1958, and/or other important campaigns considered critical to the national security by the Ministry of National Defense.\r\nThe Kinmen and Matsu Militia members who have participated in the important campaigns provided by Subparagraph 3 of the preceding Paragraph, are considered veterans. The effective date shall be prepared by Veterans Affairs Council (hereinafter referred to as VAC), and submitted to the Executive Yuan for approval. However, for those who have participated in the August 23rd Taiwan Strait Bombardment Campaign in 1958 ,the effective date is January 1, 2001.\r\nThe period of compulsory service could be merged with the service years of Subparagraph 1, Paragraph 1 when transferring to voluntary military service during the compulsory service.\r\nThe contracted length of service referred to in section 1 of this article shall be suggested by VAC, and approved by the Executive Yuan."
 		},
 		{
 			"number": 300,
-			"content": "In implementation of this Act, VAC is designated as the agency-in-charge, and concerned ministries and commissions and local (municipal) governments are the agencies-in-assistance."
+			"content": "In implementation of this Act, VAC is designated as the agency-in-charge, concerned ministries, commissions, the municipal, and county (city) governments are the agencies-in-assistance."
 		},
 		{
 			"number": 301,
-			"content": "Concerning the placement of veterans and the benefits they deserve , VAC may, after considering national financial conditions, implement veterans assistance measures which are categorized and ranked by the serving period of the veterans , merits they earned , battles they joined, the extent of service-connected illnesses, injuries, and disabilities, their family conditions , working abilities ,their ages and so on."
+			"content": "Concerning the placement of veterans and their benefits , VAC may, after considering national financial conditions, implement veterans assistance measures which are categorized and ranked by the serving period of the veterans , merits they earned , battles they joined, the extent of service-connected illnesses, injuries, and disabilities, their family conditions , working abilities ,their ages and so on."
 		},
 		{
 			"number": 400,
-			"content": "To perform its functions, the VAC may activate a number of subordinate organizations of various types and formulate regulations governing their management and operation based on the need of placement and the nature of their activities, and submit them to the Executive Yuan for approval and enforcement."
+			"content": "To perform its functions, VAC may activate a number of subordinate organizations of various types and formulate regulations governing their management and operation based on the need of placement and the nature of their joint venture enterprises, and submit them to the Executive Yuan for approval and enforcement."
 		},
 		{
 			"number": 401,
-			"content": "The person who retires or resigns from the position in directly administering the investment business of the VAC shall not be designated as an Executive of Investment Enterprises of the VAC within 3 years."
+			"content": "The person who retires or resigns from the position in directly administering the investment business of VAC shall not be designated as an Executive of Investment Enterprises of  VAC within 3 years."
 		},
 		{
 			"number": 500,
-			"content": "The vocational assistance to veterans shall be extended by the subordinate business entities of the VAC, or via introducing and recommending separately to other agencies (organizations), non-departmental public bodies, entities, associations, and schools for employment arrangement.  The regulations regarding eligibilities, priorities, reviewing process and conditions for revocation, and other relevant affairs shall be stipulated by the VAC and submitted to the Executive Yuan for ratification.\r\nThe VAC may reward the private business entities, associations and schools for outstandingly aiding veterans with vocational assistance.  The regulations regarding eligibilities, categories, monetary amount, duration, reviewing process and conditions for revocation, and other relevant affairs shall be stipulated by the VAC and submitted to the Executive Yuan for ratification."
+			"content": "The vocational assistance to veterans shall be extended by the subordinate business entities of  VAC, or via introducing and recommending separately to other agencies (organizations), Incorporated Administrative Agency, entities, associations, and schools for employment arrangement. The regulations regarding eligibilities, priorities, reviewing process and conditions for revocation, and other relevant affairs shall be stipulated by VAC and submitted to the Executive Yuan for ratification.\r\nVAC may reward the private business entities, associations and schools for outstandingly aiding veterans with vocational assistance. The regulations regarding eligibilities, categories, monetary amount, duration, reviewing process and conditions for revocation, and other relevant affairs shall be stipulated by VAC and submitted to the Executive Yuan for ratification."
 		},
 		{
 			"number": 501,
-			"content": "The VAC may provide relevant allowances to promote veterans’ stable employment.\r\nThe regulations on the recipients,eligibilities, categories, monetary amount, duration, reviewing, and conditions of revocation and other relevant affairs of allowance shall be stipulated by the VAC and submitted to the Executive Yuan for ratification."
+			"content": "VAC may provide relevant allowances to promote veterans’ stable employment.\r\nThe regulations on the recipients, eligibilities, categories, monetary amount, duration, reviewing process, and conditions of revocation and other relevant affairs of allowance shall be stipulated by VAC and submitted to the Executive Yuan for ratification."
 		},
 		{
 			"number": 600,
@@ -115,15 +115,15 @@
 		},
 		{
 			"number": 700,
-			"content": "National (public) lands, forest areas, ponds and mining areas which are available and are required for placement of the veterans shall be allocated by organizations-in-charge with the approval of the Executive Yuan, to VAC for exploitation in line with the nations economic development."
+			"content": "National (public) lands, forest areas, swamps and mining areas which are available and are required for placement of the veterans shall be allocated by organizations-in-charge with the approval of the Executive Yuan, to VAC for exploitation with the nations economic development."
 		},
 		{
 			"number": 800,
-			"content": "In accordance with the governmental purchase codes, the subordinate organizations of the VAC shall be entitled to tending biddings for the purchase cases invited by governmental organizations, enterprises, and public schools; the governmental purchase codes shall be equally honored, when tending biddings for confidential or urgent cases."
+			"content": "In accordance with the Government Procurement Act, the joint venture enterprises of VAC shall be entitled to attend bidding for the procurement cases invited by governmental organizations, enterprises, and public schools; the governmental purchase codes shall be equally honored, when tending biddings for confidential or urgent cases."
 		},
 		{
 			"number": 900,
-			"content": "The veterans shall have the priority to be selected and assigned to the exploitation, construction, and manufacture organizations established by the Government."
+			"content": "The veterans shall have the priority to be selected and assigned to the exploitation, construction, and manufacture organizations established by the government."
 		},
 		{
 			"number": 1000,
@@ -131,55 +131,55 @@
 		},
 		{
 			"number": 1100,
-			"content": "The VAC may provide initiate assistance measures and loan interest subsidies to assist the veterans in starting their own businesses.\r\nThe regulations on eligibilities, categories, monetary amount, duration, reviewing process and conditions for revocation, and other relevant affairs regarding measures and subsidies in the proceeding paragraph shall be stipulated by the VAC and submitted to the Executive Yuan for ratification."
+			"content": "VAC may provide initiate assistance measures and loan interest subsidies to assist the veterans in starting their own businesses.\r\nThe regulations on eligibilities, categories, monetary amount, duration, reviewing process and conditions for revocation, and other relevant affairs regarding measures and subsidies in the proceeding paragraph shall be stipulated by VAC."
 		},
 		{
 			"number": 1200,
-			"content": "In order to increase job opportunities, the VAC may request concerned agencies to hold qualification examinations for the veterans, to enable those who pass to join the civil service or undertake professional practices."
+			"content": "In order to increase job opportunities, VAC may request concerned agencies to hold qualification examinations for the veterans, to enable those who pass to obtain qualifications for the civil service or practicing."
 		},
 		{
 			"number": 1300,
-			"content": "The VAC may organize or commission concerned agencies (organizations), entities, associations, and schools for various vocational training to qualify veterans for employment.\r\nVeterans may be subsidized for enrollment in the vocational training announced by the VAC.\r\nThe regulations on eligibilities, categories, monetary amount, duration, reviewing process and conditions for revocation, and other relevant affairs regarding subsidies in the proceeding paragraph shall be stipulated by the VAC and submitted to the Executive Yuan for ratification."
+			"content": "VAC may organize or commission concerned agencies (organizations), entities, associations, and schools for various vocational training to qualify veterans for employment.\r\nVeterans may be subsidized for enrollment in the vocational training announced by VAC.\r\nThe regulations on eligibilities, categories, monetary amount, duration, reviewing process and conditions for revocation, and other relevant affairs regarding subsidies in the proceeding paragraph shall be stipulated by VAC."
 		},
 		{
 			"number": 1400,
-			"content": "Those veterans who are sick or injured shall be treated in the veterans hospitals of VAC free of charge, or on a reduced-rate basis."
+			"content": "Veterans who suffer from illness or injury shall be treated in the veterans hospitals established by VAC, and their medical expenses shall be waived or reduced."
 		},
 		{
 			"number": 1500,
-			"content": "Hospitalized veterans , upon recovery, shall be given appropriate placement by VAC as prescribed by the relevant laws."
+			"content": "Veterans who recover and discharge from hospital shall be given appropriate placement by VAC as prescribed by the relevant laws and regulations."
 		},
 		{
 			"number": 1600,
-			"content": "Veterans unable to work due to age or disabilities are entitled to fully or partly government-paid home-care placement in a dedicated institute established by competent authorities. The eligibilities for placement, application, classifications, priorities, reviewing, and conditions for revocation and other relevant affairs shall be stipulated by the VAC and submitted to the Executive Yuan for ratification.\r\nThe VAC shall deliberately render mental or physical rehabilitation to disabled veterans eligible for fully government-paid home-care placement in the proceeding paragraph.\r\nBenefit payment to veterans entitled to fully government-paid home-care placement shall not be claimed as an object of attachment, assignment, offset, or provided as security.  Whereas, the VAC reserves the right to deduct from the home-cared veteran’s benefit payment if the veteran involved has been incidentally over-paid or wrongfully paid.\r\nHome-cared veterans may open special accounts at financial institutions for the deposit of benefit payment only.  The balance in those accounts shall not be claimed as an object of attachment, assignment, offset, or provided as security."
+			"content": "Veterans unable to work due to age or disabilities are entitled to fully or partly government-paid home-care in a dedicated institute established by competent authorities. The eligibilities for placement, application, classifications, priorities, reviewing, and conditions for revocation and other relevant affairs shall be stipulated by VAC and submitted to the Executive Yuan for ratification.\r\nVAC shall deliberately render mental or physical rehabilitation to veterans with disabilities eligible for fully government-paid home-care in the proceeding paragraph.\r\nBenefit payment to veterans entitled to fully government-paid home-care shall not be claimed as an object of attachment, assignment, offset, or provided as security. Whereas, VAC reserves the right to deduct from the home-cared veteran’s benefit payment if the veteran involved has been incidentally over-paid or wrongfully paid.\r\nHome-cared veterans may open special accounts at financial institutions for the deposit of benefit payment only. The balance in those accounts shall not be claimed as an object of attachment, assignment, offset, or provided as security."
 		},
 		{
 			"number": 1700,
-			"content": "The exclusive home-care institutions are to be established by the VAC, and named the Veterans Homes.\r\nThe VAC could house the dependants and bereaved dependants of veterans and other citizens at their own expense, depending on the facility and capability of the Veterans Homes.\r\nThe application requirement, qualification, priority sequence, operating model, charging standard and other related issues on preceding placement, shall be formulated by the VAC and approved by the Executive Yuan."
+			"content": "The exclusive home-care institutions are to be established by VAC, and are named the Veterans Homes.\r\nVAC could house the dependants and bereaved dependants of veterans and other citizens at their own expense, depending on the facility and capability of the Veterans Homes.\r\nThe eligibilities, qualification, priorities, operating model, charging standard and other related issues on preceding placement, shall be stipulated by VAC and submitted to the Executive Yuan for ratification."
 		},
 		{
 			"number": 1800,
-			"content": "Those retired officers and men who wish and are qualified to attend schools shall be given schooling, in accordance with appropriate criteria provided by educational organization-in-charge."
+			"content": "Veterans who wish and are qualified to attend schools shall be given schooling, in accordance with appropriate criteria provided by educational organization-in-charge."
 		},
 		{
 			"number": 1900,
-			"content": "Other than those waived by regulations, the VAC shall subsidize veterans’ tuition and miscellaneous fees for academic studies.  Veterans who are of low or medium-low family income may be entitled to student living allowance, and those who are of outstanding grades shall be awarded.\r\nThe regulations on the eligibilities, categories, monetary amount, duration, reviewing, and conditions of revocation and other relevant affairs of subsidies, allowance, and awards shall be stipulated by the VAC."
+			"content": "Other than those waived by regulations,VAC shall subsidize veterans’ tuition and miscellaneous fees for academic studies. Veterans who are in the low- and middle-low-income households may be entitled to student living allowance, and those who are of outstanding grades shall be awarded.\r\nThe regulations on the eligibilities, categories, monetary amount, duration, reviewing, and conditions of revocation and other relevant affairs of subsidies, allowance, and awards shall be stipulated by VAC."
 		},
 		{
 			"number": 2000,
-			"content": "Those veterans who take qualification or employment examinations shall enjoy certain privileges, depending on the profession."
+			"content": "Veterans who take qualification or employment examinations shall enjoy certain privileges, depending on the profession."
 		},
 		{
 			"number": 2100,
-			"content": "The length of civil service of those veterans who are directly transferred to working as government employees, with the exception of schoolteachers, shall be added to that of their military service."
+			"content": "The length of civil service of veterans who are directly transferred to work as civil servant, with the exception of schoolteachers, shall be added to that of their military service."
 		},
 		{
 			"number": 2200,
-			"content": "The veterans shall enjoy priority in receiving or renting government owned land, when the government is to release or rent the leased or deserted land.\r\nThe VAC shall have the privilege to receive or rent, the government-run mining rights or forests, when the government is to so release or rent."
+			"content": "The veterans shall have priority in receiving or renting government owned land, when the government is to release or rent the leased or deserted land.\r\nVAC shall have the privilege to receive or rent, the government-run mining rights or forests, when the government is to so release or rent."
 		},
 		{
 			"number": 2300,
-			"content": "If the veterans need land on which to build houses to live in, public land shall be so designated and rented to them by the Government on a rent-reduction basis."
+			"content": "If veterans need land to build houses for their residence, public land shall be so designated and rented to them by the Government on a rent-reduction basis."
 		},
 		{
 			"number": 2400,
@@ -191,23 +191,23 @@
 		},
 		{
 			"number": 2600,
-			"content": "Those veterans who receive treatment in public hospitals shall enjoy a reduction for the medical expenses incurred."
+			"content": "Veterans who are seeking treatment in public hospitals, their medical expenses shall be reduced."
 		},
 		{
 			"number": 2700,
-			"content": "Free of charge or reduction for medical expenses shall be granted to those veterans whose wives give birth to babies in public hospitals."
+			"content": "Veteran’s spouse who admits to public hospital for delivery, their medical expenses shall be waived or reduced."
 		},
 		{
 			"number": 2701,
-			"content": "For veterans entitled to pension, alimony, or living subsidies, the utility bill of water and electricity of their own household or their dependants’ household shall be rendered a rate discount.  The regulations on the eligibilities, classifications, reviewing and conditions for revocation and other relevant affairs shall be jointly stipulated by the VAC and the Ministry of Economic Affairs."
+			"content": "For veterans entitled to pension, alimony, or living subsidies, the utility bill of water and electricity of their own household or their dependants’ household shall be rendered a rate discount. The regulations on the eligibilities, scope, reviewing process, and conditions for revocation and other relevant affairs shall be jointly stipulated by VAC and the Ministry of Economic Affairs."
 		},
 		{
 			"number": 2800,
-			"content": "The VAC shall establish skill-learning institutes to accommodate, with partial charge, those veterans who are physically weak and have no eligibility for job placement, medical care, home care or schooling, but are capable of doing light work."
+			"content": "VAC shall establish skill-learning institutes to accommodate, with partial charge, those veterans who are physically weak and have no eligibility for employment Assistance, medical care, home-care or educational Assistance, but are capable of doing light work."
 		},
 		{
 			"number": 2900,
-			"content": "The helpless survivors of deceased veterans shall have the privilege to be entitled to relief and assistance rendered by local governments."
+			"content": "The helpless survivors of deceased veterans shall have the privilege to be entitled to aids rendered by local governments."
 		},
 		{
 			"number": 3000,
@@ -215,19 +215,19 @@
 		},
 		{
 			"number": 3100,
-			"content": "Organizations in charge of job placement, medical care, home care and schooling are vested with the authority of guidance and supervision over the veterans. Regulations in this regard shall be prescribed by the VAC and submitted to the Executive Yuan for approval and implementation."
+			"content": "Organizations in charge of employment Assistance, medical care, home-care and educational Assistance are vested with the authority of guidance and supervision over the veterans. Regulations in this regard shall be stipulated by VAC and submitted to the Executive Yuan for approval and implementation."
 		},
 		{
 			"number": 3200,
-			"content": "The veterans with one of the following conditions shall be suspended from the privileges and benefits prescribed in this Act:\r\na.Those who have been sentenced to imprisonment and are currently serving their sentences;\r\nb.Those who may have their personal freedom deprived or restricted while being held in specific locations due to detention pending trial or finalized judgment with rehabilitation measures.;\r\nc.Those who are wanted by the circular orders.\r\nThe veterans with one of the following conditions shall be permanently deprived of the privileges and benefits prescribed in this Act:\r\na.Those who are sentenced to imprisonment as determined by final court judgments for the crimes of internal rebellion, treason, or specified in the Anti-Corruption Act, former paragraph of Article 226-1, Articles 271-275, Paragraph 1 of Article 332, Paragraph 1 of Article 334, and Paragraph 1 of Article 348 of the Criminal Code;\r\nb.Those who are with the reasons for the loss or deprivation of the rights to receive pensions, retirement benefits, or severance pay as stipulated in the Act of Military Service for Officers and Non-commissioned Officers of the Armed Forces or other relevant laws."
+			"content": "The veterans with one of the following conditions shall be suspended from the privileges and benefits prescribed in this Act:\r\n1.Those who have been sentenced to imprisonment and are currently serving their sentences;\r\n2.Those who may have their personal freedom deprived or restricted while being held in specific locations due to detention pending trial or finalized judgment with rehabilitation measures.;\r\n3.Those who are wanted by the circular orders.\r\nThe veterans with one of the following conditions shall be permanently deprived of the privileges and benefits prescribed in this Act:\r\n1.Those who are sentenced to imprisonment as determined by final court judgments for the crimes of internal rebellion, treason, specified in the Anti-Corruption Act, or former paragraph of Article 226-1, Articles 271-275, Paragraph 1 of Article 332, Paragraph 1 of Article 334, and Paragraph 1 of  Article 348 of the Criminal Code;\r\n2.Those who are with the reasons for the loss or deprivation of the rights to receive pensions, retirement benefits, or severance pay as stipulated in the Act of Military Service for Officers and Non-commissioned Officers of the Armed Forces or other relevant laws."
 		},
 		{
 			"number": 3300,
-			"content": "The enforcement rules of this Act shall be stipulated by the VAC.\r\nUnless otherwise stipulated, Implementation Regulations prescribed in this Act shall be stipulated by the VAC and concerned agencies and submitted to the Executive Yuan for ratification."
+			"content": "The enforcement rules of this Act shall be stipulated by VAC.\r\nUnless otherwise stipulated, Implementation Regulations prescribed in this Act shall be stipulated by VAC and concerned agencies and submitted to the Executive Yuan for ratification."
 		},
 		{
 			"number": 3400,
-			"content": "This Act shall be implemented since the date of its promulgation.\r\nThe date of implementation for Article 3-1 of this Act,  amended on December 16, 2015, will be determined by the Executive Yuan.\r\nArticle 5, 11, 13, 19, and 27-1 of this Act amended on December 30, 2020, shall be implemented since January 1, 2021."
+			"content": "This Act shall be implemented since the date of its promulgation.\r\nThe date of implementation for Article 3-1 of this Act, amended on December 16, 2015, will be determined by the Executive Yuan.\r\nArticle 5, 11, 13, 19, and 27-1 of this Act amended on December 30, 2020, shall be implemented since January 1, 2021."
 		}
 	]
 }
