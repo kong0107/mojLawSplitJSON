@@ -3,7 +3,7 @@
 	"LawLevel": "法律",
 	"EngLawName": "Simple Life Insurance Act",
 	"name": "簡易人壽保險法",
-	"EngLawModifiedDate": "20181128",
+	"EngLawModifiedDate": "20231129",
 	"histories": [
 		"Promulgated on May 10, 1935.",
 		"Amendment to Article 16,22 promulgated on October 19, 1935.",
@@ -18,7 +18,8 @@
 		"Amendment to Article 2,5,7,31,32,34,36,38,40,42,43 and deletion of Article 41 per Presidential Decree No.Hua-Zong-Yi-Yi-Zi-09500069831 dated May 17, 2006;and implemented from announcement date.",
 		"Amendment to Article7,8,43 and deletion of Article 30 per Presidential Decree No.Hua-Zong-Yi-Yi-Zi-09900352541 dated Dec 29, 2010;and implemented from announcement date.",
 		"Amendment to Article 2, 5, 7, 31, 34, 36, 38, 40, 42 per Presidential Decree No. Hua-Zong-Yi-Yi-Zi-10400077191 dated July 1, 2015.",
-		"Amendment to Article 7、20、37, the addition of Article 7-1 promulgated per Presidential Decree No. Hua-Zong-Yi-Jing-Zi-10700128001 dated November 28, 2018."
+		"Amendment to Article 7、20、37, the addition of Article 7-1 promulgated per Presidential Decree No. Hua-Zong-Yi-Jing-Zi-10700128001 dated November 28, 2018.",
+		"Amendment to Article 7,7-1,20,21,27,29,37,39, and 42 per Presidential Decree No. Hua-Zong-Yi-Jing-Zi-11200103491 dated November 29, 2023."
 	],
 	"articles": [
 		{
@@ -47,11 +48,11 @@
 		},
 		{
 			"number": 700,
-			"content": "Non-ROC citizens are not eligible to be insured.\r\nIf the insured is a minor under 15 years of age when a simple life insurance contract (hereinafter called insurance contract) is entered into, with the exception of health insurance, the death benefits shall go into effect on the minor’s 15th birthday. If the insured dies before he or she turns 15, the insurer shall refund all premiums paid with interest.\r\nThe calculation of interest payments mentioned in the preceding paragraph shall be set forth by the FSC.\r\nIf any of the provisions from Paragraph 2 to Paragraph 3 is found to contradict applicable laws, then the applicable laws shall prevail."
+			"content": "Non-ROC citizens are not eligible to be insured.\r\nIf the insured is a minor under fifteen years of age years old when a simple life insurance contract (hereinafter referred to as “insurance contract”) is entered into, with the exception of health insurance and funeral expenses, the death benefits shall go into effect when the insured is over fifteen years of age.\r\nThe insured amount for the funeral expenses referred to in the preceding paragraph may not exceed one-half of the funeral expense deduction allowed under Article 17 of the Estate and Gift Tax Act.\r\nIf any of the provisions from Paragraph 2 to Paragraph 3 of this article is found to contradict applicable laws, the applicable laws shall prevail."
 		},
 		{
 			"number": 701,
-			"content": "When a simple life insurance contract is entered into, if the insured is subject to the declaration of guardianship and such declaration has not yet been revoked, then all death benefits, with the exception of funeral expenses, shall be deemed null and void. This voiding of benefits does not apply to health insurance.\r\nThe insured amount for the funeral expenses mentioned in the preceding paragraph may not exceed one half of the funeral expense deduction allowed under Article 17 of the Estate and Gift Tax Act.\r\nIf any of the provisions from Paragraph 1 to Paragraph 2 is found to contradict applicable laws, then the applicable laws shall prevail."
+			"content": "When a simple life insurance contract is entered into, if the insured is subject to the declaration of guardianship and such declaration has not yet been revoked, all death benefits, with the exception of health insurance and funeral expenses, shall be deemed null and void.\r\nThe insured amount for the funeral expenses mentioned in the preceding paragraph may not exceed one-half of the funeral expense deduction allowed under Article 17 of the Estate and Gift Tax Act.\r\nIf any of the provisions from Paragraph 1 to Paragraph 2 is found to contradict applicable laws, the applicable laws shall prevail."
 		},
 		{
 			"number": 800,
@@ -103,11 +104,11 @@
 		},
 		{
 			"number": 2000,
-			"content": "In the event that any of the following circumstances occur with regard to an insurance contract, the insurer shall, other than following the provisions under Article 21 hereof, not be held liable for any claims:\r\n1. The insured intentionally commits suicide within one year from the date of commencement or from the date of reinstatement of the insurance contract.\r\n2. The applicant intentionally causes the death of the insured.\r\n3. The insured is executed for crimes committed or dies when resisting arrest or breaking out of jail.\r\n4. The death of the insured is caused by war or other breakdown of public order.\r\n5. Illness, disability, miscarriage or death resultant from intentional suicide, suicide attempt or abortion by an insured in the case of a health insurance policy; as well as injuries, disability or death resultant from intentional suicide, suicide attempt or from crimes committed by an insured in the case of an accident insurance policy."
+			"content": "In the event that any of the following circumstances occur with regard to an insurance contract, the insurer shall, other than following the provisions under Article 21 hereof, not be held liable for any claims:\r\n1. The insured intentionally commits suicide within one year from the date of commencement or from the date of reinstatement of the insurance contract.\r\n2. The proposer intentionally causes the death of the insured.\r\n3. The insured is executed for crimes committed or he/she dies when resisting arrest or breaking out of jail.\r\n4. Illness, disability, miscarriage, or death resultant from intentional suicide, suicide attempt, or abortion by an insured in the case of a health insurance policy; as well as injuries, disability, or death resultant from intentional suicide, suicide attempt or from crimes committed by an insured in the case of an accident insurance policy."
 		},
 		{
 			"number": 2100,
-			"content": "Where Articles 16, 18 or subparagraph 1, 3 or 4 of Article 20 applies and the premium has been paid for over one year, the applicant may, in accordance with the provisions under this Act, apply for a refund of the entitled policy value reserve.\r\nWhere subparagraph 2 of Article 20 applies and the premium has been paid for over one year, the insurer shall make the policy value reserve payable to whomsoever is so entitled."
+			"content": "In case of the circumstances in Articles 16, 18, or Subparagraphs 1 and 3 of the preceding article, if the premium has been paid for more than one year, the proposer may, in accordance with the provisions of this Act, apply for a refund of the entitled non-forfeiture value.\r\nWhere Subparagraph 2 of Article 20 applies and the premium has been paid for over one year, the insurer shall make the non-forfeiture value payable to whomever is so entitled."
 		},
 		{
 			"number": 2200,
@@ -131,7 +132,7 @@
 		},
 		{
 			"number": 2700,
-			"content": "With the exception of deposits, utilization of postal simple life insurance capital shall be governed by subparagraphs 1, 2, 3, 5, 7, and 8 of paragraph 1 as well as paragraph 3 of Article 146, Article 146-1 to 146-4, 146-7 and 146-8 of the Insurance Act.\r\nSubject to approval by the MOTC, Chunghwa Post may finance major public projects. However, the total financing amount may not exceed 30% of its capitalization.\r\nThe term capital used in the two foregoing paragraphs refers to owners’ equity and various kinds of reserves."
+			"content": "With the exception of deposits, utilization of postal simple life insurance capital shall be governed by Subparagraphs 1, 2, 3, 5, 7, and 8 of Paragraph 1 as well as Paragraph 3 of Article 146, Article 146-1 to 146-4, 146-7, and 146-8 of the Insurance Act.\r\nSubject to approval by the MOTC, Chunghwa Post may finance major public projects. However, the total financing amount may not exceed 30% of its capital.\r\nThe capital prescribed in the preceding two paragraphs refers to owners’ equity and various kinds of reserves."
 		},
 		{
 			"number": 2800,
@@ -139,7 +140,7 @@
 		},
 		{
 			"number": 2900,
-			"content": "The capital of postal simple life insurance shall be subject to approval by Executive Yuan via the MOTC and a bond of 15% of the capitalization shall be deposited in the national treasury."
+			"content": "The capital of postal simple life insurance shall be subject to approval by the MOTC in consultation with the FSC and a bond of 15% of the paid-in capital shall be deposited in the national treasury."
 		},
 		{
 			"number": 3000,
@@ -171,7 +172,7 @@
 		},
 		{
 			"number": 3700,
-			"content": "If Chunghwa Post is found to be remiss in any of the following ways, a fine of NT$300,000 to NT$1,500,000 shall be levied. In addition, the underwriters or actuaries involved may be replaced.\r\n1. Violation of paragraph 1 of Article 5, Article 7, Article 7-1, Paragraph 2 of Article 8, Article 9, Paragraph 1 of Article 13, the proviso stated in Paragraph 1 of Article 17, and Articles 26 and 28 hereof.\r\n2. Violation of rules regarding deposit of the reserve or its calculation as stipulated under the Regulations Governing Enrollment in Postal Simple Life Insurance Policies, which are formulated in accordance with Article 42 hereof.\r\n3. Violation of Article 31 hereof concerning rules of compulsory enforcement or prohibition."
+			"content": "If Chunghwa Post is found to be remiss in any of the following circumstances, a fine of not less than NT$300,000 but not more than NT$1,500,000 shall be levied. In addition, the underwriters or actuaries involved may be replaced.\r\n1. Violation of Paragraph 1 of Article 5, Article 7, Article 7-1, Paragraph 2 of Article 8, Article 9, Paragraph 1 of Article 13, the proviso stated in Paragraph 1 of Article 17, and Articles 26 and 28 hereof.\r\n2. Violation of rules regarding deposit of the various reserves or its calculation as stipulated under the Regulations Governing Enrollment in Postal Simple Life Insurance Policies, which are formulated in accordance with Article 42 hereof.\r\n3. Violation of Article 31 hereof concerning rules of compulsory enforcement or prohibition."
 		},
 		{
 			"number": 3800,
@@ -179,7 +180,7 @@
 		},
 		{
 			"number": 3900,
-			"content": "After Chunghwa Post is fined and is ordered to take corrective action within a certain time period in accordance with the Act hereof, in the case that Chunghwa Post fails to take corrective action by the given time limit, fines can be levied successively."
+			"content": "After Chunghwa Post is fined and is ordered to take corrective action within a certain time period in accordance with the Act hereof, in the case that Chunghwa Post fails to take corrective action by the given time limit, fines can be levied each time a violation occurs."
 		},
 		{
 			"number": 4000,
@@ -191,7 +192,7 @@
 		},
 		{
 			"number": 4200,
-			"content": "Subject to approval by Executive Yuan, the MOTC and the FSC shall jointly formulate postal simple life insurance’s policy forms; terms and conditions for policy execution, change, reinstatement, termination and policy loans; settlement, premium rates, types of reserves, reserve deposits, and the calculation of reserves; as well as rules regarding other matters."
+			"content": "Regarding postal simple life insurance, the MOTC and the FSC shall jointly set policy forms; terms and conditions for policy execution, change, reinstatement, termination, and loans; settlement, premium rates, types of reserves, reserve deposits, and the calculation of the various reserves; as well as rules regarding other matters."
 		},
 		{
 			"number": 4300,
