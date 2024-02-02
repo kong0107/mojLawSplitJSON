@@ -1,12 +1,12 @@
 {
   "LawLevel": "命令",
-  "EngLawName": "Regulations Governing Electronic Visas of Export and Import Commodities",
+  "EngLawName": "Regulations Governing Electronic Licensing for the Export and Import of Commodities",
   "LawName": "輸出入貨品電子簽證管理辦法",
   "EngLawURL": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=J0090025",
-  "EngLawModifiedDate": "20081219",
+  "EngLawModifiedDate": "20231123",
   "EngLawAbandonNote": "",
   "EngLawAttachements": [],
-  "EngLawHistories": "1. Promulgated on November 20, 2002\r\n2. Amended on December 29, 2004\r\n3. Revised on August 2, 2005\r\n4. Amendment to Articles 8 promulgated on April 28, 2008\r\n5. Amendment to Articles 8 promulgated on December 19, 2008\r\n",
+  "EngLawHistories": "1. Promulgated on November 20, 2002\r\n2. Amended on December 29, 2004\r\n3. Revised on August 2, 2005\r\n4. Amendment to Articles 8 promulgated on April 28, 2008\r\n5. Amendment to Articles 8 promulgated on December 19, 2008\r\n6. Revised on November 23, 2023",
   "EngLawForeword": "",
   "EngLawArticles": [
     {
@@ -17,46 +17,41 @@
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 2",
-      "EngArticleContent": "The term \"electronic visa\" in these Regulations refers to an applicant applying to the Bureau of Foreign Trade, Ministry of Economic Affairs (hereinafter referred to as the BOFT, MOEA) for import/export approval visa documents (hereinafter to be written \"visa documents\") by means of electronic data transfer.\r\nThe aforementioned means of electronic data transfer include two kinds:\r\n1.Connecting and registering with the BOFT's website in order to transfer the visa document data.\r\n2.Transferring the electronic data of the visa documents through the \"Facile Trade Net.\"\r\nThe Standard Message and Message Implementation Guideline of Import/Export Approval Visa Documents will be announced separately by BOFT."
+      "EngArticleContent": "The term \"electronic licensing\" in these Regulations refers to a permit that an applicant applies for from the International Trade Administration (hereafter referred to as “TITA”), Ministry of Economic Affairs for import/export approval via electronic documents (hereinafter to be written \"electronic documents\") by means of electronic data transfer. The aforementioned means of electronic data transfer include two kinds:\r\n1. Connecting and registering with the TITA's website in order to transfer the electronic document data.\r\n2. Transferring the electronic data of the electronic documents through the \"Facile Trade Net.\"\r\nThe Standard Message and Implementation Guidelines for Import/Export Approval Electronic Documents will be announced separately by the TITA."
     },
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 3",
-      "EngArticleContent": "These Regulations shall be applied to the following visa documents:\r\n1.Import/Export Permits;\r\n2.Application for Optical Disk Manufacturing Implement Export/Import Declarations;\r\n3.Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES) Permits;\r\n4.Export Permits for Strategic High-Tech Commodities;\r\n5.International Import Certificates of Strategic High-Tech Commodities;\r\n6.Written Assurance Certificates of Strategic High-Tech Commodities Import;\r\n7.End-Use Certificate for Chemicals of the Chemical Weapons Convention;\r\n8.Other visa documents that must be applied for electronically, as publicly announced by BOFT."
+      "EngArticleContent": "These Regulations shall be applied to the following electronic documents:\r\n1. Import/Export Permits;\r\n2. Application for Optical Disk Manufacturing\r\nImplement Export/Import Declarations;\r\n3. Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES) Permits;\r\n4. Export Permits of Strategic High-Tech Commodities;\r\n5. International Import Certificates of Strategic High-Tech Commodities;\r\n6. Written Assurance Certificates of Strategic High-Tech Commodities Import;\r\n7. End-Use Certificate for Chemicals of the Chemical Weapons Convention;\r\n8. Other electronic documents that must be applied for electronically, as publicly announced by the TITA."
     },
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 4",
-      "EngArticleContent": "Applicants applying for visa documents shall do so by electronic means, unless either of the following two situations exists, in which case they shall apply by means of writing:\r\n1.The BOFT computer system breaks down;\r\n2.Application is made for replacement of lost visa documents."
+      "EngArticleContent": "Applicants applying for electronic documents shall do so by electronic means, unless one of the following three situations exists, in which case they shall apply by written documents:\r\n1. The TITA computer system breaks down;\r\n2. Application is for replacement of lost documents.\r\n3. Other electronic documents that must be applied for by written documents as publicly announced by the TITA.\r\nThe procedural methods in the aforementioned proviso shall be publicly announced by the TITA."
     },
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 5",
-      "EngArticleContent": "Before applying for visa documents on the BOFT website, the applicant must first connect with BOFT's website and apply to BOFT for a user ID and password, except if the applicant is using an MOEA Certification Authority IC Card.\r\nThe aforementioned applicant must submit relevant approval documents unless it is a government agency or state-run enterprise, or is not a qualified importer/exporter."
+      "EngArticleContent": "Before applying for electronic documents on the TITA website, the applicant must first access the TITA website and apply to the TITA for a user ID and password, except if the applicant is using a Certification Authority IC Card issued by the Ministry of Economic Affairs.\r\nThe applicant must submit relevant approval documents unless it is a government agency or state-run enterprise, or the applicant is not a qualified importer/exporter."
     },
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 6",
-      "EngArticleContent": "The applicant shall mail, fax copies of, or e-mail the documents required under the import/export regulations to the BOFT. The document receipt numbers, along with the signature and/or chop of the applicant or person responsible, is to be displayed on each of the documents. When needed, the original materials shall be provided to BOFT for verification.\r\nThe content of the aforementioned written documents, once converted into the visa document electronic data standard message format, may be exempt from the requirement that written documents be submitted."
+      "EngArticleContent": "Required documents (or copies thereof) shall be sent by postal mail, faxed, or e-mailed by the applicant; otherwise, the applicant shall apply by means of electronic data transfer mentioned in Article 2 under the import/export regulations of the TITA. The document receipt numbers, along with the signature and/or seal of the applicant or person responsible, shall be affixed on each of the documents. If necessary, the original materials shall be provided to the TITA for verification.\r\nWhen the contents of written documents are converted to the electronic data standard message format for electronic documents, the applicant is exempt from the requirement to submit written documents."
     },
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 7",
-      "EngArticleContent": "The electronic application form shall be considered successfully delivered to the BOFT after it is recorded into the BOFT computers.\r\nApplicants that apply for electronic visa applications through the BOFT website may check the processing status of their applications through the Internet. Applicants that apply for electronic visa applications through Facile Trade Net, if they need to check the processing status of their applications, should apply to BOFT for a user ID and password in accordance with the provisions of Article 5 of these Regulations."
+      "EngArticleContent": "The electronic application form shall be considered successfully delivered to the TITA once it is recorded into the TITA computers.\r\nApplicants who apply for electronic licensing applications through the TITA website may check the processing status of their applications through the Internet. If applicants who apply for electronic licensing applications through the Facile Trade Net need to check the processing status of their applications, they should apply to the TITA for a user ID and password in accordance with the provisions of Article 5 of these Regulations."
     },
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 8",
-      "EngArticleContent": "Written forms of all visa documents approved by the BOFT shall be issued to applicants, except the following items:\r\n1.Export/Import Permits ,\r\n2.Optical Disk Manufacturing Implement Export/Import Declarations,\r\n3.Export Permits of Strategy high-Tech commodity,\r\n4.Other visa documents announced by BOFT."
+      "EngArticleContent": "Written forms of all electronic documents approved by the TITA shall be issued to applicants, except the following items:\r\n1. Export/Import Permits,\r\n2. Optical Disk Manufacturing Implement Export/Import Declarations,\r\n3. Export Permits of Strategic High-Tech Commodities,\r\n4. Other electronic documents announced by the TITA."
     },
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 9",
-      "EngArticleContent": "If visa document processing cannot begin or continue due to a breakdown in the BOFT computer system, then the procedure shall be handled using ordinary written documents. The methods of the procedure shall be publicly announced by BOFT."
-    },
-    {
-      "EngArticleType": "A",
-      "EngArticleNo": "Article 10",
       "EngArticleContent": "These Regulations shall enter into force from the date of promulgation."
     }
   ]
