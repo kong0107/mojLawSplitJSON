@@ -3,9 +3,10 @@
 	"LawLevel": "命令",
 	"EngLawName": "Regulations Governing Aircraft Radio Stations",
 	"name": "航空器無線電臺管理辦法",
-	"EngLawModifiedDate": "20200707",
+	"EngLawModifiedDate": "20231109",
 	"histories": [
-		"14 Articles enacted and promulgated in full on July 7, 2020, by the order of the National Communications Commissions, Ref. Tong-Chuan-Tzu-Yuan-Zih No.10943015480."
+		"14 Articles enacted and promulgated in full on July 7, 2020, by the order of the National Communications Commissions, Ref. Tong-Chuan-Tzu-Yuan-Zih No.10943015480.",
+		"Amended on Nov. 9, 2023."
 	],
 	"articles": [
 		{
@@ -38,11 +39,11 @@
 		},
 		{
 			"number": 800,
-			"content": "The radio station shall operate on the frequencies announced by the competent authority."
+			"content": "The radio station shall operate on the frequencies announced by the Ministry of Digital Affairs."
 		},
 		{
 			"number": 900,
-			"content": "The following shall apply when the competent authority or delegated agency receives an application for establishment of radio station:\r\n1. The radio station is specifically for the use of communications in flights; and\r\n2. Operates on the frequencies announced by the competent authority."
+			"content": "The following shall apply when the competent authority or delegated agency receives an application for the establishment of a radio station:\r\n1. The radio station shall be specifically for the use of flight communications; and\r\n2. Operates on the frequencies announced by the Ministry of Digital Affairs."
 		},
 		{
 			"number": 1000,
@@ -62,7 +63,7 @@
 		},
 		{
 			"number": 1400,
-			"content": "These Regulations shall be implemented on July 1, 2020."
+			"content": "These Regulations shall be implemented on July 1, 2020.\r\nThe Amendment to the Regulations shall enter into force from the date of promulgation."
 		}
 	]
 }
