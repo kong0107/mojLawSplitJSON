@@ -1,9 +1,9 @@
 {
 	"pcode": "D0080135",
 	"LawLevel": "命令",
-	"EngLawName": "Fee-Charging Standards for Entry, Exit and Immigration Documents",
+	"EngLawName": "Fee-Charging Standards for Entry/Exit Permits and Immigration Documents",
 	"name": "入出國及移民許可證件規費收費標準",
-	"EngLawModifiedDate": "20211029",
+	"EngLawModifiedDate": "20231228",
 	"histories": [
 		"A total of 11 articles are promulgated by Ministry of the Interior (89) Tai-Nei-Yi-Tzu No. 8981065 on 15th, January, 2000, and are effective on the same date.",
 		"Articles 2, 4 and 6 amended by Ministry of the Interior Tai-Nei-Yi-Tzu (90) No. 9088093 are promulgated and effective on 15th, November, 2001.",
@@ -11,7 +11,8 @@
 		"Article 6 amended by Ministry of the Interior Tai-Nei-Yi-Tzu No. 0960923505 is promulgated and effective on 29th, June, 2007.",
 		"A total of 10 articles amended by Ministry of the Interior Tai-Nei-Yi-Tzu No. 09710358110 are promulgated and effective on 5th, January, 2009.",
 		"Articles 2 and 3 amended by Ministry of the Interior Tai-Nei-Yi-Tzu No. 0980958749 are promulgated and effective on 30th, December, 2009.\r\n7  Article 8 amended by Ministry of the Interior Tai-Nei-Yi-Tzu No. 1030954441 are promulgated and effective on 11th, November, 2014.",
-		"Article 2, 3 and 4 amended by Ministry of the Interior Tai-Nei-Yi-Tzu No.11009125661 are promulgated on October 29th, 2021."
+		"Article 2, 3 and 4 amended by Ministry of the Interior Tai-Nei-Yi-Tzu No.11009125661 are promulgated on October 29th, 2021.",
+		"Articles 2, 3, 5, and 10 were revised and promulgated by the Decree of Ministry of the Interior Tai-Nei-Yi-Zi No. 11209133971 on December 28, 2023, which shall become effective on January 1, 2024, except for Article 3, which shall become effective on March1,2024."
 	],
 	"articles": [
 		{
@@ -20,19 +21,19 @@
 		},
 		{
 			"number": 200,
-			"content": "Fees for nationals without registered permanent residence in the Taiwan Area applying for Entry/Exit documents:\r\n1. Single entry&exit permit: NT$600 per permit, for entry or exit permit alone is NT$300 per permit.\r\n2. Multiple entry&exit permit with duration of 2 years or under: NT$1,000 per permit.\r\n3. Multiple entry&exit permit with duration over 2 years: NT$2,000 per permit.\r\n4. Long-Term Resident Certificate for the Taiwan Area: NT$1,000 per certificate.\r\n5. Household Registration Permit: NT$600 per permit.\r\n6. Entry permit and copy of Long-Term Resident Certificate for the Taiwan Area: NT$1,300 per set.\r\n7. Copy of Entry Permit: NT$400 per copy.\r\nFor Subparagraph 1 of the preceding paragraph, single entry/exit permit and travel document are included; for Subparagraph 2 and 3, multiple entry&exit permit and permission for entry&exit are included.\r\nFees for overseas Chinese students applying for documents as described in Subparagraph 1 and 4 of Paragraph 1, are halved.\r\nFees for document extensions as described in Subparagraph 1 to 4 and 6 of Paragraph 1, are NT$300 per extension."
+			"content": "Fees for entry/exit permits for nationals without household registration in the Taiwan Area:\r\n1. Single entry/exit permit: NT$600 per permit; for one way entry permit or one way exit permit is NT$300 for each.\r\n2. Multiple entry/exit permit with duration of 2 years or under: NT$1,000 per permit.\r\n3. Multiple entry/exit permit with duration over 2 years: NT$2,000 per permit.\r\n4. Resident certificate for the Taiwan Area: NT$1,000 per certificate.\r\n5. Registered permanent resident certificate: NT$600 per certificate.\r\n6. One way entry permit and copy of resident certificate for the Taiwan Area: NT$1,300 per set.\r\n7. One way entry permit and copy of registered permanent resident certificate: NT$900 per set.\r\n8. Copy of entry permit: NT$400 per copy.\r\nFor Subparagraph 1 of the preceding paragraph, single entry/exit permits and travel documents are included; for Subparagraph 2 and 3, multiple entry/exit certificates and permissions for entry/exit are included.\r\nFees for overseas Chinese students applying for documents as described in Subparagraph 1 and 4 of Paragraph 1, are halved.\r\nFees for document extensions as described in Subparagraph 1 to 4, 6 and 7 of Paragraph 1, are NT$300 per extension."
 		},
 		{
 			"number": 300,
-			"content": "Fees for alien entry&exit documents:\r\n1. Alien resident certificate: NT$1,000 per year per certificate. For applicants who entered the R.O.C. (Taiwan) visa-free or with a visitor visa, an additional NT$2,200 is required.\r\n2. Alien permanent resident certificate: NT$10,000 per certificate.\r\nFees for extension of alien resident certificates is NT$1,000 per year per certificate as referred to in Subparagraph 1 of the preceding paragraph. Application fees for alien resident certificates and extensions of the certificate are halved for overseas Chinese students as referred to in Subparagraph 1 of Paragraph 1 and the preceding paragraph.\r\nFor duration of an alien resident certificate or extension period of an alien resident certificate that is less than one (1) year, the fee is charged for one (1) year as referred to in Subparagraph 1 of Paragraph 1, and Paragraph 2."
+			"content": "Fees for entry/exit permits for foreign nationals:\r\n1. Permit of extension of stay for foreign nationals: NT$300 per permit.\r\n2. Alien resident certificate: NT$1,000 per certificate for one (1) year validity. For applicants who traveled under the visa exemption scheme or with a visitor visa to R.O.C. (Taiwan), an additional NT$2,200 is required.\r\n3. Alien permanent resident certificate: NT$10,000 per certificate.\r\nFee for an extension of alien resident certificate is NT$1,000 per certificate for one (1) year validity as referred to in Subparagraph 2 of the preceding paragraph.\r\nApplication fees for alien resident certificates and extensions of the certificate are halved for overseas Chinese students as referred to in Subparagraph 2 of Paragraph 1 and the preceding paragraph.\r\nFor the validity of an alien resident certificate or extension period of an alien resident certificate that is less than one (1) year, the fee is charged for one (1) year as referred to in Subparagraph 2 of Paragraph 1, and Paragraph 2."
 		},
 		{
 			"number": 400,
-			"content": "Fees for entry/exit related documents:\r\n1. Entry registration certificate: NT$400 per certificate.\r\n2. Certificate of entry&exit dates and other entry/exit related documents:  NT$100 per certificate."
+			"content": "Fees for entry/exit relevant documents:\r\n1. Entry registration certificate: NT$400 per certificate.\r\n2. Certificate of entry/exit dates and other entry/exit relevant documents: NT$100 per certificate/document."
 		},
 		{
 			"number": 500,
-			"content": "Fees for licensing for immigration service organizations and immigration specialist certification:\r\n1. Immigration service organization registration certificate: in accordance with the Subparagraph 1, Paragraph 1, Article 57 of the Immigration Act, the fee for the certificate is 0.1% of the specified amount.\r\n2. Renewal of immigration service organization registration certificate: NT$1,000 for each renewal.\r\n3. Immigration specialist certificate: NT$1,000 per certificate.\r\n4. Examination for immigration specialist: NT$1,500 per exam.\r\nFor fees charged to immigration service organization registered in foreign countries and immigration lawyers of foreign countries, shall apply to the same amount listed in the preceding subparagraph."
+			"content": "Fees for immigration service organization registration certificates and specialists employed by the immigration service organization certificates:\r\n1. Immigration service organization registration certificates:\r\n(1) For those who operate businesses specified in Subparagraphs 1, 2, or 4 of Paragraph 1, Article 56 of the Immigration Act, the fee is NT$4,000.\r\n(2) For those who operate businesses specified in Subparagraph 3 of Paragraph 1, Article 56 of the Immigration Act, the fee is NT$6,000.\r\n(3) For those who operate businesses specified in the preceding 2 items, the fee is NT$6,000.\r\n2. Renewal of immigration service organization registration certificate: NT$1,000 for each renewal.\r\n3. Enrollment examination to become a specialist employed by an immigration service organization: NT$1,500 per examination.\r\n4. Specialist employed by an immigration service organization certificate: NT$1,000 per certificate."
 		},
 		{
 			"number": 600,
@@ -44,15 +45,15 @@
 		},
 		{
 			"number": 800,
-			"content": "When collecting fees in accordance with the standards set forth in the preceding articles, receipts must be provided, except in the circumstances described in Subparagraph 1 to 3, Paragraph 1, Article 22 of the Enforcement Rules of the Government Treasury Act.\r\nIf an application is denied, the application fee shall be refunded.\r\nApplicants who apply for the aforementioned documents set forth in Article 2 to Article 7 and request expedited service shall pay an extra charge, unless the request for that service is due to a natural disaster, an accident or official use and approved by the competent authority. The extra charge for expedited service is NT$300 per document/person for each working day earlier than normal processing time. A partial working day shall be regarded as a full working day. The competent authority will announce the application procedures and the number of days allowed to be shortened.\r\nThose who have applied for documents and later request expedited service shall be charged in accordance with the preceding paragraph. For those applicants who have applied for expedited service and then ask for even more expedited service shall pay extra (according to number of days shortened).\r\nThe competent authority may announce to suspend partially or entirely the expedited service set forth in Article 2 to Article 7 depending on the actual operational situation."
+			"content": "When collecting fees in accordance with the standards set forth in the preceding articles, receipts must be provided, except in the circumstances described in Subparagraph 1 to 3, Paragraph 1, Article 22 of the Enforcement Rules of the Government Treasury Act.\r\nIf an application is denied, the application fee shall be refunded.\r\nApplicants who apply for the aforementioned documents set forth from Articles 2 through 7 and request expedited service shall pay an extra charge, unless the request for that service is due to a natural disaster, an accident or official use and approved by the competent authority. The extra charge for expedited service is NT$300 per document/person for each working day earlier than normal processing time. A partial working day shall be regarded as a full working day. The competent authority will announce the application procedures and the number of days allowed to be shortened.\r\nThose who have applied for documents and later request expedited service shall be charged in accordance with the preceding paragraph. For those applicants who have applied for expedited service and then ask for even more expedited service shall pay extra (according to number of days shortened).\r\nThe competent authority may announce to suspend partially or entirely the expedited service set forth in Article 2 to Article 7 depending on the actual circumstances."
 		},
 		{
 			"number": 900,
-			"content": "For fees charged for entry, exit and immigration documents issued in foreign countries by R.O.C. overseas missions or institutions established or designated as well as authorized non-governmental organizations commissioned in Hong Kong or Macau by the Executive Yuan, rates shall be converted to local currency and in accordance with the preceding article.\r\nIn the event of change in the currency conversion rate, the change shall be reported to the competent authority and records of the changes should be kept for future reference."
+			"content": "For fees charged for entry/exit permits and immigration documents issued in foreign countries by R.O.C. overseas missions or institutions established or designated as well as authorized non-governmental organizations commissioned in Hong Kong or Macau by the Executive Yuan, rates shall be converted to local currency and in accordance with the preceding article.\r\nIn the event of change in the currency conversion rate, the change shall be reported to the competent authority and records of the changes should be kept for future reference."
 		},
 		{
 			"number": 1000,
-			"content": "The standards come into force on the date of promulgation."
+			"content": "The standards come into force on the date of promulgation.\r\nThis standard was revised and promulgated on December 28, 2023, which shall become effective on January 1, 2024, except for Article 3, which shall become effective on March 1, 2024."
 		}
 	]
 }
