@@ -3,7 +3,7 @@
 	"LawLevel": "法律",
 	"EngLawName": "Highway Act",
 	"name": "公路法",
-	"EngLawModifiedDate": "20230628",
+	"EngLawModifiedDate": "20231206",
 	"histories": [
 		"Promulgated on June 27, 1959.",
 		"Amendment to all Articles promulgated on February 1, 1971.",
@@ -21,7 +21,8 @@
 		"Amendment to Articles 75 on November 30, 2016.",
 		"Amendment to Article 77, and addition of Article 78-1 promulgated on January 4, 2017.",
 		"Amendment to Articles 65,81 promulgated on June 15, 2022.",
-		"Amendment to Article 72,73, and addition of Article 74-1, 74-2 promulgated on June 28, 2023."
+		"Amendment to Article 72,73, and addition of Article 74-1, 74-2 promulgated on June 28, 2023.",
+		"Amendment to Article 33,61-1,81 and addition of Article 34-1 promulgated on December 6, 2023.\r\n   Amendment to Article 58 shall take effect on a date determined by the Executive Yuan."
 	],
 	"divisions": [
 		{
@@ -202,7 +203,7 @@
 		},
 		{
 			"number": 3300,
-			"content": "Technical standards of highway design construction, maintenance and traffic engineer standards shall be determined by the MOTC."
+			"content": "Highway design, construction, maintenance, and traffic engineering, should be human-oriented, and, in principle, ensure the safety of road users; the technical specifications shall be determined by the MOTC."
 		},
 		{
 			"number": 3301,
@@ -211,6 +212,10 @@
 		{
 			"number": 3400,
 			"content": "Highway automobile transportations are divided into two kinds: private and commercial. Private automobiles transportation can drive everywhere in the ROC territories; commercial automobiles shall operate under the specifications as follows:\r\n(1) \"Highway Automobile Transportation Enterprise\": an enterprise which carries passengers within designated route(s) by bus.\r\n(2) \"Metropolitan Automobile Transportation Enterprise\": an enterprise which carries passengers within designated area(s) by bus.\r\n(3) \"Tourist Bus Transportation Enterprise\": an enterprise which uses buses waiting for hire and then taking passengers to anywhere.\r\n(4) \"Taxicab Transportation Business\": includes businesses or individuals using sedans for hire with a driver, used by a single passenger or a small group of passengers within designated area(s).\r\n(5) \"Car Rental Business\": a company that rents passenger cars to others.\r\n(6) \"Pickup Truck Rental Business\": a company that rents pickup trucks to others.\r\n(7) \"Automobile Cargo Transportation Business\": a business which provides freight delivery service with trucks.\r\n(8) \"Automobile Cargo Transportation within Designated Route(s) Enterprise\": an enterprise which provides delivery services with trucks in designated route(s).\r\n(9) \"Container Truck Transportation Enterprise\": an enterprise which transports containers with container trucks in designated areas.\r\nThe aforementioned operation routes or areas of commercial automobiles are subject to modification by highway authorities if necessary."
+		},
+		{
+			"number": 3401,
+			"content": "After being ratified by the highway authorities, transportation enterprises are allowed to provide freight services for remote areas.\r\nThe applicable transportation enterprises, management regulations, category details, weight and volume, fee-charging standards referred to in the preceding paragraph shall be determined by the MOTC."
 		},
 		{
 			"number": 3500,
@@ -326,7 +331,7 @@
 		},
 		{
 			"number": 5800,
-			"content": "To maintain highways and urban roads that are safe and unimpeded, highway authorities may, on roads with heavy traffic, assign special lanes for various vehicles according to practical needs, and should install signs, markings, signals, railings, traffic islands, and other traffic safety construction installations at dangerous or appropriate points.\r\nHighway authorities shall pave special lanes on existing roads or use alternative roads as special lanes for bicycles and pedestrians according to the needs of bicycles and pedestrians."
+			"content": "To maintain highways and urban roads that are safe and unimpeded, highway authorities may, on roads with heavy traffic, assign special lanes for various vehicles according to practical needs, and should install signs, markings, signals, railings, traffic islands, and other traffic safety construction installations at dangerous or appropriate points.\r\nHighway authorities shall pave special lanes on existing roads or use alternative roads as special lanes for bicycles and pedestrians according to the needs of bicycles and pedestrians.\r\nHighway construction under the following conditions should be carried out along with obstacle-free sidewalks, pedestrian walking areas, or traffic calm zones within a certain range, and the same applies to those with arcades:\r\n(1)The construction site overlaps with route sections shared by highways and urban roads.\r\n(2)The construction site overlaps with route sections for medical institutions, schools, institutions, railway stations, MRT stations, or airports.\r\n(3)The construction site overlaps with locations feasible for alternative passageway, densely populated areas, and road sections to locations designated by the highway authorities.\r\nWhen established according to section 1 of the preceding paragraph, the sidewalk setting standards shall follow relevant standards under the Urban Road Act.\r\nThe location and implementation scope of Paragraph 3 shall be determined by the MOTC in conjunction with the Ministry of the Interior.\r\nTo ensure highway traffic safety, the MOTC should establish management standards for highway infrastructure safety and supervise municipal and county (city) governments handling inspections related to urban roads with the Ministry of the Interior.\r\nHighway construction should comply with management standards for highway infrastructure safety, and should pass the highway safety inspection."
 		},
 		{
 			"number": 5900,
@@ -346,7 +351,7 @@
 		},
 		{
 			"number": 6101,
-			"content": "Car testings and driver license tests shall be made by the personnel who is qualified by exam and with certification.\r\nRegulations regarding matters such as testing mode, category, qualifications, training, assessment and supervision and management for the aforementioned car testing and driver license test personnel shall be determined personnel by the MOTC.\r\nRepairs of cars should be executed by the personnel with a car repair mechanic license or car repair technician certificate grade B or above.\r\nRegulations regarding matters such as testing method, category, qualifications, training, assessment and supervision and management for the aforementioned car repair mechanician and technician shall be determined by the MOTC in conjunction with Council of Labor Affairs, Executive Yuan."
+			"content": "Car testings and driver license tests shall be made by the personnel who is qualified by exam and with certification.\r\nRegulations regarding matters such as testing mode, category, qualifications, training, assessment and supervision and management for the aforementioned car testing and driver license test personnel shall be determined personnel by the MOTC.\r\nRepairs of cars should be executed by the personnel with a car repair mechanic license or car repair technician certificate grade B or above.\r\nRegulations regarding matters such as testing method, category, qualifications, training, assessment and supervision and management for the aforementioned car repair mechanic and technician shall be determined by the MOTC."
 		},
 		{
 			"number": 6200,
@@ -462,7 +467,7 @@
 		},
 		{
 			"number": 8100,
-			"content": "This Act is enforced since the date of its promulgation, except for the enforcement date of Article 35 which had been revised and promulgated on May 07th 1997 which shall be determined by the Executive Yuan.\r\nParagraph 3 of Article 65 amended on May 24, 2022 shall take effect on 1 year after the publication date on which the amendment came into effect."
+			"content": "This Act is enforced since the date of its promulgation, except for the enforcement date of Article 35 which had been revised and promulgated on May 07th 1997 which shall be determined by the Executive Yuan.\r\nParagraph 3 of Article 65 amended on May 24, 2022 shall take effect on 1 year after the publication date on which the amendment came into effect.\r\nArticle 58 of this Act amended on Nov. 21, 2023 shall take effect on a date determined by the Executive Yuan."
 		}
 	]
 }
