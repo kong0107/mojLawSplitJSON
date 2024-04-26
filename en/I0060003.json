@@ -1,13 +1,14 @@
 {
 	"pcode": "I0060003",
 	"LawLevel": "法律",
-	"EngLawName": "The Classified National Security Information Protection Act",
+	"EngLawName": "Classified National Security Information Protection Act",
 	"name": "國家機密保護法",
-	"EngLawModifiedDate": "20200610",
+	"EngLawModifiedDate": "20231227",
 	"histories": [
 		"Date：February 06,2003 (Announced)",
 		"Presidential Order Hua-Zong-I-Yi-Zi No. 10800048591 dated May 10 2019 for the promulgation of Articles 26, 32~34, scheduled for enactment on May 12 2019 under Executive Yuan Order Yuan-Tai-Fa-Zi. No. 1080175632 dated May 10 2019.",
-		"Presidential Order Hua-Zong-I-Yi-Zi No. 10900064831 dated June 10 2020 for the promulgation of Articles 24, scheduled for enactment on July 17 2020 under Executive Yuan Order Yuan-Tai-Fa-Zi. No. 1090094235 dated July 13 2020."
+		"Presidential Order Hua-Zong-I-Yi-Zi No. 10900064831 dated June 10 2020 for the promulgation of Articles 24, scheduled for enactment on July 17 2020 under Executive Yuan Order Yuan-Tai-Fa-Zi. No. 1090094235 dated July 13 2020.",
+		"Presidential Order Hua-Zong-I-Yi-Zi No. 11200112991 dated December 27, 2023 for the promulgation of Articles 3, 7, 11, 12, 26, 36, 41(amendment); Article 39-1(addition); effective on the date of promulgation."
 	],
 	"divisions": [
 		{
@@ -64,7 +65,7 @@
 		},
 		{
 			"number": 300,
-			"content": "The term \"agency\" referred to in this Act means all levels of agencies in the Central Government or local government and their subordinated organizations and civilian groups or individuals ordered by Act or commissioned to perform the official duties."
+			"content": "The term “agency” referred to in this Act means central and local government agencies at all levels and their established institutions for testing, research, education, medical care, special fund management, etc., and administrative legal persons.\r\nIndividuals, legal persons, or groups the agency entrusts to exercise public power are regarded as agencies within the scope of this Act for their entrusted affairs."
 		},
 		{
 			"number": 400,
@@ -96,11 +97,11 @@
 		},
 		{
 			"number": 1100,
-			"content": "At the time of the original classification, each original classification authority shall set a date or event for automatic declassification.\r\nThe declassification date for Top Secret information shall be no more than thirty years after original classification. The declassification date for Secret information shall be no more than twenty years after original classification. The declassification date for Confidential information shall be no more than ten years after original classification.\r\nIf it is necessary to prolong the classification or change the event of declassification, the original classification authority shall submit the matter to the superior agency for determination. The prolonged classification duration shall not exceed the original classification duration.\r\nClassification can only be prolonged two times. Classified information shall be released and make available to the public within 30 years. If there is a special circumstance requiring information to be protected beyond 30 years, an approval of prolonged classification shall be obtained from the Legislative Yuan."
+			"content": "At the time of the original classification, each original classification authority shall set a date or event for automatic declassification.\r\nThe maximum classification period shall be no more than thirty years from the date of approval for Top Secret information, no more than twenty years from the date of approval for Secret information, and no more than ten years from the date of approval for Confidential information.\r\nIf it is necessary to prolong the classification or change the event of declassification, the original classification authority shall submit the matter to the superior agency for determination. The prolonged classification duration shall not exceed the original classification duration.\r\nClassification can only be prolonged two times. Classified information shall be released and make available to the public within 30 years. If there is a special circumstance requiring information to be protected beyond 30 years, an approval of prolonged classification shall be obtained from the Legislative Yuan.\r\nIf it is necessary to extend or change the classification period or the conditions for declassification, the matter shall be submitted to the original approving agency or its superior agency for approval. The total of the original approval period and the extension period shall not exceed the maximum period specified in Paragraph 2. Classified information shall be released and made available to the public within thirty years. Under extraordinary circumstances, the Legislative Yuan may approve prolonged classification."
 		},
 		{
 			"number": 1200,
-			"content": "Any national security information involving intelligence lawivities, sources or access shall remain classified permanently. The provisions set forth in the preceding paragraph and Article 22 of the Official Files Act are not applicable to such classified information.\r\nThe classification authority for information involving intelligence lawivities, sources or access prescribed in the preceding paragraph shall be exercised in accordance with the provisions set forth in Article 7 of this Act."
+			"content": "Classified information involving national security intelligence sources or channels shall have a classification period of no more than thirty years from the date of approval. If the conditions for declassification are not met after thirty years, they shall be deemed to have been met when the period expires. However, if the original approving agency reviews and deems it necessary to continue the classification, it shall state the facts and reasons and submit the matter to the authorized personnel for approval in the original approving agency or its superior agency. Paragraphs 2, 4, and 5 of the preceding article and Article 22 of the Archives Act shall not apply.\r\nThe extension period prescribed in the preceding paragraph shall not exceed ten years at a time. If the classification period has exceeded sixty years from the date of the original approval, the extension shall be submitted to the authorized personnel for approval in the superior agency.\r\nThe authorized personnel in the original approving agency or its superior agency, as mentioned in the preceding 2 paragraphs, shall determine whether to approve within two months after receiving the submission. If the deadline is not met, the classification extension submission shall be deemed to have been rejected."
 		},
 		{
 			"number": 1300,
@@ -156,7 +157,7 @@
 		},
 		{
 			"number": 2600,
-			"content": "To depart from this country, the following personnel shall be subject to the approval of the head of the (original) institution employing the personnel or the entrusted institution, or the authorized personnel of the head of the institution:\r\nI. Personnel who may approve classified national security information.\r\nII. Personnel engaged in handling classified national security information and related matters.\r\nIII. Personnel who were discharged from the duties as mentioned in the previous 2 sub-paragraphs or who have handled over classified national security information for less than 3 years.\r\nThe duration as mentioned in sub-paragraph III of the previous paragraph may be extended by the classified national security information approval institution where necessary. The period of extension shall not exceed 3 years and only one extension is permitted unless the situations as prescribed in Paragraph 1 in Article 12 are applicable."
+			"content": "To depart from this country, the following personnel shall be subject to the approval of the head of the (original) institution employing the personnel or the entrusted institution, or the authorized personnel of the head of the institution:\r\nI. Personnel who may approve classified national security information.\r\nII. Personnel engaged in handling classified national security information and related matters.\r\nIII. Personnel who were discharged from the duties as mentioned in the previous 2 sub-paragraphs or who have handled over classified national security information for less than 3 years.\r\nThe duration as mentioned in sub-paragraph III of the previous paragraph may be extended by the classified national security information approval institution where necessary. The period of extension shall not exceed 3 years and only one extension is permitted unless the situations as prescribed in Paragraph 1 in Article 12 are applicable.\r\nThe personnel listed in Paragraph 1 shall report to the (original) institution employing the personnel or the entrusted institution within seven working days after returning to Taiwan."
 		},
 		{
 			"number": 2700,
@@ -196,7 +197,7 @@
 		},
 		{
 			"number": 3600,
-			"content": "Whoever departs the country without an approval or goes to other counties without permission, in violation of the provisions set forth in Article 26, Paragraph 1 of this Act, shall be imprisoned not more than two years, be jailed, or be fined not more than NT$200,000, or both."
+			"content": "Whoever departs the country without an approval or goes to other counties without permission, in violation of the provisions set forth in Article 26, Paragraph 1 of this Act, shall be imprisoned not more than two years, be jailed, or be fined not more than NT$200,000, or both.\r\nPersonnel who were discharged from the duties as mentioned in Article 26, Paragraph 1, Subparagraph 3 of this Act, who failed to report within the deadline in violation of Article 26, Paragraph 3 of this Act shall be fined between NT$20,000 and NT$100,000 by the original institution employing the personnel or the entrusted institution."
 		},
 		{
 			"number": 3700,
@@ -211,12 +212,16 @@
 			"content": "Information previously classified under other Act before this Act comes into effect, shall be reclassified under this Act at the time this Act has come into effect for two years."
 		},
 		{
+			"number": 3901,
+			"content": "Information originally approved for permanent classification under this Act shall be re-approved within two years from the date of the amendment and promulgation of Article 12, and the classification period shall be calculated from the date of the original approval. If the re-approval has not been completed within two years, it shall be deemed to be declassified from the expiration date and handled according to Article 31.\r\nFor information with a classification period exceeding thirty years, if the extension of such period is approved according to the preceding paragraph, the extended period shall be calculated from the day after the original period reaches the thirtieth year, and the extensions shall be approved in accordance with Article 12."
+		},
+		{
 			"number": 4000,
 			"content": "The Enforcement Rules of this Act shall be enacted by the Executive Yuan."
 		},
 		{
 			"number": 4100,
-			"content": "The effective date of this Act shall be set by the Executive Yuan."
+			"content": "The effective date of this Act shall be set by the Executive Yuan.\r\nThe provisions of this Act, as amended and added on December 8, 2023, shall come into effect on the date of promulgation."
 		}
 	]
 }
