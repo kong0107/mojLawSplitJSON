@@ -3,7 +3,7 @@
 	"LawLevel": "命令",
 	"EngLawName": "Regulations for Handling Import Relief Cases",
 	"name": "貨品進口救濟案件處理辦法",
-	"EngLawModifiedDate": "20140113",
+	"EngLawModifiedDate": "20240220",
 	"histories": [
 		"Promulgated on Jun.1, 1994",
 		"Amended on Dec. 30, 1998",
@@ -16,7 +16,8 @@
 		"Amended on Apr. 04, 2005",
 		"Amended on Jan. 19, 2009",
 		"Amended on Oct. 15, 2010\r\n   Chapter 4-3 shall be officially implemented on Jan. 1, 2011",
-		"Amended on Jan. 13, 2014"
+		"Amended on Jan. 13, 2014",
+		"Amended on Feb. 20, 2024"
 	],
 	"divisions": [
 		{
@@ -24,266 +25,184 @@
 			"number": 100,
 			"title": "General Provisions",
 			"start": 100,
-			"end": 701
+			"end": 900
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Petition",
-			"start": 800,
-			"end": 900
+			"start": 1000,
+			"end": 1100
 		},
 		{
 			"type": "chapter",
 			"number": 300,
-			"title": "Investigation Into Injury Caused To The Industry",
-			"start": 1000,
-			"end": 2100
+			"title": "Industry Injury Investigation",
+			"start": 1200,
+			"end": 2300
 		},
 		{
 			"type": "chapter",
 			"number": 400,
 			"title": "Import Relief",
-			"start": 2200,
-			"end": 2600
-		},
-		{
-			"type": "chapter",
-			"number": 401,
-			"title": "(deleted)",
-			"start": 2601,
-			"end": 2606
-		},
-		{
-			"type": "chapter",
-			"number": 402,
-			"title": "(deleted)",
-			"start": 2607,
-			"end": 2615
-		},
-		{
-			"type": "chapter",
-			"number": 403,
-			"title": "Import Relief against Products Under the Early Harvest from Mainland China",
-			"start": 2616,
-			"end": 2619
+			"start": 2400,
+			"end": 2800
 		},
 		{
 			"type": "chapter",
 			"number": 500,
+			"title": "Import Relief against Products Under the Early Harvest from Mainland China",
+			"start": 2900,
+			"end": 3200
+		},
+		{
+			"type": "chapter",
+			"number": 600,
 			"title": "Supplement Provisions",
-			"start": 2700,
-			"end": 2900
+			"start": 3300,
+			"end": 3500
 		}
 	],
 	"articles": [
 		{
 			"number": 100,
-			"content": "These Rules are prescribed in accordance with the provisions of Article 18, paragraph 3 of the Foreign Trade Act (hereafter referred to as “the Act”)."
+			"content": "These Regulations are prescribed pursuant to Paragraph 3 of Article 18 of the Foreign Trade Act (hereinafter referred to as the Act)."
 		},
 		{
 			"number": 200,
-			"content": "The term “import relief case” as referred to herein means a case in which application has been made for investigation into the injury caused to an industry and for import relief pursuant to Article 18, Paragraph 1 of the Act.\r\nA case of injury to the industry as referred to in the preceding paragraph is to be established, when there is an increase in the imported quantity of the product concerned, or an increase in such imports relative to domestic production, so as to cause or threaten to cause serious injury to the domestic industry producing like products or directly competitive products.\r\nThe term “serious injury” as referred to in the preceding paragraph means an obvious and comprehensive injury to the domestic industry; the term “threat of serious injury” means a serious injury not yet occurred but clearly imminent."
+			"content": "An “import relief case” as referred to in these Regulations means a case in which a petition, pursuant to Paragraph 1, Article 18 of the Act, has been made for an investigation into the injury to a domestic industry caused by imports and for import reliefs.\r\nThe injury to a domestic industry, as referred to in the preceding paragraph, is established when there is an increase in the quantity of the imported product concerned, or an increase in such imports relative to domestic production, and under such conditions as to cause or threaten to cause serious injury to the domestic industry producing like products or directly competitive products.\r\nThe term “serious injury”, as referred to in the preceding paragraph, means a significant overall impairment to the domestic industry. The term “threat of serious injury” means a serious injury that has not yet occurred but is clearly imminent."
 		},
 		{
 			"number": 300,
-			"content": "In making a determination regarding the existence of serious injury, the amount and rate of increase in imports of the product concerned in absolute terms and relative to domestic production shall be considered altogether, and consideration shall also be given to the following factors in respect of the domestic industry concerned and changes thereof:\r\n1.market share,\r\n2.sales,\r\n3.production,\r\n4.productivity,\r\n5.capacity utilization,\r\n6.profits and losses,\r\n7.employment,\r\n8.other relevant factors.\r\nIn making a determination regarding the existence of a threat of serious injury, in addition to the factors and their trend of changes as mentioned in the preceding paragraph, the production capacity and export capability of the major exporting countries shall be considered so as to evaluate whether the said industry is to be seriously injured if the relief measure is not adopted.\r\nThe Ministry of Economic Affairs, in determining the injury in accordance with the preceding two paragraphs, shall consider all evidence or information acquired in the investigation. When factors other than increased imports are causing injury to the domestic industry at the same time, such injury shall not be attributed to increased imports."
+			"content": "With respect to an import relief case, the Ministry of Economic Affairs (hereinafter referred to as the MOEA) may, upon a petition by the relevant authority, the injured domestic industry, an association, a labor union, or relevant organizations on behalf of the injured domestic industry, refer it to the International Trade Administration (hereinafter referred to as TITA) of the MOEA for investigation, and the results should be submitted to the Trade Remedies Commission (hereinafter referred to as the Commission) of the MOEA for deliberation."
 		},
 		{
 			"number": 400,
-			"content": "For those import relief cases in which the existence of injury or threat thereof has been established pursuant to these Rules, the Ministry of Economic Affairs may adopt the following relief measures:\r\n1.adjusting the tariffs,\r\n2.imposing import quotas,\r\n3.providing financing guarantee, subsidy for technological research and development, assistance for changing the line of business, professional training or other adjustment measures or assistance.\r\nThe measures as referred to in the sub-paragraphs 1 and 2 of Paragraph 1 shall not be adopted simultaneously.\r\nThe measure as referred to in sub-paragraph 1 of Paragraph 1 shall be implemented pursuant to the provisions of the Customs Law upon the Ministry of Finance being notified by the Ministry of Economic Affairs. The measure as referred to in sub-paragraph 2 may be implemented based on the agreement made between the Ministry of Economic Affairs and the exporting countries regarding relevant matters. The measure as referred to in sub-paragraph 3, when related to agricultural products, shall be implemented by the Council of Agriculture of the Executive Yuan. Other relief measures shall be implemented by the Ministry of Economic Affairs in conjunction with the government agencies concerned."
+			"content": "In making a determination regarding the existence of serious injury, the amount and rate of increase in imports of the product concerned in absolute terms and relative to domestic production shall be considered, along with the following factors concerning the domestic industry and changes thereof:\r\n1.Market share,\r\n2.Sales,\r\n3.Production,\r\n4.Productivity,\r\n5.Capacity utilization,\r\n6.Profits and losses,\r\n7.Employment,\r\n8.Other relevant factors.\r\nIn making a determination regarding the existence of a threat of serious injury, in addition to the trends of changes in factors referred to in the preceding paragraph, the production capacity and export capability of the major exporting countries shall be taken into account to evaluate whether the said industry would be seriously injured should no import relief measures be imposed.\r\nThe MOEA, in determining the injury of the preceding two paragraphs, shall consider all evidence or information gathered during the investigation. If factors other than increased imports are causing injury to the domestic industry at the same time, such injury shall not be attributed to increased imports."
 		},
 		{
 			"number": 500,
-			"content": "The term “domestic industry” as referred to in these Rules means the domestic producers of like products or directly competitive products whose collective output of the products constitutes, as determined by the International Trade Commission of the Ministry of Economic Affairs (hereafter referred to as the “Commission”), a major proportion of the total domestic production of those products.\r\nThe term “like products” as referred to herein means products having the same characteristics and are composed of the same materials; the term “directly competitive products” means products which, despite the differences in their characteristics or composing materials, are directly substitutable products in terms of their utility purpose and commercial competitiveness."
-		},
-		{
-			"number": 501,
-			"content": "The term \"interested parties\" as referred to herein means:\r\n1.foreign producers, foreign exporters, domestic importers or the commercial/industrial associations to which they belong as major members;\r\n2.the government or its representative(s) of the exporting countries or the countries of origin;\r\n3.the domestic producers of like products or directly competitive products or the commercial/industrial associations to which they belong as major members;\r\n4.other interested parties as identified by the Commission."
+			"content": "For an import relief case in which a domestic industry has been determined to be injured by imports pursuant to these Regulations, the MOEA may adopt the following relief measures:\r\n1. Adjusting the tariffs,\r\n2. Imposing import quotas,\r\n3. Providing financing guarantee, incentives for technological research and development, assistance for business transformation, professional training, or other adjustment measures or assistance.\r\nThe measures referred to in Subparagraphs 1 and 2 of the preceding paragraph shall not be adopted simultaneously.\r\nThe measure referred to in the Subparagraph 1 of Paragraph 1 shall be implemented pursuant to relevant provisions of the Customs Act by the Ministry of Finance upon notification by the MOEA. The measure referred to in Subparagraph 2 of Paragraph 1 may be implemented based on agreements made between the MOEA and the exporting countries regarding relevant matters. For measures related to agricultural products, as mentioned in Subparagraph 3 of Paragraph 1, the Ministry of Agriculture shall be responsible for implementation, while measures other than those pertaining to agricultural products shall be implemented by the MOEA in coordination with related government agencies."
 		},
 		{
 			"number": 600,
-			"content": "With respect to an import relief case, the Ministry of Economic Affairs may, upon the petition by the relevant authority, the injured domestic industry, the association representing the injured domestic industry, labor union or the relevant entities, refer the case to the Commission to proceed with the injury investigation."
+			"content": "The term “domestic industry”, as referred to in these Regulations, means the domestic producers of like products or directly competitive products whose collective output constitutes a major proportion of the total domestic production of those products, as determined by the MOEA.\r\nThe term “like products”, as referred to in these Regulations, means products having the same characteristics and composed of the same materials as the imported products concerned. The term “directly competitive products” refers to products that, despite differences in their characteristics or composition, are directly substitutable in terms of their utility and commercial competitiveness with the imported products concerned."
 		},
 		{
 			"number": 700,
-			"content": "Unless otherwise provided by these Rules, a decision of the Commission shall be taken by a majority of the attending Commissioners at a meeting attended by a majority of the Commissioners."
-		},
-		{
-			"number": 701,
-			"content": "Any legal matters stipulated in these Rules with the indication of public notice shall be published in the Government Gazette."
+			"content": "The term \"interested parties\" referred to in these Regulations include the following:\r\n1.Foreign producers or exporters, domestic importers or the commercial/industrial associations to which they belong as major members, of the imported products concerned,\r\n2.The government or its representative(s) of the exporting countries or the countries of origin, of the imported products concerned,\r\n3.Domestic producers of like products or directly competitive products, or the commercial/industrial associations to which they belong as major members,\r\n4.Other interested parties as identified by the MOEA."
 		},
 		{
 			"number": 800,
-			"content": "In the case of petition for import relief, the petitioner shall submit a written petition to the Ministry of Economic Affairs, setting forth the following particulars and enclosing the following relevant information:\r\n1.proof that the petitioner meets the qualifications prescribed in Article 6;\r\n2.a description of the imported goods:\r\n(1)the name and import and export commodity classification code of the goods, tariff code, quality, specifications, usage and other characteristics;\r\n(2)the country of export, country of origin, producer, exporter, and importer;\r\n3.the facts about the industry being affected:\r\n(1)the production, sales, inventory, product, price, profits and losses, capacity utilization, and employment of the domestic industry, and their changes for the most recent three years prior to the petition date;\r\n(2)the quantity, price and market share of imports in the domestic market for the most recent three years prior to the petition date;\r\n(3)the quantity and price of the goods imported from the major exporting countries for the most recent three years prior to the petition date;\r\n(4)other information which may be used to allege the fact that the industry has been affected;\r\n4.the adjustment plan and the proposed relief measures allowing the industry to recover its competitiveness or to shift to another line of business.\r\nThe particulars and information which shall be set forth or required under sub-paragraphs 2 and 3 of the preceding paragraph may be exempted, if the petitioner has justification for not being able to provide the same and the Commission has so agreed.\r\nThe adjustment plan as referred to in sub-paragraph 4 of Paragraph 1 may be submitted within 90 days of the filing of the petition."
+			"content": "Unless otherwise specified by these Regulations, decisions of the Commission shall be made by a majority of the attending Commissioners at meetings in which more than half of all Commissioners are present."
 		},
 		{
 			"number": 900,
-			"content": "Unless in any of the following situations which would cause the dismissal of the petition, the Ministry of Economic Affairs, shall, within 30 days from the day after receiving the petition, refer the import relief case to the Commission for review and decision on whether to initiate an investigation; provided, however, that the time required for the petitioner to supplement information shall not be included in the thirty-day period:\r\n1.the petitioner is not qualified as required in Article 6; or\r\n2.the petitioner fails to meet the requirements stipulated in Article 8, Paragraph 1, and fails to supplement data within the period as notified or fails completely to supplement the information.\r\nRegardless of whether a decision is made to initiate an investigation or not, the Ministry of Economic Affairs shall immediately notify the petitioner and known interested parties in writing and give a public notice thereof."
+			"content": "Any information for public notice required by these Regulations shall be published in the Government Gazette."
 		},
 		{
 			"number": 1000,
-			"content": "Where the Commission investigates into an import relief case, the Chairperson of the Commission shall designate one or two Commissioners to be responsible for handling the case and, where necessary, request the relevant agency to assign staff or commission scholars and experts in the relevant fields on a case-by-case basis to assist in the investigation."
+			"content": "An applicant applying for an import relief shall file a written application containing the following items, together with sufficient materials, with the MOEA:\r\n1. Proofs that the petitioner meets the qualifications prescribed in Article 3;\r\n2. Information about the imported subject products:\r\n(1) Descriptions, import and export commodity classification codes, tariff codes, qualities, specifications, use and other characteristics;\r\n(2) Countries of exports, countries of origins, producers or exporters of those countries, and domestic importers;\r\n3. Facts about the impact on the domestic industry:\r\n(1) The production, sales, inventory, price, profits and losses, capacity utilization, and employment of the domestic industry, and their changes for the most recent three years prior to the petition date;\r\n(2) Quantity, price and market share of imported products concerned in the domestic market for the most recent three years prior to the petition date;\r\n(3) Quantity and price of products concerned imported from the major exporting countries for the most recent three years prior to the petition date;\r\n(4) Other information supporting the assertion that the domestic industry has been affected;\r\n4. The adjustment plan for the domestic industry to recover its competitiveness or to undergo business transformation and the proposal on what import relief measures to be implemented.\r\nThe information and supporting materials required under Subparagraphs 2 and 3 of the preceding Paragraph may not be provided if the petitioner has a good reason that has been agreed by the MOEA.\r\nThe adjustment plan referred to in Subparagraph 4 of Paragraph 1 may be submitted within 90 days of filing the petition."
 		},
 		{
 			"number": 1100,
-			"content": "The Commission, when conducting investigation into an import relief case, shall comply with the following:\r\n1.it shall review the information provided by the petitioner and the interested parties, and may assign staff to conduct on-site verification, and when necessary, may require the provision of additional relevant information; and\r\n2.it shall hold hearings.\r\nThe petitioner or interested parties shall provide information according to the requirements of the Commission; if such information is not provided, the Commission may proceed to examine the case based on the information available."
+			"content": "Unless any of the following situations which would lead to the dismissal of the petition, the MOEA shall, within 30 days from the day after receiving the petition, refer the import relief case to the Commission to deliberate on whether to initiate an investigation. However, the time required for the petitioner to correct or supplement the required information shall not be included in the thirty-day period:\r\n1. The petitioner does not meet the qualifications required in Article 3; or\r\n2. The petitioner fails to comply with the requirements specified in Paragraph 1 of preceding article and subsequently fails to correct or supplement the information adequately within the specified period after being notified.\r\nThe MOEA shall promptly notify the petitioner and known interested parties in writing, and issue a public notice, when a decision is made regardless of whether to initiate an investigation."
 		},
 		{
 			"number": 1200,
-			"content": "The Commission shall permit public access to the information provided by the petitioner or interested parties, except where a request with justification has been made for keeping the information confidential.\r\nWith respect to the request for confidentiality referred to in the preceding paragraph, the Commission may require provision of a summary which can be made public; if the request for provision of a summary is refused without justification, the Commission may disregard the said information."
+			"content": "For the purpose of conducting an investigation on an import relief case, the Convenor of the Commission shall designate one or two Commissioners to oversee each import relief case. Additionally, TITA may establish a working group, where necessary, inviting staff from relevant agencies or scholars and experts in relevant fields to assist with the investigation on a case-by-case basis."
 		},
 		{
 			"number": 1300,
-			"content": "The Commission shall give public notice in advance of the date set forth for each hearing.\r\nThe Commission shall at the same time notify the petitioner and the known interested parties to attend the hearing."
+			"content": "When conducting an investigation on an import relief case, TITA shall comply with the following:\r\n1. It shall examine the information provided by the petitioner and the interested parties, and may conduct on-site verification. It may also require additional information that it deems necessary; and\r\n2. It shall hold hearings.\r\nThe petitioner or the interested parties shall provide information upon the request of TITA. If such information is not provided by the deadlines, TITA may proceed to examine the case based on the information available."
 		},
 		{
 			"number": 1400,
-			"content": "Application to attend a hearing may be submitted to the Commission in advance of the date set forth for a specific hearing. The applicant may present its substantive opinions relating to the case in writing to the Commission prior to a specific hearing."
+			"content": "TITA shall permit public access to the information provided by the petitioner or interested parties, unless a request accompanied by justification has been made to keep the information confidential.\r\nRegarding the request for confidentiality mentioned in the preceding paragraph, TITA may request the provision of a summary that can be disclosed publicly. Failure to comply with this request without justification may result in the said information being disregarded."
 		},
 		{
 			"number": 1500,
-			"content": "The Commission may, prior to the formal holding of a specific hearing, convene a meeting relating to procedural matters to decide on the order of presentations, the time allocated to each presentation, and other relevant matters.\r\nEach hearing shall be presided over by the one or more Commissioners designated by the Chairperson of the Commission pursuant to Article 10."
+			"content": "TITA shall issue a public notice in advance of holding a hearing.\r\nTITA shall also notify the petitioner and known interested parties to attend the hearing."
 		},
 		{
 			"number": 1600,
-			"content": "(deleted)"
-		},
-		{
-			"number": 1601,
-			"content": "If the Commission, in its preliminary investigation of a case, determines that there is clear evidence that increased imports have caused or are threatening to cause serious injury to the domestic industry producing like products or directly competitive products, and that the situation is critical, such that delay would cause damage that would be difficult to repair , the Commission may make a proposal for a provisional increase of the tariffs before its final determination on the existence of the injury. The said proposal shall be made within 70 days from the next day following the notification by the Ministry of Economic Affairs to the petitioner on the initiation of the investigation.\r\nThe Commission shall submit, within ten days, to the Ministry of Economic Affairs the proposal referred to in the preceding paragraph for the provisional increase of tariffs. Upon the Ministry’s adoption of the said proposal, the Ministry shall consult with the relevant competent authorities within ten days and then submit the proposal to Executive Yuan for approval. The implementation period shall not exceed 200 days and shall be counted in the implementation period as prescribed in Article 23.\r\nThe provisional measures referred to in the preceding paragraph shall terminate when the Ministry of Economic Affairs gives a public notice stating either that the import relief measures are applied or that the injury does not exist.\r\nThe tariffs imposed under the provisional measures may be substituted and guaranteed by government bonds or other securities approved by the Ministry of Finance of equivalent amount. When the Ministry of Economic Affairs gives a public notice that the injury determination is negative, the tariffs collected under the provisional measures shall be refunded and/or the guarantees be waived. When the Ministry gives a public notice on the application of import relief measures, the tariffs imposed under the provisional measures shall be fully paid in cash and the guarantees be waived thereupon"
+			"content": "Those who wish to make a presentation of their opinions at a hearing may express their intention to participate to TITA before the hearing and may submit their substantive opinions relating to the case in writing to TITA before the hearing."
 		},
 		{
 			"number": 1700,
-			"content": "Having completed the investigation with respect to an import relief case, the Commission shall convene a Commissioners Meeting to decide whether the domestic industry has been injured.\r\nThe decision referred to in the preceding paragraph shall be made by at least two-thirds of the attending Commissioners at a meeting attended by at least half of the Commissioners."
+			"content": "Before holding a hearing, TITA may convene a procedural meeting to determine the order of presentation, the allocation of time for each, and other related matters.\r\nA hearing shall be presided over by the Commissioner designated by the Convenor of the Commission pursuant to Article 12."
 		},
 		{
 			"number": 1800,
-			"content": "Unless otherwise provided in Article 19, Paragraph 1, the Commission shall make a decision as to whether the industry has been injured within 120 days from the day after the petitioner is notified of the initiation of the investigation by the Ministry of Economic Affairs.\r\nThe time limit referred to in the preceding paragraph may be extended by 60 days, if necessary, and the Commission shall notify the petitioner of such extension of time and give public notice thereof."
+			"content": "If TITA, during its preliminary investigation of a case, finds clear evidence indicating that increased imports have caused or are threatening to cause serious injury to the domestic industry producing like products or directly competitive products, and there are critical circumstances where delay would cause damage that would be difficult to repair, the Commission may propose a provisional increase of tariffs on the products concerned before making a final determination on the existence of the injury. This proposal shall be made within 70 days from the day following the notification by the MOEA to the petitioner regarding the initiation of the investigation.\r\nThe proposal for the provisional increase of tariffs as referred to in the preceding paragraph shall be submitted to the MOEA within ten days after it is made by the Commission. If the MOEA agrees to adopt the proposal, it shall, after consulting with the relevant competent authorities, submit the proposal to the Executive Yuan for approval within ten days of the MOEA's agreement. The implementation period shall not exceed 200 days and shall be included in the implementation period as prescribed in Article 25.\r\nThe provisional measures referred to in the preceding paragraph shall cease upon the issuance of a public notice by the MOEA, indicating either the formal application of import relief measures or the determination that there is no injury to the domestic industry.\r\nThe tariffs imposed as provisional measures may be guaranteed by government bonds or other securities approved by the Ministry of Finance in an equivalent amount. Upon issuance of a public notice by the MOEA stating that no injury exists to the domestic industry, the tariffs imposed as provisional measures shall be refunded, and/or the guarantees waived. Upon issuance of a public notice by the MOEA regarding the application of import relief measures, the guarantees shall be released after the provisional tariffs have been fully paid."
 		},
 		{
 			"number": 1900,
-			"content": "With respect to an import relief case for perishable agricultural products where the serious injury would be difficult to cure if relief measures are not adopted in time, the Ministry of Economic Affairs shall, within 20 days from the day following the receipt of the petition, refer the case to the Commission for review as to whether or not to initiate an investigation, and shall also apply Article 9 mutatis mutandis with respect to the procedures regarding supplementation, dismissal, notification and giving public notice.\r\nWhen an investigation is to be initiated, the Commission shall make a decision as to whether the industry has been injured or not within 70 days from the day after the petitioner is notified of the initiation of the investigation by the Ministry of Economic Affairs.\r\nThe perishable agricultural products referred to in the preceding paragraph shall be determined by the competent central agricultural authority on a case-by-case basis."
+			"content": "After completing the investigation of an import relief case, TITA shall submit the draft investigation report to the Commission for deliberation to determine whether the domestic industry has been injured by imports.\r\nThe decision referred to in the preceding paragraph shall be made by at least two-thirds of attendance at a meeting where more than a half of all Commissioners are present."
 		},
 		{
 			"number": 2000,
-			"content": "In respect of a decision on whether the industry has been injured, the Commission shall, within 15 days after the decision is made, prepare a letter of decision and submit it to the Ministry of Economic Affairs together with an investigation report. The Ministry of Economic Affairs shall notify the petitioner and known interested parties of the decision in writing and give a public notice thereof.\r\nIn case of an affirmative decision that the industry has been injured, the Commission shall, within 30 days from the date the decision is made, hold a hearing on the import relief measures it intends to adopt, and thereafter submit to the Ministry of Economic Affairs a recommendation as to whether import relief measures shall be adopted.\r\nWhenever the Commission submits a recommendation that relief measures shall not be adopted and the Ministry of Economic Affairs finds its recommendation acceptable, the Ministry of Economic Affairs shall promptly give a public notice that no relief measure will be implemented; if the Ministry of Economic Affairs does not find its recommendation acceptable, the Ministry of Economic Affairs shall promptly order the Commission to hold a hearing within 30 days on the import relief measures to be adopted, and thereafter submit its recommendation to the Ministry of Economic Affairs.\r\nThe provisions of Articles 13 through 16 shall apply mutatis mutandis to the procedure for holding the hearing referred to in the preceding paragraph."
+			"content": "Unless otherwise provided in Paragraph 1 of Article 21, the Commission shall make a decision as to whether the industry has been injured within 120 days from the day after the petitioner is notified of the initiation of the investigation by the MOEA.\r\nThe time limit mentioned in the previous paragraph may be extended by up to 60 days if deemed necessary. TITA shall notify the petitioner and known interested parties of any such extension, along with the reasons for it, and issue a public notice."
 		},
 		{
 			"number": 2100,
-			"content": "The Commission’s recommendation to the Ministry of Economic Affairs for adopting or not adopting relief measures shall be made by at least two-thirds of the attending Commissioners at a meeting attended by at least half of the Commissioners."
+			"content": "In cases involving perishable agricultural products where serious injury would be difficult to repair without timely relief measures, the MOEA shall refer the import relief case to the Commission for deliberation on initiating an investigation within 20 days of receiving the petition. Article 11 of these Regulations shall apply mutatis mutandis to matters concerning the procedures for supplementing the petition, dismissing it, issuing notifications, and providing public notices.\r\nWhen an investigation is initiated as described in the preceding paragraph, the Commission shall decide whether the industry has been injured within 70 days from the day after the petitioner is notified of the investigation's initiation by the MOEA.\r\nThe perishable agricultural products referred to in the first paragraph of this Article shall be determined by the Ministry of Agriculture on a case-by-case basis."
 		},
 		{
 			"number": 2200,
-			"content": "After the Ministry of Economic Affairs has agreed to the Commission’s recommendation to adopt import relief measures, it shall, except for the adoption of the relief measures as provided in Article 4, sub-paragraph 1 of Paragraph 1, which shall be dealt with in accordance with the relevant provisions of the Customs Law, decide within 60 days on the relief measures which shall be adopted ex officio or in consultation with the government agencies concerned; thereafter, it shall give public notice of and implement such relief measures and report to the Executive Yuan for recordal.\r\nThe Ministry of Economic Affairs may, if necessary, notify and consult with the interested countries before making the decision referred to in the preceding paragraph."
+			"content": "A decision made by the Commission regarding whether the industry has been injured shall be submitted to the MOEA, along with an investigation report, within 15 days after the decision is made. The MOEA shall notify the petitioner and known interested parties of the decision in writing and issue a public notice thereof.\r\nIn the event of an affirmative decision that the industry has been injured, TITA shall, within 30 days from the date the decision is made, hold a hearing on the proposed import relief measures. Subsequently, TITA shall submit the proposed import relief measures to the Commission for recommendation on implementation, and then forward the Commission’s recommendation to the MOEA.\r\nWhen the Commission makes a recommendation that no import relief measures shall be implemented and the MOEA accepts it, the MOEA shall promptly issue a public notice stating that no import relief measure will be implemented. If the MOEA does not accept the Commission’s recommendation, it shall promptly instruct TITA to hold a hearing within 30 days to determine what import relief measures should be proposed. TITA shall then submit the proposed measures to the Commission for deliberation, and subsequently, the Commission’s recommendation shall be submitted to the MOEA.\r\nThe provisions of Articles 15 through 17 shall apply mutatis mutandis to the procedure for holding the hearing referred to in the preceding paragraph."
 		},
 		{
 			"number": 2300,
-			"content": "The implementation of import relief measures shall take into account the effect each import relief case will have on national economic interests, the rights and interests of the consumers and the relevant industries, and shall be limited to the scope of curing or preventing the injury caused to the industry by the import. The period of implementation shall not exceed 4 years."
+			"content": "The Commission's recommendation to the MOEA regarding the adoption of import relief measures shall require the approval of at least two-thirds of the attending Commissioners at a meeting where more than half of all Commissioners are present."
 		},
 		{
 			"number": 2400,
-			"content": "If the cause for implementing import relief measures ceases to exist or if there is a change in circumstances after the implementation of the measures, the petitioner or interested parties may file a request, to the Ministry of Economic Affairs for termination or modification of the relief measures with concrete reasons and accompanied by evidence.\r\nThe request referred to in the preceding paragraph shall be submitted at the latest within 90 days prior to the expiration of the period of implementation of the measures.\r\nWith respect to the request referred to in Paragraph 1, the Commission shall conduct an investigation according to the procedure provided in Chapter III and, upon the making of a decision on whether to recommend termination or modification of relief measures, submit the recommendation to the Ministry of Economic Affairs. If the Ministry finds the Commission’s recommendation to be acceptable, it shall promptly give a public notice of termination or modification of the measures."
+			"content": "After the MOEA agrees to adopt the import relief measures recommended by the Commission, it shall, except for the relief measures specified in Sub-paragraph 1 of Paragraph 1, Article 5, which shall be handled in accordance with the relevant provisions of the Customs Act, decide within 60 days on the import relief measures to be adopted, either ex officio or in consultation with the relevant government agencies. Subsequently, the MOEA shall issue a public notice on the implementation of such relief measures and report to the Executive Yuan for record.\r\nThe MOEA may, if necessary, notify and consult with the interested countries before making the decision referred to in the preceding paragraph."
 		},
 		{
 			"number": 2500,
-			"content": "If the petitioner considers that there is a need to extend the period of implementation of the import relief measures, it may petition to the Ministry of Economic Affairs within 120 days prior to the expiration of the period of implementation of the measures at the latest, for extending the relief measures with concrete reasons for the need to extend the period of implementation and a description of the said industry’s adjustment performance and plan, and accompanied by evidence.\r\nThe Ministry of Economic Affairs shall, within 90 days from the date following the day on which it receives the petition for extension, make a decision as to whether the relief shall be extended, and give a public notice on the measures implemented and the period of extension. The provisions of Chapter II through IV shall apply mutatis mutandis with respect to the procedure for handling the same.\r\nThe extent of relief of the extended measures referred to in Paragraph 1 shall not exceed that of the original measures. The period of extension shall not exceed four years, and the extension shall be limited to one time."
+			"content": "The implementation of import relief measures shall take into account the impact on the overall economic interests of the country, the interests of consumers, and the relevant industries. Import relief measures shall be limited to remedying or preventing the injury caused to the industry by imports. The period of implementation of an import relief measure shall not exceed four years."
 		},
 		{
 			"number": 2600,
-			"content": "The Commission shall prepare an annual review report on the results and effects of the implementation of the relief measures adopted. If it believes that the cause for implementing the said measures have extinguished or that there is a change in circumstances, it shall recommend the Ministry of Economic Affairs to terminate or modify the measures. If the Ministry of Economic Affairs finds its recommendation acceptable, the Ministry of Economic Affairs shall promptly give a public notice of termination or modification of the measures.\r\nPrior to the preparation of the annual review report, the Commission shall hold a hearing. The provisions of Articles 13 through 16 shall apply mutatis mutandis with respect to the procedure for holding the relevant hearing."
-		},
-		{
-			"number": 2601,
-			"content": "(deleted)"
-		},
-		{
-			"number": 2602,
-			"content": "(deleted)"
-		},
-		{
-			"number": 2603,
-			"content": "(deleted)"
-		},
-		{
-			"number": 2604,
-			"content": "(deleted)"
-		},
-		{
-			"number": 2605,
-			"content": "(deleted)"
-		},
-		{
-			"number": 2606,
-			"content": "(deleted)"
-		},
-		{
-			"number": 2607,
-			"content": "(deleted)"
-		},
-		{
-			"number": 2608,
-			"content": "(deleted)"
-		},
-		{
-			"number": 2609,
-			"content": "(deleted)"
-		},
-		{
-			"number": 2610,
-			"content": "(deleted)"
-		},
-		{
-			"number": 2611,
-			"content": "(deleted)"
-		},
-		{
-			"number": 2612,
-			"content": "(deleted)"
-		},
-		{
-			"number": 2613,
-			"content": "(deleted)"
-		},
-		{
-			"number": 2614,
-			"content": "(deleted)"
-		},
-		{
-			"number": 2615,
-			"content": "(deleted)"
-		},
-		{
-			"number": 2616,
-			"content": "The petitions filed pursuant to Paragraph 1 of Article 18 of the Act, for the investigation on injuries to an industry and the application of import relief measures, may be specific on the products under the Early Harvest from Mainland China.\r\nA case of injury to the industry as referred to in the preceding paragraph is to be established, when there is an increase in the imported quantity of the product under the Early Harvest from Mainland China, or an increase in such imports relative to domestic production, so as to cause or threaten to cause serious injury to the domestic industry producing like products or directly competitive products."
-		},
-		{
-			"number": 2617,
-			"content": "For those import relief cases in which the existence of injury or threat thereof has been established pursuant to Paragraph 2 of the preceding article, the Ministry of Economic Affairs may adopt the tariff adjusting measures.\r\nThe measure as referred to in the preceding paragraph shall be implemented pursuant to the provisions of the Customs Law upon the Ministry of Finance being notified by the Ministry of Economic Affairs."
-		},
-		{
-			"number": 2618,
-			"content": "The implementation of the measure as referred to in the preceding Article shall take into account the effect each import relief case will have on national economic interests, the rights and interests of the consumers and the relevant industries, and shall be limited to the scope of curing or preventing the injury caused to the industry by the import. The period of implementation shall not exceed 1 year."
-		},
-		{
-			"number": 2619,
-			"content": "Except for Subparagraph 2 of Paragraph 1 of Article 4, Subparagraph 4 of Paragraph 1 and Paragraph 3 of Article 8, Paragraph 2 of Article 18 and Article 23 to Article 26, articles in these Rules shall be applied mutatis mutandis to this Chapter."
+			"content": "After a period of time has elapsed since the implementation of import relief measures, if the reasons for implementation have lapsed or changed, the petitioner or interested parties may file a request with the MOEA for the termination or modification of the measures. This request must include substantial reasons and be accompanied by supporting evidence.\r\nThe petition referred to in the preceding paragraph shall be submitted no later than 90 days before the expiration of the implementation of the measures.\r\nWhen a petition referred to in Paragraph 1 has been filed, TITA shall conduct an investigation according to the procedure provided in Chapter 3 and submit the results to the Commission for deliberation on whether to terminate or modify the relief measures. Subsequently, the Commission shall submit its recommendation to the MOEA. If the Ministry accepts the Commission’s recommendation, it shall promptly issue a public notice of the termination or modification of the measures."
 		},
 		{
 			"number": 2700,
-			"content": "(deleted)"
+			"content": "Before the expiration of the implementation period of the import relief measures, if the petitioner considers that the implementation period needs to be extended, they may file a petition with the MOEA no later than 120 days before the expiration of the implementation period. The petition must include substantial reasons for the need to extend the measures, as well as an explanation of the industry’s adjustment performance and plan, supported by evidence.\r\nThe MOEA shall, within 90 days from the day after receiving the petition for extension, decide whether to extend the import relief measures, and it shall issue a public notice regarding the extended measures and the period of extension. The procedures outlined in Chapters II through IV shall apply mutatis mutandis to the handling of the case.\r\nThe extent of relief provided by the extended measures referred to in Paragraph 1 shall not exceed that of the original measures. The period of extension shall not exceed four years, and such extension shall be limited to one time."
 		},
 		{
 			"number": 2800,
-			"content": "If the Ministry of Economic Affairs shall, during the proceeding of investigation into the injury caused to the industry, find that subsidization or dumping as provided under Article 67 or Article 68 of the Customs Law is involved, it shall promptly notify the Ministry of Finance and the petitioner."
-		},
-		{
-			"number": 2801,
-			"content": "The matters regarding the investigation, determination, consultation, the relief measures, etc. which are not provided for in the Act or these Rules shall be handled in accordance with the applicable international agreements and customs."
+			"content": "TITA shall prepare an annual review report on the results and effects of the implementation of the import relief measures and submit it to the Commission for deliberation. If the Commission believes that the cause for implementing the said measures has lapsed or changed, it shall recommend that the MOEA terminate or modify the measures. If the MOEA accepts the recommendation, it shall promptly issue a public notice of termination or modification of the measures.\r\nFor the preparation of the annual review report, TITA shall hold a hearing. The provisions of Articles 15 through 17 shall apply mutatis mutandis with respect to the procedure for holding the hearing."
 		},
 		{
 			"number": 2900,
-			"content": "These Rules shall be implemented from the date of promulgation.\r\nThe effective date of Chapter 4-3 of these Rules shall be determined by the Ministry of Economic Affairs in consultation with the authorities concerned."
+			"content": "The petitions filed pursuant to Paragraph 1 of Article 18 of the Act, for the investigation on injuries to an industry and the application of import relief measures, may be specific on the products under the Early Harvest from Mainland China.\r\nA case of injury to the industry as referred to in the preceding paragraph is to be established, when there is an increase in the imported quantity of the product under the Early Harvest from Mainland China, or an increase in such imports relating to domestic production, so as to cause or threaten to cause serious injury to the domestic industry producing like products or directly competitive products."
+		},
+		{
+			"number": 3000,
+			"content": "For those import relief cases in which the existence of injury or threat thereof has been established pursuant to Paragraph 2 of the preceding article, the MOEA may adopt the tariff adjusting measures.\r\nThe measure as referred to in the preceding paragraph shall be implemented pursuant to relevant provisions of the Customs Act by the Ministry of Finance upon being notified by the MOEA."
+		},
+		{
+			"number": 3100,
+			"content": "The implementation of the measure as referred to in the preceding article shall take into account its impact on the overall economic interests of the country, consumers' interests, and relevant industries. It shall be limited to remedying or preventing the injury caused to the industry by imports. The period of implementation shall not exceed one year."
+		},
+		{
+			"number": 3200,
+			"content": "Except for Subparagraph 2 of Paragraph 1 of Article 5, Subparagraph 4 of Paragraph 1 and Paragraph 3 of Article 10, Paragraph 2 of Article 20 and Article 25 to Article 28, Articles in these Regulations shall apply mutatis mutandis to this Chapter."
+		},
+		{
+			"number": 3300,
+			"content": "If, during the investigation into the injury caused to the industry by imports, the MOEA finds indications of subsidization as described in Article 67 or dumping as described in Article 68 of the Customs Act, it shall promptly notify both the Ministry of Finance and the petitioner."
+		},
+		{
+			"number": 3400,
+			"content": "The matters regarding the investigation, determination, consultation, the relief measures, etc. which are not provided for in the Act or these Regulations shall be handled in accordance with the applicable international agreements and  practices."
+		},
+		{
+			"number": 3500,
+			"content": "These Regulations shall enter into force on the date of promulgation."
 		}
 	]
 }
