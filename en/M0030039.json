@@ -5,133 +5,184 @@
 	"name": "肥料管理法",
 	"EngLawModifiedDate": "20020619",
 	"histories": [
-		"Promulgated on June 16, 1999.                            ",
-		"Amendment to Articles 24~26 promulgated on June 19, 2002."
+		"Thirty-six articles were enacted and promulgated by the president on June 16, 1988 per presidential order referenced 1988-Hua-Tsong (I) Yi-Tze 8800140840",
+		"Articles 24~26 were amended and promulgated by the president on June 19, 2002 per presidential order referenced 2002-Hua-Tsong (I) Yi-Tze 09100121050\r\n   The announcement was made on July 27, 2023 by the Executive Yuan Order tai-gui-zi No. 1125014346. The relevant matters set out in Article 2, Article 4, Article 5, Paragraph 1 of Article 6, Subparagraph 6 of Paragraph 1 of Article 7, Article 8, Article 9, Article 10, Article 11, Subparagraph 8 of Paragraph 1 of Article 13, Article 20, Paragraph 1 of Article 21, Paragraph 1,2 of Article 22, Article 24, Article 25, Article 26, Article 31, Article 34, Article 35 pertaining to “ the Council of Agriculture of the Executive Yuan” shall be handled by “Ministry of Agriculture” as governing body, effective August 1, 2023."
+	],
+	"divisions": [
+		{
+			"type": "chapter",
+			"number": 100,
+			"title": "General Provisions",
+			"start": 100,
+			"end": 400
+		},
+		{
+			"type": "chapter",
+			"number": 200,
+			"title": "Registration",
+			"start": 500,
+			"end": 1100
+		},
+		{
+			"type": "chapter",
+			"number": 300,
+			"title": "Manufacture, Import and Export",
+			"start": 1200,
+			"end": 1600
+		},
+		{
+			"type": "chapter",
+			"number": 400,
+			"title": "Selling",
+			"start": 1700,
+			"end": 2000
+		},
+		{
+			"type": "chapter",
+			"number": 500,
+			"title": "Inspection and Supervision",
+			"start": 2100,
+			"end": 2600
+		},
+		{
+			"type": "chapter",
+			"number": 600,
+			"title": "Penal Provisions",
+			"start": 2700,
+			"end": 3200
+		},
+		{
+			"type": "chapter",
+			"number": 700,
+			"title": "Supplementary Provisions",
+			"start": 3300,
+			"end": 3600
+		}
 	],
 	"articles": [
 		{
 			"number": 100,
-			"content": "This law is enacted to ensure wholesome regulation of fertilizers and to maintain quality of fertilizers in order to sustain soil fertility, enhance agricultural productivity and protect the environment. The regulations of related laws shall apply to those matters not regulated by this Act."
+			"content": "This Act is specifically enacted to ensure sound fertilizer regulations and maintain fertilizer quality, as well as to sustain soil fertility, enhance agricultural productivity, and protect the environment. Any matters not covered by this Act shall be governed by other applicable regulations."
 		},
 		{
 			"number": 200,
-			"content": "The governing agencies referred to in this law mean Council of Agriculture of the Executive Yuan in the central government, the municipal governments in special municipalities, and the county (or city) government in counties (or cities)."
+			"content": "Competent authorities as referred to in this Act: At the central government level: the Council of Agriculture, Executive Yuan, hereinafter referred to as the Central Competent Authority; at the special municipal level: the government of the special municipality; and at the county/city level: the government of the county/city."
 		},
 		{
 			"number": 300,
-			"content": "Terms used in this Act are defined as follows:\r\n1. Fertilizers: Substances that provide plants with nutrients or promote nutrients utilization by plants.\r\n2. Compost: a fertilizer derived from the fermentation of organic materials.\r\n3. Registered ingredients: those fertilizer ingredients and their contents that meet the specifications of fertilizers and have been recorded on the registration certificate.\r\n4. Fertilizer businessmen: businessmen as specified by one of the following items:\r\n(1) Fertilizer manufacturers: those who own production facilities at a fixed location and manage the manufacturing, processing and wholesaling or exporting of fertilizers.\r\n(2) Fertilizer importers: those who import, repackage or wholesale fertilizers.\r\n(3) Fertilizer sellers: those who buy, wholesale, retail or export fertilizers.\r\n5. Fertilizer labeling: words, figures or markings appearing on the packaging, container or manual of fertilizers and are used to record the name, registered ingredients, usage, dosage or other related items."
+			"content": "The terms used in this Act are defined as follows:\r\n1.“Fertilizer” means goods that provide plants with nutrients or/and promote nutrient utilization.\r\n2.“Compost” means a fertilizer made from organic materials that have been through compsting processes to become mature.\r\n3.“Registered ingredients” means the fertilizer ingredients and content that meet the fertilizer specifications and have been recorded on the registration certificate.\r\n4.“Fertilizer dealer” means the dealer specified in one of the following items:\r\n   (1)Fertilizer manufacturers: refer to operators with a fixed location and production facilities, and engage in fertilizer manufacturing, processing, wholesale, and export.\r\n   (2)Fertilizer importers: refer to operators engaged in fertilizer import and fertilizer packaging and wholesale.\r\n   (3)Fertilizer sellers: refer to operators engaged in fertilizer purchase, wholesale, retail, or export.\r\n5.“Fertilizer labeling” means, under the provisions of this Act, the words, graphics, or marks used on the package, container, or instructions of the fertilizer to record the fertilizer’s name, registered ingredients, usage, dosage, or other relevant matters."
 		},
 		{
 			"number": 400,
-			"content": "The central governing agencies shall determine and promulgate the categories, types and specifications of fertilizers."
+			"content": "The categories, item numbers, and specifications of fertilizers shalled be presecibed and promulgated by the Central Competenet Authority."
 		},
 		{
 			"number": 500,
-			"content": "A fertilizer may not be manufactured, imported or sold until a registration application filed with the central governing agency has been approved and a registration certificate has been issued.\r\nThe central governing agency shall determine the application criteria, procedures and rules concerning the issuance of a fertilizer certificate."
+			"content": "A fertilizer may not be manufactured, imported, or/and sold without applying to the Central Competent Authority for approval and issuance of a fertilizer registration certificate.\r\nThe Central Competent Authority shall prescibe the application criteria, procedures, and rules concerning the issuance of a fertilizer certificate."
 		},
 		{
 			"number": 600,
-			"content": "Paragraph 1 of the previous article shall not bind those fertilizer samples manufactured or imported specifically for research, testing or registration purposes and are approved by the central governing agencies.\r\nThe package or container of the fertilizer samples mentioned in previous article shall mark \"sample\" and shall not be sold or given away as gifts."
+			"content": "The manufacture and import of fertilizer samples exclusively for research, testing, or registration purposes, approved by the Central Competent Authority, are not subject to the restrictions of Paragraph 1 of the preceding Article.\r\nThe packaging or container of the fertilizer sample mentioned in the preceding Paragraph shall bear the word 'sample' and shall not be sold or given away."
 		},
 		{
 			"number": 700,
-			"content": "A fertilizer registration certificate shall include the following information:\r\n1. The registration certificate number and its expiration date.\r\n2. The fertilizer type.\r\n3. Registered ingredients, properties and packaged weight and volume.\r\n4. The fertilizer manufacturer or importer's name, address and the person responsible.\r\n5. The name and address of the fertilizer manufacturing plant.\r\n6. Other information specified and promulgated by the central governing agency."
+			"content": "The fertilizer registration certificate shall include the following information:\r\n1. Registration certificate number and validity period;\r\n2. Fertilizer item number;\r\n3. Registered ingredients, properties, and packaging weight or/and volume;\r\n4. Name, address, and responsible person of the fertilizer manufacturer or importer;\r\n5. Name and address of the fertilizer manufacturing plant (facility); and\r\n6. Other matters designated to promulgate by the Central Competent Authority."
 		},
 		{
 			"number": 800,
-			"content": "A fertilizer registration certificate is valid for four years. An application for extension must be filed with the original issuing authority within six months prior to the expiration date of the certificate if the certificate holder desires to continue manufacturing, importing or selling of the fertilizer. Each extension is valid for no longer than four years. Those certificates shall be revoked if their holders do not apply for extension when the certificates expire or are not granted extension."
+			"content": "A fertilizer registration certificate is valid for four years. An application for an extension must apply to the original issuing authority within 6 months prior to the expiration date of the certificate if the certificate holder desires to continue manufacturing, importing, or selling of the fertilizer. Each extention application shall not exceed four years. Those who fail to apply for an extension within the expiration date or are not allowed to extend their registration will have their registration certificate cancelled."
 		},
 		{
 			"number": 900,
-			"content": "If a fertilizer registration certificate is lost or damaged, the certificate holder shall apply to the original issuing authority, stating the reason for reapplication, for a replacement or new registration certificate within 30 days after the loss or damage. The original registration certificate shall be turned in or nullified."
+			"content": "If a fertilizer registration certificate is lost or damaged, the certificate holder shall apply to the original issuing authority, stating the reason for reissuance or replacement within 30 days after the fact occurs. The original registration certificate shall be canceled or announce its cancellation."
 		},
 		{
 			"number": 1000,
-			"content": "For suspension, termination or resumption of businesses, modification of registered items or to obtain a new fertilizer registration certificate, a fertilizer proprietor shall, within 30 days after the fact, go to the original issuing authority with the fertilizer registration certificate, and related documents and information, and conduct transaction according to the following rules:\r\n1. Suspension of business: voiding of registration certificate.\r\n2. Termination of business: note date of termination on the registration certificate, and then return the certificate to the business.\r\n3. Resumption of business: note date of resumption on the registration certificate, and then return the certificate to the business.\r\n4. Modification of registered items: register the modifications."
+			"content": "Fertilizer dealers who cease operations, suspend operations, resume operations, or make changes to other registered matters shall, within 30 days after the occurrence of the event, submit the fertilizer registration certificate along with relevant documents and information to the original issuing authority for processing in accordance with the following regulations:\r\n1. Cease operations: cancel registration certificates.\r\n2. Suspend operations: note the suspension date on the registration certificate.\r\n3. Resume operations: note the resumption date on the registration certificate.\r\n4. Changes in registered information: change the information of registration documents"
 		},
 		{
 			"number": 1100,
-			"content": "Applications for fertilizer registration certificates and extensions of expiration date require certification fees. The central governing agency shall decide the amount of the fees."
+			"content": "To apply for a fertilizer registration certificate and to extend the validity period, a certification fee must be paid. The amount of the fee shall be prescribed by the Central Competent Authority."
 		},
 		{
 			"number": 1200,
-			"content": "Marketing of fertilizers are allowed only after they have been packaged and labeled. However, this law does not apply to compost produced domestically and is transported from a production facility directly to a farm for field application."
+			"content": "Fertilizers shall be packaged and labeled before they can be placed on the market. However, this Act does not apply to compost produced domestically and transported from the fertilizer manufacturing plant (facility) directly to a farm for field application."
 		},
 		{
 			"number": 1300,
-			"content": "Labeling shall be done in Chinese and shall furnish the following information:\r\n1. The fertilizer registration certificate number.\r\n2. The type of fertilizer.\r\n3. Registered ingredients, properties and packaged weight and volume.\r\n4. The fertilizer manufacturer or importer's name and address.\r\n5. The fertilizer manufacturing plant and its address.\r\n6. Methods and rates of application.\r\n7. The month and year of production, batch number and expiration date.\r\n8. Other information as required by the central governing agency."
+			"content": "Fertilizer labels shall record the following information in Chinese:\r\n1. Fertilizer registration certificate number;\r\n2. Fertilizer item number;\r\n3. Registered ingredients, properties, and packaging weight or/and volume;\r\n4. Name and address of the fertilizer manufacturer or importer;\r\n5. Name and address of the fertilizer manufacturing plant (facility);\r\n6. Methods and rates of application;\r\n7. Manufacturing year, month, batch number, and expiry date; and\r\n8. Other matters prescribed by the Central Competent Authority."
 		},
 		{
 			"number": 1400,
-			"content": "The quality of fertilizers manufactured or imported shall comply with this law, and the governing agency in charge of standards inspection may examine the quality of fertilizers.\r\nQuality as mentioned in the previous Paragraph means those specifications in compliance with the registered ingredients and those prescribed pursuant to Article 4.\r\nThe central governing agency in charge of standards inspection shall decide the operational procedures and fee standards for fertilizer inspections."
+			"content": "The quality of fertilizers manufactured or imported shall comply with this Act, and the standard inspection competent authority may conduct relevant inspections.\r\nThe quality as mentioned in the receding Paragraph refers to those specifications in compliance with registered ingredients and specifications announced in accordance with Article 4.\r\nThe operating procedures and charging standards for fertilizer inspection shall be prescribed by the standard inspection competent authority."
 		},
 		{
 			"number": 1500,
-			"content": "Any imported fertilizer that contains organic ingredients derived from animals or plants shall comply with regulations regarding animal and plant pest inspection. Those that fail these inspections shall be returned or destroyed."
+			"content": "Imported fertilizers containing organic components from animals or plants must comply with animal and plant quarantine regulations. Fertilizers that faill to pass quarantine inspections must be returned or destroyed."
 		},
 		{
 			"number": 1600,
-			"content": "The types, specifications, packaging and labeling of fertilizers manufactured specifically for export may be exempted from Articles 4 and 13, and tailored towards foreign buyer's request.  However, the locations of their production shall be noted."
+			"content": "For domestically manufactured fertilizers intended exclusively for export, in addition to specifying the country of origin, their item numbers, specifications, packaging, or labeling may,comply with the requirements of foreign buyers, without subject to the restrictions stipulated under Articles 4 and 13."
 		},
 		{
 			"number": 1700,
-			"content": "Fertilizers to be sold or are on exhibit or in storage with the intention to sell shall not be unpackaged, repackaged, mixed and diluted, or the label shall not be altered. But fertilizer manufacturers or importers are exempt from these restrictions while making, processing or packaging fertilizers."
+			"content": "Fertilizers offered for sale or intended for sale, when displayed or stored, must not be unsealed, repackaged, mixed, diluted, or have their fertilizer labeling altered. But fertilizer manufacturers or importers are exempt from these restrictions while manufacturing, processing, and packaging fertilizers."
 		},
 		{
 			"number": 1800,
-			"content": "Fertilizers with one of the following conditions may not be sold or shall not be exhibited or stored with the intention to sell:\r\n1. Those without a fertilizer registration certificate.\r\n2. Those from unknown sources.\r\n3. Those not packaged or labeled in compliance with this law.\r\n4. Those of poor qualities.\r\nThe poor qualities as mentioned in the previous Paragraph mean those not in compliance with the registered ingredients or the specifications set according to Article 4."
+			"content": "Fertilizers with one of the following conditions shall not be displayed or stored for sale or intended for sale:\r\n1.Those without a fertilizer registration certificate;\r\n2.Those of unknown origins;\r\n3.Those not packaged or labeled in compliance with this Act; and\r\n4.Those with poor qualities.\r\nThe term \"poor quality\" as mentioned in subparagraph 4 of the preceding Paragraph refers to those that do not meet the registered ingredients or the specifications announced in accordance with Article 4."
 		},
 		{
 			"number": 1900,
-			"content": "Fertilizer advertisement shall note fertilizer registration certificate number, type and registered ingredients. No false, exaggerated and other inappropriate propaganda shall be made."
+			"content": "Those who publish fertilizer advertisements shall include the fertilizer registration certificate number, item number, and registered ingredients, and are prohibited from engaging in false, exaggerated, and other inappropriate advertising practices."
 		},
 		{
 			"number": 2000,
-			"content": "Items not meeting the fertilizer specifications set by the central governing agency pursuant to Article 4 may not be labeled, advertised or promoted as fertilizer or containing fertilizer effects."
+			"content": "Items not complying with the fertilizer specifications presecibed and announced by the Central Competent Authority in accordance with Article 4 may not be labeled, advertised, or promoted with the name of the fertilizer or with claims of having fertilizer effects."
 		},
 		{
 			"number": 2100,
-			"content": "Fertilizer manufacturers or importers shall record separately the manufacturing or importation, sale and inventory of various fertilizers to facilitate inspection by governing agency.\r\nThe records mentioned in the preceding Paragraph shall be retained for 3 years."
+			"content": "Fertilizer manufacturers or importers shall record separately the manufacturing or importing, sales and inventory quantities to facilitate inspection by competent authority.\r\nThe records mentioned in the preceding Paragraph shall be retained for 3 years."
 		},
 		{
 			"number": 2200,
-			"content": "The governing agency may send inspectors to enter premises used for manufacturing, processing, packaging, warehousing, exhibiting and selling fertilizers, and the inspectors may take fertilizer samples. The businesses may not elude, refuse or interfere with the inspectors.  Samples shall be limited to amounts necessary for verification.\r\nThe results from aforementioned verification may be publicized. The central governing agency shall decide the protocols for verifications.\r\nThe inspectors shall present identifications when conducting inspections."
+			"content": "The competent authority may dispatch inspectors to enter premises used for manufacturing, processing, packaging, warehousing, exhibiting, and selling fertilizers, and the inspectors may take fertilizer samples. Business operators shall not envade, refuse, or obstruct the inspections. Samples taken by the inspectors shall be limited to amounts necessary for the identification.\r\nThe results from the inspection mentioned in the preceding Paragraph may be published. The protocols for an inspection shall be prescribed by the Central Competent Authority.\r\nThe inspectors shall present identifications documents when conducting inspections."
 		},
 		{
 			"number": 2300,
-			"content": "Those fertilizers found suspicious of violating regulations set in Articles 5, 14 or 25 and requiring samples verifications shall as soon be sealed in storage. The business shall vow to safe guard these fertilizers.\r\nVerification and inspection of the fertilizers sealed in storage per preceding Paragraph shall take place no later than 40 days after their discovery."
+			"content": "If any fertilizer suspected of violating the provisions of Articles 5, 14, or 25 is found and needs to be sampled for identification, it shall be sealed first and kept under the custody of the fertilizer operator with an affidativ.\r\nThe period for identification and verification of the fertilizers sealed mentioned in the preceding Paragraph shall not exceed 40 days from the date of discovery."
 		},
 		{
 			"number": 2400,
-			"content": "If the documents or data accompanying the application for a registration certificate were found to be false, altered or untruthful after the issuance of a fertilizer registration certificate, the issuing authority shall revoke the registration certificate. Anyone who has violated Article 12 or Paragraph 1 of Article 14 of this law and has been penalized more than twice within one year shall have that registration certificate voided.\r\nWith any one of the above two violations, the business may not reapply for a registration certificate for that fertilizer for two years."
+			"content": "If the documents or data accompanying the application for a registration certificate were found to be false, altered, or untruthful after the issuance of a fertilizer registration certificate, the issuing authority shall revoke the registration certificate. Anyone who has violated Article 12 or Paragraph 1 of Article 14 of this Act and has been penalized more than twice within one year shall have that registration certificate annulled.\r\nIf one of the circumstances mentioned in the preceding Paragraph occurs, the business operators may not reapply for a registration certificate for the fertilizer concerned for two years."
 		},
 		{
 			"number": 2500,
-			"content": "If a fertilizer manufactured or imported is found to have negative impacts on soils, plants or people's health after a registration certificate is granted, the central governing agency shall, in addition to, immediately announce the findings and prohibit its manufacturing and import, but also invalidate its registration certificate.\r\nThe manufacturer or importer of the above mentioned fertilizer shall recall its fertilizer on the market, and handle this recalled fertilizer along with those in warehouses in manners and by the deadline specified by the central governing agency."
+			"content": "If a fertilizer manufactured or imported is found to have negative impacts on soils, plants, or people’s health after a registration certificate is granted, the Central Competent Authority shall not only announce the prohibition of its production and importation at any time, but also annul its registration certificate.\r\nManufacturers or importers of the fertilizer mentioned in the preceding Paragraph shall take back commercially available products and dispose of them together with the inventory in accordance with the disposal methods and deadlines determined by the Central Competent Authority."
 		},
 		{
 			"number": 2600,
-			"content": "The issuing authority shall regularly announce the issuance, extension of expiration date, cancellation, and revocation and abolishment of fertilizer registration certificates."
+			"content": "The issuance, extension of validity period, cancellation, revocation, or annulment of fertilizer registration certificates shall be periodically announced by the issuing authority."
 		},
 		{
 			"number": 2700,
-			"content": "Those who manufacture or import fertilizers in violation of Paragraph 1 of Article 5 shall be fined a minimum of one hundred thousand but no more than five hundred thousand new Taiwan dollars.\r\nThose who has been notified to stop manufacturing or importing fertilizers by a specified time but fail to comply may be imposed consecutive daily fines starting from the date of the notification."
+			"content": "Those who manufacture or import fertilizers in violation of Paragraph 1 of Article 5 shall be subject to a fine of more than one hundred thousand New Taiwan Dollars but less than five hundred thousand New Taiwan Dollars.\r\nThose who has been notified to stop manufacturing or importing fertilizers by a specified time but fail to comply may be imposed consecutive daily fines starting from the date of the notification."
 		},
 		{
 			"number": 2800,
-			"content": "Anyone with one of the following conditions may be fined a minimum of fifty thousand but no more than two hundred and fifty thousand new Taiwan dollars:\r\n1. Those who have violated Article 12.\r\n2. Those who have violated Paragraph 1, Article 14 by manufacturing or importing fertilizers that do not agree with the registered ingredients or meet the specifications set by this law.\r\n3. Those who have violated Article 17.\r\n4. Those who have violated subparagraph one or two, Paragraph 1, Article 18.\r\n5. Those who have violated Paragraph 1 of Article 22 by eluding, refusing or interfering with inspection or sampling.\r\n6. Those who have violated Paragraph 1 of Article 23 by refusing to seal in storage or vow to safe guard.\r\n7. Those who have violated Paragraph 2 of Article 25.\r\nThose fertilizers mentioned in subparagraphs 1 through 4 of the preceding Paragraph may be confiscated if the business fails to address the problem after being notified to rectify the problem by a specified time."
+			"content": "Anyone with one of the following conditions may be subject to a fine fine of more than fifty thousand New Taiwan Dollars but less than two hundred and fifty thousand New Taiwan Dollars:\r\n1.Those who violate the requirements of Article 12;\r\n2.Those who violate the requirements of Paragraph 1, Article 14 by manufacturing or importing fertilizers that do not comply with the registered ingredients or meet the specifications set by this Act;\r\n3.Those who violate the requirements of Article 17.\r\n4.Those who violate the requirements of Subparagraphs 1 or 2, Paragraph 1, Article 18.\r\n5.Those who violate the requirements of Paragraph 1 of Article 22 by envading, refusing, or obstructing with inspection or sampling.\r\n6.Those who violate the requirements of Paragraph 1 of Article 23 by refusing to seal the fertilizers or to take the fertilizers under custody with an affidavit.\r\n7.Those who violate the requirements of  Paragraph 2 of Article 25.\r\nThose fertilizers mentioned in Subparagraphs 1 to 4 of the preceding Paragraph may be confiscated if the business operators fail to address the problem after being notified to rectify the problem by a specified timeframe."
 		},
 		{
 			"number": 2900,
-			"content": "Anyone with one of the following conditions shall be fined a minimum of thirty thousand but no more than one hundred and fifty thousand new Taiwan dollars:\r\n1. Those who have violated Paragraph 2 of Article 6 by not labeling \"sample\" or selling or giving out samples.\r\n2. Those who have violated Article 13 by not labeling clearly, completely, truthfully or not labeling at all.\r\n3. Those who have violated Article 19.\r\n4. Those who have violated Article 20.\r\n5. Those who have violated Article 21.\r\nThose fertilizers mentioned in subparagraphs 1 and 2 of the preceding Paragraph may be confiscated if the business fails to address the problem after being notified to rectify the problem by a specified time.\r\nThose with the conditions specified in subparagraph 3 or 4 of Paragraph 1, and have been notified but fail to comply or stop advertising or promoting may be fined consecutively."
+			"content": "Anyone with one of the following conditions shall be subject to a fine of more than thirty thousand New Taiwan Dollars but less than one hundred and fifty thousand New Taiwan Dollars:\r\n1.Those who violate the requirements of Paragraph 2 of Article 6 by not labeling “sample”, selling, or giving out samples.\r\n2.Those who violate the requirements of Article 13 by not labeling clearly, completely, truthfully, or not labeling at all.\r\n3.Those who violate the requirements of Article 19.\r\n4.Those who violate the requirements of Article 20.\r\n5.Those who violate the requirements of Article 21.\r\nThose fertilizers mentioned in Subparagraphs 1 and 2 of the preceding Paragraph may be confiscated if the business operators fail to address the problem after being notified to rectify the problem by a specified timeframe.\r\nThose with the conditions specified in subparagraphs 3 or 4 of Paragraph 1, and have been notified but fail to comply or stop advertising or promoting may be fined consecutively."
 		},
 		{
 			"number": 3000,
-			"content": "Those with one of the following conditions shall be fined a minimum of twenty thousand but no more than one hundred thousand new Taiwan dollars:\r\n1. Those who have violated article 9 and fail to submit applications for replacement or new fertilizer registration certificates 30 days after the violation.\r\n2. Those who have violated article 10 and fail to conduct transaction for suspension, termination or resumption of businesses, modification of registered items or obtaining new fertilizer registration certificates 30 days after the violation.\r\n3. Those who have violated subparagraph 3 or 4, Paragraph 1, Article 18."
+			"content": "Those with one of the following conditions shall be subject to a fine of more than twenty thousand but less than one hundred thousand New Taiwan Dollars:\r\n1.Those who violate the requirements of Article 9 by failing to submit applications for replacement or new fertilizer registration certificates within 30 days after the fact occurs.\r\n2 Those who violate the requirements of Article 10 by failing to conduct transaction for suspension, termination or resumption of businesses, modification of registered items or obtaining new fertilizer registration certificates 30 days after the violation.\r\n3.Those who violate the requirements of Subparagraphs 3 or 4, Paragraph 1, Article 18."
 		},
 		{
 			"number": 3100,
-			"content": "The governing agency shall charge fines as specified by this law."
+			"content": "The fines determined in accordace with this Act will be transferred to the court for compulsory execution if they are not paid within the time limit. Before the case is fully paid and settled, the operator’s application for a fertilizer registration certificate should be suspended."
 		},
 		{
 			"number": 3200,
@@ -139,19 +190,19 @@
 		},
 		{
 			"number": 3300,
-			"content": "This law does not apply to organic fertilizer made by farmers or families for personal use that does not involve selling."
+			"content": "The provisions of this Act do not apply to farmers or families who produce organic fertilizers for their own use without selling them."
 		},
 		{
 			"number": 3400,
-			"content": "Those who have obtained, in accordance with Fertilizer Regulation Rules, fertilizer registration certificates prior to this law becoming effective shall apply for new certificates by date specified by the central governing agency. The original certificates will become invalid beyond that date and shall be voided by the original issuing authority. If a business continues to manufacture or import fertilizers without getting a new certificate, it will be penalized in accordance with the provisions of Article 27."
+			"content": "Fertilizer registration certificates applied for in accordance with the Fertilizer Management Rules before this Act becomes effective shall be renewed on the date specified and announced by the Central Competent Authority.If the registration certificate is not processed within the expiration date, the original registration certificate will become invalid and be canceled by the original issuing authority. Those who continue manufacturing or importing the fertilizers without applying for\r\nreplacement shall be subject to penalties as specified in Article 27."
 		},
 		{
 			"number": 3500,
-			"content": "The central governing agency shall determine the enforcement rules of this Act."
+			"content": "The Enforcement Rules of this Act shall be prescribed by the Central Competent Authority."
 		},
 		{
 			"number": 3600,
-			"content": "This act shall take effect on the date of promulgation.\r\n\r\nNOTE:\r\nThis translation is for information purposes only and does not represent the binding law of the Republic of China. The binding law appears only in the national language, Chinese. Therefore, for purposes other than acquiring information, reference must be made to the original Chinese version of this statute."
+			"content": "This Act shall become effective on the date of its promulgation.\r\n\r\nNOTE:\r\nThis translation is for information purposes only and does not represent the binding law of the Republic of China. The binding law appears only in the national language, Chinese. Therefore, for purposes other than acquiring information, reference must be made to the original Chinese version of this statute."
 		}
 	]
 }
