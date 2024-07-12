@@ -1,19 +1,14 @@
 {
   "LawLevel": "命令",
-  "EngLawName": "Regulations for Allocating and Governing Telecommunications Numbers",
+  "EngLawName": "Regulations for Applying and Allocating Telecommunications Numbers",
   "LawName": "電信號碼申請及核配辦法",
   "EngLawURL": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0060119",
-  "EngLawModifiedDate": "20230801",
+  "EngLawModifiedDate": "20240517",
   "EngLawAbandonNote": "",
   "EngLawAttachements": [],
-  "EngLawHistories": "1.Promulgated on July 1, 2020\r\n2.Article 5, Article 26 and Article 30 were amended and promulgated by Ministry of Digital Affairs Order No.11260009361 and National Communications Commission Order 11200217490 on August 1, 2023.",
+  "EngLawHistories": "1.Promulgated on July 1, 2020\r\n2.Article 5, Article 26 and Article 30 were amended and promulgated by Ministry of Digital Affairs Order No.11260009361 and National Communications Commission Order 11200217490 on August 1, 2023.\r\n3.Amended on May 17, 2024",
   "EngLawForeword": "",
   "EngLawArticles": [
-    {
-      "EngArticleType": "C",
-      "EngArticleNo": "",
-      "EngArticleContent": "   Chapter One General Provisions"
-    },
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 1",
@@ -45,158 +40,98 @@
       "EngArticleContent": "If one of the following situations occurs, the application will not be accepted：\r\n1. Those which do not comply with the provisions of Article 5.\r\n2. The telecommunications enterprise’s business suspended or terminated.\r\n3. The documents that should be submitted are incomplete or the content that should be stated is incomplete, and the corrections are not made or still incomplete after being notified by the competent authority to make correction within a time limit."
     },
     {
-      "EngArticleType": "C",
-      "EngArticleNo": "",
-      "EngArticleContent": "   Chapter Two Application for Allocation of Telecommunications Numbers"
-    },
-    {
-      "EngArticleType": "C",
-      "EngArticleNo": "",
-      "EngArticleContent": "      Section One Application for allocation of coding"
-    },
-    {
       "EngArticleType": "A",
       "EngArticleNo": "Article 7",
-      "EngArticleContent": "When a telecommunications enterprise applies to the competent authority for the allocation of signaling point codes, it should submit the following documents:：\r\n1. Telecommunications Number Application Form\r\n2. Signaling point code use plan（including the expected location of the network’s point of interface interconnected with other public telecommunications networks, and its signal method, network architecture and capacity planning data）\r\n3. Other materials designated by the competent authority"
+      "EngArticleContent": "The telecommunications enterprise and those which have been allocated with special telecommunications numbers should cooperate with the competent authority to adjust the telecommunications numbers it has been allocated."
     },
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 8",
-      "EngArticleContent": "The competent authority should consider the following matters when reviewing the application for signaling point code allocation prescribed in the previous article：\r\n1. Whether the type of the applied telecommunication numbers is necessary to provide services\r\n2. Whether it specifies the expected location of the network’s point of interface interconnected with other public telecommunications networks\r\n3. Whether the signal mode meets the requirements of the Signaling System No. 7 network\r\n4. Whether it specifies the connection structure of the signaling point code switch inside the network and the connection structure with other telecommunications networks\r\n5. Whether it specifies the brand, model, quantity, capacity and function of the signaling point code switch"
+      "EngArticleContent": "The application form prescribed in these Regulations should be published by the competent authority on its World Wide Web."
     },
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 9",
-      "EngArticleContent": "Each of the telecommunication enterprise’s application for the allocation of the international signaling point code of the Signaling System No. 7 network is limited to one point code, and that of the national signaling point code of the Signaling System No. 7 network is at least one point code."
+      "EngArticleContent": "When a telecommunications enterprise applies to the competent authority for the allocation of signaling point codes, it should submit the following documents:：\r\n1. Telecommunications Number Application Form\r\n2. Signaling point code use plan（including the expected location of the network’s point of interface interconnected with other public telecommunications networks, and its signal method, network architecture and capacity planning data）\r\n3. Relevant supporting documents of the telecommunications enterprise registration\r\n4. Other materials designated by the competent authority"
     },
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 10",
-      "EngArticleContent": "Coding other than signaling point codes should be reported to the competent authority for reference prior to use.\r\nThe number use plan should be submitted when reporting for reference."
-    },
-    {
-      "EngArticleType": "C",
-      "EngArticleNo": "",
-      "EngArticleContent": "      Section Two Application for allocation of identification codes"
+      "EngArticleContent": "The competent authority should consider the following matters when reviewing the application for signaling point code allocation prescribed in the previous article：\r\n1. Whether the type of the applied telecommunication numbers is necessary to provide services\r\n2. Whether it specifies the expected location of the network’s point of interface interconnected with other public telecommunications networks\r\n3. Whether the signal mode meets the requirements of the Signaling System No. 7 network\r\n4. Whether it specifies the connection structure of the signaling point code switch inside the network and the connection structure with other telecommunications networks\r\n5. Whether it specifies the brand, model, quantity, capacity and function of the signaling point code switch"
     },
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 11",
-      "EngArticleContent": "When a telecommunications enterprise applies to the competent authority for the allocation of identification codes, it should submit the following documents：\r\n1. Telecommunications Number Application Form\r\n2. Identification code use plan（including the expected location of the network’s point of interface interconnected with other public telecommunications networks, and its network architecture and capacity planning data）\r\n3. Other materials designated by the competent authority"
+      "EngArticleContent": "Each of the telecommunication enterprise’s application for the allocation of the international signaling point code of the Signaling System No. 7 network is limited to one point code, and that of the national signaling point code of the Signaling System No. 7 network is at least one point code."
     },
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 12",
-      "EngArticleContent": "The competent authority should consider the following matters when reviewing the application for identification code allocation prescribed in the previous article：\r\n1. Whether the type of the applied telecommunication numbers is necessary to provide services\r\n2. Whether it specifies the expected location of the network’s point of interface interconnected with other public telecommunications networks\r\n3. Whether it specifies the connection structure of the switch within the network and the connection structure with other telecommunications networks\r\n4. Whether it specifies the brand, model, quantity, capacity and function of the switch"
+      "EngArticleContent": "Coding other than signaling point codes should be reported to the competent authority for reference prior to use.\r\nThe number use plan should be submitted when reporting for reference."
     },
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 13",
-      "EngArticleContent": "Each of the telecommunication enterprise’s application for the allocation of the identification code is limited to one identification code."
-    },
-    {
-      "EngArticleType": "C",
-      "EngArticleNo": "",
-      "EngArticleContent": "      Section Three Application for allocation of special telecommunications numbers"
+      "EngArticleContent": "When a telecommunications enterprise applies to the competent authority for the allocation of identification codes, it should submit the following documents：\r\n1. Telecommunications Number Application Form\r\n2. Identification code use plan（including the expected location of the network’s point of interface interconnected with other public telecommunications networks, and its network architecture and capacity planning data）\r\n3. Relevant supporting documents of the telecommunications enterprise registration\r\n4. Other materials designated by the competent authority"
     },
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 14",
-      "EngArticleContent": "A government agency（organization）, public welfare association, foundation, independent administrative institution or public enterprise for the need of providing emergency rescue services, public affair counseling services, public rescue services or charity services, etc., may apply to the competent agency for the allocation of special telecommunications numbers, after the approval by the national competent authority for business objectives or the superior authority by reviewing their statutory duties, establishment purposes, public welfare needs, etc.\r\nThe public utilities mentioned in the preceding paragraph refer to the following：\r\n1. Electricity enterprises\r\n2. Water supply enterprises\r\n3. Public utilities recognized by the competent authority or the national competent authorities for business objectives.\r\nThe applicants prescribed in Paragraph 1 should submit the following documents to the competent authority to apply：\r\n1. Telecommunications Number Application Form\r\n2. A photocopy of the approval letter from the national competent authority for business objectives or the superior authority for each of the government agency（organization）, public welfare group, foundation, incorporated administrative agency or public utility, and a photocopy of the supporting document of the public welfare group, foundation, incorporated administrative agency or public utility\r\n3. Special telecommunications number service plan（including the network architecture, service delivery method, service scope and object, service content and charging method）\r\n4. The relevant documents that the telecommunications enterprise allocated with local line phone numbers and mobile phone numbers agrees to cooperate in the provision of special telecommunications numbers\r\nThose which have been allocated with special telecommunications numbers should not continue to use them when their qualifications are changed or their usage does not comply with the provision of Paragraph 1."
+      "EngArticleContent": "The competent authority should consider the following matters when reviewing the application for identification code allocation prescribed in the previous article：\r\n1. Whether the type of the applied telecommunication numbers is necessary to provide services\r\n2. Whether it specifies the expected location of the network’s point of interface interconnected with other public telecommunications networks\r\n3. Whether it specifies the connection structure of the switch within the network and the connection structure with other telecommunications networks\r\n4. Whether it specifies the brand, model, quantity, capacity and function of the switch"
     },
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 15",
-      "EngArticleContent": "The competent authority should consider the following matters when reviewing the application for special telecommunications number allocation prescribed in the previous article：\r\n1. Whether it complies with the PSTN numbering plan\r\n2. Whether it specifies the structure of the subscriber's access to the network and the means and flow of incoming call lines.\r\n3. Whether it specifies the service object and service delivery method, whether the service scope includes the whole country, and whether it specifies the nature of the service and the fee standards of the service objects of each cooperative telecommunication enterprises"
+      "EngArticleContent": "Each of the telecommunication enterprise’s application for the allocation of the identification code is limited to one identification code."
     },
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 16",
-      "EngArticleContent": "Each of the telecommunication enterprise’s application for the allocation of the special number is limited to one special number."
-    },
-    {
-      "EngArticleType": "C",
-      "EngArticleNo": "",
-      "EngArticleContent": "      Section Four Application for allocation of subscriber numbers 4"
+      "EngArticleContent": "A government agency（organization）, public welfare association, foundation, independent administrative institution or public enterprise for the need of providing emergency rescue services, public affair counseling services, public rescue services or charity services, etc., may apply to the competent agency for the allocation of special telecommunications numbers, after the approval by the national competent authority for business objectives or the superior authority by reviewing their statutory duties, establishment purposes, public welfare needs, etc.\r\nThe public utilities mentioned in the preceding paragraph refer to the following：\r\n1. Electricity enterprises\r\n2. Water supply enterprises\r\n3. Public utilities recognized by the competent authority or the national competent authorities for business objectives.\r\nThe applicants prescribed in Paragraph 1 should submit the following documents to the competent authority to apply：\r\n1. Telecommunications Number Application Form\r\n2. A photocopy of the approval letter from the national competent authority for business objectives or the superior authority for each of the government agency（organization）, public welfare group, foundation, incorporated administrative agency or public utility, and a photocopy of the supporting document of the public welfare group, foundation, incorporated administrative agency or public utility\r\n3. Special telecommunications number service plan（including the network architecture, service delivery method, service scope and object, service content and charging method）\r\n4. The relevant documents that the telecommunications enterprise allocated with local line phone numbers and mobile phone numbers agrees to cooperate in the provision of special telecommunications numbers\r\nThose which have been allocated with special telecommunications numbers should proactively return the special telecommunications numbers or have them recovered by the competent authority when their qualifications are changed or their usage does not comply with  the provision of Paragraph 1."
     },
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 17",
-      "EngArticleContent": "Only the telecommunications enterprise allocated with signaling point codes may apply to the competent authority for the allocation of subscriber numbers."
+      "EngArticleContent": "The competent authority should consider the following matters when reviewing the application for special telecommunications number allocation prescribed in the previous article：\r\n1. Whether it complies with the PSTN numbering plan\r\n2. Whether it specifies the structure of the subscriber's access to the network and the means and flow of incoming call lines.\r\n3. Whether it specifies the service object and service delivery method, whether the service scope includes the whole country, and whether it specifies the nature of the service and the fee standards of the service objects of each cooperative telecommunication enterprises"
     },
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 18",
-      "EngArticleContent": "When a telecommunications enterprise applies to the competent authority for the allocation of subscriber numbers, it shall submit the following documents：\r\n1. Telecommunications Number Application Form\r\n2. Subscriber number usage plan（Subscriber growth forecast data, network structure and capacity planning data）\r\n3. Number of subscribers（exempt for the first-time applicant）\r\n4. Sampling inspection report from an institution with public credibility（exempt for the first-time applicant）\r\n5. Other materials designated by the competent authority\r\nThe sampling inspection report from an institution with public credibility prescribed in Subparagraph 4 of the preceding paragraph refers to the sampling verification report of the number of subscribers issued by two persons with the expertise of science, engineering, commerce or management who are registered in the talent database of the Public Construction Commission, Executive Yuan."
+      "EngArticleContent": "Each of the telecommunication enterprise’s application for the allocation of the special number is limited to one special number."
     },
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 19",
-      "EngArticleContent": "The competent authority should consider the following matters when reviewing the application for subscriber number allocation prescribed in the previous article：\r\n1. Whether the type of the applied telecommunication numbers is necessary to provide services\r\n2. Whether the number of subscriber numbers reaches the minimum usage standard（Annex 2）\r\n3. Whether it includes subscriber growth forecast for more than three months in the future\r\n4. Whether it specifies the structure of subscribers’ access to the network and the connection structure with other telecommunications networks\r\n5. Whether it specifies the brand, model, quantity, capacity and function of the switch\r\n6. Whether it specifies the information on the numbers of subscriber numbers in use for prepaid and postpaid users and outward-ported users, and the information on the subscriber numbers leased to other providers of telecommunications services\r\n7. Whether it determines the effective subscribers based on the subscriber's subscription information and call information, the latest bill, etc., and provides a sampling report from an institution with public credibility, with a 95% statistical confidence level or higher, an error of plus or minus 2%, and the expected value of the effective subscriber ratio being greater than or equal to 0.98"
+      "EngArticleContent": "Only the telecommunications enterprise allocated with signaling point codes may apply to the competent authority for the allocation of subscriber numbers."
     },
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 20",
-      "EngArticleContent": "The calculation method for the number of allocation for the application of subscriber numbers, the utilization rate of re-application and the application’s quantity limit are as follows：\r\n1. Local line phone number：It takes ten thousand numbers as a unit. For the first-time application, ten units are the cap for each area. The utilization rate should be more than 50% before it can be applied again, with five units as the cap each time.\r\n2. Mobile phone number：It takes a hundred thousand numbers as a unit. For the first-time application, ten units are the cap. The utilization rate should be more than 70% before it can be applied again, with five units as the cap each time.\r\n3. Satellite communication number：It takes ten thousand numbers as a unit. Ten units are the cap for each application. The utilization rate should be more than 70% before it can be applied again.\r\n4. Internet phone number：It takes ten thousand numbers as a unit. For the first-time application, twenty units are the cap. The utilization rate should be more than 70% before it can be applied again, with ten units as the cap each time.\r\n5. Smart virtual number：\r\n（1）010 prefix：It takes a hundred thousand numbers as a unit. The first-time application is limited to one unit. The utilization rate should be more than 80% before it can be applied again, with five units as the cap each time.\r\n（2）020 prefix：It takes ten thousand numbers as a unit. For the first-time application, five units are the cap. The utilization rate should be more than 80% before it can be applied again, with two units as the cap each time.\r\n（3）030 prefix：It takes ten thousand numbers as a unit. Each application is limited to one unit. The utilization rate should be more than 80% before it can be applied again.\r\n（4）050 prefix：It takes ten thousand numbers as a unit. The first-time application is limited to five units. The utilization rate should be more than 80% before it can be applied again, with two units as the cap each time.\r\n（5）080 prefix：It takes ten thousand numbers as a unit. The first-time application is limited to three units. The utilization rate should be more than 80% before it can be applied again, with one unit as the cap each time.\r\n（6）099 prefix：It takes ten thousand numbers as a unit. Each application is limited to ten units. The utilization rate should be more than 80% before it can be applied again.\r\n6. IoT number：It takes a hundred thousand numbers as a unit. For the first-time application, fifty units are the cap. The utilization rate should be more than 70% before it can be applied again, with twenty-five units as the cap each time."
+      "EngArticleContent": "When a telecommunications enterprise applies to the competent authority for the allocation of subscriber numbers, it shall submit the following documents：\r\n1. Telecommunications Number Application Form\r\n2. Subscriber number usage plan（Subscriber growth forecast data, network structure and capacity planning data）\r\n3. Number of subscribers（exempt for the first-time applicant）\r\n4. Sampling inspection report from an institution with public credibility（exempt for the first-time applicant）\r\n5. Relevant supporting documents of the telecommunications enterprise registration\r\n6. Other materials designated by the competent authority\r\nThe sampling inspection report from an institution with public credibility prescribed in Subparagraph 4 of the preceding paragraph refers to the sampling verification report of the number of subscribers issued by two persons with the expertise of science, engineering, commerce or management who are registered in the talent database of the Public Construction Commission, Executive Yuan."
     },
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 21",
-      "EngArticleContent": "If the telecommunications enterprise does not reach the minimum utilization rate of the subscriber numbers set by the competent authority, the competent authority should recover part or all of the subscriber numbers it has been allocated, unless the first-time allocated subscriber numbers have been allocated for less than three years or the re-allocated subscriber numbers have been allocated for less than one year.\r\nThe calculation method of the minimum usage rate and the number of recovery of the subscriber numbers prescribed in the preceding paragraph are shown in Annex 2.\r\nThe usage rate of subscriber numbers prescribed in Paragraph 1 is calculated based on the use situation on December 31 of the previous year."
-    },
-    {
-      "EngArticleType": "C",
-      "EngArticleNo": "",
-      "EngArticleContent": "   Chapter Three Telecommunications number usage management"
+      "EngArticleContent": "The competent authority should consider the following matters when reviewing the application for subscriber number allocation prescribed in the previous article：\r\n1. Whether the type of the applied telecommunication numbers is necessary to provide services\r\n2. Whether the number of subscriber numbers reaches the minimum usage standard（Annex 2）\r\n3. Whether it includes subscriber growth forecast for more than three months in the future\r\n4. Whether it specifies the structure of subscribers’ access to the network and the connection structure with other telecommunications networks\r\n5. Whether it specifies the brand, model, quantity, capacity and function of the switch\r\n6. Whether it specifies the information on the numbers of subscriber numbers in use for prepaid and postpaid users and outward-ported users, and the information on the subscriber numbers leased to other providers of telecommunications services\r\n7. Whether it determines the effective subscribers based on the subscriber's subscription information and call information, the latest bill, etc., and provides a sampling report from an institution with public credibility, with a 95% statistical confidence level or higher, an error of plus or minus 2%, and the expected value of the effective subscriber ratio being greater than or equal to 0.98"
     },
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 22",
-      "EngArticleContent": "The telecommunications enterprise should cooperate with the competent authority to adjust the telecommunications numbers it has been allocated.\r\nWhen a part or all of the business of the telecommunications enterprise terminates, and the competent authority reallocates the subscriber numbers to other telecommunications enterprises, the telecommunications enterprise receiving the allocation should retain the subscriber number for six months for the original subscriber to apply for use, unless they are IoT numbers."
+      "EngArticleContent": "The calculation method for the number of allocation for the application of subscriber numbers, the utilization rate of re-application and the application’s quantity limit are as follows：\r\n1. Local line phone number：It takes ten thousand numbers as a unit. For the first- time application, ten units are the cap for each area. The utilization rate should be more than 50% before it can be applied again, with five units as the cap each time.\r\n2. Mobile phone number：It takes a hundred thousand numbers as a unit. For the\r\nfirst-time application, ten units are the cap. The utilization rate should be more than 70% before it can be applied again, with five units as the cap each time.\r\n3. Satellite communication number：It takes ten thousand numbers as a unit. Ten units are the cap for each application. The utilization rate should be more than 70% before it can be applied again.\r\n4. Internet phone number：It takes ten thousand numbers as a unit. For the first-time application, twenty units are the cap. The utilization rate should be more than 70% before it can be applied again, with ten units as the cap each time.\r\n5. Smart virtual number：\r\n（1）010 prefix：It takes a hundred thousand numbers as a unit. The first-time application is limited to one unit. The utilization rate should be more than 80% before it can be applied again, with five units as the cap each time.\r\n（2）020 prefix： It takes ten thousand numbers as a unit. For the first-time application, five units are the cap. The utilization rate should be more than 80% before it can be applied again, with two units as the cap each time.\r\n（3）030 prefix：It takes ten thousand numbers as a unit. Each application is limited to one unit. The utilization rate should be more than 80% before it can be applied again.\r\n（4）050 prefix：It takes ten thousand numbers as a unit. The first-time application is limited to five units. The utilization rate should be more than 80% before it can be applied again, with two units as the cap each time.\r\n（5）080 prefix：It takes ten thousand numbers as a unit. The first-time application is limited to three units. The utilization rate should be more than 80% before it can be applied again, with one unit as the cap each time.\r\n（6）099 prefix：It takes ten thousand numbers as a unit. Each application is limited to ten units. The utilization rate should be more than 80% before it can be applied again.\r\n6. IoT number：It takes a hundred thousand numbers as a unit. For the first-time application, fifty units are the cap. The utilization rate should be more than 70% before it can be applied again, with twenty-five units as the cap each time."
     },
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 23",
-      "EngArticleContent": "The use of telecommunications numbers by telecommunications enterprises should comply with the following regulations：\r\n1. Except for subscriber numbers, telecommunications numbers are not allowed to be leased or lent.\r\n2. The numbers terminated by subscribers should be retained for three months, except for the IoT numbers.\r\n3. The telecommunications enterprise should monthly update the statistics of the leased and lease-terminated subscriber numbers and retain them for at least three months.\r\nThe retention period of the subscriber number prescribed in Subparagraph 2 of the preceding paragraph does not apply to those with the consent of the new subscriber."
-    },
-    {
-      "EngArticleType": "A",
-      "EngArticleNo": "Article 24",
       "EngArticleContent": "After the telecommunications enterprise allocated with subscriber numbers by the competent authority, it should stipulate the number selection principle of the golden numbers except for the IoT numbers, and report it to the competent authority for reference before implementation; the same should apply to revisions hereof.\r\nThe number selection principle prescribed in the preceding paragraph should include the basic number selection principle（as shown in the attached tables）; the subscriber numbers included in the number selection principle by the telecommunications enterprise should be provided to subscribers for lease through auction or number selection with a fee."
     },
     {
       "EngArticleType": "A",
+      "EngArticleNo": "Article 24",
+      "EngArticleContent": "If one of the following situations occurs, the competent authority should recover part or all of the subscriber numbers it has been allocated:\r\n1. Allocated telecommunications numbers that have been returned proactively.\r\n2. If the telecommunications enterprise does not reach the minimum utilization rate of the subscriber numbers set by the competent authority, unless the first-time allocated subscriber numbers have been allocated for less than three years or the re-allocated subscriber numbers have been allocated for less than one year.\r\nThe calculation method of the minimum usage rate and the number of recovery of the subscriber numbers prescribed in the second subparagraph of the preceding paragraph are shown in Annex 2."
+    },
+    {
+      "EngArticleType": "A",
       "EngArticleNo": "Article 25",
-      "EngArticleContent": "The telecommunications enterprise allocated with telecommunications numbers should obtain routing information and provide communication services to the called subscribers when its subscribers sending messages.\r\nThe preceding obligation shall be determined in accordance with the provisions of the subparagraphs during the following communication：\r\n1. Long-distance communication: Telecommunications enterprises providing long-distance communication services\r\n2. International telecommunication voice service: Telecommunication enterprises providing international telecommunication services"
-    },
-    {
-      "EngArticleType": "A",
-      "EngArticleNo": "Article 26",
-      "EngArticleContent": "Prior to the telecommunications enterprise assigns subscribers to use telecommunication numbers, they should verify and register subscribers’ information.\r\nThe preceding provision shall be handled by the National Communications Commission in accordance with relevant regulations."
-    },
-    {
-      "EngArticleType": "A",
-      "EngArticleNo": "Article 27",
-      "EngArticleContent": "When a telecommunications enterprise leases（lends）subscriber numbers to other telecommunications enterprises to provide telecommunications services, it should not restrict the other telecommunications enterprises from providing number portability services and equal access services to subscribers.\r\nThe telecommunications enterprise should obtain an agreement with the other telecommunications enterprise on the implementation of the provisions of Paragraph 1, Article 16 of the Act prior to leasing（lending）the subscriber number to the other telecommunications enterprise."
-    },
-    {
-      "EngArticleType": "C",
-      "EngArticleNo": "",
-      "EngArticleContent": "   Chapter Four Supplementary Provisions"
-    },
-    {
-      "EngArticleType": "A",
-      "EngArticleNo": "Article 28",
-      "EngArticleContent": "When the telecommunications enterprise allocated with telecommunications numbers prior to the implementation of the Act applies to the competent authority for the allocation of the originally allocated telecommunications numbers, after it has been registered as a telecommunications enterprise in accordance with the provisions of Articles 5 and 6 of the Act, the following documents shall be submitted:\r\n1. Telecommunications Number Application Form\r\n2. Types and quantity of originally allocated telecommunications numbers\r\nThe provisions of Article 7, Article 9, Article 11, Article 13, Article 18 and Article 20 do not apply to the telecommunication numbers applied for allocation in accordance with the provisions of the preceding paragraph.\r\nFor the telecommunication numbers applied for allocation in accordance with the provisions of Paragraph 1, the following matters should be considered： 7\r\n1. Whether the applied type of telecommunication numbers type falls in the scope of its services\r\n2. Whether it conforms to the type and quantity of the originally allocated telecommunications numbers"
-    },
-    {
-      "EngArticleType": "A",
-      "EngArticleNo": "Article 29",
-      "EngArticleContent": "The application form prescribed in these Regulations should be announced separately by the competent authority."
-    },
-    {
-      "EngArticleType": "A",
-      "EngArticleNo": "Article 30",
       "EngArticleContent": "The Regulations shall be implemented from the date of promulgation of the Act.\r\nThe amendments to these Regulations shall take effect on the date of promulgation."
     }
   ]
