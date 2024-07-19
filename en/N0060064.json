@@ -3,26 +3,28 @@
 	"LawLevel": "命令",
 	"EngLawName": "Regulations for Governing Designating and Handling of Priority Management Chemicals",
 	"name": "優先管理化學品之指定及運作管理辦法",
-	"EngLawModifiedDate": "20211105",
+	"EngLawModifiedDate": "20240606",
 	"attachments": {
-		"0000007101": "Appendix 1.pdf",
-		"0000007102": "Appendix 1.docx",
-		"0000007103": "Appendix 2.pdf",
-		"0000007104": "Appendix 2.docx",
-		"0000007105": "Appendix 3.pdf",
-		"0000007106": "Appendix 3.docx",
-		"0000007107": "Appendix 4.pdf",
-		"0000007108": "Appendix 4.docx",
-		"0000007109": "Appendix 5.pdf",
-		"0000007110": "Appendix 5.docx",
-		"0000007111": "Appendix 6.pdf",
-		"0000007112": "Appendix 6.docx",
-		"0000007113": "Appendix 7.pdf",
-		"0000007114": "Appendix 7.docx"
+		"0000008534": "Appendix 1：Chemicals hazardous to workers under age of 18 and to pregnant female workers or who are within their first postpartum year.pdf",
+		"0000008535": "Appendix 1：Chemicals hazardous to workers under age of 18 and to pregnant female workers or who are within their first postpartum year.doc",
+		"0000008536": "Appendix 2：The concentration and the annual aggregate quantity of priority management chemicals presented in any operating activity, which triggers the requirement to file report prescribed by the Subparagraph 2, Article.pdf",
+		"0000008537": "Appendix 2：Appendix 2：The concentration and the annual aggregate quantity of priority management chemicals presented in any operating activity, which triggers the requirement to file report prescribed by the Subparagraph 2, Article.doc",
+		"0000008538": "Appendix 3：Hazard classifications and thresholds of priority management chemicals which trigger the requirement to report prescribed by Subparagraph 3, Article 2.pdf",
+		"0000008539": "Appendix 3：Hazard classifications and thresholds of priority management chemicals which trigger the requirement to report prescribed by Subparagraph 3, Article 2.doc",
+		"0000008540": "Appendix 4：Form for basic information of an operator of priority management chemicals.pdf",
+		"0000008541": "Appendix 4：Form for basic information of an operator of priority management chemicals.doc",
+		"0000008542": "Appendix 5：Form for operating information of the priority management chemicals.pdf",
+		"0000008543": "Appendix 5：Form for operating information of the priority management chemicals.doc",
+		"0000008544": "Appendix 6：Supplementary information required for priority management chemicals operating report.pdf",
+		"0000008545": "Appendix 6：Supplementary information required for priority management chemicals operating report.doc",
+		"0000008546": "Appendix 7：Form for changing the operating information for the priority management chemicals report.pdf",
+		"0000008547": "Appendix 7：Form for changing the operating information for the priority management chemicals report.doc",
+		"0000008548": "Article 6.pdf"
 	},
 	"histories": [
 		"Promulgated on December 30, 2014",
-		"Amended on November 05, 2021\r\n"
+		"Amended on November 05, 2021",
+		"Amended on June 6, 2024"
 	],
 	"articles": [
 		{
@@ -35,7 +37,7 @@
 		},
 		{
 			"number": 300,
-			"content": "Terms used in these Regulations are as follows:\r\n1. Operating: the act of manufacturing, importing, supplying of chemicals, or providing for workers to handle or use.\r\n2. Operators: refer to the manufacturers, importers, suppliers or employers who engage in the activities pursuant to the preceding Subparagraph.\r\n3. Handling: means the act of processing, placing or storing chemicals.\r\n4. Maximum aggregate operating quantity: refers to the maximum quantity of chemicals present in an operating site at any one time of the same year."
+			"content": "Terms used in these Regulations are as follows:\r\n1. Operating: the act of manufacturing, importing, supplying of chemicals, or providing for workers to handle or use.\r\n2. Operators: refer to the manufacturers, importers, suppliers or employers who engage in the activities pursuant to the preceding Subparagraph.\r\n3. Handling: means the act of processing, placing or storing chemicals.\r\n4. Maximum aggregate operating quantity: refers to the maximum quantity of chemicals present in an operating site at any one time"
 		},
 		{
 			"number": 400,
@@ -51,31 +53,39 @@
 		},
 		{
 			"number": 700,
-			"content": "For the priority management chemicals in the preceding Article, operators shall report the following information to the central competent authority for recordation:\r\n1. Basic information of operators, as specified in Appendix 4;\r\n2. Information on operating of the priority management chemicals, as specified in Appendix 5;\r\n3. Other information designated and promulgated by the central competent authority.\r\nThe report of the preceding Paragraph shall be filed within the period prescribed as follows:\r\n1. If the number of workers is greater than or equal to 100, the operator shall file the report within 6 months of the effective date as announced by the central competent authority;\r\n2. If the number of workers is less than 100, the operator shall file the report within 18 months of the effective date, as announced by the central competent authority.\r\nOperators shall file another report to the central competent authority between April and September each year following the year for which the report was first filed.\r\nThe operating information reported pursuant to the first paragraph and the preceding paragraph shall be with respect to the preceding calendar year on which date a report was filed."
+			"content": "For the Priority Management Chemicals in the preceding Article, operators shall report to the central competent authority for initial reporting by submitting the following documents:\r\n1. Basic information of operators, as specified in Appendix 4;\r\n2. Information on operating of the Priority Management Chemicals, as specified in Appendix 5;\r\n3. Other information designated and promulgated by the central competent authority.\r\nThe report of the preceding Paragraph shall be filed for initial reporting within the period prescribed as follows:\r\n1. If the number of workers is greater than or equal to 100, the operator shall file the report within 6 months of the effective date as announced by the central competent authority;\r\n2. If the number of workers is less than 100, the operator shall file the report within 12 months of the effective date, as announced by the central competent authority."
 		},
 		{
 			"number": 800,
-			"content": "An operator filing the report pursuant to the preceding Article shall register on the designated information website in accordance with the methods published by the central competent authority."
+			"content": "After the operators file reports for initial reporting pursuant to the preceding Article, they shall file reports to the central competent authority for routine reporting, within the period prescribed as follows, by submitting the information specified in Paragraph 1 of the preceding Article:\r\n1. After filing reports for initial reporting pursuant to Subparagraph 1 or Subparagraph 2 of Paragraph 1 of Article 6, the operators shall file reports between April and September each year following the year for which the report was filed for the first time.\r\n2. After filing reports for initial reporting pursuant to Subparagraph 3 or Subparagraph 4 of Paragraph 1 of Article 6, the operators shall subsequently file reports in January and July each year."
 		},
 		{
 			"number": 900,
-			"content": "An operator, having the fact of operating the priority management chemicals after the report period as prescribed by Paragraph 2, Article 7, shall file reports pursuant to Paragraph 1, Article 7, within 30 days from the date of occurrence of the fact. Following the year for which the report was first filed, the operator shall file another reports pursuant to Paragraph 3, Article 7.\r\nInformation to be reported pursuant to the preceding paragraph may not include the actual operating information as specified in Appendix 5 of Article 7."
+			"content": "After operators file reports for initial reporting or routine reporting pursuant to Subparagraph 3 or Subparagraph 4 of Paragraph 1 of Article 6, if the maximum aggregate operating quantity exceeds the quantity that has been filed for reporting, and the excess amount reaches the threshold as specified in Appendix 3 or more, they shall submit information pursuant to Paragraph 1 of Article 7 and file another dynamic reporting to the central competent authority within 30 days from the date of occurrence of the above fact of the exceeding."
 		},
 		{
 			"number": 1000,
-			"content": "When the central competent authority deems it necessary to supplement other operating information to assess the exposure risk of the priority management chemicals, it may designate the operator, within the time limit specified, to complete the supplementary operating information form, as specified in Appendix 6, and register thereof on the designated information website."
+			"content": "An operator filing the report pursuant to Article 7 to Article 9 shall register on the designated information website in accordance with the methods published by the central competent authority."
 		},
 		{
 			"number": 1100,
-			"content": "If the report filed by the operator contains any of the followings, within 30 days from the date a change occurs, the operator shall file the change as specified in Appendix 7, and register the change on the designated information website:\r\n1. A change to the name of the operator, the responsible person, the name or address of the operating site;\r\n2. Other circumstances as designated by the central competent authority."
+			"content": "An operator, having the fact of operating the Priority Management Chemicals after the report period as prescribed by Paragraph 2, Article 7, shall file reports to the central competent authority for initial reporting pursuant to Paragraph 1, Article 7, within 30 days from the date of occurrence of the fact, and shall comply with Article 8 and Article 9:\r\nInformation to be reported for initial reporting pursuant to the preceding paragraph may not include the actual operating information as specified in Appendix 5 of Article 7."
 		},
 		{
 			"number": 1200,
-			"content": "If an operator filing the report meets one of the following circumstances, the operator will be fined by the central competent authority in accordance with Article 43 of the Act.\r\n1. False or misleading information;\r\n2. Where the operator is notified to furnish information for the incorrect or incomplete information, within a prescribed time period, but fails to do so.\r\n3. Where the operator does not comply with Article 6 to Article 11, and is notified to make correction within a prescribed time period, but fails to do so."
+			"content": "When the central competent authority deems it necessary to supplement other operating information to assess the exposure risk of the Priority Management Chemicals, it may designate the operator, within the time limit specified, to complete the supplementary operating information form, as specified in Appendix 6, and register thereof on the designated information website."
 		},
 		{
 			"number": 1300,
-			"content": "These Regulations shall take force from the date of promulgation, with the exception of Article 6 to Article 9, which shall take force from 1 April 2022."
+			"content": "If the report filed by the operator contains any of the followings, within 30 days from the date a change occurs, the operator shall file the change as specified in Appendix 7, and register the change on the designated information website:\r\n1. A change to the name of the operator, the responsible person, the name or address of the operating site;\r\n2. Other circumstances as designated by the central competent authority."
+		},
+		{
+			"number": 1400,
+			"content": "If an operator filing the report meets one of the following circumstances, a fine shall be imposed by the central competent authority in accordance with Article 43 of the Act:\r\n1. False or misleading information;\r\n2. Where the operator does not comply with Article 6 to Article 13.\r\n3. Where any clerical or mathematical mistakes, incomplete information or other similar obvious mistakes are identified and the operator is notified to make correction within a prescribed time period, but fails to do so."
+		},
+		{
+			"number": 1500,
+			"content": "These Regulations shall take force from the date of promulgation."
 		}
 	]
 }
