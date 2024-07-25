@@ -4,8 +4,25 @@
 	"中文法規名稱": "電信號碼申請及核配辦法",
 	"法規網址": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=K0060119",
 	"最新英文異動日期": "20240517",
-	"沿革內容": "1.Promulgated on July 1, 2020\r\n2.Article 5, Article 26 and Article 30 were amended and promulgated by Ministry of Digital Affairs Order No.11260009361 and National Communications Commission Order 11200217490 on August 1, 2023.\r\n3.Amended on May 17, 2024",
+	"附件": [
+		{
+			"檔案名稱": "Annex 1 Format of Telecommunications Number.pdf",
+			"下載網址": "https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008531"
+		},
+		{
+			"檔案名稱": "Annex 2 Minimum usage rate of subscriber numbers and calculation method of the quantity to be recovered.pdf",
+			"下載網址": "https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008532"
+		},
+		{
+			"檔案名稱": "Tables Basic number selection principles.pdf",
+			"下載網址": "https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008533"
+		}
+	],
+	"沿革內容": "1.Promulgated on July 1, 2020.\r\n2.Article 5, Article 26 and Article 30 were amended and promulgated by Ministry of Digital Affairs Order No.11260009361 and National Communications Commission Order 11200217490 on August 1, 2023.\r\n3.Amended and promulgated all 25 articles of the Regulations by Ministry of Digital Affairs Order No.11360007851 and National Communications Commission Order 11300148230 on May 17, 2024. (Former Title: Regulations for Allocating and Governing Telecommunications Numbers; New Title: Regulations for Applying and Allocating Telecommunications Numbers)",
 	"法規內容": [
+		{
+			"編章節": "Chapter One General Provisions"
+		},
 		{
 			"條號": "Article 1",
 			"條文內容": "These Regulations are enacted in accordance with the provisions of Paragraph 2, Article 69 of the Telecommunications Management Act（hereinafter referred to as the Act）."
@@ -39,6 +56,12 @@
 			"條文內容": "The application form prescribed in these Regulations should be published by the competent authority on its World Wide Web."
 		},
 		{
+			"編章節": "Chapter Two Application for Allocation of Telecommunications Numbers"
+		},
+		{
+			"編章節": "Section One Application for allocation of coding"
+		},
+		{
 			"條號": "Article 9",
 			"條文內容": "When a telecommunications enterprise applies to the competent authority for the allocation of signaling point codes, it should submit the following documents:：\r\n1. Telecommunications Number Application Form\r\n2. Signaling point code use plan（including the expected location of the network’s point of interface interconnected with other public telecommunications networks, and its signal method, network architecture and capacity planning data）\r\n3. Relevant supporting documents of the telecommunications enterprise registration\r\n4. Other materials designated by the competent authority"
 		},
@@ -55,6 +78,9 @@
 			"條文內容": "Coding other than signaling point codes should be reported to the competent authority for reference prior to use.\r\nThe number use plan should be submitted when reporting for reference."
 		},
 		{
+			"編章節": "Section Two Application for allocation of identification codes"
+		},
+		{
 			"條號": "Article 13",
 			"條文內容": "When a telecommunications enterprise applies to the competent authority for the allocation of identification codes, it should submit the following documents：\r\n1. Telecommunications Number Application Form\r\n2. Identification code use plan（including the expected location of the network’s point of interface interconnected with other public telecommunications networks, and its network architecture and capacity planning data）\r\n3. Relevant supporting documents of the telecommunications enterprise registration\r\n4. Other materials designated by the competent authority"
 		},
@@ -67,6 +93,9 @@
 			"條文內容": "Each of the telecommunication enterprise’s application for the allocation of the identification code is limited to one identification code."
 		},
 		{
+			"編章節": "Section Three Application for allocation of special telecommunications numbers"
+		},
+		{
 			"條號": "Article 16",
 			"條文內容": "A government agency（organization）, public welfare association, foundation, independent administrative institution or public enterprise for the need of providing emergency rescue services, public affair counseling services, public rescue services or charity services, etc., may apply to the competent agency for the allocation of special telecommunications numbers, after the approval by the national competent authority for business objectives or the superior authority by reviewing their statutory duties, establishment purposes, public welfare needs, etc.\r\nThe public utilities mentioned in the preceding paragraph refer to the following：\r\n1. Electricity enterprises\r\n2. Water supply enterprises\r\n3. Public utilities recognized by the competent authority or the national competent authorities for business objectives.\r\nThe applicants prescribed in Paragraph 1 should submit the following documents to the competent authority to apply：\r\n1. Telecommunications Number Application Form\r\n2. A photocopy of the approval letter from the national competent authority for business objectives or the superior authority for each of the government agency（organization）, public welfare group, foundation, incorporated administrative agency or public utility, and a photocopy of the supporting document of the public welfare group, foundation, incorporated administrative agency or public utility\r\n3. Special telecommunications number service plan（including the network architecture, service delivery method, service scope and object, service content and charging method）\r\n4. The relevant documents that the telecommunications enterprise allocated with local line phone numbers and mobile phone numbers agrees to cooperate in the provision of special telecommunications numbers\r\nThose which have been allocated with special telecommunications numbers should proactively return the special telecommunications numbers or have them recovered by the competent authority when their qualifications are changed or their usage does not comply with  the provision of Paragraph 1."
 		},
@@ -77,6 +106,9 @@
 		{
 			"條號": "Article 18",
 			"條文內容": "Each of the telecommunication enterprise’s application for the allocation of the special number is limited to one special number."
+		},
+		{
+			"編章節": "Section Four Application for allocation of subscriber numbers"
 		},
 		{
 			"條號": "Article 19",
