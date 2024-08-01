@@ -1,20 +1,20 @@
 {
 	"pcode": "D0070058",
 	"LawLevel": "法律",
-	"EngLawName": "Sewerage Law",
+	"EngLawName": "Sewerage Act",
 	"name": "下水道法",
 	"EngLawModifiedDate": "20180523",
 	"histories": [
-		"As published on December 21, 1984, per the letter of the President",
-		"Articles 3、4、5、9、10、11、14、16、22、25、26、30 amended by President Order (89) Hua-Tsung (1)-Yi-Tzu No.8900301080 on December 20, 2000",
-		"Articles 21 amended by President Order (96) Hua-Tsung (1)-Yi-Tzu No.09500186531 on January 3, 2007",
-		"Articles 8、32 amended by President Order (107) Hua-Tsung (1)-Yi-Tzu No.10700055471 on May 23, 2018"
+		"The entire text of 35 articles enacted and promulgated by presidential Order Hua-Zong-Yi-Yi-Zi No.6769 on December 21, 1984",
+		"Amendment of Article 3、4、5、9、10、11、14、16、22、25、26、30 promulgated by Presidential Order Hua-Zong-Yi-Yi-Zi No. 8900301080 on December 20, 2000",
+		"Amendment of Article 21 promulgated by Presidential Order Hua-Zong-Yi-Yi-Zi No. 09500186531 on January 3, 2007",
+		"Amendment of Article 8, and 32 promulgated by Presidential Order Hua-Zong-Yi-Yi-Zi No. 10700055471 on May 23, 2018"
 	],
 	"divisions": [
 		{
 			"type": "chapter",
 			"number": 100,
-			"title": "General Provisions",
+			"title": "General Principles",
 			"start": 100,
 			"end": 900
 		},
@@ -42,21 +42,21 @@
 		{
 			"type": "chapter",
 			"number": 500,
-			"title": "Supervision and Assistance",
+			"title": "Supervision and Guidance",
 			"start": 2800,
 			"end": 3000
 		},
 		{
 			"type": "chapter",
 			"number": 600,
-			"title": "Penalty",
+			"title": "Penal Provisions",
 			"start": 3100,
 			"end": 3300
 		},
 		{
 			"type": "chapter",
 			"number": 700,
-			"title": "Miscellaneous",
+			"title": "Supplementary Provisions",
 			"start": 3400,
 			"end": 3500
 		}
@@ -64,143 +64,143 @@
 	"articles": [
 		{
 			"number": 100,
-			"content": "This Law is stipulated for the purpose of facilitating the construction and management of the sewage in the planned urban and designated areas to protect the quality of water; with regard to matters not provided in this Law, other rules and regulations shall apply."
+			"content": "This Act is stipulated for the purpose of facilitating the construction and management in urban planning areas and designated areas to protect the water quality; regarding matters not provided in this Act, other rules and regulations shall apply."
 		},
 		{
 			"number": 200,
-			"content": "As used in this Law, the following terms shall carry their respective definitions:\r\n1.Sewage means the rainwater, household wastewater and industrial wastewater.\r\n2.Sewer means public sewerage that is established specially for processing the Sewage.\r\n3.Public Sewer means the sewerage for public use.\r\n4.Special Purpose Sewer means the Sewer that is established for use within limited areas or places but has not been included in the Public Sewer.\r\n5.User means the user who uses the Sewer subject to the Law and the sewerage management regulations.\r\n6.User's Drainage Facilities means the drainpipe and relative facilities established by the Sewer Users to connect the Sewer to drain off the Sewage.\r\n7.Drainage Areas means the planned areas of the Sewer to drain off the Sewage."
+			"content": "As used in this Act, the following terms shall carry their respective definitions:\r\n1.\"Sewage\" means stormwater, household wastewater and industrial wastewater.\r\n2.\"Sewerage\" means public and special purpose sewerage established specially to process sewage.\r\n3.\"Public sewerage\" means sewerage for public use.\r\n4.\"Special-purpose sewerage\" means the Sewer established for use within limited areas or places but that was not included as public sewerage.\r\n5.\"Sewer user\" means the user who uses the sewer subject to the Act and the sewerage management regulations.\r\n6.\"Sewer user's drainage facilities\" means the drainpipe and relative facilities established by sewer users to connect the sewer to drain off the sewage.\r\n7.\"Drainage areas\" means the planned areas of the sewer to drain off the sewage."
 		},
 		{
 			"number": 300,
-			"content": "The term \"competent authority\" as used in this Law denotes the Ministry of the Interior where the central government is concerned; where a municipality under the direct jurisdiction of the Executive Yuan is concerned, the government of such municipality; and where a county/city under direct jurisdiction of the Taiwan Province is concerned, the government of such county/city."
+			"content": "The competent authority referred to in this Act is the Ministry of the Interior at the central government level, the special municipal government in special municipalities and the county or city government in counties or cities."
 		},
 		{
 			"number": 400,
-			"content": "The central competent authorities shall handle the following matters:\r\n1.Set up the development policies and schemes for the Sewer.\r\n2.Set up the Sewerage rules and regulations and examine compliance.\r\n3.Review and examine the development plan for the Sewerage system in the municipality and county/city.\r\n4.Monitor and supervise the construction, management, research and development for the Sewerage system in municipality and county/city.\r\n5.Administration of technique exams and the retraining of the Sewer operation and maintenance people.\r\n6.Research and develop the sewerage techniques.\r\n7.Coordinate the structure, construction and management of the Sewers in situations of multi-municipality and county/city or multi-counties/cities.\r\n8.Other matters concerning national Sewerage.\r\nIf any of the above paragraphs is involved in environmental or water conservancy issues, it shall be proceeded jointly with central competent authorities in-charge of environment and water conservancy."
+			"content": "The central competent authorities shall handle the following matters:\r\n1.Set up the development policies and schemes for sewerage.\r\n2.Set up the sewerage rules and regulations and examine compliance.\r\n3.Review and examine The Development Plan for The Sewerage System in the special municipality and county or cities.\r\n4.Supervise and guide the construction, management, research and development of the sewerage system in the special municipality and county or cities.\r\n5.Administration of skills certification and training of the sewer operation and maintenance people.\r\n6.Research and develop the sewerage techniques.\r\n7.Coordinate the structure, construction and management of the sewerage in between special municipality and county situations, or between city situations.\r\n8.Other matters concerning national sewerage.\r\nIf any of the above Paragraphs is related to environmental protection or water conservancy issues, it shall be proceeded jointly with central competent authorities in-charge of environmental protection and water conservancy."
 		},
 		{
 			"number": 500,
-			"content": "The competent authority for a municipality shall handle the following matters:\r\n1.Plan and perform the municipality's Sewer construction.\r\n2.Set up the municipality's sewerage regulations,\r\n3.Research and development of the municipality's sewerage techniques.\r\n4.Manage the Sewer of the municipality.\r\n5.Retrain the Sewer operation and maintenance people.\r\n6.Other matters concerning municipal sewerage."
+			"content": "The competent authority for a special municipality shall handle the following matters:\r\n1.Plan and perform the special municipality's sewer construction.\r\n2.Set up the special municipality's sewerage regulations,\r\n3.Research and development of the special municipality's sewerage techniques.\r\n4.Manage the sewer of the special municipality.\r\n5.Train the sewer operation and maintenance people.\r\n6.Other matters concerning special municipality sewerage."
 		},
 		{
 			"number": 600,
-			"content": "The competent authority for a county shall handle the following matters:\r\n1.Plan and perform the county's Sewer construction.\r\n2.Set up the county's sewerage regulations,\r\n3.Manage the Sewer of the county.\r\n4.Monitor and supervise the construction and management for the sewerage system in the county.\r\n5.Other matters concerning county sewerage.\r\nThe provisions of Items 1 to 3 and Item 5 in the preceding Paragraph shall apply mutatis mutandis to the Sewers of the provincial city by its competent authorities."
+			"content": "The competent authority for a county shall handle the following matters:\r\n1.Plan and perform the county's sewer construction.\r\n2.Set up the county's sewerage regulations,\r\n3.Manage the county’s sewer.\r\n4.Supervise and guide the construction and management of the sewerage system in the county.\r\n5.Other matters concerning county sewerage.\r\nThe provisions of Subparagraph 1 to 3 and Subparagraph 5 in the preceding Paragraph shall apply mutatis mutandis to the sewers of the provincial city by its competent authorities."
 		},
 		{
 			"number": 700,
-			"content": "The Public Sewer shall be constructed and managed by local government or country/town/village office(s). Provided, when deemed necessary, the competent authorities may appoint a relevant public enterprise to construct and manage the Public Sewer."
+			"content": "The public sewerage shall be constructed and managed by local government or country/town/village office(s), provided that, when deemed necessary, the competent authorities may appoint a relevant public enterprise to construct and manage the public sewer."
 		},
 		{
 			"number": 800,
-			"content": "The newly developed communities and industrial areas of the government authorities and the public enterprises, or other areas or places designated by the municipality and county/city competent authorities shall establish the Special Purpose Sewers. It shall be constructed and managed by each such authority or institution.\r\nThe private newly developed community, the industrial areas or other areas or places designated by the municipality and county/city competent authorities shall establish the Special Purpose Sewer. However, when deemed necessary, it may be constructed and managed by the local government, the county/town/village office(s) or an appointed relevant public enterprise or institution. The construction fee shall be pro rata allocated in calculation of the construction base and the floor square.\r\nThe allocated construction fee in the preceding Paragraph shall be imposed on and collected from the initial constructor when applying for the issuance of the construction license. The rule for imposing and collecting the construction fee shall be set up by the central competent authorities."
+			"content": "Newly developed communities or industrial zones of the government authorities and public enterprises or other areas or places designated by the special municipality and county or city competent authorities shall establish special-purpose sewerage. It shall be constructed and managed by each such authority or institution.\r\nPrivate, newly developed communities, industrial zones or other areas or places designated by competent authorities of the special municipality and county or city shall establish special-purpose sewerage. However, when deemed necessary, special-purpose sewerage may be constructed and managed by the local government, the county/town/village office(s) or an appointed relevant public enterprise or institution. The construction fee shall be pro rata allocated when calculating the building site and floor space.\r\nThe allocated construction fee in the preceding Paragraph shall be imposed on and collected from the proprietors of a building when applying for the construction license. The regulations for imposing and collecting the construction fee shall be set up by the central competent authorities."
 		},
 		{
 			"number": 900,
-			"content": "For the purpose of constructing and managing the Sewers, the central, municipality and county/city competent authorities shall appoint or set up a Sewer institution to handle the construction and management of the Sewers."
+			"content": "To construct and manage the sewers, the competent authorities of the central, special municipality and county or city shall appoint or set up the sewerage institution to handle the construction and management of the sewerage."
 		},
 		{
 			"number": 1000,
-			"content": "The standard for constructing the Sewer shall be stipulated by the central competent authorities."
+			"content": "The Standards for Constructing the Sewer shall be stipulated by the central competent authorities."
 		},
 		{
 			"number": 1100,
-			"content": "The competent authorities of the municipality or the county/city shall, depending on the practical needs and cooperating with the regional sewerage system, set up the regional sewerage plan, report such plan to the central competent authorities for their approval, and include such plan into the urban plan or regional plan by legal procedure for performance."
+			"content": "The competent authorities of the special municipality or the county or city shall, depending on practical needs and in cooperation with the regional drainage system, set up the regional sewerage plan, submit the plan to the central competent authorities for their approval, and include the plan into the urban or regional plan in accordance with legal procedures."
 		},
 		{
 			"number": 1200,
-			"content": "The construction of the Sewer shall be planned and proceeded concurrently in cooperation with other public facilities."
+			"content": "The construction of the sewer shall be planned and proceed concurrently in cooperation with other public facilities."
 		},
 		{
 			"number": 1300,
-			"content": "For construction's need, the Sewer institution may consult and negotiate with relevant competent authorities to use the rivers, drainages, bridges, conduits, dikes, roads, parks and grass. However, such use shall be limited so as not to interfere with their original utilities."
+			"content": "To meet construction needs, the sewerage institution may consult and negotiate with relevant competent authorities to use rivers, drainages, bridges, conduits, dikes, roads, parks and grass. However, such use shall be limited and not interfere with their original utilities."
 		},
 		{
 			"number": 1400,
-			"content": "For the construction's need, the Sewer institution may bury the pipes or other facilities under the public or private land, and the land proprietor, possessor and user may not reject. Provided, the constructor shall select the place and method that would cause least damage to perform the construction, and shall pay reimbursement to them. Any objection arising from the selection of place and method or reimbursement shall be reported to the central competent authorities for their approval before handling.\r\nIf the burying of pipes or other facilities in the preceding Paragraph causes the land proprietors to be unable to build up the raid air sheltering facility or statutory parking lot, and such fact is further examined and verified by the local competent authority in charge of construction matters, it may be granted permission to not build up the raid air sheltering facility or statutory parking lot according to the parts that are affected by such burying."
+			"content": "To meet construction needs, the sewerage institution may bury pipes or other facilities under public or private land, and the landowner, possessor and user may not reject. Provided that the constructor shall select the place and method that would cause the least damage when engaged in construction and shall pay a compensation fee to them. Any objection arising from the selection of place and method or compensation fee shall be reported to the central competent authorities for their approval before handling.\r\nIf the burying of pipes or other facilities as noted the preceding Paragraph causes the landowner to be unable to build air-raid shelter facilities or statutory parking spaces, and the local competent authority in charge of construction matters further examines and verifies such a fact, it may grant permission to not build the parts of the air-raid shelter facilities or statutory parking spaces affected by such burying."
 		},
 		{
 			"number": 1500,
-			"content": "When other underground facilities need to be disposed of due to the plan, design or construction of the drainage pipes or relevant facilities, the Sewer institution shall first inform the relevant authorities and obtain their agreement. In case an agreement is not obtained, it shall be reported to the competent authority to call a meeting with relevant authorities to make a decision."
+			"content": "When other underground facilities need to be disposed of due to the plan, design or construction of drainage pipes or relevant facilities, the sewerage institution shall first inform the relevant authorities and obtain their agreement. If an agreement is not obtained, it shall be reported to the competent authority to call a meeting with relevant authorities to make a decision."
 		},
 		{
 			"number": 1600,
-			"content": "The land proprietor, possessor or user shall not reject the temporary use of the public or private land by the Sewer institution for investigation, measurement, construction or maintenance of the Sewers. However, they shall be reimbursed if they suffer any damage from providing the land. Any objection that arises from the reimbursement shall be reported to the central competent authority for its decision before handling."
+			"content": "The landowner, possessor or user shall not reject the temporary use of public or private land by the sewerage institution for the investigation, measurement, construction or maintenance of the sewer. However, they shall be compensated if they suffer any damage from providing the land. Any objection that arises from the compensation shall be reported to the central competent authority for its decision before handling."
 		},
 		{
 			"number": 1700,
-			"content": "The plan, design and construction supervision of the Sewer may be entrusted to a registered technician in the relevant field. If the plan, design and construction are handled by the government, these shall be handled by qualified technicians under the regulations set up by central competent authority."
+			"content": "Supervision of the plan, design and construction of the sewer may be entrusted to registered professional engineers in the relevant fields. If the plan, design and construction are handled by the government, these shall be undertaken by their technical staff that duly obtained professional engineer certificates under the regulations set up by central competent authority."
 		},
 		{
 			"number": 1800,
-			"content": "The operation and maintenance of the Sewerage Facilities shall be conducted by the qualified personnel who pass the technique exam. The rules of the technique exam shall be regulated by the central competent authority."
+			"content": "The operation and maintenance of the sewerage facilities shall be conducted by qualified personnel who pass the skills certification. The skills certification shall be regulated by the central competent authority."
 		},
 		{
 			"number": 1900,
-			"content": "The Sewer institution shall publicly announce the drainage area, the date to start use, the connecting procedure and the sewerage management rule before the start use of the Sewers.\r\nExcept otherwise permitted by the local competent authority, the Sewage within the drainage area shall be drained off in the Sewer subject to the public announcement."
+			"content": "Before commissioning the use of the sewers, the sewerage institution shall publicly announce the drainage area, date of commissioning of use, connection procedure and sewerage management regulations.\r\nExcept as otherwise permitted by the local competent authority, the sewage within the drainage area shall be drained off in the sewer subject to a public announcement."
 		},
 		{
 			"number": 2000,
-			"content": "The User shall be responsible for the management and maintenance of its own Drainage Facility."
+			"content": "The sewer user shall be responsible for the management and maintenance of its own drainage facilities."
 		},
 		{
 			"number": 2100,
-			"content": "The user's drainage facility shall be installed by a qualified user's drainage facility installation contractor or water supply pipe contractor. The technician employed by the contractor shall pass the technique exam and the training held by the central competent authority.\r\nThe regulations for management of the user's drainage facility installation contractor shall be set up by the central competent authority."
+			"content": "The sewer user's drainage facilities shall be installed by a registered and qualified sewer user's drainage facility installation contractor or water pipe installation contractor. The technician employed by the contractor shall pass the skills certification and training held by the central competent authority.\r\nThe Regulations for the Management of the Sewer User's Drainage Facility Installation Contractor shall be set up by the central competent authority."
 		},
 		{
 			"number": 2200,
-			"content": "The User may not connect its Drainage Facility to the Sewer before it passes the Sewer contractor's exam. If it fails to pass the exam, the Sewer contractor shall order the User to correct within a limited time.\r\nThe standard for the User's Drainage Facility shall be set up by the central competent authority."
+			"content": "The sewer user may not connect its drainage facilities to the sewer before it passes the sewerage institution's inspection. If it fails the inspection, the sewerage institution shall order the sewer user to improve within a limited period.\r\nThe Standards for the Sewer User's Drainage Facility shall be set up by the central competent authority."
 		},
 		{
 			"number": 2300,
-			"content": "In case the User may not drain off without using another's Drainage Facility, it shall first obtain approval from the Sewer institution before connection and use, and shall share the expenses incurred from the installation, use and maintenance based on its benefited level.\r\nIf the User's Drainage Facility in the preceding Paragraph needs to be expanded or improved before connection and use, the expenses incurred from such expansion and improvement shall be borne by the User applying for such connection."
+			"content": "If the sewer user may not drain off without using another's drainage facility, it shall first obtain approval from the sewerage institution before connection and use and shall share the expenses incurred from the installation, use and maintenance based on its level of benefit.\r\nIf the sewer user's drainage facility in the preceding Paragraph needs to be expanded or improved before connection and use, the expenses incurred from such expansion and improvement shall be borne by the sewer user applying for such connection."
 		},
 		{
 			"number": 2400,
-			"content": "The Sewer institution may dispatch its personnel with evidencing documents to examine Users' Drainage Facilities and measure the water flow rate and water quality."
+			"content": "The sewerage institution may dispatch its personnel with identification documents to examine sewer users' drainage facilities and inspect water flow rate and water quality."
 		},
 		{
 			"number": 2500,
-			"content": "The standard water quality of the Sewage that the Sewer may contain shall be set up by the Sewer institution, and reported to authorities of the municipality or county/city for their approval and announcement.\r\nIn case the Sewage drained off by the User exceeds the standard stipulated in the preceding Paragraph, the Sewer institution shall order it to be corrected within a limited time. If the breach is material, it may notify it to stop use."
+			"content": "The water quality standards of the sewage that the sewer may contain shall be set up by the sewerage institution and reported to authorities of the special municipality or county or city for their approval and announcement.\r\nIf the sewage drained off by the sewer user exceeds the standard stipulated in the preceding Paragraph, the sewerage institution shall order it to be improved within a limited period; in severe circumstances, the sewerage institution may notify the sewer use to stop use."
 		},
 		{
 			"number": 2600,
-			"content": "The User shall pay for the use of Sewer, and the fee shall be calculated and collected by the following methods:\r\n1.In proportion of the quantity of use of tap water and other water of the Users.\r\n2.By the quality and quantity of the Sewage drained off by the User.\r\n3.Other method approved by the competent authority.\r\nThe calculating and collecting methods for the fee for use in the preceding Paragraph shall be stipulated by the competent authorities of the municipality and county/city, and further reported with the central competent authority for its approval."
+			"content": "The sewer user shall pay for the use of the sewer, and the fee shall be calculated and collected using the following methods:\r\n1.In proportion of the quantity used of tap water and other water of the sewer users.\r\n2.Using the quality and quantity of the sewage drained off by the sewer user.\r\n3.Other method approved by the competent authority.\r\nThe calculating and collecting regulations for the fee for use in the preceding Paragraph shall be stipulated by the competent authorities of the special municipality and county or city and further reported with the central competent authority for its approval."
 		},
 		{
 			"number": 2700,
-			"content": "In case the User fails to pay for the fee for use under the Law, there shall be imposed a delay penalty of one percent of the unpaid use fee for every three days starting from the second day of the expiration of payment. If the delay exists over one month and the User refuses to pay after being notified, it may be filed with a competent court to grant a decree for compulsory enforcement."
+			"content": "If the sewer user fails to pay for the fee for use under the Act, there shall be imposed a delay penalty of one percent of the overdue fees for every three days starting from the second day of the expiration of payment. If the delay is longer than one month, and the sewer user refuses to pay after being notified, the sewerage institution may file with the court for compulsory enforcement for a ruling."
 		},
 		{
 			"number": 2800,
-			"content": "The Sewer institution shall immediately correct if the Sewage drained to the Sewer exceeds the drainage standard stipulated by the competent authority in charge of anti-water pollution."
+			"content": "The sewerage institution shall immediately correct situations where the effluent to the sewer exceeds the Effluent Standards stipulated by the competent authority in charge of water pollution control."
 		},
 		{
 			"number": 2900,
-			"content": "In case the User fails to install the User's Drainage Facility and complete the connection with the Sewer within the prescribed period, in addition to the penalty under Article 32, the competent authority may also order the Sewer institution to handle on behalf of such User, and any fee incurred shall be borne by the User.\r\nIf the User fails to pay the fees that shall be borne by it in the preceding Paragraph within the period notified, it may be filed with a competent court to grant a decree for compulsory enforcement."
+			"content": "If the sewer user fails to install the sewer user's drainage facilities and complete the connection with the sewer within the prescribed period, the competent authority may, in addition to imposing the penalty under Article 32, also order the sewerage institution to perform the task on the sewer user’s behalf, and any fee incurred shall be borne by the sewer user.\r\nIf the sewer user fails to pay the fees in the preceding Paragraph that it shall bear during the period notified, the sewerage institution may file with the court for compulsory enforcement for a ruling."
 		},
 		{
 			"number": 3000,
-			"content": "The competent authorities of the municipality or the county/city shall periodically examine the information and records for each facility, the water quality of the Sewage, and the equipment and financial status of the Sewer institution."
+			"content": "The competent authorities of the special municipality or the county or city shall periodically inspect the information and records for each facility, the water quality of the effluent, and the equipment and financial status of the sewerage institution."
 		},
 		{
 			"number": 3100,
-			"content": "Any person who destroys or damages the main sewerage facility or disables the Sewer from use or causes any danger by other behavior shall be punished with imprisonment for at least six months and not more than five years, and/or an administrative fine for at least five thousand but not more than fifty thousand dollars."
+			"content": "Any person who destroys or damages the main sewer facilities or causes the sewer to fail from use or any danger by other behavior shall be punishable with imprisonment for at least six months and not more than five years, and/or shall pay a fine of at least NT$5,000 but not more than NT$50,000."
 		},
 		{
 			"number": 3200,
-			"content": "If each of the following occurs, the User may be imposed of an administrative fine for over ten thousand and below one hundred thousand New Taiwan dollars:\r\n1.To drain off the Sewage into the Sewer not within the prescribed period.\r\n2.In violation of Article 22, to connect and use before passing the exam, or failing to correct within a prescribed period when it fails to pass such exam.\r\n3.Refusal to allow the Sewer institution to exam or inspect in accordance with Article 24.\r\n4.If in violation of Paragraph 2 of Article 25, not to correct within the prescribed period.\r\nIf the factory, mining or other businesses appointed by the central competent authority of Water Pollution Control Act fails to correct for three successive penalty impositions under Item 4 of the preceding Paragraph, the municipality and county/city competent authorities may report to and ask the competent authority with jurisdiction over its enterprise to impose a penalty of suspension."
+			"content": "If each of the following occurs, an administrative fine of NT$10,000 to NT$100,000 may be imposed on the sewer user:\r\n1.Drain off the sewage into the sewer not within the prescribed period.\r\n2.In violation of Article 22, connect and use before passing the inspection or fail to improve within a limited period after failing the inspection.\r\n3.Refusal to allow the sewerage institution to exam or inspect in accordance with Article 24.\r\n4.If in violation of Paragraph 2 of Article 25, not improve within a limited period.\r\nIf the factory, mining or other enterprise appointed by the central competent authority of the Water Pollution Control Act fails to improve after the imposition of three successive penalties under Subparagraph 4 of the preceding Paragraph, the competent authorities of the special municipality and county or city may report to and ask the competent industry authority to impose a business suspension penalty."
 		},
 		{
 			"number": 3300,
-			"content": "The administrative fine under this Law shall be imposed by the competent authority. Any one who fails to pay within the prescribed notice period may be reported to the competent court to grant a decree for compulsory enforcement."
+			"content": "The administrative fine under this Act shall be imposed by the competent authority. Any person or entity who fails to pay the fine within the prescribed notice period may be reported to the competent court for a compulsory enforcement ruling."
 		},
 		{
 			"number": 3400,
-			"content": "The enforcement rule of this Law shall be stipulated promulgated by the central competent authority."
+			"content": "The Enforcement Rules of this Act shall be stipulated and promulgated by the central competent authority."
 		},
 		{
 			"number": 3500,
-			"content": "This Law shall come into effect on the date of promulgation."
+			"content": "This Act shall take effect on the date of promulgation."
 		}
 	]
 }
