@@ -3,14 +3,14 @@
 	"英文法規名稱": "Regulations Governing the Clearinghouse’s Plan of Security Measures for Personal Information files",
 	"中文法規名稱": "票據交換所個人資料檔案安全維護計畫標準辦法",
 	"法規網址": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0430010",
-	"最新英文異動日期": "20211223",
+	"最新英文異動日期": "20240627",
 	"附件": [
 		{
-			"檔案名稱": "Form.pdf",
-			"下載網址": "https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007100"
+			"檔案名稱": "Form：Personal Information Breach Incident Notification and Record Form.pdf",
+			"下載網址": "https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008592"
 		}
 	],
-	"沿革內容": "1.Promulgated on November 30, 2012\r\n2.Article 9 amended on June 26, 2015 (effective from June 28,2015)\r\n3.Amended on December 23, 2021",
+	"沿革內容": "1.Promulgated on November 30, 2012\r\n2.Article 9 amended on June 26, 2015 (effective from June 28,2015)\r\n3.Amended on December 23, 2021\r\n4.Article 9 and Article 9-1 amended on June 27,2024",
 	"法規內容": [
 		{
 			"編章節": "Chapter I General Provisions"
@@ -52,7 +52,11 @@
 		},
 		{
 			"條號": "Article 9",
-			"條文內容": "The clearinghouse shall, in coping with personal information under its possession stolen, tampered, damaged, destroyed, leaked, or other incidents, establish relevant procedures for the following actions:\r\n1. Adopting proper contingency plans to reduce or control damages to the Parties caused by the incidents.\r\n2. Investigating the incident clearly and notifying the Parties in a timely manner. Content of the notification shall include the facts about incidents, measures to resolve incidents, and contact information for the consulting service.\r\n3. Avoiding recurrence of such a similar incident.\r\nWhen the clearinghouse has an incident described in the preceding paragraph, the clearinghouse shall immediately notify personnel of the Central Bank of the Republic of China (Taiwan) (hereafter referred to as \"the Bank\") in charge of accepting reporting by phone, and within 72 hours, send a form to the Bank via electronic mail according to the format of the attached form; in addition, within 7 business days starting from the next day following the day of notification, the clearinghouse shall report to the Bank in writing the facts of the incident, whether the breached personal information has been illegally utilized, how the interests of the principal have been damaged, and response measures taken.\r\nAfter receiving the notification of the clearinghouse, the Bank may, by the authority vested under Articles 22 ~ 25 of the Act, take appropriate supervisory and administrative measures."
+			"條文內容": "The clearinghouse shall, in dealing with personal information under its possession stolen, tampered, damaged, destroyed, leaked, or other incidents, establish relevant procedures for the following actions:\r\n1. Adopting proper contingency plans to reduce or control damages to the Parties caused by the incidents.\r\n2. Investigating the incident and notifying the Parties in a timely manner. Content of the notification shall include the relevant facts about the incident, measures to resolve the incident, and contact information of the consulting service.\r\n3. Avoiding recurrence of similar incidents.\r\nWhen the clearinghouse has an incident similar to what is described in the preceding paragraph, the clearinghouse shall immediately notify the personnel of the Central Bank of the Republic of China (Taiwan) (hereafter referred to as &quot;the Bank&quot;) in charge of accepting reporting by phone, and, within 36 hours, send a form to the Bank via electronic mail in the format of the attached form. However, in the event of any of the following situations, the clearinghouse shall immediately notify the Bank by phone and promptly send a form to the Bank via electronic mail in the format of the attached form:\r\n1.The incident involves breach of personal data that is of concern to the Executive Yuan, Legislative Yuan or Control Yuan.\r\n2.The incident involves breach of personal data that has been widely reported in the media. For example, it is reported in the national news section of print media, or it is a feature story discussed in electronic media.\r\nThe clearinghouse shall, within 7 business days from the next day following the phone notification under the preceding paragraph, report to the Bank in writing the facts of the incident, whether the breached data have been unlawfully utilized, any damage to the interests of the Parties, and response actions taken. However in case any situation under the proviso of the preceding paragraph exists, the clearinghouse shall submit such a report to the Bank in writing on the next business day following the phone notification.\r\nAfter receiving the notification of the clearinghouse, the Bank may, by the authority vested under Articles 22-26 of the Act, take appropriate supervisory and administrative measures."
+		},
+		{
+			"條號": "Article 9-1",
+			"條文內容": "The clearinghouse should cooperate with the Bank in the following actions:\r\n1.The administrative examination of personal data protection conducted by the Bank every year.\r\n2.Administrative investigation and reinspection of the incidents specified in Paragraph 1 of the preceding article.\r\nFor improvement actions to be taken as advised in the administrative examination or administrative investigation and reinspection mentioned in the preceding paragraph, the clearinghouse shall propose concrete improvement measures and report subsequently actions taken to the Bank."
 		},
 		{
 			"編章節": "Chapter III. Regulatory Compliance Procedures"
