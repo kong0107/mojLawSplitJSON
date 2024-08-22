@@ -3,7 +3,7 @@
 	"LawLevel": "命令",
 	"EngLawName": "Regulations Governing the Taiwan Residential Earthquake Insurance Fund",
 	"name": "財團法人住宅地震保險基金管理辦法",
-	"EngLawModifiedDate": "20190916",
+	"EngLawModifiedDate": "20240624",
 	"histories": [
 		"Adopted per 30 November 2001 Letter No. Taiwan-Finance-Insurance-0900751337",
 		"Amended per 1 December 2005 Letter No. Financial-Supervisory-Insurance-09402564041",
@@ -11,7 +11,8 @@
 		"Amended per 26 November 2007 Letter No. Financial-Supervisory-Insurance-09602564102",
 		"Amended per 20 December 2011 Letter No. Financial-Supervisory-Insurance-10002566536",
 		"Amended per 14 October 2013 Letter No. Financial-Supervisory-Insurance-10202527731",
-		"Amended per 16 September 2019 Letter No. Financial-Supervisory-Insurance-10804950051\r\n"
+		"Amended per 16 September 2019 Letter No. Financial-Supervisory-Insurance-10804950051",
+		"Article 7 and 11 were amended and promulgated pursuant to Order No. Jin-Guan-Bao-IV-Zi-11304921251 of the Financial Supervisory Commission, dated 24 June 2024; for the implementation from January 1, 2026.\r\n"
 	],
 	"articles": [
 		{
@@ -40,7 +41,7 @@
 		},
 		{
 			"number": 700,
-			"content": "TREIF shall set aside or treat various reserves of the Insurance pursuant to the following provisions:\r\n1.Unearned premium reserve: to set aside by the 1/24 method according to the pure premium to which TREIF is entitled;\r\n2.Loss reserve: The outstanding loss reserve and IBNR reserve shall be set aside according to the result of TREIF loss assessment;\r\n3.Special reserve:\r\n(1) At the end of each year, TREIF shall set aside the balance of the total amount of pure premium received after deduction of premium allocated to the Pool, the costs in connection with spreading of risk on domestic, overseas reinsurance or capital markets, net retained loss, net change in unearned premium reserve, and net change in loss reserve as special reserve.\r\n(2) At the end of each year, TREIF shall set aside the balance of the income from expense loading plus the sum of various incomes excluding the financial income after deduction of operating costs and expenses as a special reserve. In the event that the balance of this item is negative, it shall be carried over into accumulated surplus/deficit.\r\n(3) In the event that the special reserve in item 1 is insufficient, the deficit shall be replenished with the recovered special reserve accumulated in the previous years. If any deficit remains, it shall be replenished with the special reserves set aside in the subsequent years.\r\nThe costs and expenses referred to in item 2, subparagraph 3 of the preceding paragraph shall not include the costs, expenses, indemnities, and losses deducted as per the provisions of paragraph 5 of the preceding Article and item 1 of subparagraph 3 of the preceding paragraph."
+			"content": "TREIF shall set aside or treat various reserves of the Insurance pursuant to the following provisions:\r\n1.     Assumed unearned premium reserve: For reinsurance contracts issued by TREIF for reinsurance assumed, assumed unearned premium reserve shall be set aside after calculating liability for remaining coverage in accordance with the International Financial Reporting Standards 17 (IFRS 17).\r\n2.     Assumed loss reserve: For reinsurance contracts issued by TREIF for reinsurance assumed, assumed loss reserve shall be set aside after calculating liability for incurred claims in accordance with the IFRS 17.\r\n3.     Ceded unearned premium reserve: For reinsurance contracts held by TREIF for reinsurance ceded, ceded unearned premium reserve shall be set aside after calculating asset for remaining coverage in accordance with IFRS 17.\r\n4.     Ceded loss reserve: For reinsurance contracts held by TREIF for reinsurance ceded, ceded loss reserve shall be set aside after calculating asset for incurred claims in accordance with IFRS 17.\r\n5.     Special reserve:\r\n(1)At the end of each year, TREIF shall set aside the balance of the total amount of earned pure premium received after deduction of premium allocated to the Pool, the costs in connection with spreading risks to domestic, overseas reinsurance or capital markets, retained claim payment, and the difference between loss component in the previous period and the current period as special reserve if positive.\r\n(2)At the end of each year, TREIF shall set aside the balance of the income from expense loading plus the sum of various incomes excluding the financial income after deduction of operating costs and expenses as a special reserve. In the event that the balance of this item is negative, it shall be carried over into accumulated surplus/deficit.\r\n(3)In the event that the special reserve in item 1 is insufficient, the deficit shall be replenished with the recovered special reserve accumulated in the previous years. If any deficit remains, it shall be replenished with the special reserves set aside in the subsequent years.\r\nThe costs and expenses referred to in item 2, subparagraph 5 of the preceding paragraph shall not include the costs, expenses, indemnities, and losses deducted as per the provisions of paragraph 5 of the preceding Article and item 1 of subparagraph 5 of the preceding paragraph."
 		},
 		{
 			"number": 800,
@@ -56,7 +57,7 @@
 		},
 		{
 			"number": 1100,
-			"content": "These regulations shall be enforced from the date of promulgation."
+			"content": "These regulations shall be enforced from the date of promulgation.\r\nArticles amended and promulgated on June 24, 2024 shall be implemented from January 1, 2026."
 		}
 	]
 }
