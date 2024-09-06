@@ -1,11 +1,12 @@
 {
 	"pcode": "I0060005",
 	"LawLevel": "命令",
-	"EngLawName": "The Enforcement Rules of the Classified National Security Information Protection Act",
+	"EngLawName": "Enforcement Rules of the Classified National Security Information Protection Act",
 	"name": "國家機密保護法施行細則",
-	"EngLawModifiedDate": "20030926",
+	"EngLawModifiedDate": "20240628",
 	"histories": [
-		"Promulgated on September 26, 2003"
+		"Promulgated on September 26, 2003\r\n  The amendment and promulgation for certain articles under the Ministry of Justice’s decree Fa-Lian-Zi No. 11307005600 dated June 6, 2024, shall be revoked pursuant to Ministry of Justice’s letter Fa-Lian-Zi No. 11307011260 dated June 13, 2024.",
+		"Articles 10, 32, and 36 shall be amended and promulgated, and Article 4 shall be deleted pursuant to Executive Yuan’s decree Yuan-Tai-Fa-Zi No. 1131016424 dated June 28, 2024. The effective date shall be the date of promulgation."
 	],
 	"articles": [
 		{
@@ -14,7 +15,7 @@
 		},
 		{
 			"number": 200,
-			"content": "Information may not be considered for classification unless it concerns:\r\n(1)military plans, weapons, or operations;\r\n(2)foreign government information relating to national defense, politics and     economy;\r\n(3)intelligence activities, sources or methods;\r\n(4)technologies, equipments, or facilities for safeguarding the Government's     telecommunications and information;\r\n(5)foreign relations or foreign activities of the Republic of China or Mainland affairs;\r\n(6)scientific, technological, or economic matters relating to the national security; or\r\n(7)other categories of information which are related to national security and which require protection against unauthorized disclosure."
+			"content": "Information may not be considered for classification unless it concerns:\r\n(1)military plans, weapons, or operations;\r\n(2)foreign government information relating to national defense, politics and economy;\r\n(3)intelligence activities, sources or methods;\r\n(4)technologies, equipments, or facilities for safeguarding the Government's telecommunications and information;\r\n(5)foreign relations or foreign activities of the Republic of China or Mainland affairs;\r\n(6)scientific, technological, or economic matters relating to the national security; or\r\n(7)other categories of information which are related to national security and which require protection against unauthorized disclosure."
 		},
 		{
 			"number": 300,
@@ -22,7 +23,7 @@
 		},
 		{
 			"number": 400,
-			"content": "The term \"organizations\" referred to in Article 3 of this Act means organizations established for testing, research, cultural and educational, medical, military, and funding management purposes."
+			"content": "(Deleted)"
 		},
 		{
 			"number": 500,
@@ -30,7 +31,7 @@
 		},
 		{
 			"number": 600,
-			"content": "The term \"serious damage\" referred to in Article 4, Subparagraph 2 of this Act means the damage has incurred in one of the following situations:\r\n(1)a termination or sabotage of the military cooperation or military agreement;\r\n(2)a totally defeated single armed force or allied force;\r\n(3)a threat to personal safety of an intelligence agent or a termination of an   intelligence operation;\r\n(4)a decoding or destruction of Government's technologies, equipments or facilities established for the purpose of safeguarding the telecommunications and classified information;\r\n(5)a termination or sabotage of the agreement or negotiation with Mainland China, Hong Kong or Macao;\r\n(6)a grave adverse impact on the diplomatic relations or substantive foreign             relations;\r\n(7)a serious impairment to the membership, rights and interests in an international organization;\r\n(8)a disruption to the establishment of a diplomatic relations, treaty, agreement or participation in an international organization;\r\n(9)a disruption or sabotage of the consultation, agreement, negotiation or cooperation with other countries; or\r\n(10)other situations where political and economic developments relating to national security or national interest are seriously impaired."
+			"content": "The term \"serious damage\" referred to in Article 4, Subparagraph 2 of this Act means the damage has incurred in one of the following situations:\r\n(1)a termination or sabotage of the military cooperation or military agreement;\r\n(2)a totally defeated single armed force or allied force;\r\n(3)a threat to personal safety of an intelligence agent or a termination of an intelligence operation;\r\n(4)a decoding or destruction of Government's technologies, equipments or facilities established for the purpose of safeguarding the telecommunications and classified information;\r\n(5)a termination or sabotage of the agreement or negotiation with Mainland China, Hong Kong or Macao;\r\n(6)a grave adverse impact on the diplomatic relations or substantive foreign relations;\r\n(7)a serious impairment to the membership, rights and interests in an international organization;\r\n(8)a disruption to the establishment of a diplomatic relations, treaty, agreement or participation in an international organization;\r\n(9)a disruption or sabotage of the consultation, agreement, negotiation or cooperation with other countries; or\r\n(10)other situations where political and economic developments relating to national security or national interest are seriously impaired."
 		},
 		{
 			"number": 700,
@@ -46,7 +47,7 @@
 		},
 		{
 			"number": 1000,
-			"content": "The term \"Minister\" referred to in Article 7, Paragraph 1, Subparagraph 1, Section 2, and Article 7, Paragraph 1, Subparagraph 2, Section 5, and Article 7, Paragraph 1, Subparagraph 3, Section 4 of this Act, means the Minister of National Defense.\r\nThe term \"officials\" referred to in Article 7, Paragraph 1, Subparagraph 2, Section 1, and Article 7, Paragraph 1, Subparagraph 2, Section 4, and Article 7, Paragraph 1, Subparagraph 3, Section 1, and Article 7, Paragraph 2, Subparagraph 3, Section 3 of this Act, include the Chief Advisor of this agency, the Head of the agency and the troops Commander.\r\nThe term \"diplomatic agency\" referred to in Article 7, Paragraph 1, Subparagraph 3, Section 3 of this Act, include the Embassy, the Taipei Economic and Cultural Representative Division, and the Taipei Economic and Cultural Representative Office. The term \"diplomatic agency head\" referred to in Article 7, Paragraph 1, Subparagraph 3, Section 3 of this Act, means the supreme diplomatic representative appointed by the Government of the Republic of China.\r\nEach delegation of original classification authority under Article 7, Paragraph 1 of this Act shall be in writing. Delegations of original classification authority shall be held to an absolute minimum. Delegated original classification authority may not be redelegated."
+			"content": "The term \"Minister\" referred to in Article 7, Paragraph 1, Subparagraph 1, Section 2, and Article 7, Paragraph 1, Subparagraph 2, Section 5, and Article 7, Paragraph 1, Subparagraph 3, Section 4 of this Act, means the Minister of National Defense.\r\nThe term “officials” referred to in Article 7, Paragraph 1, Subparagraph 2, Sections 1 and 4 of this Act include the Chief Advisor of this agency, the Head of the agency, and the troops Commander with the rank of lieutenant general and higher.\r\nThe term “officials” referred to in Article 7, Paragraph 1, Subparagraph 3, Sections 1 and 3 of the Act refer to the personnel mentioned in the preceding paragraph as well as the unit supervisors of the Ministry of National Defense and its affiliated agencies at the rank of Class 11 or major general or higher, and troops Commander at the rank of major general or higher.\r\nThe term \"diplomatic agency\" referred to in Article 7, Paragraph 1, Subparagraph 3, Section 3 of this Act, include the Embassy, the Taipei Economic and Cultural Representative Division, and the Taipei Economic and Cultural Representative Office. The term \"diplomatic agency head\" referred to in Article 7, Paragraph 1, Subparagraph 3, Section 3 of this Act, means the supreme diplomatic representative appointed by the Government of the Republic of China.\r\nEach delegation of original classification authority under Article 7, Paragraph 1 of this Act shall be in writing. Delegations of original classification authority shall be held to an absolute minimum. Delegated original classification authority may not be redelegated."
 		},
 		{
 			"number": 1100,
@@ -90,7 +91,7 @@
 		},
 		{
 			"number": 2100,
-			"content": "Classified information shall be delivered as follows:\r\n(1)For transfer of Top Secret information and Secret information within the agency, such information shall be delivered personally by the processing official.\r\n(2)For interagency transfer of Top Secret information and Secret information, such information shall be delivered by the processing official or the designated official under military or civilian escort. For interagency transfer of Confidential  information, such information shall be delivered by the processing official or the designated official or sent by double-registered mail.\r\nFor interagency delivery of Confidential information by the processing official or the designated official, the processing official or the designated official shall prepare for an emergency destruction of such information in case of an emergency.\r\nIf classified information is not delivered personally by the processing official but by the designated official, such information shall be delivered in a sealed envelop.\r\nIf classified information is transmitted through telecommunications, such information shall be secured by encryption authorized or approved by the competent government agency."
+			"content": "Classified information shall be delivered as follows:\r\n(1)For transfer of Top Secret information and Secret information within the agency, such information shall be delivered personally by the processing official.\r\n(2)For interagency transfer of Top Secret information and Secret information, such information shall be delivered by the processing official or the designated official under military or civilian escort. For interagency transfer of Confidential information, such information shall be delivered by the processing official or the designated official or sent by double-registered mail.\r\nFor interagency delivery of Confidential information by the processing official or the designated official, the processing official or the designated official shall prepare for an emergency destruction of such information in case of an emergency.\r\nIf classified information is not delivered personally by the processing official but by the designated official, such information shall be delivered in a sealed envelop.\r\nIf classified information is transmitted through telecommunications, such information shall be secured by encryption authorized or approved by the competent government agency."
 		},
 		{
 			"number": 2200,
@@ -134,7 +135,7 @@
 		},
 		{
 			"number": 3200,
-			"content": "The term \"personnel\" referred to in Article 26, Paragraph 1 of this Act, include all persons who exercised the original classification authority or processed the classified information before this Act takes effect and such classified information has been reclassified in accordance with the provisions set forth in Article 39 of this Act.\r\nAll personnel referred to in Article 26, Paragraph 1 of this Act who want to depart from this country, shall submit to the serving agency or commissioning agency a written application stating the itinerary, designation country or area, and a list of activities to do and persons to meet in the designation country or area. The serving agency or commissioning agency may grant or deny the application based on the applicant's involvement in processing or safeguarding classified information. The serving agency or commissioning agency shall notify the decision of approval or disapproval to the applicant within ten days after receiving the application. If the applicant is the head of the serving agency or commissioning agency, the applicant shall submit the application to the superior agency. The application shall then be decided by the head of the superior agency or the authorized official."
+			"content": "The term \"personnel\" referred to in Article 26, Paragraph 1 of this Act, include all persons who exercised the original classification authority or processed the classified information before this Act takes effect and such classified information has been reclassified in accordance with the provisions set forth in Article 39 of this Act.\r\nAll personnel referred to in Article 26, Paragraph 1 of this Act who want to depart from this country, shall submit to the serving agency or commissioning agency a written application stating the itinerary, designation country or area, and a list of activities to do and persons to meet in the designation country or area. The serving agency or commissioning agency may grant or deny the application based on the applicant's involvement in processing or safeguarding classified information. The serving agency or commissioning agency shall notify the decision of approval or disapproval to the applicant within ten days after receiving the application. If the applicant is the head of the serving agency or commissioning agency, the applicant shall submit the application to the superior agency. The application shall then be decided by the head of the superior agency or the authorized official.\r\nFor persons who are subject to approval before departing the country in accordance with of Article 26, Paragraph 1 of this Act, their (original) serving agency or commissioning agency shall submit a list of such persons and their control periods to the immigration authority within three months after this Act takes effect, as well as notify the parties concerned; if any change occurs, the immigration authority and the parties concerned shall be notified within seven days. However, if other regulations on exiting the country exist, such regulations shall prevail.\r\nThe notification made pursuant to Article 26, Paragraph 3 of this Act, for agency heads and those currently serving in the superior agency of the original serving agency or commissioning agency shall be submitted to the superior agency. However, if the agency has other notification control regulations, such regulations shall prevail.\r\nIf agencies discover that the notification’s content is incomplete or questionable, they may require the notifier to provide corrections within a specified period and request an explanation if necessary.\r\nApplications and notifications made pursuant to Paragraphs 2 and 4 shall be submitted to the (original) serving agency if there is no superior agency.\r\nThe Ministry of Justice will determine the format for the notification form under Article 26, Paragraph 3 of this Act."
 		},
 		{
 			"number": 3300,
@@ -150,7 +151,7 @@
 		},
 		{
 			"number": 3600,
-			"content": "The Enforcement Rules of this Act shall take effect from the date of promulgation of the Classified National Security Information Protection Act."
+			"content": "The Enforcement Rules of this Act shall take effect from the date of promulgation of the Classified National Security Information Protection Act.\r\nThe amended articles of the Enforcement Rules shall come into effect on the date of promulgation."
 		}
 	]
 }
