@@ -3,12 +3,13 @@
 	"LawLevel": "命令",
 	"EngLawName": "Regulations for Approving Imports of Designated Plant Regulated Articles",
 	"name": "特定植物檢疫物輸入核准辦法",
-	"EngLawModifiedDate": "20210629",
+	"EngLawModifiedDate": "20240826",
 	"histories": [
 		"Promulgated on December 12, 1997",
 		"Amendment to all Articles promulgated on May 18, 2010",
 		"Amendment to all Articles promulgated on May 25, 2015",
-		"Amendment to all Articles promulgated on June 29, 2021"
+		"Amendment to all Articles promulgated on June 29, 2021",
+		"Amendment to Article 11-1 promulgated on August 26, 2024"
 	],
 	"articles": [
 		{
@@ -54,6 +55,10 @@
 		{
 			"number": 1100,
 			"content": "After the designed plant regulated articles or their derivatives are approved for import or sharing, the reference numbers of the import or sharing permit shall be included in the pertinent reports or literary work of importer or user and be kept for more than one year."
+		},
+		{
+			"number": 1101,
+			"content": "The central competent authority may authorize the plant quarantine authority to handle the matters stipulated in Article 2, Article 4, Article 6, Article 7 and Article 10."
 		},
 		{
 			"number": 1200,
