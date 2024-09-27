@@ -3,18 +3,17 @@
 	"LawLevel": "命令",
 	"EngLawName": "Sanitation Standard for Food Cleansers",
 	"name": "食品用洗潔劑衛生標準",
-	"EngLawModifiedDate": "20170612",
+	"EngLawModifiedDate": "20240911",
 	"attachments": {
-		"0000004943": "Appendix 1.PDF",
-		"0000003656": "Appendix 1.doc",
-		"0000004944": "Appendix 2.PDF",
-		"0000003657": "Appendix 2.doc"
+		"0000008640": "Appendix1.PDF",
+		"0000008641": "Appendix2.PDF"
 	},
 	"histories": [
-		"Promulgated on 20 September 2007, Food No.0960404499",
-		"Amended on August 20, 2013",
+		"DOH Food No.0960404499 Amended, 09/20/2007",
+		"MOHW Food No. 1021350146 Amended, 08/20/2013",
 		"MOHW Food No 1041300838 Amended, 04/27/2015",
-		"MOHW Food No 1061301328 Amended, 06/12/2017"
+		"MOHW Food No 1061301328 Amended, 06/12/2017",
+		"MOHW Food No 1131301844 Amended, 11/9/2024\r\n"
 	],
 	"articles": [
 		{
@@ -27,7 +26,7 @@
 		},
 		{
 			"number": 300,
-			"content": "Maximum tolerance of hazardous materials:\r\n1.Arsenic: the diluted solution based on the label direction of the product shall not contain more than 0.05 ppm of arsenic (as As2O3).\r\n2.Heavy metals: the diluted solution based on the label direction of product shall not contain more than 1 ppm of heavy metals (as Pb).\r\n3.Methanol: Not more than 1 mg/ml.\r\n4.Nonylphenol and Nonylphenol ethoxylate: Not more than 0.1 % by mass.\r\n5.Fluorescent brightening agent: Not be detected.\r\n6.Flavorings and coloring agents to be used in the products shall be compatible with \"Standards for Specification, Scope, Application and Limitation of Food Additives\".\r\nThe preceding paragraph applies only to liquid synthetic detergent main ingredients is synthetic surfactant, for dish washer detergent are not included."
+			"content": "Maximum tolerance of hazardous materials:\r\n1. Arsenic: the diluted solution based on the label direction of the product shall not contain more than 0.05 ppm of arsenic (as As2O3).\r\n2. Heavy metals: the diluted solution based on the label direction of product shall not contain more than 1 ppm of heavy metals (as Pb).\r\n3. Methanol: Not more than 1 mg/ml.\r\n4. Nonylphenol and Nonylphenol ethoxylate: Not more than 0.1 % by mass.\r\n5. Fluorescent brightening agent: Not be detected.\r\n6. Flavorings and coloring agents to be used in the products shall be compatible with \"Standards for Specification, Scope, Application and Limitation of Food Additives\".\r\nThe preceding paragraph applies only to liquid synthetic detergent main ingredients is synthetic surfactant, for dish washer detergent are not included."
 		},
 		{
 			"number": 400,
@@ -35,7 +34,7 @@
 		},
 		{
 			"number": 500,
-			"content": "The substances which list in Appendix 2 are used to disinfect food, the usage limitations shall be in accordance with the Appendix 2. After using for the compounds listed in the table, it shall be followed by a potable water rinse or by blanching or cooking. The final food shall contain no more than the limitations specified in the Table."
+			"content": "For the disinfect substances used to clean food, unless the legal food ingredients, the restricted substances, residue limit, usage scope and specifications are subject to the provisions of Appendix 2.\r\nIn order to make the residual concentration in the preceding paragraph compliant with the regulations, if necessary, it may be rinsed with drinking water or otherwise treated appropriately after disinfection."
 		},
 		{
 			"number": 600,
