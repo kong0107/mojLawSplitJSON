@@ -3,27 +3,35 @@
   "EngLawName": "Regulations Governing the Assessment of Energy Development and Utilization",
   "LawName": "能源開發及使用評估準則",
   "EngLawURL": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=J0130068",
-  "EngLawModifiedDate": "20230418",
+  "EngLawModifiedDate": "20240627",
   "EngLawAbandonNote": "",
   "EngLawAttachements": [
     {
       "FileName": "Table 1 The Best Available Techniques Which Shall Be Applied in Utility Systems and Equipment.pdf",
-      "FileURL": "https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007944"
+      "FileURL": "https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008642"
     },
     {
       "FileName": "Table 2 The Best Available Techniques Which Shall Be Applied in Processing Techniques for Electricity Generation or Cogeneration Systems.pdf",
-      "FileURL": "https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007945"
+      "FileURL": "https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008643"
     },
     {
       "FileName": "Table 3 The Best Available Techniques Which Shall Be Applied in Processing Techniques for Petroleum Refineries and Massive Energy Consumption Users.pdf",
-      "FileURL": "https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007946"
+      "FileURL": "https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008644"
     },
     {
       "FileName": "Table 4 Best Available Techniques for Semiconductor or Panel Industry Process Technology Items.pdf",
-      "FileURL": "https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000007947"
+      "FileURL": "https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008645"
+    },
+    {
+      "FileName": "Table 5 The Best Available Techniques Which Shall Be Applied in Processing Techniques for Steel Industry.pdf",
+      "FileURL": "https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008646"
+    },
+    {
+      "FileName": "Table 6 The Best Available Techniques Which Shall Be Applied in Processing Techniques for Gas Industry.pdf",
+      "FileURL": "https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000008647"
     }
   ],
-  "EngLawHistories": "1.Promulgated on November 24, 2015\r\n2.Amended on April 18, 2023",
+  "EngLawHistories": "1.Promulgated on November 24, 2015\r\n2.Amended on April 18, 2023\r\n3.Amended on June 27, 2024\r\n",
   "EngLawForeword": "",
   "EngLawArticles": [
     {
@@ -34,7 +42,7 @@
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 2",
-      "EngArticleContent": "The terms applied in these regulations are defined as follows:\r\n1. Volume: in circumstances of electricity generation or cogeneration systems, refers to installed capacity of power generation equipment; in circumstances of petroleum refineries and massive energy-consumption users, refers to chartered capacity of electricity consumption and installed capacity of self-usage power generation equipment.\r\n2. Category: refers to coal (metric ton), petroleum (kiloliters of oil equivalent), natural gas (kilo cubic meter) and electricity (megawatt).\r\n3. Location: north district, refers to areas located north of Feng-Shan River and north of He-Ping River; central district, refers to areas located south of Feng-Shan River, north of Cho-Shui River, and Hualien County; south district, refers to areas located south of Cho-Shui River not belonging to north and central district as well as Taitung County; offshore islands, refer to islands where no transmission lines connecting to the grid of the main island of Taiwan.\r\n4. Massive energy-consumption users: manufacture listed in the Standard Industrial Classification System of the Republic of China, excluding petroleum refineries listed in Petroleum Administration Act.\r\n5. Application Period: identified by the planned years of the business operation on the energy utilization manual.\r\n6. Estimated Percent Reserve Margin: refers to the estimated value of percent reserve margin calculated by the following formula and announced by the central competent authority for each of the following 6 years.\r\n   Estimated Percent Reserve Margin = (aggregated value of net peaking capability of nationwide power systems) + (aggregated value of net peaking capability of projects which have obtained the preparation approval for electricity enterprise establishment - estimated value of peak load of the electricity systems) / estimated value of peak load of the electricity systems\r\n7. Baseline Value of Percent Reserve Margin: refers to the value of percent reserve margin submitted by electricity enterprises and approved and announced by the central competent authority in accordance with the Electricity Act.\r\n8. Letter of Approval for Electricity Consumption Plan: refers to the letter for the approval of applications of electricity consumption plans issued to the electricity enterprises."
+      "EngArticleContent": "The terms applied in these regulations are defined as follows:\r\n1. Volume: in circumstances of electricity generation or cogeneration systems, refers to installed capacity of power generation equipment; in circumstances of petroleum refineries and massive energy-consumption users, refers to chartered capacity of electricity consumption and installed capacity of self-usage power generation equipment.\r\n2. Category: refers to coal (metric ton), petroleum (kiloliters of oil equivalent), natural gas (kilo cubic meter) and electricity (megawatt).\r\n3. Location: north district, refers to areas located north of Feng-Shan River and north of He-Ping River; central district, refers to areas located south of Feng-Shan River, north of Cho-Shui River, and Hualien County; south district, refers to areas located south of Cho-Shui River not belonging to north and central district as well as Taitung County; offshore islands, refer to islands where no transmission lines connecting to the grid of the main island of Taiwan.\r\n4. Massive energy-consumption users: manufacture listed in the Standard Industrial Classification System of the Republic of China, excluding petroleum refineries listed in Petroleum Administration Act.\r\n5. Application Period: identified by the planned years of the business operation on the energy utilization manual.\r\n6. Estimated Percent Reserve Margin: refers to the estimated value of percent reserve margin calculated by the following formula and announced by the central competent authority for each of the following 6 years.\r\nEstimated Percent Reserve Margin = (aggregated value of net peaking capability of nationwide power systems) + (aggregated value of net peaking capability of projects which have obtained the preparation approval for electricity enterprise establishment - estimated value of peak load of the electricity systems) / estimated value of peak load of the electricity systems\r\n7. Baseline Value of Percent Reserve Margin: refers to the value of percent reserve margin submitted by electricity enterprises and approved and announced by the central competent authority in accordance with the Electricity Act.\r\n8. Letter of Approval for Electricity Consumption Plan: refers to the letter for the approval of applications of electricity consumption plans issued to the electricity enterprises."
     },
     {
       "EngArticleType": "A",
@@ -64,12 +72,12 @@
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 8",
-      "EngArticleContent": "The applied volume category, and location of petroleum refineries or massive energy-  consumption users shall meet the following rules:\r\n1. Supplying capacity of electricity enterprise listed on the energy utilization manual shall be provided with letter of approval for Electricity Consumption Plan issued by an electricity enterprise and not exceed the approved supplying capacity.\r\n2. Supplying capacity of self-usage power generation equipment listed on the energy utilization manual shall be provided with supporting evidence to explain there is no concern for blackout in the self-usage power generation equipment."
+      "EngArticleContent": "The applied volume category, and location of petroleum refineries or massive energy- consumption users shall meet the following rules:\r\n1. Supplying capacity of electricity enterprise listed on the energy utilization manual shall be provided with letter of approval for Electricity Consumption Plan issued by an electricity enterprise and not exceed the approved supplying capacity.\r\n2. Supplying capacity of self-usage power generation equipment listed on the energy utilization manual shall be provided with supporting evidence to explain there is no concern for blackout in the self-usage power generation equipment."
     },
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 9",
-      "EngArticleContent": "Petroleum refineries or massive energy-consumption users’ efficiency shall meet the following rules of Best available techniques:\r\n1. Utility systems and equipment (as table 1).\r\n2. Processing techniques:\r\n(1) Petroleum refineries or energy users’ processing techniques (as table 3).\r\n(2) Semi-conductor or panel industrial processing techniques (as table 4).\r\nThe preceding section is not applicable in circumstances of being restricted by laws and regulations, patent right protection, international trade barriers, or other factors not attributable to the applicants, given supporting evidence are submitted by the applicants."
+      "EngArticleContent": "Petroleum refineries or massive energy-consumption users’ efficiency shall meet the following rules of Best available techniques:\r\n1. Utility systems and equipment (as table 1).\r\n2. Processing techniques:\r\n(1) Petroleum refineries or energy users’ processing techniques (as table 3).\r\n(2) Semi-conductor or panel industrial processing techniques (as table 4).\r\n(3) Steel industrial processing techniques (as table 5).\r\n(4) Gas industrial processing techniques (as table 6).\r\nThe preceding section is not applicable in circumstances of being restricted by laws and regulations, patent right protection, international trade barriers, or other factors not attributable to the applicants, given supporting evidence are submitted by the applicants."
     },
     {
       "EngArticleType": "A",
