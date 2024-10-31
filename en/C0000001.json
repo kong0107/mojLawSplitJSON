@@ -3,7 +3,7 @@
 	"LawLevel": "法律",
 	"EngLawName": "Criminal Code of the Republic of China",
 	"name": "中華民國刑法",
-	"EngLawModifiedDate": "20231227",
+	"EngLawModifiedDate": "20240731",
 	"histories": [
 		"387 clauses established and published on march 10, 1928 and promulgated on September 1, 1928.\r\n  357 clauses amended and published on January 1, 1935 and promulgated on July 1, 1935",
 		"Amendment to Article 5 promulgated on November 7, 1948",
@@ -56,7 +56,9 @@
 		"Amendment to Article 87、98 promulgated on February 18, 2022",
 		"Amendment to Articles 10,91-1 ; addition of Articles 319-1,319-2, 319-3,319-4,319-5,319-6 and Chapter 28-1 promulgated on February 8,2023",
 		"Amendment to Articles 303,339-4 ; addition of Articles 302-1 promulgated on May 31, 2023",
-		"Amendment to Article 185-3 promulgated on December 27, 2023"
+		"Amendment to Article 185-3 promulgated on December 27, 2023",
+		"Addition of Articles 141-1 and Chapter 5-1 promulgated on June 24,2024",
+		"Amendment to Articles 286 promulgated on July 31,2024"
 	],
 	"divisions": [
 		{
@@ -207,6 +209,13 @@
 					"title": "Offenses of Obstructing an Officer In Discharge of Duties",
 					"start": 13500,
 					"end": 14100
+				},
+				{
+					"type": "chapter",
+					"number": 501,
+					"title": "Offence of Contempt of Congress",
+					"start": 14101,
+					"end": 14101
 				},
 				{
 					"type": "chapter",
@@ -1056,6 +1065,10 @@
 			"content": "A person, who with purpose to insult a public official, damages, removes, or disfigures a proclamation posted in a public place shall be sentenced to short-term imprisonment or a fine of not more than sixty thousand New Taiwan Dollars."
 		},
 		{
+			"number": 14101,
+			"content": "A civil servant who makes false statements on an important matter of relevance known to him at a hearing or questioned in the Legislative Yuan shall be sentenced to imprisonment of not more than one year, short-term detention or a fine of not more than two hundred thousand NT dollars."
+		},
+		{
 			"number": 14200,
 			"content": "A person who by threat, violence, or other illegal means interferes with another in the free exercises of his right to vote at a political election duly authorized by law or in the free exercise of his other voting right shall be sentenced to imprisonment for not more than five years.\r\nAn attempt to commit an offense specified in the preceding paragraph is punishable."
 		},
@@ -1705,7 +1718,7 @@
 		},
 		{
 			"number": 28600,
-			"content": "A person who maltreats a minor under the age of eighteen or impairs the mental or physical health or development thereof by other means shall be sentenced to imprisonment for not less than six months but not more than five years.\r\nA person who intends to make a profit by committing an offense specified in the preceding paragraph shall be sentenced to imprisonment for not less than five years; in addition thereto, a fine of not more than three million dollars may be imposed.\r\nA person who commits the offense specified in paragraph 1 that results in the death of another shall be sentenced to life imprisonment or imprisonment for not less than ten years; in case of resulting in serious physical injury, such person shall be sentenced to imprisonment for not less than five years but not more than twelve years.\r\nA person who commits the offense specified in paragraph 2 that results in the death of another shall be sentenced to life imprisonment or imprisonment for not less than twelve years; in case of resulting in serious physical injury, such person shall be sentenced to imprisonment for not less than ten years."
+			"content": "A person who maltreats a minor under the age of eighteen or impairs the mental or physical health or development thereof by other means shall be sentenced to imprisonment of not less than six months but not more than five years.\r\nA person who intends to make a profit by committing an offense specified in the preceding paragraph shall be sentenced to imprisonment of not less than five years; in addition thereto, a fine of not more than three million NT dollars may be imposed.\r\nA person who commits the offense specified in paragraph 1 that results in the death of another shall be sentenced to life imprisonment or imprisonment of not less than ten years; in case of resulting in serious physical injury, such person shall be sentenced to imprisonment of not less than five years but not more than twelve years.\r\nA person who commits the offense specified in paragraph 2 that results in the death of another shall be sentenced to life imprisonment or imprisonment of not less than twelve years; in case of resulting in serious physical injury, such person shall be sentenced to imprisonment of not less than ten years.\r\nA person who commits an offense specified in the preceding four paragraphs against a person under the age of seven, shall be subject to punishment prescribed for such offense by increasing it up to one half."
 		},
 		{
 			"number": 28700,

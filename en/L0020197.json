@@ -1,47 +1,105 @@
 {
 	"pcode": "L0020197",
 	"LawLevel": "命令",
-	"EngLawName": "Rules of Medical Diagnosis and Treatment by Telecommunications",
+	"EngLawName": "Regulations of Medical Diagnosis and Treatment by Telecommunications",
 	"name": "通訊診察治療辦法",
-	"EngLawModifiedDate": "20180511",
+	"EngLawModifiedDate": "20240122",
 	"attachments": {
-		"0000005137": "Appendix：A List of the Mountain Areas, Outlying Islands, and Remote Areas.pdf"
+		"0000008692": "Appendix： A List of the Mountain Areas, Outlying Islands, and Remote Areas.pdf",
+		"0000008693": "Appendix： A List of the Mountain Areas, Outlying Islands, and Remote Areas.doc"
 	},
 	"histories": [
-		"Promulgated on May 11, 2018"
+		"Promulgated on May 11, 2018",
+		"The full text of 22 articles amended and promulgated on January 22, 2024；Enacted on July 1, 2024."
 	],
 	"articles": [
 		{
 			"number": 100,
-			"content": "The Rules are established under Paragraph 2, Article 11 of the Physicians Act\r\n(hereinafter referred to as the Act)."
+			"content": "The Regulations are established under Paragraph 2, Article 11 of the Physicians Act (hereinafter referred to as “the Act”)."
 		},
 		{
 			"number": 200,
-			"content": "The terms used in the proviso of Paragraph 1, Article 11 of the Act are defined as follows:\r\n1. Mountainous areas, outlying islands, and remote areas: to be specified in the appendix.\r\n2. Special circumstances: circumstances that meet any of the following criteria:\r\n(1) Acute inpatients who according to the discharge service plan, requiring follow-up treatment within three months after being discharged;\r\n(2) Residents of institutional residential long-term care organization holding valid chronic disease refill prescription from the medical care provider whom they have entered into a medical service agreement with and require diagnosis or treatment by the provider's physicians;\r\n(3) Patients in need of integrated care by family physicians that are specified in the Rules and Decrees by either competent authorities or their subordinate agencies;\r\n(4) Participants requiring follow-up treatment within three months after diagnosis and treatment from the responsible medical team and having been earlier qualified by related Rules and Decrees for the tele-care programs approved by competent authorities or their subordinate agencies;\r\n(5) Foreign patients without citizenship and void in the National Health Insurance intending to undergo or having undergone treatment in medical institutions in Taiwan.\r\n3. Urgent circumstances: Any life-threatening conditions or emergencies demanding immediate medical treatment."
+			"content": "The mountainous areas, outlying islands, and remote areas specified in the proviso of Paragraph 1, Article 11 of the Act are shown in the appendix."
 		},
 		{
 			"number": 300,
-			"content": "Items subject to the Rules are as follows:\r\n1. Disease history-taking;\r\n2. Diagnosis;\r\n3. Issuance of prescriptions;\r\n4. Issuance of medical advice;\r\n5. Adjustment of original prescriptions or advice;\r\n6. Health education.\r\nNo prescriptions shall be issued in case of any special circumstances set forth in the second subparagraph of the preceding Article."
+			"content": "The special circumstances specified in the proviso of Paragraph 1, Article 11 of the Act refer to the following situations where a patient requires one of the following diagnosis or medical services (hereinafter referred to as “treatment”):\r\n1. Post-acute care (PAC).\r\n2. Chronic disease care plan enrolled patient.\r\n3. Long-term care services.\r\n4. Family physician care.\r\n5. Home healthcare.\r\n6. End-of-life care.\r\n7. Correctional institution care.\r\n8. Impaired mobility care.\r\n9. Disaster, infectious disease, or other major event care.\r\n10. International medical care."
 		},
 		{
 			"number": 400,
-			"content": "Except for urgent circumstances, the designated physicians in the mountainous areas, outlying islands, and remote areas shall meet any of the following criteria:\r\n1. Physicians at health stations, health rooms, or any public medical institutions in the areas specified in the appendix;\r\n2. Physicians at the medical institutions which take part in medical service quality enhancement in mountain areas and on outlying islands that are specified in the Rules and Decrees of competent authorities or their subordinate agencies;\r\n3. Physicians designated by competent authorities."
+			"content": "As defined in Subparagraph 1 of the preceding Article, Post-acute Care refers to the follow-up treatment and care provided to patients within three months of leaving a hospital or clinic. This care is intended for patients with acute trauma, acute coronary syndrome, acute mental illness, acute stroke, chronic obstructive pulmonary disease, chronic heart failure, postoperative patients, or other patients requiring acute post-hospital care."
 		},
 		{
 			"number": 500,
-			"content": "Any medical institution shall formulate a tele-medicine implementation plan and obtain approval from competent authorities before implementing tele-medicine in special circumstances.\r\nThe implementation plan shall articulate the following items:\r\n1. The medical personnel implementing tele-medicine;\r\n2. The medical treatments to be provided;\r\n3. The subjects to be served;\r\n4. The implementation period;\r\n5. Collaborating medical or long-term care institutions;\r\n6. An informed consent form;\r\n7. Measures of personal information protection and data security;\r\n8. Other matters specified by competent authorities."
+			"content": "Subparagraph 2 of Article 3 defines a Chronic Disease Care Plan Enrolled Patient as an individual formally accepted into a chronic disease care program administered by the competent authority or its affiliated agencies. These patients receive treatment and care tailored to their specific medical needs."
 		},
 		{
 			"number": 600,
-			"content": "Tele-medicine may be implemented by means of land-line or mobile communications, the Internet, and other communication devices or methods that enable communications."
+			"content": "As defined in Subparagraph 3 of Article 3, Long-Term Care Services refer to the treatment and care provided to residents of long-term care facilities, elderly welfare facilities, disability welfare facilities, nursing homes, or other similar institutions that have entered into a medical service contract with medical institutions. These services are specifically designed for residents with dementia, disabilities, or mobility impairments."
 		},
 		{
 			"number": 700,
-			"content": "Medical institutions shall comply with the following rules while implementing telemedicine:\r\n1. Except for urgent circumstances, informed consent of patients shall be obtained in advance.\r\n2. Physicians shall verify the identity of patients; the circumstances set forth in Items 1 to 4 of Subparagraph 2 of Article 2 shall not apply to first-visit patients.\r\n3. Physicians shall implement tele-medicine within the medical institutions and protect the privacy of patients in the course of the implementation.\r\n4. Medical records shall be produced according to Medical Care Act with indication that the diagnosis and treatment are performed by means of telecommunications.\r\n5. Medical records shall comprise, if any with records of nursing personnel,\r\nmidwifery personnel, or other medical personnel’s execution of medical advice by tele-medicine services."
+			"content": "As defined in Subparagraph 4 of Article 3, Family Physician Care refers to the treatment and care provided by a family physician to patients enrolled in the Integrated Family Physician Care Plan administered by the competent authority or its affiliated agencies. These patients meet the criteria for participation in the Improved Medical Benefits Scheme and require treatment and care from their family physician due to their medical condition."
 		},
 		{
 			"number": 800,
-			"content": "The Rules shall come into effect on the date of promulgation."
+			"content": "As defined in Subparagraph 5 of Article 3, Home-Based Medical Care refers to the treatment and care provided to patients within three months of a physician’s visit by the medical team responsible for the Home Care and Integrated Home-Based Medical Care Plan administered by the competent authority or its affiliated agencies. This care is provided when the patient’s medical condition necessitates further treatment and care."
+		},
+		{
+			"number": 900,
+			"content": "As defined in Subparagraph 6 of Article 3, Terminal Care refers to palliative and supportive treatment and care provided to alleviate or eliminate the physical, psychological, and spiritual suffering of patients in the terminal stages of illness."
+		},
+		{
+			"number": 1000,
+			"content": "As defined in Subparagraph 7 of Article 3, Correctional Institution Care  refers to the treatment and care provided to inmates of correctional institutions."
+		},
+		{
+			"number": 1100,
+			"content": "As defined in Subparagraph 8 of Article 3, Impaired Mobility Care for patients refers to the treatment and care provided to patients who have difficulty seeking medical care outside the home due to disability, physical or mental impairment, or serious illness."
+		},
+		{
+			"number": 1200,
+			"content": "As defined in Subparagraph 9 of Article 3, Disaster, Infectious Disease, or Other Major Event Care refers to the treatment and care provided to patients who are unable or have difficulty seeking medical care at medical institutions in the area of residence due to disasters as defined in Paragraph 1 of Article 2 of the Disaster Prevention and Protection Act, infectious diseases as defined in Paragraph 1 of Article 3 of the Communicable Disease Control Act, or other major incidents."
+		},
+		{
+			"number": 1300,
+			"content": "As defined in Subparagraph 10 of Article 3, International Medical Care refers to the consultation, treatment, and care provided to patients who are Taiwanese nationals or non-Taiwanese nationals residing outside of Taiwan."
+		},
+		{
+			"number": 1400,
+			"content": "The urgent situations referred to in the proviso of Paragraph 1 of Article 11 of the Act are as follows:\r\n1. The patient is in a state of imminent danger to life.\r\n2. There is another urgent situation that requires immediate medical attention."
+		},
+		{
+			"number": 1500,
+			"content": "Medical services that can be provided through telemedicine:\r\n1. Disease history-taking;\r\n2. Providing medical consultation.\r\n3. Examination, diagnosis, and medical orders.\r\n4. Issuing orders for tests and examinations.\r\n5. Consultation.\r\n6. Psychiatric therapy.\r\n7. Prescribing medication.\r\n8. Adjusting or instructing on existing prescriptions.\r\n9. Health education.\r\n10. Other items designated by other central competent authorities.\r\nA consultation under Subparagraph 5 of the preceding Paragraph refers to a situation where the treating physician at the patient’s end consults with the treating physician at another medical institution via telemedicine to seek their opinion on the patient’s treatment or to receive prescription advice. The treating physician at the other medical institution may be exempt from obtaining prior approval from the competent authority in their jurisdiction, as per Article 8-2 of the Physicians Act.\r\nPrescriptions issued electronically under Subparagraph 7 of Paragraph 1 must comply with the format prescribed by the competent central authority."
+		},
+		{
+			"number": 1600,
+			"content": "A physician may only issue a prescription to a patient who has undergone telemedicine and meets one of the following conditions:\r\n1. Patients with stable conditions who are returning for follow-up appointments are eligible for prescriptions for items under Subparagraphs 1 to 6 and 8 of Article 3.\r\n2. Patients who are new to the practice or returning for follow-up appointments are eligible for prescriptions for items under Article 2; Subparagraphs 7, 9, and 10 of Article 3; and Article 14.\r\nPrescriptions issued under the preceding paragraph shall not include controlled substances. However, this shall not apply to prescriptions for controlled substances under Article 2, Subparagraph 6 of Article 3, Article 14, and for psychiatric conditions."
+		},
+		{
+			"number": 1700,
+			"content": "Except for urgent circumstances, designated physicians in mountainous areas, outlying islands, and remote areas must meet one of the following criteria:\r\n1. Physicians stationed at health stations, health rooms, or other public medical institutions specified in the appendix.\r\n2. Physicians practicing at medical institutions participating in the enhancement of medical service quality in mountainous areas and outlying islands, as specified in the Rules and Decrees of competent authorities or their subordinate agencies.\r\n3. Other physicians designated by the competent authority of the municipality/city/county."
+		},
+		{
+			"number": 1800,
+			"content": "Medical institutions conducting telemedicine in special circumstances shall prepare a telemedicine implementation plan and obtain prior approval from the competent authority of the municipality/city/county before commencement. For telemedicine activities under Subparagraph 7 of Article 3, consent from the correctional authority is also required.\r\nThe telemedicine implementation plan shall include:\r\n1. Designation of the responsible physician and other medical personnel.\r\n2. Description of the medical treatments to be provided.\r\n3. Specification of the intended recipients.\r\n4. Planned duration of implementation.\r\n5. Collaboration details with other medical institutions, facilities mentioned in Article 6, or correctional institutions.\r\n6. Sample informed consent form for telemedicine.\r\n7. Measures for safeguarding personal information and ensuring data security.\r\n8. Any additional requirements stipulated by competent authorities.\r\nMedical institutions conducting telemedicine may substitute the implementation plan required in Paragraph 1 with documents approved by the competent central authority or its subordinate agencies, as per relevant laws and regulations, and must report this to the competent authority of the municipality/city/county for record.\r\nIn case of any changes to the medical personnel under Subparagraph 1 of Paragraph 2, the medical institution shall promptly report such changes to the competent authority of the municipality/city/county within 30 days."
+		},
+		{
+			"number": 1900,
+			"content": "Telemedicine services may be conducted using telecommunications equipment, electronic communication, the Internet, or other similar information and communication technologies or equipment.\r\nInformation systems used for telemedicine that involve the transmission, exchange, storage, or prescription of medical records, examination, or test results must have personal identity authentication. This authentication must meet the general data transmission encryption mechanism standards set by international standard organizations and comply with the relevant provisions of the Medical Institution's Electronic Medical Record Production and Management Regulations.\r\nMedical institutions may commission institutions, legal persons, groups, or universities to establish and manage telemedicine information systems under the preceding paragraph. The entrusted party shall pass the information security standard certification recognized by the competent central authority; the entrustment shall be made in writing."
+		},
+		{
+			"number": 2000,
+			"content": "When implementing telemedicine, medical institutions shall comply with the following requirements:\r\n1. Obtain informed consent from the subject of telemedicine. However, this requirement does not apply in urgent situations.\r\n2. When conducting telemedicine, the physician shall confirm the patient’s identity. Telemedicine shall not be provided to new patients for the conditions specified in Subparagraphs 1 to 6 and 8 of Article 3.\r\n3. Telemedicine services shall, in principle, be provided in person at the medical institution, and the patient’s privacy shall be ensured.\r\n4. Medical records shall be produced in accordance with the Medical Care Act, indicating that the diagnosis and treatment were performed via telecommunications.\r\n5. When nurses, midwives, or other medical personnel perform telemedicine medical orders, they shall make a record of execution and keep it with the medical record.\r\n6. Comply with any other matters announced by the competent central authority.\r\nIf the patient’s condition is deemed inappropriate for telemedicine, the physician may decide not to conduct it after assessment. In such cases, the physician shall recommend alternative methods of treatment."
+		},
+		{
+			"number": 2100,
+			"content": "For patients who receive telemedicine services under the Regulations and are covered by the National Health Insurance program, their insurance benefits shall be provided in accordance with the National Health Insurance Act and its related regulations."
+		},
+		{
+			"number": 2200,
+			"content": "The Regulations shall enter into force on July 1, 2024."
 		}
 	]
 }
