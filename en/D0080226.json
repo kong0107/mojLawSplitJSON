@@ -1,0 +1,304 @@
+{
+	"pcode": "D0080226",
+	"LawLevel": "法律",
+	"EngLawName": "Fraud Crime Hazard Prevention Act",
+	"name": "詐欺犯罪危害防制條例",
+	"EngLawModifiedDate": "20240731",
+	"histories": [
+		"Enacted and promulgated by President Order Hua Zong 1 Yi Zi No. 11300068891 on Jul. 31, 2024"
+	],
+	"divisions": [
+		{
+			"type": "chapter",
+			"number": 100,
+			"title": "General Provisions",
+			"start": 100,
+			"end": 600
+		},
+		{
+			"type": "chapter",
+			"number": 200,
+			"title": "Mechanism of Fraud Prevention at Source",
+			"start": 700,
+			"end": 4200,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Financial fraud prevention measures",
+					"start": 700,
+					"end": 1300
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Telecom fraud prevention measures",
+					"start": 1400,
+					"end": 2600
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Digital economy fraud prevention measures",
+					"start": 2700,
+					"end": 4200
+				}
+			]
+		},
+		{
+			"type": "chapter",
+			"number": 300,
+			"title": "Source-tracing Fraud Prevention Law Enforcement",
+			"start": 4300,
+			"end": 5000
+		},
+		{
+			"type": "chapter",
+			"number": 400,
+			"title": "Fraud Crime Vctim Protection",
+			"start": 5100,
+			"end": 5500
+		},
+		{
+			"type": "chapter",
+			"number": 500,
+			"title": "Supplementary Provisions",
+			"start": 5600,
+			"end": 5800
+		}
+	],
+	"articles": [
+		{
+			"number": 100,
+			"content": "This Act is established to prevent and combat fraud hazards, prevent and stop fraud crimes through the inappropriate use of finance, telecom, and Internet, and protect the rights and interests of victims and citizens."
+		},
+		{
+			"number": 200,
+			"content": "The terms used in this Act are defined as follows:\r\n1.Fraud crime: Refers to the following offenses:\r\n(1) Offenses under Article 339-4 of the Criminal Code.\r\n(2) Offenses under Article 43 or Article 44 of the Criminal Code.\r\n(3) Other crimes related to the preceding two items that are adjudicated based on a single crime.\r\n2.Financial institutions: Institutions specified in paragraph 1, Article 5 of the Money Laundering Control Act.\r\n3.Businesses or personnel providing virtual asset services: Refer to businesses or personnel providing virtual asset services specified in paragraph 4, Article 5 of the Money Laundering Control Act.\r\n4.Telecom business: Refer to telecom businesses specified in subparagraph 1, paragraph 1, Article 3 of the Telecommunications Management Act.\r\n5.Online advertisement platform operators: Refer to the final online advertisement platform operators that provide services to post or disseminate advertisements, collect considerations, and have contact with citizens through online platforms or spaces.\r\n6.Third-party payment service providers: Refer to electronic payment institutions not governed by The Act Governing Electronic Payment Institutions, which provide online transaction payment collection services.\r\n7.E-commerce companies: Refer to companies that mainly engage in product retail via the Internet or operate online platforms that allow others to retail products.\r\n8.Online Gaming operators: Refer to entities that operate online gaming services and publishers who publish online game points exclusively for exchanging online game services or products."
+		},
+		{
+			"number": 300,
+			"content": "The competent authority in this Act refers to the Ministry of the Interior at the central level; municipal governments at the municipality level; the county (city) governments at the county (city) level.\r\nThe competent authority and the target business competent authorities authority shall proactively plan for necessary preventive and promoting measures for matters specified in this Act and the requirements for preventing fraud crimes, fully cooperate with prevention work involving relevant authorities, and otherwise perform the following matters:\r\n1. Competent central authority: Research, plan, establish, and interpret policies, regulations, and programs for fraud crime prevention; oversee other related matters.\r\n2. Competent financial authority: Plan, promote, implement, and supervise financial management measures related to fraud crime prevention.\r\n3. Competent telecom authority: Plan, promote, implement, and supervise telecom management measures related to fraud crime prevention.\r\n4. Competent authority for industries related to the digital economy: Plan, promote, implement, and supervise management measures related to online advertisement platforms, third-party payment services, e-commerce, and online gaming in the context of fraud crime prevention.\r\n5. Competent legal affairs authority: Deal with investigations, enforcement, recidivism prevention of fraud crimes, victim protection, and other criminal- justice-related matters.\r\n6. Other fraud crime prevention work shall be organized by relevant target business competent authorities based on their respective jurisdictions.\r\nIf matters in the preceding subparagraphs involve the responsibilities or operations of different authorities (institutions), governmental agencies (institutions) at all levels shall cooperate accordingly."
+		},
+		{
+			"number": 400,
+			"content": "Competent authorities and relevant target business ompetent authorities may promote the following initiatives through subsidies, rewards, or consultations:\r\n1. Fraud prevention education and awareness campaigns.\r\n2. Technical guidance on fraud prevention.\r\n3. Facilitation of  cooperation between industries and academic and research institutions for fraud prevention.\r\n4. Encouragement of the investment in the cultivation of fraud prevention talent.\r\n5. Enhancement of resources for fraud prevention personnel.\r\n6. Encouragement or assistance in the use of appropriate technologies or emerging technologies to develop and reinforce fraud prevention measures.\r\n7. Other initiatives facilitating fraud prevention and relevant research and development.\r\nRegulations for targets of the subsidies, rewards, and consultation in the preceding paragraph, including qualification and conditions, review standards, application procedures, approval agencies, and other relevant matters shall be established by the competent authority and the target business competent authorities."
+		},
+		{
+			"number": 500,
+			"content": "The competent authority and the target business competent authorities shall work with industries or civil groups to actively conduct the prevention, detection, protection, and other related activities against fraud crimes, as well as engage in various cooperation initiatives with governments of different countries or international non-governmental organizations."
+		},
+		{
+			"number": 600,
+			"content": "The competent authority, the target business competent authorities, and the entities mentioned in subparagraphs 2 to 8 in Article 2 shall regularly conduct education and training to enhance their personnel’s awareness of fraud crime prevention."
+		},
+		{
+			"number": 700,
+			"content": "Financial institutions and businesses or personnel providing virtual asset services shall adopt reasonable measures to prevent deposit accounts, electronic payment accounts, credit cards, and virtual asset accounts from being used in fraud crimes and shall promote information on fraud prevention to customers."
+		},
+		{
+			"number": 800,
+			"content": "Financial institutions and businesses or personnel providing virtual asset services shall exercise the obligation of due care of a good administrator for deposit accounts, electronic payment accounts, and credit cards, and virtual asset accounts. Regarding abnormal deposit accounts, electronic payment accounts, credit cards, or virtual asset accounts that are suspected of being involved in fraud crimes, they shall enhance the authentication of customers and may adopt continual review of customers, suspension of deposits , withdrawals, or outward remittance of funds or virtual assets, suspension of the entire or partial transaction functions, credit card control and suspension of credit card account transaction functions, refusal of establishing business relationships, service provision, and other control measures.\r\nWhen implementing operations stated in the latter part of the preceding paragraph, financial institutions and businesses or personnel providing virtual asset services may notify peers, who are required to provide relevant information.\r\nThe central competent financial authority shall establish regulations regarding the criteria for identifying abnormal deposit accounts, electronic payment accounts, credit cards, or virtual asset accounts suspected of fraud, as well as the procedures and items for notification, operational protocols, and other compliance matters.."
+		},
+		{
+			"number": 900,
+			"content": "When making arrangements according to the latter part of paragraph 1 of the preceding Article, financial institutions and businesses or personnel providing virtual asset services shall keep the data obtained from the customer authentication procedures and transaction records and may report to the judiciary police department. After the judiciary police department receives the report, it shall notify financial institutions and businesses or personnel providing virtual asset services to carry out the subsequent control or cancel the control over the abnormal accounts, credit cards, or virtual asset accounts within a reasonable timeframe.\r\nThe data and transaction records retained in accordance with the preceding paragraph shall be kept for at least five years or a longer period as otherwise required by law, from the termination of business relationships.\r\nThe central competent financial authority shall coordinate with the central competent authorities and competent legal affairs authority to discuss and establish the regulations for the scope of the preserved data and transaction records in the first paragraph, the methods to report to the judiciary police department, the subsequent control, control cancelation and other compliance matters of abnormal accounts, credit cards, or virtual asset accounts."
+		},
+		{
+			"number": 1000,
+			"content": "Financial institutions and businesses or personnel providing virtual asset services shall cooperate with the judiciary police department to form a joint defense reporting system. When receiving the reports from the judiciary police department, the receiving banks and businesses or personnel providing virtual asset services shall earmark and continue to monitor the reported funds or virtual assets and make arrangements according to paragraph 1, Article 8.\r\nAfter carrying out the report in the preceding paragraph, the judiciary police department shall investigate within a reasonable timeframe and notify financial institutions and businesses or personnel providing virtual asset services to carry out subsequent alerting operations or control cancelation.\r\nThe central competent financial authority shall coordinate the central competent authorities and competent legal affairs authority to establish the regulations for the reporting system, earmarking of funds or virtual assets, operational procedures, subsequent aler operations, control cancelation, and other compliance matters."
+		},
+		{
+			"number": 1100,
+			"content": "When there are funds or virtual assets remitted (transferred) by victims in the accounts or account numbers suspended of all transaction functions that are not withdrawn as notified by the judiciary police department, financial institutions and businesses or personnel providing virtual asset services may return the remaining funds or virtual assets based on the notice of the initial notifying institution according to the latter part of paragraph 1 of Article 9.\r\nThe central competent financial authority shall coordinate the central competent authorities and competent legal affairs authority to establish the regulations for the conditions, methods, procedures, and other compliance matters regarding the return of the remaining funds or virtual assets in the accounts or account numbers."
+		},
+		{
+			"number": 1200,
+			"content": "Financial institutions and businesses or personnel providing virtual asset services are exempted from their confidentiality obligations  when implementing fraud prevention measures stated in this Act. This exemption also applies to the responsible persons, directors, managers, and employees of the institutions or businesses.\r\nFinancial institutions and businesses or personnel providing virtual asset services are exempted from the compensation responsibility when causing damages to customers or third parties due to the implementation of fraud prevention measures stated in this Act or arrangements made in cooperation with the judiciary police department and the target business competent authorities."
+		},
+		{
+			"number": 1300,
+			"content": "If any of the following circumstances occur to financial institutions and businesses or personnel providing virtual asset services, the central competent authority may impose a fine of more than NT$0.2 million but less than NT$2 million and order them to make correction within a prescribed period; those who fail to make correction within the prescribed period, penalties shall be imposed per violation:\r\n1. Failing to provide relevant information to the notifying party in violation of paragraph 2 of Article 8.\r\n2. Failing to preserve data or transaction records in violation of paragraph 1 of Article 9.\r\n3. Failing to preserve data or transaction records as required in violation of paragraph 2 of Article 9.\r\n4. Failing to cooperate in forming a joint defense reporting system or fail to earmark and continuously monitor reported funds or virtual assets in violation of paragraph 1 of Article 10.\r\nIf any of the circumstances in the subparagraphs of the preceding paragraph that occur to financial institutions and businesses or personnel providing virtual asset services are severe, the central competent authority may impose a fine of more than NT$1 million but less than NT$10 million and order them to make correction within a prescribed period; those who fail to make correction within the prescribed period, penalties shall be imposed per violation."
+		},
+		{
+			"number": 1400,
+			"content": "Telecom businesses shall adopt reasonable measures to prevent their telecom services from being used in fraud crimes and shall promote information on fraud prevention to their users.\r\nUpon notification from the competent telecom authority or judicial police regarding suspected fraudulent use of telecom services , telecom businesses shall, if technically feasible, adopt appropriate preventive, restrictive, reporting, or other reasonable measures to prevent users from encountering fraud information.\r\nTelecom businesses and their practitioners are exempted from their confidentiality obligations when implementing fraud prevention measures stated in this Act.\r\nTelecom businesses are exempted from the compensation responsibility when causing damages to customers or third parties due to the implementation of fraud prevention measures stated in this Act or arrangements made in cooperation with the judiciary police department and the target business competent authorities."
+		},
+		{
+			"number": 1500,
+			"content": "Applicants for telecom services must present their ID documents.\r\nWhen- an agent is authorized to apply for telecom services, the agent must present both their ID documents and an authorization certificate other than the ID documents mentioned in the preceding paragraph.\r\nBefore entering into telecom service contracts with users, telecom businesses must verify and register the documents provided by  the applicant or the agent in accordance with the preceding two paragraphs."
+		},
+		{
+			"number": 1600,
+			"content": "Users shall reapply for verification and registration with telecom businesses when transferring telecom services to others according to the preceding article. However, this shall not be limited to users providing telecom services for personal household use or internal activities of corporate customers.\r\nFor users who fail to complete the re-verification and registration with telecom businesses according to the preceding paragraph, telecom businesses shall restrict or suspend the provision of relevant telecom services."
+		},
+		{
+			"number": 1700,
+			"content": "Upon notification from the competent telecom authority or judicial police regarding users suspected of engaging in fraudulent activities, telecom businesses shall re-verify and register the users' information within a prescribed period.\r\nFor users who fail to cooperate with the re-verification and registration by telecom businesses or inconsistency found upon verification, telecom businesses shall restrict or suspend the provision of such telecom services."
+		},
+		{
+			"number": 1800,
+			"content": "Upon notification from the competent telecom authority or judicial police regarding users engaging in fraudulent activities, telecom businesses shall restrict or suspend the provision of such telecom services.\r\nFor restricted or suspended telecom services according to the preceding paragraph, telecom businesses shall re-verify and register user data regarding other telecom services applied by such users within a prescribed period. For users who fail to cooperate with telecom businesses in the re-verification and registration by telecom businesses or those who do not match with him/herself upon verification, telecom businesses shall restrict or suspend the provision of other telecom services to such users.\r\nAfter the competent telecom authority or judiciary police department notifies of the elimination of the reasons for the restricted or suspended provision of telecom services mentioned in paragraph 1, telecom businesses may resume the services for users."
+		},
+		{
+			"number": 1900,
+			"content": "Telecom businesses shall verify users’ identity with the assistance of the database designated by the competent telecom authority when accepting the application of telecom services. This requirement also applies when the competent telecom authority or judiciary police department notifies of the requirement for re-verification due to the suspected fraud when telecom businesses provide telecom services.\r\nThe database mentioned in the preceding paragraph shall be designated by the competent telecom authority following consultations with the competent central authority.\r\nRegulations and operating procedures for the inquiries related to the verification of user identity with the assistance of the database mentioned in paragraph 1 by telecom businesses, the regular inquiry frequency mentioned in paragraph 2 of Article 20 and paragraph 1 of Article 22, and other relevant matters shall be established by the competent telecom authority.\r\nWhen collecting, processing, and using data in the database specified in paragraph 1, telecom businesses shall comply with the Personal Data Protection Act, shall not exceed the necessary scope for verification purposes, and shall ensure the confidentiality obligations of practitioners."
+		},
+		{
+			"number": 2000,
+			"content": "Before providing the entire or partial international roaming services to offshore high-risk telecom businesses, telecom businesses, if technically feasible, shall verify the passport numbers and names of personnel using telecom based on the database specified in paragraph 1 of the preceding Article. No international roaming services may be provided if users are verified as lacking entry data. However, services may be offered if users present identification documents at the telecom counter for verification and registration..\r\nAfter providing telecom services mentioned in the preceding paragraph, telecom businesses shall regularly check whether such personnel using telecom leave the country or overstay by connecting to the database specified in paragraph 1.\r\nAfter providing telecom services mentioned in paragraph 1, if telecom businesses discover that personnel using telecom have untrue data, abnormal using behaviors, or leave the country or overstay based on the inquiries in the preceding paragraph, telecom businesses shall restrict or suspend the provision of such telecom services.\r\nThe scope of offshore high-risk telecom businesses and the entire or partial international roaming services mentioned in paragraph 1 shall be announced following consultations between the competent telecom authority and the central competent authority.\r\nThe competent telecom authority shall regularly examine the scope of offshore high-risk telecom businesses and the entire or partial international roaming services as announced in the preceding paragraph and make timely adjustments."
+		},
+		{
+			"number": 2100,
+			"content": "When entering into international roaming service agreements with offshore telecom businesses, telecom businesses shall comply with the principles of equality and mutual benefits and relevant requirements of laws and regulations in Taiwan.\r\nAfter the competent telecom authority or judiciary police department notifies of the suspected violation of laws and regulations in Taiwan of particular telecom services provided by particular offshore telecom businesses, telecom businesses may not provide international roaming services of particular numbers or number sections for the particular user numbers of particular telecom services or the International Mobile Subscriber Identity (IMSI)."
+		},
+		{
+			"number": 2200,
+			"content": "During the period providing prepaid card services to non-Taiwanese users, telecom businesses shall check whether such users leave the country or overstay by connecting to the database specified in paragraph 1 of Article 19.\r\nIf it is discover that users have left the country or overstayed based on the inquiries in accordance with the preceding paragraph, telecom businesses shall restrict or suspend their prepaid card services.\r\nIf non-Taiwanese users mentioned in the preceding paragraph re-enter during the valid period of prepaid card services, after applying for the verification and registration of users’ identity with telecom businesses, telecom businesses may continue to provide the initial telecom services."
+		},
+		{
+			"number": 2300,
+			"content": "Users whose telecom services have been restricted or suspended by telecom businesses according to paragraph 2 of Article 17 or paragraph 1 of Article 18, when re-applying with telecom services with the same telecom businesses, shall be limited to applying for only one user number or one telecom service with the same enterprise  within three years from the date of the restriction or suspension notification. However, if users have other user numbers or telecom services provided by such telecom businesses, telecom businesses may not accept their applications within three years from the date of the restriction or suspension notification.\r\nFor corporations, non-corporation groups, and trade names notified of the restriction or suspension of telecom services by judiciary police department that used to use or provide telecom services for fraud, if their representatives apply for telecom services with the same telecom businesses in the name of different corporations, non-corporation groups, or trade names, such telecom businesses shall impose the restrictions of applying for up to one user number or one telecom service within three years from the date of the restriction or suspension notification. However, if the corporations, non-corporation groups, or trade names have other user numbers or telecom services provided by such telecom businesses, telecom businesses may not accept their applications within three years from the date of the restriction or suspension notification.\r\nAfter being notified by the judiciary police department of users with records of restricted or suspended provision of telecom services by other telecom businesses for certain times, telecom businesses shall list them as high-risk users and impose the restrictions of applying for up to one user number or one telecom service within three years from the date of notification. However, if such users have other user numbers or telecom services provided by such telecom businesses, telecom businesses may not accept their applications within three years from the date of notification .\r\nThe certain times in the preceding paragraph shall be announced by the competent telecom authority after consultation with the central competent authority."
+		},
+		{
+			"number": 2400,
+			"content": "If any of the circumstances occur to telecom businesses, the competent telecom authority may impose a fine of more than NT$0.2 million but less than NT$5 million and order them to make corrections within a prescribed period; those who fail to make corrections within the prescribed period, penalties shall be imposed per violation:\r\n1. Failure to verify users’ identity with the assistance of the designated database in violation of paragraph 1 of Article 19.\r\n2. Violation the requirements related to database inquiry operating procedures in the regulations stated in paragraph 3 of Article 19.\r\n3. Failure to verify whether the personnel using telecom have any entrance data by using the database specified in paragraph 1 of Article 19 before providing international roaming services or provide international roaming services after verifying that personnel using telecom have no entrance data in violation of the requirements stated in paragraph 1 of Article 20.\r\n4. Failure to regularly check whether personnel using telecom leave the country or overstay in violation of paragraph 2 of Article 20 or fail to restrict or suspend the provision of international roaming services to personnel using telecom in violation of paragraph 3 of the same article.\r\n5. Failure to regularly check whether non-Taiwanese users leave the country or overstay or over-reside in violation of paragraph 1 of Article 22 or fail to restrict or suspend the provision of prepaid card services to non-Taiwanese users who left the country or overstayed in violation of paragraph 2 of the same article.\r\nIf any of the circumstances in the subparagraphs of the preceding paragraph that occur to telecom businesses are severe, the competent telecom authority may impose a fine of more than NT$1 million but less than NT$20 million and order them to make correction within a prescribed period; those who fail to make correction within the prescribed period, penalties shall be imposed per violation. When necessary, the approved distribution of user number volume within a certain period may be restricted."
+		},
+		{
+			"number": 2500,
+			"content": "If any of the following circumstances occur to telecom businesses, the competent telecom authority may impose a fine of more than NT$0.1 million but less than NT$2 million and order them to make corrections within a prescribed period; those who fail to make corrections within the prescribed period, penalties shall be imposed per violation:\r\n1. Failure to verify the consistency between documents and applicants or agents mentioned in paragraphs 1 or 2 of Article 15 in violation of paragraph 3 of the same article.\r\n2. Intentional Failure to restrict or suspend the provision of relevant telecom services to users in violation of paragraph 2 of Article 16.\r\n3.Failure to re-verify or register-user data within the prescribed period in violation of paragraph 1 of Article 17.\r\n4. Failure to restrict or suspend the provision of such telecom services to users in violation of paragraph 2 of Article 17.\r\n5. Failure to restrict or suspend the provision of such telecom services to users in violation of paragraph 1 of Article 18.\r\n6. Failure to re-verify or register user data within the prescribed period in violation of the former part of paragraph 2 of Article 18.\r\n7. Failure to restrict or suspend the provision of other telecom services to users in violation of the latter part of paragraph 2 of Article 18.\r\n8. Providing users, such different corporations, non-corporation groups, trade names, or high-risk users with over one user number or one telecom service within three years from the date of the restriction or suspension notification in violation of the requirements stated in paragraphs 1, 2, or 3 of Article 23.\r\n9. Providing users, such different corporations, non-corporation groups, trade names, or high-risk users with other user numbers or telecom services within three years from the date of the restriction or suspension notification in violation of the requirements under the qualifying clauses stated in paragraphs 1, 2, or 3 of Article 23.\r\nIf any of the circumstances in the subparagraphs of the preceding paragraph that occur to telecom businesses are severe, the competent telecom authority may impose a fine of more than NT$0.5 million but less than NT$10 million and order them to make corrections within a prescribed period; those who fail to make correction within the prescribed period, penalties shall be imposed per violation. When necessary, the approved distribution of user number volume within a certain period may be restricted."
+		},
+		{
+			"number": 2600,
+			"content": "For those who disagree with the administrative penalties made by the competent telecom authority based on this Act, the administrative litigation procedures are directly applicable."
+		},
+		{
+			"number": 2700,
+			"content": "Requirements of this Act apply to online advertisement companies that use the Internet to provide online advertisement services within the Republic of China (R.O.C.) and have a certain scale.\r\nThe calculation standards for a certain scale in the preceding paragraph shall be established by the competent authority for industries related to the digital economy.\r\nThe competent authority for industries related to the digital economy shall announce the list of companies that comply with a certain scale based on the calculation standards stated in the preceding paragraph and regularly examine it and make timely adjustments."
+		},
+		{
+			"number": 2800,
+			"content": "Online advertisement platform operators shall publicly disclose the following information through appropriate methods:\r\n1. Name or title of the company, representative, and legal representative mentioned in paragraph 1 of Article 29.\r\n2. Address, telephone, e-mail, and other fast and direct communication and contact methods of the office or business venue.\r\n3.Other information that shall be publicly disclosed by law."
+		},
+		{
+			"number": 2900,
+			"content": "If online advertisement platform operators and their representatives do not have a business venue or residence in the R.O.C. and have not established branches, the online advertisement platform operators shall designate a Taiwanese national, legally registered corporation, or a non-corporation group with a representative or manager in the R.O.C. as their legal representative in writing and report the name, title, domicile, office or business venue, telephone, and e-mail of the legal representative to the competent authority for industries related to the digital economy.\r\nIf licenses are required for business activities, operations, or investment of online advertisement platform operators in the preceding paragraph according to other laws, such licenses shall be obtained before reporting the legal representative.\r\nOnline advertisement platform operators shall grant necessary permission and resources to the legal representative mentioned in paragraph 1 to implement the following matters:\r\n1. Act as the recipient designated by the online advertisement platform company.\r\n2. Inform and assist the online advertisement platform company in complying with legal requirements for fraud prevention measures.\r\n3.Other compliance tasks related to this Act and its relevant laws and regulations, as commissioned by the online advertisement platform company.\r\nIf any of the following circumstances occur to online advertisement platform operators, the competent authority for industries related to the digital economy may announce their names through appropriate methods:\r\n1. Failure to designate and report the legal representative according to paragraph 1.\r\n2. The legal representative neglects their duty to inform and assist as specified in subparagraph 2 of the preceding paragraph.\r\nFor online advertisement platform operators that fail to designate and report the legal representative according to paragraph 1, the competent authority for industries related to the digital economy shall notify them to rectify the situation within a prescribed period."
+		},
+		{
+			"number": 3000,
+			"content": "Advertisements published or broadcast on online advertisement platforms may not include content involving fraud.\r\nOnline advertisement platform operators shall establish the following management measures:\r\n1. For online advertising services, the identity of persons commissioning the publishing and broadcasting and the capital contributor shall be verified through digital signature, rapid authentication system, or other technologies or methods with equivalent safety.\r\n2. Carry out analysis and assessment for the risk of online advertising services being used for fraud crimes to establish a legal, necessary, and effective fraud prevention plan for fraud prevention, detection, identification, and response and publish a fraud prevention transparency report annually.\r\nThe fraud prevention plan outlined in subparagraph 2 of the preceding paragraph should establish a risk management system for fraud prevention based on  the patterns of suspected advertisements published by the competent authority for industries related to the digital economy, the target business competent authorities, or industry associations and adopt necessary reinforced management measures for high-risk business relationships.\r\nThe applicable technologies or methods in subparagraph 1 of paragraph 2 and the format and content of the fraud prevention plan and the transparency report in subparagraph 2 shall be announced by the competent authority for industries related to the digital economy."
+		},
+		{
+			"number": 3100,
+			"content": "When publishing or broadcast ing advertisements on the platforms, online advertisement platform operators shall disclose the following information in the advertisements:\r\n1. A label indicating it  as an advertisement.\r\n2. Information related to personnel commissioning the publishing and broadcasting and investors.\r\n3.The license number of the advertisement that are legally required to have one.\r\n4. Whether the advertisement uses deep fake technologies or AI-generated individual images.\r\nIf the online advertisement platform company has verified the identity of personnel commissioning the publishing and broadcasting and the investors according to subparagraph 1, paragraph 2 of the preceding article and if neither are categorized as high-risk business relationships stated in paragraph 3 of the preceding article, the information to be disclosed for the advertisement in the preceding paragraph may be simplified.\r\nThe personnel commissioning the publishing and broadcasting specified in subparagraph 2 of paragraph 1 refer to corporations, non-corporation groups, or individuals who engage in or commission others for the design, production, and publication of advertisements to promote products or provide services.\r\nThe deep fake technologies specified in subparagraph 4 of paragraph 1 referred to the technical exhibiting forms through computerized or other technological means, leading others to be misled into believing it is genuine..\r\nThe regulations for information disclosure standards, simplification methods, operating procedures, and other relevant matters stated in paragraphs 1 and 2 shall be established by the competent authority for industries related to the digital economy."
+		},
+		{
+			"number": 3200,
+			"content": "Online advertisement platform operators who are aware that the advertisements they publish or broadcast are fraudulent or significantly involve fraud shall act according to the following provisions:\r\n1. Actively remove, restrict browsing, stop broadcasting such advertisements or adopt other necessary actions  within the period notified by the judiciary police department, the competent authority for industries related to the digital economy, or the target business competent authorities and provide the information of the personnel commissioning the publishing and broadcasting, the investors, the network communication software accounts and telecom number in the advertisements that are suspected of involving fraud, and other relevant information to the judiciary police department.\r\n2. For users who publish and broadcast fraudulent advertisements or those significantly involving fraud or users notified by the judiciary police department as accounts significantly involving fraud, the platform operator shall suspend the service provision  for a reasonable period.\r\nOnline advertisement platform operators who violate the requirements in the preceding paragraph shall bear joint responsibility for damage compensation together with personnel commissioning the publishing and broadcasting of the advertisements and the investors for any harm caused to individuals who were misled by the content of the advertisements.\r\nOnline advertisement platform operators shall adhere to the principles of objectiveness, dedication, and timeliness when determining suspensions of services according to subparagraph 2 of paragraph 1.\r\nThe notification period stated in subparagraph 1 of paragraph 1 shall be announced by the competent authority for industries related to the digital economy."
+		},
+		{
+			"number": 3300,
+			"content": "When target business competent authorities or judiciary police department notify online advertisement platform operators that the content published or broadcast on their platforms is suspected of being related to fraud, the operators shall take the initiative to restrict access and browsing or remove the relevant content."
+		},
+		{
+			"number": 3400,
+			"content": "Third-party payment service providers shall exercise the obligations of care as a good administrator. For customers suspected of involving in fraud crimes, the providers shall enhance identity verification processes and may implement measures such as ongoing identity reviews, postponed appropriation, refusal to establish business relationships, or providing services.\r\nWhen third-party payment service providers implement the operations in the latter part of the preceding paragraph, they may use the joint defense system to notify industry peers.\r\nThe standards for identifying customers suspected of involvement in fraud, notification procedures, and items, operational processes, and other matters shall be established by the competent authority for industries related to the digital economy."
+		},
+		{
+			"number": 3500,
+			"content": "When third-party payment service providers act according to the latter part of paragraph 1 of the preceding article, they shall keep the data obtained from identity verification procedures and transaction records and may report to the judiciary police department. After the judiciary police department receives the report, it shall notify the third-party payment service providers within a reasonable timeframe to carry out the subsequent control or cancel the control over the postponed appropriation mentioned in the latter part of paragraph 1 of the preceding article.\r\nThe data and transaction records in the preceding paragraph shall be kept for at least five years from the termination of business relationships. However, if other laws stipulate longer retention periods, those regulations shall prevail.\r\nThe competent authority for industries related to the digital economy shall coordinate the central competent authorities and competent legal affairs authority to establish the regulations regarding the scope of the preserved data and transaction records specified in paragraph 1, the methods for reporting to the judiciary police department, the subsequent control and control cancelation of postponed appropriation."
+		},
+		{
+			"number": 3600,
+			"content": "E-commerce companies and online gaming companies shall exercise the obligation of care as a good administrator to prevent their services from being used in fraud crimes and may adopt information used to promote fraud prevention to users and other reasonable measures.\r\nWhen e-commerce companies and online gaming companies implement the reasonable measures in the preceding paragraph, they may use the joint defense system to notify peers to adopt reasonable measures such as informing users about fraud prevention.\r\nWhen the judiciary police department or the target business competent authorities notify e-commerce companies and online gaming companies of the suspected involvement of fraud crime of their services, they shall cooperate with the judiciary police department or the target business competent authorities and suspend the service provision for user accounts that involve in fraud crimes for a reasonable period."
+		},
+		{
+			"number": 3700,
+			"content": "Online advertisement platform operators, e-commerce companies, and online gaming companies shall adopt feasible technologies to keep the digital evidence, documents, images, articles, user registration data and identity verification procedures, connection records, transaction records, or other relevant data that are sufficient for building users and individual transactions for a reasonable period. However, if other laws stipulate longer preservation periods, those provisions shall prevail.\r\nCourts, prosecutor's offices, or the judiciary police department may request online advertisement platform operators, e-commerce companies, and online gaming companies to provide access to relevant data in the preceding paragraph. Such companies shall provide the data within three days from the day receiving the access notice and keep such data for six months to facilitate investigations by the judiciary police department. If litigation occurs, the data preservation period shall be extended to three months after the the final judgment."
+		},
+		{
+			"number": 3800,
+			"content": "Online advertisement platform operators, third-party payment service providers, telecom companies, and online gaming companies are exempted from their confidentiality obligations when implementing fraud prevention measures stated in this Act. The same shall apply to the responsible persons, directors, managers, and employees of the institutions or businesses.\r\nOnline advertisement platform operators, third-party payment service providers, telecom companies, and online gaming companies are exempted from the compensation responsibility when causing damages to customers or third parties due to the implementation of fraud prevention measures stated in this Act or arrangements made in cooperation with the judiciary police department and the target business competent authorities."
+		},
+		{
+			"number": 3900,
+			"content": "If any of the following circumstances occur to online advertisement platform operators, the competent authority for industries related to the digital economy may impose a fine of more than NT$0.5 million but less than NT$10 million and order them to make corrections within a prescribed period; those who fail to make corrections within the prescribed period, penalties shall be imposed per violation:\r\n1. Failure to designate and report the legal representative in violation of paragraph 1 of Article 29 and failure to rectify after being notified of supplementation within a prescribed period according to paragraph 5 of the same article.\r\n2. The legal representative neglecting their informing or assisting obligations in violation of subparagraph 2, paragraph 3 of Article 29.\r\n3.Failure to remove, restrict browsing, stop broadcasting such advertisements, or take other necessary actions within the timeframe as notified by the judiciary police department, the competent authority for industries related to the digital economy, or the target business competent authorities in violation of subparagraph 1, paragraph 1 of Article 32.\r\n4. Failure to suspend the service provision within a reasonable timeframe as notified by the judiciary police department in violation of subparagraph 2, paragraph 1 of Article 32.\r\nFor serious violations as described in subparagraph 1 of the preceding paragraph, the competent authority for industries related to the digital economy may impose a fine of more than NT$2.5 million but less than NT$100 million and order them to make corrections within a prescribed period; those who fail to make correction within the prescribed period, penalties shall be imposed per violation. The competent authority for industries related to the digital economy may also convene expert advisory meetings to order Internet access service providers to suspend analysis or restrict access.\r\nFor serious violations in subparagraphs 2 to 4 of paragraph 1, the competent authority for industries related to the digital economy may impose a fine of more than NT$2.5 million but less than NT$100 million and order them to make corrections within a prescribed period; those who fail to make corrections within the prescribed period, penalties shall be imposed per violation. The competent authority for industries related to the digital economy may also convene expert advisory meetings to order Internet access service providers or fast access service providers to adopt appropriate traffic management measures. Continued non-compliance may lead to suspension of resolution or other necessary actions.\r\nRegulations for the recognition standards of severe in the two preceding paragraphs, the adoption of appropriate flow management measures, the determination standards for analysis suspension and access restriction, the composition of expert review meetings, missions, and other compliance matters shall be established by the competent authority for industries related to the digital economy.\r\nInternet access service providers or fast access service providers are exempted from the compensation responsibility for damages to users or third parties when adopting traffic management measures, analysis suspension, or access restriction according to paragraphs 2 and 3."
+		},
+		{
+			"number": 4000,
+			"content": "If any of the following circumstances occur, the competent authority for industries related to the digital economy may impose a fine of more than NT$0.2 million but less than NT$5 million and order them to make corrections within a prescribed period; those who fail to make corrections within the prescribed period, penalties shall be imposed per violation:\r\n1. Failure to disclose information or disclosing insufficient information in violation of Article 28.\r\n2. Failure to verify the identity of personnel commissioning the publishing and broadcasting or investors in violation of subparagraph 1, paragraph 2 of Article 30.\r\n3.Failure to establish a prevention plan or failure to publish a fraud prevention transparency report in violation of subparagraph 2, paragraph 2 of Article 30.\r\n4. Failure to disclose information during the publication or promotion of advertisements in violation of paragraph 1 of Article 31.\r\n5. Failure to provide the information of personnel commissioning the publishing and broadcasting of such advertisements and investors, the network communication software accounts and telecom number in the advertisements that are suspected of involving fraud, and other relevant information to the judiciary police department in violation of subparagraph 1, paragraph 1 of Article 32\r\n6. Failure to adopt appropriate traffic management measures, analysis suspension, or access restrictions, in violation of the order imposed by the competent authority for industries related to the digital economy according to paragraph 2 or paragraph 3 in the preceding article.\r\nIf any of the circumstances in subparagraphs in the preceding paragraph that occur are deemed serious, the competent authority for industries related to the digital economy may impose a fine of more than NT$1 million but less than NT$25 million and order them to make corrections within a prescribed period; those who fail to make corrections within the prescribed period, penalties shall be imposed per violation."
+		},
+		{
+			"number": 4100,
+			"content": "If any of the following circumstances occur, the competent authority for industries related to the digital economy may impose a fine of more than NT$0.1 million but less than NT$2 million and order them to make corrections within a prescribed period; those who fail to make corrections within the prescribed period, penalties shall be imposed per violation:\r\n1. Failure to preserve data or transaction records in violation of paragraph 1 of Article 35.\r\n2. Failure to preserve data or transaction records for the required period in violation of paragraph 2 of Article 35.\r\n3.Failure to suspend the service provision for user accounts involved in fraud crimes during the reasonable period in violation of paragraph 3 of Article 36.\r\n4. Failure to comply with the access requests for data in violation of paragraph 2 of Article 37.\r\nIf any of the circumstances in subparagraphs in the preceding paragraph are deemed serious, the competent authority for industries related to the digital economy may impose a fine of more than NT$0.5 million but less than NT$10 million and order them to make corrections within a prescribed period; those who fail to make corrections within the prescribed period, penalties shall be imposed by times."
+		},
+		{
+			"number": 4200,
+			"content": "To deal with fraud crime prevention emergencies and promptly prevent citizens from contacting fraudulent websites, the target business competent authorities and judiciary police department may order Internet access service providers to suspend analysis or restrict access when they consider it necessary."
+		},
+		{
+			"number": 4300,
+			"content": "Those who commit crimes under Article 339-4 of the Criminal Code and fraudulently obtain property or property interests amounting to NT$5 million shall be subject to imprisonment of over three years but less than ten years, with the possibility of a fine not exceeding NT$30 million. If the property or property interests obtained reach NT$100 million, the imprisonment shall be over five years but less than 12 years, with the possibility of a fine not exceeding NT$300 million."
+		},
+		{
+			"number": 4400,
+			"content": "For committing crimes in subparagraph 2, paragraph 1, Article 339-4 of the Criminal Code, if any of the following circumstances occur, the penalties shall be raised by 50% according to the same paragraph of the same article:\r\n1. Concurrently committing crimes in subparagraph 1, subparagraph 3, or subparagraph 4-1 of the same article.\r\n2. Using equipment for fraud crimes outside of the R.O.C. to target individuals within the R.O.C..\r\nFor the raised penalties in the preceding paragraph, the maximum and minimum penalties shall be raised concurrently.\r\nThose who initiate, host, manipulate, or direct criminal organizations committing the crimes outlined in paragraph 1 shall face imprisonment of over five years but less than 12 years, with the possibility of a fine not exceeding NT$300 million.\r\nViolations of Article 19 and Article 20 of the Money Laundering Control Act, which are connected to the crimes in paragraph 1, shall not be subject to the collegial panel review mandated for first-instance trials under paragraph 1 of Article 284 of the Code of Criminal Procedure. The provisions of paragraph 2 of the same article shall apply mutatis mutandis."
+		},
+		{
+			"number": 4500,
+			"content": "Representatives of corporations, agents of natural persons, employees, or other personnel who commit fraud in the execution of their duties shall incur penalties, including fines imposed on the respective corporations or natural persons, in addition to punishing the offenders. This shall not apply if the corporation or natural person is the victim or has fulfilled their supervisory responsibilities to prevent the occurrence of the crime."
+		},
+		{
+			"number": 4600,
+			"content": "Individuals who commit fraud and voluntarily confess after the crime, surrendering any criminal proceeds, shall have their penalties reduced or exempted. Furthermore, if this leads to the judiciary police or prosecutors successfully seizing all criminal proceeds or apprehending those who initiate, host, manipulate, or direct fraud organizations, their penalties shall be exempted."
+		},
+		{
+			"number": 4700,
+			"content": "Individuals committing fraud who admit their crimes during investigations and trials, while voluntarily surrendering any criminal proceeds, shall have their penalties reduced. If this results in the judiciary police or prosecutors seizing all criminal proceeds or apprehending those who initiate, host, manipulate, or direct fraud organizations, their penalties may be reduced or exempted."
+		},
+		{
+			"number": 4800,
+			"content": "All items used to commit fraud shall be confiscated, regardless of ownership.\r\nIf there are sufficient facts proving that properties or property interests, under the perpetrator's control and not outlined in the preceding paragraph, are derived from other illegal activities, those properties and interests shall also be confiscated."
+		},
+		{
+			"number": 4900,
+			"content": "In cases where individuals serving prison sentences for fraud show genuine remorse, and they have served over two-thirds of their sentence (three-fourths for habitual offenders), the prison may report to the Ministry of Justice for potential parole. However, the following circumstances shall disqualify them from parole:\r\n1. Serving less than six months of their sentence.\r\n2. Habitual offenders of fraud crimes who complete their sentences during the parole period or reoffend within five years following a partial pardon.\r\nThe aforementioned provisions regarding juvenile offenders shall be handled in accordance with the relevant regulations in the Juvenile Delinquency Act."
+		},
+		{
+			"number": 5000,
+			"content": "When the prosecutor files a public prosecution and considers it necessary, he/she may include the opinion on the scope of penalties for the defendant in the indictment and describe the reasons."
+		},
+		{
+			"number": 5100,
+			"content": "The central competent authority shall set up a 24-hour whistleblowir reporting system, an online reporting platform, or a hotline to provide consultation on fraud issues and facilitate referral to relevant agencies (institutions) or groups for psychological counseling, social relief, and other necessary assistance."
+		},
+		{
+			"number": 5200,
+			"content": "Judicial personnel or judiciary policeofficers who discover that victims of fraud qualify for assistance under the Legal Aid Act must inform them of their right to apply for assistance and provide necessary support."
+		},
+		{
+			"number": 5300,
+			"content": "The prosecutor or the court may make use of mediation and reconciliation procedures during the investigation or trial to make the defendant pay a certain amount of compensation to the victim of fraud crimes. For those who fail to compensate the victims, the prosecutor may require the court to consider the penalties discretionally and shall file an appeal when necessary.\r\nIf deferred prosecution is determined for the fraud crime case, the prosecutor shall first require the defendant to pay property or non-property damage compensation of equivalent funds to the victim."
+		},
+		{
+			"number": 5400,
+			"content": "When a victim of fraud crimes sues the person who is responsible for compensation according to the law to request damage compensation or file an appeal according to the civil litigation procedures, the litigation fees are temporarily exempted, and the enforcement fees are temporarily exempted when applying for enforcement.\r\nRegarding the litigation in the preceding paragraph, when the victim of fraud crimes applies for provisional attachment or provisional injunction to secure the enforcement, the guarantee provided under the order of the court according to the Code of Civil Procedure shall not be higher than 10% of the target amount or price requested.\r\nThe same guarantee provisions shall apply mutatis mutandis to guarantees provided under court orders related to applications or provisional execution."
+		},
+		{
+			"number": 5500,
+			"content": "If the main attacking or defending methods claimed by victims of fraud crimes are equivalent, one or more persons may be appointed to sue or to be sued on behalf of the appointed people and the appointed parties.\r\nFor the appointment of parties involved in the preceding paragraph, the requirements of appointing parties involved in the Code of Civil Procedure shall apply mutatis mutandis."
+		},
+		{
+			"number": 5600,
+			"content": "Personnel contributing to the prevention of fraud crimes shall be rewarded. The same shall apply to whistleblowers who reported the fraud crimes before being found, and the crimes are convicted after the sentence of the court.\r\nRegulations for the reward distribution targets, categories, conditions, procedures, and other relevant matters shall be established by the central competent authority and reported to the Executive Yuan for approval."
+		},
+		{
+			"number": 5700,
+			"content": "If online advertisement platform operators fail to designate and report the legal representative according to paragraph 1 of Article 29, the service of documents intended for these operators will be replaced by public announcements, which shall take effect on the day following their publication in the government gazette and the agency’s website."
+		},
+		{
+			"number": 5800,
+			"content": "This Act shall take effect on its publication date, except for the provisions in Articles 19, 20, 22, 24, and paragraphs 2 to 5 of Article 39 concerning traffic management measures, suspension of analysis, and access restrictions, as well as subparagraph 6 of paragraph 1 of Article 40, which shall be implemented on a date determined by the Executive Yuan."
+		}
+	]
+}
