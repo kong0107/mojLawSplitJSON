@@ -3,7 +3,7 @@
 	"LawLevel": "命令",
 	"EngLawName": "Review Standards and Employment Qualifications for Foreign Workers Engaging in Work Specified in Subparagraphs 8 to 11, Paragraph 1, Article 46 of the Employment Service Act",
 	"name": "外國人從事就業服務法第四十六條第一項第八款至第十一款工作資格及審查標準",
-	"EngLawModifiedDate": "20240826",
+	"EngLawModifiedDate": "20241114",
 	"attachments": {
 		"0000007435": "Addendum 1：Standards for the Accumulation of Points.PDF",
 		"0000008231": "Addendum 2：Items of Specific Physical and Mental Disability.PDF",
@@ -67,7 +67,8 @@
 		"Amended on May 18, 2023",
 		"Amended on June 15, 2023",
 		"Amended on October 13, 2023",
-		"Amended on August 26, 2024"
+		"Amended on August 26, 2024",
+		"Amended on November 14, 2024"
 	],
 	"divisions": [
 		{
@@ -149,6 +150,13 @@
 		},
 		{
 			"type": "chapter",
+			"number": 1101,
+			"title": "Diverse companionship care services work",
+			"start": 5601,
+			"end": 5604
+		},
+		{
+			"type": "chapter",
 			"number": 1200,
 			"title": "Bilingual Translation Work",
 			"start": 5700,
@@ -195,7 +203,7 @@
 		},
 		{
 			"number": 500,
-			"content": "Work designated by the Central Competent Authority in accordance with Subparagraph 10, Paragraph 1, Article 46 of the Act includes the following responsibilities:\r\n1. Manufacturing work: Direct involvement in the manufacture of manufacturing industry products or related manual work.\r\n2. Outreach manufacturing work: Dispatched by an employer to an outreach manufacturing service contract work location to engage directly in the manufacture of manufacturing industry products or related manual work.\r\n3. Construction work: Direct involvement in construction work or related manual work at a construction site or related location.\r\n4. Slaughterhouse work: Direct involvement in slaughterhouse work or related manual work.\r\n5. Outreach agricultural work: Dispatched by an employer to an outreach agriculture service contract work location to engage directly in agricultural, forestry, animal husbandry or aquaculture work or related manual work\r\n6. Agriculture, forestry, animal husbandry or aquaculture work: Direct involvement in agricultural, forestry, animal husbandry or aquaculture work, or related manual work at agricultural, forestry, animal husbandry or aquaculture work locations.\r\n7. Other work designated by the Central Competent Authority:"
+			"content": "Work designated by the Central Competent Authority in accordance with Subparagraph 10, Paragraph 1, Article 46 of the Act includes the following responsibilities:\r\n1. Manufacturing work: Direct involvement in the manufacture of manufacturing industry products or related manual work.\r\n2. Outreach manufacturing work: Dispatched by an employer to an outreach manufacturing service contract work location to engage directly in the manufacture of manufacturing industry products or related manual work.\r\n3. Construction work: Direct involvement in construction work or related manual work at a construction site or related location.\r\n4. Slaughterhouse work: Direct involvement in slaughterhouse work or related manual work.\r\n5. Outreach agricultural work: Dispatched by an employer to an outreach agriculture service contract work location to engage directly in agricultural, forestry, animal husbandry or aquaculture work or related manual work\r\n6. Agriculture, forestry, animal husbandry or aquaculture work: Direct involvement in agricultural, forestry, animal husbandry or aquaculture work, or related manual work at agricultural, forestry, animal husbandry or aquaculture work locations.\r\n7. Diverse companionship service work: An individual is sent by an employer to a contracted diverse companionship care services location to directly provide daily care to those who are disabled or sick, in the form of companionship or related physical work.\r\n8. Other work designated by the Central Competent Authority:"
 		},
 		{
 			"number": 600,
@@ -207,7 +215,7 @@
 		},
 		{
 			"number": 800,
-			"content": "Foreign workers employed to engage in work detailed in Article 4 must be 20 years old or older and possess one of the following qualifications:\r\n1. Have passed a health examination at an overseas hospital approved by the central competent health and welfare authority of the Republic of China, or attended and passed a training program at a training facility designated by the competent labor authority in the country of origin, before entering the Republic of China, or have engaged in the same work in the Republic of China for six months or longer.\r\n2. On arriving in Taiwan, foreign workers employed as live-in caregivers or home help are required to attend orientation classes lasting eight hour or longer at a location designated by the Central Competent Authority and obtain a certificate indicating they completed the class. However, this does not apply to individuals who attended the class within the past five years.\r\nThe class in Subparagraph 2 of the above paragraph includes the following:\r\n(1) Laws relating to the employment and management of foreign workers.\r\n(2) Laws relating to labor rights in the Republic of China.\r\n(3) Public health and pandemic prevention related information.\r\n(4) Information on adapting to life and work in the Republic of China.\r\n(5) Other regulations approved by the Central Competent Authority."
+			"content": "Foreign workers employed to engage in work detailed in Article 4 and Subparagraph 7, Article 5, must be 20 years old or older and possess one of the following qualifications:\r\n1. Have passed a health examination at an overseas hospital approved by the central competent health and welfare authority of the Republic of China, or attended and passed a training program at a training facility designated by the competent labor authority in the country of origin, before entering the Republic of China, or have engaged in the same work in the Republic of China for six months or longer.\r\n2. On arriving in Taiwan, foreign workers employed as live-in caregivers or home help are required to attend orientation classes lasting eight hour or longer at a location designated by the Central Competent Authority and obtain a certificate indicating they completed the class. However, this does not apply to individuals who attended the class within the past five years.\r\nThe class in Subparagraph 2 of the above paragraph includes the following:\r\n(1) Laws relating to the employment and management of foreign workers.\r\n(2) Laws relating to labor rights in the Republic of China.\r\n(3) Public health and pandemic prevention related information.\r\n(4) Information on adapting to life and work in the Republic of China.\r\n(5) Other regulations approved by the Central Competent Authority."
 		},
 		{
 			"number": 900,
@@ -420,6 +428,22 @@
 		{
 			"number": 5600,
 			"content": "Employers who hire foreign workers to work at locations referred to in Subparagraph 6, Article 5 to engage in agricultural, forestry, animal husbandry or aquaculture work, are required to be involved in one of the following categories of work:\r\n1. Management of livestock farms engaged in livestock and poultry management, breeding, milking, egg collection, livestock farm environment management, waste disposal and reuse, feed preparation, disease prevention, and animal husbandry related manual work.\r\n2. Manual work related to the cultivation of vegetables, flowers, plant seeds, fruit trees, miscellaneous grains, specialty crops, etc. and protected agricutural crops. However, this does not include manual work related to the cultivation of betel nuts, betel peppers and tobacco.\r\n3. Manual work related to growing seeds, afforestation, silviculture and logging.\r\n4. Feed management, breeding, harvesting and aquaculture environment cleaning for aquaculture products, as well as aquaculture related manual work.\r\n5. Management of any manual work related to agriculture, forestry, animal husbandry, or aquaculture designated by the Central Competent Authority in consultation with the central competent authority in charge of the target business.\r\nEmployers referred to in the preceding paragraph deemed to be in compliance with the provisions of Addendum 12 by the central competent authority in charge of the target business can apply for an initial recruitment permit to employ foreign workers.\r\nWhen an employer hires foreign workers to engage in agricultural, forestry, animal husbandry, or aquaculture work referred to in Paragraph 1, the allocation ratio, number of employees and total number of foreign workers employed must be in compliance with the provisions of Addendum 12."
+		},
+		{
+			"number": 5601,
+			"content": "Foreign nationals employed to engage in companionship care service work detailed in Subparagraph 7, Article 5, must be hired by a foundation or non-profit organization that has been legally established or registered for a minimum of five years."
+		},
+		{
+			"number": 5602,
+			"content": "Employers in the previous Article are required to submit a diverse companionship services plan based on the program and time period established by the Central Competent Authority.\r\nThe aforementioned diverse companionship services plan is required to include the following:\r\n1. Certified documentation attesting to the eligibility of the employer.\r\n2. A list of services provided, fee-charging items and amount charged, contract template and other related plans.\r\n3. Total manpower and allocation, supervision and education, training mechanism plans.\r\n4. Additional diverse companionship care services related information.\r\nAfter a diverse companionship care services plan is approved by the Central Competent Authority, the employer and foreign workers are required to proceed in accordance with the provisions of the approved plan and services contract."
+		},
+		{
+			"number": 5603,
+			"content": "The number of foreign nationals hired by an employer to engage in diverse companionship service work cannot exceed the total number determined by the Central Competent Authority.\r\nDetermination of the aforementioned total number of hired foreign workers should include the following:\r\n1. Number of foreign workers recruited for the first time in the application.\r\n2. Number of foreign workers that can be applied for on the recruitment permit, number of recruitment permits obtained and number of foreign workers already employed. However, in either of the following circumstances foreign workers are not included in the calculation:\r\n(1) When an employer wants to continue the employment of a foreign worker with four months left on his or her employment permit an application for re-recruitment can be filed with the Central Competent Authority, those individuals are not included in the calculation.\r\n(2) When there are changes to the factual basis of the original recruitment permit and an employer is unable to apply for supplementary recruitment, re-recruitment or employment of foreign workers, those individuals are not included in the calculation.\r\n3. Number of foreign workers included on foreign worker recruitment permits and employment permits revoked in the two year period preceding the application, for reasons attributable to the employer."
+		},
+		{
+			"number": 5604,
+			"content": "The Central Competent Authority can conduct on-site inspections based on the provisions of the previous three Articles.\r\nIn any of the following situations the Central Competent Authority will, in accordance with the provisions of Article 72, revoke in part or entirely an employer’s recruitment permit and employment permit:\r\n1. When the Central Competent Authority confirms a serious violation of the provisions of Paragraph 3, Article 56-2, or a fixed period of time is given to make related improvements, but no improvements are made.\r\n2. When the Central Competent Authority confirms a serious violation of related labor laws.\r\n3. Where there is deemed to have been mismanagement and significant harm to the public interest."
 		},
 		{
 			"number": 5700,
