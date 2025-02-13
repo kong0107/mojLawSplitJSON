@@ -3,55 +3,79 @@
 	"英文法規名稱": "Enforcement Rules of the Electronic Signatures Act",
 	"中文法規名稱": "電子簽章法施行細則",
 	"法規網址": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=J0080039",
-	"最新英文異動日期": "20020410",
-	"沿革內容": "1.Date：April 10,2002 (Announced)",
+	"最新英文異動日期": "20241114",
+	"沿革內容": "1. Announced on April 10,2002\r\n2. Amended on November 14,2024",
 	"法規內容": [
 		{
 			"條號": "Article 1",
-			"條文內容": "These Enforcement Rules are enacted in accordance with Article 16 of the Electronic Signatures Act (hereinafter referred to as \" the Act \")."
+			"條文內容": "These Enforcement Rules are enacted in accordance with Article 21 of the Electronic Signatures Act (hereinafter referred to as \" the Act \")."
 		},
 		{
 			"條號": "Article 2",
-			"條文內容": "The expression \"attached to and associated with an electronic record\" as set forth in Subparagraph 2, Article 2 of the Act shall mean the act of being affixed to, incorporated in, or logically associated with an electronic record."
+			"條文內容": "For any announcement published by the Judicial Yuan or the Ministry of Justice in accordance with Paragraph 2, Article 1 of the Act, the competent authority shall be informed."
 		},
 		{
 			"條號": "Article 3",
-			"條文內容": "The term \"private key\" as defined in Subparagraph 3, Article 2 of the Act shall mean certain digital data that are contained in the digital data having the parity matching relation and are possessed by a signatory to create a digital signature."
+			"條文內容": "The expression \"attached to and associated with an electronic record\" as set forth in Subparagraph 2, Article 2 of the Act shall mean the act of being affixed to, incorporated in, or logically associated with an electronic record."
 		},
 		{
 			"條號": "Article 4",
-			"條文內容": "The term \"public key\" as defined in Subparagraph 3, Article 2 of the Act shall mean certain digital data that are contained in the digital data having the parity matching relation and are open to the public to verify a digital signature."
+			"條文內容": "The term \"private key\" as defined in Subparagraph 3, Article 2 of the Act shall mean certain digital data that are contained in the digital data having the parity matching relation and are possessed by a signatory to create a digital signature."
 		},
 		{
 			"條號": "Article 5",
-			"條文內容": "The expression \"a government agency or a juristic person that issues certificates\" as set forth in Subparagraph 5, Article 2 of the Act shall mean the nominal issuer as indicated on the certificate."
+			"條文內容": "The term \"public key\" as defined in Subparagraph 3, Article 2 of the Act shall mean certain digital data that are contained in the digital data having the parity matching relation and are open to the public to verify a digital signature."
 		},
 		{
 			"條號": "Article 6",
-			"條文內容": "For any prescription and any requirement for particular technology and procedure published by a government agency in accordance with the provisions set out in Paragraph 3 of Article 4, Paragraph 3 of Article 6, and Paragraph 2 of Article 9 of the Act, a duplicate of such shall be forwarded to the competent authority accordingly."
+			"條文內容": "The expression \"a government agency or a juristic person that issues certificates\" as set forth in Subparagraph 5, Article 2 of the Act shall mean the nominal issuer as indicated on the certificate."
 		},
 		{
 			"條號": "Article 7",
-			"條文內容": "The expression \"to provide services for issuing certificates to the public\" as set forth in Paragraph 1, Article 11 of the Act shall mean that a certificate issued by a certification service provider may be used by the certificate subscriber as a proof to sign an electronic record with a third party other than the certification service provider."
+			"條文內容": "The competent authority shall refer to international technical standards related to electronic signatures, solicit expert opinions, and announce the electronic signature technology with effect of an electronic signature in accordance with Paragraph 2, Article 2 of the Act; and may establish a registration mechanism for electronic signature services, an accreditation/certification mechanism for relevant standards, or other promotion mechanisms."
 		},
 		{
 			"條號": "Article 8",
-			"條文內容": "When a certification service provider files its certification practice statement, in accordance with the provisions set out in Paragraph 1 and 3 , Article 11 of the Act, to the competent authority for approval, the following documents shall be submitted:\r\n1.An application form;\r\n2.The certification practice statement;\r\n3.A checklist of the required information for the certification practice statement; and\r\n4.Other documents required by the competent authority.\r\nThe format of the application form in Subparagraph 1, the checklist of the required information for the certification practice statement in Subparagraph 3, and the other documents required in Subparagraph 4 under the preceding Paragraph shall be prescribed by the competent authority."
+			"條文內容": "The expression “a reasonable manner” as set forth in Paragraph 4, Article 5 of the Act shall mean the use of words, writing, or other means that are sufficient to the parties known or knowable; and the expression “a reasonable period” shall mean the period not less than three days from the counterparty is informed, unless otherwise agreed by the parties or customary in transaction."
 		},
 		{
 			"條號": "Article 9",
-			"條文內容": "In the event that there is any modification in the certification practice statement, a certification service provider shall, in accordance with Paragraph 1, Article 11 of the Act, submit to the competent authority for approval the following documents:\r\n1.An application form;\r\n2.The modified certification practice statement and the checklist of the required information for the certification practice statement thereof;\r\n3.A comparison table of content variation; and\r\n4.Other documents required by the competent authority.\r\nThe format of the application form in Subparagraph 1, the comparison table of content variation in Subparagraph 3, and the other documents required in Subparagraph 4 under the preceding Paragraph shall be prescribed by the competent authority."
+			"條文內容": "The expression \"a certificate issued by a certification authority\" as set forth in Subparagraph 1, Article 6 of the Act, the assurance level for the identification and authentication process during a subscriber’s initial registration shall be at least equivalent to one of the following standards:\r\n1. “Level of Assurance 3-High” or above, as defined in ISO/IEC 29115.\r\n2. “Identity Assurance Level 2 (IAL2)” or above, as defined in US NIST SP 800-63A Digital Identity Guidelines.\r\n3. “Substantial Level of Assurance for Digital Identity” or above, as defined in EU eIDAS Regulation."
 		},
 		{
 			"條號": "Article 10",
-			"條文內容": "All the documents to be submitted along with any application filed by a certification service provider in accordance with the Act and these Enforcement Rules must be written in Chinese; and for the relevant scientific (and technical) terminologies, if any, the Chinese translation as published by the National Institute of Compilation and Translation shall be used as the standard translation thereof provided that such Chinese translation must be followed by the original nomenclature of such scientific (or technical) terminology in a foreign language.\r\nIf the aforementioned documents are in a foreign language, the original foreign language documents or the photocopy thereof shall be attached as well."
+			"條文內容": "The expression “law” as set forth in Paragraph 1, Article 11 of the Act shall mean laws and regulations particularly and expressly authorized by laws.\r\nFor any announcement published by a government agency in accordance with Paragraph 2, Article 11 of the Act, the competent authority shall be informed."
 		},
 		{
 			"條號": "Article 11",
-			"條文內容": "The term \"archives and records\" referred to in Subparagraph 4, Paragraph 1, Article 13 of the Act shall include the following information:\r\n1.Certificate subscribers` registration information;\r\n2.All the certificates already issued;\r\n3.Certificate revocation list;\r\n4.Status information of the certificates;\r\n5.Various versions of the certification practice statement;\r\n6.The certification policy;\r\n7.The compliance audit or other assessment records;\r\n8.Archival records; and\r\n9.Other documents required by the competent authority.\r\nIn case a certificate subscriber has any objection to the certificate subscribers` registration information in Subparagraph 1 of the preceding Paragraph, such registration information shall not be applicable."
+			"條文內容": "The expression \"to provide services for issuing certificates\" as set forth in Paragraph 1, Article 12 of the Act shall mean that a certificate issued by a certification authority may be used by the certificate subscriber as a proof to sign an electronic record with a third party other than the certification authority."
 		},
 		{
 			"條號": "Article 12",
+			"條文內容": "When a certification authority files an application, in accordance with Paragraph 1, Article 12 of the Act, to the competent authority for approval, the application form and the following documents shall be submitted:\r\n1. The certification practice statement;\r\n2. A checklist of the required information for the certification practice statement; and\r\n3. Other documents required by the competent authority.\r\nA certification authority that is not a government agency shall, in addition to those required in the preceding paragraph, submit the following documents:\r\n1. The juristic person’s registration certificate;\r\n2. The explanation of its organization and share structure;\r\n3. The Notice of Profit-Seeking Enterprise Income Tax Return, copies of balance sheet and comprehensive income statements, or the copy of the Notice of Assessment for Income from Professional Practice for the most recent period.\r\nIf a certification authority that is not a government agency has provided certification service to the public upon the competent authority’s approval of its certification practice statement before the enforcement of the amendments to these Rules, it shall submit various documents under the preceding paragraph to the competent authority for recordation within six months after the enforcement of the amendments to these Rules.\r\nThe format of the application form and documents under Paragraphs 1 and 2 shall be prescribed by the competent authority."
+		},
+		{
+			"條號": "Article 13",
+			"條文內容": "When a certification authority files an application to the competent authority for modification of its certification practice statement, in accordance with Paragraph 1, Article 12 of the Act, the application form and the following documents shall be submitted:\r\n1. The modified certification practice statement and the checklist of the required information for the certification practice statement thereof;\r\n2. A comparison table of content variation; and\r\n3. Other documents required by the competent authority.\r\nThe format of the application form and documents stipulated in the preceding paragraph shall be prescribed by the competent authority."
+		},
+		{
+			"條號": "Article 14",
+			"條文內容": "For the service provided by a certification authority in the performance of its certification practice statement, the competent authority may conduct audit thereof, if necessary, and the certification authority shall cooperate therein.\r\nFor the audit under the preceding paragraph, the competent authority may delegate its subordinate agency, or commission other agency, juristic person or group to conduct such audit."
+		},
+		{
+			"條號": "Article 15",
+			"條文內容": "All the documents to be submitted along with any application filed by a certification authority in accordance with the Act and these Enforcement Rules must be written in Chinese; and for the relevant scientific (and technical) terminologies, if any, the Chinese translation as published by the National Academy for Educational Research shall be used as the standard translation thereof provided that such Chinese translation must be followed by the original nomenclature of such scientific (or technical) terminology in a foreign language.\r\nIf the aforementioned documents are in a foreign language, the original foreign language documents or the photocopy thereof shall be attached as well.\r\nIn respect of the format of relevant documents to be submitted by a foreign certification authority in its application for permission, the Regulations Governing Permission of Foreign Certification Service Providers shall be followed."
+		},
+		{
+			"條號": "Article 16",
+			"條文內容": "The term \"archives and records\" referred to in Subparagraph 4, Paragraph 1, Article 13 of the Act shall include the following information:\r\n1. Certificate subscribers’ registration information;\r\n2. All the certificates already issued;\r\n3. Certificate revocation list;\r\n4. Status information of the certificates;\r\n5. Various versions of the certification practice statement;\r\n6. The certification policy;\r\n7. The compliance audit or other assessment records;\r\n8. Archival records; and\r\n9. Other documents required by the competent authority.\r\nIn case a certificate subscriber has any objection to the certificate subscribers` registration information in Subparagraph 1 of the preceding Paragraph, such registration information shall not be applicable."
+		},
+		{
+			"條號": "Article 17",
+			"條文內容": "For the industrial investigation conducted in accordance with Article 19 of the Act, the competent authority may request certification authorities to provide the following information in the designated formats:\r\n1. The population to which various certificates are issued.\r\n2. Valid quantity of various certificates.\r\n3. Other statistical data designated by the competent authority."
+		},
+		{
+			"條號": "Article 18",
 			"條文內容": "These Enforcement Rules shall come into force from the date of promulgation."
 		}
 	]
