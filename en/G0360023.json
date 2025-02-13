@@ -1,18 +1,26 @@
 {
 	"pcode": "G0360023",
 	"LawLevel": "法律",
-	"EngLawName": "Act Governing Foreign Loans and Guarantee for Government to Develop Economy and Society",
+	"EngLawName": "Act Governing Foreign Loans and Guarantee for the Government to Develop the Economy and Society",
 	"name": "政府發展經濟社會向國外借款及保證條例",
 	"EngLawModifiedDate": "19820616",
-	"histories": "Full text of ten articles established and promulgated by the President on May 15,\r\n1967.\r\nArticle 2 amended and promulgated by the President on January 5, 1973.\r\nArticle 6 amended and promulgated by the President on June 5, 1973.\r\nArticles 1, Article 5 and Article 6 amended and promulgated by the President on April 22, 1975.\r\nArticle 6 amended and promulgated by the President on May 24, 1977.\r\nArticle 6 amended and promulgated by the President on December 5, 1979.\r\nArticle 6 amended and promulgated by the President on June 16, 1982.",
+	"histories": [
+		"Full text of ten Articles established and promulgated per the Order of President No.1853 issued on May 15, 1967.",
+		"Article 2 amended and promulgated per the Order of President No.2517 issued on January 5,1973.",
+		"Article 6 amended and promulgated per the Order of President No.2582 issued on June 5,1973.",
+		"Article 1, Article 5 and Article 6 amended and promulgated per the Order of President No.3263 issued on April 22,1975.",
+		"Article 6 amended and promulgated per the Order of President No.3203 issued on May 24,1977.",
+		"Article 6 amended and promulgated per the Order of President No.3599 issued on December 5,1979.",
+		"Article 6 amended and promulgated per the Order of President issued on June 16 ,1982."
+	],
 	"articles": [
 		{
 			"number": 100,
-			"content": "Foreign loans sought by the government or affiliated enterprise or profit-making entity in support of excelling the economic and social development that requires the Treasury to act as promissory or guarantor would be stipulated under this Act.\r\nForeign loan sought by private-owned development and financial organizations or major economic infrastructure projects that require the Treasury to act as guarantor, and resolution in favor by the Executive Yuan Council, would be eligible to stipulations as cited under this Act."
+			"content": "Foreign loans sought by the government or affiliated enterprises or profit-making entities in support of excelling the economic and social development that require the Treasury to act as promissory or guarantor would be stipulated under this Act.\r\nForeign loans sought by privately owned development and financial organizations or major economic infrastructure projects that require the Treasury to act as guarantor, and a favorable resolution by the Executive Yuan Council, would be eligible to stipulations as cited under this Act."
 		},
 		{
 			"number": 200,
-			"content": "Following foreign loans or guarantees as resolution in favor by Executive Yuan sessions, the Minister of Finance is to act on behalf of the Treasury in entering a loan or guarantee contract with the lending institution, with loan utilization and principal/interest repayment made in accordance with contractual stipulations."
+			"content": "Following the favorable resolution of foreign loans or guarantees by the Executive Yuan Council, the Minister of Finance is to act on behalf of the Treasury in entering a loan or guarantee contract with the lending institution, with loan utilization and principal/interest repayment being stipulated in the contract."
 		},
 		{
 			"number": 300,
@@ -24,7 +32,7 @@
 		},
 		{
 			"number": 500,
-			"content": "Before the Minister of Finance is set to issue guarantees as stipulated under this Act, pertinent component government authorities are required to conduct investigation on the borrower's loan utilization plan and repayment capability, and to continue monitor the state of loan utilization following the guarantee issuance; those found less than credible shall not be given guarantee.\r\nThe Executive Yuan is to prescribe the regulations concerning supervision of loans sought by private-owned development and financial institutions and those in support of major economic infrastructure development projects."
+			"content": "Before the Minister of Finance is set to issue guarantees as stipulated under this Act, pertinent competent government authorities are required to conduct an investigation on the borrower's loan utilization plan and repayment capability, and to continue to monitor the state of loan utilization following the guarantee issuance; those found less than credible shall not be given a guarantee.\r\nThe Executive Yuan is to prescribe the regulations concerning supervision of loans sought by privately owned development and financial institutions and loans in support of major economic infrastructure development projects."
 		},
 		{
 			"number": 600,
@@ -32,15 +40,15 @@
 		},
 		{
 			"number": 700,
-			"content": "Of loans that are secured or guaranteed as per this Act following the finalization of a loan or guarantee contract, the Executive Yuan shall submit to the Legislative Yuan for recordation.\r\nOf loans and guarantees that are related to government fiscal budgets, the competent government authorities are include such loan plans in the annual budget review submission, which, however, does not affect the finalization of a loan agreement."
+			"content": "Of loans that are secured or guaranteed as per this Act, after the loan or guarantee contract has been finalized, the Executive Yuan shall submit the contract to the Legislative Yuan for recordation.\r\nOf loans and guarantees that are related to government fiscal budgets, the competent government authorities are to include such loan plans in the annual budget review submission, which, however, does not affect the finalization of a loan agreement."
 		},
 		{
 			"number": 800,
-			"content": "The interest that the borrower derived from loans or guarantees accordance with this Act is exempt from income tax."
+			"content": "The interest derived by creditors from loans or guarantees in accordance with this Act is exempt from income tax."
 		},
 		{
 			"number": 900,
-			"content": "Of foreign loans sought by private development and financial institutions that require the Treasury to act as guarantor, the grand total of the unpaid loan may not exceed ten times of its' net valuation.\r\nThe foregoing referred net valuation shall pertain to the sum of capitalization free of deficits and corporate reserve not specifically designated for debt repayment.\r\nForeign loans sought by state-owned financial institutions or private development/financial institutions and guaranteed by the Treasury, are to be loaned out subsequently, the interest rates may not exceed the rates that state-owned financial institutions lend to state-owned enterprises."
+			"content": "Of foreign loans sought by private development and financial institutions that require the Treasury to act as guarantor, the grand total of the unpaid loan may not exceed ten times of its net value.\r\nThe net value as referred to in the preceding paragraph shall pertain to the sum of capitalization free of deficits and corporate reserves not specifically designated for debt repayment.\r\nIf foreign loans sought by state-owned financial institutions or private development/financial institutions and guaranteed by the Treasury are to be loaned out subsequently, the interest rates may not exceed the rates at which state-owned financial institutions lend to state-owned enterprises."
 		},
 		{
 			"number": 1000,
