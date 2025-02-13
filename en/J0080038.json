@@ -1,53 +1,53 @@
 {
   "LawLevel": "命令",
-  "EngLawName": "Regulations Governing Permission of Foreign Certification Service Providers",
+  "EngLawName": "Regulations Governing Permission of Foreign Certification Authorities",
   "LawName": "外國憑證機構許可辦法",
   "EngLawURL": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=J0080038",
-  "EngLawModifiedDate": "20020403",
+  "EngLawModifiedDate": "20241114",
   "EngLawAbandonNote": "",
   "EngLawAttachements": [],
-  "EngLawHistories": "1. Amended and promulgated by Order Ching (91) Shang Tze No. 09102046000　on April 3, 2002",
+  "EngLawHistories": "1. Amended and promulgated by Order Ching (91) Shang Tze No. 09102046000　on April 3, 2002\r\n2. Amended on November 14,2024",
   "EngLawForeword": "",
   "EngLawArticles": [
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 1",
-      "EngArticleContent": "These Regulations are enacted pursuant to Paragraph 2, Article 15 of the Electronic Signatures Act (hereinafter \"this Act\")."
+      "EngArticleContent": "These Regulations are enacted pursuant to Paragraph 2, Article 15 of the Electronic Signatures Act (hereinafter \"the Act\")."
     },
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 2",
-      "EngArticleContent": "To apply for the permission under Paragraph 1, Article 15 of this Act, a certification service provider organized or registered pursuant to foreign laws (hereinafter \"foreign certification service provider\") shall submit the following documents:\r\n1.application form;\r\n2.certification practice statement;\r\n3.checklist of the required information for certification practice statement; and\r\n4.other documents required by the competent authority.\r\nThe certification practice statement  submitted shall provide sufficient information stipulated in the Regulations on the Required Information for Certification Practice Statement prescribed by the competent authority. \r\nThe format of the application form, the checklist of the required information for certification practice statement, and other related documents stipulated in the first paragraph shall be prescribed by the competent authority."
+      "EngArticleContent": "To apply for the permission under Paragraph 1, Article 15 of the Act, a certification authority organized or registered pursuant to foreign laws (hereinafter \"foreign certification authority\") shall submit the application form and following documents:\r\n1. The certification practice statement;\r\n2. A checklist of the required information for the certification practice statement;\r\n3. A certificate permitting the foreign certification authority to lawfully operate the certification service in its country; and\r\n4. Other documents required by the competent authority.\r\nThe format of the application form and documents stipulated in the preceding paragraph shall be prescribed by the competent authority. The competent authority may provide the English version of the format.\r\nThe competent authority shall announce the permitted foreign certification authority on its website."
     },
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 3",
-      "EngArticleContent": "In the case of any modification on the certification practice statement, a permitted foreign certification service provider shall file for new permission within 30 days after the modification. \r\nA foreign certification service provider applying for the new permission shall submit the following documents:\r\n1.application form;\r\n2.modified certification practice statement and the checklist of the required information for certification practice statement thereof;\r\n3.comparison table of content variation; and\r\n4.other documents required by the competent authority.\r\nThe format of the application form, the checklist of the required information for certification practice statement, and other related documents stipulated in the preceding paragraph shall be prescribed by the competent authority."
+      "EngArticleContent": "In the case of any modification to the certification practice statement, a duly applied and permitted foreign certification authority in accordance with the Act shall file for new permission within 30 days after the modification.\r\nThe application form and the following documents shall be submitted when applying for the new permission stipulated in the preceding paragraph:\r\n1. The modified certification practice statement;\r\n2. The checklist of the required information for the modified certification practice statement;\r\n3. A comparison table of content variation; and\r\n4. Other documents required by the competent authority.\r\nThe format of the application form and documents stipulated in the preceding paragraph shall be prescribed by the competent authority. The competent authority may provide the English version of the format."
     },
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 4",
-      "EngArticleContent": "Documents submitted under these Regulations shall be translated into Chinese if written in foreign languages. The competent authority, in its discretion, may require the documents be authenticated by the Republic of China embassies, consulates, representative offices, or any other agency authorized by the Ministry of Foreign Affairs."
+      "EngArticleContent": "For the application filed by a foreign certification authority in accordance with the Act and these Regulations, the documents to be submitted shall, in principle, be written in Chinese or English.\r\nFor the documents to be submitted under the preceding paragraph, the competent authority may, as necessary, request for the authentication thereof by the embassy, consulate, representative office or trade office of our country or other agency authorized by the Ministry of Foreign Affairs, or the attestation thereof by a court or a civil notary of our country."
     },
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 5",
-      "EngArticleContent": "The competent authority may refuse a foreign certification service provider's application for permission if: \r\n1.the certification practice statement submitted is not in compliance with the Regulations on the Required Information for Certification Practice Statement prescribed by the competent authority;\r\n2.the information submitted is fraudulent;\r\n3.the permission may be severely harmful to public interest;\r\n4.the permission may be seriously repugnant to the laws, regulations, public order, or good morals of this nation; or\r\n5.the jurisdiction where the foreign certification service provider organized or registered is clearly prejudicial to certificates issued by domestic certification service providers."
+      "EngArticleContent": "The competent authority may refuse a foreign certification authority's application for permission if:\r\n1. The certification practice statement submitted is not in compliance with Required Information of Certification Practice Statements for Digital Signatures announced by the competent authority;\r\n2. The information submitted is fraudulent;\r\n3. The permission may be severely harmful to public interest;\r\n4. The permission may be seriously repugnant to the laws, regulations, public order, or good morals of this nation; or\r\n5. The jurisdiction where the foreign certification authority organized or registered is clearly prejudicial to certificates issued by domestic certification authorities."
     },
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 6",
-      "EngArticleContent": "The competent authority may revoke permission if:\r\n1.the modification of the certification practice statement is not permitted by the competent authority;\r\n2.the permission may be seriously repugnant to the laws, regulation, public order, or good morals of this nation;\r\n3.the permission may be severely harmful to public interest; or\r\n4.the jurisdiction where the foreign certification service provider organized or registered is clearly prejudicial to certificates issued by domestic certification service providers."
+      "EngArticleContent": "If one of the following conditions is satisfied, the competent authority may waive the application procedure under Article 2 and grant permission:\r\n1. Our country has signed agreements or treaties on the reciprocal use of electronic signatures or their certificates with governments of other countries, regional organizations, or international organizations, and such foreign certification authority has been permitted or recognized by the above said government or organization.\r\n2. The competent authority has cooperated with government agencies of other countries, non-profit organizations, regional organizations, and international organizations on technical interoperability and cooperation related to electronic signatures or their certificates, and such foreign certification authority is listed in the list of certification authorities provided by the above said agency or organization.\r\nThe manner of implementation of technical interoperability and cooperation under Subparagraph 2 of the preceding paragraph includes the technical standards or accreditation/certification mechanism for electronic signatures or their certificates jointly established or recognized.\r\nThe competent authority may announce the list of certification authorities under Subparagraph 2 of Paragraph 1 on its website."
     },
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 7",
-      "EngArticleContent": "The competent authority may waive the application procedure and grant permission to a foreign certification service provider permitted or accredited by other countries, regional organizations, or international organizations by entering into bilateral or multilateral agreements or arrangements with those countries, regional organizations, or international organizations."
+      "EngArticleContent": "The competent authority may revoke permission if:\r\n1. The modification of the certification practice statement has not been permitted by the competent authority in accordance with the provision of Article 3;\r\n2. The permission may be seriously repugnant to the laws, regulations, public order, or good morals of this nation;\r\n3. The permission may be severely harmful to public interest;\r\n4. The jurisdiction where the foreign certification authority organized or registered is clearly prejudicial to certificates issued by domestic certification authorities; or\r\n5. After the permission is granted by the competent authority in accordance with the provision of Paragraph 1 of the preceding article, the condition on such permission is no longer satisfied."
     },
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 8",
-      "EngArticleContent": "These Regulations shall enter into force from the effective date of this Act."
+      "EngArticleContent": "These Regulations shall enter into force from the date of promulgation."
     }
   ]
 }
