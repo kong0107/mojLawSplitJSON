@@ -1,0 +1,210 @@
+{
+	"pcode": "G0400162",
+	"LawLevel": "命令",
+	"EngLawName": "Regulations Governing Anti-Money Laundering Registration of Enterprises or Persons Providing Virtual Asset Services",
+	"name": "提供虛擬資產服務之事業或人員洗錢防制登記辦法",
+	"EngLawModifiedDate": "20241126",
+	"histories": [
+		"Full text of 31 articles adopted and issued per 26 November 2024 Order No. Financial-Supervisory-Securities-Firms-11303860246 of the Financial Supervisory Commission; for enforcement from 30 November 2024"
+	],
+	"divisions": [
+		{
+			"type": "chapter",
+			"number": 100,
+			"title": "",
+			"start": 100,
+			"end": 300
+		},
+		{
+			"type": "chapter",
+			"number": 200,
+			"title": "Conditions and Procedures for Application for Registration",
+			"start": 400,
+			"end": 900
+		},
+		{
+			"type": "chapter",
+			"number": 300,
+			"title": "Management",
+			"start": 1000,
+			"end": 2900,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "VASPs",
+					"start": 1000,
+					"end": 1500
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Virtual Asset Exchangers",
+					"start": 1600,
+					"end": 1700
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Virtual Asset Trading Platforms",
+					"start": 1800,
+					"end": 2100
+				},
+				{
+					"type": "section",
+					"number": 400,
+					"title": "Virtual Asset Transferors",
+					"start": 2200,
+					"end": 2200
+				},
+				{
+					"type": "section",
+					"number": 500,
+					"title": "Virtual Asset Custodians",
+					"start": 2300,
+					"end": 2700
+				},
+				{
+					"type": "section",
+					"number": 600,
+					"title": "Virtual Asset Underwriters",
+					"start": 2800,
+					"end": 2900
+				}
+			]
+		},
+		{
+			"type": "chapter",
+			"number": 400,
+			"title": "Supplementary Provisions",
+			"start": 3000,
+			"end": 3100
+		}
+	],
+	"articles": [
+		{
+			"number": 100,
+			"content": "These Regulations are adopted pursuant to Article 6, paragraph 2 of the Money Laundering Control Act (\"the Act\")."
+		},
+		{
+			"number": 200,
+			"content": "Terms used in these Regulations are defined as follows:\r\n1. \"Virtual asset\": means a digital representation of value with the use of cryptography and distributed ledger technology or other similar technology that can be digitally stored, exchanged, or transferred, and can be used for payment or investment purposes. However, virtual assets do not include digital representations of NTD, foreign currency, currency issued by Mainland China, Hong Kong, or Macao, securities, and other financial assets issued in accordance with laws and regulations.\r\n2. \"Enterprise or person providing virtual asset services\" (\"virtual asset service provider\"; \"VASP\"): means an enterprise or person engaging within Taiwan in the activities listed below on behalf of others.\r\nA. Exchange between virtual assets and the New Taiwan dollar (NTD), foreign currency, or currency issued by Mainland China, Hong Kong, or Macao.\r\nB. Exchange between virtual assets.\r\nC. Transfer of virtual assets.\r\nD. Safekeeping or administration of virtual assets or providing instruments enabling control over virtual assets.\r\nE. Participation in and provision of financial services relating to the issuance or sale of virtual assets.\r\n3. \"Virtual asset exchanger\": means a VASP providing services under subparagraph 2, item A or B.\r\n4. \"Virtual asset trading platform\": means a virtual asset exchanger providing centralized trading market services for virtual assets.\r\n5. \"Virtual asset transferor\": means a VASP providing services under subparagraph 2, item C.\r\n6. \"Virtual asset custodian\": means a VASP providing services under subparagraph 2, item D.\r\n7. \"Virtual asset underwriter\": means a VASP providing services under subparagraph 2, item E.\r\n8. \"Beneficial owner\" means the natural person(s) who ultimately owns or controls a VASP, or the natural person(s) who engages another person to operate virtual asset services.\r\n9. \"Wallet\": means an application or device used to store the cryptographic keys required to use the virtual assets.\r\n10. \"Cold wallet\": means a wallet that is not connected to the internet.\r\n11. \"Hot wallet\": means a wallet that is connected to the internet.\r\n12. \"Overseas VASP\": means a profit-seeking VASP that is organized and registered under overseas law.\r\nThe scope of VASPs includes virtual asset exchanges providers, trading platforms, transferors, custodians, and underwriters under subparagraphs 3 to 7 of the preceding paragraph.\r\nWhen any of the financial institutions specified in Article 5, paragraph 1 of the Act engages in any of the activities specified in the items under subparagraph 2 of paragraph 1 herein, it shall do so in accordance with the related regulations established by its respective central competent authority governing the target business and these Regulations shall not apply."
+		},
+		{
+			"number": 300,
+			"content": "A VASP shall, in accordance with the Act and these Regulations, according to the type(s) of business under Article 2, paragraph 1, subparagraphs 3 to 7, respectively carry out anti-money laundering (\"AML\") registration with the Financial Supervisory Commission (FSC). If it has not completed registration, it may not operate such business.\r\nA VASP may not, without having obtained permission or approval, operate any business that requires permission or approval under other laws or regulations."
+		},
+		{
+			"number": 400,
+			"content": "Anyone subject to any of the following circumstances may not serve as a responsible person or beneficial owner of a VASP company, limited partnership, or business:\r\n1. Has previously, by a final and unappealable judgment, been convicted of a criminal offense under the Organized Crime Prevention Act or the Fraud Crime Hazard Prevention Act, and has not started serving the sentence, has not completed serving the sentence, or 5 years have not yet elapsed since completion of the sentence, expiration of suspended sentence, or pardon.\r\n2. Has previously, by a final and unappealable judgment, been convicted of a criminal offense of counterfeiting currency, counterfeiting securities, fraud, breach of trust, embezzlement, forgery, offense against privacy, usury, impairment of creditor rights, or violation of the Tax Collection Act, Trademark Act, Copyright Act, or other law regulating business and industry, and has not started serving the sentence, has not completed serving the sentence, or 3 years have not yet elapsed since completion of the sentence, expiration of suspended sentence, or pardon.\r\n3. Has previously, by a final and unappealable judgment, been convicted of a criminal offense under the Anti-Corruption Act, and has not started serving the sentence, has not completed serving the sentence, or 3 years have not yet elapsed since completion of the sentence, expiration of suspended sentence, or pardon.\r\n4. Has previously, by a final and unappealable judgment, been convicted of a specified unlawful activity as defined in Article 3 of the Act, and has not started serving the sentence, has not completed serving the sentence, or 3 years have not yet elapsed since completion of the sentence, expiration of suspended sentence, or pardon.\r\n5. Has previously, by a final and unappealable judgment, been convicted of violating the Act, the Financial Holding Company Act, Banking Act, Trust Enterprise Act, Act Governing Bills Finance Business, Financial Asset Securitization Act, Real Estate Securitization Act, Insurance Act, Securities and Exchange Act, Futures Trading Act, Securities Investment Trust and Consulting Act, Foreign Exchange Regulation Act, Credit Cooperative Act, Agricultural Finance Act, Farmers Association Act, Fishermen Association Act, Counter-Terrorism Financing Act, or other law regulating financial activity, and has not started serving the sentence, has not completed serving the sentence, or 3 years have not yet elapsed since completion of the sentence, expiration of suspended sentence, or pardon.\r\n6. Any person who served as a director, supervisor, managerial officer, or other equivalent position of a juristic person at a time it was adjudicated bankrupt if 3 years have not elapsed since the close of the bankruptcy or the reconciliation has not been fulfilled.\r\n7. Has been blacklisted because of using a negotiable instrument that was dishonored and remains blacklisted.\r\n8. Lacks legal capacity to act, has limited legal capacity to act, or has been declared by a court to be placed under assistance, and such declaration has not yet been voided.\r\n9. Has been replaced or discharged from duties by an order of a competent authority under the Financial Holding Company Act, Banking Act, Trust Enterprise Act, Act Governing Bills Finance Business, Financial Asset Securitization Act, Real Estate Securitization Act, Insurance Act, Securities and Exchange Act, Futures Trading Act, Securities Investment Trust and Consulting Act, Credit Cooperative Act, Agricultural Finance Act, Farmers Association Act, Fishermen Association Act, or other law regulating financial activity, and 3 years have not yet elapsed since such order for replacement or discharge.\r\n10. Has been found to have allowed the use of their name by others for the purpose of acting as a responsible person or beneficial owner of a VASP company, limited partnership, or business.\r\n11. There is factual proof that they have engaged in or been involved in other dishonest or improper activities, showing them to be unsuitable to engage VASP business.\r\nIf a director or supervisor of a VASP is a juristic person, the provisions of the preceding paragraph apply mutatis mutandis with respect to the exercise of duties by that juristic person's representative or designated representative."
+		},
+		{
+			"number": 500,
+			"content": "A VASP shall complete an application in the format required by the FSC, and submit the following documents to the FSC through the institution designated by FSC, to apply for AML registration:\r\n1. VASP information form.\r\n2. Registration documents of the company, limited partnership, or business.\r\n3. Company articles of incorporation or limited partnership or partnership agreement.\r\n4. Business rules/bylaws and description of business processes.\r\n5. List of shareholders or partners.\r\n6. List of responsible person(s) of the company, limited partnership, or business.\r\n7. List of beneficial owner(s).\r\n8. Statement representing that the responsible person(s) and beneficial owner(s) of the company, limited partnership, or business are free of any circumstance in violation of Article 4 of these Regulations.\r\n9. AML internal control and internal audit systems (\"internal control systems\").\r\n10. Internal control system checklist reviewed by a CPA with CPA-issued review opinion.\r\n11. Complaint handling procedures.\r\n12. Statement representing that there is no misrepresentation or concealment in the content of the application form and attachments.\r\n13. Other documents as required by the FSC.\r\nA VASP that is not a company and has not completed limited partnership registration or business registration under the Limited Partnership Act or Business Registration Act may not apply to the FSC for AML registration under the preceding paragraph.\r\nAn overseas VASP that has not completed company or branch office registration under the Company Act may not apply to the FSC for AML registration under paragraph 1.\r\nIf any application document submitted by a VASP under the preceding three paragraphs is incomplete or contains insufficient information, and the VASP fails to make the supplementation or correction requested by the FSC within the specified timeframe, registration will be refused."
+		},
+		{
+			"number": 600,
+			"content": "A VASP shall commence operation within 6 months from the date that it completes AML registration with the FSC. If for some legitimate reason it is unable to commence business, it shall, before the expiration of the deadline, apply to the FSC for an extension by submitting an application form through the institution designated by the FSC. An extension may not exceed 6 months and shall be limited to one time only.\r\nA VASP may not operate until it has become a member of the Taiwan Virtual Asset Service Provider Association (TVASPA).\r\nIf a VASP needs to suspend operations for legitimate reasons after commencing operations, it shall, before suspending operations, apply to the FSC by submitting an application form through the institution designated by the FSC, and may suspend operations only after the FSC has given its consent.\r\nA VASP that has suspended operations with the consent of the FSC shall, before resuming operations, apply to the FSC by submitting an application form through the institution designated by the FSC, and may resume operations only after the FSC has given its consent.\r\nBefore terminating its virtual asset business, a VASP shall apply to the FSC for revocation of its registration."
+		},
+		{
+			"number": 700,
+			"content": "The FSC may refuse registration if a VASP's application case is subject to any of the following circumstances:\r\n1. Any misrepresentation or falsehood is discovered in the content of application documents or related matters.\r\n2. Three months have not yet elapsed after registration was refused by the FSC under Article 5, paragraph 4 or after withdrawal by the VASP itself.\r\n3. Content of the internal control system is not specific enough or cannot be effectively implemented。\r\n4. Content of the business violates laws or regulations.\r\n5. There is a risk that the VASP may be used for money laundering or terrorist financing.\r\n6. Any responsible person or beneficial owner of the company, limited partnership, or business is subject to any circumstance in Article 4.\r\n7. Any responsible person of the company, limited partnership, or business is not a fit and proper person to effectively carry on the business of a VASP.\r\n8. As otherwise considered necessary to protect the public interest."
+		},
+		{
+			"number": 800,
+			"content": "After a VASP is registered, the FSC may void or revoke its AML registration in any of the following circumstances:\r\n1. The VASP has failed to apply to the FSC for revocation of registration before terminating its virtual asset business.\r\n2. The VASP has failed to commence operations within 6 months after completing AML registration. This does not apply, however, if it has applied for an extension under the proviso to paragraph 1 of Article 6 and the FSC has granted consent.\r\n3. It unilaterally suspends operations for 3 consecutive months or longer without having obtained consent from the FSC.\r\n4. It fails to apply for amendment to application content or related matters in accordance with Article 9, paragraph 1.\r\n5. Any circumstance under subparagraph 1 of the preceding article.\r\n6. Any circumstance under subparagraph 3 to 7 of the preceding article, and the VASP has not taken the remedial action requested by the FSC within the specified timeframe.\r\n7. Violation of the Act, the Fraud Crime Hazard Prevention Act, Counter-Terrorism Financing Act, these Regulations, or the Regulations Governing Anti-Money Laundering and Countering the Financing of Terrorism for Enterprises or Persons Providing Virtual Asset Services, and the VASP has not taken the remedial action requested by the FSC within the specified timeframe, or where the circumstances are severe and likely to impede the continued sound operation of the VASP."
+		},
+		{
+			"number": 900,
+			"content": "If a VASP wishes to make any change to any of the content set out in its application documents or related matters as listed below, it shall, prior to the change, submit its application to the FSC through the institution designated by the FSC, and may make the change only after the FSC has given approval:\r\n1. Name of the VASP.\r\n2. Responsible person(s), partner(s), or beneficial owner(s).\r\n3. Branch or entity business location.\r\n4. Number and location(s) of automated service facilities/equipment.\r\n5. Acquisition from or assignment to another person of business or assets in full or in major part.\r\n6. Merger, consolidation, or demerger.\r\n7. Addition or reduction of lines of business.\r\n8. Other matters as required by the FSC.\r\nIf there is any change to any of the content set out in its application documents or related matters other than as listed in the preceding paragraph, the VASP shall, within 5 business days from the date of occurrence of the fact, file a report with the FSC through the institution designated by the FSC\r\nIf any application document submitted by a VASP under paragraph 1 is incomplete or contains insufficient information, and the VASP fails to make the supplementation or correction requested by the FSC within the specified timeframe, the FSC may dismiss its application."
+		},
+		{
+			"number": 1000,
+			"content": "A VASP's operation of business shall comply with laws and regulations, its articles of incorporation, internal control system, and TVASPA self-regulatory rules.\r\nA VASP's internal control system shall ensure that the virtual assets in relation to which it provides services have no legality issues."
+		},
+		{
+			"number": 1100,
+			"content": "A VASP may handle the receipt and payment of fiat currency involved in virtual asset transactions in accordance with business needs, and with the consent of the customer, deposit the customer's fiat currency in a special deposit account of the same currency opened by the VASP with a financial institution.\r\nA VASP shall place in trust a customer's deposited fiat currency or obtain a full performance guarantee from the bank with respect thereto.\r\nThe term \"place in trust\" in the preceding paragraph means entering into a trust deed with the financial institution where it opens the special deposit account under paragraph 1 to designate the special deposit account as a trust account.\r\nThe term \"obtain a full performance guarantee from the bank\" in paragraph 2 means entering into a full performance guarantee agreement with the bank under which the bank assumes the VASP's performance guarantee responsibility to the customer.\r\nThe provisions of Articles 23 and 25 to 27 herein apply mutatis mutandis to a VASP keeping customer fiat currency on deposit in accordance with this article."
+		},
+		{
+			"number": 1200,
+			"content": "A VASP shall adopt relevant policies and procedures to ensure continuity in its business operations.\r\nA VASP shall establish an appropriate information security management system, taking into account the type, quantity, and nature of the information maintained or processed, as well as the scale and nature of the information/communication system.\r\nA VASP shall establish a stable and secure information system that is consistent with the scale and nature of the business operated, and adopt appropriate measures and procedures to ensure the availability, accuracy, confidentiality and security of data and its transmission, exchange or processing.\r\nA VASP shall put in place policies and procedures around the management and confidentiality of material non-public information involved in its operations.\r\nA VASP shall have adequate and qualified information security personnel."
+		},
+		{
+			"number": 1300,
+			"content": "A VASP shall establish procedures for handling customer complaints, and fairly and promptly handle all disputes with customers in connection with virtual asset services."
+		},
+		{
+			"number": 1400,
+			"content": "A VASP shall disclose the following by prominently displaying it on its website or by other means of public announcement designated by the FSC:\r\n1. The reference number and date of the AML registration approval document. If there is a physical location or automated service equipment, the relevant registration certificate(s) shall be announced.\r\n2. Company articles of incorporation or limited partnership or partnership agreement.\r\n3. The content of its business and services.\r\n4. Fee policy.\r\n5. Business continuity policy.\r\n6. Information security policy.\r\n7. Conflict of interest prevention policy.\r\n8. Customer protection measures.\r\n9. Customer complaint handling procedures.\r\n10. Other matters that the FSC requires to be disclosed.\r\nUpon the occurrence of any material contingency, the VASP shall immediately make a public announcement disclosing the important facts or clarifications thereof, and notify the FSC."
+		},
+		{
+			"number": 1500,
+			"content": "VASPs shall keep relevant records of the virtual asset services they handle for their customers, and keep them available for audit and inspection.\r\nThe service records mentioned in the preceding paragraph shall be kept for 5 years from the termination of the service relationship. However, in the event of any dispute, they shall be kept until the dispute is extinguished."
+		},
+		{
+			"number": 1600,
+			"content": "A virtual asset exchanger shall publicly announce matters including the virtual assets in relation to which it provides exchange services, the method of determining the exchange price, and the exchange quantity on its website or by other means of public announcement designated by the FSC.\r\nThe matters to be publicly announced under the preceding paragraph shall include a hyperlink to the virtual asset white paper webpage. The content of the white paper shall include:\r\n1. Information about the issuer.\r\n2. Description of the issuance plan.\r\n3. Issue quantity, price, and other conditions of subscription.\r\n4. Information about the public offering and admission to trading of the virtual asset.\r\n5. Information about the virtual asset project.\r\n6. Information on the rights and obligations attached to the virtual asset.\r\n7. Information on the underlying technology of the virtual asset.\r\n8. Disclosure of the risks associated with the virtual asset.\r\n9. Information on the consensus mechanism used for the virtual asset.\r\n10. Other relevant information that may affect subscribers or holders of the virtual asset.\r\nA virtual asset exchanger may not provide exchange service for any virtual asset for which a white paper has not been prepared and publicly announced in accordance with paragraph 2. This restriction does not apply, however, in any of the following circumstances:\r\n1. The virtual asset is issued for free.\r\n2. The virtual asset is issued as a reward for the labor of maintenance of the distributed ledger or the validation of transactions.\r\n3. Other circumstances as permitted by the FSC."
+		},
+		{
+			"number": 1700,
+			"content": "A virtual asset exchanger shall adopt and publicly announce its virtual asset exchange rules and incorporate them into its internal control systems.\r\nA virtual asset exchanger shall take reasonable measures to protect customer rights and interests, and expeditiously and fairly execute exchanges of virtual assets for customers.\r\nA virtual asset exchanger shall publicly announce in real time transaction-related information on the virtual assets in relation to which it provides exchange services, including transaction prices and quantities, and shall keep relevant records.\r\nExchange records under the preceding paragraph shall be kept for 5 years from the time of completion of exchange. However, in the event of any dispute, they shall be kept until the dispute is extinguished."
+		},
+		{
+			"number": 1800,
+			"content": "Unless otherwise provided in this Section, the provisions of the preceding Section apply to virtual asset trading platforms."
+		},
+		{
+			"number": 1900,
+			"content": "A virtual asset trading platform shall establish review standards and review procedures for admitting virtual assets to trading, as well as those for removing virtual assets from trading, and incorporate them into its internal control systems.\r\nThe review standards under the preceding paragraph shall include the following items:\r\n1. The content of the virtual asset white paper.\r\n2. Background information of the virtual asset issuer and its responsible person(s).\r\n3. The legal compliance status and supervisory/regulatory status of the virtual asset.\r\n4. The supply, demand, market conditions, and liquidity of the virtual asset and the responsibleness of its price.\r\n5. The technology relating to the virtual asset.\r\n6. The development of the virtual asset.\r\n7. The enforceability of any rights represented by the virtual asset.\r\n8. The market risks of the virtual asset.\r\n9. The legal risks associated with the virtual asset and its issuer.\r\n10. Whether the advertising content and business solicitation of the virtual asset involve any improper or untrue statements, or falsehood, deception, or concealment, or are otherwise misleading.\r\n11. The degree of anonymity of the virtual asset.\r\n12. The risks of money laundering, terrorist financing, and other illegal activity associated with virtual asset.\r\nRecords shall be kept of the review process for admitting virtual assets to trading and the review process for removing them from trading.\r\nThe retention period for the review records for admission to and removal from trading mentioned in the preceding paragraph shall be 5 years from the time the virtual asset is removed from trading. However, in the event of any dispute, they shall be kept until the dispute is extinguished."
+		},
+		{
+			"number": 2000,
+			"content": "A virtual asset trading platform shall establish and publicly announce its virtual asset trading rules and incorporate them into its internal control systems.\r\nThe trading rules under the preceding paragraph shall include the following:\r\n1. Website(s) or venue(s) where the trading services are provided.\r\n2. Business days and trading hours.\r\n3. Trade process.\r\n4. Trade instruction method.\r\n5. Execution principles and methodology.\r\n6. Trade verification procedures.\r\n7. Clearing and settlement arrangements.\r\n8. Situations in which trades can be cancelled or amended and cancellation or amendment methods.\r\n9. Arrangements with respect to trading suspension and resumption.\r\n10. Method for handling of error trades.\r\n11. Handling of default.\r\nA virtual asset trading platform shall publicly announce in real time any bid and ask prices for the virtual assets admitted for trading on the platform, the price, volume, and time of the transactions executed in respect of those virtual assets, and other relevant trading information, and shall keep the related records.\r\nThe retention period for the trading records mentioned in the preceding paragraph shall be 5 years from the time a trade is completed. However, in the event of any dispute, they shall be kept until the dispute is extinguished."
+		},
+		{
+			"number": 2100,
+			"content": "A virtual asset trading platform shall establish mechanisms to prevent unfair market transactions and measures such as for detecting and alerting to anomalies in price and volume and incorporate them into its internal control systems."
+		},
+		{
+			"number": 2200,
+			"content": "A virtual asset transferor shall establish and publicly announce its virtual asset transfer rules and incorporate them into its internal control systems."
+		},
+		{
+			"number": 2300,
+			"content": "A virtual asset custodian shall segregate customer assets in its custody from its proprietary assets."
+		},
+		{
+			"number": 2400,
+			"content": "A virtual asset custodian shall not agree with a customer that the ownership of the customer's virtual assets in the custodian's custody be transferred to the virtual asset custodian.\r\nA virtual asset custodian receiving a customer's virtual assets shall keep them in segregated custody from its proprietary virtual assets and shall not agree with a customer that the customer's virtual assets be commingled in custody with the custodian's virtual assets."
+		},
+		{
+			"number": 2500,
+			"content": "A virtual asset custodian shall not use a customer's assets except, in accordance with the customer's instructions, to dispose of the customer's assets, to offset the customer's expenses and debts, or for other causes permitted by the FSC."
+		},
+		{
+			"number": 2600,
+			"content": "A virtual asset custodian shall, with respect to the custody of customer assets, adopt and publicly announce explicit custody policies and procedures and incorporate them into its internal control systems.\r\nThe custody policies and procedures under the preceding paragraph shall include at least the following matters:\r\n1. Policies and procedures to prevent and mitigate the risk of loss, theft, or inaccessibility of customer assets.\r\n2. The ratio at which the virtual asset custodian stores customer virtual asset positions in cold wallets and hot wallets.\r\n3. Specifications and procedures for access to, and private key management of, cold and hot wallets.\r\n4. Procedures for handling any incidents involving customer rights and interests in their assets.\r\nThe ratio for positions in cold wallets and hot wallets mentioned in subparagraph 2 of the preceding paragraph shall be separately prescribed by the FSC."
+		},
+		{
+			"number": 2700,
+			"content": "A virtual asset custodian shall, with respect to customer assets in its custody, faithfully record each individual customer's name, wallet address, asset amounts, quantities, and all dispositions including transfers in and transfers out, and shall keep the records and provide them to the customer.\r\nThe records mentioned in the preceding paragraph shall be kept for 5 years from the time of termination of the custody business relationship. However, in the event of any dispute, they shall be kept until the dispute is extinguished.\r\nA virtual asset custodian shall establish measures for regular and frequent reconciliations of customer assets in its custody, for which it shall engage a certified public accountant to issue a report at least once every year for public announcement."
+		},
+		{
+			"number": 2800,
+			"content": "A virtual asset underwriter shall, on its website or by other means of public announcement designated by the FSC, make public announcements of its underwriting of virtual assets. The matters to be publicly announced shall include a hyperlink to the virtual asset white paper.\r\nThe provisions of Article 16, paragraphs 2 and 3 apply mutatis mutandis to the circumstances under this paragraph."
+		},
+		{
+			"number": 2900,
+			"content": "A virtual asset underwriter shall establish and publicly announce its virtual asset underwriting rules, establish review standards and review procedures for the virtual assets it underwrites, and incorporate them into its internal control systems.\r\nThe provisions of Article 19, paragraph 2 apply mutatis mutandis to the review standards under the preceding paragraph."
+		},
+		{
+			"number": 3000,
+			"content": "A VASP that, before the entry into force of these Regulations, had already completed a legal compliance statement in accordance with Article 17 of the Regulations Governing Anti-Money Laundering and Countering the Financing of Terrorism for Enterprises Handling Virtual Currency Platform or Transaction issued on 30 June 2021 shall carry out AML registration with the FSC by 31 March 2025 and shall complete the AML registration by 30 September 2025. A VASP that has not carried out registration with the FSC or has not completed the registration by such deadline may not continue to operate business."
+		},
+		{
+			"number": 3100,
+			"content": "These Regulations shall enter into force from 30 November 2024."
+		}
+	]
+}

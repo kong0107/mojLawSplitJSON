@@ -1,7 +1,7 @@
 {
 	"pcode": "A0030087",
 	"LawLevel": "命令",
-	"EngLawName": "The Implementation Regulations for Archives on Electronic Storage",
+	"EngLawName": "The Implementation Regulation for the Management of Electronic Storage of Records",
 	"name": "檔案電子儲存管理實施辦法",
 	"EngLawModifiedDate": "20120925",
 	"histories": [
@@ -13,91 +13,91 @@
 	"articles": [
 		{
 			"number": 100,
-			"content": "The Regulations were enacted according to Paragraph 1 of Article 9 of the Archives Act (hereinafter referred to as the “Act”)."
+			"content": "This Regulation is prescribed in accordance with paragraph 1 of Article 9 of the Archives Act (hereinafter referred to as the Act)."
 		},
 		{
 			"number": 200,
-			"content": "The terms used in the Regulations are defined as follows:\r\n1. “Electronic Storage” shall mean records processed by electronic equipment such as computers or automated machines and being stored in digital format.\r\n2. “Original Records” shall mean records for Electronic Storage.\r\n3. “Electronic Media” shall mean media used for Electronic Storage, including but not limited to tapes, CD’s and CD-ROMs.\r\n4. “Image/Sound File” shall mean the image or sound information from digitalized Original Records and stored on Electronic Media.\r\n5. “Original Image/Sound File” shall mean the image or sound information preserved directly from digitalized Original Records and stored on Electronic Media.\r\n6. “Duplicated Image/Sound File” shall mean the image or sound information retrieved from Original Image/Sound File managed by software and stored on Electronic Media.\r\n7. “Certification” shall mean the procedures used to prove the contents of Image/Sound File are the same as those on the Original Records by the archives management agency.\r\n8. “Encryption” shall mean processing Image/Sound File in random numbers by algorithm or other methods.\r\n9. “Backup” shall mean to duplicate the content of records to another media under the original technique environment.\r\n10. “Migration” shall mean that in order to read the records in the future, the process to switch the format of software and hard ware when the software or hardware of information system is obsolete or invalid."
+			"content": "The terms used in this Regulation are defined as follows:\r\n1. Electronic storage: refers to the records processed by electronic equipment such as computers or automated machines and stored in digital format.\r\n2. Original files: refers to original records processed and stored in electronic format.\r\n3. Electronic media: refers to the media used for the electronic storage, including tapes, floppy disks and CD-ROMs.\r\n4. Electronic audio-visual files: refers to original files that are digitized into image or sound data and stored in electronic media.\r\n5. Original electronic audio and video files: refers to the image or sound data which are directly digitized from the original file and stored in electronic media for preservation.\r\n6. Electronic audio and video file duplicates: refers to the original version of the electronic audio and video file which are duplicated by software and stored in electronic media for retrieval or access of the image or sound data.\r\n7. Certification: refers to the process by which the records management agency certifies that the contents of electronic audio and video file and their copies are identical to the contents of the original files.\r\n8. Encryption: refers to the use of mathematical algorithms or other methods to process electronic audio and video files in a garbled manner.\r\n9. Backup: refers to copying the file contents to another storage medium under the original technical environment.\r\n10. Migration: refers to the operation procedure in which the software and hardware of the information system are outdated or invalid, and the software and hardware formats need to be converted so that they can be read in the future."
 		},
 		{
 			"number": 300,
-			"content": "The operation for Electronic Storage shall be conducted by the agency-in-charge. If necessary, outside parties may be appointed for the job.\r\nThe appointment of Electronic Storage under the preceding paragraph shall be at the agency-in-charge or the other appointed place."
+			"content": "The process of the electronic storage shall be conducted by the agency that manages the records; when necessary, it may be outsourced.\r\nThe electronic storage of files outsourced in the preceding paragraph shall be carried out within the organization that manages the records or at its designated location."
 		},
 		{
 			"number": 400,
-			"content": "Permanent records and temporary records shall be stored on separate Electronic Media."
+			"content": "Permanent records and temporary records shall be stored in separate electronic media."
 		},
 		{
 			"number": 500,
-			"content": "When processing the Electronic Storage of archives, the archivist shall comply with the regulations relevant to the regulatory mandates for government document and records management information system and apply proper Electronic Media and read-only storage format."
+			"content": "When processing the electronic storage of records, the records manager shall comply with the regulations relevant to government document and records management information system and use appropriate electronic media and storage formats, and shall store them in read-only mode."
 		},
 		{
 			"number": 600,
-			"content": "Before processing Electronic Storage for paper records, they shall be organized first and their fastener may be removed if necessary. If they are damaged, they shall be restored immediately. They shall be removed in order and be re-bound as originals after the completion of Electronic Storage.\r\nWhen processing Electronic Storage under the preceding paragraph, one shall avoid distorting or skipping of pages of the records."
+			"content": "Before paper records are processed for the electronic storage, they shall be organized first and their fastener may be removed when necessary. If they are damaged, they shall be restored immediately. Attention shall be paid to the order and the original state shall be restored after the completion of the electronic storage.\r\nDuring the process under the preceding paragraph, image distortion and page skipping shall be avoided."
 		},
 		{
 			"number": 700,
-			"content": "Before processing Electronic Storage for photographic records, the preservation status of the photographs, microfilms, positives, negatives or films shall first be examined. If they are damaged, they shall be restored immediately.\r\nWhen processing Electronic Storage for photographic records, one shall wear cotton or nylon gloves and avoid leaving fingerprints or scratches."
+			"content": "Before the process of the electronic storage for photographic records, the preservation status of the photographs, microfilms, positives, negatives or films shall first be examined. If they are damaged, they shall be restored immediately.\r\nDuring the process of the electronic storage for photographic records, cotton or nylon gloves shall be worn to avoid leaving fingerprints or scratches."
 		},
 		{
 			"number": 800,
-			"content": "Before processing Electronic Storage for videotapes/tapes records, they shall be examined. If they are damaged, they shall be restored immediately.\r\nWhen processing Electronic Storage under the preceding paragraph, one shall turn off write protect tab on the videotapes/tapes and rewind the videotapes/tapes to the beginning to avoid damaging the content."
+			"content": "Before the process of the electronic storage for videotapes/tapes records, they shall be examined. If they are damaged, they shall be restored immediately.\r\nDuring the process of the electronic storage under the preceding paragraph, write protection tab on the videotapes/tapes shall be turned off and the videotapes/tapes shall be rewinded to the beginning to avoid damaging the content."
 		},
 		{
 			"number": 900,
-			"content": "When processing the Electronic Storage of archives, the following subparagraphs shall apply:\r\n1. Maintain the completion and clarity of the images and sounds.\r\n2. Prevent damage to the Original Records resulting from repeated procedures.\r\n3. Rectify mistakes or deficiencies immediately, if any."
+			"content": "During the process of the electronic storage of records, the following matters shall be noted:\r\n1. Maintain the completion and clarity of the images and sounds.\r\n2. Prevent damage to the original records resulting from repeated procedures.\r\n3. Any errors or omissions shall be corrected immediately."
 		},
 		{
 			"number": 1000,
-			"content": "When processing the Electronic Storage of archives, the agency managing such archives shall check and ensure that the content shall be the same as on the Original Records. If necessary, they may be managed with Electronic Signature and stored with Encryption."
+			"content": "During the process of the electronic storage of records, the agency preserving the records shall check and ensure that the content shall be exactly the same as on the original records. When necessary, they may be managed with electronic signature or stored with encryption."
 		},
 		{
 			"number": 1100,
-			"content": "After completion of the Electronic Storage of archives, the archivist shall specify the Electronic Media number and the condition of the Original records on the archives catalogs to facilitate retrieval."
+			"content": "After completion of the electronic storage of records, the records manager shall specify the electronic media number and the condition of the original records on the records catalogs or provide search function."
 		},
 		{
 			"number": 1200,
-			"content": "After completion of the Electronic Storage of archives, the Electronic Media shall provide a statement file to show “the same as the Originals” and record the subparagraphs as follows:\r\n1. The archives management division.\r\n2. Number of the Electronic Media.\r\n3. Completion date.\r\n4. A list of Image Files.\r\nDuplicated Image/Sound File shall show “Deemed real”."
+			"content": "After completion of the electronic storage of records, the electronic media shall provide a statement file to show “the same as the originals” and record the following matters:\r\n1. The agency preserving the records.\r\n2.  Number of the electronic media.\r\n3. Completion date.\r\n4. A list of image/sound files.\r\nDuplicated image/sound file shall show “deemed authentic”."
 		},
 		{
 			"number": 1300,
-			"content": "The cover package for Electronic Media shall show the items as follows:\r\n1. The archives management division.\r\n2. Number of the Electronic Media.\r\n3. Completion date.\r\nIf the content of the Electronic Media belongs to Classified Archives, the cover package shall show the items according to the relevant laws and regulations."
+			"content": "The cover package for electronic media shall show the following matters:\r\n1. The agency preserving the records.\r\n2. Number of the electronic media.\r\n3. Completion date.\r\nIf the content of the electronic media belongs to classified records, the cover package shall show the items according to the relevant laws and regulations."
 		},
 		{
 			"number": 1400,
-			"content": "Original Image/Sound Files shall be made in Backup and stored in separate places."
+			"content": "Original image/sound files shall be made in backup and preserved in separate places."
 		},
 		{
 			"number": 1500,
-			"content": "The agency processing the Electronic Storage of archives shall review the efficiency of relevant software and hardware periodically and carry out Migration if necessary.\r\nThe content of Migration under the preceding paragraph shall be complete and secure and shall be prevented from improper addition, deletion and removal."
+			"content": "The agency processing the electronic storage of records shall review the efficiency of relevant software and hardware periodically and carry out migration when necessary.\r\nDuring the process of migration stated in the preceding paragraph, attention shall be paid to the completion and security of file contents, and any improper additions, deletions, and replacements shall be avoided."
 		},
 		{
 			"number": 1600,
-			"content": "Before the government agency changes the software or hardware for Electronic Storage, it shall make Backups to prevent loss of data. The same rule applies to Migration."
+			"content": "Before the government agencies change the software or hardware for the electronic storage, they shall make backup to prevent loss of data. The same rule also applies to migration."
 		},
 		{
 			"number": 1700,
-			"content": "The agency processing the Electronic Storage of archives shall check the Electronic Media periodically. If there is any damage, the material shall be restored. If it cannot be restored, it shall be discarded and be reproduced. If it cannot be reproduced, this situation shall be specified on the archives catalogs.\r\nThe destruction of the discarded media under the preceding paragraph shall comply with Article 13 of the Retention Period and Destruction Regulations for Agency Records enacted by the central archives authority-in-charge."
+			"content": "The agency processing the electronic storage of records shall inspect the electronic media periodically. If there is any damage, the material shall be restored immediately. If it cannot be restored, it shall be discarded and be reproduced. If it cannot be reproduced, this situation shall be specified on the records catalogs.\r\nThe destruction of the discarded media under the preceding paragraph mutatis mutandis Article 13 of the Regulation on the Retention Periods and Destruction of Agency Records prescribed by the central archives competent authority."
 		},
 		{
 			"number": 1800,
-			"content": "The storage area for Electronic Storage shall have proper systems for environmental control and security control in order to prevent damage and loss.\r\nThe systems under the preceding paragraph shall comply with the directions relevant to the equipment requirements of archival repository enacted by the central archives authority-in-charge."
+			"content": "The storage places for electronic media shall have proper measures for environmental control and security control in order to prevent damage and loss.\r\nThe measures under the preceding paragraph shall comply with the Standards for Records Repositories and other relevant requirements prescribed by the central archives competent authority."
 		},
 		{
 			"number": 1900,
-			"content": "Electronic Media shall be stored according to their type. They shall be stored in sequence of Electronic Media number. A record shall be made for checking."
+			"content": "Electronic media shall be stored separately according to their types. They shall be stored in sequence of electronic media number. A record shall be made for checking."
 		},
 		{
 			"number": 2000,
-			"content": "To certify the authenticity of Image/Sound Files and their duplication, the archives management agency shall first examine and confirm the content as being the same as those in the Original Records and then they may be deemed the same as the originals or deemed real."
+			"content": "To certify the authenticity of image/sound files and their duplicates, the agency preserving the records shall first examine and confirm the content as being exactly the same as those in the original records and then they may be deemed as equivalent to the originals or deemed authentic."
 		},
 		{
 			"number": 2100,
-			"content": "If it is necessary to reproduce the Original Image/Sound File, it shall comply with the Regulations."
+			"content": "If it is necessary to reproduce the original image/sound file, it shall comply with this Regulation."
 		},
 		{
 			"number": 2200,
-			"content": "The Regulations shall be effective on the effective date of the Act.\r\nThe amendments of the Regulations shall be effective on the date of promulgation."
+			"content": "This Regulation shall come into force from the date of the Act coming into force.\r\nAmendments to this Regulation shall come into force from the date of promulgation."
 		}
 	]
 }
