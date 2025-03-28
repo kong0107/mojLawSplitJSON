@@ -3,205 +3,83 @@
   "EngLawName": "Regulations for Issuing Distant Water Fisheries Catch Certificates",
   "LawName": "遠洋漁業漁獲證明書核發辦法",
   "EngLawURL": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=M0050056",
-  "EngLawModifiedDate": "20180116",
+  "EngLawModifiedDate": "20250204",
   "EngLawAbandonNote": "",
-  "EngLawAttachements": [],
-  "EngLawHistories": "1.The full text of 29 articles promulgated by the Council of Agriculture, Executive Yuan on January 20, 2017, under Order No. Nong-Yu-Tsu 1061332071.\r\n2.The full text of 32 articles amended and promulgated on 16 January 2018 by the Council of Agriculture, Executive Yuan under Order No. Nung-yu-tzu 1061339210.",
+  "EngLawAttachements": [
+    {
+      "FileName": "Appendix 1  Documents to be enclosed for the issuance of catch certificates.odt",
+      "FileURL": "https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009043"
+    },
+    {
+      "FileName": "Appendix 2  Reasons for denial of catch certificates.odt",
+      "FileURL": "https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009044"
+    },
+    {
+      "FileName": "Appendix 3  Types of catch certificates and the timeframe for write-off as well as documents to be enclosed.odt",
+      "FileURL": "https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000009045"
+    }
+  ],
+  "EngLawHistories": "1.The full text of 29 articles promulgated on 20 January 2017 by the Council of Agriculture, Executive Yuan under Order No. Nung-yu-tzu 1061332071.\r\n2.The full text of 32 articles amended and promulgated on 16 January 2018 by the Council of Agriculture, Executive Yuan under Order No. Nung-yu-tzu 1061339210.\r\n  The mandates that belong to the “Council of Agriculture, Executive Yuan” as stipulated in Article 2; Article 3, subparagraph (1); Article 4, paragraph 1, subparagraph (1), (2); Article 6, paragraph 1; Article 7, subparagraph (3); Article 8, subparagraph (8); Article 9, paragraph 1; Article 10, subparagraph (2); Article 11; Article 13, paragraph 1; Article 15, paragraph 1; Article 16, paragraph 1; Article 17, subparagraph (5); Article 18, paragraph 1, 3, 4; Article 19, paragraph 1; Article 21, paragraph 1; Article 23, paragraph 1; Article 23, paragraph 3, subparagraph (2); Article 25, paragraph 1; Article 26; Article 27, paragraph 2; Article 28, paragraph 1; Article 29, paragraph 1; Article 30 and Article 31 shall be under the mandates of the “Ministry of Agriculture”; and the mandates that belong to the “Fisheries Agency, Council of Agriculture, Executive Yuan” as stipulated in Article 2 shall be under the mandates of the “Fisheries Agency, Ministry of Agriculture”, from August 1, 2023, as promulgated by the announcement Yuan-Tai-Guei-Tzu No. 1125014346 made by the Executive Yuan on July 27, 2023.\r\n3.The full text of 12 articles amended and promulgated on 4 February 2025 by the Ministry of Agriculture under Order No. Nung-yu-tzu 1131537130.",
   "EngLawForeword": "",
   "EngLawArticles": [
     {
-      "EngArticleType": "C",
-      "EngArticleNo": "",
-      "EngArticleContent": "   Chapter I General Principles"
-    },
-    {
       "EngArticleType": "A",
       "EngArticleNo": "Article 1",
-      "EngArticleContent": "These Regulations are hereby established pursuant to Article 10, paragraph and Article 25, paragraph 6 of the Act for Distant Water Fisheries (hereinafter referred to as “the Act”)."
+      "EngArticleContent": "These Regulations are hereby established pursuant to Article 10, paragraph 2 and Article 25, paragraph 6 of the Act for Distant Water Fisheries (hereinafter referred to as “the Act”)."
     },
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 2",
-      "EngArticleContent": "The competent authority may commission the Fisheries Agency, Council of Agriculture, Executive Yuan to conduct the receipt of applications, issuance, write-offs, cancellation, and re-issuance of catch certificates and other related affairs pursuant to Articles 6, 9, 11, 13, 15, 16, 18, 19, 21, 23, 25, 28, 29, and 30."
+      "EngArticleContent": "The competent authority may commission the Fisheries Agency, Ministry of Agriculture to conduct the receipt of applications, issuance, write-offs, cancellation, and re-issuance of catch certificates pursuant to Articles 6 to 8, 10, and 11 as well as other related affairs"
     },
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 3",
-      "EngArticleContent": "Catch certificates stipulated herein are divided into the following five types:\r\n(1)Fishing Vessel Catch Certificate, which serves as a proving document for the application of exemption of import tax and exemption of import control to the Customs Administration of the Ministry of Finance for catches caught by a fishing vessel permitted by the competent authority to conduct distant water fisheries and shipped back to the Republic of China by commercial cargo vessel, foreign carrier vessel, or airplane.\r\n(2)Catch Origin Document, which is to prove that fishing vessels of catches or fisheries products meet certain sanitation requirements so as to apply for the quarantine certificates of exported animal products that meet the requirements of the import country.\r\n(3)Catch Statistical Document, which is the catch trade document issued in compliance with the conservation and management measures of international fisheries organizations.\r\n(4)Legitimate Catch Certificate, which is to prove that fishing operations of catches or fisheries products are not involved in illegal, unreported and unregulated (IUU) fishing activities.\r\n(5)EU Catch Certificate, which is to prove that fishing operations of catches or fisheries products meet the requirements of the European Union (hereinafter referred to as the “EU”)."
+      "EngArticleContent": "Catch certificates stipulated herein are categorized into the following five types:\r\n(1) Fishing Vessel Catch Document means a proving document for the application of exemption of import tax and exemption of import control to the Customs Administration of the Ministry of Finance, for catch caught by any distant water fishing vessel permitted by the competent authority and shipped back to the Republic of China by cargo vessels, foreign carrier vessels, or airplanes.\r\n(2) Catch Origin Document means any of the following documents:\r\ni. A proving document that records the concerned fishing vessel, fishing area(s), fishing period(s), weights, and other information on origin, for the concerned catch or fisheries products.\r\nii. A proving document that, in addition to recording the information as referred to in the preceding item, proves that the concerned catch has not been processed, as per the requirements of any import country, and that the concerned fishing vessel meets certain sanitation requirements, so as to apply for a Veterinary Certificate for Export of Animal Products.\r\n(3) Catch Statistical Document means a catch trade document issued for bigeye tuna or swordfish in accordance with conservation and management measure(s) of international fisheries organization(s).\r\n(4) Catch Certificate for Sales means a document that proves that fishing operations for the concerned catches or fisheries products are not involved in illegal, unreported and unregulated (IUU) fishing activities.\r\n(5) EU Catch Certificate means a certificate that proves that fishing operations for the concerned catches or fisheries products meet the requirements of the European Union (hereinafter referred to as the “EU”)."
     },
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 4",
-      "EngArticleContent": "Any applicant of any catch certificate shall meet any of the following conditions:\r\n(1)The distant water fisheries operator who is permitted by the competent authority to conduct distant water fisheries and whose catches or fisheries products are caught by the fishing vessel(s) operated by him/herself.\r\n(2)The industry related to distant water fisheries approved by the competent authority to conduct export trade of catches or fisheries products of distant water fisheries.\r\nThe applicant of the Fishing Vessel Catch Certificate shall be limited to the applicant as referred to in subparagraph (1) of the preceding paragraph."
+      "EngArticleContent": "For any application of catch certificate, the concerned fishing vessel or catch shall meet the following conditions:\r\n(1) The fishing vessel for the catch or fisheries products shall have a Distant Water Fisheries Permit during the period of fishing operations. For catches that have been transshipped at sea, or transshipped in port to foreign carrier vessels, the concerned carrier vessels shall have transshipment plans and apply to the competent authority for approval.\r\n(2) For any application of a Catch Origin Document as referred to in item ii of Article 3, subparagraph (2), the fishing vessel shall also complete the registration of hygiene establishments of the concerned import country.\r\n(3) For any application of a Catch Statistical Document for fresh bigeye tuna or fresh swordfish, the following conditions shall also be met:\r\ni. Such catch is caught by a tuna longline fishing vessel whose gross tonnage (GT) is under 100.\r\nii. Such catch is preserved in ice-chilling manner.\r\n(4) For any application of an EU Catch Certificate, the concerned fishing vessel and carrier vessel shall be registered in the EU SANCO list."
     },
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 5",
-      "EngArticleContent": "The maximum validity period of any catch certificate shall be four years, except for the Catch Statistical Document of fresh bigeye tuna and fresh swordfish, which shall be valid for two months.\r\nIn case that a catch certificate is issued before landing of catches, the validity period as referred to in the preceding paragraph shall begin from the date of issuance. For any catch certificate issued after landing of catches, the validity period shall begin from the date of the completion of landing."
-    },
-    {
-      "EngArticleType": "C",
-      "EngArticleNo": "",
-      "EngArticleContent": "   Chapter II Fishing Vessel Catch Certificates"
+      "EngArticleContent": "Any applicant of a catch certificate shall meet one of the following conditions:\r\n(1) He/She shall be a distant water fisheries operator permitted by the competent authority and catch shall be limited to the catch caught by fishing vessel(s) operated by him/herself.\r\n(2) The industry related to distant water fisheries approved by the competent authority to conduct export trade of catches or fisheries products of distant water fisheries.\r\nApplicants of Fishing Vessel Catch Documents shall be limited to the applicant as referred to in subparagraph (1) of the preceding paragraph."
     },
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 6",
-      "EngArticleContent": "For any application of the Fishing Vessel Catch Certificate, the application form in the required format shall be filled in and submitted to the competent authority together with the following documents:\r\n(1)A copy of the shipping documents proving that catches are shipped back to land in the Republic of China for sale by commercial cargo vessel, foreign carrier vessel, or airplane.\r\n(2)Details of the catches transported back to the Republic of China for landing.\r\nThe Fishing Vessel Catch Certificate will be issued after the application as referred to in the preceding paragraph is examined and determined to be compliant with relevant requirements."
+      "EngArticleContent": "For any application of a catch certificate, an application form shall be filled in and submitted to the competent authority together with the documents as listed in Appendix 1.\r\nA catch certificate will be issued after the application as referred to in the preceding paragraph is examined and determined to be compliant with the relevant requirements.\r\nThe maximum validity period of any catch certificate shall be four years, except for the Catch Statistical Document of fresh bigeye tuna and fresh swordfish, which shall be valid for two months.\r\nIn case that a catch certificate is issued before landing of catches, the validity period as referred to in the preceding paragraph shall begin from the date of issuance. For any catch certificate issued after landing of catches, the validity period shall begin from the date of the completion of landing."
     },
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 7",
-      "EngArticleContent": "In case of any of the following circumstances, the Fishing Vessel Catch Certificate shall not be issued:\r\n(1)The applicant does not meet the provisions stipulated in Article 4, paragraph 1.\r\n(2)The catch of purse seine fishing vessel is not frozen round fish.\r\n(3)The fishing vessel conducts distant water fisheries without the permission from the competent authority.\r\n(4)The applied amount exceeds the amount verified by transshipment inspection. In case of no transshipment inspection conducted, the applied amount exceeds the amount recorded in the Advance Notice of Landing."
-    },
-    {
-      "EngArticleType": "C",
-      "EngArticleNo": "",
-      "EngArticleContent": "   Chapter III Catch Origin Documents"
+      "EngArticleContent": "In case that the application as referred to in Article 6, paragraph 1 is under any of the circumstances as listed in Appendix 2, the concerned catch certificate shall not be issued.\r\nIn case that any of the circumstances as listed in Appendix 2 is found after the issuance of a catch certificate, the competent authority shall withdraw such catch certificate. For any EU Catch Certificate being withdrawn, the competent authority shall notify the EU Directorate-General for Maritime Affairs and Fisheries (DG MARE)."
     },
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 8",
-      "EngArticleContent": "Any fishing vessel applying for the Catch Origin Document shall have passed the hygiene inspection.\r\nFishing vessels which have passed the hygiene inspection as referred to in the preceding paragraph shall be promulgated by the competent authority."
+      "EngArticleContent": "After the issuance of a catch certificate, write-off or cancellation shall be conducted by the concerned applicant in accordance with the following provisions:\r\n(1) In the event that the catch certificate is used, the types of catch certificates and the timeframe for write-off as well as documents to be enclosed are as listed in Appendix 3.\r\n(2) In the event that the catch certificate is not used, the applicant shall, within the validity period of the catch certificate, take the initiative to apply to the competent authority for the cancellation, with the enclosure of the following documents:\r\ni. Statement of the cause(s) of the cancellation.\r\nii. The original copy of the catch certificate.\r\niii. In case that the cause(s) of the cancellation happens after the export of the concerned catch or fisheries products, a copy of shipping document(s) for the export and the proof slip of the export declaration issued by the Customs at the port of exportation, or other proving document(s), shall be enclosed as well.\r\nShould the applicant fail to conduct the write-off within the timeframe as stipulated in subparagraph (1) of the preceding paragraph, he/she may, by the end of the timeframe, apply for the extension to the competent authority, with the enclosure of the original copy of the catch certificate, the relevant proving document(s), and the statement of reason(s) therefor. The maximum period of each extension shall be in accordance with Appendix 3, and shall not exceed the validity period as stipulated in Article 6, paragraph 3.\r\nFor any applicant that fails to complete the write-off in accordance with the preceding two paragraphs, the competent authority may notify him/her to do so within the required timeframe."
     },
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 9",
-      "EngArticleContent": "For any application of the Catch Origin Certificate, the application form in the required format shall be filled in and submitted to the competent authority, together with the following documents:\r\n(1)The chart recording the temperature of fish holds during fishing operation.\r\n(2)For the applicant as referred to in subparagraph (2) of Article 4, paragraph 1, the record that can trace back to the transaction of the distant water fisheries operator and relevant document(s) proving the trade shall be enclosed as well.\r\nThe Catch Origin Document will be issued after the application as referred to in the preceding paragraph is examined and determined to be compliant with relevant requirements"
+      "EngArticleContent": "The following provisions shall apply for any applicant that fails to conduct the write-off in accordance with Article 8:\r\n(1) For the applicant as referred to in subparagraph (1) of Article 5, paragraph 1, a fine between 500 thousand and 2.5 million New Taiwan Dollars shall be imposed, and the concerned fishing license may be suspended for 2 years or under, or be revoked, in accordance with subparagraph (1) of Article 41, paragraph 1 of the Act.\r\n(2) For the applicant as referred to in subparagraph (2) of Article 5, paragraph 1, pursuant to Article 38, paragraphs 2 and 3 of the Act, a fine between 2 million and 10 million New Taiwan Dollars shall be imposed, and the qualification to export catches and fisheries products of distant water fisheries shall be suspended for two years or under, or be revoked, for violating Article 8, paragraph 2 of the Regulations for the Approval and Management of the Exporters of Catches or Fisheries Products of Distant Water Fisheries."
     },
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 10",
-      "EngArticleContent": "In case of any of the following circumstances, the Catch Origin Certificate shall not be issued:\r\n(1)The applicant does not meet the provisions stipulated in Article 4, paragraph 1.\r\n(2)The exportation eligibility of the applicant as referred to in subparagraph (2) of Article 4, paragraph 1 is suspended by the competent authority.\r\n(3)Any of the circumstances stipulated in subparagraph (2) or (3) of Article 7.\r\n(4)The applied amount exceeds the amount verified by landing or transshipment inspection or the landing inspection conducted by any port State. In case that catches have been landed without verification or inspection, the applied amount exceeds the actual landing amount. In case that catches not have been landed, the applied amount exceeds the amount recorded in the transshipment declaration.\r\n(5)The fishing vessel does not meet the provisions stipulated in Article 8, paragraph 1.\r\n(6)The Catch Origin Certificate previously obtained by the applicant is not written off in accordance with Article 11, or not cancelled in accordance with Article 29."
+      "EngArticleContent": "In case that a catch certificate is missing or damaged during its validity period, the concerned applicant shall take the initiative to apply to the competent authority for cancellation and re-issuance with the enclosure of the documents as stipulated in subparagraph (2) of Article 8, paragraph 1. The enclosure of the original copy of the catch certificate is waived in case of loss. He/She not intending to use the catch certificate shall only apply for the cancellation."
     },
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 11",
-      "EngArticleContent": "Any applicant shall, within two months after the issuance of the Catch Origin Certificate, fill in the application form in the required format and submit it to the competent authority together with a copy of the quarantine certificate of exported animal product for write-off."
-    },
-    {
-      "EngArticleType": "C",
-      "EngArticleNo": "",
-      "EngArticleContent": "   Chapter IV Catch Statistical Documents"
+      "EngArticleContent": "In case that the application form submitted, the required documents, or contents therein are incomplete for the application, write-offs, cancellation, or re-issuance of any catch certificate, the competent authority shall notify the applicant to supplement within the required timeframe. Failing to supplement within the required timeframe or incomplete supplement shall be subject to denial of the application. The application shall be denied directly if such incompleteness cannot be supplemented."
     },
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 12",
-      "EngArticleContent": "For any application of the Catch Statistical Document, the vessel position reporting, logbooks and catch reports, transshipment and landing of the fishing vessel during the period of fishing operation shall be in compliance with the regulations for respective oceans where the fishing vessel concerned proceeds to."
-    },
-    {
-      "EngArticleType": "A",
-      "EngArticleNo": "Article 13",
-      "EngArticleContent": "For any application of the Catch Statistical Document of frozen bigeye tuna or frozen swordfish, the application form in the required format shall be filled in and submitted to the competent authority together with the following documents:\r\n(1)Document(s) proving that the catches concerned have been confirmed by the association which the fishing vessel belongs to.\r\n(2)For catches landed domestically, the fish market transaction document or the Landing Inspection Report shall be enclosed.\r\n(3)For catches landed for sale in designated foreign ports, the document(s) proving the trade shall be enclosed.\r\n(4)For the applicant as referred to in subparagraph (2) of Article 4, paragraph 1, the record that can trace back to the transaction of the distant water fisheries operator and relevant document(s) proving the trade shall be enclosed.\r\n(5)A copy of the transport document of the exported catches. For catches transported by the fishing vessel itself or directly exported from the Republic of China, the enclosure of such document shall be waived.\r\nThe association as referred to in subparagraph (1) of the preceding paragraph means the Taiwan Tuna Purse Seiners Association for a purse seine fishing vessel; and the Taiwan Deep Sea Tuna Boat-owners and Exporters Association or Taiwan Tuna Longline Association for a tuna longline fishing vessel.\r\nThe Catch Statistical Document of frozen bigeye tuna or frozen swordfish will be issued after the application as referred to in paragraph 1 is examined and determined to be compliant with relevant requirements."
-    },
-    {
-      "EngArticleType": "A",
-      "EngArticleNo": "Article 14",
-      "EngArticleContent": "For any application of Catch Statistical Document of fresh bigeye tuna or fresh swordfish, bigeye tuna or swordfish catches shall meet the following conditions:\r\n(1)Such catches are caught by longline fishing vessel(s) whose gross tonnage (GT) is under 100 tons.\r\n(2)Such catches are preserved in ice-chilling method."
-    },
-    {
-      "EngArticleType": "A",
-      "EngArticleNo": "Article 15",
-      "EngArticleContent": "For any application of the Catch Statistical Document of fresh bigeye tuna or fresh swordfish, the application form in the required format shall be filled in and submitted to the competent authority together with the following documents:\r\n(1)For catches landed for sale at a foreign port, the document(s) proving the trade, and the copy of the cargo list obtained from the authority concerned of the port State prior to port entry of the fishing vessel or the Landing Inspection Report, shall be enclosed.\r\n(2)For catches landed for sale at a domestic port, the fish market transaction document or the Landing Inspection Report shall be enclosed.\r\nThe Catch Statistical Document of fresh bigeye tuna or fresh swordfish will be issued after the application as referred to in the preceding paragraph is examined and determined to be compliant with relevant requirements."
-    },
-    {
-      "EngArticleType": "A",
-      "EngArticleNo": "Article 16",
-      "EngArticleContent": "To replace a Catch Statistical Document of fresh bigeye tuna or fresh swordfish landed for sale domestically with that of frozen bigeye tuna or frozen swordfish, the application form in the required format shall be filled in and submitted to the competent authority together with the following documents:\r\n(1)The original copy of the Catch Statistical Document of fresh bigeye or fresh swordfish.\r\n(2)For any applicant as referred to in subparagraph (2) of Article 4, paragraph 1, the record that can trace back to the transaction of the distant water fisheries operator and relevant document(s) proving the trade shall be enclosed.\r\nThe Catch Statistical Document of frozen bigeye tuna or frozen swordfish will be issued after the application as referred to in the preceding paragraph is examined and determined to be compliant with relevant requirements."
-    },
-    {
-      "EngArticleType": "A",
-      "EngArticleNo": "Article 17",
-      "EngArticleContent": "In case of any of the following circumstances, the Catch Statistical Document shall not be issued:\r\n(1)Any of the circumstances stipulated in subparagraph (1) to (4) of Article 10.\r\n(2)For the application of the Catch Statistical Document of frozen bigeye tuna or frozen swordfish, the fishing vessel does not meet the provisions stipulated in Article 12.\r\n(3)For the application of the Catch Statistical Document of fresh bigeye tuna or fresh swordfish, the fishing vessel does not meet the provisions stipulated in Article 12, or the catches does not meet the provisions stipulated in Article 14.\r\n(4)The Catch Statistical Document previously obtained by the applicant is not written off in accordance with Article 18 or 19, or not cancelled in accordance with Article 29.\r\n(5)During the period of fishing operation in which the catches or fisheries products were caught, the fine imposed upon the distant water fisheries operator by the competent authority pursuant to the Act or the Fisheries Act has not been paid, or the suspension of fishing license imposed upon the distant water fisheries operator has not been executed."
-    },
-    {
-      "EngArticleType": "A",
-      "EngArticleNo": "Article 18",
-      "EngArticleContent": "Any applicant shall, within six months after the issuance of the Catch Statistical Document of frozen bigeye tuna or frozen swordfish, fill in the application form in the required format and submit it to the competent authority together with the following documents for write-off:\r\n(1)The document(s) proving the customs clearance.\r\n(2)The document(s) proving the trade between the applicant and foreign buyer(s).\r\n(3)For catches directly exported from the Republic of China, a copy of the transport document.\r\nIn case that the documents as referred to in the preceding paragraph are not in Chinese, English or Japanese, copies of Chinese or English translation shall be enclosed.\r\nIn the event that the Catch Statistical Document of frozen bigeye tuna or frozen swordfish has not been written off six months after the issuance, the applicant may apply for the extension of the write-off period to the competent authority, with the enclosure of the original copy of the Catch Statistical Document and the statement of reason(s) therefor.\r\nThe maximum period of each extension shall be six month, and shall not exceed the validity period of the Catch Statistical Document stipulated in Article 5, paragraph 1.\r\nFor any applicant for the extension in accordance with the preceding paragraph, the competent authority may dispatch personnel to inspect catches and fisheries products pursuant to Article 16 and 25 of the Act."
-    },
-    {
-      "EngArticleType": "A",
-      "EngArticleNo": "Article 19",
-      "EngArticleContent": "Except for the circumstances prescribed in paragraph 3, any applicant shall, within two months after the issuance of the Catch Statistical Documents of fresh bigeye tuna or fresh swordfish, fill in the application form in the required format and submit it to the competent authority together with the following documents for write-off:\r\n(1)The document(s) proving the customs clearance.\r\n(2)The document(s) proving the trade between the applicant and foreign buyer(s).\r\n(3)For catches directly exported from the Republic of China, a copy of the transport document.\r\nIn case that the documents as referred to in the preceding paragraph are not in Chinese, English or Japanese, copies of Chinese or English translation shall be enclosed.\r\nIn case that the Catch Statistical Document of fresh bigeye tuna or fresh swordfish landed for sale domestically has been replaced with that of frozen bigeye tuna or frozen swordfish, the applicant shall be exempted from conducting the write-off as referred to in paragraph 1."
-    },
-    {
-      "EngArticleType": "C",
-      "EngArticleNo": "",
-      "EngArticleContent": "   Chapter V Legitimate Catch Certificates"
-    },
-    {
-      "EngArticleType": "A",
-      "EngArticleNo": "Article 20",
-      "EngArticleContent": "For any application of the Legitimate Catch Certificate, the fishing vessel shall meet the following requirements during its fishing operation:\r\n(1)Provisions on vessel position reporting, logbooks and catch reports, and transshipment and landing prescribed in related Regulations for fishing operation in three Oceans are complied with in accordance with its fishing area.\r\n(2)It is not listed on the IUU fishing vessels list as promulgated pursuant to Article 13, paragraph 2 of the Act.\r\n(3)It has not violated any of the provision stipulated in Article 13, paragraph 1 of the Act; or Article 48, paragraph 1 of the Fisheries Act."
-    },
-    {
-      "EngArticleType": "A",
-      "EngArticleNo": "Article 21",
-      "EngArticleContent": "For any application of the Legitimate Catch Certificate, the applicant shall fill in application form in the required format and submit to the competent authority together with the following documents,:\r\n(1)For any applicant as referred to in subparagraph (2) of Article 4, paragraph 1, the record that can trace back to the transaction of distant water fisheries operator and relevant document(s) proving the trade shall be enclosed.\r\n(2)A copy of transport document/bill of the exported catches or fisheries products. In the event that the application for the Legitimate Catch Certificate is to replace it with the EU Catch Certificate; or is to be served as the origin certificate to apply for relevant documents from other authorities; or is to be served as the certificate for purchasing or selling legitimate catches, the enclosure of such document shall be waived.\r\nThe Legitimate Catch Certificate will be issued after the application as referred to in the preceding paragraph is examined and determined to be compliant with relevant requirements."
-    },
-    {
-      "EngArticleType": "A",
-      "EngArticleNo": "Article 22",
-      "EngArticleContent": "In case of any of the following circumstances, the Legitimate Catch Certificate shall not be issued:\r\n(1)Any of the circumstances stipulated in subparagraph (1) to (4) of Article 10, or subparagraph (5) of Article 17.\r\n(2)The fishing vessel does not meet the provisions stipulated in Article 20.\r\n(3)The Legitimated Catch Certificate previously obtained by the applicant is not written off in accordance with Article 23, or not cancelled in accordance with Article 29."
-    },
-    {
-      "EngArticleType": "A",
-      "EngArticleNo": "Article 23",
-      "EngArticleContent": "Except for the circumstances prescribed in paragraph 3, any applicant shall, within two months after the issuance of the Legitimate Catch Certificate, fill in the application form in the required format and submit it to the competent authority together with the following documents for write-off:\r\n(1)The document(s) proving the customs clearance.\r\n(2)The document(s) proving the trade between the applicant and foreign buyer(s).\r\nIn case that the documents as referred to in the preceding paragraph are not in Chinese, English or Japanese, copies of Chinese or English translation shall be enclosed.\r\nIn case of any of the following circumstances, the applicant shall be exempted from conducting the write-off as referred to in paragraph 1:\r\n(1)The Legitimate Catch Certificate has been replaced to apply for the EU Catch Certificate.\r\n(2)The Legitimate Catch Certificate is served as an origin certificate to apply for relevant documents from other authorities.\r\n(3)The Legitimate Catch Certificate is served as the certificate for purchasing or selling legitimate catches."
-    },
-    {
-      "EngArticleType": "C",
-      "EngArticleNo": "",
-      "EngArticleContent": "   Chapter VI The EU Catch Certificates"
-    },
-    {
-      "EngArticleType": "A",
-      "EngArticleNo": "Article 24",
-      "EngArticleContent": "For the exportation of catches to the EU, both the fishing vessel and the carrier vessel concerned shall pass the EU hygiene inspection, be registered in the EU SANCO list, and comply with the provisions stipulated in Article 20, during the fishing operation."
-    },
-    {
-      "EngArticleType": "A",
-      "EngArticleNo": "Article 25",
-      "EngArticleContent": "For any application of the EU Catch Certificate, the applicant shall fill in application form in the required format and submit to the competent authority together with the following documents:\r\n(1)For the applicant as referred to in subparagraph (2) of Article 4, paragraph 1, the record that can trace back to the transaction of the distant water fisheries operator and relevant document(s) proving the trade shall be enclosed.\r\n(2)A copy of transport document of exported catches or fisheries products.\r\n(3)In the event that the Legitimate Catch Certificate has been applied for such batch of catches or fisheries products, the original copy of such Legitimate Catch Certificate shall be enclosed.\r\nThe EU Catch Certificate will be issued after the application as referred to in the preceding paragraph is examined and determined to be compliant with relevant requirements."
-    },
-    {
-      "EngArticleType": "A",
-      "EngArticleNo": "Article 26",
-      "EngArticleContent": "In order to confirm the authenticity of the signature column of the in-port transshipment in the EU Catch Certificate, the competent authority may contact the authorities concerned of the port State to verify the signature information. In the case that the confirmation from the port State concerned is not received within 30 days, the application shall be denied."
-    },
-    {
-      "EngArticleType": "A",
-      "EngArticleNo": "Article 27",
-      "EngArticleContent": "In case of any of the following circumstances, the EU Catch Certificate shall not be issued:\r\n(1)Any of the circumstances stipulated in subparagraph (1) to (4) of Article 10; or subparagraph (5) of Article 17.\r\n(2)The fishing vessel does not meet the provisions stipulated in Article 24.\r\n(3)The EU Catch Certificate previously obtained by the applicant is not written off in accordance with Article 28, or not cancelled in accordance with Article 29.\r\n(4)The signature column of the in-port transshipment in the EU Catch Certificate is not signed by the authorities concerned of the port State, or the signature is confirmed as not authentic.\r\n(5)The exporter recorded in the EU Catch Certificate is not the applicant.\r\nIn the event that any of the circumstances stipulated in the preceding paragraph is found after the issuance of the EU Catch Certificate, the competent authority shall withdraw such Catch Certificate and notify the EU and the authority concerned of the importing country."
-    },
-    {
-      "EngArticleType": "A",
-      "EngArticleNo": "Article 28",
-      "EngArticleContent": "Any applicant shall, within two months after the issuance of the EU Catch Certificate, fill in the application form in the required format and submit to the competent authority together with the following documents for write-off:\r\n(1)The document(s) proving the customs clearance.\r\n(2)The document(s) proving the trade between the applicant and foreign buyer(s).\r\nIn case that the documents as referred to in the preceding paragraph are not in Chinese, English or Japanese, copies of Chinese or English translation shall be enclosed."
-    },
-    {
-      "EngArticleType": "C",
-      "EngArticleNo": "",
-      "EngArticleContent": "   Chapter VII Supplemental Provisions"
-    },
-    {
-      "EngArticleType": "A",
-      "EngArticleNo": "Article 29",
-      "EngArticleContent": "In case that any catch certificate is missing, not used for some reasons, or damaged, the applicant shall take the initiative to apply to the competent authority for cancellation with the enclosure of the following documents:\r\n(1)Statement of the cause(s) of the cancellation.\r\n(2)The original copy of the catch certificate. In case of the loss of the original copy of the catch certificate, such provision shall be waived.\r\n(3)In case that the cause of cancellation is resulted after the export of catches or fisheries products, the copy of the shipping document for export, and the proof slip of the export declaration issued by the customs at the port of exportation or other proving document(s), shall be enclosed.\r\nUse of the cancelled catch certificate or a copy thereof shall be deemed as using catch certificate documents not issued to the catch concerned as stipulated in subparagraph (17) of Article 13, paragraph 1."
-    },
-    {
-      "EngArticleType": "A",
-      "EngArticleNo": "Article 30",
-      "EngArticleContent": "In the event that a catch certificate has been cancelled in accordance with Article 29, paragraph 1, the applicant may apply for the re-issuance to the competent authority."
-    },
-    {
-      "EngArticleType": "A",
-      "EngArticleNo": "Article 31",
-      "EngArticleContent": "In case that the application form submitted, the required documents or contents therein are incomplete for the application, write-offs, cancellation or re-issuance of any catch certificate, the competent authority shall notify the applicant to supplement within the required timeframe. Failing to supplement within the required timeframe or incomplete supplement shall be subject to denial of the application."
-    },
-    {
-      "EngArticleType": "A",
-      "EngArticleNo": "Article 32",
       "EngArticleContent": "These Regulations shall become effective on the date of promulgation."
     }
   ]
