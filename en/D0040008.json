@@ -1,7 +1,7 @@
 {
 	"pcode": "D0040008",
 	"LawLevel": "法律",
-	"EngLawName": "Statute of Favors for Military Servicemen & Their Dependents",
+	"EngLawName": "Act of Preferential Treatment for Military Personnel and Their Dependents",
 	"name": "軍人及其家屬優待條例",
 	"EngLawModifiedDate": "20220518",
 	"histories": [
@@ -28,7 +28,7 @@
 		{
 			"type": "chapter",
 			"number": 300,
-			"title": "Favors for Active Servicemen & their Dependants",
+			"title": "Preferential Treatment for Active Service Personnel & their Dependents",
 			"start": 700,
 			"end": 2900
 		},
@@ -42,14 +42,14 @@
 		{
 			"type": "chapter",
 			"number": 500,
-			"title": "Termination of Favors",
+			"title": "Suspension of Preferential Treatment",
 			"start": 3900,
 			"end": 4100
 		},
 		{
 			"type": "chapter",
 			"number": 600,
-			"title": "Special Articles",
+			"title": "Supplementary Provisions",
 			"start": 4200,
 			"end": 4500
 		}
@@ -57,27 +57,27 @@
 	"articles": [
 		{
 			"number": 100,
-			"content": "This Statue has been incorporated pursuant to Article 50 of Enforcement Regulations of Conscription Law."
+			"content": "This Act is enacted pursuant to Article 50 of the Enforcement Act of Act of Military Service System."
 		},
 		{
 			"number": 200,
-			"content": "Beneficiaries entitled to those favors provided in these Regulations include:\r\n1. Active servicemen and their dependents.\r\n2. A reservist:\r\n(1) Who has completed Standing Commissioned Officer Service, Reserved Ranking Officer Service, Standing Non Commissioned Officer Service, Reserved Non Commissioned Officer Service, or Regular Service and has been duly discharged from the field service.\r\n(2) Who is duly discharged from the field service due to injury in combat or in performing the official duty.\r\n(3) Who is a Reserved Ranking Officer, or Reserved Non Commissioned Officer having successfully completed the training but not yet called for field service."
+			"content": "Beneficiaries entitled to the preferential treatments provided in this Act include:\r\n1. Active service personnel and their dependents.\r\n2. Reservists who:\r\n(1) Have completed Standing Commissioned Officer Service, Reserve Officer Service, Standing Non-Commissioned Officer Service,Reserve Non-Commissioned Officer Service, or Regular Service and have been duly discharged from active duty.\r\n(2) Have been duly discharged from active duty due to injury sustained in combat or in performance of official duties.\r\n(3) Are Reserve Officers or Reserve Non-Commissioned Officers who have successfully completed the required training but have not yet been called to active duty."
 		},
 		{
 			"number": 300,
-			"content": "Dependents referred in the Statute include:\r\n1. Spouse of the serviceman.\r\n2. Direct blood of the serviceman.\r\n3. Any other is legally supported by and lives together with the serviceman."
+			"content": "Dependents referred to in this Act include:\r\n1. Spouse of the service personnel.\r\n2. Direct blood relatives of the service personnel.\r\n3. Any other person who is legally supported by and lives together with the service personnel."
 		},
 		{
 			"number": 400,
-			"content": "Favors allowed for the military servicemen and their dependents shall be respectively provided by the following authorities:\r\n1. Ministry of Interior (MOI) shall be the central regulating authorities; Ministry of National Defense (MOD), Ministry of Education (MOE) and Veterans Affairs Commission of Executive Yuan shall be the cosponsor regulating authorities; and any other agencies involved that negotiation and coordination are required at any time.\r\n2. On the local level, the local government shall be the regulating authorities and the headquarters of the Division/Regiment control area at where the local government is located shall be the cosponsoring regulating authorities."
+			"content": "Preferential treatments for military service personnel and their dependents shall be administered by the following authorities:\r\n1. At the central level, the Ministry of Interior (MOI) shall be the primary regulatory authority; the Ministry of National Defense (MOD), Ministry of Education (MOE), and Veterans Affairs Commission of the Executive Yuan shall be the co-regulatory authorities. For matters involving other ministries, consultations shall be conducted as needed.\r\n2. At the local level, the government of special municipalities or county (city) governments shall be the primary regulatory authorities, and the Division/Regiment Command Headquarters in their respective jurisdictions shall be the co-regulatory authorities."
 		},
 		{
 			"number": 500,
-			"content": "The local government and the Public Office shall conduct annual survey and summation of the conditions of the families of servicemen pursuant to the procedure to be set forth by MOI."
+			"content": "The governments of special municipalities, county (city) governments, and township (town, city, district) offices shall conduct annual surveys and compile statistics on the conditions of service personnel 's families; the procedures thereof shall be prescribed by the MOI."
 		},
 		{
 			"number": 600,
-			"content": "Disregarding the native place, temporary or the duration of the temporary registered domicile address, all servicemen and their dependants may apply for the favors with the public office at where they reside by presenting the entries of conscription on their citizen ’ s ID or any other documents specified."
+			"content": "Regardless of their native place, temporary or the duration of the temporary registered domicile address, service personnel and their dependents may apply for preferential treatments with the township (town, city, district) office where they reside by presenting the military service entries on their national identification cards or other specified documents."
 		},
 		{
 			"number": 700,
@@ -85,19 +85,19 @@
 		},
 		{
 			"number": 800,
-			"content": "Should the serviceman as referred in the preceding Article 7 be killed in the battle field or dead from injuries or handicapped as a result of performing his official duties, he or his inheritor may settle the debts or redeem the rear estate within three (3) years upon the serviceman is killed or disabled."
+			"content": "In cases where a service personnel referred to in the preceding Article is killed in action or dies or becomes disabled due to injuries or illness incurred in the performance of official duties, the settlement of debts or redemption of property may be carried out by the service personnel or their heirs within three (3) years from the date of death or disability."
 		},
 		{
 			"number": 900,
-			"content": "If any serviceman called or drafted during the mobilization period or his dependent has leased or pledged a certain farm land or house before the call or the draft, and it is proved that such farm land or house is the means necessarily for life maintenance or habitation and the legal term or that as contracted for the leased farm land or house is expired at a time the serviceman is still in service, the leaser or the pledger shall not terminate the contract or redeem the pledge."
+			"content": "Where a service personnel called up or drafted during the mobilization period, or their dependents, have leased or received in pledge any farmland or housing before the service personnel entered service, and such property is proven to be essential for their livelihood or habitation, the lessor or pledgor shall not terminate the contract or redeem the pledged property upon the expiration of the contractual or statutory period while the service personnel remains in active service."
 		},
 		{
 			"number": 1000,
-			"content": "No creditor is permitted to claim for a compulsory exercise of any and all properties relied upon for life maintenance by the dependents of any active serviceman called or drafted during the mobilization period."
+			"content": "During the mobilization period, the property essential for the livelihood of dependents of a service personnel called up or drafted for active service shall not be subject to forced execution by creditors while the service personnel remains in active service."
 		},
 		{
 			"number": 1100,
-			"content": "If any serviceman before being called or drafted is a owner-farmer or has leased or held pledged land before he has been called or drafted to service, and his dependents are proved incapable of farming while the serviceman is in service, the serviceman may apply for support farming the public office according to the procedure to be set forth by MOI."
+			"content": "Where a service personnel called up or drafted for service owns, leases, or holds in pledge agricultural land before entering service, and their dependents are proven to be incapable of farming such land while the service personnel is in active service, an application for farming assistance may be submitted to the township (town, city, district) office. The regulations thereof shall be prescribed by the MOI."
 		},
 		{
 			"number": 1200,
@@ -117,7 +117,7 @@
 		},
 		{
 			"number": 1600,
-			"content": "An official leave shall be granted to any active serviceman for the purpose of participating National High Examination, National Ordinary Examination or Special Qualification Examination as long as such participation in the examination does not in any way interfere with the national defense and military needs. Should the date for any of such examination happens to fall on the same day of being called or drafted to report to the army, the date of report may be postponed accordingly."
+			"content": "Active service personnel participating in Senior, Junior, or Special Examinations shall be granted official leave, provided that such participation does not interfere with national defense or military operations. If a person is called or drafted for military service on a date that coincides with such examinations, their entry into service may be postponed."
 		},
 		{
 			"number": 1700,
@@ -125,7 +125,7 @@
 		},
 		{
 			"number": 1800,
-			"content": "Should any active serviceman who is listed on the missing person or becomes a prison of war due to engage in combat or performing official duties whether he has been proved remaining loyal to the country or is a status pending clarification, the treatment for the dependents of the serviceman shall be prescribed by MOD."
+			"content": "The MND shall prescribe measures for the treatment of dependents of active service personnel who are missing in action or taken prisoner while engaged in combat or performing official duties, and who either remain loyal under captivity or whose status remains unclear."
 		},
 		{
 			"number": 1900,
@@ -141,7 +141,7 @@
 		},
 		{
 			"number": 2200,
-			"content": "If the family of any active serviceman is proved in poverty, his dependents may apply for smaller amount of loan with the government. An in-service financing funds shall be created and maintained by the government for the appropriation of the loan as referred in the preceding paragraph pursuant to the loan application procedure to be set forth by Executive Yuan."
+			"content": "Dependents of active service personnel who are verified to be in financial hardship and unable to maintain their livelihood may apply to the government for small loans.\r\nThe government shall establish a Military Personnel Loan Fund for the loans mentioned in the preceding paragraph. The regulations governing such loans shall be prescribed by the Executive Yuan."
 		},
 		{
 			"number": 2300,
@@ -153,7 +153,7 @@
 		},
 		{
 			"number": 2500,
-			"content": "Any independent under age of 6 (included) or over 60 (included) of an active serviceman failing the support by the serviceman may be admitted on top priority to a public daily care institute, nursery home or asylum free of charge."
+			"content": "Dependents of active service personnel who are either under six years of age and without adequate care, or over sixty years of age and unable to support themselves, may be given priority for free admission to public daycare centers, children's homes, or welfare institutions."
 		},
 		{
 			"number": 2600,
@@ -181,7 +181,7 @@
 		},
 		{
 			"number": 3200,
-			"content": "Upon being transferred to take public service by a reservist, the service years completed in the army by the reservist shall be incorporated for the purpose of solving the service years of the reservist in that public service.The solving of the service years as described in the preceding paragraph shall be made pursuant to the procedure to be set forth by Executive Yuan jointly with Examination Yuan."
+			"content": "When military reservists transition to public service positions, their years of military service shall be combined with their public service years.\r\nThe method for calculating the service years mentioned in the preceding paragraph shall be jointly determined by the Executive Yuan and the Examination Yuan."
 		},
 		{
 			"number": 3300,
@@ -201,39 +201,39 @@
 		},
 		{
 			"number": 3700,
-			"content": "In the event that the any reservist is transferred to take public service and the employer agency is undergoing a reduced organization system or reorganization the job for the reservist shall be kept on top priority."
+			"content": "When an organization where a military reservist has transitioned to public service undergoes downsizing or reorganization, the reservist's position may be retained with priority."
 		},
 		{
 			"number": 3800,
-			"content": "In holding main event of celebration by the central or local administration, there may be made available the Bench or Honor for the invitation of the following persons:\r\n1.Those who had made outstanding contribution during their military services; and\r\n2.Those who had served in the army for two decades or longer."
+			"content": "During important ceremonies held by central or local governments, honorary seating may be specially arranged to invite the following personnel as a gesture of respect:\r\n1. Those who have achieved extraordinary merits during their military service.\r\n2. Those who have served in the military for twenty years or more."
 		},
 		{
 			"number": 3900,
-			"content": "Favors provided in Chapter 3 in the Statute shall be terminated once the active serviceman is deprived of his service status or is under warrant of arrest."
+			"content": "The preferential treatment stipulated in Chapter 3 of this Act shall be suspended for active service personnel who have lost their military status or are wanted by the authorities."
 		},
 		{
 			"number": 4000,
-			"content": "Once the reservist is deprived of his status as such or is found with any of the following events, he shall be terminated with those favors permitted in Chapter 4 of the Statute:\r\n1. Having been convicted for an imprisonment and is serving his term; or\r\n2. Is under warrant of arrest;The favors shall be permanently suspended for any reservist having committed and convicted for a crime of treason, invasion or corruption."
+			"content": "The preferential treatment stipulated in Chapter 4 of this Act shall be suspended for military reservists who have lost their status or are in any of the following situations:\r\n1. Currently serving a prison sentence.\r\n2.Currently wanted by the authorities.\r\nThe preferential treatment shall be permanently suspended for those convicted and sentenced to imprisonment for crimes of treason, sedition, or corruption."
 		},
 		{
 			"number": 4100,
-			"content": "Any of the dependents entitled with the favors is found with any of the following events shall be suspended from enjoying those favors:\r\n1. To be deprived of nationality;\r\n2. Having been convicted for an imprisonment and is serving his term;\r\n3. Being under warrant of arrest;\r\n4. Being divorced, married in case of a daughter, or married in case of a son by taking after the bride ’ s maiden name; or\r\n5. Becoming an adopted child by other person."
+			"content": "Dependents receiving preferential treatment shall have such treatment suspended in any of the following circumstances:\r\n1. Loss of nationality.\r\n2. Currently serving a prison sentence.\r\n3. Currently wanted by the authorities.\r\n4. Divorce of spouse, marriage of a daughter, or a son becoming an adopted son-in-law of another family.\r\n5. Becoming an adopted child of another person."
 		},
 		{
 			"number": 4200,
-			"content": "Those favors available for military servicemen who has been duly discharged and exempted from military service shall be made pursuant to the procedure to be set forth by Veterans Affairs Commission."
+			"content": "The preferential treatment for service personnel who have been legally discharged or exempted from military service shall be administered by the Veterans Affairs Council in accordance with the law."
 		},
 		{
 			"number": 4300,
-			"content": "If the sequence for all favors permitted under the Statute should be defined, the sequence shall be made in the following order led by the active serviceman, dependents of the active serviceman, and the reservist. In case of same identity, the sequence shall be as follows:\r\n1. Having engaged in combat mission while in service;\r\n2. Having longer service record; and\r\n3. Suffering comparatively lower financial statue of the family."
+			"content": "When a priority sequence must be established for the preferential treatment stipulated in this Act, it shall follow the order of: active service personnel, dependents of active service personnel, and reservists. In cases of identical status, the following sequence shall apply:\r\n1. Those who have participated in combat operations during their service.\r\n2. Those with longer periods of service.\r\n3. Those with more financially disadvantaged family circumstances."
 		},
 		{
 			"number": 4400,
-			"content": "In addition to processing pursuant to Statute of Pension for Military Servicemen Pension for the matter of the survivals in the family of the military serviceman holding the pension payment order, Articles 23 through 29 of Chapter 3 of the Statute may be referred to grant those favors during the effective term of collecting the pension."
+			"content": "In addition to being processed in accordance with the Indemnities Act for Military Personnel and related regulations, surviving family members of military personnel who hold death benefit payment certificates may receive preferential treatment as stipulated in Articles 23 through 29 of Chapter 3 of this Act during the valid period of receiving compensation."
 		},
 		{
 			"number": 4500,
-			"content": "The Statute shall become operative on and after the day it is published."
+			"content": "This Act shall take effect from the date of its promulgation."
 		}
 	]
 }
