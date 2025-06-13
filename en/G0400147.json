@@ -8,6 +8,66 @@
 		"Full text of 47 Articles adopted and issued per 30 April 2009 Letter No. Financial-Supervisory-Securities-VIII-0980017669 of the Financial Supervisory Commission; for enforcement from the date of issuance",
 		"Article 13 amended and promulgated on 6 October 2010 by Financial Supervisory Commission Order No. Financial-Supervisory-Securities-Firms-0 990051669."
 	],
+	"divisions": [
+		{
+			"type": "chapter",
+			"number": 100,
+			"title": "General Provisions",
+			"start": 100,
+			"end": 1000
+		},
+		{
+			"type": "chapter",
+			"number": 200,
+			"title": "Securities Investment",
+			"start": 1100,
+			"end": 3700,
+			"children": [
+				{
+					"type": "section",
+					"number": 100,
+					"title": "Investing in Taiwan Securities",
+					"start": 1200,
+					"end": 2300
+				},
+				{
+					"type": "section",
+					"number": 200,
+					"title": "Investing in Overseas Corporate Bonds",
+					"start": 2400,
+					"end": 2800
+				},
+				{
+					"type": "section",
+					"number": 300,
+					"title": "Investing in Overseas Depositary Receipts",
+					"start": 2900,
+					"end": 3100
+				},
+				{
+					"type": "section",
+					"number": 400,
+					"title": "Investing in Overseas Stocks",
+					"start": 3200,
+					"end": 3700
+				}
+			]
+		},
+		{
+			"type": "chapter",
+			"number": 300,
+			"title": "Futures Trading",
+			"start": 3800,
+			"end": 4600
+		},
+		{
+			"type": "chapter",
+			"number": 400,
+			"title": "Supplementary Provisions",
+			"start": 4700,
+			"end": 4700
+		}
+	],
 	"articles": [
 		{
 			"number": 100,
@@ -19,11 +79,11 @@
 		},
 		{
 			"number": 300,
-			"content": "Mainland area investors that engage in securities investment or futures trading in Taiwan shall be limited to the following persons:\r\n1. A qualified institutional investor approved by the competent authority of the securities industry for the mainland area (\"Institutional Investor\").\r\n2. An employee who has been allotted securities by an exchange-listed or OTC-listed company in accordance with laws and regulations and has household registration in the mainland area (\"Mainland Area Employee\").\r\n3. A shareholder, duly organized and registered in or with household registration in the mainland Area (\"Mainland Area Shareholder\"), of a juristic person that is duly organized and registered pursuant to foreign laws and the stock, or the certificates representing the stock, of which are listed for trading on the Taiwan Stock Exchange Corporation (TWSE) or the GreTai Securities Market (GTSM).\r\n4. Other persons approved by the Competent Authority."
+			"content": "Mainland area investors that engage in securities investment or futures trading in Taiwan shall be limited to the following persons:\r\n1. A qualified institutional investor approved by the competent authority of the securities industry for the mainland area (\"Institutional Investor\").\r\n2. An employee who has been allotted securities by an exchange-listed or OTC-listed company in accordance with laws and regulations and has household registration in the mainland area (\"Mainland Area Employee\").\r\n3. A shareholder, duly organized and registered in or with household registration in the mainland Area (\"Mainland Area Shareholder\"), of a juristic person that is duly organized and registered pursuant to foreign laws and the stock, or the certificates representing the stock, of which are listed for trading on the Taiwan Stock Exchange Corporation (TWSE) or the Taipei Exchange (TPEx).\r\n4. Other persons approved by the Competent Authority."
 		},
 		{
 			"number": 400,
-			"content": "A mainland area investor engaging in securities investment or futures trading shall appoint a Taiwan agent(s) or representative(s) to undertake matters such as registering and opening accounts for trading in securities or futures; applying for exchange, conversion, or subscription of shares for corporate bonds in the Taiwan area; exercising rights in purchased securities; exercising rights related to futures trading; applying for foreign exchange conversion settlement (\"exchange settlement\"); filing tax returns and paying taxes; and other related litigious and non-litigious matters.\r\nThe qualification requirements for the agent or representative in the preceding paragraph shall be as follows:\r\n1. Agent:\r\n(1) Natural person: Shall have legal capacity. If the natural person is an overseas Chinese or a foreign national, he must be living within the Taiwan area and possess an overseas Chinese ID card or an Alien Resident Certificate.\r\n(2) Juristic person: Shall be established in accordance with laws and regulations in the Taiwan area, and be duly qualified to act as an agent.\r\n(3) Foreign juristic person: Shall have established a branch company within the Taiwan area, and be duly qualified to act as an agent.\r\n2. Representative: Shall be the representative at a representative office established in the Taiwan area, or be the responsible person at a branch office.\r\nIf an agent is either a juristic person or a foreign juristic person as specified in subparagraph 1, items 2 and 3 of the preceding paragraph, a natural person shall be designated to carry out the agent services."
+			"content": "A mainland area investor engaging in securities investment or futures trading shall appoint a Taiwan agent(s) or representative(s) to undertake matters such as registering and opening accounts for trading in securities or futures; applying for exchange, conversion, or subscription of shares for corporate bonds in the Taiwan area; exercising rights in purchased securities; exercising rights related to futures trading; applying for foreign exchange conversion settlement (\"exchange settlement\"); filing tax returns and paying taxes; and other related litigious and non-litigious matters.\r\nThe qualification requirements for the agent or representative in the preceding paragraph shall be as follows:\r\n1. Agent:\r\nA. Natural person: Shall have legal capacity. If the natural person is an overseas compatriot or a foreign national, he must be living within the Taiwan area and possess an overseas compatriot ID card or an Alien Resident Certificate.\r\nB. Juristic person: Shall be established in accordance with laws and regulations in the Taiwan area, and be duly qualified to act as an agent.\r\nC. Foreign juristic person: Shall have established a branch company within the Taiwan area, and be duly qualified to act as an agent.\r\n2. Representative: Shall be the representative at a representative office established in the Taiwan area, or be the responsible person at a branch office.\r\nIf an agent is either a juristic person or a foreign juristic person as specified in subparagraph 1, items 2 and 3 of the preceding paragraph, a natural person shall be designated to carry out the agent services."
 		},
 		{
 			"number": 500,
@@ -55,7 +115,7 @@
 		},
 		{
 			"number": 1200,
-			"content": "The scope of Taiwan securities in which a mainland area investor may invest shall be limited to the following:\r\n1. Securities of exchange-listed and OTC-listed companies.\r\n2. Beneficial certificates of securities investment trust funds or futures trust funds.\r\n3. Government bonds, financial bonds, or corporate bonds issued by public companies.\r\n4. Beneficial securities or asset-backed securities issued in accordance with the Financial Asset Securitization Act or the Real Estate Securitization Act.\r\n5. Call (or put) warrants.\r\n6. Other securities approved by the Competent Authority.\r\nIf funds transferred into Taiwan by a mainland area investor have not yet been invested in Taiwan securities, the Competent Authority may, depending on the economic and financial conditions or the state of the securities market in Taiwan, impose limits on the use of such funds. The percentage at which any such limit is set shall be determined by the Competent Authority after consultation with the competent authority for foreign exchange business.\r\nThe combined total investment in Taiwan by mainland area investors and by overseas Chinese and foreign nationals may not exceed the amount of any percentage cap on investment by overseas Chinese and foreign nationals set by any other law or regulations.\r\nIf a mainland area investor, in a single investment or cumulative investments, will obtain 10 percent or more of the shares in an exchange-listed or OTC-listed company, the investor shall apply for approval pursuant to laws and regulations prescribed by relevant government agencies."
+			"content": "The scope of Taiwan securities in which a mainland area investor may invest shall be limited to the following:\r\n1. Securities of exchange-listed and OTC-listed companies.\r\n2. Beneficial certificates of securities investment trust funds or futures trust funds.\r\n3. Government bonds, financial bonds, or corporate bonds issued by public companies.\r\n4. Beneficial securities or asset-backed securities issued in accordance with the Financial Asset Securitization Act or the Real Estate Securitization Act.\r\n5. Call (or put) warrants.\r\n6. Other securities approved by the Competent Authority.\r\nIf funds transferred into Taiwan by a mainland area investor have not yet been invested in Taiwan securities, the Competent Authority may, depending on the economic and financial conditions or the state of the securities market in Taiwan, impose limits on the use of such funds. The percentage at which any such limit is set shall be determined by the Competent Authority after consultation with the competent authority for foreign exchange business.\r\nThe combined total investment in Taiwan by mainland area investors and by overseas compatriots and foreign nationals may not exceed the amount of any percentage cap on investment by overseas compatriots and foreign nationals set by any other law or regulations.\r\nIf a mainland area investor, in a single investment or cumulative investments, will obtain 10 percent or more of the shares in an exchange-listed or OTC-listed company, the investor shall apply for approval pursuant to laws and regulations prescribed by relevant government agencies."
 		},
 		{
 			"number": 1300,
@@ -75,11 +135,11 @@
 		},
 		{
 			"number": 1700,
-			"content": "A mainland area investor investing in Taiwan securities shall designate a Taiwan agent to apply for the opening of a NT Dollar account. The agent designated to open such account shall be a Taiwan securities firm or financial institution.\r\nFor the purposes of investing in Taiwan securities and utilizing funds in connection with such  investment, a mainland  area investor shall open a current account or a current savings account denominated in NT Dollars at a Taiwan financial institution under the name of a custody account maintained by a custodian institution. Such account shall be for settlement purposes only."
+			"content": "A mainland area investor investing in Taiwan securities shall designate a Taiwan agent to apply for the opening of a NT Dollar account. The agent designated to open such account shall be a Taiwan securities firm or financial institution.\r\nFor the purposes of investing in Taiwan securities and utilizing funds in connection with such investment, a mainland　area investor shall open a current account or a current savings account denominated in NT Dollars at a Taiwan financial institution under the name of a custody account maintained by a custodian institution. Such account shall be for settlement purposes only."
 		},
 		{
 			"number": 1800,
-			"content": "A mainland area investor investing in Taiwan securities shall apply, submitting registration documentation from the TWSE, to a securities firm to open an account for securities trading. Upon completion of the account-opening procedures, the securities firm shall report to the TWSE or the GTSM."
+			"content": "A mainland area investor investing in Taiwan securities shall apply, submitting registration documentation from the TWSE, to a securities firm to open an account for securities trading. Upon completion of the account-opening procedures, the securities firm shall report to the TWSE or the TPEx."
 		},
 		{
 			"number": 1900,
@@ -171,7 +231,7 @@
 		},
 		{
 			"number": 4100,
-			"content": "An Institutional Investor that engages in futures trading shall do so using foreign currencies, and may not convert them into NT Dollars except for any of the following uses:\r\n1. To pay the profit-loss difference upon settlement at maturity or at the closing out of a position before maturity.\r\n2. To pay futures commission merchant handling fees and taxes.\r\n3. For use as set forth in subparagraph 2 of the preceding Article.\r\nTo make payments for the purposes under subparagraphs 1 and 2 of the preceding paragraph, an Institutional Investor may have funds converted into NT Dollars in advance by the futures commission merchant designated by its agent, provided that the NT Dollar balance on a trader-by-trader basis may not exceed the ceiling amount set by the Competent Authority.\r\nThe NT Dollar balance of the Institutional Investor's cumulative NT Dollar realized gains from futures trading plus the NT Dollar ceiling amount of the preceding paragraph, on a trader-by-trader basis, may not exceed the ceiling amount set by the Competent Authority.\r\nWhen the NT Dollar balance of the preceding paragraph exceeds the ceiling amount set by the Competent Authority, the Institutional Investor shall within five business days have the excess converted into foreign currencies by the futures commission merchant designated by its agent. After such conversion, the NT Dollar balance may not exceed the ceiling amount specified by the Competent Authority.\r\nUse of the NT Dollar balance in paragraph 3 is limited to:\r\n1. Margins and premiums required to be paid for trades.\r\n2. Payment of the profit-loss difference upon settlement at maturity or at the closing out of a position before maturity.\r\n3. Payment of futures commission merchant handling fees and taxes.\r\nExcept for the use set forth in paragraph 1, subparagraph 3 for which the agent makes the application, an application for exchange settlement pursuant to paragraph 1, 2, or 4 shall be made by the futures commission merchant pursuant to applicable foreign exchange laws and regulations. The Competent Authority shall consult with and obtain the consent of the competent authority for foreign exchange business before adopting the ceiling amounts for the NT Dollar balances referred to in paragraphs 2 to 4."
+			"content": "An Institutional Investor that engages in futures trading shall do so using foreign currencies, and may not convert them into NT Dollars except for any of the following uses:\r\n1. To pay the profit-loss difference upon settlement at maturity or at the closing out of a position before maturity.\r\n2. To pay futures commission merchant handling fees and taxes.\r\n3. For use as set forth in subparagraph 2 of the preceding Article.\r\nTo make payments for the purposes under subparagraphs 1 and 2 of the preceding paragraph, an Institutional Investor may have funds converted into NT Dollars in advance by the futures commission merchant designated by its agent, provided that the NT Dollar balance on a trader-by-trader basis may not exceed the ceiling amount set by the Competent Authority.\r\nThe NT Dollar balance of the Institutional Investor's cumulative NT Dollar realized gains from futures trading plus the NT Dollar ceiling amount of the preceding paragraph, on a trader-by-trader basis, may not exceed the ceiling amount set by the Competent Authority.\r\nWhen the NT Dollar balance of the preceding paragraph exceeds the ceiling amount set by the Competent Authority, the Institutional Investor shall within five business days have the excess converted into foreign currencies by the futures commission merchant designated by its agent. After such conversion, the NT Dollar balance may not exceed the ceiling amount specified by the Competent Authority.\r\nUse of the NT Dollar balance in paragraph 3 is limited to:\r\n1. Margins and premiums required to be paid for trades.\r\n2. Payment of the profit-loss difference upon settlement at maturity or at the closing out of a position before maturity.\r\n3. Payment of futures commission merchant handling fees and taxes.\r\nExcept for the use set forth in paragraph 1, subparagraph 3 for which the agent makes the application, an application for exchange settlement pursuant to paragraph 1, 2, or 4 shall be made by the futures commission merchant pursuant to applicable foreign exchange laws and regulations.\r\nThe Competent Authority shall consult with and obtain the consent of the competent authority for foreign exchange business before adopting the ceiling amounts for the NT Dollar balances referred to in paragraphs 2 to 4."
 		},
 		{
 			"number": 4200,
