@@ -1,25 +1,23 @@
 {
 	"pcode": "K0110026",
 	"LawLevel": "命令",
-	"EngLawName": "Schedule of Penalties Applicable under the Tourism Development Act",
+	"EngLawName": "Schedule of Penalties Applicable Under the Tourism Development Act",
 	"name": "發展觀光條例裁罰標準",
-	"EngLawModifiedDate": "20221108",
+	"EngLawModifiedDate": "20250107",
 	"attachments": {
-		"0000007773": "Appendix 1：Criteria of Penalties for Tourist Hotels and Their Employees in Violation of the Act and the Regulations for Administration of Tourist Hotel Enterprises.pdf",
-		"0000007774": "Appendix 2：Criteria of Penalties for Hotels and Their Employees in Violation of the Act and the Regulations for the Administration of Hotel Enterprises.pdf",
-		"0000007775": "Appendix 3：Criteria of Penalties for Violations of this Act and the Regulations Governing Travel Agencies Committed by Travel Agencies and the Managers and Employees of Travel Agencies..pdf",
-		"0000007776": "Appendix 4：Criteria of Penalties for Violations by Tourist Amusement Enterprises and Their Employees of this Act and the Regulations Governing Tourist Amusement Enterprises..pdf",
-		"0000007777": "Appendix 5：Attachment 5：Criteria of Penalties for Home Stay Facilities in Violation of the Act and Regulations for the Management of Home Stay Facilities.pdf",
-		"0000007778": "Appendix 6：Criteria of Penalties for Violations by Tour Guides of this Act and the Regulations Governing Tour Guides..pdf",
-		"0000007779": "Appendix 7：Criteria of Penalties for Violations by Tour Managers of this Act and the Regulations Governing Tour Managers.pdf",
-		"0000007780": "Appendix 8：Penalty Criteria for Water Recreation Activities in Violation of this Act and the Regulations Governing Water Recreation Activities.pdf",
-		"0000004825": "Appendix 9：Penalty Criteria for Violations of Provisions Concerning the Management of Designated Scenic Areas and Tourism Locations in the Act and the Regulations for the Administration of Designated Scenic Areas.PDF",
-		"0000003086": "Appendix 9：Penalty Criteria for Violations of Provisions Concerning the Management of Designated Scenic Areas and Tourism Locations in the Act and the Regulations for the Administration of Designated Scenic Areas.DOC",
-		"0000004727": "Appendix 10：Standards of Penalties for Tourists Entering Natural and Cultural Ecology Scenic Areas without Applying to Be Accompanied by a Professional Guide in Accordance with Applicable Regulations.PDF",
-		"0000002733": "Appendix 10：Standards of Penalties for Tourists Entering Natural and Cultural Ecology Scenic Areas without Applying to Be Accompanied by a Professional Guide in Accordance with Applicable Regulations.doc"
+		"0000009178": "Appendix 1：Penalty Assessment Table for Tourist Hotels and Their Employees in Violation of the Act and／or Related Regulations Governing the Administration of Tourist Hotel Enterprises.pdf",
+		"0000009179": "Appendix 2：Criteria of Penalties for Hotels and Their Employees in Violation of the Act and the Regulations for the Administration of Hotel Enterprises.pdf",
+		"0000009180": "Appendix 3：Penalty Assessment Table for Violations of this Act and Related Regulations Governing Travel Agencies that are Committed by Travel Agencies and Travel Agency Managers／Staff.pdf",
+		"0000009181": "Appendix 4：Penalty Assessment Table for Violations by Tourist Amusement Enterprises and Their Employees of this Act and the Regulations Governing Tourist Amusement Enterprises..pdf",
+		"0000009182": "Attachment 5：Criteria of Penalties for Home Stay Facilities in Violation of the Act and Regulations for the Management of Home Stay Facilities.pdf",
+		"0000009183": "Appendix 6：Penalty Assessment Table for Violations by Tour Guides of this Act and the Regulations Governing Tour Guides..pdf",
+		"0000009184": "Appendix 7：Penalty Assessment Table for Violations by Tour Managers of this Act and the Regulations Governing Tour Managers.pdf",
+		"0000009185": "Appendix 8：Penalty Assessment Table for Water Recreation Activities in Violation of this Act and the Regulations Governing Water Recreation Activities.pdf",
+		"0000009186": "Appendix 9：Penalty Assessment Table for violations of this Act and management rules for Designated Scenic Spot regarding regulations governing designated scenic spots and tourist locations.pdf",
+		"0000009187": "Appendix 10：Standards of Penalties for Tourists Entering Natural and Cultural Ecology Scenic Areas without Applying to Be Accompanied by a Professional Guide in Accordance with Applicable Regulations.pdf"
 	},
 	"histories": [
-		"Amended and promulgated in accordance with Jiao Lu Fa No. 093B000056, on July 8, 2004 Amended and promulgated in accordance with Jiao Lu Fa No. 095008523, on May 26 , 2006",
+		"Amended and promulgated in accordance with Jiao Lu Fa No. 093B000056, on July 8, 2004",
 		"Amended and promulgated in accordance with Jiao Lu Fa No. 095008523, on May 26 , 2006",
 		"Amended Date July 10,2012",
 		"Amended on March 2, 2015",
@@ -29,80 +27,104 @@
 		"Amended on July 13, 2017",
 		"Amendment on January 10, 2019.",
 		"Amendment to Appendix 1、2、4、5 promulgated on June 19, 2020.",
-		"Amendment to Appendix 1、2、3、4、5、6、7、8 promulgated on Nov 8, 2022."
+		"Amendment to Appendix 1、2、3、4、5、6、7、8 promulgated on Nov 8, 2022.",
+		"Amended on January 7, 2025."
+	],
+	"divisions": [
+		{
+			"type": "chapter",
+			"number": 100,
+			"title": ": General Provisions",
+			"start": 100,
+			"end": 400
+		},
+		{
+			"type": "chapter",
+			"number": 200,
+			"title": ": Sub-Provisions",
+			"start": 500,
+			"end": 1400
+		},
+		{
+			"type": "chapter",
+			"number": 300,
+			"title": "Supplementary Provisions",
+			"start": 1500,
+			"end": 1800
+		}
 	],
 	"articles": [
 		{
 			"number": 100,
-			"content": "This Schedule is stipulated pursuant to Article 17 of the Tourism Development Act (hereafter referred to as “the Act”)."
+			"content": "These standards are formulated in accordance with Article 67 of the Act for the Development of Tourism (hereinafter referred to as this Act)."
 		},
 		{
 			"number": 200,
-			"content": "Actions that constitute a violation of the Act or of any executive order announced in accordance with the provisions of the Act shall be subject to the penalties as stipulated in this Schedule."
+			"content": "Violations of this Act or of orders issued in accordance with this Act shall be punished in accordance with the provisions of these Standards."
 		},
 		{
 			"number": 300,
-			"content": "Such actions as referred to in the preceding Article shall be determined on the basis of the findings from an examination of the facts and evidence."
+			"content": "The actions described in the preceding article shall be determined based on the results of the investigation of facts and evidence."
 		},
 		{
 			"number": 400,
-			"content": "Actions that constitute two or more violations of the Act or of any executive order announced in accordance with the provisions of the Act shall be subject to separate penalties as stipulated in this Schedule."
+			"content": "Multiple violations of this Act or of orders issued in accordance with this Act shall be punished separately in accordance with the provisions of these Standards."
 		},
 		{
 			"number": 500,
-			"content": "Violations by tourist hotel enterprises and persons employed thereby of the provisions of the Act and of the Regulations Governing Tourist Hotel Enterprises shall, in the case of any ordinary tourist hotel enterprise that is located within the jurisdiction of a municipality, be subject to the imposition, by the municipal government with appropriate jurisdiction, of the penalties as prescribed in Appendix 1 hereto, and in the case of any other international tourist hotel enterprise or ordinary tourist hotel enterprise, be subject to the imposition, by the Tourism Bureau under the authority of the Ministry of Transportation and Communications, of the penalties as prescribed in Appendix 1 hereto."
+			"content": "Tourist hotels and their employees in violation of the Act and the Regulations for Administration of Tourist Hotel Enterprises shall be fined as follows. General tourist hotel enterprises located in Municipal governments on the level of self-government of municipalities under the direct jurisdiction of the Executive Yuan shall be fined by the Government of Municipal governments on the level of self-government of municipalities under the direct jurisdiction of the Executive Yuan in accordance with the provisions of Schedule 1. The rest of the international tourist hotel enterprise and the general tourist hotel enterprise shall be fined by the Tourism Administration appointed by the Ministry of Transportation and Communications in accordance with the provisions of Schedule 1."
 		},
 		{
 			"number": 600,
-			"content": "Violations by hotel enterprises and persons employed thereby of the provisions of the Act and of the Regulations Governing Hotel Enterprises shall be subject to the imposition, by the municipal or county (city) government with appropriate jurisdiction, of the penalties as prescribed in Appendix 2 hereto."
+			"content": "Hotels and Their Employees in Violation of the Act and the Regulations for the Administration of Hotel Enterprises, self-government of municipalities under the direct jurisdiction of the Executive Yuan, or County or Township governments shall impose a penalty in accordance with the provisions of Schedule 2."
 		},
 		{
 			"number": 700,
-			"content": "Violations by travel enterprises, the managers thereof or persons employed thereby of the provisions of the Act and of the Regulations Governing Travel Enterprises shall be subject to the imposition, by the Tourism Bureau under the authority of the Ministry of Transportation and Communications, of the penalties as prescribed in Appendix 3 hereto."
+			"content": "For violations of this Act and the Regulations Governing Travel Agencies Committed by Travel Agencies and the Managers and Employees of Travel Agencies, the Ministry of Transportation and Communications shall appoint the Tourism Administration of travel agencies to impose penalties in accordance with the provisions of Schedule 3."
 		},
 		{
 			"number": 800,
-			"content": "Violations of the provisions of this Act and the Regulations Governing Tourist Amusement Enterprises by tourist amusement enterprises and their employees shall be penalized by the Tourism Bureau under the authority of the Ministry of Transportation and Communications, or by the special municipality or county (city) government, as prescribed in Appendix 4 hereto."
+			"content": "Violations by Tourist Amusement Enterprises and Their Employees of this Act and the Regulations Governing Tourist Amusement Enterprises shall be fined by the Tourism Administration of Ministry of Transportation and Communications, self-government of municipalities under the direct jurisdiction of the Executive Yuan or county (city) government in accordance with the provisions of Schedule 4."
 		},
 		{
 			"number": 900,
-			"content": "Violations by operators of home stay facilities of the Act and the Regulations for the Management of Home Stay Facilities shall be subject to the imposition, by the municipal or county (city) government with appropriate jurisdiction, of the penalties as prescribed in Appendix 5 hereto."
+			"content": "Home Stay Facilities in Violation of the Act and Regulations for the Management of Home Stay Facilities shall be fined by the self-government of municipalities under the direct jurisdiction of the Executive Yuan or county (city) government in accordance with the provisions of Schedule 5."
 		},
 		{
 			"number": 1000,
-			"content": "Violations by tour guides of the Act and the Regulations Governing Tour Guides shall be subject to the imposition, by the Tourism Bureau under the authority of the Ministry of Transportation and Communications, of the penalties as prescribed in Appendix 6 hereto."
+			"content": "Violations by Tour Guides of this Act and the Regulations Governing Tour Guides shall be fined by the Tourism Administration of Ministry of Transportation and Communications in accordance with the provisions of Schedule 6."
 		},
 		{
 			"number": 1100,
-			"content": "Violations by tour group leaders of the Act and the Regulations Governing Tour Group Leaders shall be subject to the imposition, by the Tourism Bureau under the authority of the Ministry of Transportation and Communications, of the penalties as prescribed in Appendix 7 hereto."
+			"content": "Violations by Tour Managers of this Act and the Regulations Governing Tour Managers shall be fined by the Tourism Administration of Ministry of Transportation and Communications in accordance with the provisions of Schedule 7."
 		},
 		{
 			"number": 1200,
-			"content": "Violations by persons engaging in water recreation activities of the Act and the Regulations Governing Water Recreation Activities shall be subject to the imposition, by the water recreation activities management authorities, of the penalties as prescribed in Appendix 8 hereto."
+			"content": "Water Recreation Activities in Violation of this Act and the Regulations Governing Water Recreation Activities shall be fined by the management authorities of water recreation activities in accordance with the provisions of Schedule 8."
 		},
 		{
 			"number": 1300,
-			"content": "Violations of the provisions of the Act and the Regulations Governing Designated Scenic Areas as having regard to the management of national-grade designated scenic areas or of local-grade designated scenic areas under the jurisdiction of a municipal or county (city) government shall be subject to the imposition, by the Tourism Bureau under the authority of the Ministry of Transportation and Communications or by the municipal or county (city) government with appropriate jurisdiction, of the penalties as prescribed in Appendix 9 hereto.Violations of Articles 62 to 64 of the Act as having regard to the management of tourist areas shall be subject to the imposition, by the authority in charge of the target enterprise, of the penalties as prescribed in Appendix 9 hereto."
+			"content": "violations of this Act and management rules for Designated Scenic Spot regarding regulations governing designated scenic spots and tourist locations shall be fined by the Tourism Administration of Ministry of Transportation Communications, self-government of municipalities under the direct jurisdiction of the Executive Yuan, or County (City) Government in accordance with the provisions of Schedule 9.\r\nAny person who violates the provisions of Articles 62 to 64 of this Act relating to the management of tourist areas shall be fined by the competent authorities for the related matters in accordance with the provisions of Schedule 9."
 		},
 		{
 			"number": 1400,
-			"content": "Tourists entering a natural and human ecoscape area without applying to be accompanied by a professional guide in accordance with the regulations shall be subject to the imposition, by the authority in charge of the target enterprise, of the penalties as prescribed in Appendix 10 hereto."
+			"content": "Tourists entering national ecological and cultural reserve areas who have not applied for professional guides to accompany them shall be fined by the competent authorities for the related matters in accordance with the provisions of Schedule 10."
 		},
 		{
 			"number": 1500,
-			"content": "Matters mandated under Article 5, Article 7, Article 8 Paragraphs 1 and 5, Article 10, Article 11, and Article 13 Paragraph 1, and the basis for their being so mandated, shall be publicly announced and published in the government gazette or news journals."
+			"content": "Article 5, Article 7, Article 8 Paragraphs 1 and 5, Article 10, Article 11, and appointments and the basis of the appointment in Article 13 Paragraph 1 shall be published in the government gazette or newspapers."
 		},
 		{
 			"number": 1600,
-			"content": "When a penalty is imposed in accordance with the provisions of this Schedule, a written record of the penalty shall be made; its form and the matters recorded in it shall be decided by the Tourism Bureau of the Ministry of Transportation and Communications. But when a penalty is imposed by the authority in charge of the target enterprise in accordance with the provisions of Articles 62 to 64 of the Act, the form of its written record and the matters recorded in it shall be decided by the authority in charge of the target enterprise."
+			"content": "A written disposition shall be prepared when imposing a penalty in accordance with the provisions of these standards. The format and matters to be included shall be determined by the Tourism Administration of the Ministry of Transportation and Communication. However, when penalties are imposed by competent authorities for the related matters in accordance with the provisions of Articles 62 to 64 of this Act, the format of and the matters to be included in the disposition letter shall be determined by the competent authorities for the related matters."
 		},
 		{
 			"number": 1700,
-			"content": "When penalties are imposed and facts and evidence are examined in accordance with the provisions of this Schedule, the service of related written documents shall be conducted in accordance with the provisions of administrative procedural law."
+			"content": "The delivery of documents relevant to the penalties and investigations into facts and evidence shall be handled in accordance with the provisions of the Administrative Procedure Act."
 		},
 		{
 			"number": 1800,
-			"content": "This Schedule shall come into force from the date of promulgation."
+			"content": "These standards shall take effect on the date of promulgation."
 		}
 	]
 }
