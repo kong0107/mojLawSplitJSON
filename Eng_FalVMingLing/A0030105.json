@@ -3,8 +3,8 @@
 	"英文法規名稱": "Regulations for Electronic Procurement",
 	"中文法規名稱": "電子採購作業辦法",
 	"法規網址": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=A0030105",
-	"最新英文異動日期": "20020717",
-	"沿革內容": "1. Promulgated on July 17, 2002",
+	"最新英文異動日期": "20250327",
+	"沿革內容": "1.Promulgated on July 17, 2002\r\n2.Amended on March 27, 2025",
 	"法規內容": [
 		{
 			"編章節": "Chapter 1 General Principles"
@@ -15,11 +15,11 @@
 		},
 		{
 			"條號": "Article 2",
-			"條文內容": "The terms used in these regulations are defined as follows:\r\n1. government procurement card: the credit card, debit card or stored-value card that is issued to an entity by a credit card business institution for use in payment of government procurement prices and fees.\r\n2. electronic instrument: a proof that is provided with an electronic signature and that attests to receiving of electronic tender documentation, acquiring of tender documentation, receiving of electronic tenders, electronic bid bond certificate and electronic guarantee bond certificate, opening of tenders, awarding of tender, placing of orders, and making of payment.\r\n3. electronic bid bond certificate: an electronic document that has been electronically signed or certified by the issuing bank to serve the purpose of a bid bond.\r\n4. electronic guarantee bond certificate: an electronic document that has been electronically signed or certified by the issuing bank to serve the purpose of a guarantee bond"
+			"條文內容": "The terms used in these regulations are defined as follows:\r\n1.Government procurement card: the credit card, debit card or stored-value card that is issued to an entity by a credit card business institution for use in payment of government procurement prices and fees.\r\n2.Electronic instrument: A certificate authenticated with a digital key for signing and verification through the information system designated by the responsible entity, serving as proof for receiving electronic tender documentation, acquiring tender documentation, receiving electronic tenders, electronic bid bond certificates, electronic guarantee bond certificates, opening of tenders, awarding of tenders, placing orders, and making payments.\r\n3.Electronic bid bond certificate: an electronic document that has been electronically signed or certified by the issuing bank to serve the purpose of a bid bond.\r\n4.Electronic guarantee bond certificate: an electronic document that has been electronically signed or certified by the issuing bank to serve the purpose of a guarantee bond.\r\n5.Digital signature: A digital signature as prescribed by the Electronic Signatures Act."
 		},
 		{
 			"條號": "Article 3",
-			"條文內容": "Where entities and suppliers engage in procurement by using electronic means (hereinafter referred to as “electronic procurement”), the signature or seal required by the tender documentation shall be met by using an electronic signature."
+			"條文內容": "Where entities and suppliers engage in procurement by using electronic means (hereinafter referred to as “electronic procurement”), any required signature or seal shall be provided through the use of a digital signature."
 		},
 		{
 			"條號": "Article 4",
@@ -34,7 +34,7 @@
 		},
 		{
 			"條號": "Article 6",
-			"條文內容": "An entity conducting public dissemination, sale or public viewing of the tender documentation by use of the information system designated by the responsible entity may elect not to prepare additional written documentation.\r\nWhere an entity permits a supplier to use an electronic means to acquire the tender documentation (hereinafter referred to as “electronic acquirement of tender documentation”) or to submit a tender (hereinafter referred to as “electronic submission of tender”), it shall be prescribed in the notice of invitation to tender and the tender documentation."
+			"條文內容": "An entity conducting public dissemination, sale or public viewing of the tender documentation by use of the information system designated by the responsible entity may elect not to prepare additional written documentation.\r\nWhere an entity permits suppliers to acquire tender documentation using electronic means (hereinafter referred to as “electronic acquirement of tender documentation”), this shall be prescribed in the notice of invitation to tender and the tender documentation. Additionally, the tender documentation shall specify that a supplier engaging in the electronic acquirement of tender documentation must submit the electronic instrument used for such acquisition obtained from the designated information system when submitting a tender, either electronically (hereinafter referred to as “electronic submission of tender”) or in written form. If the supplier fails to provide such document, the entity shall proceed in accordance with Article 50 of the Act.\r\nThe entity shall specify in the tender documentation that suppliers may submit their tenders using one of the following methods:\r\n1.Written tender submission.\r\n2.Electronic tender submission.\r\n3.Either written or electronic tender submission."
 		},
 		{
 			"條號": "Article 7",
@@ -42,7 +42,7 @@
 		},
 		{
 			"條號": "Article 8",
-			"條文內容": "An entity’s electronic tender documentation may not be reproduced, published or modified in any form, except where permission of the procuring entity has been granted."
+			"條文內容": "An entity’s electronic tender documentation is provided solely for suppliers to use within the scope of acquiring tender documentation, submitting tenders, and performing contracts. Suppliers shall not reproduce, republish, or modify the documentation."
 		},
 		{
 			"條號": "Article 9",
@@ -54,15 +54,15 @@
 		},
 		{
 			"條號": "Article 11",
-			"條文內容": "Where an entity allows suppliers to adopt electronic submission of tender, the entity may prescribe in the tender documentation that the signing of a contract shall be based on the electronic tender, or that it shall be undertaken within a period after awarding of contract based on written documentation.\r\nThe content of the written documentation referred to in the preceding paragraph shall be the same as that of the electronic tender. Where there is a discrepancy between the two, the latter shall prevail."
+			"條文內容": "Where an entity allows suppliers to submit tenders electronically in accordance to Paragraph 3 of Article 6, the following provisions may be prescribed in the tender documentation:\r\n1.Items for which suppliers must submit tenders using other forms.\r\n2.Suppliers must additionally provide other forms of documentation containing the same content as the electronic tender submission; in the event of discrepancies, the electronic tender submission shall prevail.\r\n3.Following the award of the contract, the contract may be signed based on the electronic tender submission or in written form. If a written contract is signed, its content shall be identical to the electronic tender submission; in the event of discrepancies, the electronic tender submission shall prevail."
 		},
 		{
 			"條號": "Article 12",
-			"條文內容": "A supplier adopting electronic submission of tender shall, prior to the time-limit for receipt of tenders, transmit all electronic documentation of its tender to the information system designated by the responsible entity."
+			"條文內容": "A supplier submitting a tender electronically shall, pursuant to the requirements set forth in the tender documentation, and depending on their format, transmit all required documentation before the tender submission deadline to the information system designated by the responsible entity or deliver it to the location specified by the entity."
 		},
 		{
 			"條號": "Article 13",
-			"條文內容": "For a supplier conducting electronic submission of tender, the bid bond or guarantee bond to be deposited or the guarantee to be provided pursuant to Article 30 or paragraph 2 of Article 37 of the Act may take the form of an electronic bid bond certificate or an electronic guarantee bond certificate issued by a bank.\r\nThe format of the certificates referred to in the preceding paragraph shall be disclosed by the responsible entity at a designated information system."
+			"條文內容": "A supplier participating in electronic procurement and required to submit a bid bond, guarantee bond, or provide a guarantee pursuant to Article 30 or Paragraph 2 of Article 37 of the Act may do via electronic means approved by the responsible entity.\r\nThe electronic means approved by the responsible entity in the preceding paragraph shall be disclosed on the designated information system."
 		},
 		{
 			"條號": "Article 14",
@@ -82,7 +82,7 @@
 		},
 		{
 			"條號": "Article 18",
-			"條文內容": "During the course of an entity’s electronic procurement and in the circumstance where the information system designated by the responsible entity is temporarily out of service for some reason, such circumstance shall be handled as follows:\r\n1. at the stage of invitation to tender and price inquiry: the entity shall wait until the system has recovered and then transmit the electronic tender documentation;\r\n2. at the stage of acquirement of the tender documentation: suppliers shall make a request of the tender documentation using other means provided therein, or they shall wait until the system has recovered and then proceed to make electronic acquirement of tender documentation; the entity may, by taking into consideration the extent to which an individual case is affected, publish a notice to extend the time-limit tendering;\r\n3. at the stage of submission of tender: suppliers shall submit their tenders using other means provided by the tender documentation, or they shall wait until the system has recovered and then proceed to conduct electronic submission of tenders; the entity may, by taking into consideration the extent to which an individual case is affected, publish a notice to extend the time-limit tendering;\r\n4. at the stage of opening of tenders: the entity shall wait until the system has recovered and then proceed to open tenders, or it shall defer opening of tenders; an exception of this provision will be given where it is certain that there exists no electronic tender;"
+			"條文內容": "During the course of electronic procurement, if the information system designated by the responsible entity is temporaily out of service, in whole or in part the situation shall be handled as follows:\r\n1.at the stage of invitation to tender and price inquiry: the entity shall wait until the system has recovered and then transmit the electronic tender documentation;\r\n2.at the stage of acquirement of the tender documentation: suppliers shall make a request of the tender documentation using other means provided therein, or they shall wait until the system has recovered and then proceed to make electronic acquirement of tender documentation; the entity may, by taking into consideration the extent to which an individual case is affected, publish a notice to extend the time-limit tendering;\r\n3.at the stage of submission of tender: suppliers shall submit their tenders using other means provided by the tender documentation, or they shall wait until the system has recovered and then proceed to conduct electronic submission of tenders; the entity may, by taking into consideration the extent to which an individual case is affected, publish a notice to extend the time-limit tendering;\r\n4.at the stage of opening of tenders: the entity shall wait until the system has recovered and then proceed to open tenders, or it shall defer opening of tenders; an exception of this provision will be given where it is certain that there exists no electronic tender;\r\nWhen special circumstances prevent the normal conduct of an electronic procurement operations for a specific procurement case, the preceding paragraph may apply mutatis mutandis."
 		},
 		{
 			"編章節": "Chapter 3 Payment"
@@ -112,11 +112,11 @@
 		},
 		{
 			"條號": "Article 24",
-			"條文內容": "The responsible entity may charge a fee to the user for access to the information system for electronic procurement; the standard of fees shall be determined by the responsible entity."
+			"條文內容": "The responsible entity may charge a fee to the user for access to the information system for electronic procurement; the standard of fees shall be determined by the responsible entity.\r\nWhere necessary, the responsible entity may entrust the operation of the information system for electronic procurement to a third-party supplier."
 		},
 		{
 			"條號": "Article 25",
-			"條文內容": "These regulations shall take effect from the date of promulgation.\r\n\r\nNote:\r\nIn case of discrepancies between the Chinese version and this English version, the Chinese version shall prevail."
+			"條文內容": "These regulations shall take effect from the date of promulgation.\r\n\r\nNote: In case of discrepancies between the Chinese version and this English version, the Chinese version shall prevail."
 		}
 	]
 }
