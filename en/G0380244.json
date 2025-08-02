@@ -3,7 +3,7 @@
   "EngLawName": "Implementation Rules for the Internal Audit and Internal Control System of Specialized Electronic Payment Institutions",
   "LawName": "專營電子支付機構內部控制及稽核制度實施辦法",
   "EngLawURL": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=G0380244",
-  "EngLawModifiedDate": "20230814",
+  "EngLawModifiedDate": "20250319",
   "EngLawAbandonNote": "",
   "EngLawAttachements": [
     {
@@ -11,7 +11,7 @@
       "FileURL": "https://law.moj.gov.tw/Eng/LawClass/LawGetFile.ashx?FileId=0000006882"
     }
   ],
-  "EngLawHistories": "1.Promulgated on April 27, 2015\r\n2.Amended and promulgated on June 30, 2021 with the July 1, 2021 effective date\r\n3.Amended on August 14, 2023 and enter into force on the date of promulgation.",
+  "EngLawHistories": "1.Promulgated on April 27, 2015\r\n2.Amended and promulgated on June 30, 2021 with the July 1, 2021 effective date\r\n3.Amended on August 14, 2023 and enter into force on the date of promulgation.\r\n4.Amended on March 19, 2025 and enter into force on the date of promulgation, except for Article 27, which shall enter into force on January 1, 2026.",
   "EngLawForeword": "",
   "EngLawArticles": [
     {
@@ -177,7 +177,7 @@
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 27",
-      "EngArticleContent": "If the annual financial report of a specialized electronic payment institution is audited and certified by an accountant, the institution shall also engage the accountant to conduct an audit of its internal control system. The accountant shall also express an opinion on the accuracy of reports submitted by the specialized electronic payment institution to the competent authority, and the appropriateness of the implementation status of internal control system and regulatory compliance system.\r\nThe competent authority may request the specialized electronic payment institution to authorize an accountant to conduct a targeted examination of its personal data protection and AML/CFT mechanisms.\r\nThe audit fees for the accountant shall be negotiated and agreed between the specialized electronic payment institution and the accountant, and paid by the specialized electronic payment institution."
+      "EngArticleContent": "If the annual financial report of a specialized electronic payment institution is audited and certified by an accountant, the institution shall also engage the accountant to conduct an audit of its internal control system. The accountant shall also submit a reasonable assurance report on the accuracy of reports submitted by the specialized electronic payment institution to the competent authority, and the appropriateness of the implementation status of internal control system and regulatory compliance system.\r\nThe competent authority may request the specialized electronic payment institution to authorize an accountant to conduct a targeted examination of its personal data protection and AML/CFT mechanisms.\r\nThe audit fees for the accountant shall be negotiated and agreed between the specialized electronic payment institution and the accountant, and paid by the specialized electronic payment institution."
     },
     {
       "EngArticleType": "A",
@@ -235,6 +235,11 @@
       "EngArticleContent": "The risk management mechanisms of a specialized electronic payment institution shall include the following:\r\n1. Establishing a fraud prevention mechanism to uphold transaction security and better control fraud risk.\r\n2. Establishing the examination and control mechanism for operating procedures and establishing information security mechanism and emergency response plan.\r\n3. Establishing users and contracted institutions management mechanism.\r\n4. Establishing exit mechanism for circumstances when business or finance deteriorates significantly.\r\n5. Establishing users’ funds of payment management mechanism.\r\n6. Establishing users’ and contracted institutions’ identity verification mechanism.\r\n7. Establishing users’ and contracted institutions’ information protection mechanism.\r\n8. Establishing outsourcing management mechanism.\r\n9. Establishing financial consumer protection mechanism."
     },
     {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 36-1",
+      "EngArticleContent": "If a specialized electronic payment institution whose total assets audited and certified by a certified public accountant in the previous year amounted to NT$1 billion or whose number of users reached 2 million or more, it must set up a dedicated information security unit and appoint a supervisor, who shall not be assigned to perform information management or other tasks with conflict of interest, and shall allocate suitable workforce and equipment.\r\nIf the dedicated information security unit specified in the preceding paragraph is part of the information management organization, it shall be set up as a separate entity from other information management units to meet the management mechanisms for independent operations.\r\nIf an electronic payment institution does not meet the provisions Paragraph 1, it shall implement adjustments within six months of the promulgation of the amendment to meet requirements."
+    },
+    {
       "EngArticleType": "C",
       "EngArticleNo": "",
       "EngArticleContent": "   Chapter 4 Supplemental Provisions"
@@ -267,7 +272,7 @@
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 42",
-      "EngArticleContent": "The Regulations shall enter into force on July 1, 2021.\r\nThe amendment of these Implementation Rules shall enter into force on the date of promulgation."
+      "EngArticleContent": "The Implementation Rules shall enter into force on July 1, 2021.\r\nThe amendment of the Implementation Rules shall be implemented starting from the date of promulgation, except for Article 27, amended and promulgated on March 19, 2025, which shall be implemented starting from January 1, 2026."
     }
   ]
 }
