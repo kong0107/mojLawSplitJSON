@@ -3,7 +3,7 @@
 	"LawLevel": "法律",
 	"EngLawName": "Insurance Act",
 	"name": "保險法",
-	"EngLawModifiedDate": "20221130",
+	"EngLawModifiedDate": "20250618",
 	"histories": [
 		"Promulgated by National Government in total of 82 articles on 1929.12.30 (listed in National Government Bulletin 263)",
 		"Promulgated by National Government in total of 92 articles on 1937.1.11 (listed in National Government Bulletin 2250)",
@@ -37,7 +37,8 @@
 		"Amendment to Article 165 promulgated per Presidential Order No. Hua-Zong-Yi-Yi-Zi-10800002751 dated Jan 16, 2019.",
 		"Amendment to Article 107、138-2 promulgated per Presidential Order No. Hua-Zong-Yi-Jing-Zi-10900064801 dated June 10, 2020.",
 		"Amendment to Article 137、137-1、143-4～143-6、146-1～146-3、146-5、149、168 promulgated per Presidential Order No. Hua-Zong-Yi-Jing-Zi-11000047761 dated May 26, 2021",
-		"Amendment to Article 116 promulgated per Presidential Order No. Hua-Zong-Yi-Jing-Zi-11100101171 dated November 30, 2022.\r\n"
+		"Amendment to Article 116 promulgated per Presidential Order No. Hua-Zong-Yi-Jing-Zi-11100101171 dated November 30, 2022.",
+		"Amendment to Article 130、148-3、167-1、171-1, addition of Articles 123-1、123-2、129-1、132-1, and deletion of Article 168-7 promulgated per Presidential Order No. Hua-Zong-Yi-Jing-Zi-11400060451 dated June 18, 2025"
 	],
 	"divisions": [
 		{
@@ -794,6 +795,14 @@
 			"content": "(Effect from Bankruptcy of Parties)\r\nIf an insurer becomes bankrupt, the amount a beneficiary may claim against the insurer with respect to the insured amount is to be calculated pro rata according to the ratio of the non-forfeiture value to the premium rate at the time the contract was entered into. If the proposer becomes bankrupt, insurance contracts in which the beneficiary has been specified shall remain valid for the benefit of the beneficiary.\r\nWith respect to the invested assets of an investment-linked insurance contract, persons other than the beneficiary may not lay any claim thereto, nor shall they demand attachment or exercise any other rights."
 		},
 		{
+			"number": 12301,
+			"content": "Life insurance contracts where the proposer is the debtor, if the surrender value claim amount of each in-force contract does not exceed the highest standard for six-month amount calculated based on 1.2 times of the minimum living expenses per person per month announced by the Ministry of Health and Welfare or the municipal government in the latest year, it shall not be the object of seizure or compulsory enforcement.\r\nThe surrender value claims of life insurance contract announced by the competent authority for promoting basic insurance protection policy shall not be the object of seizure or compulsory enforcement."
+		},
+		{
+			"number": 12302,
+			"content": "When the surrender value claim arising from a life insurance contract where the proposer is the debtor is subject to seizure, or the proposer of such an insurance contract is declared bankruptcy, or ordered to undergo liquidation or rehabilitation process in accordance with The Consumer Debt Clearance Statute, prior to the occurrence of an insured peril, persons in any of the following subparagraphs may, after obtaining the written consents of the proposer and the insured, and having paid the enforcement agency or the person designated by the enforcement order an estimated amount of surrender value to be received from the insurer after the insurance contract is terminated, notify the insurer in writing a change of proposer:\r\n1. A person with insurable interest in the insured;\r\n2. A beneficiary named by the proposer; and\r\n3. The spouse, parent or child of the proposer or the insured.\r\nNotifying the insurer of change of proposer under the preceding paragraph must be done within three months from the date the reason for change set out in the preceding paragraph occurs; the change of proposer takes effect from the date the written notice of change is delivered to the insurer.\r\nIf the reason for change of proposer set out in Paragraph 1 hereof occurs before the articles of the Act amended on June 3, 2025 enter into force, Paragraph 1 and latter section of the preceding paragraph may apply, after the amendment takes effect and prior to the occurrence of an insured peril, to persons under any subparagraph of Paragraph 1 within three months from the date the amended articles enter into force."
+		},
+		{
 			"number": 12400,
 			"content": "(Right of Preference for Payment of the Non-forfeiture Value)\r\nThe proposer, insured, and beneficiary of life insurance have right of preference for payment of the insured's non-forfeiture value."
 		},
@@ -818,8 +827,12 @@
 			"content": "(Specification of an Insurance Contract Entered into by a Third Party)\r\nIf the insured and proposer are not one and the same person, the insurance contract, besides specifying the particulars provided in Article 55, shall also specify the following particulars:\r\n1. Name, age, and domicile of the insured.\r\n2. Relationship of the insured to the proposer."
 		},
 		{
+			"number": 12901,
+			"content": "The surrender value claim arising from a health insurance contract where the proposer is the debtor shall not be the object of seizure or compulsory enforcement."
+		},
+		{
 			"number": 13000,
-			"content": "(Provisions Applied Mutatis Mutandis)\r\nThe provisions of Articles 102 to Article 105, Article 115, Article 116, and Articles 122 to Article 124 apply mutatis mutandis to health insurance."
+			"content": "The provisions of Articles 102 to Article 105, Article 115, Article 116, Article 122, Article 123 and Article 124 apply mutatis mutandis to health insurance."
 		},
 		{
 			"number": 13100,
@@ -828,6 +841,10 @@
 		{
 			"number": 13200,
 			"content": "(Specification of a Personal Accident Insurance Contract)\r\nA personal injury insurance contract, besides specifying the particulars as provided in Article 55, shall also specify the following particulars:\r\n1. Name, age, and domicile of the insured and relationship of the insured to the proposer.\r\n2. Names of the beneficiaries and their relation to the insured, or a method for determining the beneficiaries.\r\n3. The events for which, and the period during which, the insured amount may be claimed."
+		},
+		{
+			"number": 13201,
+			"content": "The surrender value claim arising from a personal injury insurance contract where the proposer is the debtor shall not be the object of seizure or compulsory enforcement."
 		},
 		{
 			"number": 13300,
@@ -1023,7 +1040,7 @@
 		},
 		{
 			"number": 14803,
-			"content": "(Internal Control and Audit Systems)\r\nAn insurance enterprise shall establish internal control and auditing systems. Regulations governing such systems shall be prescribed by the competent authority.\r\nAn insurance enterprise shall establish internal handling systems and procedures for: assessment of asset quality; provision for various kinds of reserves; resolution of overdue loans and non-accrual loans; write-off of bad debts; and policy solicitation, underwriting, and claims settlement. Regulations governing such systems and procedures shall be prescribed by the competent authority."
+			"content": "An insurance enterprise shall establish internal control and auditing systems. Regulations governing such systems shall be prescribed by the competent authority.\r\nAn insurance enterprise shall establish internal handling systems and procedures for: assessment of asset quality; provision for various kinds of reserves; resolution of overdue loans and non-accrual loans; write-off of bad debts; and policy solicitation, underwriting, and claims settlement. Regulations governing such systems and procedures shall be prescribed by the competent authority.\r\nIf an insurance enterprise outsources the processing of its operations to others, it shall establish internal operating systems and procedures for the scope of outsourcing, protection of customer rights and interests, risk management and internal control principles. Regulations governing the above shall be prescribed by the competent authority."
 		},
 		{
 			"number": 14900,
@@ -1187,7 +1204,7 @@
 		},
 		{
 			"number": 16701,
-			"content": "(Penal Provisions)\r\nAny person who provides agent, broker, surveyor services for insurance enterprises or foreign insurance enterprises not approved under the Act shall be subject to a prison term of not more than three (3) years, and in addition thereto, a fine of not less than NT$3,000,000 but not more than NT$20,000,000. In severe situations, the competent authority may order the violating insurance agent, broker, surveyor, or the bank operating the insurance agent or insurance business concurrently to suspend business, in whole or in part, or revoke the offender's practice license.\r\nWhere a juristic person's representative, agent, employee or other staff commits the offense described in the preceding paragraph when practicing business, the offender shall be punished and said fine shall be imposed on the juristic person too.\r\nAny person who operates or practices the business of an insurance agent, broker or surveyor without a practice license is subject to a fine of not less than NT$900,000 but not more than NT$9,000,000."
+			"content": "Except for insurance that supports government policy needs and has been announced by the competent authority which may be obtained from foreign insurance enterprises through insurance brokers, any person who provides agent, broker, surveyor services for insurance enterprises or foreign insurance enterprises not approved under the Act shall be subject to a prison term of not more than three (3) years, and in addition thereto, a fine of not less than NT$3,000,000 but not more than NT$20,000,000. In severe situations, the competent authority may order the violating insurance agent, broker, surveyor, or the bank operating the insurance agent or insurance business concurrently to suspend business, in whole or in part, or revoke the offender's practice license.\r\nWhere a juristic person's representative, agent, employee or other staff commits the offense described in the preceding paragraph when practicing business, the offender shall be punished and said fine shall be imposed on the juristic person too.\r\nAny person who operates or practices the business of an insurance agent, broker or surveyor without a practice license is subject to a fine of not less than NT$900,000 but not more than NT$9,000,000."
 		},
 		{
 			"number": 16702,
@@ -1235,7 +1252,7 @@
 		},
 		{
 			"number": 16807,
-			"content": "(Penal Provisions)\r\nThe crimes set forth in Article 168-2, paragraph 1 are serious crimes as defined in Article 3, paragraph 1 of the Money Laundering Control Act."
+			"content": "(Deleted)"
 		},
 		{
 			"number": 16900,
@@ -1263,7 +1280,7 @@
 		},
 		{
 			"number": 17101,
-			"content": "(Penal Provisions)\r\nAn insurance enterprise that violates the provisions of Article 148-1, paragraph 1 or 2 shall be assessed an administrative fine of not less than NT$600,000 but not more than NT$6,000,000.\r\nAn insurance enterprise that violates the provisions of Article 148-2, paragraph 1 by not making explanatory documents publicly available for inspection, or submitting explanatory documents that do not contain required information, or submitting explanatory documents containing misrepresentations, shall be assessed an administrative fine of not less than NT$600,000 but not more than NT$6,000,000.\r\nAn insurance enterprise that violates the provisions of Article 148-2, paragraph 2 by failing to report to the competent authority or to provide a public explanation within the specified time period, or by making false representations in its reports to the competent authority or public explanations, shall be assessed an administrative fine of not less than NT$300,000 but not more than NT$3,000,000.\r\nAn insurance enterprise that violates the provisions of Article 148-3, paragraph 1 by failing to establish or enforce internal control or auditing systems shall be assessed an administrative fine of not less than NT$600,000 but not more than NT$12,000,000.\r\nAn insurance enterprise that violates the provisions of Article 148-3, paragraph 2 by failing to establish or enforce internal handling systems or procedures shall be assessed an administrative fine of not less than NT$600,000 but not more than NT$12,000,000."
+			"content": "An insurance enterprise that violates the provisions of Article 148-1, paragraph 1 or 2 shall be assessed an administrative fine of not less than NT$600,000 but not more than NT$6,000,000.\r\nAn insurance enterprise that violates the provisions of Article 148-2, paragraph 1 by not making explanatory documents publicly available for inspection, or submitting explanatory documents that do not contain required information, or submitting explanatory documents containing misrepresentations, shall be assessed an administrative fine of not less than NT$600,000 but not more than NT$6,000,000.\r\nAn insurance enterprise that violates the provisions of Article 148-2, paragraph 2 by failing to report to the competent authority or to provide a public explanation within the specified time period, or by making false representations in its reports to the competent authority or public explanations, shall be assessed an administrative fine of not less than NT$300,000 but not more than NT$3,000,000.\r\nAn insurance enterprise that violates the provisions of Article 148-3, paragraph 1 by failing to establish or enforce internal control or auditing systems shall be assessed an administrative fine of not less than NT$600,000 but not more than NT$12,000,000.\r\nAn insurance enterprise that violates the provisions of Article 148-3, paragraph 2 by failing to establish or enforce internal handling systems or procedures shall be assessed an administrative fine of not less than NT$600,000 but not more than NT$12,000,000.\r\nAn insurance enterprise that violates the provisions of Article 148-3, paragraph 3 by failing to establish or enforce internal operating systems or procedures shall be assessed an administrative fine of not less than NT$600,000 but not more than NT$12,000,000."
 		},
 		{
 			"number": 17102,
