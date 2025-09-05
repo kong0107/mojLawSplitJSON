@@ -1,0 +1,147 @@
+{
+	"pcode": "K0040074",
+	"LawLevel": "命令",
+	"EngLawName": "The Regulation Governing the Handling of Investigation Procedures for Major Highway Occurrence",
+	"name": "重大公路事故調查作業處理規則",
+	"EngLawModifiedDate": "20250627",
+	"histories": [
+		"19 clauses established and promulgated on February 26, 2020",
+		"Amendment to Article 2,3,4,5,8,9,12 promulgated on June 27, 2025"
+	],
+	"divisions": [
+		{
+			"type": "chapter",
+			"number": 100,
+			"title": "General Principles",
+			"start": 100,
+			"end": 200
+		},
+		{
+			"type": "chapter",
+			"number": 200,
+			"title": "Notification of Major Highway Occurrences",
+			"start": 300,
+			"end": 400
+		},
+		{
+			"type": "chapter",
+			"number": 300,
+			"title": "Identification of Major Highway Occurrences",
+			"start": 500,
+			"end": 700
+		},
+		{
+			"type": "chapter",
+			"number": 400,
+			"title": "On-scene Handling of Major Highway Occurrences",
+			"start": 800,
+			"end": 1100
+		},
+		{
+			"type": "chapter",
+			"number": 500,
+			"title": "Investigation of Major Highway Occurrences",
+			"start": 1200,
+			"end": 1500
+		},
+		{
+			"type": "chapter",
+			"number": 600,
+			"title": "Personnel Interviews",
+			"start": 1600,
+			"end": 1700
+		},
+		{
+			"type": "chapter",
+			"number": 700,
+			"title": "Draft Final Report Review and Safety Recommendations",
+			"start": 1800,
+			"end": 1800
+		},
+		{
+			"type": "chapter",
+			"number": 800,
+			"title": "Supplementary provision",
+			"start": 1900,
+			"end": 1900
+		}
+	],
+	"articles": [
+		{
+			"number": 100,
+			"content": "The Regulation is prescribed pursuant to Article 38 of the Transportation Occurrence Investigation Act (hereinafter referred to as the “Act”) and shall apply to the investigations of major highway occurrences."
+		},
+		{
+			"number": 200,
+			"content": "The terms applied in the Regulation are defined as follows:\r\n1. Major highway occurrences: refer to the major highway occurrences specified in the scope of the Major Transportation Occurrences prescribed in the second paragraph of Article 2 of the Act.\r\n2. Death or injury: refers to a person who dies or is injured, excluding causes caused by natural factors, the individual's own actions, or intrusion by other persons.\r\n(1) Death: refers to a person who dies on the spot or within 24 hours due to injuries.\r\n(2) Injury: refers to a person who is harmed as a result of the traffic accident.\r\n3. “Duty officer”: Refers to the person who alternately serves by the investigators of the TTSB, who are on duty 24 hours a day, and are responsible for handling notification of major highway occurrences.\r\n4. “On-scene Investigator”: A highway safety investigator who, after the TTSB learns of a major highway occurrence, is appointed by the TTSB to take charge of directing the go-team to carry out on-scene identification of the major highway occurrence and investigation-related operations, and whose mission shall terminate upon appointment of an Investigator-In-Charge.\r\n5. “Go-team”: A temporary task force formed by investigators of the TTSB to carry out the identification of a major highway occurrence, on-scene inspection and collection of occurrence-related information.\r\n6. “Investigator-In-Charge”: A highway safety investigator who, after a major highway occurrence arises, is designated by the TTSB pursuant to the Act to take charge of the investigation of the highway occurrence.\r\n7. “Investigation Task Force”: An investigation team established by the Investigator-In-Charge pursuant to the Act, which shall, during the investigation, submit to the direction of the Investigator-In-Charge in conducting relevant operations.\r\n8. “Command Post of Investigation”: A place set up for the purposes of direction, control, communication, and logistic support for the implementation of on-scene investigation and conducting of such relevant operations as meetings and mission briefings for the investigation task force.\r\n9. “Tachograph”: On-board recording devices capable of continuously recording the vehicle’s spot speed and running time, or other recording equipment.\r\n10. “Vehicle Owner”: Refers to the person who is registered at the Highway Bureau.\r\n11. “Vehicle Operator”: Refers to a natural person, legal entity, or government authority (organization) engaged in operating a commercial automobile business or a private large passenger vehicle."
+		},
+		{
+			"number": 300,
+			"content": "After a major highway occurrence or alleged major highway occurrence arises, the competent authority of the commercial automobile business, the National Fire Agency, and the police department shall, within the time specified in Article 9 of the Act, notify the duty officer of the TTSB promptly. In addition, the competent authority of the commercial automobile business, as well as the vehicle owner and operator under the commercial automobile business or a private large passenger vehicle shall submit a major highway occurrence report form to the TTSB."
+		},
+		{
+			"number": 400,
+			"content": "The competent authority of the commercial automobile business, the National Fire Agency, the police department, and the vehicle owner and operator under the commercial automobile business or a private large passenger vehicle shall report major highway occurrences or alleged major highway occurrences in the event of the following:\r\n1. A traffic accident involving three or more fatalities, or ten or more casualties, or fifteen or more injuries.\r\n2. An explosion, fire, or leakage of toxic liquid (gas), or radioactive substances during transportation."
+		},
+		{
+			"number": 500,
+			"content": "Upon receipt of any notification, the TTSB may, if it deems necessary, designate an on-scene investigator to lead the go-team to the scene of the occurrence. The local government, fire department, and police department of the site, the vehicle owner and operator under the commercial automobile business or a private large passenger vehicle, or other relevant authorities (organizations) shall provide necessary assistance to the on-scene investigator."
+		},
+		{
+			"number": 600,
+			"content": "The TTSB shall base on the contents of the notification and the information gathered by the go-team, identify whether the subject event of the notification is a major highway occurrence, and, if and when necessary, may form a review board to review the disputes arising out of the identification."
+		},
+		{
+			"number": 700,
+			"content": "The TTSB may, after deliberating upon the necessity of the investigation, terminate the investigation while the investigation is in process, but the grounds for such suspension shall be specified."
+		},
+		{
+			"number": 800,
+			"content": "After a major highway occurrence or alleged major highway occurrence arises, the Ministry of Health and Welfare, the local government, fire department, and police department of the site, and the vehicle owner and operator under the commercial automobile business or a private large passenger vehicle shall, in addition to assisting the investigation and handling matters designated by the investigation task force, render assistance ex officio with the following:\r\n1. Collect information regarding casualties.\r\n2. Collect information regarding vehicular damage.\r\n3. Collect information regarding the site of the occurrence.\r\n4. Conduct alcohol and drug tests on the driver.\r\n5. Locate the tachograph and other recording devices.\r\n6. Keep the contact information of the driver and on-site witnesses and take down their statements."
+		},
+		{
+			"number": 900,
+			"content": "After a major highway occurrence arises, the Ministry of National Defense, Highway Bureau (Ministry of Transportation and Communications), Freeway Bureau (Ministry of Transportation and Communications), and the local government and police department of the site shall provide spaces for the operations of the command post of the investigation, temporarily wreckage storage, as well as communications and office equipment.\r\nThe TTSB may request local governments and police departments to enforce necessary security maintenance and precautionary measures in the area where the occurrence occurred to prevent hazards to the safety of the general public caused by the wreckage of the vehicle or the dangerous goods on board as well as to avoid man-made destruction of the scene."
+		},
+		{
+			"number": 1000,
+			"content": "Pursuant to the second paragraph of Article 12 of the Act, the vehicle operator shall turn off the power source of the tachograph after an accident to ensure the integrity of data related to the investigation."
+		},
+		{
+			"number": 1100,
+			"content": "After a major highway occurrence or alleged major highway occurrence arises, the management authority of the site shall preserve the integrity of the scene. If any of the following situations are likely to occur, the management authority (organization) of the site shall negotiate with the Investigator-In-Charge to implement necessary clearance of the scene:\r\n1. Severe effects on the flow and safety of the road.\r\n2. Derivative damage of the wreckage.\r\n3. Derivative hazards.\r\n4. Injury to the general public.\r\n5. Environmental pollution."
+		},
+		{
+			"number": 1200,
+			"content": "The Investigator-In-Charge in implementing Article 11 of the Act, shall invite an investigation team composed of representatives and experts from the following authorities (organizations) to join the investigation task force if he or she deems necessary:\r\n1. The Highway Bureau.\r\n2. The Freeway Bureau.\r\n3. The local government.\r\n4. The relevant authorities (organizations).\r\n5. The vehicle owner or operator under the commercial automobile business or a private large passenger vehicle.\r\n6. The investigation authorities from the country in which the vehicle was designed or manufactured.\r\n7. The other professional organizations and academics experts with highway safety expertise.\r\nNeither lawyers nor representatives from insurance companies may participate in the investigation task force."
+		},
+		{
+			"number": 1300,
+			"content": "If any person participating in the investigation referred to in the preceding article fails to obey any direction given by the Investigator-In-Charge or violates any matter contained in the commitment to confidentiality, the Investigator-In-Charge may suspend his or her participation in the operations of the investigation task force."
+		},
+		{
+			"number": 1400,
+			"content": "Pursuant to Article 20 of the Act, the accredited representatives, upon making a written confidentiality commitment and obtaining consent from the Investigator-In-Charge, may engage in the following tasks:\r\n1. Visit the scene of the occurrence.\r\n2. Examine the wreckage.\r\n3. Interview the witnesses and get testimonies.\r\n4. Examine the relevant evidence.\r\n5. Receive copies of all pertinent documents.\r\n6. Participate in off-scene investigative activities, such as component examinations, technical briefings, tests, and simulations.\r\n7. Participate in progress meetings including deliberations to analysis, findings, causes, and safety recommendations.\r\n8. Make recommendations as to the various investigation processes."
+		},
+		{
+			"number": 1500,
+			"content": "Pursuant to Article 14 of the Act, the TTSB holds the priority in taking custody of any relevant evidence. In the course of the investigation, it may return to the authorities (organizations) concerned such evidence as is no longer required in the investigation.\r\nAfter the Final Report is released, the TTSB shall promptly return the relevant evidence to the authorities (organizations) concerned, such as the vehicle, wreckage, documents, and manuals.\r\nIn case of any involvement of death or injury of any person in a major highway occurrence, the TTSB may not return relevant evidence to the authorities (organizations) concerned until the prosecutorial authority gives its consent."
+		},
+		{
+			"number": 1600,
+			"content": "Prior to an interview, an interviewee may request a person to accompany him or her to the place where the interview is conducted. No supervisor, employer, lawyer, or insurance agent of the interviewee may so accompany the interviewee unless the TTSB gives its consent.The person accompanying the interviewee may not enter the place where the interview is conducted unless he or she undertakes not to disclose the contents of the interview and not to interfere with the interview.\r\nDuring the interview, the interviewee shall answer truthfully to any question presented to him or her by the TTSB’s investigation task force.\r\nThe accompanying person may not make any statement or interfere with or interrupt the interview, however, the interviewee may discuss the question with the accompanying person.\r\nPrior to the interview, the supervisor or employer of the interviewee may not in any way affect the interviewee as to his or her statements concerning the facts, nor interfere with the interview.\r\nNo person may enter the place where the interview is conducted except those permitted by the investigation task force.\r\nAfter the interview, the interviewee may not disclose the contents of the interview."
+		},
+		{
+			"number": 1700,
+			"content": "The public disclosure of recordings or records of the interview and any restricted documents with respect to any situation described in Articles 21 and 22 of the Act and the subparagraphs of the first paragraph of Article 18 of the Freedom of Government Information Law shall be limited."
+		},
+		{
+			"number": 1800,
+			"content": "The authorities (organizations) concerned, domestic or abroad, as well as any unit subjected to investigation, may file a written application for presenting their dissent at the Board meeting of the TTSB within fifteen (15) days after receipt of a Draft Final Report pursuant to paragraph 3, Article 24 of the Act."
+		},
+		{
+			"number": 1900,
+			"content": "The Regulation shall become effective as of the date of promulgation."
+		}
+	]
+}
