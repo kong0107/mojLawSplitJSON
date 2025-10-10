@@ -3,7 +3,7 @@
 	"LawLevel": "法律",
 	"EngLawName": "Criminal Code of the Republic of China",
 	"name": "中華民國刑法",
-	"EngLawModifiedDate": "20240731",
+	"EngLawModifiedDate": "20250528",
 	"histories": [
 		"387 clauses established and published on march 10, 1928 and promulgated on September 1, 1928.\r\n  357 clauses amended and published on January 1, 1935 and promulgated on July 1, 1935",
 		"Amendment to Article 5 promulgated on November 7, 1948",
@@ -58,7 +58,8 @@
 		"Amendment to Articles 303,339-4 ; addition of Articles 302-1 promulgated on May 31, 2023",
 		"Amendment to Article 185-3 promulgated on December 27, 2023",
 		"Addition of Articles 141-1 and Chapter 5-1 promulgated on June 24,2024",
-		"Amendment to Articles 286 promulgated on July 31,2024"
+		"Amendment to Articles 286 promulgated on July 31,2024",
+		"Amendment to Article 161; addition of Articles 161-1, 172-1, 172-2, 172-3 and title of Chapter 10-1 promulgated on May 28, 2025."
 	],
 	"divisions": [
 		{
@@ -251,6 +252,13 @@
 					"title": "Offenses of Perjury and Malicious Accusation",
 					"start": 16800,
 					"end": 17200
+				},
+				{
+					"type": "chapter",
+					"number": 1001,
+					"title": "Offenses of obstruction of justice",
+					"start": 17201,
+					"end": 17203
 				},
 				{
 					"type": "chapter",
@@ -1146,7 +1154,11 @@
 		},
 		{
 			"number": 16100,
-			"content": "A person, having been legally arrested or taken into custody, who escape shall be sentenced to imprisonment for not more than one year.\r\nA person who commits an offense specified in the preceding paragraph by damaging a part of the place of confinement or an instrument by which he is confined or by means of violence or threats shall be sentenced to imprisonment for not more than five years.\r\nA person who participates in an open assembly at which an offense specified in paragraph 1 is committed by threats or violence shall be sentenced to imprisonment for not less than three years but not more than ten years; a ringleader and any person who actually employs violence threats shall be sentenced to imprisonment for not less than five years.\r\nAn attempt to commit an offense specified in one of the three preceding paragraphs is punishable."
+			"content": "A person, having been legally arrested or taken into custody, who escapes shall be sentenced to imprisonment for not more than three years.\r\nA person who commits an offense specified in the preceding paragraph by damaging a part of the place of confinement or an instrument by which he is confined or by means of violence or threats shall be sentenced to imprisonment for not less than one year but not more than seven years.\r\nA person who participates in an open assembly at which an offense specified in paragraph one is committed by threats or violence shall be sentenced to imprisonment for not less than three years but not more than ten years; a ringleader and any person who actually employs violence threats shall be sentenced to imprisonment for not less than five years.\r\nAn attempt to commit an offense specified in one of the three preceding paragraphs is punishable."
+		},
+		{
+			"number": 16101,
+			"content": "A person who, upon being ordered by a prosecutor or a judge to post bail, to be released into custody of another, to have his residence or domicile restricted, or to be restricted on exit from border or sea, fails to appear in court without a legitimate reason after being lawfully summoned and issued a circular order, shall be sentenced to imprisonment for not more than three years."
 		},
 		{
 			"number": 16200,
@@ -1191,6 +1203,18 @@
 		{
 			"number": 17200,
 			"content": "A person, having committed an offense specified in one of the articles, 168 through 171, who confesses thereto before judgment or disciplinary order has become final shall have his punishment reduced or remitted."
+		},
+		{
+			"number": 17201,
+			"content": "A person who tenders, promises to give, or gives unjust gains to a witness, appraiser, expert witness, or interpreter so that he or she agrees not to testify, make an appraisal, or provide interpretation, or so that he or she agrees to provides testimony, appraisal, or interpretation in a particular manner, shall be sentenced to imprisonment for not more than three years; in addition thereto, a fine of not more than three hundred thousand dollars may be imposed.\r\nAny witness, appraiser, expert witness, or interpreter who demands, takes or promises to take unlawful in connection with his or her testimony, appraisal, or interpretation, shall be subject to the same punishment."
+		},
+		{
+			"number": 17202,
+			"content": "A person who, with the intent to prevent a witness, expert witness, or interpreter from testifying, making an appraisal, or providing interpretation, or to compel them to provide testimony, appraisal, or interpretation in a particular manner, commits an offense against a witness, expert witness, or interpreter, or his or her spouse, lineal relative by blood, collateral relative by blood within the third degree of kinship, relative by marriage within the second degree of kinship, or head of the household, members of the house, person engaged with the witness, expert witness, or interpreter, or other persons with whom the witness, expert witness, or interpreter has a close relationship in status or life, shall be subject to the punishment prescribed for such an offense by increasing it up to one half."
+		},
+		{
+			"number": 17203,
+			"content": "A person who, with the intent to prevent or cause a judge or prosecutor to render a ruling, a disposition, a punishment, a termination of investigation, or to file an appeal, protest a judgment, or issue an order of execution in a particular manner, utilizes the influence of his or her official position, status, or rank to illegally lobby a judge, prosecutor or their supervisory officials during the investigation, trial or execution of a judicial case, shall be sentenced to imprisonment for not more than five years and may also be fined of not more than five hundred thousand dollars.\r\nIf the judge or prosecutor referred to in the preceding paragraph renders or fails to render a ruling, a disposition, a punishment, a termination of investigation, or to file an appeal, to protest a judgment, or to issue an order of execution in a particular manner as a result of such influence, shall be sentenced to imprisonment for not less than one year but not more than seven years; in addition thereto, a fine of not more than one million dollars may be imposed."
 		},
 		{
 			"number": 17300,

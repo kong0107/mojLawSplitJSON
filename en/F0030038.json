@@ -1,15 +1,16 @@
 {
 	"pcode": "F0030038",
 	"LawLevel": "法律",
-	"EngLawName": "Pay Act of the Armed Forces",
+	"EngLawName": "Pay Act of the Armed Force",
 	"name": "軍人待遇條例",
-	"EngLawModifiedDate": "20080116",
+	"EngLawModifiedDate": "20250627",
 	"attachments": {
 		"0000004409": "Attachment：The table of the pay of active military servicemen (stipulated from the paragraph 2 of Article 4 of this Act).PDF",
 		"0000000351": "Attachment：The table of the pay of active military servicemen (stipulated from the paragraph 2 of Article 4 of this Act).doc"
 	},
 	"histories": [
-		"Enacted and promulgated on January 16th, 2008."
+		"Enacted and promulgated on January 16th, 2008.",
+		"The amended Article 5 was promulgated by the Presidential Decree hua-zong-yi-yi-zi No. 11400063061 on June 27, 2025.Except for Article 5, Paragraph 1, Subparagraph 5, which shall come into effect on January 1, 2026, the implementation dates of the remaining articles shall be determined by the Executive Yuan.\r\n   The amended Article 6 was promulgated by the Presidential Decree hua-zong-yi-yi-zi No. 11400063071 on June 27, 2025 ,the implementation dates shall be determined by the Executive Yuan."
 	],
 	"articles": [
 		{
@@ -30,11 +31,11 @@
 		},
 		{
 			"number": 500,
-			"content": "Paragraph 1\r\nThe special pay is categorized as follows:\r\nSubparagraph 1\r\nSpecial pay for position: To Four-star General (or equivalent), General (or equivalent), and officers in charge or holding positions of unusual responsibility and critical nature.\r\nSubparagraph 2\r\nSpecial pay for profession: To a military serviceman with profession ranked than Lieutenant General (or equivalent) or lower.\r\nSubparagraph 3\r\nSpecial pay for region: To a military serviceman assigned to distant, especial or overseas areas.\r\nSubparagraph 4\r\nSpecial pay for duty: To a military serviceman assigned to hazardous or technical duties, or other duties with similar characteristics.\r\nParagraph 2\r\nCategorization of special pays in the preceding paragraph shall be stipulated by the Executive Yuan."
+			"content": "The special pay shall be classified into the following seven categories.\r\n(1) Special pay for position: this applies to Generals and officers in charge or holding positions of unusually heavy responsibilities.\r\n(2) Special pay for profession: this applies to professional military personnel at the rank of Lieutenant General or below.\r\n(3) Special pay for region: this applies to military personnel assigned to remote, special regions or overseas; such classification shall not be based on service category or rank.\r\n(4) Special pay for duty: this applies to military personnel assigned to hazardous or technica l duties, or to duties of a particular nature.\r\n(5) Special pay for volunteer military service: this applies to voluntary military personnel, who shall be entitled to a monthly allowance of NT$30,000.\r\n(6) Special pay for combat team: this applies to military personnel of combat teams or combat support teams.\r\n(7) Overtime pay: this applies to military personnel who did not take their entitled leave.\r\nSubparagraph 5 of the preceding paragraph shall take effect on January 1, 2026. The implementation of other categories of special pay shall be prescribed by the Executive Yuan.\r\nThe amount of special pay under Paragraph 1 shall be properly adjusted when the cumulative growth rate of the Consumer Price Index, as announced by The Central BAS Agency, reaches three percent."
 		},
 		{
 			"number": 600,
-			"content": "The monthly pay amount for active conscripted military servicemen shall be prescribed by the Ministry of National Defense and then submitted to the Executive Yuan for approval."
+			"content": "The monthly salary of active conscripted military personnel shall be determined by the Ministry of National Defense and submitted to the Executive Yuan for approval. The total amount of such salary shall not be less than the minimum wage prescribed by the Minimum Wage Act."
 		},
 		{
 			"number": 700,

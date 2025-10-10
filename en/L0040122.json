@@ -1,0 +1,309 @@
+{
+	"pcode": "L0040122",
+	"LawLevel": "命令",
+	"EngLawName": "Regulations on Good Hygiene Practice for Food",
+	"name": "食品良好衛生規範準則",
+	"EngLawModifiedDate": "20250604",
+	"attachments": {
+		"0000009323": "Revised provisions of Annex 1  Sanitation Requirements for Premises, Facilities, and Equipment.pdf",
+		"0000009324": "Revised provisions of Annex 2  Provisions on the Sanitation Management of Personnel, Utensils and Equipment, Chemicals, Waste, and Edible Oils Used in Frying.pdf",
+		"0000009325": "Revised provisions of Annex 3  Provisions on Manufacturing Process and Quality Control.pdf",
+		"0000009326": "Revised provisions of Annex 4  Provisions on the Management of Production and Processing for the Manufacture of Low-Acid and Acidified Foods in Hermetically Sealed Containers Processed by Heat Sterilization.pdf",
+		"0000009327": "Revised provisions of Annex 5  Provisions on the Management of Sterilization Equipment and Methods for the Manufacture of Low-Acid and Acidified Foods in Hermetically Sealed Containers Processed by Heat Sterilization.pdf",
+		"0000009328": "Revised provisions of Annex 6  Sealing Control Regulations for Manufacture of Low-Acid and Acidified Foods in Hermetically Sealed Containers Processed by Heat Sterilization.pdf"
+	},
+	"histories": [
+		"Promulgated on November 7, 2014",
+		"Amended and Promulgated on June 4, 2025."
+	],
+	"divisions": [
+		{
+			"type": "chapter",
+			"number": 100,
+			"title": "General Principles",
+			"start": 100,
+			"end": 1100
+		},
+		{
+			"type": "chapter",
+			"number": 200,
+			"title": "Food Manufacturing Industry",
+			"start": 1200,
+			"end": 2100
+		},
+		{
+			"type": "chapter",
+			"number": 300,
+			"title": "Food Logistics Industry",
+			"start": 2200,
+			"end": 2500
+		},
+		{
+			"type": "chapter",
+			"number": 400,
+			"title": "Food Retail Industry",
+			"start": 2600,
+			"end": 2900
+		},
+		{
+			"type": "chapter",
+			"number": 500,
+			"title": "Food and Beverage Industry",
+			"start": 3000,
+			"end": 3400
+		},
+		{
+			"type": "chapter",
+			"number": 600,
+			"title": "Food Additive Industry",
+			"start": 3500,
+			"end": 3900
+		},
+		{
+			"type": "chapter",
+			"number": 700,
+			"title": "Manufacture of Low-Acid and Acidified Foods in Hermetically Sealed Containers Processed by Heat Sterilization",
+			"start": 4000,
+			"end": 4400
+		},
+		{
+			"type": "chapter",
+			"number": 800,
+			"title": "Manufacture of Food Utensils, Containers, or Packages",
+			"start": 4500,
+			"end": 5000
+		},
+		{
+			"type": "chapter",
+			"number": 900,
+			"title": "Manufacture of Food Cleansers",
+			"start": 5100,
+			"end": 5300
+		},
+		{
+			"type": "chapter",
+			"number": 1000,
+			"title": "Supplementary Provisions",
+			"start": 5400,
+			"end": 5400
+		}
+	],
+	"articles": [
+		{
+			"number": 100,
+			"content": "These Regulations are enacted pursuant to Paragraph 4, Article 8 of the Act Governing Food Safety and Sanitation (hereinafter referred to as “the Act”)."
+		},
+		{
+			"number": 200,
+			"content": "These Regulations shall apply to food business operators as defined in Subparagraph 7, Article 3 of the Act.\r\nFor food businesses that have established food factories, the construction, facilities, and equipment of such factories shall comply not only with the provisions of these Regulations but also with the Establishment Standards of Construction and Equipment of a Food Factory."
+		},
+		{
+			"number": 300,
+			"content": "The terms used in these Regulations are defined as follows:\r\n1.Raw materials: Refers to food, food additives, food utensils, containers, packaging, or food cleansers, which constitute the ingredients and packaging materials of finished products.\r\n2.Ingredients: Refers to the constituent materials of finished products.\r\n3.Food workers: Refers to personnel whose duties involve direct contact with food or food additives, or who handle food or food additives using equipment and tools during processing, thereby affecting the hygiene and safety of the products.\r\n4.Operation site: Refers to the premises used for handling, manufacturing, processing, preparing, plating, packaging, and storing raw materials, semi-finished products, and finished products.\r\n5.Harmful microorganisms: Refers to microorganisms that cause food spoilage, quality deterioration, or pose a threat to public health.\r\n6.Contact surfaces:\r\n(1)Direct contact surface: Refers to the surface of utensils, containers, packaging, equipment, or facilities that come into direct contact with food or food additives.\r\n(2)Indirect contact surface: Equipment in processing or manufacturing operations where liquids or vapors that flow out come into direct contact with food or food additives.\r\n7.Separation: Refers to tangible or intangible isolation measures implemented in the operation sites based on factors such as location, time, or airflow direction.\r\n8.Food factory: Refers to food manufacturers subject to the Factory Management and Counseling Act.\r\n9.Vacuum-packaged ready-to-eat food: Refers to food that is vacuum-sealed in a hermetically sealed  container and can be consumed immediately after opening .\r\n10.Heat sterilization: Refers to a heating process used to kill pathogens, spoilage organisms, and other microorganisms.\r\n11.Hermetically sealed  container: Refers to a container that, once sealed, can prevent the intrusion of microorganisms.\r\n12.Commercial sterilization: Refers to a process using heat, chemical sterilants, or other methods to destroy viable microorganisms and their spores in vacuum-sealed packaged foods that are harmful to human health, ensuring that microorganisms harmless to human health cannot grow at room temperature.\r\n13.Low-acid foods in hermetically sealed containers processed by heat sterilization: Refers to foods with an equilibrium pH value greater than 4.6 and a water activity greater than 0.85, which undergo commercial sterilization before or after being packaged in hermetically sealed containers and are capable of being stored at room temperature.\r\n14.Acidified food: Refers to food to which acidulants or acidic ingredients are added, with a final pH value less than or equal to 4.6 and water activity greater than 0.85, which undergoes heat sterilization before or after being packaged in  hermetically sealed  container and can be stored at room temperature."
+		},
+		{
+			"number": 400,
+			"content": "The sanitation management of the premises, facilities, and equipment of food business operators shall comply with the provisions set forth in Annex 1."
+		},
+		{
+			"number": 500,
+			"content": "The sanitation management of personnel, equipment and utensils, chemicals, waste, and edible oils used for frying in food business operators shall comply with the provisions set forth in Annex 2."
+		},
+		{
+			"number": 600,
+			"content": "The process and quality control of food business operators shall comply with the provisions set forth in Annex 3."
+		},
+		{
+			"number": 700,
+			"content": "The storage control of food business operators shall comply with the following provisions:\r\n1.Warehouses for raw materials, semi-finished products, and finished products shall be separately established or appropriately separated according to the nature of operations or level of cleanliness, and sufficient space shall be provided for handling.\r\n2.Items shall be categorized, stored off the ground through effective measures, and maintained in a clean and well-ventilated condition.\r\n3.Storage operations shall be conducted based on the principle of first-expired, first-out (FEFO) or first-in, first-out (FIFO), with accurate recordkeeping.\r\n4.Storage operations shall avoid drastic temperature fluctuations. Where temperature or humidity control is necessary, reasonable control methods and standards shall be established, regularly inspected, and accurately recorded.\r\n5.During storage, the original storage conditions set for raw materials, semi-finished products, and finished products shall not be altered unless there is a reasonable cause and basis, and proper records are made.\r\n6.The properties and expiry date of stored items shall be regularly inspected. Where necessary,  analysis shall be conducted, and the results of inspections or analysis shall be accurately recorded. Any abnormalities shall be handled immediately with appropriate measures, and such handling shall be documented.\r\n7.Items or packaging materials that may contaminate raw materials, semi-finished products, or finished products shall be subject to measures preventing cross-contamination. Where such prevention is not feasible, they shall not be stored together with raw materials, semi-finished products, or finished products."
+		},
+		{
+			"number": 800,
+			"content": "The transportation control of food business operators shall comply with the following provisions:\r\n1.Vehicles and containers used for transportation shall be regularly cleaned, kept clean and sanitary, and free from frost or condensation.\r\n2.Products shall be stacked in a stable manner and arranged to allow proper air circulation.\r\n3.Receiving, loading, sorting, and unloading shall be completed as quickly as possible to avoid drastic temperature fluctuations in transportation compartments, containers, or products.\r\n4.During transportation, drastic temperature fluctuations shall be avoided. Where temperature or humidity control is necessary, reasonable control methods and standards shall be established, regularly inspected, and accurately recorded.\r\n5.Before loading raw materials, semi-finished products, or finished products with designated storage temperatures, the compartments or containers of transportation equipment shall be ensured to maintain effective insulation. Unless there is a reasonable cause and basis, and proper records are made, the originally designated conditions shall not be altered.\r\n6.For compartments of transportation equipment with freezing or refrigeration functions that are used to transport food raw materials, semi-finished products, or finished products with designated storage temperatures, the internal ambient temperature of the compartments shall be randomly checked and recorded during receiving, loading, sorting, or unloading each day.\r\n7.The ambient temperature referred to in the preceding paragraph shall not exceed -12°C in compartments used for transporting frozen foods. The ambient temperature in compartments used for transporting refrigerated foods shall not exceed 7℃.\r\n8.During transportation, food shall be covered, shielded, or otherwise properly managed.\r\n9.When transporting other items that may contaminate raw materials, semi-finished products, or finished products at the same time, measures to prevent cross-contamination shall be implemented. Where cross-contamination cannot be prevented, such items shall not be transported together."
+		},
+		{
+			"number": 900,
+			"content": "Food business operators shall keep records of the handling of complaints and the recall and disposal of products."
+		},
+		{
+			"number": 1000,
+			"content": "The analysis and measurement control of food business operators shall comply with the following provisions:\r\n1.For businesses with analysis facilities, there shall be sufficient space and analytical equipment for conducting quality control and sanitation-related analyses. Where necessary, analyses may be entrusted to credible professional analytical or research institutions.\r\n2.Facilities for microbiological analysis shall be physically separated from other analysis areas.\r\n3.Where simplified testing methods are used, regular comparison with the testing methods specified by the competent authority or prescribed by law shall be conducted, and records shall be kept.\r\n4.Effective control measures shall be established for potential biological, physical, and chemical sources of contamination arising from analysis activities.\r\n5.Analytical instruments, measuring devices, or recording instruments shall be regularly calibrated to maintain their accuracy, and records of such calibration shall be kept."
+		},
+		{
+			"number": 1100,
+			"content": "Records, reports, or other relevant documents and data prepared by food business operators in accordance with these Regulations shall be retained for at least five years."
+		},
+		{
+			"number": 1200,
+			"content": "The layout and space of operation sites in the food manufacturing industry shall comply with the following provisions:\r\n1.Workplaces with different operational functions shall be separately established or effectively separated, and measures shall be taken to prevent cross-contamination.\r\n2.Sufficient space shall be provided for the placement of operational equipment, food utensils, containers, packaging, installation of sanitation facilities, and storage of raw materials."
+		},
+		{
+			"number": 1300,
+			"content": "In the manufacturing process, the food manufacturing industry shall comply with the following provisions:\r\n1.Where necessary, temperature, humidity, pH value, water activity, pressure, flow rate, time, and other relevant factors shall be controlled; corresponding control methods and standards shall be established, and records shall be kept.\r\n2.The analytical status of raw materials, semi-finished products, and finished products shall be properly labeled, and appropriate measures shall be taken based on their status.\r\n3.Records shall be kept for process and quality control; in the event of any abnormalities, corrective and preventive measures shall be taken and documented."
+		},
+		{
+			"number": 1400,
+			"content": "When determining the expiry date of products, the food manufacturing industry shall base such determination on shelf-life testing or other reasonable documents and data, and the test results shall be recorded. Product samples shall be retained until the expiry date."
+		},
+		{
+			"number": 1500,
+			"content": "Each batch of finished products in the food manufacturing industry shall be verified to meet its quality assurance requirements. For non-compliant products, appropriate handling procedures shall be implemented and documented."
+		},
+		{
+			"number": 1600,
+			"content": "When products are sold by the food manufacturing industry to direct purchasers other than natural persons, relevant information or records that enable traceability shall be maintained."
+		},
+		{
+			"number": 1700,
+			"content": "The food manufacturing industry shall establish and implement a recall and handling plan for the recall of finished products."
+		},
+		{
+			"number": 1800,
+			"content": "Vacuum-packaged ready-to-eat foods manufactured by the food manufacturing industry may be stored and sold at room temperature if any of the following conditions are met:\r\n1.Water activity is below 0.85.\r\n2.Final pH value is above 9.0.\r\n3.Products that have undergone heat sterilization or commercial sterilization.\r\n4.Naturally acidic foods.\r\n5.Fermented foods with a final pH value less than 4.6 or a salt concentration greater than 10%.\r\n6.Carbonated beverages.\r\n7.Other conditions that inhibit the growth of Clostridium botulinum at room temperature.\r\nThe naturally acidic foods referred to in Subparagraph 4 of the preceding paragraph mean foods whose final pH value is less than 4.6 without pH adjustment.\r\nThe fermented foods referred to in Subparagraph 5 of Paragraph 1 mean foods that are manufactured, processed, or prepared through microbial metabolism."
+		},
+		{
+			"number": 1900,
+			"content": "For vacuum-packaged ready-to-eat foods manufactured by the food manufacturing industry that are stored under refrigeration, the shelf life shall not exceed ten days unless one of the following conditions is met:\r\n1.Addition of nitrites or nitrates.\r\n2.Water activity is below 0.94.\r\n3.Final pH value of the product less than 4.6.\r\n4.Smoked or fermented products with a salt concentration greater than 3.5%\r\n5.Other conditions that inhibit the growth of Clostridium botulinum."
+		},
+		{
+			"number": 2000,
+			"content": "For products under Subparagraphs 1 to 5, Paragraph 1 of Article 18, and Subparagraphs 2 to 4 of the preceding article, the food manufacturer shall retain proof of measurement reports for the respective conditions.\r\nFor products under Subparagraph 3, Paragraph 1 of Article 18, the food manufacturer shall comply with the provisions of Chapter 7."
+		},
+		{
+			"number": 2100,
+			"content": "Food factories shall establish standard operating procedures based on the matters specified in Articles 4 to 17, implement them accordingly, and keep records thereof."
+		},
+		{
+			"number": 2200,
+			"content": "Food logistics businesses shall establish standard operating procedures for logistics control, implement them accordingly, and keep records thereof.\r\nThe operating procedures in the preceding paragraph shall include storage and transportation control."
+		},
+		{
+			"number": 2300,
+			"content": "Food logistics businesses shall transport products in accordance with the temperature and other storage conditions specified by the manufacturer."
+		},
+		{
+			"number": 2400,
+			"content": "In the logistics operations of food and food additives, the integrity of containers and packaging shall be ensured to prevent compression or collision of the products."
+		},
+		{
+			"number": 2500,
+			"content": "Food delivery platform operators that provide food delivery services shall comply with the following hygiene management requirements:\r\n1.Delivery personnel shall receive training on hygiene and safety management, and records of such training shall be kept.\r\n2.Delivery personnel shall not smoke, chew betel nuts, chew gum, or engage in any behavior that may contaminate food when collecting or delivering food.\r\n3.Delivery containers shall have sealing and insulation functions.\r\n4.Equipment shall be inspected and kept clean before delivering food.\r\n5.During delivery, food shall be fully wrapped, and measures shall be in place to ensure that the food is not contaminated.\r\n6.During delivery, drastic temperature fluctuations shall be avoided, and measures shall be in place to control delivery time and temperature.\r\n7. A hygiene management personnel member shall be designated to oversee the hygiene of delivery personnel and delivery containers."
+		},
+		{
+			"number": 2600,
+			"content": "The food retail industry shall comply with the following provisions:\r\n1.Facilities and premises for selling or storing food or food additives shall be kept clean and equipped with effective devices to prevent the intrusion of vectors.\r\n2.Food and food additives shall be properly stored and neatly stacked separately.\r\n3.Food additives shall be sold and stored in designated areas that are clearly distinguishable from other raw materials, semi-finished products, or finished products. A designated person shall be responsible for their management, and the types of food additives, license numbers or product registration codes, quantities received and shipped, and inventory levels shall be recorded in a dedicated logbook, either in paper or electronic format.\r\n4.The temperature for hot-holding food shall be maintained above 60°C.\r\n5.A hygiene management personnel member shall be designated to be responsible for on-site food hygiene management.\r\n6.Sales and storage operations shall follow the principle of first-expired, first-out (FEFO) or first-in, first-out (FIFO).\r\n7.Where temperature or humidity control is required in sales and storage operations, control methods and standards shall be established, implemented accordingly, and recorded.\r\n8.During sales and storage operations, the expiry date, storage conditions, and storage status of products shall be regularly inspected; any abnormalities shall be handled immediately.\r\n9.Items or packaging materials that may contaminate raw materials, semi-finished products, or finished products shall be subject to measures preventing cross-contamination. Where such prevention is not feasible, they shall not be stored together with raw materials, semi-finished products, or finished products.\r\n10.The lighting in sales premises shall reach at least 200 Lux; the light sources used shall not alter the color of the food.\r\nConvenience stores, supermarkets, and hypermarkets operating under a chain brand with three or more stores, where the brand’s head office has a paid-in capital of NT$30 million or more, shall establish relevant standard operating procedures in accordance with Articles 4, 5, and 7 to 9, implement them accordingly, and keep records thereof."
+		},
+		{
+			"number": 2700,
+			"content": "The sale and storage of frozen or refrigerated foods shall not involve altering the storage temperature originally set by the manufacturer.\r\nFrozen foods shall be packaged or properly wrapped. If the packaging or wrapping becomes detached or damaged, the products shall not be sold.\r\nWhen food is stored or displayed in freezing (refrigeration) equipment, it shall not exceed the maximum loading line. If there is no maximum loading line, storage or display shall allow for proper airflow to maintain the preservation temperature."
+		},
+		{
+			"number": 2800,
+			"content": "Those engaged in the sale or storage of baked goods shall comply with the following provisions:\r\n1.For unpackaged products, clean containers or utensils shall be used for storage and display by category, and measures and equipment to prevent contamination shall be in place. Clean tongs and baskets (or trays) shall be provided for consumer use.\r\n2.Baked goods filled or decorated with cream, pudding, jelly, fruit, or other perishable or spoilage-prone fillings or related ingredients shall be stored in refrigerated storage equipment."
+		},
+		{
+			"number": 2900,
+			"content": "Those engaged in the sale of livestock, poultry, or aquatic food products shall comply with the following provisions:\r\n1.Display counters shall be made of materials that are water-resistant and corrosion-resistant, and shall comply with the Sanitation Standard for Food Utensils, Containers and Packages.\r\n2.Sales premises shall be equipped with appropriate washing and drainage facilities.\r\n3.The sale and handling of livestock, poultry, and aquatic food products shall involve categorized storage on pallets, shelves, or other isolation measures. Such products shall not be placed directly on the ground and shall be kept in well-ventilated and properly drained conditions.\r\n4.Work surfaces, cutting boards, and knives shall be kept smooth and clean. Separate knives and cutting boards shall be provided for raw or ready-to-eat fish, meat, and related products.\r\n5.Meat grinders, slicers, and other related equipment shall be kept clean and free from contamination.\r\n6.Fresh livestock, poultry, and aquatic food products shall be washed in sinks or appropriate containers, and the water used for washing shall meet the drinking water quality standards.\r\n7.Time control shall be implemented during the storage, display, or sale of livestock, poultry, and aquatic food products, and appropriate temperatures shall be maintained.\r\n8.Those engaged in the sale of frozen or refrigerated livestock, poultry, or aquatic food products shall be equipped with appropriate freezing or refrigeration storage equipment or facilities.\r\n9.Where livestock, poultry, or aquatic food products are stored, displayed, or sold using ice, the ice used shall comply with the Drinking Water Quality Standards."
+		},
+		{
+			"number": 3000,
+			"content": "Operation sites of the food and beverage industry shall comply with the following provisions:\r\n1.Washing areas shall be equipped with running water that meets the Drinking Water Quality Standards, as well as dishwashing facilities with washing, rinsing, and effective sterilization functions. The height of the faucet shall be above the overflow level of the sink to prevent backflow contamination. Where adequate running water meeting the Drinking Water Quality Standards is not available, disposable tableware shall be used and discarded after use.\r\n2.Grease traps shall be regularly cleaned and maintained.\r\n3.Oil fumes shall be properly treated to prevent oil contamination and air pollution in the operation sites and dining environment.\r\n4.Kitchens shall have measures in place to maintain appropriate air pressure and room temperature.\r\n5.Sales counters shall be effectively separated from areas for food preparation, processing, and handling."
+		},
+		{
+			"number": 3100,
+			"content": "The food and beverage industry shall conduct cleaning and disinfection or sterilization of facilities, equipment, utensils, and containers in the following manner:\r\n1.Cleaning: Washing shall be performed using water that meets the Drinking Water Quality Standards. Where cleansers are used, only food cleansers shall be permitted.\r\n2.Disinfection or sterilization:\r\n(1)Cutting boards, knives, spatulas, and tableware: Shall be treated using dry heat, steam, hot water, chlorine solution, or other effective methods.\r\n(2)Towels and cleaning cloths: Shall be treated using steam, boiling water, chlorine solution, or other effective methods."
+		},
+		{
+			"number": 3200,
+			"content": "The hygiene management of preparation and supply in the food and beverage industry shall comply with the following provisions:\r\n1.The equipment and utensils used during the preparation process shall be operated and maintained in a manner that prevents food contamination; where necessary, different types of equipment and utensils shall be distinguished by color according to their respective purposes.\r\n2.Disposable tableware shall be discarded immediately after use. In shared dining settings, utensils specifically designated for shared use, such as spoons, chopsticks, forks, knives, and other necessary tableware, shall be provided.\r\n3.Provided tableware shall be kept dry and clean; surfaces that come into contact with food shall be smooth, without deformation, damage, cracks, chips, or rust; and shall be free from residues of grease, starch, protein, and food cleansers. Pathogenic microorganism testing shall be conducted where necessary.\r\n4.Measures shall be taken during the preparation process to prevent cross-contamination.\r\n5.Prepared dishes shall be stored and served at appropriate temperatures. Food shall not be left at room temperature for more than two hours. Cooked and perishable dishes shall be refrigerated promptly. The hot-holding temperature for cooked food shall be maintained at above 60 degrees Celsius.\r\n6.Food and tableware shall be stored with dust-proofing, pest prevention, and necessary sanitary facilities.\r\n7.For ready-to-eat dishes not prepared on-site, measures shall be taken to prevent spoilage, deterioration, and to ensure hygiene and safety.\r\n8.Machines, utensils, and other equipment used in food preparation shall be kept clean.\r\n9.For the supply of raw and cold food, preparation, processing, and handling shall be conducted in a designated operation area.\r\n10.Aquaculture areas for fresh aquatic products shall be effectively separated from preparation areas.\r\n11.During food preparation hours, the movement of goods and personnel into and out of kitchens and operation areas shall be appropriately controlled.\r\n12.Dining areas shall be kept clean at all times."
+		},
+		{
+			"number": 3300,
+			"content": "Catering service providers, in addition to complying with Articles 30 through the preceding Article, shall also observe the following provisions:\r\n1.Cooking areas and food supplied shall not be directly exposed to sunlight, rain, or sources of contamination, and shall be equipped with shelter and freezing (refrigeration) equipment or facilities.\r\n2.During food preparation, the principles of freshness, cleanliness, promptness, heating, and refrigeration shall be followed, and cross-contamination shall be avoided.\r\n3.For catering services provided to more than 200 people, the local health department (center) where the catering event is to take place shall be notified for recordation three days prior to the event. The recordation shall include the commissioning party, the service provider, the event location, the number of participants, and the menu."
+		},
+		{
+			"number": 3400,
+			"content": "The percentage of culinary personnel in the food and beverage industry holding a Technician for Chinese Culinary certificate, Technician for Western Culinary certificate, or Technician for Food Preparation certificate, as well as their participation in hygiene training, shall comply with the provisions of the Regulations on Placement and Management of Food Businesses Employment of Professionals with Vocational or Technical Certification.\r\nThose who have obtained a Technician for Chinese Culinary, Technician for Western Culinary, or Technician for Food Preparation certificate in accordance with the aforementioned Regulations may apply for a chef certificate from any municipal or county (city) food and beverage industry association or guild, and may engage in chef-related work throughout all municipalities and counties (cities) nationwide. The validity period of the chef certificate shall be four years.\r\nThe issuance of chef certificates by the associations or guilds referred to in the preceding paragraph shall be subject to the supervision and guidance of the competent authorities of the municipality or county (city)."
+		},
+		{
+			"number": 3500,
+			"content": "The food additive industry shall comply with the following provisions regarding the procurement and storage management of food additives:\r\n1.A receiving procedure and traceability system shall be established for the procurement of food additives or raw materials, with records of the source of procurement, ingredient composition, quantity, and other relevant information.\r\n2.Raw materials, semi-finished products, and finished products shall be stored in separate locations. Where necessary, storage shall be conducted in freezing or refrigerated storage equipment.\r\n3.Food additives shall be stored in designated areas that are clearly distinguishable from other raw materials, semi-finished products, or finished products. A designated person shall be responsible for their management, and the types of food additives, license numbers or product registration codes, quantities received and shipped, amount used, and inventory levels shall be recorded in a dedicated logbook, either in paper or electronic format."
+		},
+		{
+			"number": 3600,
+			"content": "Food additive operators, when using solvents or powders during the manufacturing process, shall install relevant facilities or equipment to prevent the release of harmful substances or to avoid other hazards."
+		},
+		{
+			"number": 3700,
+			"content": "The equipment, utensils, containers, and packaging used in the manufacturing process by food additive operators shall comply with the following provisions:\r\n1.They shall be easy to clean, disinfect, and inspect.\r\n2.They shall prevent the contamination of food additives by lubricants, metal debris, wastewater, or other substances that may cause contamination.\r\n3.They shall comply with the Sanitation Standard for Food Utensils, Containers and Packages."
+		},
+		{
+			"number": 3800,
+			"content": "Food additive operators shall comply with the following provisions regarding their manufacturing process and quality control:\r\n1.Standard operating procedures for the manufacturing process and quality control shall be established and fully documented.\r\n2.Each batch of finished products shall be verified to meet its quality assurance requirements. For non-compliant products, appropriate handling procedures shall be implemented and documented.\r\n3.Finished products shall comply with the Standards for Specification, Scope, Application and Limitation of Food Additives and shall be fully packaged and labeled.\r\n4.When products are sold to direct purchasers other than natural persons, information or records that enable traceability shall be maintained."
+		},
+		{
+			"number": 3900,
+			"content": "For matters not stipulated in this Chapter regarding the food additive industry, the provisions of Chapters II to IV shall apply."
+		},
+		{
+			"number": 4000,
+			"content": "The manufacture and processing of low-acid and acidified foods in hermetically sealed containers processed by heat sterilization (hereinafter referred to as the low-acid and acidified foods manufacture) shall comply with the provisions of Annex 4."
+		},
+		{
+			"number": 4100,
+			"content": "The sterilization equipment used in the manufacture of low-acid foods shall be verified for effectiveness by a professional sterilization institution, which shall issue a verification report. For sterilization equipment and methods listed in Annex 5, such equipment and methods shall comply with the provisions set forth therein.\r\nThe professional sterilization institution referred to in the preceding paragraph shall possess expertise in sterilization equipment and methods and shall be recognized by the central competent authority.\r\nTemperature indicators on sterilization equipment shall be calibrated at least once before installation and once annually thereafter; pressure gauges shall be calibrated at least once annually."
+		},
+		{
+			"number": 4200,
+			"content": "The low-acid and acidified foods manufacture shall assign the following personnel:\r\n1.Sealing operation personnel.\r\n2.Sealing inspection personnel.\r\n3.Sterilization operation personnel.\r\n4.Sterilization technical management personnel.\r\nFor the same manufacturing batch, the personnel specified in Subparagraphs 1 and 2 of the preceding paragraph shall not serve concurrently; likewise, the personnel specified in Subparagraphs 3 and 4 shall not serve concurrently.\r\nThe personnel specified in Subparagraph 4 of Paragraph 1 shall undergo and pass training conducted by a professional sterilization institution and obtain a certificate.\r\nThe personnel specified in Subparagraphs 1 to 3 of Paragraph 1, when engaged in the manufacture of heat-sterilized low-acid canned products in hermetically sealed metal containers, shall undergo and pass training conducted by a professional sterilization institution and obtain a certificate; other personnel shall receive relevant professional training."
+		},
+		{
+			"number": 4300,
+			"content": "The sealing of containers in the low-acid and acidified foods manufacture shall comply with the provisions of Annex 6."
+		},
+		{
+			"number": 4400,
+			"content": "For matters not stipulated in this Chapter regarding the low-acid and acidified foods manufacture, the provisions of Chapter II shall apply."
+		},
+		{
+			"number": 4500,
+			"content": "Manufacturers of food utensils, containers, or packages shall select appropriate raw materials for production based on the conditions of end use and shall retain relevant hygiene and safety information."
+		},
+		{
+			"number": 4600,
+			"content": "Manufacturers of food utensils, containers, or packages shall implement measures in the mixing, processing, or packaging areas of the manufacturing site to prevent contamination by dust or oil fumes."
+		},
+		{
+			"number": 4700,
+			"content": "Manufacturers of food utensils, containers, or packages shall keep records of their manufacturing process and quality control. In the event of any abnormalities, corrective and preventive measures shall be taken and recorded."
+		},
+		{
+			"number": 4800,
+			"content": "Manufacturers of food utensils, containers, or packages shall verify that each batch of finished products meets their quality assurance requirements. For non-compliant products, appropriate handling procedures shall be implemented and documented."
+		},
+		{
+			"number": 4900,
+			"content": "Manufacturers of food utensils, containers, or packages shall retain the records established in accordance with these Regulations for at least five years. For products with an expiry date, such records shall be kept for three years beyond the expiry date of each batch, and in any case, not less than five years from the date the record is created."
+		},
+		{
+			"number": 5000,
+			"content": "For the provisions from Article 45 to the preceding Article, the implementation dates for the manufacture of food utensils, containers, or packages, excluding manufacturers of plastic products, are as follows:\r\n1.For non-plastic manufacturing factories with a capital amount of NT$30 million or more, the Regulations shall take effect three years after the revision and promulgation of these Regulations on June 4, 2025.\r\n2.For other non-plastic manufacturers not covered  by the preceding subparagraph, the Regulations shall take effect five years after the revision and promulgation of these Regulations on June 4, 2025."
+		},
+		{
+			"number": 5100,
+			"content": "The manufacture of food cleansers shall select appropriate raw materials based on the conditions of end use and shall retain relevant hygiene and safety information."
+		},
+		{
+			"number": 5200,
+			"content": "Manufacturers of food cleansers shall keep records of their manufacturing process and quality control. In the event of any abnormalities, corrective and preventive measures shall be taken and recorded."
+		},
+		{
+			"number": 5300,
+			"content": "Manufacturers of food cleansers shall verify that each batch of finished products meets their quality assurance requirements. For non-compliant products, appropriate handling procedures shall be implemented and documented."
+		},
+		{
+			"number": 5400,
+			"content": "These Regulations shall take effect from the date of promulgation, unless otherwise specified."
+		}
+	]
+}
