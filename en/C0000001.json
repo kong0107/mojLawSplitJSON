@@ -3,7 +3,7 @@
 	"LawLevel": "法律",
 	"EngLawName": "Criminal Code of the Republic of China",
 	"name": "中華民國刑法",
-	"EngLawModifiedDate": "20250528",
+	"EngLawModifiedDate": "20250801",
 	"histories": [
 		"387 clauses established and published on march 10, 1928 and promulgated on September 1, 1928.\r\n  357 clauses amended and published on January 1, 1935 and promulgated on July 1, 1935",
 		"Amendment to Article 5 promulgated on November 7, 1948",
@@ -59,7 +59,8 @@
 		"Amendment to Article 185-3 promulgated on December 27, 2023",
 		"Addition of Articles 141-1 and Chapter 5-1 promulgated on June 24,2024",
 		"Amendment to Articles 286 promulgated on July 31,2024",
-		"Amendment to Article 161; addition of Articles 161-1, 172-1, 172-2, 172-3 and title of Chapter 10-1 promulgated on May 28, 2025."
+		"Amendment to Article 161; addition of Articles 161-1, 172-1, 172-2, 172-3 and title of Chapter 10-1 promulgated on May 28, 2025.",
+		"Amendment of Articles 286; addition to Article 272-1 promulgated on August 1, 2025."
 	],
 	"divisions": [
 		{
@@ -1689,6 +1690,10 @@
 			"content": "A person who commits the offense set forth in the preceding paragraph against his lineal blood ascendant shall be subject to the punishment prescribed for such an offense by increasing it up to one half."
 		},
 		{
+			"number": 27201,
+			"content": "A person who commits the offense specified in article 271 under the age of seven, shall be subject to the punishment prescribed for such an offense by increasing it by half.\r\nA person who maltreats a minor under the age of seven commits an offense specified in article 271-1 shall be sentenced to death or life imprisonment.\r\nAn attempt to commit an offense specified in the preceding paragraph is punishable.\r\nA person who prepares to commit an offense specified in paragraph two shall be sentenced to imprisonment for not more than five years."
+		},
+		{
 			"number": 27300,
 			"content": "Any person who kills others on the scene by righteous indignation shall be sentenced to imprisonment for not more than seven years.\r\nAn attempt to commit an offense specified in the preceding paragraph is punishable."
 		},
@@ -1742,7 +1747,7 @@
 		},
 		{
 			"number": 28600,
-			"content": "A person who maltreats a minor under the age of eighteen or impairs the mental or physical health or development thereof by other means shall be sentenced to imprisonment of not less than six months but not more than five years.\r\nA person who intends to make a profit by committing an offense specified in the preceding paragraph shall be sentenced to imprisonment of not less than five years; in addition thereto, a fine of not more than three million NT dollars may be imposed.\r\nA person who commits the offense specified in paragraph 1 that results in the death of another shall be sentenced to life imprisonment or imprisonment of not less than ten years; in case of resulting in serious physical injury, such person shall be sentenced to imprisonment of not less than five years but not more than twelve years.\r\nA person who commits the offense specified in paragraph 2 that results in the death of another shall be sentenced to life imprisonment or imprisonment of not less than twelve years; in case of resulting in serious physical injury, such person shall be sentenced to imprisonment of not less than ten years.\r\nA person who commits an offense specified in the preceding four paragraphs against a person under the age of seven, shall be subject to punishment prescribed for such offense by increasing it up to one half."
+			"content": "A person who maltreats a minor under the age of eighteen or impairs the mental or physical health or development thereof by other means shall be sentenced to imprisonment for not less than six months but not more than five years.\r\nA person who intends to make a profit by committing an offense specified in the preceding paragraph shall be sentenced to imprisonment for not less than five years; in addition thereto a fine of not more than three million dollars may be imposed.\r\nA person who commits an offense specified in the preceding two paragraphs against a person under the age of seven, shall be subject to punishment prescribed for such offense by increasing it by half.\r\nA person who commits the offense specified in paragraph one that results in the death of another from more than the age of seven but under the age of eighteen shall be sentenced to life imprisonment or with imprisonment for not less than ten years; in case of resulting in serious physical injury, such person shall be sentenced to imprisonment for not less than five years but not more than twelve years.\r\nA person who commits the offense specified in paragraph two that results in the death of another from more than the age of seven but under the age of eighteen shall be sentenced to life imprisonment or with imprisonment for not less than twelve years; in case of resulting in serious physical injury, such person shall be sentenced to imprisonment for not less than ten years.\r\nA person who commits the offense specified in paragraph one that results in the death of another under the age of seven, shall be sentenced to death, life imprisonment, or imprisonment for not less than ten years; in case of resulting in serious physical injury, such person shall be sentenced to imprisonment for not less than ten years.\r\nA person who commits the offense specified in paragraph two that results in the death of another under the age of seven, shall be sentenced to death, life imprisonment, or imprisonment for not less than twelve years; in case of resulting in serious physical injury, such person shall be sentenced to life imprisonment or imprisonment for not less than twelve years."
 		},
 		{
 			"number": 28700,
