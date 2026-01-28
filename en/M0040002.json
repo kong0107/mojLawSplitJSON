@@ -3,10 +3,10 @@
   "EngLawName": "The Enforcement Rules for the Forestry Act",
   "LawName": "森林法施行細則",
   "EngLawURL": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=M0040002",
-  "EngLawModifiedDate": "20060301",
+  "EngLawModifiedDate": "20251001",
   "EngLawAbandonNote": "",
   "EngLawAttachements": [],
-  "EngLawHistories": "1.The Enforcement Rules for the Forestry Act (hereinafter referred to as the Enforcement Rules) were first proposed and duly passed for implementation by the government of the Republic of China, effective January 31, 1935.\r\n2.On February 28, 1948, the Enforcement Rules were amended and promulgated by the Ministry of Agriculture and Forestry.\r\n3.On January 10, 1956, the Enforcement Rules were amended and promulgated by the Ministry of Economic Affairs.\r\n4.On February 13, 1969, Articles 6, 60 and 66 were amended and promulgated by the Ministry of Economic Affairs per Jing-Tai (58) Mi-Gui-Zi Order No. 05526.\r\n5.On June 30, 1987, the Enforcement Rules were amended to a total of 27 articles by the Council of Agriculture, Executive Yuan per (76) Nong-Lin-Zi Order No. 61197.\r\n6.On August 31, 1998, Article 25 was deleted by the Council of Agriculture, Executive Yuan per (87) Nong-Lin-Zi Order No. 87137941.\r\n7.On January 19, 2000, Articles 3, 5, 11, 13, and 19 were amended and promulgated by the Council of Agriculture, Executive Yuan per (89) Nong-Lin-Zi Order No. 88163608.\r\n8.On 1 March 2006, the Enforcement Rules of all twenty-one articles were amended and promulgated by the Council of Agriculture, Executive Yuan per (95) Nong-Lin-Wu-Zi Order No. 0950107297.",
+  "EngLawHistories": "1.The Enforcement Rules for the Forestry Act (hereinafter referred to as the Enforcement Rules) were first proposed and duly passed for implementation by the government of the Republic of China, effective January 31, 1935.\r\n2.On February 28, 1948, the Enforcement Rules were amended and promulgated by the Ministry of Agriculture and Forestry.\r\n3.On January 10, 1956, the Enforcement Rules were amended and promulgated by the Ministry of Economic Affairs.\r\n4.On February 13, 1969, Articles 6, 60 and 66 were amended and promulgated by the Ministry of Economic Affairs per Jing-Tai (58) Mi-Gui-Zi Order No. 05526.\r\n5.On June 30, 1987, the Enforcement Rules were amended to a total of 27 articles by the Council of Agriculture, Executive Yuan per (76) Nong-Lin-Zi Order No. 61197.\r\n6.On August 31, 1998, Article 25 was deleted by the Council of Agriculture, Executive Yuan per (87) Nong-Lin-Zi Order No. 87137941.\r\n7.On January 19, 2000, Articles 3, 5, 11, 13, and 19 were amended and promulgated by the Council of Agriculture, Executive Yuan per (89) Nong-Lin-Zi Order No. 88163608.\r\n8.On 1 March 2006, the Enforcement Rules of all twenty-one articles were amended and promulgated by the Council of Agriculture, Executive Yuan per (95) Nong-Lin-Wu-Zi Order No. 0950107297.\r\n9.Amendment to Articles 5-1, promulgated on October 1, 2025.",
   "EngLawForeword": "",
   "EngLawArticles": [
     {
@@ -22,17 +22,22 @@
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 3",
-      "EngArticleContent": "Forestland as used in Paragraph 1, Article 3 of this Act is defined as follows: \r\n1. A land designated for forestry purpose under Article 3 of the Non-Urban Land Use and Control Rules and land subject to forestland control under Article 7 of the same Rules; \r\n2. A land in a non-urban land area not subject to zoning, and land in an urban planning preservation, scenery and agricultural areas determined as forestland by the competent authorities of a province-level municipality or county/city government;\r\n3. A land designated as conservation land under this Act;\r\n4. A land used for forest recreation area in accordance with Article 17 of this Act; and\r\n5. A land deemed located in a national park area under the National Park Law and determined as forestland by the competent authorities in consultation with the competent authority of the national park."
+      "EngArticleContent": "Forestland as used in Paragraph 1, Article 3 of this Act is defined as follows:\r\n1. A land designated for forestry purpose under Article 3 of the Non-Urban Land Use and Control Rules and land subject to forestland control under Article 7 of the same Rules;\r\n2. A land in a non-urban land area not subject to zoning, and land in an urban planning preservation, scenery and agricultural areas determined as forestland by the competent authorities of a province-level municipality or county/city government;\r\n3. A land designated as conservation land under this Act;\r\n4. A land used for forest recreation area in accordance with Article 17 of this Act; and\r\n5. A land deemed located in a national park area under the National Park Law and determined as forestland by the competent authorities in consultation with the competent authority of the national park."
     },
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 4",
-      "EngArticleContent": "State forest(s), public forest(s), and private forest(s) as used in Paragraph 1, Article 3 of this Act are defined as follows:\r\n1. A state forest means a forest belonging to the state in the territory of the country, but not owned by any person.\r\n2. A public forest means a forest registered by law to the ownership of a province-level municipality, county/city, township/city or public juristic person. \r\n3. A private forest means a forest registered by law to the ownership of a natural person or private juristic person."
+      "EngArticleContent": "State forest(s), public forest(s), and private forest(s) as used in Paragraph 1, Article 3 of this Act are defined as follows:\r\n1. A state forest means a forest belonging to the state in the territory of the country, but not owned by any person.\r\n2. A public forest means a forest registered by law to the ownership of a province- level municipality, county/city, township/city or public juristic person.\r\n3. A private forest means a forest registered by law to the ownership of a natural person or private juristic person."
     },
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 5",
       "EngArticleContent": "The term undeveloped mountains and lands, as used in Paragraph 1, Article 6 of this Act, shall include mountains, hills, coasts, beaches and fields owned by the state, government or natural person that are left idle and are unsuitable for producing agricultural crops."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 5-1",
+      "EngArticleContent": "Land designated as forestry land shall, in accordance with the provisions of Paragraph 2, Article 6 of this Act, be primarily used for forestry purposes.\r\nWith regard to the land mentioned in the preceding paragraph that is located within national forest working circles, protection forests, experimental forests, or trial forestry land and is leased for afforestation, if the following conditions are met, the planting of fruit trees or tea on such land shall be regarded as forestry use:\r\n1. The use falls within the scope of an approved corrective afforestation project plan that has been officially recorded and managed, and the land is not located in areas specified in Article 21 of this Act.\r\n2. The slope does not reach 55%.\r\n3. Mixed-species afforestation has been completed in accordance with the methods specified in the project plan mentioned in item 1, and environmentally friendly production methods have been implemented, with the above having been verified as true by the administrative authority."
     },
     {
       "EngArticleType": "A",
@@ -52,7 +57,7 @@
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 9",
-      "EngArticleContent": "An applicant for construction in a forest in accordance with Paragraph 1, Article 9 of this Act shall file an application stating the following facts, enclosed with relevant proof documents, to the competent authorities for further action by relevant organizations:\r\n1. Name of the applicant;\r\n2. Location map, area and detailed use of the forestland for construction or excavation; \r\n3. Location and map and description of the construction or excavation site; and\r\n4. For public or private forest, the consent of land use by owner of the public or private forest shall be submitted."
+      "EngArticleContent": "An applicant for construction in a forest in accordance with Paragraph 1, Article 9 of this Act shall file an application stating the following facts, enclosed with relevant proof documents, to the competent authorities for further action by relevant organizations:\r\n1. Name of the applicant;\r\n2. Location map, area and detailed use of the forestland for construction or excavation;\r\n3. Location and map and description of the construction or excavation site; and\r\n4. For public or private forest, the consent of land use by owner of the public or private forest shall be submitted."
     },
     {
       "EngArticleType": "A",
@@ -62,12 +67,12 @@
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 11",
-      "EngArticleContent": "When a state forest is partitioned, the central government agency shall survey the field, joined by relevant province-level municipal or county/city government, and make a general assessment of the following factors while taking into consideration the local conditions in determining the partition: \r\n1. Administrative territory;\r\n2. Ecological communities;\r\n3. Watersheds; and\r\n4. Business area or compartment boundary."
+      "EngArticleContent": "When a state forest is partitioned, the central government agency shall survey the field, joined by relevant province-level municipal or county/city government, and make a general assessment of the following factors while taking into consideration the local conditions in determining the partition:\r\n1. Administrative territory;\r\n2. Ecological communities;\r\n3. Watersheds; and\r\n4. Business area or compartment boundary."
     },
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 12",
-      "EngArticleContent": "To convert sections of national forest to business areas, the administrative government agency of the forest area shall periodically review and study the forest area, forest status, land status, traffic conditions and natural resources and draf a business plan to be reported to the central government agency for approval and implementation. \r\nThe proceeding paragraph shall apply mutatis mutandis to experimental forests for academic research."
+      "EngArticleContent": "To convert sections of national forest to business areas, the administrative government agency of the forest area shall periodically review and study the forest area, forest status, land status, traffic conditions and natural resources and draf a business plan to be reported to the central government agency for approval and implementation.\r\nThe proceeding paragraph shall apply mutatis mutandis to experimental forests for academic research."
     },
     {
       "EngArticleType": "A",
@@ -77,7 +82,7 @@
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 14",
-      "EngArticleContent": "If a forest owner needs to use another's land for transporting forest equipment or assets in accordance with Article 20 of this Act, the owner shall detail the grounds and file the following information with the government agency for mediation in conjunction with relevant local authorities:\r\n1. Application plan;\r\n2. Location map of land;\r\n3. Area required;\r\n4. Usage period;\r\n5. Name and address of the landowner or the party of other rights;\r\n6. Current status of the land and whether there are fixed objects; and \r\n7. Development of negotiations."
+      "EngArticleContent": "If a forest owner needs to use another’s land for transporting forest equipment or assets in accordance with Article 20 of this Act, the owner shall detail the grounds and file the following information with the government agency for mediation in conjunction with relevant local authorities:\r\n1. Application plan;\r\n2. Location map of land;\r\n3. Area required;\r\n4. Usage period;\r\n5. Name and address of the landowner or the party of other rights;\r\n6. Current status of the land and whether there are fixed objects; and\r\n7. Development of negotiations."
     },
     {
       "EngArticleType": "A",
