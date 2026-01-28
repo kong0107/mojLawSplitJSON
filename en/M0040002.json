@@ -3,7 +3,7 @@
 	"LawLevel": "命令",
 	"EngLawName": "The Enforcement Rules for the Forestry Act",
 	"name": "森林法施行細則",
-	"EngLawModifiedDate": "20060301",
+	"EngLawModifiedDate": "20251001",
 	"histories": [
 		"The Enforcement Rules for the Forestry Act (hereinafter referred to as the Enforcement Rules) were first proposed and duly passed for implementation by the government of the Republic of China, effective January 31, 1935.",
 		"On February 28, 1948, the Enforcement Rules were amended and promulgated by the Ministry of Agriculture and Forestry.",
@@ -12,7 +12,8 @@
 		"On June 30, 1987, the Enforcement Rules were amended to a total of 27 articles by the Council of Agriculture, Executive Yuan per (76) Nong-Lin-Zi Order No. 61197.",
 		"On August 31, 1998, Article 25 was deleted by the Council of Agriculture, Executive Yuan per (87) Nong-Lin-Zi Order No. 87137941.",
 		"On January 19, 2000, Articles 3, 5, 11, 13, and 19 were amended and promulgated by the Council of Agriculture, Executive Yuan per (89) Nong-Lin-Zi Order No. 88163608.",
-		"On 1 March 2006, the Enforcement Rules of all twenty-one articles were amended and promulgated by the Council of Agriculture, Executive Yuan per (95) Nong-Lin-Wu-Zi Order No. 0950107297."
+		"On 1 March 2006, the Enforcement Rules of all twenty-one articles were amended and promulgated by the Council of Agriculture, Executive Yuan per (95) Nong-Lin-Wu-Zi Order No. 0950107297.",
+		"Amendment to Articles 5-1, promulgated on October 1, 2025."
 	],
 	"articles": [
 		{
@@ -29,11 +30,15 @@
 		},
 		{
 			"number": 400,
-			"content": "State forest(s), public forest(s), and private forest(s) as used in Paragraph 1, Article 3 of this Act are defined as follows:\r\n1. A state forest means a forest belonging to the state in the territory of the country, but not owned by any person.\r\n2. A public forest means a forest registered by law to the ownership of a province-level municipality, county/city, township/city or public juristic person.\r\n3. A private forest means a forest registered by law to the ownership of a natural person or private juristic person."
+			"content": "State forest(s), public forest(s), and private forest(s) as used in Paragraph 1, Article 3 of this Act are defined as follows:\r\n1. A state forest means a forest belonging to the state in the territory of the country, but not owned by any person.\r\n2. A public forest means a forest registered by law to the ownership of a province- level municipality, county/city, township/city or public juristic person.\r\n3. A private forest means a forest registered by law to the ownership of a natural person or private juristic person."
 		},
 		{
 			"number": 500,
 			"content": "The term undeveloped mountains and lands, as used in Paragraph 1, Article 6 of this Act, shall include mountains, hills, coasts, beaches and fields owned by the state, government or natural person that are left idle and are unsuitable for producing agricultural crops."
+		},
+		{
+			"number": 501,
+			"content": "Land designated as forestry land shall, in accordance with the provisions of Paragraph 2, Article 6 of this Act, be primarily used for forestry purposes.\r\nWith regard to the land mentioned in the preceding paragraph that is located within national forest working circles, protection forests, experimental forests, or trial forestry land and is leased for afforestation, if the following conditions are met, the planting of fruit trees or tea on such land shall be regarded as forestry use:\r\n1. The use falls within the scope of an approved corrective afforestation project plan that has been officially recorded and managed, and the land is not located in areas specified in Article 21 of this Act.\r\n2. The slope does not reach 55%.\r\n3. Mixed-species afforestation has been completed in accordance with the methods specified in the project plan mentioned in item 1, and environmentally friendly production methods have been implemented, with the above having been verified as true by the administrative authority."
 		},
 		{
 			"number": 600,
@@ -69,7 +74,7 @@
 		},
 		{
 			"number": 1400,
-			"content": "If a forest owner needs to use another's land for transporting forest equipment or assets in accordance with Article 20 of this Act, the owner shall detail the grounds and file the following information with the government agency for mediation in conjunction with relevant local authorities:\r\n1. Application plan;\r\n2. Location map of land;\r\n3. Area required;\r\n4. Usage period;\r\n5. Name and address of the landowner or the party of other rights;\r\n6. Current status of the land and whether there are fixed objects; and\r\n7. Development of negotiations."
+			"content": "If a forest owner needs to use another’s land for transporting forest equipment or assets in accordance with Article 20 of this Act, the owner shall detail the grounds and file the following information with the government agency for mediation in conjunction with relevant local authorities:\r\n1. Application plan;\r\n2. Location map of land;\r\n3. Area required;\r\n4. Usage period;\r\n5. Name and address of the landowner or the party of other rights;\r\n6. Current status of the land and whether there are fixed objects; and\r\n7. Development of negotiations."
 		},
 		{
 			"number": 1500,
