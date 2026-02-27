@@ -1,9 +1,9 @@
 {
 	"pcode": "N0030006",
 	"LawLevel": "命令",
-	"EngLawName": "Regulations of Leaves for Workers",
+	"EngLawName": "Regulations of Leave-Taking by Workers",
 	"name": "勞工請假規則",
-	"EngLawModifiedDate": "20230501",
+	"EngLawModifiedDate": "20251209",
 	"histories": [
 		"Approved by the Executive Yuan on March 18, 1985 by the Memorandum of Tai-74-Nei-Tze-No. 4722.\r\n  Promulgated by the Ministry of Interior on March 20, 1985 by the Order of Tai-74-Nei-Lao-Tze-No. 296501.\r\n  Promulgated by the Executive Yuan on May 20, 1986 by the Memorandum of Tai-85-lao-Tze-no. 15198.",
 		"Amended article 4, 7 and promulgated by the Council of Labor Affairs of the Executive Yuan on July 1, 1986 by the Order of Lao-Tung-2-Tze-No. 122396.",
@@ -11,7 +11,8 @@
 		"Amended on May 04, 2010",
 		"Amended on October 14, 2011",
 		"Amended on January 15, 2019",
-		"Amended on May 1, 2023"
+		"Amended on May 1, 2023",
+		"Amended and promulgated Article 7,9,9-1 and 12 of the Rules by the Order of Ministry of Labor No.1140149214 on December 9,2025, and shall be effective January 1, 2026."
 	],
 	"articles": [
 		{
@@ -20,27 +21,27 @@
 		},
 		{
 			"number": 200,
-			"content": "On wedding day, a worker shall be entitled to eight days of wedding leave with pay."
+			"content": "On the wedding day, a worker shall be entitled to eight days of wedding leave with pay."
 		},
 		{
 			"number": 300,
-			"content": "Funeral leave of a worker shall be given according to the following stipulations:\r\n1. On the death of parent, foster-parent, step-parent, spouse, a worker shall be entitled to eight days of funeral leave with pay;\r\n2. On the death of grand-parent, son or daughter, parent of spouse, foster-parent or step-parent of spouse, a worker shall be entitled to six days of funeral leave with pay;\r\n3. On the death of great-grandparent, brother or sister, grand-parent of spouse, a worker shall be entitled to three days of funeral leave with pay."
+			"content": "Funeral leave of a worker shall be given according to the following stipulations:\r\n1. On the death of a parent, foster-parent, step-parent, spouse, a worker shall be entitled to eight days of funeral leave with pay;\r\n2. On the death of a grand-parent, son or daughter, parent of spouse, foster-parent or step-parent of spouse, a worker shall be entitled to six days of funeral leave with pay;\r\n3. On the death of a great-grandparent, brother or sister, grand-parent of spouse, a worker shall be entitled to three days of funeral leave with pay."
 		},
 		{
 			"number": 400,
-			"content": "When a worker must receive medical treatment or rest on account of ordinary injury, sickness, or physical reasons, he shall be entitled to ordinary sickness leave according to the following provisions:\r\n1. For the non-hospitalized, a total of less than thirty days in one year;\r\n2. For the hospitalized, not exceeding one year within two years;\r\n3. The total of hospitalized and non-hospitalized sick leave shall not exceed one year within two years;\r\nwhen a worker diagnosed with cancer（including carcinoma in situ）or pregnancy with threatened abortion by physician, the out-patient treatment period shall be included in the hospitalized sick leave.\r\nWhere the accounted ordinary sick leave does not exceed thirty days in one year, fifty percent of salary shall be paid. In cases where Labor Insurance payments do not reach fifty percent of salary, the employer shall make up the difference."
+			"content": "When a worker must receive medical treatment or rest on account of ordinary injury, sickness, or physical reasons, he shall be entitled to ordinary sickness leave according to the following provisions:\r\n1. For the non-hospitalized, a total of less than thirty days in one year;\r\n2. For the hospitalized, not exceeding one year within two years;\r\n3. The total of hospitalized and non-hospitalized sick leave shall not exceed one year within two years;\r\nwhen a worker diagnosed with cancer（including carcinoma in situ）or pregnancy with threatened abortion by physician, the out-patient treatment period shall be included in the hospitalized sick leave.\r\nWhere the accounted for ordinary sick leave does not exceed thirty days in one year, fifty percent of salary shall be paid. In cases where Labor Insurance payments do not reach fifty percent of salary, the employer shall make up the difference."
 		},
 		{
 			"number": 500,
-			"content": "In the event of the ordinary sick leave exceeding the time limit mentioned in Paragraph 1 of the proceeding Article, and the worker has not recovered after obtaining normal leave or special leave, he shall be entitled to work suspension without pay for a maximum period of one year."
+			"content": "In the event of the ordinary sick leave exceeding the time limit mentioned in Paragraph 1 of the preceding Article, and the worker has not recovered after obtaining normal leave or special leave, he shall be entitled to work suspension without pay for a maximum period of one year."
 		},
 		{
 			"number": 600,
-			"content": "In the event of disability, injury, or sickness on account of occupational accident, a worker shall be entitled to occupational sickness leave during the period of medical treatment or recuperation."
+			"content": "In the event of disability, injury, or sickness on account of an occupational accident, a worker shall be entitled to occupational sickness leave during the period of medical treatment or recuperation."
 		},
 		{
 			"number": 700,
-			"content": "In the event of matters which a worker must personally deal with, he shall be entitled to normal leave without pay not exceeding fourteen days in one year."
+			"content": "In the event of matters which a worker must personally deal with, the worker shall be entitled to normal leave without pay not exceeding fourteen days in one year.\r\nFor the purpose of taking personal care of family members, a worker may, unless otherwise provided in the Act or other laws, apply for personal leave in accordance with the preceding paragraph, and may elect to take leave in units of hours."
 		},
 		{
 			"number": 800,
@@ -48,11 +49,15 @@
 		},
 		{
 			"number": 900,
-			"content": "An employer shall not deduct full-attendance bonus payment from the worker who has either taken wedding, funeral, occupational sick leave, or public leave. This shall also apply in the case of a miscarriage after being pregnant for less than three months, when the worker takes ordinary sickness leave without taking maternity leave."
+			"content": "In any of the following circumstances, employers may not treat it as a non-attendance and affect adversely the employees' full-attendance bonus payments. Where other laws provide otherwise, such provisions shall govern:\r\n1. The worker takes marriage leave, bereavement leave, occupational injury or illness leave, or official leave.\r\n2. The worker suffers a miscarriage before three months of pregnancy and, without taking maternity leave, takes ordinary sick leave.\r\n3. The worker, for the purpose of taking personal care of family members, takes personal leave in accordance with Article 7.\r\nWhere a worker takes ordinary sick leave other than that under Subparagraph 2 of the preceding paragraph, any deduction from the worker’s perfect attendance bonus shall be calculated on a pro rata basis according to the number of days of ordinary sick leave taken. Provided that where the employer and the worker have agreed otherwise on terms more favorable than the laws and regulations, such agreement shall govern."
+		},
+		{
+			"number": 901,
+			"content": "Where the number of days of ordinary sick leave taken by a worker within one year does not exceed ten days, the employer shall not take adverse action against the worker on the ground that the worker has taken ordinary sick leave, unless otherwise provided in these Regulations or other laws, in which case such provisions shall govern.\r\nWhere a worker suffers adverse action due to taking ordinary sick leave, the employer shall bear the burden of proof as to the facts demonstrating that such adverse action is unrelated to the worker’s taking of ordinary sick leave.\r\nWhere a worker takes ordinary sick leave exceeding the number of days specified in Paragraph 1, the employer, when conducting relevant personnel assessments, shall still make an overall assessment based on the worker’s work capability, work attitude, and actual performance, and shall not consider solely the number of days of ordinary sick leave taken as an assessment factor."
 		},
 		{
 			"number": 1000,
-			"content": "When a worker demands a leave, he shall make prior oral or written statements giving the reasons and time for such a leave; but, in case of emergency, he may entrust some one to make the leave request for him. The employer may demand the worker to submit relevant documentary evidence."
+			"content": "When a worker demands leave, he shall make prior oral or written statements giving the reasons and time for such leave; but, in case of emergency, he may entrust another person to make the leave request for him. The employer may demand the worker to submit relevant documentary evidence."
 		},
 		{
 			"number": 1100,
@@ -60,7 +65,7 @@
 		},
 		{
 			"number": 1200,
-			"content": "The Rules shall become effective on the day of promulgation."
+			"content": "The Regulations shall become effective on the day of promulgation.\r\nThe provisions of these Regulations amended and promulgated on December 9, 2025 shall be effective on January 1, 2026."
 		}
 	]
 }
