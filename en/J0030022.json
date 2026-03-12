@@ -3,7 +3,7 @@
 	"LawLevel": "法律",
 	"EngLawName": "Professional Engineers Act",
 	"name": "技師法",
-	"EngLawModifiedDate": "20110622",
+	"EngLawModifiedDate": "20260105",
 	"histories": [
 		"Full text of 34 articles was formulated and promulgated on October 27, 1947",
 		"Article 32 was amended and promulgated by Presidential Order on December 17, 1954",
@@ -14,7 +14,8 @@
 		"Articles 3, 7, 10, 38, 40, 41 and 48-1 were amended and promulgated by Presidential Order Hua-Tsung (1)-Yi-Tzu No. 09100128680 on June 26, 2002",
 		"Article 41, 42-1 and 45-1 were amended and promulgated by Presidential Order Hua-Tsung (1)-Yi-Tzu No. 09600085761 on July 4, 2007",
 		"Article 10 and 50 were amended and promulgated by Presidential Order Hua-Tsung (1)-Yi-Tzu No. 09900005571 on January 13, 2010; effective as of November 23, 2009",
-		"Full text of 59 articles was amended and promulgated by Presidential Order Hua-Tsung (1)-Yi-Tzu No. 10000126081 on June 22, 2011. This Act shall come into force upon the date of promulgation."
+		"Full text of 59 articles was amended and promulgated by Presidential Order Hua-Tsung (1)-Yi-Tzu No. 10000126081 on June 22, 2011. This Act shall come into force upon the date of promulgation.",
+		"Articles 11 and 42 were amended and promulgated by Presidential Order Hua-Tsung (1)-Yi-Tzu No. 11400135111 on January 5, 2026"
 	],
 	"divisions": [
 		{
@@ -22,13 +23,13 @@
 			"number": 100,
 			"title": "General Provisions",
 			"start": 100,
-			"end": 800
+			"end": 600
 		},
 		{
 			"type": "chapter",
 			"number": 200,
 			"title": "Practice",
-			"start": 900,
+			"start": 700,
 			"end": 1200
 		},
 		{
@@ -110,7 +111,7 @@
 		},
 		{
 			"number": 1100,
-			"content": "One shall not be qualified for a professional engineer license, and the issued license of a professional engineer shall be revoked or abolished under any of the following circumstances:\r\n1. Having the professional engineer certificate revoked or abolished pursuant to Article 6.\r\n2. Being under the order of the commencement of guardianship or assistantship and having not yet been revoked.\r\n3. Having been declared bankrupt and having not yet resumed legal rights.\r\n4. Suffering from mental illness or abnormal physical or mental conditions, recognized as incapable of practicing the profession by the central competent authority after commissioning and consulting with two or more relevant specialist physicians.\r\n5. Being suspended from the professional practice of this Act as a penalty according to other laws.\r\n6. Disciplinary action through abolishment of the professional engineer certificate according to this Act.\r\nWhere the professional engineer license is not issued, revoked or abolished under the preceding Paragraph, Subparagraphs 2 through 5, it may be still applied for in accordance with this Act after the causes for such actions are eliminated."
+			"content": "One shall not be qualified for a professional engineer license, and the issued license of a professional engineer shall be revoked or abolished under any of the following circumstances:\r\n1.Having the professional engineer certificate revoked or abolished pursuant to Article 6.\r\n2.Being under the order of the commencement of guardianship or assistantship and having not yet been revoked.\r\n3.Having been declared bankrupt or having had the liquidation process initiated by a court ruling under the Consumer Debt Clearance Statute, and having not yet resumed legal rights.\r\n4.Having objective facts recognized as inability to practice the profession, as determined by a team organized by the central competent authority comprising specialist  physicians, representatives of professional engineer associations, and scholars and experts.\r\n5.Being suspended from the professional practice of this Act as a penalty according to other laws.\r\n6.Disciplinary action through abolishment of the professional engineer certificate according to this Act.\r\nThe organization and operation of the team referred to in Subparagraph 4 of the preceding Paragraph shall be prescribed by the central competent authority.\r\nWhere the professional engineer license is not issued, revoked or abolished under Subparagraphs 2 through 5 of Paragraph 1, it may be still applied for in accordance with this Act after the causes for such actions are eliminated."
 		},
 		{
 			"number": 1200,
@@ -234,7 +235,7 @@
 		},
 		{
 			"number": 4200,
-			"content": "When a professional engineer is involved in circumstances stipulated in Article 39, stakeholders, the competent authorities, the competent authorities of the relevant industries, or the professional engineer associations may list facts, provide evidence, and report to the professional engineer discipline committee for handling."
+			"content": "When a professional engineer is involved in circumstances stipulated in Article 39, the competent authorities, the competent authorities of the relevant industries, or the professional engineer associations may list facts, provide evidence, and report to the professional engineer discipline committee for handling.\r\nWhen stakeholders discover that a professional engineer is involved in circumstances stipulated in Article 39, they may list the facts, provide  relevant evidence, and report to the competent authorities of the relevant industries, the municipal or county (city) competent authorities, or the professional engineer association to which the professional engineer belongs, which shall review and forward the case to the professional engineer discipline committee for handling."
 		},
 		{
 			"number": 4300,
