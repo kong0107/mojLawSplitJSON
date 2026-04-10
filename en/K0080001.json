@@ -3,7 +3,7 @@
 	"LawLevel": "法律",
 	"EngLawName": "The Commercial Port Law",
 	"name": "商港法",
-	"EngLawModifiedDate": "20230628",
+	"EngLawModifiedDate": "20260105",
 	"histories": [
 		"Promulgated on May 2,1980",
 		"Amendment to Article 2,4,12,15,16,18,20,46-48, addition of Article 16-1,23-1,50-1 and promulgated on November 28, 1986",
@@ -15,7 +15,8 @@
 		"Amendment to Article 18 promulgated on February 5, 2005",
 		"Amendment to whole articles promulgated on December 28, 2011",
 		"Amendment to Article 72 promulgated on April 28, 2021",
-		"Addition of Article 36-1 and 65-1 to 65-3 and promulgated on June 28, 2023; The effective date shall be determined by the Executive Yuan."
+		"Addition of Article 36-1 and 65-1 to 65-3 and promulgated on June 28, 2023; The effective date shall be determined by the Executive Yuan.",
+		"Amendment to Article 15 and addition of Article 65-4 promulgated on January 5, 2026; The effective date shall be determined by the Executive Yuan."
 	],
 	"divisions": [
 		{
@@ -134,7 +135,7 @@
 		},
 		{
 			"number": 1500,
-			"content": "If ships berthed inside the commercial port are determined by the commercial port administration authority, commercial port authority, or designated authorities to impede berth scheduling or port safety, they should move or evacuate their ships to the designated location. If the berth shifting is not carried out as ordered, then competent authorities can shift the ship as regulated.\r\nCommercial port authority limit the numbers of small ships, berthing locations, driving, and operations to maintain the order, divert shipping, and convenient operating inside the port. When necessary, small ships can be driven to other locations to berth.\r\nShips and floating articles cannot be driven and operated inside the port area without the approval of commercial port authority.\r\nThe obtaining of the moving and berthing fees mentioned in the first and second paragraph should be carried out by commercial port authority. All costs are shared by ship owners."
+			"content": "If ships berthed inside the commercial port are determined by the Commercial Port Administration Authority, Maritime and Port Bureau or designated agencies to impede berth scheduling or port safety, they shall order the ships to depart the port within 3 months, or order the ships to move to the designated location. If the berth shifting is not carried out as ordered, they may move the ships as regulated and order the ships to depart the port within 3 months upon completion of the berth shifting.\r\nThe Commercial Port Administration Authority, Maritime and Port Bureau or designated agencies may limit the number of small ships, berthing locations, driving, and operations to maintain order, divert shipping, and improve operating convenience inside the port. When necessary, small ships can be driven to other locations to berth.\r\nShips and floating articles cannot be driven or operated inside the port area without the approval of the Commercial Port Administration Authority, Maritime and Port Bureau or designated agencies.\r\nThe expenses to be incurred for moving and berthing executed by the Commercial Port Administration Authority, Maritime and Port Bureau or designated agencies as referred to in Paragraph 1 and Paragraph 2 shall be borne by the ship owners."
 		},
 		{
 			"number": 1600,
@@ -351,6 +352,10 @@
 		{
 			"number": 6503,
 			"content": "Anyone who jeopardizes the normal operation of the core information and communication system of the commercial port facilities or equipment in any of the following manners shall be sentenced to an imprisonment from one to seven years, and may also be fined an amount up to NT$10,000,000:\r\n1. Entering the account password without reason, cracking the computer system protection measures, or exploiting the loopholes of the computer system to access the computer or related equipment.\r\n2. Interfering with the computer or related equipment with computer programs or other electromagnetic means without reason.\r\n3. Obtaining, deleting or changing the electromagnetic records of the computer or related equipment without reason.\r\nThe same shall apply to those who make computer programs exclusively for committing the crimes of the preceding Paragraph by themselves or any others.\r\nThose who commit crimes in the preceding two Paragraphs with the intention of jeopardizing national security or social stability shall be sentenced to an imprisonment of three to ten years, and may also be fined an amount of NT$50,000,000 utmost.\r\nIf any or all the situations mentioned in the above three Paragraphs cause any disasters, the amount of the penalty shall be increased by 50%; those that cause death shall be sentenced to life imprisonment or an imprisonment of at least seven years, and may also be fined an amount of NT$100,000,000 utmost; those that cause severe injuries shall be sentenced to the imprisonment from five to 12 years, and may also be fined an amount of NT$80,000,000 utmost.\r\nThose with the attempted offenses of Paragraphs 1 to 3 shall also be punished."
+		},
+		{
+			"number": 6504,
+			"content": "Ships which are ordered to depart the port within the time limit prescribed by the Commercial Port Administration Authority, Maritime and Port Bureau or designated agencies pursuant to Paragraph 1 of Article 15 but fail to do so without justified reasons shall be confiscated by the Maritime and Port Bureau or designated agencies, irrespective of the ship owners.\r\nIf foreign merchant ships are stayed pursuant to Paragraph 1 of Article 60 and found presenting the ship registration, ship certificate, IMO number, or other ship identification data inconsistent with the facts, the Maritime and Port Bureau or designated agencies shall order the ship owners or their agents to supplement the justified reasons, ownership certificates, and related ship certificates within 3 months. If they fail to do so upon expiration of said time limit, the foreign merchant ships shall be confiscated by the Maritime and Port Bureau or designated agencies, irrespective of the ship owners."
 		},
 		{
 			"number": 6600,
