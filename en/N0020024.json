@@ -1,0 +1,161 @@
+{
+	"pcode": "N0020024",
+	"LawLevel": "法律",
+	"EngLawName": "Delivery Workers' Rights Protection and Delivery Platform Management Act",
+	"name": "外送員權益保障及外送平臺管理法",
+	"EngLawModifiedDate": "20260121",
+	"histories": [
+		"All 28 Articles enacted and promulgated on January 21, 2026 under the order Hua-Tsung-Yi-Yi-Tzu No. 11500005941 issued by the President; in accordance with Article 28, the Act shall be put into force 6 months after promulgation."
+	],
+	"divisions": [
+		{
+			"type": "chapter",
+			"number": 100,
+			"title": "General Provisions",
+			"start": 100,
+			"end": 300
+		},
+		{
+			"type": "chapter",
+			"number": 200,
+			"title": "Protection of Delivery Workers’ Rights and Interests",
+			"start": 400,
+			"end": 1200
+		},
+		{
+			"type": "chapter",
+			"number": 300,
+			"title": "Delivery Platform Management",
+			"start": 1300,
+			"end": 2300
+		},
+		{
+			"type": "chapter",
+			"number": 400,
+			"title": "Penalty",
+			"start": 2400,
+			"end": 2500
+		},
+		{
+			"type": "chapter",
+			"number": 500,
+			"title": "Supplementary Provisions",
+			"start": 2600,
+			"end": 2800
+		}
+	],
+	"articles": [
+		{
+			"number": 100,
+			"content": "This Act is enacted to protect the rights and interests of delivery workers, consumers, and partner merchants, and to regulate delivery platform operators, so as to balance the rights and obligations of all parties.\r\nMatters concerning protection of rights and interests and regulatory management under the preceding paragraph shall be governed by this Act; matters not provided for herein shall be governed by other applicable laws. However, where an employment relationship exists between a delivery platform operator and a delivery worker, matters concerning protection of rights and interests and penalties shall be governed by the Labor Standards Act and other relevant laws, in additional Paragraph 5 of Article 4, Article 10, and Articles 21 through 25 of this Act shall still apply."
+		},
+		{
+			"number": 200,
+			"content": "The term “competent authority” as used in this Act refers to: At the central level, it is the Ministry of Labor; at the special municipality level, it is the special municipality government; and at the county (city) level, it is the county (city) government.\r\nWhere matters prescribed in this Act involve the jurisdiction of other competent authorities for specific industries, such matters shall be handled by the respective authorities. The division of powers and responsibilities among the competent authority and other competent authorities for specific industries referred to in the preceding two paragraphs shall be as follows:\r\n1. Competent authority: Matters concerning protection of delivery workers’ labor rights and interests, including delivery service contracts, account suspension, remuneration, complaint mechanisms, occupational safety and health, insurance, preservation of delivery worker-related records, and occupational safety and health education and training for delivery workers.\r\n2. Transportation authority: Matters concerning approval of basic freight rates, consumer protection, personal data protection, road traffic safety, preservation of consumer-related records, and traffic safety education and training for delivery workers, relating to delivery platform management.\r\n3. Economic affairs authority: Matters concerning delivery cooperation contracts, fees charged by delivery platform operators, dispute resolution, and preservation of partner merchant-related records, relating to protection of partner merchant rights and interests.\r\n4. Health and welfare authority: Matters concerning food safety and hygiene in delivery services and food safety education and training for delivery workers.\r\n5. Financial supervisory authority: Matters concerning transaction security of financial payment instruments provided by delivery platforms and insurance products such as group accident insurance and liability insurance for delivery workers.\r\n6. Digital development authority: Matters concerning transaction security of third-party payment services provided by delivery platforms.\r\n7. Other matters concerning delivery worker protection and delivery platform management: To be handled by relevant competent authorities for specific industries in accordance with their respective powers and responsibilities."
+		},
+		{
+			"number": 300,
+			"content": "The terms used in this Act are defined as follows:\r\n1. Delivery worker: A service provider who has entered into a delivery service contract with a delivery platform operator.\r\n2. Delivery platform operator: An enterprise operating a platform utilizing electronic commerce technologies to conduct internet-based transactions, providing partner merchants with trading platform to sell goods or consumers with trading platform to purchase goods, and assigning orders to delivery workers for fulfillment.\r\n3. Delivery service contract: A contract entered into between a delivery platform operator and a delivery worker concerning delivery services, remuneration calculation and payment, account suspension, complaint mechanisms, and other related rights and obligations.\r\n4. Remuneration: The consideration received by a delivery worker for providing delivery services pursuant to a delivery service contract, including basic remuneration and various bonuses.\r\n5. Account suspension: The act by which a delivery platform operator temporarily suspends the provision of orders to a delivery worker, or temporarily suspends the acceptance of consumer orders from a partner merchant.\r\n6. Delivery service: The act whereby a delivery worker, through an application or device designated by a delivery platform operator, accepts an order, proceeds to a partner merchant to collect goods, and delivers the goods to the consumer or to a location designated by the consumer.\r\n7. Delivery service period: The period commencing from the time a delivery worker accepts each order provided by the delivery platform operator until completion of that order.\r\n8. Online service period: The period commencing from the time a delivery worker logs onto an application or device designated by the delivery platform operator until logging off.\r\n9. Partner merchant: An enterprise that has entered into a delivery cooperation contract with a delivery platform operator and uses an application or device designated by the platform to provide goods for consumer purchase.\r\n10. Delivery cooperation contract: A contract entered into between a delivery platform operator and a partner merchant concerning the provision of goods, payment of proceeds, and other related rights and obligations.\r\n11. Freight charge: The fee charged to consumers and partner merchants by a platform freight operator for providing goods transportation services.\r\n12. Payment for goods: The amount payable by a delivery platform operator to a partner merchant after goods are provided to consumers through the platform.\r\n13. Per-order basis: An order containing only one pickup location and one delivery location."
+		},
+		{
+			"number": 400,
+			"content": "The central competent authority shall formulate and publicly announce mandatory and prohibitory provisions for standardized contracts concerning material rights and obligations in delivery service contracts between delivery platform operators and delivery workers. The mandatory and prohibitory provisions referred to in the preceding paragraph shall include matters concerning remuneration calculation and payment methods, account suspension, termination of delivery service contracts, complaint mechanisms, insurance, basic delivery service procedures, dedicated contact channel personnel, and other matters relating to delivery workers’ labor rights and interests.\r\nWhere a delivery service contract entered into between a delivery platform operator and a delivery worker violates the mandatory or prohibitory provisions publicly announced pursuant to Paragraph 1, such provisions shall be void. Mandatory provisions announced pursuant to Paragraph 1 shall form part of the contract even if not expressly included therein. Where a delivery platform operator modifies or supplements material rights and obligations under a delivery service contract, such modification or supplementation shall require the consent of the delivery worker, and the operator shall not obtain such consent through unfavorable treatment.\r\nAny unilateral publication or notification of amendments or supplements by the delivery platform operator via the internet, public announcement, mail, written notice, or other means without the consent of the delivery worker shall have no legal effect.\r\nA delivery platform operator shall provide a written or electronic copy of the delivery service contract to the delivery worker within seven days after the contract is concluded."
+		},
+		{
+			"number": 500,
+			"content": "The basic remuneration paid by a delivery platform operator to a delivery worker for each order shall not be lower than one and one-quarter (1.25) times the hourly minimum wage prescribed under the Minimum Wage Act, calculated proportionally based on the delivery service period of that order, and shall in no event be less than 45 New Taiwan Dollars as the guaranteed minimum amount.\r\nThe guaranteed minimum amount of basic remuneration per order referred to in the preceding paragraph shall be adjusted and publicly announced by the central competent authority based on the guaranteed amount of the preceding year multiplied by the annual rate of increase in the hourly minimum wage prescribed under the Minimum Wage Act.\r\nA delivery platform operator shall pay remuneration to delivery workers in full and directly. However, the preceding paragraph shall not apply where otherwise provided by law or otherwise agreed upon by both parties.\r\nA delivery platform operator shall pay remuneration to delivery workers on a regular basis at least twice per month and shall provide a remuneration statement specifying the following matters:\r\n1. Total remuneration amount.\r\n2. The calculation method and amount of remuneration for per-order.\r\n3. Items and amounts deductible pursuant to laws or agreement between the parties.\r\n4. The actual amount paid.\r\nA delivery platform operator shall prepare and maintain a remuneration register for delivery workers, recording the total remuneration paid and remuneration details; such register shall be preserved for five years."
+		},
+		{
+			"number": 600,
+			"content": "When assigning an order to a delivery worker, a delivery platform operator shall clearly inform the delivery worker of the estimated remuneration for the order, the pickup and delivery locations, and other relevant material information."
+		},
+		{
+			"number": 700,
+			"content": "During the provision of delivery services, where a delivery worker materially violates the Personal Data Protection Act, the Sexual Harassment Prevention Act, the Stalking and Harassment Prevention Act, the Criminal Code, traffic regulations, food safety and sanitation laws and regulations, or the delivery service contract, the delivery platform operator may terminate the delivery service contract only in case of severe circumstances.\r\nWhere a delivery platform operator terminates a delivery service contract pursuant to the preceding paragraph or makes any other adverse decision affecting a delivery worker’s rights and interests, the operator shall provide the delivery worker with complete, concise, and comprehensible reasons for such decision, shall bear the burden of proof with respect to those reasons, and shall afford the delivery worker an opportunity to file a complaint in accordance with Article 9."
+		},
+		{
+			"number": 800,
+			"content": "A delivery worker may terminate the delivery service contract under any of the following circumstances:\r\n1. Where the delivery platform operator made a false representation at the time of entering into the delivery service contract which might mislead the delivery worker and creating a sustain damage therefrom.\r\n2. Where the delivery platform operator violates the delivery service contract, this Act, or other applicable laws and regulations, thereby creating a risk of harm to the delivery worker’s rights and interests.\r\nTermination pursuant to the preceding paragraph shall be effected within thirty days from the date the delivery worker becomes aware of the circumstances or the resulting harm.\r\nWhere a delivery worker terminates the delivery service contract pursuant to Paragraph 1, the delivery platform operator shall provide economic compensation to the delivery worker.\r\nRegulations governing the standards, time limits, methods of payment, and other related matters concerning the economic compensation referred to in the preceding paragraph shall be prescribed by the central competent authority."
+		},
+		{
+			"number": 900,
+			"content": "A delivery platform operator shall establish a complaint mechanism for delivery workers with respect to the following matters:\r\n1. Amount, calculation method, and payment timing of remuneration.\r\n2. Account suspension, termination of the delivery service contract, or other adverse decisions against delivery workers.\r\n3. Disputes arising between delivery workers and partner merchants or consumers in connection with delivery services.\r\nThe complaint mechanism referred to in the preceding paragraph shall include, at a minimum, the responsible unit, processing procedures, handling time limits, response methods, and remedial measures upon a complaint being upheld, and shall be publicly disclosed by the delivery platform operator.\r\nWith respect to disputes arising from termination of a delivery service contract pursuant to Article 7, a delivery platform operator shall establish an independent review panel to accept complaints from delivery workers.\r\nThe independent review panel referred to in the preceding paragraph shall convene meetings on a regular basis, and its members shall meet the following requirements:\r\n1. The panel shall consist of no fewer than three members, including at least one labor union representative.\r\n2. The preceding paragraph members other than the labor union representative shall be external experts or scholars possessing expertise in labor law or familiarity with the practical operations of the delivery platform industry, and who have no conflict of interest with the delivery platform operator.\r\nA delivery platform operator shall not make any adverse decision against a delivery worker on account of the worker filing a complaint under this Act or assisting another person in filing such complaint."
+		},
+		{
+			"number": 1000,
+			"content": "A delivery platform operator shall procure group accident insurance and liability insurance for delivery workers who have entered into delivery service contracts, in accordance with the following requirements; no delivery services shall be performed prior to such insurance coverage being obtained:\r\n1. Insurance coverage period:\r\n(1) Group accident insurance: the effective period of the delivery service contract.\r\n(2) Liability insurance: the online service period.\r\n2. The insurance coverage scope and minimum insured amounts shall comply with the standards publicly announced by the central competent authority.\r\n3. A written or electronic copy of the insurance contract shall be provided to the delivery worker for retention and preserved for one year.\r\nOnly when a delivery worker has no record of providing delivery services for more than three consecutive days, the delivery platform operator may temporarily suspend the insurance arrangements referred to in the preceding paragraph."
+		},
+		{
+			"number": 1100,
+			"content": "When engaging delivery workers to provide delivery services, a delivery platform operator shall comply with the following requirements:\r\n1. The delivery platform operator shall not mandate a fixed online service period for delivery workers or require delivery workers to remain online service against their will.\r\n2. The delivery platform operator shall not subject delivery workers to adverse treatment for refusing to accept orders or choosing to log off for rest."
+		},
+		{
+			"number": 1200,
+			"content": "Where a delivery worker participates in Labor Occupational Accident Insurance pursuant to Article 7 or Article 10 of the Labor Occupational Accident Insurance and Protection Act through his or her affiliated occupational labor union or by personal enrollment, the delivery worker may submit proof of premium payment to the delivery platform operator and apply for reimbursement of the portion of insurance premiums borne by the worker. The delivery platform operator shall not refuse such payment.\r\nWhere a delivery worker simultaneously provides delivery services on two or more delivery platforms, the worker may apply for such reimbursement from only one platform operator."
+		},
+		{
+			"number": 1300,
+			"content": "With respect to material rights and obligations between delivery platform operators and consumers, the transportation authority shall, in accordance with the Consumer Protection Act, formulate and publicly announce mandatory and prohibitory provisions for standardized contracts, subject to approval by the Executive Yuan."
+		},
+		{
+			"number": 1400,
+			"content": "With respect to material rights and obligations in delivery cooperation contracts entered into between delivery platform operators and partner merchants, the economic affairs authority shall formulate and publicly announce a model contract.\r\nThe model contract referred to in the preceding paragraph shall include provisions concerning the supply of goods and pricing, the amount or percentage of service and delivery fees charged, settlement and payment methods for proceeds, food safety and hygiene management, dispute resolution mechanisms, contract duration and termination conditions, and other matters relating to the rights and interests of partner merchants. A delivery platform operator shall provide a written or electronic copy of the delivery cooperation contract to the partner merchant within seven days after the contract is concluded."
+		},
+		{
+			"number": 1500,
+			"content": "Where a government authority announces suspension of work in a region due to natural disasters, delivery platform operators shall suspend operations in that region and notify partner merchants and delivery workers accordingly."
+		},
+		{
+			"number": 1600,
+			"content": "A delivery platform operator shall comply with the relevant provisions of the Personal Data Protection Act and ensure the information security and system stability of its programs so as to safeguard the rights and interests of consumers, partner merchants, and delivery workers.\r\nThe transportation authority may, in accordance with the Personal Data Protection Act, require delivery platform operators to formulate a personal data file security maintenance plan."
+		},
+		{
+			"number": 1700,
+			"content": "A delivery platform operator shall regularly provide the central competent authority with information concerning the number of delivery workers, delivery service periods, online service periods, remuneration, and other related information."
+		},
+		{
+			"number": 1800,
+			"content": "A delivery platform operator shall preserve the following records relating to consumers for at least two years:\r\n1. The time and contents of consumer orders.\r\n2. Prices of goods, service fees, or freight charges.\r\n3. Refund details where consumers cancel orders.\r\n4. Reasons for cancellation by the delivery platform operator and refund details.\r\n5. Handling methods, charges or refunds, and compensation measures where goods are delivered late, differ in type or quantity from the order, or are defective or damaged.\r\n6. Contracts between consumers and the delivery platform operator.\r\n7. Customer service and complaint handling records.\r\n8. Other records related to the preceding seven subparagraphs.\r\nRelevant authorities may require inspection of the records referred to in the preceding paragraph, and the delivery platform operator shall not refuse."
+		},
+		{
+			"number": 1900,
+			"content": "A delivery platform operator shall preserve the following records relating to partner merchants for at least two years:\r\n1. Delivery cooperation contracts.\r\n2. Platform business solicitation activities and related execution records.\r\n3. The time and contents of orders accepted and goods provided by partner merchants.\r\n4. Customer service or dispute handling records between the operator and partner merchants.\r\n5. Calculation methods and payment timing of proceeds.\r\n6. Other records related to the preceding five subparagraphs.\r\nRelevant authorities may require inspection of the records referred to in the preceding paragraph, and the delivery platform operator shall not refuse."
+		},
+		{
+			"number": 2000,
+			"content": "A delivery platform operator shall preserve the following records relating to delivery workers for at least two years:\r\n1. Delivery service contracts.\r\n2. Delivery service periods.\r\n3. Online service periods.\r\n4. Account suspension, termination of delivery service contracts pursuant to Article 7, and adverse decisions made against delivery workers through algorithms or other means.\r\n5. Other circumstances of termination of delivery service contracts.\r\n6. Delivery worker education and training records as prescribed in Article 22.\r\n7. Other records related to the preceding six subparagraphs.\r\nRelevant authorities may require inspection of the records referred to in the preceding paragraph, and the delivery platform operator shall not refuse."
+		},
+		{
+			"number": 2100,
+			"content": "Where, during the provision of delivery services, any of the following occupational accidents occurs, the delivery platform operator shall notify the local labor inspection authority within eight (8) hours and subsequently conduct an investigation, analysis, and prepare records of the incident:\r\n1. Accidents involving death.\r\n2. Accidents causing injuries to one person or more that require hospitalization."
+		},
+		{
+			"number": 2200,
+			"content": "A delivery platform operator shall provide newly joined delivery workers with a specified number of hours of education and training in occupational safety and health, traffic safety, food safety and hygiene, and other necessary subjects. A delivery platform operator shall require delivery workers providing delivery services to complete at least a specified number of hours of education and training each year.\r\nThe required number of hours, content, instructors, and other related matters concerning the education and training referred to in the preceding two paragraphs shall be prescribed separately by the central competent authority, the transportation authority, and the health and welfare authority."
+		},
+		{
+			"number": 2300,
+			"content": "Where a delivery worker, in the course of providing delivery services, commits a violation that the transportation authority determines to have a serious impact on traffic safety, the delivery platform operator shall ensure that the delivery worker completes transportation safety training within the designated improvement period. The delivery platform operator shall not permit the worker to provide delivery services prior to completion of such training."
+		},
+		{
+			"number": 2400,
+			"content": "Where a delivery platform operator violates Article 11 or Article 15, the special municipality or county (city) competent authority shall impose an administrative fine of no less than 100,000 New Taiwan Dollars but no more than 500,000 New Taiwan Dollars.\r\nWhere a delivery platform operator violates Article 23, the transportation authority shall impose an administrative fine of no less than 100,000 New Taiwan Dollars  but no more than 500,000 New Taiwan Dollars. Where a delivery platform operator violates Article 21, the competent authority shall impose an administrative fine of no less than 30,000 New Taiwan Dollars but no more than 300,000 New Taiwan Dollars.\r\nWhere a delivery platform operator refuses, evades, or obstructs supervision, inspection, or record review conducted by the competent authority or other competent authorities for specific industries, an administrative fine of no less than 30,000 New Taiwan Dollars but no more than 150,000 New Taiwan Dollars shall be imposed.\r\nWhere a delivery platform operator falls under any of the following circumstances, the competent authority or the competent authority for specific industries shall impose an administrative fine of no less than 20,000 New Taiwan Dollars but no more than 100,000 New Taiwan Dollars:\r\n1. Violation of Paragraph 5 of Article 4, Paragraph 1 of Article 12, Paragraph 3 of Article 14, Paragraph 1 of Article 18, Paragraph 1 of Article 19, or Paragraph 1 of Article 20, and failure to make improvements within the specified time after being ordered to do so.\r\n2. Violation of Paragraphs 1 or 2 of Article 22 concerning traffic safety or food safety and hygiene training, and failure to make improvements within the specified time after being ordered to do so.\r\n3. Violation of Paragraphs 1 and 3 through 5 of Article 5, Paragraph 3 of Article 8, Article 9, or Article 10.\r\nWhere a delivery platform operator violates Paragraphs 1 or 2 of Article 22 concerning occupational safety and health training, penalties shall be imposed in accordance with the Occupational Safety and Health Act."
+		},
+		{
+			"number": 2500,
+			"content": "Where a delivery platform operator is fined for violation of this Act, the competent authority or the competent authority for specific industries shall publicly announce the platform operator’s name, the name of the legal representative, the date of disposition, the violated provisions, and the amount of the fine, and shall order corrective action within a specified period. Failure to make corrections within the specified period shall result in repeated penalties."
+		},
+		{
+			"number": 2600,
+			"content": "Where a delivery platform operator entrusts delivery services to a third party, and such third party enters into delivery service contracts with delivery workers, the provisions of Articles 4 through 12, 15 through 17, 20 through 23, and the related penalty provisions shall apply mutatis mutandis to the third party.\r\nWhere the third party referred to in the preceding paragraph has an employment relationship with the delivery worker, the proviso to Paragraph 2 of Article 1 shall apply."
+		},
+		{
+			"number": 2700,
+			"content": "The enforcement rules of this Act shall be prescribed by the central competent authority in consultation with the central competent authority for the relevant industry."
+		},
+		{
+			"number": 2800,
+			"content": "This Act shall enter into force six months after promulgation."
+		}
+	]
+}
