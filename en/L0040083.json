@@ -3,10 +3,10 @@
 	"LawLevel": "命令",
 	"EngLawName": "Standards for Pesticide Residue Limits in Foods",
 	"name": "農藥殘留容許量標準",
-	"EngLawModifiedDate": "20251126",
+	"EngLawModifiedDate": "20260421",
 	"attachments": {
-		"0000009430": "Appendix Table 1 Pesticide Residue Limits in Foods.pdf",
-		"0000009435": "Appendix Table 1 Pesticide Residue Limits in Foods.odt",
+		"0000009780": "Appendix Table 1 Standards for Pesticide Residue Limits in Foods.PDF",
+		"0000009781": "Appendix Table 1 Standards for Pesticide Residue Limits in Foods.ODT",
 		"0000009431": "Appendix Table 2 Extraneous Residue Limits.pdf",
 		"0000009436": "Appendix Table 2 Extraneous Residue Limits.odt",
 		"0000009432": "Appendix Table 3 List of Pesticide MRLs Omitted.pdf",
@@ -82,7 +82,8 @@
 		"Food No. 1131300473 Amended, March 29, 2024",
 		"Food No. 1131302967 Amended, November 18, 2024",
 		"Food No. 1141300001 Amended, March 11, 2025",
-		"Food No. 1141302806 Amended, November 26, 2025"
+		"Food No. 1141302806 Amended, November 26, 2025",
+		"Food No. 1151300817 Amended, April 21, 2026"
 	],
 	"articles": [
 		{
@@ -95,11 +96,11 @@
 		},
 		{
 			"number": 300,
-			"content": "The pesticide residues in foods except those in animal products shall meet the Standards for the Pesticides Residue Limits in Foods Table and Extra-neous Residue Limits Table, as Appendix Table 1 and Table 2. Pesticides not listed in the Table shall not be detected."
+			"content": "The pesticide residues in foods except those in animal products shall meet the Standards for the Pesticides Residue Limits in Foods Table and Extraneous Residue Limits Table, as Appendix Table 1 and Table 2. Pesticides not listed in the Table shall not be detected."
 		},
 		{
 			"number": 400,
-			"content": "Pesticides listed in the Appendix Table 3 are highly safe, it is not necessary to set the maximum residue limits and analyze their residues."
+			"content": "Pesticides listed in the Appendix Table 3 are highly safe, it is not nec-essary to set the maximum residue limits and analyze their residues."
 		},
 		{
 			"number": 500,
@@ -107,7 +108,7 @@
 		},
 		{
 			"number": 600,
-			"content": "The classification of crops referred in the Standards for Pesticide Residue Limits in Foods Table are listed in the Appendix Table 5."
+			"content": "The classification of crops referred in the Standards for Pesticide Res-idue Limits in Foods Table are listed in the Appendix Table 5."
 		},
 		{
 			"number": 700,
