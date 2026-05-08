@@ -7,13 +7,14 @@
 		"勞動部",
 		"職業安全衛生目"
 	],
-	"LawModifiedDate": "20220310",
-	"EngLawName": "Regulations for Occupational Accidents Workers to Apply for Device Care Disability and Death Subsdies",
+	"LawModifiedDate": "20260427",
+	"EngLawName": "Regulations for Workers Suffering From Occupational Accidents to Apply for Devices, Care, Disability and Death Subsidies",
 	"attachments": {
 		"0000310746": "附表.PDF"
 	},
 	"histories": [
-		"一百十一年三月十日勞動部勞職授字第 1110201180 號令訂定發布全文 19 條；並自一百十一年五月一日施行"
+		"一百十一年三月十日勞動部勞職授字第 1110201180 號令訂定發布全文 19 條；依第 19 條規定：自一百十一年五月一日施行",
+		"一百十五年四月二十七日勞動部勞職授字第 1150251277 號令修正發布第 19 條條文；增訂第 13-1 條條文；並自發布日施行"
 	],
 	"articles": [
 		{
@@ -299,6 +300,14 @@
 			]
 		},
 		{
+			"number": 1301,
+			"content": [
+				{
+					"text": "符合第十條第一項或第十一條第一項補助申請條件之勞工或其遺屬，因同一失能或死亡事故，同時或先後符合勞工保險之給付條件時，僅得擇一請領。"
+				}
+			]
+		},
+		{
 			"number": 1400,
 			"content": [
 				{
@@ -352,6 +361,9 @@
 			"content": [
 				{
 					"text": "本辦法自中華民國一百十一年五月一日施行。"
+				},
+				{
+					"text": "本辦法修正條文自發布日施行。"
 				}
 			]
 		}
