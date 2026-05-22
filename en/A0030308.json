@@ -15,9 +15,14 @@
   "EngLawForeword": "",
   "EngLawArticles": [
     {
+      "EngArticleType": "C",
+      "EngArticleNo": "",
+      "EngArticleContent": "   Chapter I. General Provisions"
+    },
+    {
       "EngArticleType": "A",
       "EngArticleNo": "Article 1",
-      "EngArticleContent": "These Regulations are prescribed pursuant to Paragraph 3, Article 18; Paragraph 6, Article 19; and Para-graph 2, Article 28 of the Cyber Security Management Act (hereinafter referred to as the “Act”)."
+      "EngArticleContent": "These Regulations are prescribed pursuant to Paragraph 3, Article 18; Paragraph 6, Article 19; and Paragraph 2, Article 28 of the Cyber Security Management Act (hereinafter referred to as the “Act”)."
     },
     {
       "EngArticleType": "A",
@@ -25,14 +30,19 @@
       "EngArticleContent": "In these regulations, cyber security personnel means dedicated cyber security personnel and any other personnel who actually engage in cyber security affairs.\r\nDedicated cyber security personnel in the preceding paragraph means personnel who shall perform cyber security affairs on a full-time basis."
     },
     {
+      "EngArticleType": "C",
+      "EngArticleNo": "",
+      "EngArticleContent": "   Chapter II. Suitability Review"
+    },
+    {
       "EngArticleType": "A",
       "EngArticleNo": "Article 3",
-      "EngArticleContent": "The phrase “when necessary” in Paragraph 1, Article 19 of the Act refers to cases where dedicated cyber security personnel fall under any of the following circumstances:\r\n1. The affairs handled involve national secrets referred to in the Classified National Security Infor-mation Protection Act, or military secrets or national defense secrets referred to in the Guideline for Categories, Scopes and Levels of Military Secrets and Defense Secrets.\r\n2. Other matters determined by a government agency, upon comprehensive assessment of the nature of its operations and the actual circumstances of its personnel.\r\nThe term “successful candidates” in Paragraph 2, Article 19 of the Act means persons who have passed the cyber security personnel recruitment examination and meet the condition set out in Subparagraph 1 of the preceding paragraph."
+      "EngArticleContent": "The phrase “when necessary” in Paragraph 1, Article 19 of the Act refers to cases where dedicated cyber security personnel fall under any of the following circumstances:\r\n1. The affairs handled involve national secrets referred to in the Classified National Security Infor mation Protection Act, or military secrets or national defense secrets referred to in the Guideline for Categories, Scopes and Levels of Military Secrets and Defense Secrets.\r\n2. Other matters determined by a government agency, upon comprehensive assessment of the nature of its operations and the actual circumstances of its personnel.\r\nThe term “successful candidates” in Paragraph 2, Article 19 of the Act means persons who have passed the cyber security personnel recruitment examination and meet the condition set out in Subparagraph 1 of the preceding paragraph."
     },
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 4",
-      "EngArticleContent": "The following are the items for suitability reviews carried out under Paragraph 1 or 2, Article 19 of the Act:\r\n1. Any of the circumstances specified in Paragraph 1, Article 28 of the Public Functionaries Appoint-ment Act.\r\n2. Persons who meet any of the conditions listed in Subparagraphs 1, 3, 8, or 10, Paragraph 1, Article 3 of the Regulations on Special Checks of Civil Servants Involved in National Security or Significant Interests.\r\n3. Individuals who have been convicted by a final judgment of offenses against computer security as defined in the relevant chapter of the Criminal Code, or who are currently wanted in unresolved cases related to such offenses.\r\nWhere the circumstance set out in Subparagraph 1 of the preceding paragraph exists, the person shall be deemed to have failed the review.\r\nWhen the circumstances described in Subparagraph 2 or 3, Paragraph 1 arise, the government agency must send the case to its Personnel Selection and Evaluation Committee to assess the seriousness and the nature of the intended position, then submit the committee’s recommendation to the agency head for ap-proval. Appointment decisions made by the head must include a written explanation of the reasons. When a review finds a potential threat to national security or significant interests, the review will be considered as failed.\r\nIn the event that the government agency referred to in the preceding Paragraph has not set up a Personnel Selection and Evaluation Committee, the matter shall be handled through another appropriate meeting.\r\nCurrent civil servants who believe that the decisions mentioned in Paragraphs 2 and 3 are unlawful or clearly inappropriate and have harmed their rights or interests may seek remedies under the Civil Service Protection Act. Persons who are not incumbent civil servants may seek remedies under the Administrative Appeal Act."
+      "EngArticleContent": "The following are the items for suitability reviews carried out under Paragraph 1 or 2, Article 19 of the Act:\r\n1. Any of the circumstances specified in Paragraph 1, Article 28 of the Public Functionaries Appoint ment Act.\r\n2. Persons who meet any of the conditions listed in Subparagraphs 1, 3, 8, or 10, Paragraph 1, Article 3 of the Regulations on Special Checks of Civil Servants Involved in National Security or Significant Interests.\r\n3. Individuals who have been convicted by a final judgment of offenses against computer security as defined in the relevant chapter of the Criminal Code, or who are currently wanted in unresolved cases related to such offenses.\r\nWhere the circumstance set out in Subparagraph 1 of the preceding paragraph exists, the person shall be deemed to have failed the review.\r\nWhen the circumstances described in Subparagraph 2 or 3, Paragraph 1 arise, the government agency must send the case to its Personnel Selection and Evaluation Committee to assess the seriousness and the nature of the intended position, then submit the committee’s recommendation to the agency head for approval. Appointment decisions made by the head must include a written explanation of the reasons. When a review finds a potential threat to national security or significant interests, the review will be considered as failed.\r\nIn the event that the government agency referred to in the preceding Paragraph has not set up a Personnel Selection and Evaluation Committee, the matter shall be handled through another appropriate meeting.\r\nCurrent civil servants who believe that the decisions mentioned in Paragraphs 2 and 3 are unlawful or clearly inappropriate and have harmed their rights or interests may seek remedies under the Civil Service Protection Act. Persons who are not incumbent civil servants may seek remedies under the Administrative Appeal Act."
     },
     {
       "EngArticleType": "A",
@@ -42,22 +52,32 @@
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 6",
-      "EngArticleContent": "Where the individual concerned considers the review results referred to in the preceding Article to be inconsistent with the facts, he or she may, within 15 days from receipt of the written notice, submit a statement and defense to the government agency or the competent authority, limited to one submission.\r\nAfter receiving the statement and defense referred to in the preceding paragraph, the government agency or competent authority shall send an official request to the Ministry of Justice Investigation Bureau to conduct a renewed review.\r\nAfter the Ministry of Justice Investigation Bureau responds with the renewed review results, the govern-ment agency or competent authority shall notify the individual concerned in writing within three days, counted from the day following receipt."
+      "EngArticleContent": "Where the individual concerned considers the review results referred to in the preceding Article to be inconsistent with the facts, he or she may, within 15 days from receipt of the written notice, submit a statement and defense to the government agency or the competent authority, limited to one submission.\r\nAfter receiving the statement and defense referred to in the preceding paragraph, the government agency or competent authority shall send an official request to the Ministry of Justice Investigation Bureau to conduct a renewed review.\r\nAfter the Ministry of Justice Investigation Bureau responds with the renewed review results, the government agency or competent authority shall notify the individual concerned in writing within three days, counted from the day following receipt."
     },
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 7",
-      "EngArticleContent": "Where the duties of dedicated cyber security personnel referred to in Paragraph 1, Article 19 of the Act are performed on an acting basis by the same incumbent personnel for more than three months, the pro-visions of this Chapter shall apply mutatis mutandis to the conduct of a suitability review."
+      "EngArticleContent": "Where the duties of dedicated cyber security personnel referred to in Paragraph 1, Article 19 of the Act are performed on an acting basis by the same incumbent personnel for more than three months, the provisions of this Chapter shall apply mutatis mutandis to the conduct of a suitability review."
+    },
+    {
+      "EngArticleType": "C",
+      "EngArticleNo": "",
+      "EngArticleContent": "   Chapter III. Cyber Security Competency Training"
     },
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 8",
-      "EngArticleContent": "The competent authority shall plan and promote cyber security competency training for dedicated cyber security personnel (hereinafter referred to as “cyber security competency training”) and handle the fol-lowing matters:\r\n1. Establishment and implementation of a cyber security competency training system.\r\n2. Development of training materials for cyber security competency training.\r\n3. Selection of training institutions and review of their instruction.\r\n4. Formulation and implementation of a cyber security competency assessment and certification sys-tem.\r\n5. Other matters concerning cyber security competency training.\r\nThe implementation methods for the matters set forth in Subparagraphs 1, 3, and 4 of the preceding par-agraph shall be separately announced by the competent authority."
+      "EngArticleContent": "The competent authority shall plan and promote cyber security competency training for dedicated cyber security personnel (hereinafter referred to as “cyber security competency training”) and handle the following matters:\r\n1. Establishment and implementation of a cyber security competency training system.\r\n2. Development of training materials for cyber security competency training.\r\n3. Selection of training institutions and review of their instruction.\r\n4. Formulation and implementation of a cyber security competency assessment and certification sys tem.\r\n5. Other matters concerning cyber security competency training.\r\nThe implementation methods for the matters set forth in Subparagraphs 1, 3, and 4 of the preceding paragraph shall be separately announced by the competent authority."
     },
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 9",
-      "EngArticleContent": "Examinees who pass the cyber security competency assessment will be issued a cyber security compe-tency training certificate by the competent authority.\r\nWhen an examinee is confirmed upon verification to have cheated or committed other violations, the competent authority shall revoke their certificate."
+      "EngArticleContent": "Examinees who pass the cyber security competency assessment will be issued a cyber security competency training certificate by the competent authority.\r\nWhen an examinee is confirmed upon verification to have cheated or committed other violations, the competent authority shall revoke their certificate."
+    },
+    {
+      "EngArticleType": "C",
+      "EngArticleNo": "",
+      "EngArticleContent": "   Chapter IV. Mobilization"
     },
     {
       "EngArticleType": "A",
@@ -77,7 +97,7 @@
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 13",
-      "EngArticleContent": "The competent authority may consider the following factors when deciding whether to mobilize:\r\n1. The scale, nature, and geographic scope of the cyber security incident, as well as the degree of urgency for the required emergency response.\r\n2. The allocation of cyber security personnel and their availability for mobilization across the affected agency itself, its affiliated agencies, supervised agencies, agencies under its jurisdiction, superior government agency, and the supervising agency or central competent authority in charge of the rel-evant sector.\r\n3. The allocation of cyber security personnel and their availability for mobilization of the agency where mobilized cyber security personnel belongs (hereinafter referred to as the “supporting agency”).\r\n4. Other relevant factors.\r\nWhere necessary for making the aforementioned decision, the competent authority may require the af-fected agency to provide explanations, cooperate, or submit relevant documents and supporting infor-mation."
+      "EngArticleContent": "The competent authority may consider the following factors when deciding whether to mobilize:\r\n1. The scale, nature, and geographic scope of the cyber security incident, as well as the degree of urgency for the required emergency response.\r\n2. The allocation of cyber security personnel and their availability for mobilization across the affected agency itself, its affiliated agencies, supervised agencies, agencies under its jurisdiction, superior government agency, and the supervising agency or central competent authority in charge of the relevant sector.\r\n3. The allocation of cyber security personnel and their availability for mobilization of the agency where mobilized cyber security personnel belongs (hereinafter referred to as the “supporting agency”).\r\n4. Other relevant factors.\r\nWhere necessary for making the aforementioned decision, the competent authority may require the affected agency to provide explanations, cooperate, or submit relevant documents and supporting information."
     },
     {
       "EngArticleType": "A",
@@ -97,7 +117,12 @@
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 17",
-      "EngArticleContent": "Personnel involved in mobilization who, during the mobilization period, learn confidential and sensitive information of government or specific non-government agencies are required to keep that information confidential."
+      "EngArticleContent": "Personnel involved in mobilization who, during the mobilization period, learn confidential and sensitive\r\ninformation of government or specific non-government agencies are required to keep that information confidential."
+    },
+    {
+      "EngArticleType": "C",
+      "EngArticleNo": "",
+      "EngArticleContent": "   Chapter V. Commendation and Disciplinary Action"
     },
     {
       "EngArticleType": "A",
@@ -107,12 +132,12 @@
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 19",
-      "EngArticleContent": "The following situations qualify for commendation:\r\n1. In accordance with the Act, regulations made under its authority or the agency’s internal rules, for-mulation, revision, and implementation of cyber security maintenance plans and achievement of outstanding performance.\r\n2. Achievement of outstanding performance when conducting audits of the implementation of cyber security maintenance plans under Article 15 of the Act or cyber security drill operations.\r\n3. Cooperation with the competent authority and the agencies designated under Article 15 of the Act in auditing the implementation of cyber security maintenance plans, conducting cyber security drills, or in the performance evaluations and commendation procedures for government agency cyber se-curity tasks, and achievement of outstanding performance upon assessment.\r\n4. Appropriate implementation of cyber security tasks to prevent cyber security incidents and thereby protect this agency, other agencies, or the public from damage.\r\n5. Active identification of new types of cyber security vulnerabilities or intrusion threats and sharing of cyber security information to prevent incidents or minimize their damage.\r\n6. Active monitoring of anomalies in cyber security maintenance, prompt detection of major cyber security incidents, and implementation of reporting and response measures to prevent further spread of damage.\r\n7. Proposal and implementation of concrete suggestions or innovative solutions for cyber security tasks.\r\n8. Management of training and cultivation of cyber security personnel, with tangible contributions.\r\n9. Handling affairs concerning the research and development, integration, application, industry-aca-demia collaboration, or industrial development of cyber security technology, with tangible contribu-tions.\r\n10. Development of technical specifications for cyber security hardware and software, related services, and verification mechanisms, with tangible contributions.\r\n11. Development of cyber security policies, legal analysis, or international cooperation efforts, with tangible contributions.\r\n12. Cooperation with the competent authority in mobilization operations, with excellent performance or tangible contributions.\r\n13. Development of other cyber security tasks, with tangible contributions."
+      "EngArticleContent": "The following situations qualify for commendation:\r\n1. In accordance with the Act, regulations made under its authority or the agency’s internal rules, for mulation, revision, and implementation of cyber security maintenance plans and achievement of outstanding performance.\r\n2. Achievement of outstanding performance when conducting audits of the implementation of cyber security maintenance plans under Article 15 of the Act or cyber security drill operations.\r\n3. Cooperation with the competent authority and the agencies designated under Article 15 of the Act in auditing the implementation of cyber security maintenance plans, conducting cyber security drills, or in the performance evaluations and commendation procedures for government agency cyber security tasks, and achievement of outstanding performance upon assessment.\r\n4. Appropriate implementation of cyber security tasks to prevent cyber security incidents and thereby protect this agency, other agencies, or the public from damage.\r\n5. Active identification of new types of cyber security vulnerabilities or intrusion threats and sharing of cyber security information to prevent incidents or minimize their damage.\r\n6. Active monitoring of anomalies in cyber security maintenance, prompt detection of major cyber security incidents, and implementation of reporting and response measures to prevent further spread of damage.\r\n7. Proposal and implementation of concrete suggestions or innovative solutions for cyber security tasks.\r\n8. Management of training and cultivation of cyber security personnel, with tangible contributions.\r\n9. Handling affairs concerning the research and development, integration, application, industry-aca demia collaboration, or industrial development of cyber security technology, with tangible contributions.\r\n10. Development of technical specifications for cyber security hardware and software, related services, and verification mechanisms, with tangible contributions.\r\n11. Development of cyber security policies, legal analysis, or international cooperation efforts, with tangible contributions.\r\n12. Cooperation with the competent authority in mobilization operations, with excellent performance or tangible contributions.\r\n13. Development of other cyber security tasks, with tangible contributions."
     },
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 20",
-      "EngArticleContent": "The following situations qualify for disciplinary action:\r\n1. Failure to handle the following matters in accordance with the Act, regulations prescribed under the Act, or the agency’s internal rules, where the circumstances are significant:\r\n(1) Cyber security information sharing operations.\r\n(2) Formulation, revision, and implementation of cyber security maintenance plans.\r\n(3) Submission of reports on the implementation of cyber security maintenance plans.\r\n(4) Audit of implementation of cyber security maintenance plans.\r\n(5) Submission of a corrective action report in response to the audit results of the implementation of cyber security maintenance plans conducted by the competent author-ity and the agencies referred to in Article 15 of the Act.\r\n(6) Establishment of reporting and response mechanisms for cyber security incidents.\r\n(7) Reporting or response operations for cyber security incidents.\r\n(8) Submission of investigation, handling, and corrective action reports regarding cyber security incidents.\r\n2. Poor performance in handling cyber security affairs, as rated by the competent authority, a superior authority, or a supervisory authority, where guidance has proved ineffective and the circumstances are significant.\r\n3. Other violations of the Act, regulations made under its authority, or an agency’s internal rules in a serious circumstance.\r\n4. Poor supervision of task operations resulting in their subordinates or personnel of affiliated units or supervised agencies falling in any circumstance of the preceding three subparagraphs."
+      "EngArticleContent": "The following situations qualify for disciplinary action:\r\n1. Failure to handle the following matters in accordance with the Act, regulations prescribed under the Act, or the agency’s internal rules, where the circumstances are significant:\r\n(1) Cyber security information sharing operations.\r\n(2) Formulation, revision, and implementation of cyber security maintenance plans.\r\n(3) Submission of reports on the implementation of cyber security maintenance plans.\r\n(4) Audit of implementation of cyber security maintenance plans.\r\n(5) Submission of a corrective action report in response to the audit results of the implementation of cyber security maintenance plans conducted by the competent authority and the agencies referred to in Article 15 of the Act.\r\n(6) Establishment of reporting and response mechanisms for cyber security incidents.\r\n(7) Reporting or response operations for cyber security incidents.\r\n(8) Submission of investigation, handling, and corrective action reports regarding cyber security incidents.\r\n2. Poor performance in handling cyber security affairs, as rated by the competent authority, a superior authority, or a supervisory authority, where guidance has proved ineffective and the circumstances are significant.\r\n3. Other violations of the Act, regulations made under its authority, or an agency’s internal rules in a serious circumstance.\r\n4. Poor supervision of task operations resulting in their subordinates or personnel of affiliated units or supervised agencies falling in any circumstance of the preceding three subparagraphs."
     },
     {
       "EngArticleType": "A",
@@ -125,9 +150,14 @@
       "EngArticleContent": "Before disciplining personnel for any situation under each subparagraph of Article 20, a government agency must give the person an opportunity for defense; where necessary, it may seek advice from relevant experts and scholars on the technical matters of cyber security."
     },
     {
+      "EngArticleType": "C",
+      "EngArticleNo": "",
+      "EngArticleContent": "   Chapter VI. Supplementary Provisions"
+    },
+    {
       "EngArticleType": "A",
       "EngArticleNo": "Article 23",
-      "EngArticleContent": "The competent authority may delegate the suitability review, cyber security competency training, mobili-zation, commendation and disciplinary action procedures, and other related tasks set out in these regulations to the Administration for Cyber Security, Ministry of Digital Affairs."
+      "EngArticleContent": "The competent authority may delegate the suitability review, cyber security competency training, mobili zation, commendation and disciplinary action procedures, and other related tasks set out in these regulations to the Administration for Cyber Security, Ministry of Digital Affairs."
     },
     {
       "EngArticleType": "A",
