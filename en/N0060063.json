@@ -1,12 +1,12 @@
 {
   "LawLevel": "命令",
-  "EngLawName": "Regulations Governing the Surveillance of Machinery, Equipment and Appliances ",
+  "EngLawName": "Regulations Governing the Surveillance of Machinery, Equipment and Tools",
   "LawName": "機械設備器具監督管理辦法",
   "EngLawURL": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=N0060063",
-  "EngLawModifiedDate": "20141222",
+  "EngLawModifiedDate": "20260625",
   "EngLawAbandonNote": "",
   "EngLawAttachements": [],
-  "EngLawHistories": "1.28 Articles adopted on January 1, 2015, and promulgated on December 22, 2014 in full by Ministerial Order.",
+  "EngLawHistories": "1.28 Articles adopted and promulgated in full by Ministerial Order on January 1, 2015.\r\n2.Articles 1, 2, 11, 16, 27-1 and 28 amended and promulgated by Ministerial Order on June 25, 2026\r\n",
   "EngLawForeword": "",
   "EngLawArticles": [
     {
@@ -17,12 +17,12 @@
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 1",
-      "EngArticleContent": "These Regulations are established in accordance with Paragraph 4, Article 7 and Paragraph 5, Article 8 of the Occupational Safety and Health Act (the Act)."
+      "EngArticleContent": "These Regulations are established in accordance with Paragraph 4, Article 7,Paragraph 5, Article 8 and Paragraph 4, Article 9of the Occupational Safety and Health Act (the Act)."
     },
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 2",
-      "EngArticleContent": "The terms and vocabulary used in these Regulations shall be defined as follows:\r\n1. Product surveillance: for products specified in Paragraph 1 or 3, Article 7 or Paragraph 1, Article 8 of the Act, to perform inspection of sampled products, check completeness of production and distribution records and ensure consistency of safety specifications at the manufacturing stage at the production premises or warehouses.\r\n2. Market checks: for products specified in Paragraph 1 or 3, Article 7 or Paragraph 1, Article 8 of the Act, to perform product inspection or investigation at places of distribution, production premises, warehouses, working areas, business sites or other places."
+      "EngArticleContent": "The terms and vocabulary used in these Regulations shall be defined as follows:\r\n1. Product surveillance: for products specified in Paragraph 1 or 3, Article 7 or Paragraph 1, Article 8 of the Act, to perform inspection of sampled products, check completeness of production and distribution records and ensure consistency of safety specifications at the manufacturing stage at the production premises or warehouses.\r\n2. Market checks: for products specified in Paragraph 1 or 3, Article 7 or Paragraph 1, Article 8 of the Act, to perform sampling tests, inspection or investigation at places of distribution, production premises, warehouses, working areas, business sites or other places."
     },
     {
       "EngArticleType": "A",
@@ -47,7 +47,7 @@
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 6",
-      "EngArticleContent": "To monitor type-certified products, the type certification body shall assign professionals to perform the following tasks at the production premises or warehouses of the products, whereas surveillance of production processes shall only be carried out at the production premises:\r\n1.Surveillance on products: including sampling inspection and checking of the production and distribution records.\r\n2.Surveillance on production processes: including the management of raw materials and components, inspection and testing of semi-finished and final products, verification of consistency in safety specifications of products at the production premises with type-certified products.\r\nThe type certification body shall make product surveillance records of the surveillance mentioned in the preceding paragraph and maintain them properly."
+      "EngArticleContent": "To monitor type-certified products, the type certification body shall assign professionals to perform the following tasks at the production premises or warehouses of the products, whereas surveillance of production processes shall only be carried out at the production premises:\r\n1.   Surveillance on products: including sampling inspection and checking of the production and distribution records.\r\n2.   Surveillance on production processes: including the management of raw materials and components, inspection and testing of semi-finished and final products, verification of consistency in safety specifications of products at the production premises with type-certified products.\r\nThe type certification body shall make product surveillance records of the surveillance mentioned in the preceding paragraph and maintain them properly."
     },
     {
       "EngArticleType": "A",
@@ -57,7 +57,7 @@
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 8",
-      "EngArticleContent": "Under any of the following circumstances, the type certification body shall sample products on site and take them back for testing when it performs surveillance on production processes, except where it is not easy to take back the products:\r\n1.Where there are no testing facilities at the surveillance place;\r\n2.Where there are discrepancies as a result of the on-site comparison or testing; or\r\n3.Where there are doubts requiring further clarifications."
+      "EngArticleContent": "Under any of the following circumstances, the type certification body shall sample products on site and take them back for testing when it performs surveillance on production processes, except where it is not easy to take back the products:\r\n1.\tWhere there are no testing facilities at the surveillance place;\r\n2.\tWhere there are discrepancies as a result of the on-site comparison or testing; or\r\n3.\tWhere there are doubts requiring further clarifications."
     },
     {
       "EngArticleType": "A",
@@ -72,7 +72,7 @@
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 11",
-      "EngArticleContent": "For products registered at the Safety Information Reporting Website or granted certificates of type certification, manufacturers or importers shall have production and distribution documents concerning such products, such as dates of manufacture, types, specifications, quantities, dates of shipment, clients, complaints records and service records, and maintain related technical files for non-periodic checks by the central competent authority or labor inspection bodies."
+      "EngArticleContent": "For products registered at the Safety Information Reporting Website or granted certificates of type certification, manufacturers or importers shall have production and distribution documents concerning such products.\r\nThe production and distribution documents concerning products mentioned in the preceding paragraph have to include the following items.\r\n1. Dates of manufacture.\r\n2. Types, specifications, quantities.\r\n3. Dates of shipment.\r\n4. Clients.\r\n5. Complaints records and service records.\r\nManufacturers or importers shall maintain the production and distribution documents concerning products mentioned in Paragraph 1 for at least 10 years from the date the products were registered at the Safety Information Reporting Website or granted certificates of type certification and keep them available for non-periodic checks by the central competent authority or labor inspection bodies, and the retention periods of production and distribution documents concerning such products shall be extended with the extended validity period of the products as registered at the Safety Information Reporting Website or granted certificates."
     },
     {
       "EngArticleType": "C",
@@ -82,12 +82,12 @@
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 12",
-      "EngArticleContent": "The central competent authority or labor inspection body may conduct market checks as a result of any of the following reasons:\r\n1.Accusations made by informants, workers or labor groups,\r\n2.Disasters or incidents caused by products that are likely to damage the life, body, health or properties of workers, or\r\n3.Other information resources indicating that the conduction of market checks is considered necessary."
+      "EngArticleContent": "The central competent authority or labor inspection body may conduct market checks as a result of any of the following reasons:\r\n1.\tAccusations made by informants, workers or labor groups,\r\n2.\tDisasters or incidents caused by products that are likely to damage the life, body, health or properties of workers, or\r\n3.\tOther information resources indicating that the conduction of market checks is considered necessary."
     },
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 13",
-      "EngArticleContent": "The following items shall be included in market checks:\r\n1.Compliance of the product with the requirements of Paragraphs 1 and 3, Article 7,\r\n2.Compliance of the product with the requirements of Paragraph 1, Article 8,\r\n3.Compliance of the safety labels or certification labels, in terms oftheir patterns and manners of posting, with the requirements specified in the regulations,\r\n4.Completion of corrective actions within the specified time limit for violating products,\r\n5.Recall of violating products within the specified time limit, and\r\n6.Violations of laws by manufacturing and shipping out of the production premises, importing, renting, supplying or installing productsof which the registered information or type-certified qualification is cancelled, rescinded or withdrawn.\r\nThe central competent authority or labor inspection body may notify the person subject to inspection to provide certificate of type certification, test reports, technical files, testing samples or other supporting documents during market checks."
+      "EngArticleContent": "The following items shall be included in market checks:\r\n1.\tCompliance of the product with the requirements of Paragraphs 1 and 3, Article 7,\r\n2.\tCompliance of the product with the requirements of Paragraph 1, Article 8,\r\n3.\tCompliance of the safety labels or certification labels, in terms oftheir patterns and manners of posting, with the requirements specified in the regulations,\r\n4.\tCompletion of corrective actions within the specified time limit for violating products,\r\n5.\tRecall of violating products within the specified time limit, and\r\n6.\tViolations of laws by manufacturing and shipping out of the production premises, importing, renting, supplying or installing productsof which the registered information or type-certified qualification is cancelled, rescinded or withdrawn.\r\nThe central competent authority or labor inspection body may notify the person subject to inspection to provide certificate of type certification, test reports, technical files, testing samples or other supporting documents during market checks."
     },
     {
       "EngArticleType": "A",
@@ -97,12 +97,12 @@
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 15",
-      "EngArticleContent": "The central competent authority or the labor inspection body shall investigate on products that are likely to violate related regulations when it performs market checks.\r\nThe means of investigation shall be:\r\n1.To make inquiry to the person subject to inspection or related persons and request for supply of relevant supporting documents,\r\n2.To investigate at the site mentioned in subparagraph 2, Article 2 and sample products that are likely to violate related regulations for inspection, or ask the person subject to inspection to provide products that are of the same type with suspect products for testing, and\r\n3.To seal products that are likely to violate regulations, where necessary, and put the products in the custody of the person subject to inspection or deliver the products to designated places after the person subject to inspection draws up proof documents or affidavit concerning the status of these sealed products."
+      "EngArticleContent": "The central competent authority or the labor inspection body shall investigate on products that are likely to violate related regulations when it performs market checks.\r\nThe means of investigation shall be:\r\n1.\tTo make inquiry to the person subject to inspection or related persons and request for supply of relevant supporting documents,\r\n2.\tTo investigate at the site mentioned in subparagraph 2, Article 2 and sample products that are likely to violate related regulations for inspection, or ask the person subject to inspection to provide products that are of the same type with suspect products for testing, and\r\n3.\tTo seal products that are likely to violate regulations, where necessary, and put the products in the custody of the person subject to inspection or deliver the products to designated places after the person subject to inspection draws up proof documents or affidavit concerning the status of these sealed products."
     },
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 16",
-      "EngArticleContent": "The inspector when performing the investigation mentioned in the preceding Article shall make interview records on the site of investigation or designated places where the products are stored. Comments or explanations made by the person subject to inspection shall be noted in the records.\r\nThe person subject to inspection shall keep shipment-return documents for later checks when delivering products likely to violate regulations to designated places for storage.\r\nThe central competent authority, labor inspection body and type certification body mentioned in Paragraph 1, Article 8 of the Act may request assistance from the police on a case-by-case basis when situations such as evasion, impediment or refusal of investigation occur."
+      "EngArticleContent": "When conductingthe investigation mentioned in the preceding Article, the inspector shall make interview records on the site of theinvestigation or ondesignated places where the products are stored. Comments or explanations made by the person subject to inspection shall be noted in the records.\r\nThe person subject to inspection shall keep shipment-return documents for later checks when delivering products likely to violate regulations to designated places for storage."
     },
     {
       "EngArticleType": "A",
@@ -112,12 +112,12 @@
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 18",
-      "EngArticleContent": "The inspector shall make records on market checks if the person subject to inspection evade, impede or refuse checks without justified reasons.\r\nThe records mentioned in the preceding paragraph shall include the following items:\r\n1.Name, office or business place of the person subject to inspection, and the name, date of birth, gender, personal identification number and address of domicile of the responsible person or representative,\r\n2.Reasons of evasion, impediment or refusal of checks and the whole course of the situation,\r\n3.The body and person performing checks, and the time and place of checks,\r\n4.Other items for collecting evidence.\r\nWhere the information on the person subject to inspection is not available, the inspector may make inquiry to related government agencies and record it at a later time."
+      "EngArticleContent": "The inspector shall make records on market checks if the person subject to inspection evade, impede or refuse checks without justified reasons.\r\nThe records mentioned in the preceding paragraph shall include the following items:\r\n1.\tName, office or business place of the person subject to inspection, and the name, date of birth, gender, personal identification number and address of domicile of the responsible person or representative,\r\n2.\tReasons of evasion, impediment or refusal of checks and the whole course of the situation,\r\n3.\tThe body and person performing checks, and the time and place of checks,\r\n4.\tOther items for collecting evidence.\r\nWhere the information on the person subject to inspection is not available, the inspector may make inquiry to related government agencies and record it at a later time."
     },
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 19",
-      "EngArticleContent": "The central competent authority or labor inspection body findsing noncompliant products during market checks of type-certified products shall inform the type certification body that issue the certificate to investigate reasons of noncompliance, make interview reports and process the case in accordance with related requirements."
+      "EngArticleContent": "The central competent authority or labor inspection body finding noncompliant products during market checks of type-certified products shall inform the type certification body that issue the certificate to investigate reasons of noncompliance, make interview reports and process the case in accordance with related requirements."
     },
     {
       "EngArticleType": "C",
@@ -142,7 +142,7 @@
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 23",
-      "EngArticleContent": "If the products that fail inspection cannot be further modified to meet the safety standards, the obligatory applicant shall return the shipment, destroy or disassemble the products, or adopt other necessary measures within six months after receiving an a notice of noncompliance.\r\nWhen actions mentioned in the preceding paragraph are taken to dispose of products, the obligatory applicant shall apply to the central competent authority for opening the seal, or may open the seal themselves, after obtaining an approval from, and under the supervision of, the central competent authority, labor inspection body and type certification body mentioned in Paragraph 1, Article 8 of the Act.\r\nFor products that are to be returned as mentioned in the first paragraph, theobligatory applicant shall report to the central competent authority to close the case by providing documents related to export or crosschecking the information on returned shipment with the Customs within three months after the products are returned."
+      "EngArticleContent": "If the products that fail inspection cannot be further modified to meet the safety standards, the obligatory applicant shall return the shipment, destroy or disassemble the products, or adopt other necessary measures within six months after receiving an a notice of noncompliance.\r\nWhen actions mentioned in the preceding paragraph are taken to dispose of products, the obligatory applicant shall apply to the central competent authority for opening the seal, or may open the seal themselves, after obtaining an approval from, and under the supervision of, the central competent authority, labor inspection body and type certification body mentioned in Paragraph 1, Article 8 of the Act.\r\nFor products that are to be returned as mentioned in the first paragraph, theobligatoryapplicant shall report to the central competent authority to close the case by providing documents related to export or crosschecking the information on returned shipment with the Customs within three months after the products are returned."
     },
     {
       "EngArticleType": "A",
@@ -157,7 +157,7 @@
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 25",
-      "EngArticleContent": "The obligatory applicant shall observe the following requirements for imported or manufactured products that need to be returned or destroyed because they fail inspection:\r\n1.Return shipment: to provide the central competent authority with copies of export related documents to close the case or crosscheck information on return shipment with the Customs to close the case within three months after the products are returned.\r\n2.Destruction: to apply to the central competent authority by presenting a destruction plan, destroy products and request for closing the case."
+      "EngArticleContent": "The obligatory applicant shall observe the following requirements for imported or manufactured products that need to be returned or destroyed because they fail inspection:\r\n1.\tReturn shipment: to provide the central competent authority with copies of export related documents to close the case or crosscheck information on return shipment with the Customs to close the case within three months after the products are returned.\r\n2.\tDestruction: to apply to the central competent authority by presenting a destruction plan, destroy products and request for closing the case."
     },
     {
       "EngArticleType": "A",
@@ -170,6 +170,11 @@
       "EngArticleContent": "The personnel witnesses the destruction shall confirm that the products are destroyed to unusable status after completion of the destruction and note down the checks and date of destruction on the destruction report, which shall be sent to the central competent authority for closing the case. A copy of the destruction report and related documents shall be kept for subsequent checks."
     },
     {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 27-1",
+      "EngArticleContent": "The verification bodies recognized by the central competent authority which perform product surveillance and processing of noncompliant products as prescribed in Paragraph 1 or 3, Article 7 of the Act shall apply mutatis mutandis to the regulations related to type certification body in Chapter 2 and 4."
+    },
+    {
       "EngArticleType": "C",
       "EngArticleNo": "",
       "EngArticleContent": "   Chapter 6 Others"
@@ -177,7 +182,7 @@
     {
       "EngArticleType": "A",
       "EngArticleNo": "Article 28",
-      "EngArticleContent": "These Regulations shall take effect on January 1, 2015."
+      "EngArticleContent": "These Regulations shall take effect on January 1, 2015.\r\nThe amended articles of the Regulations shall take effect on July 1, 2026."
     }
   ]
 }
