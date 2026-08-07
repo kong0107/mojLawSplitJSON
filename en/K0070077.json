@@ -1,0 +1,168 @@
+{
+	"pcode": "K0070077",
+	"LawLevel": "命令",
+	"EngLawName": "The Regulation Governing the Handling of Investigation Procedures for Marine Occurrence",
+	"name": "重大水路事故調查作業處理規則",
+	"EngLawModifiedDate": "20250529",
+	"histories": [
+		"24 clauses established and promulgated on February 26, 2020",
+		"Amendment to Article 2 promulgated on June 1, 2023",
+		"Amendment to Article 2,4,9 promulgated on May 29, 2025"
+	],
+	"divisions": [
+		{
+			"type": "chapter",
+			"number": 100,
+			"title": "General Principles",
+			"start": 100,
+			"end": 300
+		},
+		{
+			"type": "chapter",
+			"number": 200,
+			"title": "Reporting of Major Marine Occurrences",
+			"start": 400,
+			"end": 400
+		},
+		{
+			"type": "chapter",
+			"number": 300,
+			"title": "Determination of Major Marine Occurrences",
+			"start": 500,
+			"end": 700
+		},
+		{
+			"type": "chapter",
+			"number": 400,
+			"title": "On-Scene Conduct",
+			"start": 800,
+			"end": 1400
+		},
+		{
+			"type": "chapter",
+			"number": 500,
+			"title": "Investigation of Major Marine Occurrences",
+			"start": 1500,
+			"end": 1900
+		},
+		{
+			"type": "chapter",
+			"number": 600,
+			"title": "Interviews",
+			"start": 2000,
+			"end": 2100
+		},
+		{
+			"type": "chapter",
+			"number": 700,
+			"title": "Draft Final Report Review and Safety Recommendations",
+			"start": 2200,
+			"end": 2300
+		},
+		{
+			"type": "chapter",
+			"number": 800,
+			"title": "Supplementary Provisions",
+			"start": 2400,
+			"end": 2400
+		}
+	],
+	"articles": [
+		{
+			"number": 100,
+			"content": "The Regulation is prescribed pursuant to Article 38 of the Transportation Occurrence Investigation Act (hereinafter referred to as the “Act.”) and shall apply to the investigations of major marine occurrences."
+		},
+		{
+			"number": 200,
+			"content": "The terms applied in the Regulation are defined as follows:\r\n1.\tMajor marine Occurrences: Any occurrence classified as specified within the Scope of Major Transportation Occurrences prescribed pursuant to Paragraph 2, Article 2 of the Act.\r\n2.\tShip: a power-driven vessel that carries persons or cargo on or in the water, including passenger ships, cargo ships, fishing vessels, special-purpose vessels, yachts, and powerboats, but excludes the following:\r\n(1) Naval vessels.\r\n(2) Ships of less than 300 gross tonnage (GT) carrying no passengers.\r\n3.\tDeath: Personnel death during the occurrence of the ship or within 30 days of the occurrence of the ship that is not attributable to natural causes, their behavior, actions of ship intruders, or stowing away in non-passenger or non-crew compartments.\r\n4.\tInjury: Personnel experiencing limited mobility for more than 72 hours within 7 days of the occurrence of the ship not because of natural causes, their behavior, actions of ship intruders, or stowing away in non-passenger or non-crew compartments.\r\n5.\tSubstantial damage: Total loss of the marine infrastructure and ships or damage that causes the following:\r\n(1)significantly affects the structural integrity, performance, or operational characteristics of marine infrastructure or a ship;\r\n(2)requires major repair or replacement of major components.\r\n6.\tMissing: a situation in which the Taiwan Transportation Safety Board (hereinafter referred to as the “TTSB”) has determined that the search has been terminated, and neither the persons nor the ship or its wreckage have been located.\r\n7.\tSubstantially interested State: a flag State of any ship involved in a major marine occurrence, a coastal State, the State whose environment has suffered significant adverse effects, the State of nationality of any deceased or injured persons, the State in possession of important information relevant to the investigation, and any other State having a substantial interest.\r\n8.\tAccredited representative: an individual appointed and authorized by the government of a Substantially Interested State, following a major marine occurrence, to lead one or more advisors from that State to assist the investigation conducted by the State of Occurrence or by a State delegated by the State of Occurrence.\r\n9.\tDuty Officer: A Taiwan Transportation Safety Board (TTSB) investigator assigned to 24-hour shifts responsible for receiving and notifications of reporting major marine occurrences.\r\n10.\tOn-Scene Investigator: A marine safety investigator designated by the TTSB upon notification of a major or suspected major marine occurrence, responsible for leading the on-scene team in the on-site determination of a major marine occurrence and investigation-related operations, and whose mission shall terminate upon the appointment of an Investigator-in-Charge.\r\n11.\tOn-Scene Team: An ad hoc group of TTSB investigators assembled to conduct on-site determination, documentation, and data collection in response to a major marine occurrence.\r\n12.\tInvestigator-in-Charge: A marine safety investigator designated by the TTSB in accordance with the Act to lead and manage the investigation of a major marine occurrence, and to appoint and establish the investigation task force; and direct major relevant investigations.\r\n13.\tInvestigation Task Force: An investigation team established by the Investigator-In- Charge pursuant to the Act, which shall, during the investigation, submit to the direction of the Investigator-In-Charge in conducting relevant operations.\r\n14.\tInvestigation Command Post: A facility established to provide command, control, communication, and logistic support to facilitate on-site investigation, as well as to host meetings and briefings for the investigation task force.\r\n15.\tVoyage Data Recorder (VDR): A device that records shipboard systems, performance, environmental parameters, and bridge audio."
+		},
+		{
+			"number": 300,
+			"content": "After a major marine occurrence referred to in Paragraph 3, Article 6 of the Act occurs outside the territory of the Republic of China (Taiwan), upon invitation by the investigating authority of the State of Occurrence, the TTSB shall immediately designate an accredited representative and may invite the owner of the ship, the operator of the ship, the designer of the ship, the manufacturer of the ship, the classification society of the ship, and personnel of the Maritime and Port Bureau, Ministry of Transportation and Communications (hereinafter referred to as the “MPB”) to form a team to participate in the investigation."
+		},
+		{
+			"number": 400,
+			"content": "Following the occurrence of a major marine occurrence or a suspected major marine occurrence referred to in Article 6 of the Act, the shipowner or its agent, the ship operator, the master, the powerboat master, the local government of the area of the occurrence, the authority responsible for the scene of the occurrence, the port management authorities (agencies), the MPB, the Coast Guard Administration of the Ocean Affairs Council (hereinafter referred to as the “CGA”), the National Science and Technology Council (“NSTC”), the Ministry of Education (“MOE”), and the Ministry of Agriculture (“MOA”) shall, within the time limit prescribed in Article 9 of the Act, promptly notify the TTSB duty officers by telephone on present situations of the occurrence, fill out the major marine occurrence report form, and send the form to the TTSB by fax or email.\r\nA major marine occurrence or a suspected major marine occurrence includes the occurrence of any of the following events:\r\n1. death to person.\r\n2. total loss of the ship or vessel.\r\n3. injuries to ten or more persons.\r\n4. any person reported missing\r\n5. abandonment or disappearance of the ship or vessel.\r\n6. where the crew members directly responsible for the safe operation of the ship or vessel are incapacitated, thereby endangering the safety of persons, property, or the environment.\r\n7. failure or malfunction of critical equipment or systems on board the ship or vessel, resulting in danger to persons, property, or the environment.\r\n8. any event requiring emergency action to prevent a major marine casualty.\r\n9. where the ship or vessel sinks, capsizes, floods, runs aground, collides or comes into contact with another ship or vessel, catches fire, or explodes.\r\n10. where the cargo falls overboard, shifts, or liquefies, thereby affecting the seaworthiness of the ship or vessel.\r\n11. accidental release of hazardous or radioactive substances on board that warrants a report in accordance with the applicable provisions of the International Maritime Dangerous Goods Code.\r\n12. significant environmental impact or leakage of more than one hundred metric tons of residual oil from the ship or vessel.\r\n13. substantial damage to the ship or vessel or waterway infrastructure, or where there is sufficient reason to believe that the ship or vessel or the waterway infrastructure has sustained substantial damage."
+		},
+		{
+			"number": 500,
+			"content": "Upon receipt of a notification, where the TTSB deems it necessary, it may designate an on-scene investigator to lead the on-scene team to the scene of the occurrence to perform actions necessary for determining the occurrence, including securing evidence and witnesses. The shipowner, the ship operator, the local government of the area of the occurrence, the authority responsible for the scene of the occurrence, the port management authorities (agencies), the MPB, or the CGA shall provide necessary assistance to the on-scene investigator in performing his or her duties."
+		},
+		{
+			"number": 600,
+			"content": "The TTSB shall, based on the contents of the notification and the information gathered by the on-scene team, determine whether the reported event constitutes a major marine occurrence. Where necessary, the TTSB may form a review board to review the disputes arising out of the determination."
+		},
+		{
+			"number": 700,
+			"content": "The TTSB may terminate an ongoing investigation after deliberating its feasibility."
+		},
+		{
+			"number": 800,
+			"content": "Members of the on-scene team and the investigation task force shall carry and present the investigator identification card issued by the TTSB, when entering the scene of the occurrence, wreckage search area, wreckage storage area, reconstruction area, investigation command post, port area, and other restricted areas related to the occurrence."
+		},
+		{
+			"number": 900,
+			"content": "Following a major marine occurrence, the shipowner, the ship operator, the local government of the area of the occurrence, the authority responsible for the scene of the occurrence, the port management authorities (agencies), the MPB, the CGA, the MOI, the Ministry of National Defense (“MND”), the NSTC, the MOE, and the MOA shall, in addition to assisting with the investigation and handling tasks designated by the investigation task force, provide assistance within their respective authorities in the following matters:\r\n1. collection of information on fatalities and injuries.\r\n2. collection of information on damage to the ship.\r\n3. collection of information on the scene of the major marine occurrence.\r\n4. alcohol and drug testing of crew members.\r\n5. assistance with locating and recovering the VDR and other shipboard recording devices.\r\n6. collection of contact information for crew members and witnesses at the scene, and recording of their statements.\r\n7. transporting evidence items and performing aerial reconnaissance, and\r\n8. collect other information that may facilitate the investigation."
+		},
+		{
+			"number": 1000,
+			"content": "Following a major marine occurrence, the local government of the area of the occurrence, the authority responsible for the scene of the occurrence, the port management authorities (agencies), the MPB, or the CGA shall, without prejudice to their statutory duties, provide the necessary venues, communication, and office equipment for the operations of the investigation command post and for the temporary storage of the wreckage of the ship.\r\nThe TTSB may request the port management agencies and police authorities to take necessary security and precautionary measures on-site to prevent wreckage of the ship or hazardous materials on board from endangering the public and to preserve the integrity of the scene."
+		},
+		{
+			"number": 1100,
+			"content": "In accordance with Paragraph 2, Article 12 of the Act, the ship operator or the master shall, as soon as practicable after the occurrence of a major marine occurrence or a suspected major marine occurrence, download the data from the VDR to ensure the integrity of the relevant data."
+		},
+		{
+			"number": 1200,
+			"content": "During the investigation, the MOI, the MND, the MOTC, the Ocean Affairs Council, and local governments, or any other civilian enterprises deemed appropriate and entrusted by the TTSB may, as requested by the investigation task force, take such measures as aerial surveillance or photography, and notify the TTSB promptly of any information so collected."
+		},
+		{
+			"number": 1300,
+			"content": "Following a major marine occurrence, in order to prevent secondary disasters, the investigation task force may request the Ministry of Economic Affairs, the MOTC, and the MND to provide layouts of public gas and fuel lines, diagrams of power transmission lines, markings information, and any other necessary data and charts to prevent derivative hazards."
+		},
+		{
+			"number": 1400,
+			"content": "If any of the following situations is likely to occur, the authorities (agencies) responsible for the scene of the occurrence and the TTSB may, in accordance with Article 13 of the Act, permit necessary clearance operations at the scene of a major marine occurrence:\r\n1. secondary damage to the wreckage(s).\r\n2. occurrence of secondary disasters.\r\n3. injury to the general public.\r\n4. environmental pollution, or\r\n5. disruption of port or waterway operations."
+		},
+		{
+			"number": 1500,
+			"content": "When a major marine occurrence mentioned in Paragraph 1, Article 6 of the Act arises, the TTSB shall inform the Substantially Interested State(s) as soon as possible."
+		},
+		{
+			"number": 1600,
+			"content": "The Investigator-in-Charge in implementing Article 11 of the Act, shall invite an investigation team composed of representatives and experts from the following authorities (agencies) to join the investigation task force if he or she deems it necessary:\r\n1. the MPB.\r\n2. authorities (agencies) related to the occurrence.\r\n3. the shipowner or the ship operator.\r\n4.the marine occurrence investigation authority of a Substantially Interested State(s).\r\n5. any other professional organization related to marine safety.\r\nNeither attorneys nor representatives from insurance companies may participate in the investigation task force."
+		},
+		{
+			"number": 1700,
+			"content": "If any person participating in the investigation pursuant to the preceding article fails to comply with the directions of the Investigator-in-Charge or breaches the confidentiality undertaking, the Investigator-in-Charge may suspend his or her participation in the investigation task force."
+		},
+		{
+			"number": 1800,
+			"content": "In accordance with Article 20 of the Act, the accredited representative(s) from the marine occurrence investigation authority of a Substantially Interested State may, upon making a written confidentiality commitment and obtaining consent from the Investigator-in-Charge, engage in the following tasks:\r\n1. visit the scene of the occurrence;\r\n2. examine the wreckage of the ship;\r\n3. obtain statements and submit questions for the questioning of witnesses;\r\n4. examine relevant evidence;\r\n5. receive copies of pertinent documents;\r\n6. participate in the read-outs of the VDR;\r\n7. participate in off-scene investigation activities, such as component examinations, technical briefings, tests, and simulations;\r\n8. participate in progress meetings including analysis reports, findings, causal factors, and safety recommendations; and\r\n9. provide recommendations regarding various aspects of the investigation."
+		},
+		{
+			"number": 1900,
+			"content": "In accordance with Article 14 of the Act, the TTSB may take priority custody of relevant evidence. During the investigation, the TTSB may return any evidence no longer required for investigative purposes to the relevant authorities (agencies).\r\nUpon publication of the Final Report, the TTSB shall promptly return the ship, wreckage, documents, manuals, and other relevant evidence to the authorities (agencies) concerned.\r\nWhere a major marine occurrence involves death or personal injury, the TTSB shall not return the relevant evidence to the authorities (agencies) concerned without the consent of the prosecutorial authority."
+		},
+		{
+			"number": 2000,
+			"content": "Prior to an interview, an interviewee may request to be accompanied by a person during the interview. Unless permitted by the TTSB, no supervisor, employer, attorney, insurance agent of the interviewee may accompany the interviewee.\r\nThe person accompanying the interviewee may not enter the interview site before committing to non-disclosure of the questions asked and answers given in the interview and noninterference with the interview.\r\nDuring the interview, the interviewee shall answer truthfully to all questions posed by the TTSB investigation task force. The accompanying person may not make any statements, interfere with, or interrupt the interview; however, the interviewee may consult with the accompanying person regarding the questions.\r\nPrior to the interview, the supervisor or employer of the interviewee shall not attempt to influence the interviewee's statement or interfere with the interview in any manner.\r\nOnly persons permitted by the investigation task force may enter the interview site.\r\nAfter the interview, the interviewee shall not disclose the content of the interview to any third party."
+		},
+		{
+			"number": 2100,
+			"content": "Where the audio recordings, transcripts of interviews, or any restricted documents are subject to Article 21, Article 22 of the Act or any subparagraph under Paragraph 1,Article 18 of the Freedom of Government Information Law, their public disclosure shall be restricted."
+		},
+		{
+			"number": 2200,
+			"content": "In accordance with Paragraph 3, Article 24 of the Act, all relevant domestic and foreign authorities (agencies), as well as any entities being under investigation, are entitled to file an application in writing within 15 days of receipt of the draft Final Report to present their comments on the report at a TTSB board meeting."
+		},
+		{
+			"number": 2300,
+			"content": "Where a major marine occurrence involving an ROC-registered ship is subject to an investigation led by a foreign marine accident investigation authority, the relevant authorities (agencies) shall, within ninety (90) days of receipt of the safety recommendations forwarded by the TTSB from such foreign marine accident investigation authority, advise the TTSB of the corrective actions taken or under consideration. Where implementation is impracticable, the reasons therefor shall also be stated.\r\nFor the purpose of enhancing marine safety, the TTSB may, with reference to the marine accident investigation report issued by the foreign marine accident investigation authority referred to in the preceding paragraph, issue safety recommendations to the relevant government authorities (agencies)."
+		},
+		{
+			"number": 2400,
+			"content": "These Regulations shall become effective as of the date of promulgation."
+		}
+	]
+}
