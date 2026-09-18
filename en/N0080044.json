@@ -3,14 +3,15 @@
 	"LawLevel": "命令",
 	"EngLawName": "Regulations for Implementing and Rewarding Skills Competition",
 	"name": "技能競賽實施及獎勵辦法",
-	"EngLawModifiedDate": "20220928",
+	"EngLawModifiedDate": "20260722",
 	"histories": [
-		"Promulgated pursuant to order Lao-Chung-Si-Zhi No. 1010400279 dated 8 August 2012",
-		"Amended and promulgated Articles 5, 8, 10, 12, 17, 51 and 57 by the Ministry of Labor on 31 Octobers, 2014 under La Dong Fa Neng No.10318060941, and implemented on the same day.",
-		"Amended and promulgated Articles 2, 10, 12, 13, 14, 15, 17, 27, 28, 31, 41, 48, 53 and 55-1 by the Ministry of Labor on 19 October, 2017 under Lao- Dong- Fa- Neng No. 1060519287 .",
-		"Amended and promulgated Articles 2,5,6,8,12,17,23,25,26,26-1,27,27-1, 28,49,50,51,52, 53 and 57 by the Ministry of Labor on 6 June, 2019 under Lao- Dong- Fa- Neng No. 1080506734 .",
+		"Promulgated pursuant to the Council of Labor Affairs, Executive Yuan, Order Lao-Chung-Si-Zhi No. 1010400279 dated August 8, 2012; implemented on September 1, 2012.",
+		"Articles 5, 8, 10, 12, 17, 51 and 57 amended and promulgated pursuant to the Ministry of Labor Order Lao-Dong-Fa-Neng No. 10318060941 dated October 31, 2014; implemented on the same day.",
+		"Articles 2, 10, 12, 13, 14, 15, 17, 27, 28, 31, 41, 48, 53 and 55-1 amended and promulgated pursuant to the Ministry of Labor Order Lao-Dong-Fa-Neng No. 1060519287 dated October 19, 2017.",
+		"Articles 2, 5, 6, 8, 12, 17, 23, 25, 26, 27, 28, 49~53, and 57 amended and promulgated pursuant to the Ministry of Labor Order Lao-Dong-Fa-Neng No. 1080506734 dated June 6, 2019; Articles 26-1 and 27-1 added; implemented on the same day except for Articles 2, 26-1, 27-1 and 51, which shall be implemented on April 1, 2019.",
 		"Articles 2, 26, 26-1, 51, and 52 amended and promulgated pursuant to the Ministry of Labor Order Lao-Dong-Fa-Neng No. 10805176431 dated December 9, 2019.",
-		"Amended and promulgated Articles 28, 51, 52 and 57 by the Ministry of Labor on September 28, 2022 under Lao-Dong-Fa-Neng-Zi-1110521196. Article 55-2 has been added. The amendments to Articles 51 and 52 shall be implemented on April 1, 2022; the remaining amendments shall be implemented on the promulgation date."
+		"Amended and promulgated Articles 28, 51, 52 and 57 by the Ministry of Labor on September 28, 2022 under Lao-Dong-Fa-Neng-Zi-1110521196. Article 55-2 has been added. The amendments to Articles 51 and 52 shall be implemented on April 1, 2022; the remaining amendments shall be implemented on the promulgation date.",
+		"Amended and promulgated Articles 43, 44 and 45 by the Ministry of Labor on July 22, 2026 under Lao-Dong-Fa-Neng-Zi-1150510572. Article 46-1 has been added. Article 46 has been deleted."
 	],
 	"divisions": [
 		{
@@ -53,7 +54,7 @@
 			"number": 600,
 			"title": "Dispute Resolution",
 			"start": 4300,
-			"end": 4600
+			"end": 4601
 		},
 		{
 			"type": "chapter",
@@ -249,19 +250,23 @@
 		},
 		{
 			"number": 4300,
-			"content": "If the competitor deems that there is any dispute during competition, it shall be immediately raised with the Experts for handling. Any dispute raised after the completion of the competition will not be accepted."
+			"content": "If the competitor deems that there is any dispute during the competition, the competitors shall immediately raise the dispute with the Experts for resolution. The competitor who does not accept the result of such resolution shall immediately raise an objection to the organizer. The organizer shall convene a meeting immediately to handle the dispute and make a record.\r\nAny objection raised after the completion of the competition will not be accepted."
 		},
 		{
 			"number": 4400,
-			"content": "If the competitor has any objection to the results of competition, the competitor himself/herself shall file an objection in writing, specifying the title of the job category, name, date of birth, gender, ID number, domicile and issue with the organizer within three hours upon publication of the results. Any delayed submission after the specified time will not be accepted."
+			"content": "Any competitor who has objections to the competition results and is under any of the following circumstances shall file an appeal with the organizer within three hours upon the publication of the competition results:\r\n1.Objection to the competition results.\r\n2.Alleged misconduct of the Experts that affects the competition results.\r\n3.Other disputes sufficient to affect the rights and interests of the competitor.\r\nThe appeal mentioned in the preceding paragraph shall be submitted in writing by the competitor himself/herself or his/her legal representative, specifying the name of the skill, the competitor’s name, date of birth, gender, ID number, domicile, and grounds of the appeal."
 		},
 		{
 			"number": 4500,
-			"content": "To handle disputes during the competition period, objections to results raised by competitors after the competition and any mistake by the Experts, the central competent authority or the organizer may convene a meeting of the Technical Dispute Committee ."
+			"content": "Upon receiving the appeal mentioned in the preceding Article, the organizer shall report it to the central competent authority for handling within seven days.\r\nIf the appeal mentioned in the preceding Article is submitted after the specified time limit, the central competent authority shall not accept it.\r\nThe central competent authority shall make an appeal decision within forty-five days from the date of receiving the appeal materials referred to in Paragraph 1, and notify the appellant.\r\nWhere the grounds of the appeal accepted by the central competent authority involve highly technical or professional matters, it may convene a meeting and invite relevant professionals for consultation.\r\nAn appellant who does not accept the appeal decision mentioned in Paragraph 3 may file an administrative appeal in accordance with the law."
 		},
 		{
 			"number": 4600,
-			"content": "The decision made by the Technical Dispute Committee shall be delivered to the applicant in writing by the central competent authority or the organizer."
+			"content": "(Deleted)"
+		},
+		{
+			"number": 4601,
+			"content": "The skills competition referred to in Subparagraphs 4 to 6 of Paragraph 1 of Article 2 shall be conducted in accordance with the regulations of the respective international organizations or international competitions, and the provisions of this Chapter shall not apply."
 		},
 		{
 			"number": 4700,
