@@ -3,10 +3,11 @@
 	"LawLevel": "命令",
 	"EngLawName": "Regulations for Rewarding Informants in Cases Involving False Labeling of Origin of Goods by Exporters/Importers",
 	"name": "出進口人產地標示不實案件檢舉處理及獎勵辦法",
-	"EngLawModifiedDate": "20231115",
+	"EngLawModifiedDate": "20260721",
 	"histories": [
 		"Promulgated on 21 February 2020 and effective on 21 February 2020",
-		"Amendment of the full text for 7 Articles promulgated on November 15, 2023"
+		"Amendment of the full text for 7 Articles promulgated on November 15, 2023",
+		"Amendment of the full text for 9 Articles promulgated on July 21, 2026"
 	],
 	"articles": [
 		{
@@ -19,22 +20,30 @@
 		},
 		{
 			"number": 300,
-			"content": "The informant may report behavior involving the false labeling of origin of goods by exporters/importers to the TITA by means of written communication, including email and fax. The report shall include the following information:\r\n1. The whistleblower's name, national identification number, address, and telephone number.\r\n2. The informant's name, national identification number and address, or other identifiable information. If the violator is a juristic person, the name and address of the entity, as well as the name of the representative shall be provided.\r\n3. Specifics about the violation, including the means of violation, other relevant information, or any leads that may help the investigation."
+			"content": "The informant may report behavior involving the false labeling of origin of goods by exporters/importers to TITA by means of written communication, including email and fax. The report shall include the following information:\r\n1. The informant’s name, national identification number, address, and telephone number.\r\n2. The violator’s name, national identification number, and address, or other identifiable information. If the violator is a juristic person, the name and address of the entity, as well as the name of the representative shall be provided.\r\n3. Specifics about the violation, including the means of violation, other relevant information, or any leads that may help the investigation."
 		},
 		{
 			"number": 400,
-			"content": "No reward shall be granted if the report involves any of the following circumstances：\r\n1. The report is made anonymously or under an alias.\r\n2. No evidence is found based on the reported violation or the evidence does not match the report.\r\n3. The competent authorities or other government agencies were already aware of the violation prior to the report.\r\n4. Cases that have been published on the internet, newspapers, magazines, radio, television, other media, or public places.\r\n5. Cases discovered while on-duty public servants were carrying out their regular duties."
+			"content": "No reward shall be granted if the report involves any of the following circumstances:\r\n1. The report is made anonymously or under an alias.\r\n2. No evidence is found based on the reported violation or the evidence does not match the report.\r\n3. The competent authorities or other government agencies were already aware of the violation prior to the report.\r\n4. Cases that have been published on the internet, newspapers, magazines, radio, television, other media, or public places.\r\n5. Cases discovered while on-duty public servants were carrying out their regular duties."
 		},
 		{
 			"number": 500,
-			"content": "The MOEA and TITA shall keep the informant’s name, national identification number, address, telephone number, and other identifiable information confidential."
+			"content": "The MOEA and TITA shall keep the informant’s name, national identification number, address, telephone number, and other identifiable information confidential.\r\nThe reports or other documents provided by the informant shall be kept as confidential files, and no third party shall be allowed to read or copy them."
 		},
 		{
 			"number": 600,
-			"content": "Once the reported violation is substantiated by the TITA , the MOEA shall reward the informant with an award certificate.\r\nIf a severe violation results in the TITA nullifying a company's export/import registration, the MOEA shall reward the informant with a trophy."
+			"content": "Once the reported violation is verified by TITA and the administrative penalty has been determined, the informant shall be granted a monetary reward equivalent to twenty percent (20%) of the actual fine collected.\r\nThe total amount of monetary rewards received by an informant in the same calendar year shall not exceed NT$1,800,000."
 		},
 		{
 			"number": 700,
+			"content": "When two or more persons jointly report the same case, the reward shall be distributed equally among them.\r\nWhen two or more persons report the same case separately, the reward shall be granted to the person who reported the case first. If it is impossible to determine who reported it first, the reward shall be distributed equally."
+		},
+		{
+			"number": 800,
+			"content": "The monetary rewards stipulated under these Regulations shall be covered by the annual budget allocated to TITA."
+		},
+		{
+			"number": 900,
 			"content": "These Regulations shall enter into force from the date of promulgation."
 		}
 	]
