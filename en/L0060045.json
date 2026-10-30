@@ -1,0 +1,143 @@
+{
+  "LawLevel": "命令",
+  "EngLawName": "Regulations on the Management of Non-Specific Use of National Health Insurance Data",
+  "LawName": "全民健康保險資料特定目的外利用管理辦法",
+  "EngLawURL": "https://law.moj.gov.tw/Eng/LawClass/LawAll.aspx?pcode=L0060045",
+  "EngLawModifiedDate": "20260807",
+  "EngLawAbandonNote": "",
+  "EngLawAttachements": [],
+  "EngLawHistories": "1.Promulgated on August 7,2026, in accordance with the Ministry of Health and Welfare Order Wei-Pu-Pao-Tzu No. 1151260383. Promulgation shall take effect on August 10,2026.",
+  "EngLawForeword": "",
+  "EngLawArticles": [
+    {
+      "EngArticleType": "C",
+      "EngArticleNo": "",
+      "EngArticleContent": "   Chapter 1 General Principles"
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 1",
+      "EngArticleContent": "The Regulations on the Management of Non-Specific Use of National Health Insurance Data (hereinafter referred to as the “Regulations”) are promulgated pursuant to the provisions of Paragraph 3 of Article 6; Paragraph 4 of Article 11; Paragraph 2 of Article 12; Paragraph 2 of Article 13; and Paragraph 4 of Article 17 of the National Health Insurance Data Management Act (hereinafter referred to as the “Act”)."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 2",
+      "EngArticleContent": "National Health Insurance (hereinafter referred to as “NHI”) data for which an application is submitted to the competent authority or the NHI insurer (hereinafter referred to as the “Insurer”) under Article 11, Paragraph 1 of the Act for use for purposes other than the specified purposes shall be classified into the following levels:\r\n1. Level 1 Data: Personal data of NHI beneficiaries related to their medical treatment, medication records, medical images, pathology reports, examination and test results, major illnesses and injuries, and other medical services.\r\n2. Level 2 Data: Personal data of NHI beneficiaries related to their insurance status, insured amount, and other matters concerning their insurance coverage.\r\n3. Level 3 Data: Data on NHI-contracted medical care institutions, data on NHI-covered pharmaceutical items or their prices, and other non-personal data that cannot be used to directly or indirectly identify specific individuals.\r\nThe competent authority or the Insurer shall, pursuant to Paragraph 1 of Article 16 of the Act, make publicly available a list of the data types and levels under the preceding paragraph available for use for purposes other than the specified purposes."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 3",
+      "EngArticleContent": "Pursuant to Paragraph 2 of Article 6 of the Act, the Insurer shall pseudonymize NHI data in accordance with the following procedures and operational methods:\r\n1. NHI data shall be processed or transformed through algorithmic or other methods to pseudonymize information that could be used to directly identify data subjects so that the identity of the data subjects cannot be identified without cross-referencing the data with other information.\r\n2. The additional information necessary to identify data subjects shall be stored separately from the pseudonymized data referred to in the preceding subparagraph. Appropriate segregation and security control measures shall be adopted, and dedicated personnel shall be assigned to manage such information.\r\n3. The pseudonymized data processed in accordance with the preceding two subparagraphs shall be encrypted and transmitted through a dedicated network or other secure means to the information system designated by the competent authority.\r\nThe competent authority shall make the pseudonymized data referred to in Subparagraph 1 of the preceding paragraph available for use for purposes other than the specified purposes within the secure operating environment referred to in Article 14, Paragraph 1."
+    },
+    {
+      "EngArticleType": "C",
+      "EngArticleNo": "",
+      "EngArticleContent": "   Chapter 2 Applications, Reviews, and Requests for Reconsideration"
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 4",
+      "EngArticleContent": "The qualifications of medical care institutions, academic research institutions, universities, and government-commissioned universities, legal persons, or institutions that apply for NHI data usage purposes other than the specific purposes, as prescribed in Paragraph 1 of Article 11 of the Act, shall be as follows:\r\n1. Medical care institutions: Teaching hospitals and medical care institutions with special expertise that have been approved by the competent authority or the Insurer.\r\n2. Academic research institutions: Legal persons or institutions established or registered in accordance with the law whose principal activity is academic research.\r\n3. Universities: Universities established in accordance with the law, and military or police academies offering university-level education.\r\n4. Government-commissioned universities, legal persons, or institutions:\r\n(1) Universities: Those meeting the requirements set forth in the preceding subparagraph.\r\n(2) Legal persons: Foundations and non-profit incorporated associations established in accordance with the law.\r\n(3) Institutions: Medical care institutions meeting the requirements set forth in Subparagraph 1 and academic research institutions meeting the requirements set forth in Subparagraph 2."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 5",
+      "EngArticleContent": "Government agencies or institutions, administrative corporations, and the medical care institutions, academic research institutions, universities and government-commissioned universities, legal persons, or institutions referred to in the preceding article (hereinafter collectively referred to as “Applicant”) that apply, pursuant to Paragraph 1 of Article 11 of the Act, to use NHI data for purposes other than the specific purposes shall complete an application form and submit it, together with the proposed plan and relevant documents and information, to the competent authority or the Insurer. The Applicant may commence the requested use only after the application has been approved and the fees prescribed by the competent authority or the Insurer have been paid.\r\nThe application form referred to in the preceding paragraph shall include the following:\r\n1. Applicant information: The name and address of the Applicant, the name and contact information of the Applicant’s representative or contact person, and other relevant information.\r\n2. Personnel responsible for implementing the plan: Their names, the institutions to which they belong, National Identification Card numbers, and other relevant information.\r\n3. Summary of the research plan: The title of the plan, purpose of use, necessity, duration of the plan, expected benefits, and other relevant matters.\r\n4. Data to be used for research: The period of use, data type classifications and levels, and other relevant matters.\r\nThe plan referred to in Paragraph 1 shall include the purpose of the application, implementation methods, a list of the scope of the data as well as type classifications and levels proposed for use, methods of use, anticipated outcomes, potential risks anticipated during the period of data usage, risk control and security maintenance measures, and other matters designated by the competent authority or the Insurer.\r\nThe application referred to in Paragraph 1 shall be accompanied by documentary proof certifying that the human research or human subject trial plan has been reviewed and approved by a human research ethics committee or institutional review board, together with the corresponding review documents."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 6",
+      "EngArticleContent": "Where the application documents or information referred to in Paragraph 1 of the preceding article are incomplete but may be supplemented, the competent authority or the Insurer shall notify the Applicant to supplement them before a specified deadline. If the Applicant fails to do so before the specified deadline, or if the supplemented documents or information remain non-compliant, the application shall not be accepted."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 7",
+      "EngArticleContent": "The review committee prescribed in Paragraph 3 of Article 11 of the Act shall consist of between eleven and thirty-seven members, who shall be appointed/designated by the competent authority or the Insurer from among individuals who do not hold the status of legislators and who possess the qualifications prescribed by the Act.\r\nMembers shall attend review committee meetings personally. A meeting may be held only if more than half of all members are present, and a resolution shall require the consent of more than half of the members present.\r\nThe recusal of review committee members shall be governed by the Administrative Procedure Act.\r\nWhere necessary, review committee meetings may be conducted by videoconference."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 8",
+      "EngArticleContent": "Applications referred to in Paragraph 1 of Article 5 shall be reviewed by review committee members in accordance with the following procedures, based on the data classifications and levels prescribed in Article 2. After approval by the competent authority or the Insurer, the Applicant shall be notified in writing:\r\n1. Review by review committee members: Applications for the use of Level 3 Data shall be reviewed in writing by review committee members. However, where deemed necessary by the competent authority or the Insurer, such applications may be reviewed by a review panel or at a review committee meeting.\r\n2. Review by a review panel: Applications for the use of Level 1 or Level 2 Data, or applications deemed necessary by the competent authority or the Insurer under the proviso to the preceding subparagraph, shall be reviewed in writing by a review panel composed of a number of review committee members. A resolution shall require the consent of more than half of the panel members. However, where the competent authority or the Insurer deems it necessary, such applications may be reviewed at a review committee meeting.\r\n3. Review at a review committee meeting: Where deemed necessary by the competent authority or the Insurer under the provisos to the preceding two subparagraphs, a review committee meeting shall be convened to conduct the review.A majority of all review committee members must be present, and a resolution requires the approval of a majority of the members present."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 9",
+      "EngArticleContent": "The review referred to in the preceding article shall be conducted in accordance with the following criteria:\r\n1. The Applicant is a government agency/institution or administrative corporation, or otherwise meets the qualifications for application prescribed in Article 4.\r\n2. The data type classifications and levels, scope, and methods of use of the NHI data shall comply with the principles of feasibility and proportionality.\r\n3. The purpose of the proposed use under the plan complies with the provisions of Article 8 of the Act.\r\n4. The risk of re-identification arising from the results of the use of NHI data is within an acceptable level.\r\n5. The professional qualifications of the personnel participating in the implementation of the plan are deemed sufficient.\r\n6. The proposed use does not violate the rights and interests of others.\r\n7. The proposed use does not contravene laws or public morals.\r\n8. The proposed use is in compliance with other rules prescribed by the competent authority or the Insurer."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 10",
+      "EngArticleContent": "After an application referred to in Paragraph 1 of Article 5 has passed the review and been approved, the competent authority or the Insurer shall notify the Applicant in writing of the approved plan, the fees payable, and other relevant matters. Where the application is not approved or is only partially approved, the Applicant shall be notified in writing.\r\nThe amount of the fees payable referred to in the preceding paragraph shall be determined by the competent authority or the Insurer."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 11",
+      "EngArticleContent": "Where it is necessary to amend, modify, or extend a plan approved pursuant to Paragraph 1 of the preceding article, the Applicant shall submit an application to the competent authority or the Insurer. The provisions of Article 5 through 10 governing applications, review, and approvals shall apply mutatis mutandis.\r\nThe extension referred to in the preceding paragraph may not exceed one year and shall be limited to one time. However, this restriction shall not apply where special circumstances exist and where the extension is approved by the competent authority or the Insurer."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 12",
+      "EngArticleContent": "Where an Applicant engages in any of the situations prescribed in Article 23 of the Act, in addition to being subject to penalties in accordance with relevant provisions, the competent authority or the Insurer may order the Applicant to cease the implementation or usage of the data or make corrections before a specified deadline, and if the Applicant fails to do so before the specified deadline, the Applicant’s approval may be revoked where the circumstances are deemed serious."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 13",
+      "EngArticleContent": "Where an Applicant disagrees with the review result provided by the competent authority or the Insurer with respect to an application referred to in Paragraph 1 of Article 5 or Article 11, the Applicant may, within thirty days from the day following receipt of the written notice and together with the written notice of the original review result, the application for reconsideration, and relevant documentary proof, submit a request for reconsideration to the competent authority or the Insurer to which the original application was submitted.\r\nWhere any document or information submitted under the preceding paragraph is incomplete but may be supplemented, the competent authority or the Insurer shall notify the Applicant to supplement it before a specified deadline. If the Applicant fails to do so before the specified deadline, the request for reconsideration will be rejected.\r\nThe request for reconsideration shall be reviewed by the review committee. Where the review committee finds the request to be well-founded, the competent authority or the Insurer shall modify or revoke the original decision and notify the Applicant in writing.\r\nThe competent authority or the Insurer shall complete its review of the request for reconsideration referred to in the preceding article within sixty days from the day following receipt of the application for reconsideration. Where necessary, the review period may be extended, and the Applicant shall be notified. Such an extension shall be limited to one time and may not exceed sixty days."
+    },
+    {
+      "EngArticleType": "C",
+      "EngArticleNo": "",
+      "EngArticleContent": "   Chapter 3 Management of Data Processing and Removal"
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 14",
+      "EngArticleContent": "The use of NHI data for purposes other than the specific purposes, as applied for pursuant to Paragraph 1 of Article 11 of the Act, shall, after approval by the competent authority or the Insurer and payment of the required fees by the Applicant, be carried out  within the secure operating environment designated by the competent authority or the Insurer.\r\nFor the establishment and management of the secure operating environment referred to in the preceding paragraph, the competent authority or the Insurer shall adopt appropriate technical and organizational safeguards to monitor and control the Applicant’s data processing or usage activities."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 15",
+      "EngArticleContent": "The secure operating environment established at a designated location by the competent authority or the Insurer pursuant to Paragraph 1 of Article 13 of the Act shall be equipped with computers, information and communication systems and services, and other necessary facilities and equipment.\r\nThe secure operating environment referred to in the preceding paragraph shall meet the following requirements:\r\n1. It shall occupy a separate space equipped with access controls, video surveillance, and other physical security measures.\r\n2. It shall have mechanisms for verifying identity and access authorization.\r\n3. It shall have intrusion prevention mechanisms and data security measures.\r\n4. It shall have pseudonymized the NHI data provided for use by the Applicant.\r\n5. It shall delete, upon expiration of the period of use, the data and software brought into the secure operating environment by the Applicant during the period of use, as well as the NHI data used.\r\n6. It shall retain records of use and activity logs.\r\nThe competent authority or the Insurer shall designate relevant personnel to regularly audit matters relating to the secure operating environment referred to in the preceding paragraph."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 16",
+      "EngArticleContent": "An Applicant seeking to use the secure operating environment shall make a reservation in accordance with the methods, time, and location designated by the competent authority or the Insurer, use the environment within the reserved time, and comply with the rules governing the secure operating environment prescribed by the competent authority or the Insurer.\r\nThe rules governing the secure operating environment referred to in the preceding paragraph shall include the following:\r\n1. Prohibited conduct:\r\n(1)Eating and/or drinking.\r\n(2)Bringing in personal paper and writing instruments, mobile phones, mobile devices, cameras or video recording devices, laptop computers, USB flash drives, portable devices, and/or other storage media.\r\n(3)Carrying dangerous items.\r\n2. Required measures:\r\n(1)Activities shall be conducted within the designated work area.\r\n(2)Identification issued by the competent authority or the Insurer shall be worn at all times when entering, remaining in, or leaving the work area.\r\n(3)All personal belongings shall be placed in lockers outside the designated work area.\r\n(4)Other measures necessary to maintain the security and proper operation of the secure operating environment.\r\nWhere a person violates the rules referred to in the preceding paragraph, the competent authority or the Insurer may prohibit the offending conduct, retain items brought in contrary to the rules, or suspend the person’s use of the environment for that session."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 17",
+      "EngArticleContent": "The competent authority or the Insurer shall, in accordance with the Cyber Security Management Act and other relevant laws and regulations, implement cybersecurity maintenance measures for NHI data with usage purposes other than the specific purposes.\r\nThe cybersecurity maintenance measures referred to in the preceding paragraph shall include the following, with which personnel responsible for implementing the plan shall comply:\r\n1. Software and hardware equipment and facilities within the secure operating environment shall be properly used and may not be altered, damaged, moved, recorded, or be subjected to unauthorized acts.\r\n2. Without the consent of the competent authority or the Insurer, the following acts may not be performed:\r\n(1)Installing personally brought software or modifying the information and communication systems of the secure operating environment without authorization.\r\n(2)Comparing, linking, and/or analyzing the files and/or data provided by the competent authority or the Insurer with other files and/or data without authorization.\r\nPersonnel responsible for implementing the plan shall, in accordance with the cybersecurity maintenance requirements referred to in the preceding paragraph, be subject to an obligation of confidentiality with respect to the data they access and/or use and shall sign a confidentiality agreement. Before bringing specialized analytical software into the secure operating environment, an application form shall be completed, and the software may be brought in only after approval has been obtained from the competent authority or the Insurer."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 18",
+      "EngArticleContent": "Applicants shall carry out the use of NHI data for purposes other than the specific purposes within the secure operating environment; the NHI data covered by their applications shall not be removed from the environment without authorization.\r\nThe results obtained from the use of NHI data referred to in the preceding paragraph shall be removed in accordance with the methods designated by the competent authority or the Insurer. The competent authority or the Insurer may also provide such results by electronic transmission or other means.\r\nWhere the results obtained from the use of NHI data fall under any of the following circumstances, the Applicant may not take them out, and the competent authority or the Insurer shall not provide them:\r\n1. The results do not conform to the approved plan.\r\n2. The results contain raw data, models, and/or parameters of the original files.\r\n3. The results contain data that can be used to identify individuals.\r\nThe competent authority or the Insurer shall retain the review records of the usage results and may reproduce and retain the results obtained from such use."
+    },
+    {
+      "EngArticleType": "C",
+      "EngArticleNo": "",
+      "EngArticleContent": "   Chapter 4 Applications by Data Subjects for the Cessation of Use for PurposesOther Than the Specific Purposes"
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 19",
+      "EngArticleContent": "Pursuant to Paragraphs 1 and 2 of Article 17 of the Act, data subjects may apply to the Insurer online or in writing for the cessation of the use of the data subjects’ NHI data for purposes other than the specific purposes.\r\nAn application for the cessation of use for purposes other than the specific purposes referred to in the preceding paragraph shall be made by completing an application form and submitting documentary proof of identity. The data subject may apply for the cessation of use of all or part of the Level 1 Data or Level 2 Data prescribed in Paragraph 1 of Article 2.\r\nWhere an application referred to in Paragraph 1 falls under any of the following circumstances, it shall not be accepted, and the Insurer shall notify the data subject accordingly:\r\n1. The data covered by the application are not the NHI data prescribed in the preceding paragraph.\r\n2. The NHI data for which the cessation of use is requested do not include the data subject’s data.\r\n3. The application is not made by the data subject personally or does not comply with Paragraph 2 of Article 17 of the Act.\r\n4. Where the Insurer finds the application documents or information to be incomplete, it shall notify the data subject to supplement them before a specified deadline. If the data subject fails to do so before the specified deadline, or if the supplemented documents or information remain incomplete, the application will be rejected.\r\n5. Other laws or regulations provide otherwise.\r\nWithin thirty days from the day following the date on which the application documents and information are complete, the Insurer shall approve the application and record that the data subject’s NHI data shall not be provided for usage purposes other than the specific purposes. The Insurer shall notify the data subject or its legal representative, guardian, or assistant of the approval and record, the date of the record, and the type and scope of NHI data for which usage purposes other than the specific purposes have been recorded as ceased. Where the application is not approved, the Insurer shall also notify the relevant parties accordingly.\r\nAfter the record referred to in the preceding paragraph has been made, the data subject may apply for the resumption of data usage, with the provisions of Paragraphs 1 and 2 applying mutatis mutandis. Where the Insurer approves the resumption of data usage, it shall cancel the original record and notify the data subject or its legal representative, guardian, or assistant accordingly."
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 20",
+      "EngArticleContent": "Where an application by a data subject for the cessation of the use of NHI data for purposes other than the specific purposes, or for the resumption of such usage, is approved by the Insurer, the approval shall take effect from the day following the date on which the record is made or the original record is cancelled.\r\nThe entry or cancellation of the notation referred to in the preceding paragraph shall have no retroactive effect."
+    },
+    {
+      "EngArticleType": "C",
+      "EngArticleNo": "",
+      "EngArticleContent": "   Chapter 5 Supplementary Provisions"
+    },
+    {
+      "EngArticleType": "A",
+      "EngArticleNo": "Article 21",
+      "EngArticleContent": "These Regulations shall take effect on August 10, 2026."
+    }
+  ]
+}
