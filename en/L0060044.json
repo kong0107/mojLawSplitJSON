@@ -1,0 +1,36 @@
+{
+	"pcode": "L0060044",
+	"LawLevel": "命令",
+	"EngLawName": "Regulations Governing the Use of National Health Insurance Data by Government Agencies/Institutions and Administrative Corporations in the Performance of Statutory Duties",
+	"name": "政府機關（構）及行政法人執行法定職務利用全民健康保險資料管理辦法",
+	"EngLawModifiedDate": "20260807",
+	"histories": [
+		"Promulgated on August 7,2026, in accordance with the Ministry of Health and Welfare Order Wei-Pu-Pao-Tzu No. 1151260379. Promulgation shall take effect on August 10, 2026."
+	],
+	"articles": [
+		{
+			"number": 100,
+			"content": "Regulations Governing the Use of National Health Insurance Data by Government Agencies/Institutions and Administrative Corporations in the Performance of Statutory Duties(hereinafter referred to as the “Regulations”) are promulgated pursuant to the provisions of Paragraph 2 of Article 10 of the National Health Insurance Data Management Act (hereinafter referred to as the “Act”)."
+		},
+		{
+			"number": 200,
+			"content": "Where government agencies/institutions and administrative corporations (hereinafter collectively referred to as the “Applicant”), in the performance of their statutory duties, apply pursuant to Paragraph 1 of Article 10 of the Act for the use of National Health Insurance data (hereinafter referred to as “NHI data”) for purposes other than the specific purposes for which the data were collected (hereinafter referred to as the “specific purposes”), they shall submit a written application to the Insurer, together with any relevant documents and information, and specify the following:\r\n1. The legal basis for the use of the NHI data for uses other than the specific purposes.\r\n2. The reason and purpose for the use of the NHI data.\r\n3. The type classifications and content of the NHI data required.\r\n4. The method by which the NHI data are to be provided.\r\n5. The period of use of the NHI data.\r\n6. How the NHI data will be handled when the reason or purpose for their use no longer exists or upon expiration of the period of use.\r\n7. The method for maintaining NHI data usage records and ensuring data confidentiality.\r\n8. Any other matters designated by the Insurer.\r\nWhere the Applicant has difficulty specifying any of the matters referred to in the preceding paragraph, it may state the reasons and, if approved by the Insurer, be exempted from providing such information.\r\nWhere an application referred to in Paragraph 1 concerns NHI data not relating to specific individuals, the applicant shall submit rules governing data use and management pursuant to Article 10, Paragraph 4 of the Act."
+		},
+		{
+			"number": 300,
+			"content": "The Insurer may provide NHI data through any of the following means:\r\n1. Secure File Transfer Protocol (SFTP).\r\n2. Government Data Transmission Platform (T-Road).\r\n3. The electronic verification services of the National Health Insurance Administration, Ministry of Health and Welfare, provided through the e-Government Service Platform(WebIR).\r\n4. Electronic gateways for household registration information.\r\n5. E-mail.\r\n6. Official documents.\r\n7. Any other methods designated by the Insurer."
+		},
+		{
+			"number": 400,
+			"content": "Where the Applicant applies for the use of NHI data within a specific secure operating environment, the use of such NHI data shall be subject to the approval of the Insurer and shall be carried out within the secure operating environment designated by the Insurer.\r\nWhere the Insurer designates a secure operating environment under the preceding paragraph, it shall notify the Applicant in writing.\r\nWhere the secure operating environment designated under Paragraph 1 is established and managed by the competent authority, the Insurer shall also notify the competent authority.\r\nWhen using NHI data within a secure operating environment, the Applicant shall comply with the rules governing the secure operating environment as prescribed in Paragraph 2  of Article 13 of the Act."
+		},
+		{
+			"number": 500,
+			"content": "Applicants shall use and manage the NHI data they obtains only to the extent necessary for the purposes stated in their applications and in accordance with the laws on which their applications are based.They shall not disclose such data externally without authorization or use them for purposes other than those stated in their applications.\r\nWhere the Applicant violates these Regulations, the Insurer may refuse to provide the data and may suspend the Applicant’s use of the data. Where such a violation causes damage to others , the applicant shall be liable in accordance with law."
+		},
+		{
+			"number": 600,
+			"content": "These Regulations shall take effect on August 10, 2026."
+		}
+	]
+}
